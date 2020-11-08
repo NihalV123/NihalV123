@@ -48,12 +48,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-<!--END_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/NihalV123/hello_world/issues/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-2. 🎉 Merged PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -91,6 +86,26 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <!--START_SECTION:activity-->
 
+
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<!--
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+-->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
+
+
+
 <!--
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -112,27 +127,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 -->
-
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<!--
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
--->
-
-![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
-
-<!--START_SECTION:activity-->
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 <!--
 **NihalV123/NihalV123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
