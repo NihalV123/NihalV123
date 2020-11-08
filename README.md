@@ -47,11 +47,11 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <!--START_SECTION:activity-->
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+1. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
+2. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
-<!--
+3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 ```javascript
 const ashraf = {
     pronouns: "He" | "Him",
