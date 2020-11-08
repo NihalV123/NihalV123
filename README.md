@@ -28,6 +28,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
 
+<!--START_SECTION:activity-->
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
