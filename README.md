@@ -72,7 +72,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-563-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-633-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510945%20lines%20of%20code-blue)
 
