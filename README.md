@@ -70,6 +70,13 @@ const ashraf = {
 ```
 
 -->
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+
+<!--END_SECTION:activity-->
+
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
