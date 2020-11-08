@@ -25,7 +25,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 
-
+[![Spotify](https://nihalv123.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 <br> [![Spotify](https://nihalv123.vercel.app/api/spotify)](https://open.spotify.com/user/v204nf1jy6nur2nu21emaarx5)
 <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
