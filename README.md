@@ -5,6 +5,7 @@
 > Software Engineer Web Developer 
 <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers" alt="NihalV123" />  [![HitCount](http://hits.dwyl.com/Nihalv123/Nihalv123.svg)](http://hits.dwyl.com/Nihalv123/Nihalv123)
 <div><p>
+   <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
