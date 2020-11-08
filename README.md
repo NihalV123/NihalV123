@@ -143,7 +143,7 @@ ASP                      1 repo              █████░░░░░░�
 **Timeline**
 
 ![Chart not found](https://github.com/NihalV123/NihalV123/blob/master/charts/bar_graph.png) 
-
+<img alig src="https://github-profile-trophy.vercel.app/?username=NihalV123&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 <!--END_SECTION:waka-->
 # Blog posts
