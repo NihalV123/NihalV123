@@ -83,9 +83,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-386-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510945%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -99,45 +97,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
  > 
 > 🔑 0 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   27.34% 
-🌆 Daytime    110 commits    ██████████░░░░░░░░░░░░░░░   39.57% 
-🌃 Evening    62 commits     █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.79%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Tuesday      67 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.76% 
-Friday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.47% 
-Saturday     22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
-Sunday       75 commits     ██████░░░░░░░░░░░░░░░░░░░   26.98%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 
 ```
 
@@ -150,10 +113,6 @@ ASP                      1 repo              █████░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/NihalV123/NihalV123/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
