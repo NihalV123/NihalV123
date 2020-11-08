@@ -14,8 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY}}
           GH_TOKEN: ${{ secrets.GH_TOKEN}}
-          #WAKATIME_API_KEY: ${{ 2ea3f58a-49ff-4037-a058-a6bd3bcbdcb6 }}
-          #GH_TOKEN: ${{ c30e741e9dfbc51a73b5feacea511e456d8fff53}}
           SHOW_LINES_OF_CODE : true
           SHOW_PROFILE_VIEWS : true
           SHOW_COMMIT : true
@@ -23,10 +21,9 @@ jobs:
           SHOW_LANGUAGE : true
           SHOW_OS : true
           SHOW_PROJECTS : true
-          Timezone: Asia/Calcutta
           SHOW_EDITORS : true
           SHOW_LOC_CHART : true
-
+          SHOW_LANGUAGE_PER_REPO : true 
 
 
 
