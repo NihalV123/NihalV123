@@ -49,6 +49,20 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+
+<!--END_SECTION:activity-->
+
+
+
+
+
+
+
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
 <!--
@@ -142,6 +156,10 @@ const ashraf = {
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 -->
 </p><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--START_SECTION:activity-->
 
