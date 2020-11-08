@@ -79,6 +79,10 @@ const ashraf = {
 
 3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
+
+
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
