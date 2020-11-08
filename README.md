@@ -4,8 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Danny](https://github.com/NihalV123)
-> Software Engineer Web Developer  <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers " alt="NihalV123" />  
-[![HitCount](http://hits.dwyl.com/Nihalv123/Nihalv123.svg)](http://hits.dwyl.com/Nihalv123/Nihalv123)
+> Software Engineer Web Developer  <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers " alt="NihalV123" />  [![HitCount](http://hits.dwyl.com/Nihalv123/Nihalv123.svg)](http://hits.dwyl.com/Nihalv123/Nihalv123)
 
 
 <div>
