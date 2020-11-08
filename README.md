@@ -144,6 +144,10 @@ ASP                      1 repo              █████░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
