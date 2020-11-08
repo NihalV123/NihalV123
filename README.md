@@ -168,14 +168,13 @@ ASP                      1 repo              █████░░░░░░�
 -->
 
 ![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NihalV123&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 hfbdsufbdsbfhbdsfdsjnfjihdsibnfhdsbufhbsudbcnfuhbesdhvfgbiushb viufgsadbiundsfbsnf
-
-
-
-
-
 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -198,7 +197,6 @@ hfbdsufbdsbfhbdsfdsjnfjihdsibnfhdsbufhbsudbcnfuhbesdhvfgbiushb viufgsadbiundsfbs
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NihalV123/NihalV123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
