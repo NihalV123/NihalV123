@@ -44,14 +44,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
 
-<!--START_SECTION:activity-->
 
-
-1. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-2. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 ```javascript
 const ashraf = {
     pronouns: "He" | "Him",
@@ -73,11 +66,13 @@ const ashraf = {
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-
-<!--END_SECTION:activity-->
 
 
+1. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
+2. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
+3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
