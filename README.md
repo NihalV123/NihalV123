@@ -17,10 +17,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
--->
-
 ### Programming Languages 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
@@ -28,69 +24,22 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  | 
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |
 |
 
 
-<!--
-<p align="center">
-<a href="https://github.com/NihalV123" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.nnv.com-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nihal-vaidya-b5806b6a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nnv-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8609709/nihal-vaidya?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:nhlvcam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="mailto:nhlvcam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-=======
 
-![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
-
-<<<<<<< HEAD
-<!--START_SECTION:activity-->
-
-
-1. 🗣 Commented on [#2](https://github.com/NihalV123/hello_world/issues/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-
-2. 🎉 Merged PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-<!--END_SECTION:activity-->
-
-
-
-
-
+<h3> 🤝🏻 Connect with Me </h3>
 
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
-=======
->>>>>>> cf5f030d720ecff3fcc6f0136cbd00e851137273
 
-```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs",  "python"],
-        fronEnd: ["bootstrap"],
-        mobileApp: ["flutter","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices"],
-}
-```
-
--->
 
 <br>
 <br>
 <br>
-<br>
+
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -99,18 +48,6 @@ const ashraf = {
 3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-<!--END_SECTION:activity-->
-
-
-1. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-2. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
-
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -138,52 +75,11 @@ const ashraf = {
     </tr>
   </tbody>
 </table>
-<!--
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
-</p><br>
 
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
--->
 </p><br>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 
@@ -242,3 +138,87 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+-->
+
+
+<!--
+<p align="center">
+<a href="https://github.com/NihalV123" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.nnv.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/nihal-vaidya-b5806b6a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@nnv-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8609709/nihal-vaidya?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:nhlvcam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:nhlvcam@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+=======
+
+![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
+
+<!--
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs",  "python"],
+        fronEnd: ["bootstrap"],
+        mobileApp: ["flutter","angular"],
+        database: ["mongo","mySql"],
+        serverless: ["mongo-realm","aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices"],
+}
+```
+
+-->
+
+
+<!--
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
+</a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+</p><br>
+
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+-->
+
+
