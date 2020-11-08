@@ -25,7 +25,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
-# WATCHERS <img src="https://profile-counter.glitch.me/NihalV123/count.svg" /> Click
+# View Counter <img src="https://profile-counter.glitch.me/NihalV123/count.svg" /> 
 <details>
   <summary> to expand!</summary>
  
