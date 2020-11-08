@@ -25,9 +25,15 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
-
-
+# A collapsible section for spotify
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+</details>
+
+
 
 
 ### :zap: Recent Activity
