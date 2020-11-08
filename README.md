@@ -4,7 +4,8 @@
 </p>
 
 ### Hi there 👋 I'm [Danny](https://github.com/NihalV123)
-> Software Engineer Web Developer  <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers " alt="NihalV123" />
+> Software Engineer Web Developer  <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers " alt="NihalV123" />  
+[![HitCount](http://hits.dwyl.com/Nihalv123/Nihalv123.svg)](http://hits.dwyl.com/Nihalv123/Nihalv123)
 
 
 <div>
@@ -148,8 +149,6 @@ const ashraf = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </a></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
-[![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br>
 
 <!--
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -188,10 +187,6 @@ const ashraf = {
 
 <!--START_SECTION:activity-->
 
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
 
 <!--
