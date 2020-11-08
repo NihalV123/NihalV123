@@ -80,7 +80,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-659-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-542843%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-848871%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
