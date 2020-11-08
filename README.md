@@ -27,7 +27,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 # View Counter <img src="https://profile-counter.glitch.me/NihalV123/count.svg" /> 
 <details>
-  <summary> to expand!</summary>
+  <summary> Expand!</summary>
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
  
