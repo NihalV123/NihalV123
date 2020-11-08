@@ -44,11 +44,11 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#476](https://github.com/JessicaLim8/JessicaLim8/issues/476) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
-2. ❗️ Opened issue [#30](https://github.com/sw-yx/sw-yx/issues/30) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
-3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+1. ❗️ Opened issue [#1331](https://github.com/JonathanGin52/JonathanGin52/issues/1331) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#290](https://github.com/benjaminsampica/benjaminsampica/issues/290) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+3. ❗️ Opened issue [#7747](https://github.com/timburgan/timburgan/issues/7747) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#476](https://github.com/JessicaLim8/JessicaLim8/issues/476) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+5. ❗️ Opened issue [#30](https://github.com/sw-yx/sw-yx/issues/30) in [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
 <!--END_SECTION:activity-->
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
