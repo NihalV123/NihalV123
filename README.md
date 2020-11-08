@@ -35,7 +35,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
 
-[![Spotify](https://nihalv123.vercel.app/api/spotify)](https://open.spotify.com/user/v204nf1jy6nur2nu21emaarx5)
+[![Spotify](https://nihalv123.vercel.app/api/spotify)](https://open.spotify.com/user/Nhlvred)
 <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 ### :zap: Recent Activity
