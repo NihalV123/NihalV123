@@ -80,7 +80,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-633-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-512618%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-516415%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -90,7 +90,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories
+> 📜 21 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
