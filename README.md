@@ -26,9 +26,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
-<br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
-
 
 
 ### :zap: Recent Activity
