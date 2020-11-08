@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /><h2 align="center">Profile</h2></p>
  
-### Hi there 👋 I'm [Danny](https://github.com/NihalV123) WATCHERS <img src="https://profile-counter.glitch.me/NihalV123/count.svg" />
+### Hi there 👋 I'm [Danny](https://github.com/NihalV123) 
 > Software Engineer Web Developer 
 <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers" alt="NihalV123" />  [![HitCount](http://hits.dwyl.com/Nihalv123/Nihalv123.svg)](http://hits.dwyl.com/Nihalv123/Nihalv123)
 <div><p>
@@ -25,9 +25,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
-# A collapsible section
+# WATCHERS <img src="https://profile-counter.glitch.me/NihalV123/count.svg" /> Click
 <details>
-  <summary>Click to expand!</summary>
+  <summary> to expand!</summary>
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
  
