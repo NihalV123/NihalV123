@@ -123,6 +123,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <!--START_SECTION:activity-->
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 <!--
 **NihalV123/NihalV123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
