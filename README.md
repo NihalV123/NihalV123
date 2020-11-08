@@ -76,7 +76,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p><br>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
