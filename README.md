@@ -48,13 +48,13 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <!--START_SECTION:activity-->
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+1. 🗣 Commented on [#2](https://github.com/NihalV123/hello_world/issues/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
 
-### :zap: Recent Activity
+2. 🎉 Merged PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 
 <!--END_SECTION:activity-->
 
