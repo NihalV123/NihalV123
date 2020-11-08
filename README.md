@@ -43,6 +43,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/NihalV123/hello_world/issues/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+2. 🎉 Merged PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+<!--END_SECTION:activity-->
 
 
 
