@@ -64,8 +64,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
   </tbody>
 </table>
 </p><br>
----
+
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-539-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-510945%20lines%20of%20code-blue)
