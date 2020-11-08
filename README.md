@@ -28,6 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 # A collapsible section
 <details>
   <summary>Click to expand!</summary>
+ 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
  
  <p align="center">
