@@ -28,7 +28,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  | many more...
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  | 
 |
 
 
@@ -44,6 +44,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true)
 
+<<<<<<< HEAD
 <!--START_SECTION:activity-->
 
 
@@ -64,8 +65,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
+=======
+>>>>>>> cf5f030d720ecff3fcc6f0136cbd00e851137273
 
-<!--
 ```javascript
 const ashraf = {
     pronouns: "He" | "Him",
@@ -84,6 +86,30 @@ const ashraf = {
 ```
 
 -->
+
+<br>
+<br>
+<br>
+<br>
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/NihalV123/hello_world/issues/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+2. 🎉 Merged PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+3. 💪 Opened PR [#2](https://github.com/NihalV123/hello_world/pull/2) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+4. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+5. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+<!--END_SECTION:activity-->
+
+
+1. 🗣 Commented on [#1](https://github.com/NihalV123/hello_world/issues/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
+2. 🎉 Merged PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
+3. 💪 Opened PR [#1](https://github.com/NihalV123/hello_world/pull/1) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
