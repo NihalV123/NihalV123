@@ -56,6 +56,35 @@ Quote of the hour:
 {qoth}
 ~ {qoth_author}
 -->
+
+
+### My Blog
+
+<!-- BLOG:START -->
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+
+<!-- BLOG:END -->
+
+### FreeCodeCamp
+
+<!-- FCC:START -->
+- [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
+<!-- FCC:END -->
+
+### Dev Community
+
+<!-- DEVTO:START -->
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+
+<!-- DEVTO:END -->
+
+### Medium
+
+<!-- MEDIUM:START -->
+- [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
+
+<!-- MEDIUM:END -->
+
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=8609709&theme=dark" height="250">
 
 ![](https://still-brushlands-82734.herokuapp.com/countercheck)
