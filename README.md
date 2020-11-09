@@ -37,16 +37,15 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats-eight-alpha.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
-
- - 🎧 I like **{sp_liked} songs accross {sp_abl} albums**. I have **{sp_pl} playlists of awesome music.**
-
-Quote of the hour:
-
-{qoth}
-
-~ {qoth_author}
-
 -->
+
+<!--
+ - 🎧 I like **{sp_liked} songs accross {sp_abl} albums**. I have **{sp_pl} playlists of awesome music.**
+Quote of the hour:
+{qoth}
+~ {qoth_author}
+-->
+
   ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
 </details>
