@@ -56,6 +56,11 @@ Quote of the hour:
 {qoth}
 ~ {qoth_author}
 -->
+</details>
+
+Blog
+<details>
+  <summary> Expand!</summary>
 
 ### 📺 Latest YouTube Videos
 
@@ -69,6 +74,41 @@ Quote of the hour:
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
+### WORDPRESS
+
+<!-- WORDPRESS:START -->
+
+### INDIAN
+
+<!-- INDIAN:START -->
+
+### REDDIT
+
+<!-- REDDIT:START -->
+
+### GOOGLE
+
+<!-- GOOGLE:START -->
+
+### HASHNODE
+
+<!-- HASHNODE:START -->
+
+### ANCHOR
+
+<!-- ANCHOR:START -->
+
+### DRUPAL
+
+<!-- DRUPAL:START -->
+
+### GHOST
+
+<!-- GHOST:START -->
+
+### STACKEXCHANGE
+
+<!-- STACKEXCHANGE:START -->
 
 ### My Blog
 
@@ -150,6 +190,10 @@ Quote of the hour:
   </tbody>
 </table>
 </p><br>
+
+Some Stats
+<details>
+  <summary> Expand!</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-793-blue)
@@ -241,6 +285,8 @@ ASP                      1 repo              █████░░░░░░�
 - [Answer by Gautam Krishna R for Send event when time runs out Angular5](https://stackoverflow.com/questions/50190382/send-event-when-time-runs-out-angular5/50190962#50190962)
 - [Answer by Gautam Krishna R for Angular 5 - Main bundle file is too large on the development server](https://stackoverflow.com/questions/49687569/angular-5-main-bundle-file-is-too-large-on-the-development-server/49687624#49687624)
 <!-- STACKOVERFLOW:END -->
+
+</details>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <!--
