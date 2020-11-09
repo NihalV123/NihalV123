@@ -87,6 +87,7 @@ Quote of the hour:
 ### INDIAN
 
 <!-- INDIAN:START -->
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 <!-- INDIAN:END -->
 
 ### REDDIT
