@@ -94,10 +94,6 @@ Quote of the hour:
 <!-- REDDIT:START -->
 <!-- REDDIT:END -->
 
-### GOOGLE
-
-<!-- GOOGLE:START -->
-<!-- GOOGLE:END -->
 
 ### HASHNODE
 
