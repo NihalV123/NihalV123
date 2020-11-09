@@ -32,11 +32,12 @@ I have excellent design & coding skills, as well as an ability to convert requir
  
  <img alig src="https://github-profile-trophy.vercel.app/?username=NihalV123&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
  
-[![willianrod's wakatime stats](https://github-readme-stats-eight-alpha.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
- 
  <p align="center">
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats-eight-alpha.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
+
  - 🎧 I like **{sp_liked} songs accross {sp_abl} albums**. I have **{sp_pl} playlists of awesome music.**
 
 Quote of the hour:
@@ -44,6 +45,8 @@ Quote of the hour:
 {qoth}
 
 ~ {qoth_author}
+
+-->
   ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
 </details>
