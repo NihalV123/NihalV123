@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /><h2 align="center">Profile</h2></p>
  
-  [![](https://pointy-opposite-office.glitch.me/count.svg)](https://glitch.com/edit/#!/pointy-opposite-office?path=db.json%3A1%3A13)
+
 ### Hi there 👋 I'm [Danny](https://github.com/NihalV123) 
 > Software Engineer Web Developer 
 <img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers" alt="NihalV123" /> 
@@ -26,7 +26,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge">
 
-# View Counter <img src="https://profile-counter.glitch.me/NihalV123/count.svg" /> 
+# Visitor Count   [![](https://pointy-opposite-office.glitch.me/count.svg)](https://glitch.com/edit/#!/pointy-opposite-office?path=db.json%3A1%3A13)
 <details>
   <summary> Expand!</summary>
  
