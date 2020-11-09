@@ -84,7 +84,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 **🐱 My Github Data** 
 
-> 🏆 239 Contributions in the Year 2020
+> 🏆 244 Contributions in the Year 2020
  > 
 > 📦 177.8 kB Used in Github's Storage 
  > 
