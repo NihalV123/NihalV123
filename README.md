@@ -77,38 +77,47 @@ Blog
 ### WORDPRESS
 
 <!-- WORDPRESS:START -->
+<!-- WORDPRESS:END -->
 
 ### INDIAN
 
 <!-- INDIAN:START -->
+<!-- INDIAN:END -->
 
 ### REDDIT
 
 <!-- REDDIT:START -->
+<!-- REDDIT:END -->
 
 ### GOOGLE
 
 <!-- GOOGLE:START -->
+<!-- GOOGLE:END -->
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 ### ANCHOR
 
 <!-- ANCHOR:START -->
+<!-- ANCHOR:END -->
 
 ### DRUPAL
 
 <!-- DRUPAL:START -->
+<!-- DRUPAL:END -->
 
 ### GHOST
 
 <!-- GHOST:START -->
+<!-- GHOST:END -->
 
 ### STACKEXCHANGE
 
 <!-- STACKEXCHANGE:START -->
+<!-- STACKEXCHANGE:END -->
 
 ### My Blog
 
