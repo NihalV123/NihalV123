@@ -237,19 +237,19 @@ Quote of the hour:
   <summary> Expand!</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-847-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-864-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849535%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-671245%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 271 Contributions in the Year 2020
+> 🏆 294 Contributions in the Year 2020
  > 
-> 📦 178.0 kB Used in Github's Storage 
+> 📦 177.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 22 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -257,21 +257,21 @@ Quote of the hour:
 
 ```text
 🌞 Morning    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-🌆 Daytime    142 commits    ███████████░░░░░░░░░░░░░░   44.1% 
-🌃 Evening    93 commits     ███████░░░░░░░░░░░░░░░░░░   28.88% 
+🌆 Daytime    125 commits    █████████░░░░░░░░░░░░░░░░   38.82% 
+🌃 Evening    110 commits    ████████░░░░░░░░░░░░░░░░░   34.16% 
 🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       92 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Monday       109 commits    ████████░░░░░░░░░░░░░░░░░   33.85% 
 Tuesday      66 commits     █████░░░░░░░░░░░░░░░░░░░░   20.5% 
 Wednesday    29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
 Thursday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
 Friday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
 Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-Sunday       81 commits     ██████░░░░░░░░░░░░░░░░░░░   25.16%
+Sunday       64 commits     █████░░░░░░░░░░░░░░░░░░░░   19.88%
 
 ```
 
