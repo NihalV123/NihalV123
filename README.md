@@ -141,6 +141,9 @@ Quote of the hour:
 
 ### My Blog
 
+<!-- BLOG-POST-LIST::START -->
+<!-- BLOG-POST-LIST::END -->
+
 <!-- BLOG:START -->
 - [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
 - [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
