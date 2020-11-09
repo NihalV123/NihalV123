@@ -58,7 +58,7 @@ Quote of the hour:
 -->
 </details>
 
-Blog
+### 📺 BLOG
 <details>
   <summary> Expand!</summary>
 
