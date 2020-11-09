@@ -112,6 +112,7 @@ Blog
 ### DRUPAL
 
 <!-- DRUPAL:START -->
+- [‘Lacazette is going to score goals for this club’](https://www.arsenal.com/news/lacazette-going-score-goals-club)
 <!-- DRUPAL:END -->
 
 ### GHOST
