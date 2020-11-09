@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm [Danny](https://github.com/NihalV123) 
 > Software Engineer Web Developer 
-<img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers" alt="NihalV123" /> 
+
 <div><p>
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
@@ -190,6 +190,7 @@ ASP                      1 repo              █████░░░░░░�
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<img src="https://komarev.com/ghpvc/?username=NihalV123&style=flat-square&label=Watchers" alt="NihalV123" /> 
 -->
 
 ![GitHub stats](https://github-readme-stats-eight-alpha.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
