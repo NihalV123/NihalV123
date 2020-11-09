@@ -201,8 +201,8 @@ Quote of the hour:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-2. 💪 Opened PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
+1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
+2. 💪 Opened PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 <!--END_SECTION:activity-->
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
