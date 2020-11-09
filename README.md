@@ -90,7 +90,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories
+> 📜 26 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
