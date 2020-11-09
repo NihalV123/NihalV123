@@ -62,5 +62,6 @@ jobs:
           feed_list: "https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"    
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: INDIAN
-          feed_list: "https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/" 
+          comment_tag_name: REDDIT
+          feed_list: "http://www.reddit.com/r/news/.rss" 
+
