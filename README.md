@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [Iraqi Muslims are rebuilding ISIS-damaged churches to bring back Christians](https://www.reddit.com/r/news/comments/jqxzb0/iraqi_muslims_are_rebuilding_isisdamaged_churches/)
+- [Scientists 3D print microscopic Star Trek spaceship that moves on its own](https://www.reddit.com/r/news/comments/jqxifz/scientists_3d_print_microscopic_star_trek/)
 - [Israel tests passengers from Denmark for new mutated coronavirus](https://www.reddit.com/r/news/comments/jqxhg4/israel_tests_passengers_from_denmark_for_new/)
 - [Chris Nikic becomes first person with Down's syndrome to finish an Ironman triathlon](https://www.reddit.com/r/news/comments/jqwjc1/chris_nikic_becomes_first_person_with_downs/)
 - [Pigeon message found over a century after sent by German soldier](https://www.reddit.com/r/news/comments/jqwcx4/pigeon_message_found_over_a_century_after_sent_by/)
-- [Taiwan not invited to WHO meeting despite COVID-19 success](https://www.reddit.com/r/news/comments/jqwa0b/taiwan_not_invited_to_who_meeting_despite_covid19/)
-- [Pfizer, BioNTech say late-stage trial data shows Covid vaccine is more than 90% effective in preventing infection](https://www.reddit.com/r/news/comments/jqw93a/pfizer_biontech_say_latestage_trial_data_shows/)
 <!-- REDDIT:END -->
 
 
