@@ -12,3 +12,39 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/khaosdoctor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@khaosdoctor"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://blog.lsantos.dev/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: FCC
+          feed_list: "https://www.freecodecamp.org/news/author/_staticvoid/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCDCHcqyeQgJ-jVSd6VJkbCw" 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: WORDPRESS
+          feed_list: "https://www.gautamkrishnar.com/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: STACKEXCHANGE
+          feed_list: "https://devops.stackexchange.com/feeds/user/15"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: GHOST
+          feed_list: "https://blog.codinghorror.com/rss/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: DRUPAL
+          feed_list: "https://www.arsenal.com/rss.xml"
