@@ -201,6 +201,9 @@ Quote of the hour:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
+2. 💪 Opened PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
+<!--END_SECTION:activity-->
 
 1. ❗️ Opened issue [#1331](https://github.com/JonathanGin52/JonathanGin52/issues/1331) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 
