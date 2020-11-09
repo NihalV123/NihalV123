@@ -218,7 +218,7 @@ Quote of the hour:
 </table>
 </p><br>
 
-**Some Stats
+### Some Stats
 <details>
   <summary> Expand!</summary>
 
