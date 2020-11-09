@@ -56,6 +56,7 @@ Quote of the hour:
 {qoth}
 ~ {qoth_author}
 -->
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=8609709&theme=dark" height="250">
 
   ## Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
