@@ -141,8 +141,8 @@ Quote of the hour:
 
 ### My Blog
 
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
 - [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
