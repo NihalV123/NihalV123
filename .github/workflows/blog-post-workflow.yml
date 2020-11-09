@@ -55,4 +55,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: HASHNODE
-          feed_list: "https://polilluminato.hashnode.dev/rss.xml"    
+          feed_list: "https://polilluminato.hashnode.dev/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: INDIAN
+          feed_list: "https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/"    
