@@ -26,10 +26,6 @@ jobs:
           LOCALE: "en"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: GOOGLE
-          feed_list: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjYyOTIxMTkwL3NvdW5kcy5yc3M="
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
           comment_tag_name: REDDIT
           feed_list: "http://www.reddit.com/r/news/.rss" 
       - uses: gautamkrishnar/blog-post-workflow@master
