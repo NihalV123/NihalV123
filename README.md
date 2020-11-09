@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [Gun stocks tumble after upbeat vaccine news, lack of civil unrest](https://www.reddit.com/r/news/comments/jr499s/gun_stocks_tumble_after_upbeat_vaccine_news_lack/)
+- [Trump says Defense Secretary Mark Esper has been fired](https://www.reddit.com/r/news/comments/jr2lks/trump_says_defense_secretary_mark_esper_has_been/)
+- [Notre Dame mandates COVID testing after football celebration](https://www.reddit.com/r/news/comments/jr2k6b/notre_dame_mandates_covid_testing_after_football/)
+- [Dr. Scott Gottlieb, Pfizer director and ex-FDA chief, cautions Covid vaccine won't help right away](https://www.reddit.com/r/news/comments/jr1pu2/dr_scott_gottlieb_pfizer_director_and_exfda_chief/)
 - [HUD Secretary Ben Carson tests positive for coronavirus](https://www.reddit.com/r/news/comments/jr0vla/hud_secretary_ben_carson_tests_positive_for/)
-- [Slovakia says COVID double-testing cut number of infections by more than half](https://www.reddit.com/r/news/comments/jr06e5/slovakia_says_covid_doubletesting_cut_number_of/)
-- [Virus Cases Spike Again in N.Y.C. as New Restrictions Are Considered](https://www.reddit.com/r/news/comments/jqz5do/virus_cases_spike_again_in_nyc_as_new/)
-- [Global stocks are soaring on hopes of a coronavirus vaccine](https://www.reddit.com/r/news/comments/jqyo70/global_stocks_are_soaring_on_hopes_of_a/)
-- [Azeri Football Official Banned By UEFA After Calling For All Armenians To Be Exterminated - Greek City Times](https://www.reddit.com/r/news/comments/jqyd8w/azeri_football_official_banned_by_uefa_after/)
 <!-- REDDIT:END -->
 
 
