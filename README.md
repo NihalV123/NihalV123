@@ -29,10 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 # Visitor Count   [![](https://pointy-opposite-office.glitch.me/count.svg)](https://glitch.com/edit/#!/pointy-opposite-office?path=db.json%3A1%3A13)
 <details>
   <summary> Expand!</summary>
- 
- <img alig src="https://github-profile-trophy.vercel.app/?username=NihalV123&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
- 
- 
+
  [![trophy](https://github-profile-trophy.vercel.app/?username=NihalV123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
  <p align="center">
