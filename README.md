@@ -31,6 +31,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
   <summary> Expand!</summary>
  
  <img alig src="https://github-profile-trophy.vercel.app/?username=NihalV123&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+ [![trophy](https://github-profile-trophy.vercel.app/?username=NihalV123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
  <p align="center">
 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
