@@ -34,3 +34,41 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCDCHcqyeQgJ-jVSd6VJkbCw" 
+          
+          
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: WORDPRESS
+          feed_list: "https://www.gautamkrishnar.com/feed/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: STACKEXCHANGE
+          feed_list: "https://devops.stackexchange.com/feeds/user/15"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: GHOST
+          feed_list: "https://blog.codinghorror.com/rss/"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: DRUPAL
+          feed_list: "https://www.arsenal.com/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: ANCHOR
+          feed_list: "https://anchor.fm/s/1e784a38/podcast/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: HASHNODE
+          feed_list: "https://polilluminato.hashnode.dev/rss.xml"  
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: GOOGLE
+          feed_list: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjYyOTIxMTkwL3NvdW5kcy5yc3M="
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: REDDIT
+          feed_list: "http://www.reddit.com/r/news/.rss" 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: INDIAN
+          feed_list: "https://analyticsindiamag.com/author/kaustubhgupta1828gmail-com/feed/" 
