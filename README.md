@@ -342,7 +342,7 @@ ASP                      1 repo              █████░░░░░░�
 ![GitHub stats](https://github-readme-stats-tau-black.vercel.app/api?username=NihalV123&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats-tau-black.vercel.app/api/top-langs/?username=NihalV123&langs_count=8)](https://github-readme-stats-tau-black.vercel.app)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NihalV123&show_icons=true&theme=radical)
 <!--
 hfbdsufbdsbfhbdsfdsjnfjihdsibnfhdsbufhbsudbcnfuhbesdhvfgbiushb viufgsadbiundsfbsnf
 
