@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Iraqi Muslims are rebuilding ISIS-damaged churches to bring back Christians](https://www.reddit.com/r/news/comments/jqxzb0/iraqi_muslims_are_rebuilding_isisdamaged_churches/)
-- [Scientists 3D print microscopic Star Trek spaceship that moves on its own](https://www.reddit.com/r/news/comments/jqxifz/scientists_3d_print_microscopic_star_trek/)
-- [Israel tests passengers from Denmark for new mutated coronavirus](https://www.reddit.com/r/news/comments/jqxhg4/israel_tests_passengers_from_denmark_for_new/)
-- [Chris Nikic becomes first person with Down's syndrome to finish an Ironman triathlon](https://www.reddit.com/r/news/comments/jqwjc1/chris_nikic_becomes_first_person_with_downs/)
-- [Pigeon message found over a century after sent by German soldier](https://www.reddit.com/r/news/comments/jqwcx4/pigeon_message_found_over_a_century_after_sent_by/)
+- [HUD Secretary Ben Carson tests positive for coronavirus](https://www.reddit.com/r/news/comments/jr0vla/hud_secretary_ben_carson_tests_positive_for/)
+- [Slovakia says COVID double-testing cut number of infections by more than half](https://www.reddit.com/r/news/comments/jr06e5/slovakia_says_covid_doubletesting_cut_number_of/)
+- [Virus Cases Spike Again in N.Y.C. as New Restrictions Are Considered](https://www.reddit.com/r/news/comments/jqz5do/virus_cases_spike_again_in_nyc_as_new/)
+- [Global stocks are soaring on hopes of a coronavirus vaccine](https://www.reddit.com/r/news/comments/jqyo70/global_stocks_are_soaring_on_hopes_of_a/)
+- [Azeri Football Official Banned By UEFA After Calling For All Armenians To Be Exterminated - Greek City Times](https://www.reddit.com/r/news/comments/jqyd8w/azeri_football_official_banned_by_uefa_after/)
 <!-- REDDIT:END -->
 
 
