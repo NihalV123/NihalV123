@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [Maricopa County Attorney's Office to begin dismissing marijuana charges](https://www.reddit.com/r/news/comments/jrba6e/maricopa_county_attorneys_office_to_begin/)
+- [Trump campaign sues to halt Pennsylvania from certifying Biden win](https://www.reddit.com/r/news/comments/jra5r2/trump_campaign_sues_to_halt_pennsylvania_from/)
+- [Feds: NYPD officer served as lookout for cocaine ring](https://www.reddit.com/r/news/comments/jr96g0/feds_nypd_officer_served_as_lookout_for_cocaine/)
+- [Court Orders Release of PPP Borrower Details](https://www.reddit.com/r/news/comments/jr8tmp/court_orders_release_of_ppp_borrower_details/)
 - [REPORT: Kenosha man charged with illegally buying gun for Kyle Rittenhouse](https://www.reddit.com/r/news/comments/jr8moq/report_kenosha_man_charged_with_illegally_buying/)
-- [In first for Fed, U.S. central bank says climate poses stability risks](https://www.reddit.com/r/news/comments/jr7vgu/in_first_for_fed_us_central_bank_says_climate/)
-- [U.S. criticised for police brutality, racism at U.N. rights review](https://www.reddit.com/r/news/comments/jr78t0/us_criticised_for_police_brutality_racism_at_un/)
-- [U.S. still faces possible default wave, asset declines due to pandemic: Fed](https://www.reddit.com/r/news/comments/jr6go1/us_still_faces_possible_default_wave_asset/)
-- [Gun stocks tumble after upbeat vaccine news, lack of civil unrest](https://www.reddit.com/r/news/comments/jr499s/gun_stocks_tumble_after_upbeat_vaccine_news_lack/)
 <!-- REDDIT:END -->
 
 
