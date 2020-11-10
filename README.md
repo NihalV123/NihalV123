@@ -380,6 +380,9 @@ ASP                      1 repo              █████░░░░░░�
 <!-- MEDIUM:END -->
 
  ---
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
 # HAVE A GOOD DAY
 [![Built_With](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
