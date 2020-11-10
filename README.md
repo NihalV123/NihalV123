@@ -1,5 +1,5 @@
 <p align="center">
-<img height="180px"
+<img height="177px"
 src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/header.webp" align="left" alt="Github Readme Stats" />
 <img width="250" align='right' src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/head2.gif"></p>
 <p><a href="https://waylonwalker.com/latest"><img width="120" align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></a></p>
@@ -378,7 +378,7 @@ ASP                      1 repo              █████░░░░░░�
 
 [![Built_With](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<!-->
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
