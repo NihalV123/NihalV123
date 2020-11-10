@@ -296,11 +296,11 @@ ASP                      1 repo              █████░░░░░░�
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [US steps up pace of child deportations to Guatemala citing pandemic emergency](https://www.reddit.com/r/news/comments/jrl15x/us_steps_up_pace_of_child_deportations_to/)
-- [Children’s nurse Lucy Letby rearrested over 8 baby deaths](https://www.reddit.com/r/news/comments/jrkz60/childrens_nurse_lucy_letby_rearrested_over_8_baby/)
-- [Vatican admits Pope John Paul II was warned about abusive archbishop Theodore McCarrick, while clearing Francis](https://www.reddit.com/r/news/comments/jrktii/vatican_admits_pope_john_paul_ii_was_warned_about/)
-- [EU files antitrust charges against Amazon over use of data](https://www.reddit.com/r/news/comments/jrjwvj/eu_files_antitrust_charges_against_amazon_over/)
-- [U.S. COVID-19 hospitalizations surge to record of just over 59,000 patients: Reuters tally](https://www.reddit.com/r/news/comments/jrjrks/us_covid19_hospitalizations_surge_to_record_of/)
+- ['A fowl of the law': men sentenced for cooking chicken in Yellowstone hot spring](https://www.reddit.com/r/news/comments/jrnww6/a_fowl_of_the_law_men_sentenced_for_cooking/)
+- [As virus spikes, Europe runs low on ICU beds, hospital staff](https://www.reddit.com/r/news/comments/jrnd34/as_virus_spikes_europe_runs_low_on_icu_beds/)
+- [FBI Says ‘Boogaloo Boys’ Bought 3D-Printed Machine Gun Parts](https://www.reddit.com/r/news/comments/jrmj31/fbi_says_boogaloo_boys_bought_3dprinted_machine/)
+- [Sydney Barber will be the first Black woman to serve as U.S. Naval Academy brigade commander](https://www.reddit.com/r/news/comments/jrm2cg/sydney_barber_will_be_the_first_black_woman_to/)
+- [Disneyland furloughs more workers, citing 'limbo' on reopening](https://www.reddit.com/r/news/comments/jrm236/disneyland_furloughs_more_workers_citing_limbo_on/)
 <!-- REDDIT:END -->
 
 
