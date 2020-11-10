@@ -112,7 +112,7 @@
 
  ---
 
-### Fun
+### Fun 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -151,10 +151,18 @@ Quote of the hour:
 1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 <!--END_SECTION:activity-->
 
+ <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
  ---
 
 ### Stats
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NihalV123)  
+
+![GitHub metrics](https://metrics.lecoq.io/NihalV123)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NihalV123)  
 
 <!--START_SECTION:waka-->
 
@@ -384,7 +392,7 @@ ASP                      1 repo              █████░░░░░░�
 <!-- MEDIUM:END -->
 
  ---
- <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
