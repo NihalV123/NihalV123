@@ -104,6 +104,8 @@
 |--|--|--|--|--|--|--|--|
 | <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nhlvcam?color=blue&logo=twitter&style=for-the-badge"  align='center'> | <img alt="Linkedin Follow" src="https://img.shields.io/linkedin/followers/NihalV123?label=Follow&style=for-the-badge&logo=linkedin&logoColor=blue"  align='center'>  | |  |  | | | <p><a href="https://github-readme-stackoverflow.vercel.app/?userID=8609709&theme=dark"><img width="180" align='center' src="https://github-readme-stackoverflow.vercel.app/?userID=8609709&theme=dark" ></a></p> |
 
+[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+
  ---
 
 ### T.I.L
@@ -112,7 +114,7 @@
 
 ### Fun
 
-[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
