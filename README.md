@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [Sterling Brown agrees to $750,000 settlement with city of Milwaukee years after he was tased during arrest.](https://www.reddit.com/r/news/comments/jrdy6j/sterling_brown_agrees_to_750000_settlement_with/)
+- [El Paso, Texas, calls in ten morgue trucks as coronavirus cases surge](https://www.reddit.com/r/news/comments/jrbwp4/el_paso_texas_calls_in_ten_morgue_trucks_as/)
 - [Maricopa County Attorney's Office to begin dismissing marijuana charges](https://www.reddit.com/r/news/comments/jrba6e/maricopa_county_attorneys_office_to_begin/)
+- [Barr clears Justice Dept. to investigate alleged voting irregularities as Trump makes unfounded fraud claims](https://www.reddit.com/r/news/comments/jrb1pe/barr_clears_justice_dept_to_investigate_alleged/)
 - [Trump campaign sues to halt Pennsylvania from certifying Biden win](https://www.reddit.com/r/news/comments/jra5r2/trump_campaign_sues_to_halt_pennsylvania_from/)
-- [Feds: NYPD officer served as lookout for cocaine ring](https://www.reddit.com/r/news/comments/jr96g0/feds_nypd_officer_served_as_lookout_for_cocaine/)
-- [Court Orders Release of PPP Borrower Details](https://www.reddit.com/r/news/comments/jr8tmp/court_orders_release_of_ppp_borrower_details/)
-- [REPORT: Kenosha man charged with illegally buying gun for Kyle Rittenhouse](https://www.reddit.com/r/news/comments/jr8moq/report_kenosha_man_charged_with_illegally_buying/)
 <!-- REDDIT:END -->
 
 
