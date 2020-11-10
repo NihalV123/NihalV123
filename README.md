@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Sterling Brown agrees to $750,000 settlement with city of Milwaukee years after he was tased during arrest.](https://www.reddit.com/r/news/comments/jrdy6j/sterling_brown_agrees_to_750000_settlement_with/)
+- [With North Dakota hospitals at 100% capacity, Burgum announces COVID-positive nurses can stay at work](https://www.reddit.com/r/news/comments/jrfw5k/with_north_dakota_hospitals_at_100_capacity/)
+- [10 million people have been infected with coronavirus in the US -- and the rates keep rising in 43 states](https://www.reddit.com/r/news/comments/jreqyf/10_million_people_have_been_infected_with/)
+- [Southwest in talks to buy up to 30 Boeing jets that lost buyers: Bloomberg News](https://www.reddit.com/r/news/comments/jrcygh/southwest_in_talks_to_buy_up_to_30_boeing_jets/)
 - [El Paso, Texas, calls in ten morgue trucks as coronavirus cases surge](https://www.reddit.com/r/news/comments/jrbwp4/el_paso_texas_calls_in_ten_morgue_trucks_as/)
 - [Maricopa County Attorney's Office to begin dismissing marijuana charges](https://www.reddit.com/r/news/comments/jrba6e/maricopa_county_attorneys_office_to_begin/)
-- [Barr clears Justice Dept. to investigate alleged voting irregularities as Trump makes unfounded fraud claims](https://www.reddit.com/r/news/comments/jrb1pe/barr_clears_justice_dept_to_investigate_alleged/)
-- [Trump campaign sues to halt Pennsylvania from certifying Biden win](https://www.reddit.com/r/news/comments/jra5r2/trump_campaign_sues_to_halt_pennsylvania_from/)
 <!-- REDDIT:END -->
 
 
