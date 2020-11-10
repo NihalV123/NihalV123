@@ -93,11 +93,11 @@ Quote of the hour:
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [REPORT: Kenosha man charged with illegally buying gun for Kyle Rittenhouse](https://www.reddit.com/r/news/comments/jr8moq/report_kenosha_man_charged_with_illegally_buying/)
+- [In first for Fed, U.S. central bank says climate poses stability risks](https://www.reddit.com/r/news/comments/jr7vgu/in_first_for_fed_us_central_bank_says_climate/)
+- [U.S. criticised for police brutality, racism at U.N. rights review](https://www.reddit.com/r/news/comments/jr78t0/us_criticised_for_police_brutality_racism_at_un/)
+- [U.S. still faces possible default wave, asset declines due to pandemic: Fed](https://www.reddit.com/r/news/comments/jr6go1/us_still_faces_possible_default_wave_asset/)
 - [Gun stocks tumble after upbeat vaccine news, lack of civil unrest](https://www.reddit.com/r/news/comments/jr499s/gun_stocks_tumble_after_upbeat_vaccine_news_lack/)
-- [Trump says Defense Secretary Mark Esper has been fired](https://www.reddit.com/r/news/comments/jr2lks/trump_says_defense_secretary_mark_esper_has_been/)
-- [Notre Dame mandates COVID testing after football celebration](https://www.reddit.com/r/news/comments/jr2k6b/notre_dame_mandates_covid_testing_after_football/)
-- [Dr. Scott Gottlieb, Pfizer director and ex-FDA chief, cautions Covid vaccine won't help right away](https://www.reddit.com/r/news/comments/jr1pu2/dr_scott_gottlieb_pfizer_director_and_exfda_chief/)
-- [HUD Secretary Ben Carson tests positive for coronavirus](https://www.reddit.com/r/news/comments/jr0vla/hud_secretary_ben_carson_tests_positive_for/)
 <!-- REDDIT:END -->
 
 
