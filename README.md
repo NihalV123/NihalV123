@@ -76,7 +76,11 @@
 
 ### Git Workflows
 
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+![Update activity](https://github.com/NihalV123/NihalV123/workflows/Update%20activity/badge.svg?branch=master)
+![Latest stack overflow activity](https://github.com/NihalV123/NihalV123/workflows/Latest%20stack%20overflow%20activity/badge.svg?branch=master)
+![Latest blog post workflow](https://github.com/NihalV123/NihalV123/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
+![Waka Readme](https://github.com/NihalV123/NihalV123/workflows/Waka%20Readme/badge.svg?branch=master)
+![Greetings](https://github.com/NihalV123/NihalV123/workflows/Greetings/badge.svg?branch=master)
 
  ---
 
