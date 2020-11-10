@@ -125,7 +125,7 @@
  ---
 
 ### WIP <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats-eight-alpha.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
@@ -137,7 +137,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 Quote of the hour:
 {qoth}
 ~ {qoth_author}
-
+-->
  ---
 
 ### Recent
@@ -238,7 +238,7 @@ ASP                      1 repo              █████░░░░░░�
 
 ### PageSpeed score powered by [readme-pagespeed-insights](https://github.com/ankurparihar/readme-pagespeed-insights)
 <p align="center">
-	<img align="center" src="./pagespeed.svg" width="800px">
+	<img align="center" src=".assets/pagespeed.svg" width="800px">
 </p>
 
  ---
