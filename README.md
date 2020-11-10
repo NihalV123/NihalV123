@@ -124,7 +124,7 @@
 
  ---
 
-### WIP
+### WIP <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 [![willianrod's wakatime stats](https://github-readme-stats-eight-alpha.vercel.app/api/wakatime?username=NihalV123)](https://github.com/anuraghazra/github-readme-stats)
 
