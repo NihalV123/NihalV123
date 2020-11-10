@@ -1,6 +1,5 @@
-<p align="center">
-<img height="177px"src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/header.webp" align="left" alt="Github Readme Stats" />
-<p><a href="https://github.com/NihalV123"><img width="120" align='left' src="https://https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/head2.gif"></a></p>
+<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/header.webp" align="left" alt="Github Readme Stats" />
+<a href="https://github.com/NihalV123"><img width="120" align='left' src="https://https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/head2.gif"></a></p>
 
 # [WELCOME](https://github.com/NihalV123)
 
