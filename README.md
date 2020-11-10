@@ -296,11 +296,11 @@ ASP                      1 repo              █████░░░░░░�
 ### REDDIT
 
 <!-- REDDIT:START -->
-- ['A fowl of the law': men sentenced for cooking chicken in Yellowstone hot spring](https://www.reddit.com/r/news/comments/jrnww6/a_fowl_of_the_law_men_sentenced_for_cooking/)
-- [As virus spikes, Europe runs low on ICU beds, hospital staff](https://www.reddit.com/r/news/comments/jrnd34/as_virus_spikes_europe_runs_low_on_icu_beds/)
-- [FBI Says ‘Boogaloo Boys’ Bought 3D-Printed Machine Gun Parts](https://www.reddit.com/r/news/comments/jrmj31/fbi_says_boogaloo_boys_bought_3dprinted_machine/)
-- [Sydney Barber will be the first Black woman to serve as U.S. Naval Academy brigade commander](https://www.reddit.com/r/news/comments/jrm2cg/sydney_barber_will_be_the_first_black_woman_to/)
-- [Disneyland furloughs more workers, citing 'limbo' on reopening](https://www.reddit.com/r/news/comments/jrm236/disneyland_furloughs_more_workers_citing_limbo_on/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5 teens arrested after racist terror spree in Kitchener: Waterloo police](https://www.reddit.com/r/news/comments/jrqc54/5_teens_arrested_after_racist_terror_spree_in/)
+- [In court moves, Britney Spears seeks freedom from father](https://www.reddit.com/r/news/comments/jrq7zj/in_court_moves_britney_spears_seeks_freedom_from/)
+- [These Towns Trusted a Doctor to Set Up Covid Testing. Sample Patient Fee: $1,944.](https://www.reddit.com/r/news/comments/jrpepl/these_towns_trusted_a_doctor_to_set_up_covid/)
+- [Falklands cleared of nearly all landmines, 38 years on from war | UK news](https://www.reddit.com/r/news/comments/jro83w/falklands_cleared_of_nearly_all_landmines_38/)
 <!-- REDDIT:END -->
 
 
