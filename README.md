@@ -161,13 +161,9 @@ Quote of the hour:
 ### Recent
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-<!--END_SECTION:activity-->
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 
----
 
 <p align="center">
   Last refresh: 
@@ -278,7 +274,7 @@ ASP                      1 repo              █████░░░░░░�
 
 Account age: 6 years
 
-Pushed 517 commits
+Pushed 518 commits
 
 Opened 6 issues
 
