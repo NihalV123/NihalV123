@@ -10,15 +10,24 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
+     - uses: actions/checkout@master
+       with:
+          persist-credentials: false
+          fetch-depth: 0
+     - name: Create README.md
+       uses: actions-js/profile-readme@master
+       with:
+          username: <your username>
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+     - uses: actions/checkout@v2
+       with:
         fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1
-      with:
+     - name: Generate README.md
+       uses: teoxoy/profile-readme-stats@v1
+       with:
         token: ${{ secrets.GIT_USER_STATS }}
-    - name: Update README.md
-      run: |
+     - name: Update README.md
+       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
