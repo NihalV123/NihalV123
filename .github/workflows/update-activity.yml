@@ -1,30 +1,27 @@
 name: Update activity
-
-on:
-  schedule:
+on: 
+    schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch:
+workflow_dispatch:
   push:
     branches:
       - master
+
 jobs:
-  publish:
+  gadpp_job:
     runs-on: ubuntu-latest
+    name: Update GitHub Profile Page
     steps:
-      - name: Sleep for 30 seconds
-        uses: jakejarvis/wait-action@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          time: '30s'
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: NihalV123
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github-username: NihalV123
+          user-email: nhlvcam@gmail.com
+
+
