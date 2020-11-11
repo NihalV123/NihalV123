@@ -68,9 +68,9 @@
 
 ### Others
 
-|[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/tensorflow.webp" width="90"/>](https://github.com/NihalV123)|[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/unreal-engine.webp" width="70"/>](https://github.com/NihalV123)|  [<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/microsoft-office.webp" width="80"/>](https://github.com/NihalV123)  |[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/wordpress.webp" width="50"/>](https://github.com/NihalV123)|
-|---|---|---|--|
-| [<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-UNREAL_ENGINE-696969?style=for-the-badge&logo=unreal-engine&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-OFFICE-ff4500?style=for-the-badge&logo=microsoft-office&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-WORDPRESS-1e90ff?style=for-the-badge&logo=wordpress&logoColor=white"/>](https://github.com/NihalV123)|
+|[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/tensorflow.webp" width="90"/>](https://github.com/NihalV123)|[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/unreal-engine.webp" width="70"/>](https://github.com/NihalV123)|  [<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/microsoft-office.webp" width="80"/>](https://github.com/NihalV123)  |[<img src="https://raw.githubusercontent.com/NihalV123/NihalV123/master/assets/wordpress.webp" width="50"/>](https://github.com/NihalV123)|  |  |
+|---|---|---|--|---|--|
+| [<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-UNREAL_ENGINE-696969?style=for-the-badge&logo=unreal-engine&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-OFFICE-ff4500?style=for-the-badge&logo=microsoft-office&logoColor=white"/>](https://github.com/NihalV123)|[<img src="https://img.shields.io/badge/-WORDPRESS-1e90ff?style=for-the-badge&logo=wordpress&logoColor=white"/>](https://github.com/NihalV123)| Chrome |Firefox  |
 
  ---
 
@@ -100,6 +100,10 @@
  ---
 
 ### Configs
+
+[ZSH config](https://raw.githubusercontent.com/NihalV123/ansible-debian/master/packages_debian/files/.zshrc_deb)
+
+[ZSH Theme](https://raw.githubusercontent.com/NihalV123/ansible-debian/master/packages_debian/files/.p10k.zsh)
 
  ---
 
