@@ -267,7 +267,7 @@ ASP                      1 repo              █████░░░░░░�
 
 Account age: 6 years
 
-Pushed 534 commits
+Pushed 535 commits
 
 Opened 6 issues
 
@@ -281,7 +281,7 @@ Contributed to 5 public repositories
 
 Top 8 most used languages across your repositories:
 
- Java  ASP  Shell  JavaScript  C#  Dockerfile 
+ Java  ASP  Shell  JavaScript  C#  Python  Dockerfile 
 Top 4 most used languages across your repositories:
 
  Java  ASP  Shell  Other 
