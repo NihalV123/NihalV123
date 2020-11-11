@@ -163,12 +163,6 @@ Quote of the hour:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-2. 💪 Opened PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-3. 🎉 Merged PR [#4](https://github.com/NihalV123/activity_template/pull/4) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-4. 💪 Opened PR [#4](https://github.com/NihalV123/activity_template/pull/4) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-5. 🎉 Merged PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-<!--END_SECTION:activity-->
 
  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -340,11 +334,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Fugitive arrested in grisly slaying of Philadelphia trans woman](https://www.reddit.com/r/news/comments/js5tz7/fugitive_arrested_in_grisly_slaying_of/)
-- [School Lunch Program Supplier Sold Juice With High Arsenic Levels, U.S. Says in Lawsuit](https://www.reddit.com/r/news/comments/js0b43/school_lunch_program_supplier_sold_juice_with/)
-- [Investigators find no evidence that Black man shot at police](https://www.reddit.com/r/news/comments/jrzr39/investigators_find_no_evidence_that_black_man/)
-- [Tom Metzger Dies at 82; Notorious KKK Boss, Supremacist Who Ran for Congress](https://www.reddit.com/r/news/comments/jrzp2p/tom_metzger_dies_at_82_notorious_kkk_boss/)
-- [Teen gets 128 years for killing 82-year-old during robbery](https://www.reddit.com/r/news/comments/jrz7ui/teen_gets_128_years_for_killing_82yearold_during/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
