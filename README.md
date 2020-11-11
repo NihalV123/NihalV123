@@ -165,13 +165,17 @@ Quote of the hour:
 1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
 <!--END_SECTION:activity-->
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+* ⬆️ Pushed 1 commit to NihalV123/NihalV123
+* ⬆️ Pushed 1 commit to NihalV123/NihalV123
+* ⬆️ Pushed 1 commit to NihalV123/NihalV123
+* ⬆️ Pushed 1 commit to NihalV123/NihalV123
+* 🍴 Forked NihalV123/ssoroushhh from ssoroushhh/ssoroushhh
 
 ---
 
 <p align="center">
   Last refresh: 
-  <b><!--TIMESTAMP--></b>
+  <b>2020-11-11T03:43:48Z</b>
 </p>
 
  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -276,26 +280,28 @@ ASP                      1 repo              █████░░░░░░�
 	<img align="center" src="/assets/pagespeed.svg" width="800px">
 </p>
 
-Account age: 6 years
+Account age: {{ ACCOUNT_AGE }} years
 
-Pushed 514 commits
+Pushed {{ COMMITS }} commits
 
-Opened 6 issues
+Opened {{ ISSUES }} issues
 
-Submitted 5 pull requests
+Submitted {{ PULL_REQUESTS }} pull requests
 
-Received 2 stars
+Received {{ STARS }} stars
 
-Own 7 repositories
+Own {{ REPOSITORIES }} repositories
 
-Contributed to 5 public repositories
+Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
 
 Top 8 most used languages across your repositories:
 
- Java  ASP  Shell  JavaScript  C#  Dockerfile 
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 Top 4 most used languages across your repositories:
 
- Java  ASP  Shell  Other 
+{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 
  ---
 
