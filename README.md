@@ -87,12 +87,12 @@
 
 ### Projects
 
-|  |NAME|DESC|STAR|
-|--|--|--|--|
-|  |ansible-Debian| ansible config for Debian based distros | 1 |
-|  | food-server |  | 1 |
-|  |food-client  |  | 1 |
-|  |unity game  |  | 1 |
+|  |NAME|DESC|STAR|MADE WITH|
+|--|--|--|--|--|
+|  |ansible-Debian| ansible config for Debian based distros | 1 |Ansible |
+|  | food-server |  | 1 | |
+|  |food-client  |  | 1 | |
+|  |unity game  |  | 1 | |
 
  ---
 
@@ -269,7 +269,7 @@ ASP                      1 repo              █████░░░░░░�
 
 Account age: 6 years
 
-Pushed 509 commits
+Pushed 510 commits
 
 Opened 6 issues
 
