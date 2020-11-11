@@ -4,11 +4,17 @@ on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
   workflow_dispatch:
-
+  push:
+    branches:
+      - master
 jobs:
-  stale2:
+  publish:
     runs-on: ubuntu-latest
     steps:
+      - name: Sleep for 30 seconds
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '30s'
       - uses: actions/checkout@master
         with:
           persist-credentials: false
