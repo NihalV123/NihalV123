@@ -86,6 +86,13 @@
 
 ### Projects
 
+|  |NAME|DESC|STAR|
+|--|--|--|--|
+|  |ansible-Debian| ansible config for Debian based distros | 1 |
+|  | food-server |  | 1 |
+|  |food-client  |  | 1 |
+|  |unity game  |  | 1 |
+
  ---
 
 ### Currently Learning
