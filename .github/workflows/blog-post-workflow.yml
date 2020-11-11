@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Today's Blog Update
 on:
   schedule: # Run workflow automatically
     - cron: '0 */6 * * *' # Runs every 6 hours
