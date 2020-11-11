@@ -339,11 +339,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tom Metzger Dies at 82; Notorious KKK Boss, Supremacist Who Ran for Congress](https://www.reddit.com/r/news/comments/jrzp2p/tom_metzger_dies_at_82_notorious_kkk_boss/)
+- [Teen gets 128 years for killing 82-year-old during robbery](https://www.reddit.com/r/news/comments/jrz7ui/teen_gets_128_years_for_killing_82yearold_during/)
+- [Postal worker admits fabricating allegations of ballot tampering, officials say](https://www.reddit.com/r/news/comments/jrylcr/postal_worker_admits_fabricating_allegations_of/)
+- [Man Arrested Over Threat to Schumer and Vow to ‘Blow Up’ F.B.I.](https://www.reddit.com/r/news/comments/jryl85/man_arrested_over_threat_to_schumer_and_vow_to/)
+- [The C.D.C. updates its findings: Mask-wearing protects you, not just those around you.](https://www.reddit.com/r/news/comments/jryf3d/the_cdc_updates_its_findings_maskwearing_protects/)
 <!-- REDDIT:END -->
 
 
