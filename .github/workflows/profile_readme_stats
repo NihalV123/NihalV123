@@ -1,3 +1,4 @@
+name: profile_readme_stat
 on:
   schedule:
     - cron: ' */2 * * * *' # every 12 hours
