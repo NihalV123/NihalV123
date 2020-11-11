@@ -1,4 +1,4 @@
-name: readme
+name: yearly-progress
 
 on:
   workflow_dispatch:
