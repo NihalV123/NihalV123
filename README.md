@@ -296,11 +296,11 @@ ASP                      1 repo              █████░░░░░░�
 ### REDDIT
 
 <!-- REDDIT:START -->
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
 - [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
-- [5 teens arrested after racist terror spree in Kitchener: Waterloo police](https://www.reddit.com/r/news/comments/jrqc54/5_teens_arrested_after_racist_terror_spree_in/)
-- [In court moves, Britney Spears seeks freedom from father](https://www.reddit.com/r/news/comments/jrq7zj/in_court_moves_britney_spears_seeks_freedom_from/)
-- [These Towns Trusted a Doctor to Set Up Covid Testing. Sample Patient Fee: $1,944.](https://www.reddit.com/r/news/comments/jrpepl/these_towns_trusted_a_doctor_to_set_up_covid/)
-- [Falklands cleared of nearly all landmines, 38 years on from war | UK news](https://www.reddit.com/r/news/comments/jro83w/falklands_cleared_of_nearly_all_landmines_38/)
 <!-- REDDIT:END -->
 
 
