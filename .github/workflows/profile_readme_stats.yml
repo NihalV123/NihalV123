@@ -2,6 +2,7 @@ name: profile_readme_stat
 on:
   schedule:
     - cron: ' */2 * * * *' # every 12 hours
+  workflow_dispatch:  #runs manually  
   push:
     branches:
       - master
