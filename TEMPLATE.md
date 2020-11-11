@@ -82,6 +82,7 @@
 ![Waka Readme](https://github.com/NihalV123/NihalV123/workflows/Waka%20Readme/badge.svg?branch=master)
 ![Greetings](https://github.com/NihalV123/NihalV123/workflows/Greetings/badge.svg?branch=master)
 ![Profile_stat](https://github.com/NihalV123/NihalV123/workflows/profile_readme_stat/badge.svg)
+![yearly-progress](https://github.com/NihalV123/NihalV123/workflows/yearly-progress/badge.svg)
 
  ---
 
