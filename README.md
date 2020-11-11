@@ -267,6 +267,10 @@ ASP                      1 repo              █████░░░░░░�
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
+### Medium Article
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
+
 ### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
