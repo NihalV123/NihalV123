@@ -81,6 +81,7 @@
 ![Latest blog post workflow](https://github.com/NihalV123/NihalV123/workflows/Latest%20blog%20post%20workflow/badge.svg?branch=master)
 ![Waka Readme](https://github.com/NihalV123/NihalV123/workflows/Waka%20Readme/badge.svg?branch=master)
 ![Greetings](https://github.com/NihalV123/NihalV123/workflows/Greetings/badge.svg?branch=master)
+![Profile_stat](https://github.com/NihalV123/NihalV123/workflows/profile_readme_stat/badge.svg)
 
  ---
 
