@@ -17,7 +17,7 @@ jobs:
      - name: Create README.md
        uses: actions-js/profile-readme@master
        with:
-          username: <your username>
+          username: user.name
           github_token: ${{ secrets.GITHUB_TOKEN }}
      - uses: actions/checkout@v2
        with:
