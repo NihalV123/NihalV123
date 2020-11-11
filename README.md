@@ -162,16 +162,12 @@ Quote of the hour:
 
 ### :zap: Recent Activity
 
-* ⬆️ Pushed 1 commit to NihalV123/NihalV123
-* ⬆️ Pushed 1 commit to NihalV123/NihalV123
-* ⬆️ Pushed 1 commit to NihalV123/NihalV123
-* ⬆️ Pushed 1 commit to NihalV123/NihalV123
-* ⬆️ Pushed 1 commit to NihalV123/NihalV123
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 
 <p align="center">
   Last refresh: 
-  <b>2020-11-11T04:24:01Z</b>
+  <b><!--TIMESTAMP--></b>
 </p>
 
  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -276,28 +272,26 @@ ASP                      1 repo              █████░░░░░░�
 	<img align="center" src="/assets/pagespeed.svg" width="800px">
 </p>
 
-Account age: {{ ACCOUNT_AGE }} years
+Account age: 6 years
 
-Pushed {{ COMMITS }} commits
+Pushed 528 commits
 
-Opened {{ ISSUES }} issues
+Opened 6 issues
 
-Submitted {{ PULL_REQUESTS }} pull requests
+Submitted 5 pull requests
 
-Received {{ STARS }} stars
+Received 2 stars
 
-Own {{ REPOSITORIES }} repositories
+Own 7 repositories
 
-Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+Contributed to 5 public repositories
 
 Top 8 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
+ Java  ASP  Shell  JavaScript  C#  Dockerfile 
 Top 4 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
+ Java  ASP  Shell  Other 
 
  ---
 
