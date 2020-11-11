@@ -1,4 +1,4 @@
-name: today's Waka Stats 
+name: Today's Waka Stats 
 
 on:
   schedule:
