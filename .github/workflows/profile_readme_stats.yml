@@ -1,4 +1,4 @@
-name: profile_readme_stat
+name: Create readme from template
 on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
