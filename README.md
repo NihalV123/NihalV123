@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US veterans and gold star families can now enjoy a lifetime of free national park access](https://www.reddit.com/r/news/comments/jst0iz/us_veterans_and_gold_star_families_can_now_enjoy/)
+- [The Covid-19 vaccine will require 2 doses to work and may cause temporary flu-like side effects](https://www.reddit.com/r/news/comments/jss9xj/the_covid19_vaccine_will_require_2_doses_to_work/)
+- ['It looks like a cartoon': Latest botched art restoration draws ridicule in Spain](https://www.reddit.com/r/news/comments/jsraci/it_looks_like_a_cartoon_latest_botched_art/)
+- [Pfizer CEO Sells Stock Same Day as Vaccine Announcement](https://www.reddit.com/r/news/comments/jsqr00/pfizer_ceo_sells_stock_same_day_as_vaccine/)
+- [Pro-democracy lawmakers resign in Hong Kong's 'darkest day ... so far'](https://www.reddit.com/r/news/comments/jspqye/prodemocracy_lawmakers_resign_in_hong_kongs/)
 <!-- REDDIT:END -->
 
 
