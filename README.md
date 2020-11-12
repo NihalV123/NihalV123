@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [On Election Day, Key West voted to ban large cruise ships](https://www.reddit.com/r/news/comments/jsjfda/on_election_day_key_west_voted_to_ban_large/)
+- [San Angelo police: Infant found with injection marks is on life support after testing positive for heroin](https://www.reddit.com/r/news/comments/jsi2ex/san_angelo_police_infant_found_with_injection/)
+- [Openly gay justice and former NFL player, Martin Jenkins, confirmed to CA Supreme Court.](https://www.reddit.com/r/news/comments/jshdjz/openly_gay_justice_and_former_nfl_player_martin/)
+- [Starting Friday 11/13, NY Governor Says All Bars, Restaurants and Gyms Must Close by 10 P.M. as Coronavirus Cases Increase](https://www.reddit.com/r/news/comments/jsfqgx/starting_friday_1113_ny_governor_says_all_bars/)
+- [There's a new memorial going up in DC today to honor Native American veterans](https://www.reddit.com/r/news/comments/jseb4a/theres_a_new_memorial_going_up_in_dc_today_to/)
 <!-- REDDIT:END -->
 
 
