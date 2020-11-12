@@ -163,12 +163,6 @@ Quote of the hour:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-2. 💪 Opened PR [#3](https://github.com/NihalV123/hello_world/pull/3) in [NihalV123/hello_world](https://github.com/NihalV123/hello_world)
-3. 🎉 Merged PR [#4](https://github.com/NihalV123/activity_template/pull/4) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-4. 💪 Opened PR [#4](https://github.com/NihalV123/activity_template/pull/4) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-5. 🎉 Merged PR [#3](https://github.com/NihalV123/activity_template/pull/3) in [NihalV123/activity_template](https://github.com/NihalV123/activity_template)
-<!--END_SECTION:activity-->
 
  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -340,11 +334,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [On Election Day, Key West voted to ban large cruise ships](https://www.reddit.com/r/news/comments/jsjfda/on_election_day_key_west_voted_to_ban_large/)
-- [San Angelo police: Infant found with injection marks is on life support after testing positive for heroin](https://www.reddit.com/r/news/comments/jsi2ex/san_angelo_police_infant_found_with_injection/)
-- [Openly gay justice and former NFL player, Martin Jenkins, confirmed to CA Supreme Court.](https://www.reddit.com/r/news/comments/jshdjz/openly_gay_justice_and_former_nfl_player_martin/)
-- [Starting Friday 11/13, NY Governor Says All Bars, Restaurants and Gyms Must Close by 10 P.M. as Coronavirus Cases Increase](https://www.reddit.com/r/news/comments/jsfqgx/starting_friday_1113_ny_governor_says_all_bars/)
-- [There's a new memorial going up in DC today to honor Native American veterans](https://www.reddit.com/r/news/comments/jseb4a/theres_a_new_memorial_going_up_in_dc_today_to/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
@@ -403,11 +397,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
 - [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
 - [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
 - [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
 - [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
