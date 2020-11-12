@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An Indigenous Effort to Return Condors to the Pacific Northwest Nears Its Goal](https://www.reddit.com/r/news/comments/jsx5pe/an_indigenous_effort_to_return_condors_to_the/)
+- [Proud Boys leader trying to rebrand the group as explicitly antisemitic](https://www.reddit.com/r/news/comments/jswvmc/proud_boys_leader_trying_to_rebrand_the_group_as/)
+- [Covid-19 in the US is a 'humanitarian disaster,' and the pandemic is only accelerating, experts say](https://www.reddit.com/r/news/comments/jswskk/covid19_in_the_us_is_a_humanitarian_disaster_and/)
+- ['We won': Indigenous group in Canada scoops up billion dollar seafood firm](https://www.reddit.com/r/news/comments/jswsby/we_won_indigenous_group_in_canada_scoops_up/)
+- [Dr. Fauci says ‘help is on the way’ with vaccines, but doubts Covid can ever be eradicated](https://www.reddit.com/r/news/comments/jsw69j/dr_fauci_says_help_is_on_the_way_with_vaccines/)
 <!-- REDDIT:END -->
 
 
