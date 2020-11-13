@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutor reads racist messages by Ahmaud Arbery's killer](https://www.reddit.com/r/news/comments/jt51xa/prosecutor_reads_racist_messages_by_ahmaud/)
+- [U.S. judge dismisses Trump campaign libel lawsuit against CNN](https://www.reddit.com/r/news/comments/jt4vdr/us_judge_dismisses_trump_campaign_libel_lawsuit/)
+- [Post-election audits find no fraud in Arizona](https://www.reddit.com/r/news/comments/jt4r59/postelection_audits_find_no_fraud_in_arizona/)
+- [Two Homeland Security officials forced to resign by White House](https://www.reddit.com/r/news/comments/jt4db3/two_homeland_security_officials_forced_to_resign/)
+- [North Dakota allows Covid-positive healthcare workers to stay on job as nurses warn it's 'irresponsible'](https://www.reddit.com/r/news/comments/jt3a54/north_dakota_allows_covidpositive_healthcare/)
 <!-- REDDIT:END -->
 
 
