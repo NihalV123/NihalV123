@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Miami Marlins name Kim Ng 1st female general manager in Major League Baseball history](https://www.reddit.com/r/news/comments/jtjarc/miami_marlins_name_kim_ng_1st_female_general/)
+- [Report: Over 130 Secret Service officers either infected with Covid or quarantining](https://www.reddit.com/r/news/comments/jtj4kl/report_over_130_secret_service_officers_either/)
+- [Philadelphia City Council formally apologizes for MOVE bombing 35 years ago](https://www.reddit.com/r/news/comments/jti0f4/philadelphia_city_council_formally_apologizes_for/)
+- [Two men caught leaving London for Dubai with cash-filled suitcases](https://www.reddit.com/r/news/comments/jthzzk/two_men_caught_leaving_london_for_dubai_with/)
+- [Alaska congressman who ridiculed coronavirus now says he has COVID-19](https://www.reddit.com/r/news/comments/jthx85/alaska_congressman_who_ridiculed_coronavirus_now/)
 <!-- REDDIT:END -->
 
 
