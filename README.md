@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man sentenced to 2 years for threatening to burn down Black church in Virginia](https://www.reddit.com/r/news/comments/jtf059/man_sentenced_to_2_years_for_threatening_to_burn/)
+- [Fox 6 Ted Perry suspended at least a week for joking about Senate Majority Leader Mitch McConnell's death](https://www.reddit.com/r/news/comments/jtasak/fox_6_ted_perry_suspended_at_least_a_week_for/)
+- [Fauci says U.S. has 'independent spirit,' but now is the time to ‘do what you’re told’](https://www.reddit.com/r/news/comments/jt8j51/fauci_says_us_has_independent_spirit_but_now_is/)
+- [Fired Amazon worker sues over pandemic working conditions](https://www.reddit.com/r/news/comments/jt89dd/fired_amazon_worker_sues_over_pandemic_working/)
+- [DHS panel says 2020 vote was 'most secure in American history' -- FCW](https://www.reddit.com/r/news/comments/jt7mme/dhs_panel_says_2020_vote_was_most_secure_in/)
 <!-- REDDIT:END -->
 
 
