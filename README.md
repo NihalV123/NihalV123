@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI wanted to arrest Epstein at Virgin Islands beauty pageant months before plea deal cut](https://www.reddit.com/r/news/comments/jtqmzo/fbi_wanted_to_arrest_epstein_at_virgin_islands/)
+- [Elon Musk may have Covid-19, putting SpaceX's plan to launch astronauts this weekend into question](https://www.reddit.com/r/news/comments/jtq4fx/elon_musk_may_have_covid19_putting_spacexs_plan/)
+- [GM recalling nearly 69K Bolt electric cars due to fire risk](https://www.reddit.com/r/news/comments/jtpaua/gm_recalling_nearly_69k_bolt_electric_cars_due_to/)
+- [New Mexico governor announces 2-week 'shelter in place' order](https://www.reddit.com/r/news/comments/jtom35/new_mexico_governor_announces_2week_shelter_in/)
+- [Costco: Those who can't wear masks must wear face shield](https://www.reddit.com/r/news/comments/jtnz3k/costco_those_who_cant_wear_masks_must_wear_face/)
 <!-- REDDIT:END -->
 
 
