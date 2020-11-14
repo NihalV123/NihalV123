@@ -123,6 +123,7 @@
   <br>
   <br>
   <p class="has-text-grey">Photo by <a href="https://unsplash.com/@zhangkaiyv?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">zhang kaiyv</a> on <a href="https://unsplash.com/photos/h5qYLsmFm2M?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&redirect=true)
 
  ---
