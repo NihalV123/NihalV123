@@ -127,7 +127,13 @@
   <br>
   <p class="has-text-grey">Photo by <a href="https://unsplash.com/@zhangkaiyv?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">zhang kaiyv</a> on <a href="https://unsplash.com/photos/h5qYLsmFm2M?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
   
-  ///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////
+  ### Latest releases:
+
+ 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-27T19:45:54Z
+
+ 2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
+
+ 3 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
   
   
  ---
@@ -272,26 +278,28 @@ ASP                      1 repo              █████░░░░░░�
 	<img align="center" src="/assets/pagespeed.svg" width="800px">
 </p>
 
-Account age: 6 years
+Account age: {{ ACCOUNT_AGE }} years
 
-Pushed 548 commits
+Pushed {{ COMMITS }} commits
 
-Opened 6 issues
+Opened {{ ISSUES }} issues
 
-Submitted 5 pull requests
+Submitted {{ PULL_REQUESTS }} pull requests
 
-Received 2 stars
+Received {{ STARS }} stars
 
-Own 7 repositories
+Own {{ REPOSITORIES }} repositories
 
-Contributed to 5 public repositories
+Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
 
 Top 8 most used languages across your repositories:
 
- Java  ASP  Shell  JavaScript  C#  Python  Dockerfile 
+{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 Top 4 most used languages across your repositories:
 
- Java  ASP  Shell  Other 
+{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
+
 
  ---
 
