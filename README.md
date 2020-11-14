@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect in Ahmaud Arbery killing called DA from the crime scene seeking advice, prosecutor says](https://www.reddit.com/r/news/comments/ju41vt/suspect_in_ahmaud_arbery_killing_called_da_from/)
+- [Dog survives fall from 70-foot cliff unscathed](https://www.reddit.com/r/news/comments/ju3ezr/dog_survives_fall_from_70foot_cliff_unscathed/)
+- [Suicide claimed more Japanese lives in October than 10 months of COVID](https://www.reddit.com/r/news/comments/ju2x84/suicide_claimed_more_japanese_lives_in_october/)
+- [UAB Hospital has cared for more than one person reinfected with COVID-19](https://www.reddit.com/r/news/comments/ju2m3k/uab_hospital_has_cared_for_more_than_one_person/)
+- [Defense Secretary Miller signals troop drawdown ahead: 'All wars must end'](https://www.reddit.com/r/news/comments/ju1ub6/defense_secretary_miller_signals_troop_drawdown/)
 <!-- REDDIT:END -->
 
 
