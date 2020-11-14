@@ -127,7 +127,13 @@
   <br>
   <p class="has-text-grey">Photo by <a href="https://unsplash.com/@zhangkaiyv?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">zhang kaiyv</a> on <a href="https://unsplash.com/photos/h5qYLsmFm2M?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
   
-  ///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////
+  ### Latest releases:
+
+ 1 . [cargo-aur-packer](https://github.com/alx365/cargo-aur-packer): 2020-09-27T19:45:54Z
+
+ 2 . [RickRollOS](https://github.com/alx365/RickRollOS): 2020-06-20T12:36:21Z
+
+ 3 . [Themefox-Manager](https://github.com/alx365/Themefox-Manager): 2020-06-19T15:22:01Z
   
   
  ---
