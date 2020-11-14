@@ -39,7 +39,7 @@ f = open('TEMPLATE.md')
 text = f.read().replace("///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////", injection_text)
 print("File: " + text)
 
-readme = open("README.md", "w+")
+readme = open("TEMPLATE.md", "w+")
 readme.write(text)
 #dates.sort()
 #dates.reverse()
