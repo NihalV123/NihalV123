@@ -88,8 +88,8 @@
 
 ### Projects
 
-|  |NAME|DESC|STAR|MADE WITH|
-|--|--|--|--|--|
+|  |NAME|DESC|STAR|LANGUAGE|FORKS|ISSUES|PR|
+|--|--|--|--|--|--|--|--|
 |  |ansible-Debian| ansible config for Debian based distros | 1 |Ansible |
 |  | food-server |  | 1 | |
 |  |food-client  |  | 1 | |
