@@ -33,7 +33,7 @@ def percent_to_progressbar(percent: float):
 
 
 # get data and convert to Dict[]
-target_api = "https://api.github.com/users/jojoee/events?per_page=100"
+target_api = "https://api.github.com/users/NihalV123/events?per_page=100"
 res_bytes = urllib.request.urlopen(target_api).read()
 res_str = res_bytes.decode("utf-8")
 events = json.loads(res_str)
