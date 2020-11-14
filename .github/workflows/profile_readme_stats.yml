@@ -34,7 +34,7 @@ jobs:
       env:
         SIMONW_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |-
-        python  /assets/event.py
+        python assets/event.py
     - name: Read README
       run: cat README.md
     
