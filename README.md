@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutors ask Barr to rescind memo on U.S. vote counting irregularities - Washington Post](https://www.reddit.com/r/news/comments/jtv2w4/prosecutors_ask_barr_to_rescind_memo_on_us_vote/)
+- [Police in Arizona looking into the death of Lori Vallow's third husband as she sits in an Idaho jail](https://www.reddit.com/r/news/comments/jtv0za/police_in_arizona_looking_into_the_death_of_lori/)
+- [Kenosha County Board votes to pay for body cameras for sheriff's office](https://www.reddit.com/r/news/comments/jtup2n/kenosha_county_board_votes_to_pay_for_body/)
+- [Puerto Rico to activate National Guard to fight COVID-19](https://www.reddit.com/r/news/comments/jttn6v/puerto_rico_to_activate_national_guard_to_fight/)
+- [Nevada Governor Steve Sisolak tests positive for COVID-19 as virus surges in Nevada, across the nation](https://www.reddit.com/r/news/comments/jtssrw/nevada_governor_steve_sisolak_tests_positive_for/)
 <!-- REDDIT:END -->
 
 
