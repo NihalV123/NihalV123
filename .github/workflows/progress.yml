@@ -20,7 +20,7 @@ jobs:
 
     - name: Update README.md
       run: |
-        python /assets/event.py > README.md
+        python assets/event.py > README.md
         cat README.md # debug
     - name: Commit changes
       uses: EndBug/add-and-commit@v5
