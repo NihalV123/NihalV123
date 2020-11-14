@@ -120,12 +120,15 @@
 <!--[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
 -->
 
-[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&redirect=true)
 
   <a href="https://www.dailyrandomphoto.com/p/2020/2020-09-16/"><img src="https://images.unsplash.com/photo-1599719794412-0c646b0bf2f3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjc3NTA4fQ" width="600px"></a>
   <br>
   <br>
   <p class="has-text-grey">Photo by <a href="https://unsplash.com/@zhangkaiyv?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">zhang kaiyv</a> on <a href="https://unsplash.com/photos/h5qYLsmFm2M?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  
+  ///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////
+  
   
  ---
 
@@ -271,7 +274,7 @@ ASP                      1 repo              █████░░░░░░�
 
 Account age: 6 years
 
-Pushed 546 commits
+Pushed 547 commits
 
 Opened 6 issues
 
