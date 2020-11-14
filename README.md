@@ -278,28 +278,26 @@ ASP                      1 repo              █████░░░░░░�
 	<img align="center" src="/assets/pagespeed.svg" width="800px">
 </p>
 
-Account age: {{ ACCOUNT_AGE }} years
+Account age: 6 years
 
-Pushed {{ COMMITS }} commits
+Pushed 565 commits
 
-Opened {{ ISSUES }} issues
+Opened 6 issues
 
-Submitted {{ PULL_REQUESTS }} pull requests
+Submitted 5 pull requests
 
-Received {{ STARS }} stars
+Received 2 stars
 
-Own {{ REPOSITORIES }} repositories
+Own 7 repositories
 
-Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories
+Contributed to 5 public repositories
 
 Top 8 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
+ Java  ASP  Shell  JavaScript  C#  Python  Dockerfile 
 Top 4 most used languages across your repositories:
 
-{{ LANGUAGE_TEMPLATE_START:max=4 }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}
-
+ Java  ASP  Shell  Other 
 
  ---
 
