@@ -340,11 +340,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White supremacist sentenced to 2 years in bomb plot case](https://www.reddit.com/r/news/comments/jtxva2/white_supremacist_sentenced_to_2_years_in_bomb/)
+- [Constitutional Court recognizes right of same-sex couple to parental leave](https://www.reddit.com/r/news/comments/jtxv66/constitutional_court_recognizes_right_of_samesex/)
+- [Violent extremism linked to failure of migrants to integrate, EU says](https://www.reddit.com/r/news/comments/jtw5cx/violent_extremism_linked_to_failure_of_migrants/)
+- [Prosecutors ask Barr to rescind memo on U.S. vote counting irregularities - Washington Post](https://www.reddit.com/r/news/comments/jtv2w4/prosecutors_ask_barr_to_rescind_memo_on_us_vote/)
+- [Police in Arizona looking into the death of Lori Vallow's third husband as she sits in an Idaho jail](https://www.reddit.com/r/news/comments/jtv0za/police_in_arizona_looking_into_the_death_of_lori/)
 <!-- REDDIT:END -->
 
 
