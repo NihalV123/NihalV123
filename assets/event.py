@@ -35,7 +35,7 @@ for w in sorted(dates, key=dates.get, reverse=True):
         
         
 #print(injection_text)
-f = open('/assets/TEMPLATE.md')
+f = open('TEMPLATE.md')
 text = f.read().replace("///////////////////////////AUTOMATIC CONTENT GOES HERE///////////////////////////", injection_text)
 print("File: " + text)
 
