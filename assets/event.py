@@ -8,6 +8,7 @@ import sys
 
 def datetime_from_utc_to_local(utc_datetime: datetime):
     """
+
     :param utc_datetime:
     :return:
     """
@@ -18,6 +19,7 @@ def datetime_from_utc_to_local(utc_datetime: datetime):
 
 def percent_to_progressbar(percent: float):
     """
+
     :param percent: percent percentage 53.36
     :return:
     """
@@ -31,7 +33,7 @@ def percent_to_progressbar(percent: float):
 
 
 # get data and convert to Dict[]
-target_api = "https://api.github.com/users/NihalV123/events?per_page=100"
+target_api = "https://api.github.com/users/jojoee/events?per_page=100"
 res_bytes = urllib.request.urlopen(target_api).read()
 res_str = res_bytes.decode("utf-8")
 events = json.loads(res_str)
@@ -78,8 +80,10 @@ clock_percent_d = {
 }
 
 print("""Hi :smiley: :wave:
+
 <img src="https://jojoee.jojoee.com/api/utcnow" width="120" height="20">
 
+In the latest %s commits :bug:, am I morning person ? 
 | | | | |%%|
 | --- | --- | --- | --- | --- |
 | :sunny: | Morning | (06.00-12.00] | %s | %.2f |
