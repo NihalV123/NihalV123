@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Covid kills 4-year-old boy's mom and dad in San Antonio](https://www.reddit.com/r/news/comments/jubabv/covid_kills_4yearold_boys_mom_and_dad_in_san/)
+- [Federal judge rules acting DHS head Chad Wolf unlawfully appointed, invalidates DACA suspension](https://www.reddit.com/r/news/comments/juamk5/federal_judge_rules_acting_dhs_head_chad_wolf/)
+- [A veteran died in a Florida jail. Two years later, video shows he was tased, left convulsing in a cell.](https://www.reddit.com/r/news/comments/jua8dr/a_veteran_died_in_a_florida_jail_two_years_later/)
+- [Physician predicts spike in US Covid-19 cases after Thanksgiving](https://www.reddit.com/r/news/comments/jua5oo/physician_predicts_spike_in_us_covid19_cases/)
+- [Germany: Thousands evacuated in Berlin as World War II bomb is defused](https://www.reddit.com/r/news/comments/ju9i0h/germany_thousands_evacuated_in_berlin_as_world/)
 <!-- REDDIT:END -->
 
 
