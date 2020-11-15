@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Peruvian President Merino resigns after protests](https://www.reddit.com/r/news/comments/jupkej/peruvian_president_merino_resigns_after_protests/)
+- [Tesla Supercharging now more expensive than petrol refuelling](https://www.reddit.com/r/news/comments/juodyr/tesla_supercharging_now_more_expensive_than/)
+- [Fight club in New York City with over 200 people broken up by authorities](https://www.reddit.com/r/news/comments/junk1b/fight_club_in_new_york_city_with_over_200_people/)
+- [Exclusive: Drugmakers offer Canada C$1 billion to scrap some pending pricing rules](https://www.reddit.com/r/news/comments/jumzo5/exclusive_drugmakers_offer_canada_c1_billion_to/)
+- [Iota strengthens into 13th hurricane of 2020](https://www.reddit.com/r/news/comments/julhuj/iota_strengthens_into_13th_hurricane_of_2020/)
 <!-- REDDIT:END -->
 
 
