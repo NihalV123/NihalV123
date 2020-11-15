@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Value of West Texas oil lands plunging amid virus pandemic](https://www.reddit.com/r/news/comments/jug024/value_of_west_texas_oil_lands_plunging_amid_virus/)
+- [Texas AG whistleblowers sue for wrongful firing, retaliation](https://www.reddit.com/r/news/comments/jufl9h/texas_ag_whistleblowers_sue_for_wrongful_firing/)
+- [Oregon white supremacist prison gang members arrested in major drug and firearm bust](https://www.reddit.com/r/news/comments/jufdte/oregon_white_supremacist_prison_gang_members/)
+- [Judge rules Daca suspension invalid, Homeland Security head in office illegally](https://www.reddit.com/r/news/comments/juewj1/judge_rules_daca_suspension_invalid_homeland/)
+- [Elon Musk says 'most likely' has a moderate case of COVID-19](https://www.reddit.com/r/news/comments/jue9y3/elon_musk_says_most_likely_has_a_moderate_case_of/)
 <!-- REDDIT:END -->
 
 
