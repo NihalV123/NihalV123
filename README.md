@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video gaming can benefit mental health, find Oxford academics](https://www.reddit.com/r/news/comments/jv4eke/video_gaming_can_benefit_mental_health_find/)
+- [Attorney sentenced to 4 years for smuggling meth into Cass County Jail](https://www.reddit.com/r/news/comments/jv45j4/attorney_sentenced_to_4_years_for_smuggling_meth/)
+- [Citizen journalist facing jail in China for Wuhan Covid reporting](https://www.reddit.com/r/news/comments/jv3rka/citizen_journalist_facing_jail_in_china_for_wuhan/)
+- [Alleged porch pirate arrested after wearing exact same shirt to court from surveillance footage](https://www.reddit.com/r/news/comments/jv3eu1/alleged_porch_pirate_arrested_after_wearing_exact/)
+- [Alaska Airlines flight hits bear on runway in Yakutat, AK](https://www.reddit.com/r/news/comments/jv26bb/alaska_airlines_flight_hits_bear_on_runway_in/)
 <!-- REDDIT:END -->
 
 
