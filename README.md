@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hate crime murders surged to record high in 2019, FBI data show](https://www.reddit.com/r/news/comments/jvaxjv/hate_crime_murders_surged_to_record_high_in_2019/)
+- [QAnon Supporters, Paramilitary Groups Promise ‘Fight' Over Election At Pro-Trump Rally Near Nevada’s Capitol](https://www.reddit.com/r/news/comments/jva8dn/qanon_supporters_paramilitary_groups_promise/)
+- [2,200 Philly-area nurses are threatening to strike during a coronavirus surge for ‘safe patient limits’](https://www.reddit.com/r/news/comments/jv9gk3/2200_phillyarea_nurses_are_threatening_to_strike/)
+- [Faulkner County family devastated after investigator goes to the wrong house and shoots child’s dog](https://www.reddit.com/r/news/comments/jv99q8/faulkner_county_family_devastated_after/)
+- [The United Nations and European Union have criticised an Israeli plan to build 1 250 homes for Jewish settlers on the edge of occupied East Jerusalem](https://www.reddit.com/r/news/comments/jv8uyz/the_united_nations_and_european_union_have/)
 <!-- REDDIT:END -->
 
 
