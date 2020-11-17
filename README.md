@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-fencing coach, telecom CEO charged in $1.5 million bribery scheme to get kids into Harvard](https://www.reddit.com/r/news/comments/jvhr31/exfencing_coach_telecom_ceo_charged_in_15_million/)
+- [Northam says "it's time to legalize marijuana" for recreational use in Virginia](https://www.reddit.com/r/news/comments/jvho21/northam_says_its_time_to_legalize_marijuana_for/)
+- [White House Orders Thousands Of U.S. Troops Withdrawn from Afghanistan and Iraq](https://www.reddit.com/r/news/comments/jvhd8z/white_house_orders_thousands_of_us_troops/)
+- [3rd Breonna Taylor grand juror: Cops 'got slap on the wrist'](https://www.reddit.com/r/news/comments/jvfr8v/3rd_breonna_taylor_grand_juror_cops_got_slap_on/)
+- [40 Calif. counties in massive rollback as COVID-19 cases double in 10 days](https://www.reddit.com/r/news/comments/jvfjdy/40_calif_counties_in_massive_rollback_as_covid19/)
 <!-- REDDIT:END -->
 
 
