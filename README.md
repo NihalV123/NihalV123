@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Covid-19 is sending Black, Latino and Native American people to the hospital at about 4 times the rate of others](https://www.reddit.com/r/news/comments/jvr51f/covid19_is_sending_black_latino_and_native/)
+- [Nurse: Some patients who test positive refuse to believe they have Covid-19 - CNN Video](https://www.reddit.com/r/news/comments/jvqyik/nurse_some_patients_who_test_positive_refuse_to/)
+- [Indian students contributed USD 7.6 billion to US economy last year](https://www.reddit.com/r/news/comments/jvq5i7/indian_students_contributed_usd_76_billion_to_us/)
+- [Thousands in Texas line up in cars to receive food before Thanksgiving](https://www.reddit.com/r/news/comments/jvpw3n/thousands_in_texas_line_up_in_cars_to_receive/)
+- [U.S. nurse says dying COVID-19 patients spent last minutes insisting virus isn't real](https://www.reddit.com/r/news/comments/jvo3ty/us_nurse_says_dying_covid19_patients_spent_last/)
 <!-- REDDIT:END -->
 
 
