@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boy Scouts of America: Almost 100,000 make sexual abuse compensation claims](https://www.reddit.com/r/news/comments/jvwrt0/boy_scouts_of_america_almost_100000_make_sexual/)
+- [New mutated strain of coronavirus emerges in Russia’s Siberia — watchdog chief - Society & Culture](https://www.reddit.com/r/news/comments/jvvrd6/new_mutated_strain_of_coronavirus_emerges_in/)
+- [Michigan woman who killed abusive husband freed from prison](https://www.reddit.com/r/news/comments/jvv9kh/michigan_woman_who_killed_abusive_husband_freed/)
+- [TikTok expands features to give parents more control of their teenagers' accounts](https://www.reddit.com/r/news/comments/jvum8t/tiktok_expands_features_to_give_parents_more/)
+- [Ponzi scheme suspect flees into frigid California lake using underwater ‘sea scooter’](https://www.reddit.com/r/news/comments/jvu0va/ponzi_scheme_suspect_flees_into_frigid_california/)
 <!-- REDDIT:END -->
 
 
