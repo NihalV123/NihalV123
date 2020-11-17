@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.51 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=Vt7omOyyjrc)
 - [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
 - [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
 - [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
 - [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Inmates in El Paso are volunteering to move bodies of Covid-19 victims at medical examiner's office](https://www.reddit.com/r/news/comments/jvlb7r/inmates_in_el_paso_are_volunteering_to_move/)
-- [Report: Sen. Graham pressured Ga. secretary of state to throw out legally cast ballots](https://www.reddit.com/r/news/comments/jvktos/report_sen_graham_pressured_ga_secretary_of_state/)
-- [University of California agrees to $73M sex abuse settlement](https://www.reddit.com/r/news/comments/jvkoz5/university_of_california_agrees_to_73m_sex_abuse/)
-- [Ex-Green Beret charged with Russian espionage to enter plea](https://www.reddit.com/r/news/comments/jvkkop/exgreen_beret_charged_with_russian_espionage_to/)
-- [At least 79 dead in the explosion of a clandestine fuel outlet in Mexico](https://www.reddit.com/r/news/comments/jvjuhb/at_least_79_dead_in_the_explosion_of_a/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
 - [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
 - [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
 - [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
 - [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
