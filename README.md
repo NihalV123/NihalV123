@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio House passes bill preventing governor, health director from shutting down businesses](https://www.reddit.com/r/news/comments/jx5w7i/ohio_house_passes_bill_preventing_governor_health/)
+- [Incredible 1,000-year-old Viking burial site found in Norway belonged to 'Iron Age elite'](https://www.reddit.com/r/news/comments/jx38zy/incredible_1000yearold_viking_burial_site_found/)
+- [U.S. weekly jobless claims total 742,000, vs 710,000 estimate](https://www.reddit.com/r/news/comments/jx34ue/us_weekly_jobless_claims_total_742000_vs_710000/)
+- [Office of Career and Professional Development at California State University, East Bay has published a database of remote vacancies across the nation to help combat the unemployment crisis](https://www.reddit.com/r/news/comments/jx2r1i/office_of_career_and_professional_development_at/)
+- [Video shows Florida deputy fatally shooting Black teens in moving car](https://www.reddit.com/r/news/comments/jx2ivh/video_shows_florida_deputy_fatally_shooting_black/)
 <!-- REDDIT:END -->
 
 
