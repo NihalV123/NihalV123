@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exclusive: Canada in talks to donate extra COVID-19 vaccine shots to poorer countries - sources](https://www.reddit.com/r/news/comments/jwocb4/exclusive_canada_in_talks_to_donate_extra_covid19/)
+- [Dinosaurs would have continued to thrive had it not been for the asteroid, researchers say](https://www.reddit.com/r/news/comments/jwo9xc/dinosaurs_would_have_continued_to_thrive_had_it/)
+- [More than 900 Mayo Clinic staff in Midwest diagnosed with Covid-19 in past two weeks](https://www.reddit.com/r/news/comments/jwntmm/more_than_900_mayo_clinic_staff_in_midwest/)
+- [Former U.S. Green Beret soldier pleads guilty to Russian spy conspiracy](https://www.reddit.com/r/news/comments/jwn34q/former_us_green_beret_soldier_pleads_guilty_to/)
+- [Apple, U.S. states reach $113 million settlement on iPhone throttling](https://www.reddit.com/r/news/comments/jwmukt/apple_us_states_reach_113_million_settlement_on/)
 <!-- REDDIT:END -->
 
 
