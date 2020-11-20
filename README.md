@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court clears path for federal government to carry out execution of man convicted of kidnapping and raping 16-year-old Texas girl, bludgeoning her with shovel and burying her alive](https://www.reddit.com/r/news/comments/jxig7w/supreme_court_clears_path_for_federal_government/)
+- [Organic compounds called phenazines can kill cancer cells while leaving others unharmed, suggest scientists.](https://www.reddit.com/r/news/comments/jxhv8m/organic_compounds_called_phenazines_can_kill/)
+- [[A] Missouri health director quits over harassment for telling the truth about pandemic](https://www.reddit.com/r/news/comments/jxht9q/a_missouri_health_director_quits_over_harassment/)
+- [A gym trainer exposed 50 athletes to Covid-19, but no one else got sick because of a ventilation redesign](https://www.reddit.com/r/news/comments/jxgwm4/a_gym_trainer_exposed_50_athletes_to_covid19_but/)
+- [Starbucks raising wages for baristas](https://www.reddit.com/r/news/comments/jxgpn6/starbucks_raising_wages_for_baristas/)
 <!-- REDDIT:END -->
 
 
