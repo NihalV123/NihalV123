@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After meeting with Trump, Michigan lawmakers say they see nothing to overturn Biden's win](https://www.reddit.com/r/news/comments/jy39ve/after_meeting_with_trump_michigan_lawmakers_say/)
+- [Teen who met grandma from accidental text shares Thanksgiving plans after COVID-19 loss](https://www.reddit.com/r/news/comments/jy367t/teen_who_met_grandma_from_accidental_text_shares/)
+- [Vogue deletes article about Martha's Vineyard wedding amid Covid cases](https://www.reddit.com/r/news/comments/jy2k5k/vogue_deletes_article_about_marthas_vineyard/)
+- [Illinois man, 81, uses antique walking stick to beat thieves](https://www.reddit.com/r/news/comments/jy1l3j/illinois_man_81_uses_antique_walking_stick_to/)
+- [1st drug for rare rapid-aging disease extends kids' lives](https://www.reddit.com/r/news/comments/jy1jts/1st_drug_for_rare_rapidaging_disease_extends_kids/)
 <!-- REDDIT:END -->
 
 
