@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Many of us have PTSD’: 700 US nurses strike over Covid fears](https://www.reddit.com/r/news/comments/jy8pc8/many_of_us_have_ptsd_700_us_nurses_strike_over/)
+- [Sturgis motorcycle rally in South Dakota linked to a Covid-19 outbreak in Minnesota, new report says](https://www.reddit.com/r/news/comments/jy8ltq/sturgis_motorcycle_rally_in_south_dakota_linked/)
+- ['Longest-serving cannabis offender' to be released early from 90-year prison sentence](https://www.reddit.com/r/news/comments/jy8kqy/longestserving_cannabis_offender_to_be_released/)
+- [Deep Frozen Arctic Microbes Are Waking Up. Thawing permafrost is releasing microorganisms, with consequences that are still largely unknown](https://www.reddit.com/r/news/comments/jy6vk6/deep_frozen_arctic_microbes_are_waking_up_thawing/)
+- [Mississippi chicken plants paid employees below minimum wage, hired a child, feds say](https://www.reddit.com/r/news/comments/jy6cpe/mississippi_chicken_plants_paid_employees_below/)
 <!-- REDDIT:END -->
 
 
