@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [15-year-old arrested in connection to the Mayfair Mall shooting](https://www.reddit.com/r/news/comments/jz5l11/15yearold_arrested_in_connection_to_the_mayfair/)
+- [Beach erosion from Tropical Storm Eta unearthed remnants of an 1800s shipwreck in Florida](https://www.reddit.com/r/news/comments/jz3rbh/beach_erosion_from_tropical_storm_eta_unearthed/)
+- [Ice Bucket Challenge co-creator Patrick Quinn dies at age 37](https://www.reddit.com/r/news/comments/jz3ifg/ice_bucket_challenge_cocreator_patrick_quinn_dies/)
+- [United States formally withdraws from Treaty on Open Skies](https://www.reddit.com/r/news/comments/jz2mni/united_states_formally_withdraws_from_treaty_on/)
+- [Man arrested in deadly attack at Nebraska Sonic restaurant](https://www.reddit.com/r/news/comments/jz2awd/man_arrested_in_deadly_attack_at_nebraska_sonic/)
 <!-- REDDIT:END -->
 
 
