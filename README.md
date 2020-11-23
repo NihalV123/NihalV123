@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House plans holiday party as Americans urged to stay home](https://www.reddit.com/r/news/comments/jzm3y3/white_house_plans_holiday_party_as_americans/)
+- [Helicopter pilot finds strange monolith in remote part of Utah](https://www.reddit.com/r/news/comments/jzkpad/helicopter_pilot_finds_strange_monolith_in_remote/)
+- [Six in 10 Americans are willing to receive COVID-19 vaccinations](https://www.reddit.com/r/news/comments/jzkosb/six_in_10_americans_are_willing_to_receive/)
+- [3rd major COVID-19 vaccine shown to be effective and cheaper](https://www.reddit.com/r/news/comments/jzkgrz/3rd_major_covid19_vaccine_shown_to_be_effective/)
+- [A woman was killed by her husband and in-laws. They were sentenced to three years in prison, sparking public outrage.](https://www.reddit.com/r/news/comments/jzk9ef/a_woman_was_killed_by_her_husband_and_inlaws_they/)
 <!-- REDDIT:END -->
 
 
