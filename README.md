@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel PM 'flew to Saudi Arabia for secret talks with crown prince'](https://www.reddit.com/r/news/comments/jzfuxj/israel_pm_flew_to_saudi_arabia_for_secret_talks/)
+- [Head of Tibet government-in-exile visits White House for first time in six decades](https://www.reddit.com/r/news/comments/jzd318/head_of_tibet_governmentinexile_visits_white/)
+- [Covid-19: Oxford University vaccine shows 70% protection](https://www.reddit.com/r/news/comments/jzcxtm/covid19_oxford_university_vaccine_shows_70/)
+- [2 dead in stabbing at church in San Jose, California](https://www.reddit.com/r/news/comments/jzcvo3/2_dead_in_stabbing_at_church_in_san_jose/)
+- [Coronavirus: Jewish leaders outraged Hanukkah gatherings banned, Christmas ones OK](https://www.reddit.com/r/news/comments/jzc4vw/coronavirus_jewish_leaders_outraged_hanukkah/)
 <!-- REDDIT:END -->
 
 
