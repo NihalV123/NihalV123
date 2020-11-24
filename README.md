@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alleged Jeffrey Epstein procurer Ghislaine Maxwell in jail quarantine after possible coronavirus exposure](https://www.reddit.com/r/news/comments/jzybpc/alleged_jeffrey_epstein_procurer_ghislaine/)
+- [Ferris State professor who called COVID-19 ‘leftist stunt,’ allegedly tweeted slurs, placed on leave](https://www.reddit.com/r/news/comments/jzy0nb/ferris_state_professor_who_called_covid19_leftist/)
+- [New York City to open field hospital for first time since spring as Covid-19 cases spike](https://www.reddit.com/r/news/comments/jzx3uw/new_york_city_to_open_field_hospital_for_first/)
+- [KFC rolls out self-driving food trucks in China and it's sort of wild](https://www.reddit.com/r/news/comments/jzwiab/kfc_rolls_out_selfdriving_food_trucks_in_china/)
+- [Doctors say CDC should warn people the side effects from Covid vaccine shots won't be 'a walk in the park'](https://www.reddit.com/r/news/comments/jzvpfs/doctors_say_cdc_should_warn_people_the_side/)
 <!-- REDDIT:END -->
 
 
