@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [GSA tells Biden that transition can formally begin](https://www.reddit.com/r/news/comments/jzsws3/gsa_tells_biden_that_transition_can_formally_begin/)
+- [U.S. to begin distributing Regeneron's COVID-19 antibody therapy Tuesday](https://www.reddit.com/r/news/comments/jzrhnw/us_to_begin_distributing_regenerons_covid19/)
+- [Board of Canvassers certifies Michigan’s election results](https://www.reddit.com/r/news/comments/jzr8g9/board_of_canvassers_certifies_michigans_election/)
+- [Police: Dying Alabama man preparing to ‘meet his maker’ confesses to 25-year-old cold case murder](https://www.reddit.com/r/news/comments/jzqcsk/police_dying_alabama_man_preparing_to_meet_his/)
+- [‘Catastrophic death’ coming with staff, PPE, and hospital capacity shortages in US, warn top nurses union](https://www.reddit.com/r/news/comments/jzpndf/catastrophic_death_coming_with_staff_ppe_and/)
 <!-- REDDIT:END -->
 
 
