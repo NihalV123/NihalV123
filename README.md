@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The world’s largest maker of latex gloves to close more than half its factories after over 2500 employees test positive for COVID](https://www.reddit.com/r/news/comments/k014h9/the_worlds_largest_maker_of_latex_gloves_to_close/)
+- [People who refuse to wear a mask could be arrested in Boise, Idaho](https://www.reddit.com/r/news/comments/jzztcn/people_who_refuse_to_wear_a_mask_could_be/)
+- [Bill Gates: 'Almost all' coronavirus vaccines will work by February](https://www.reddit.com/r/news/comments/jzz2dv/bill_gates_almost_all_coronavirus_vaccines_will/)
+- [Alleged Jeffrey Epstein procurer Ghislaine Maxwell in jail quarantine after possible coronavirus exposure](https://www.reddit.com/r/news/comments/jzybpc/alleged_jeffrey_epstein_procurer_ghislaine/)
+- [Ferris State professor who called COVID-19 ‘leftist stunt,’ allegedly tweeted slurs, placed on leave](https://www.reddit.com/r/news/comments/jzy0nb/ferris_state_professor_who_called_covid19_leftist/)
 <!-- REDDIT:END -->
 
 
