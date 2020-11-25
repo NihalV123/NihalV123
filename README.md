@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Seattle's mayor is set to sign a new city budget cutting the police department's funding by 18%](https://www.reddit.com/r/news/comments/k0vffx/seattles_mayor_is_set_to_sign_a_new_city_budget/)
+- [27 veterans die in COVID-19 outbreak at Illinois VA home](https://www.reddit.com/r/news/comments/k0vavu/27_veterans_die_in_covid19_outbreak_at_illinois/)
+- [Diego Armando Maradona passed away.](https://www.reddit.com/r/news/comments/k0v575/diego_armando_maradona_passed_away/)
+- [U.S. hits highest death toll since May with hospitals already full](https://www.reddit.com/r/news/comments/k0up8f/us_hits_highest_death_toll_since_may_with/)
+- [U.S. hits highest death toll since May with hospitals already full](https://www.reddit.com/r/news/comments/k0t7zi/us_hits_highest_death_toll_since_may_with/)
 <!-- REDDIT:END -->
 
 
