@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [As Thanksgiving approaches, New York deli offers free chickens to families in need](https://www.reddit.com/r/news/comments/k0m4s2/as_thanksgiving_approaches_new_york_deli_offers/)
+- [Mental health first responders coming to Anchorage in 2021](https://www.reddit.com/r/news/comments/k0lwav/mental_health_first_responders_coming_to/)
+- [Despite doctor’s determination, Spokane mom doesn’t believe COVID killed her daughter](https://www.reddit.com/r/news/comments/k0kq07/despite_doctors_determination_spokane_mom_doesnt/)
+- [North Korea defector reportedly a gymnast who jumped into South Korea](https://www.reddit.com/r/news/comments/k0kjrh/north_korea_defector_reportedly_a_gymnast_who/)
+- [Pentagon sends nearly 300,000 pounds of traditional Thanksgiving dinner to U.S. troops around the world](https://www.reddit.com/r/news/comments/k0kinc/pentagon_sends_nearly_300000_pounds_of/)
 <!-- REDDIT:END -->
 
 
