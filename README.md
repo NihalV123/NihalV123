@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Experts: Arizona seeing major increase in drought conditions](https://www.reddit.com/r/news/comments/k16pzp/experts_arizona_seeing_major_increase_in_drought/)
+- [Pennsylvania judge orders halt to further vote certification; Gov. Wolf to appeal](https://www.reddit.com/r/news/comments/k15u9o/pennsylvania_judge_orders_halt_to_further_vote/)
+- [Denver mayor apologizes for Thanksgiving travel plan](https://www.reddit.com/r/news/comments/k15btv/denver_mayor_apologizes_for_thanksgiving_travel/)
+- [Another 778,000 Americans filed first-time unemployment claims last week](https://www.reddit.com/r/news/comments/k150yg/another_778000_americans_filed_firsttime/)
+- [A U.S. Record: Two Million New Virus Cases in Two Weeks](https://www.reddit.com/r/news/comments/k13i2a/a_us_record_two_million_new_virus_cases_in_two/)
 <!-- REDDIT:END -->
 
 
