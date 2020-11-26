@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5000 Alabama students haven’t shown up for any sort of class](https://www.reddit.com/r/news/comments/k1iamw/5000_alabama_students_havent_shown_up_for_any/)
+- [Secret recordings reveal politics over public health in Alberta's pandemic response.](https://www.reddit.com/r/news/comments/k1i5ri/secret_recordings_reveal_politics_over_public/)
+- [Prison sentence for man who threatened Black renters](https://www.reddit.com/r/news/comments/k1g1nq/prison_sentence_for_man_who_threatened_black/)
+- [Black Lives Matter flag becomes issue in Florida community](https://www.reddit.com/r/news/comments/k1fa0x/black_lives_matter_flag_becomes_issue_in_florida/)
+- [Man uses drone to rescue dog lost for 10 days in the woods](https://www.reddit.com/r/news/comments/k1f9iu/man_uses_drone_to_rescue_dog_lost_for_10_days_in/)
 <!-- REDDIT:END -->
 
 
