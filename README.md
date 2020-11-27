@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kylie Moore-Gilbert arrives back in Australia after 800 days in detention in Iran](https://www.reddit.com/r/news/comments/k1z26w/kylie_mooregilbert_arrives_back_in_australia/)
+- [EU to ban use of lead shot by wetland bird hunters](https://www.reddit.com/r/news/comments/k1y5za/eu_to_ban_use_of_lead_shot_by_wetland_bird_hunters/)
+- [Comcast expected to jack up cost of data plans](https://www.reddit.com/r/news/comments/k1vdh9/comcast_expected_to_jack_up_cost_of_data_plans/)
+- [Brazil's Bolsonaro says he will not take coronavirus vaccine](https://www.reddit.com/r/news/comments/k1s768/brazils_bolsonaro_says_he_will_not_take/)
+- [Venezuela judge convicts 6 American oil execs, orders prison](https://www.reddit.com/r/news/comments/k1s4ti/venezuela_judge_convicts_6_american_oil_execs/)
 <!-- REDDIT:END -->
 
 
