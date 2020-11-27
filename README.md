@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Victoria, 'eliminates' coronavirus after 28 days without a new case](https://www.reddit.com/r/news/comments/k1o7bf/victoria_eliminates_coronavirus_after_28_days/)
+- [Admission of mistake in Oxford vaccine dose raises doubts over reliability](https://www.reddit.com/r/news/comments/k1n4pf/admission_of_mistake_in_oxford_vaccine_dose/)
+- [Dr. Mary Fowkes, 66, Dies; Helped Science Understand the Pandemic](https://www.reddit.com/r/news/comments/k1mp73/dr_mary_fowkes_66_dies_helped_science_understand/)
+- [First Latino DACA recipient receives Rhodes Scholarship](https://www.reddit.com/r/news/comments/k1m7xl/first_latino_daca_recipient_receives_rhodes/)
+- [Amazon Workers File for Union Election in Alabama](https://www.reddit.com/r/news/comments/k1m4wf/amazon_workers_file_for_union_election_in_alabama/)
 <!-- REDDIT:END -->
 
 
