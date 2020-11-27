@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scores of worker Covid deaths not reported amid US regulator's lenient approach | US news](https://www.reddit.com/r/news/comments/k2583v/scores_of_worker_covid_deaths_not_reported_amid/)
+- [Bellevue musician reunited with his $40K cello that was stolen 3 years ago](https://www.reddit.com/r/news/comments/k253zn/bellevue_musician_reunited_with_his_40k_cello/)
+- [Thanksgiving Day online sales hit record $5.1 billion, up 21.5% from last year, Adobe says](https://www.reddit.com/r/news/comments/k23zf6/thanksgiving_day_online_sales_hit_record_51/)
+- [Controversial 'virginity tests' sold by UK clinics](https://www.reddit.com/r/news/comments/k23xix/controversial_virginity_tests_sold_by_uk_clinics/)
+- [Military adviser to Khamenei vows to strike killers of nuclear scientist](https://www.reddit.com/r/news/comments/k23bss/military_adviser_to_khamenei_vows_to_strike/)
 <!-- REDDIT:END -->
 
 
