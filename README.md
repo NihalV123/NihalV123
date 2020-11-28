@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michael Jordan donates $2 million from hit documentary to feed America's hungry](https://www.reddit.com/r/news/comments/k2gg7v/michael_jordan_donates_2_million_from_hit/)
+- [Recount in Wisconsin county demanded by Trump increases Biden's margin](https://www.reddit.com/r/news/comments/k2ftr8/recount_in_wisconsin_county_demanded_by_trump/)
+- [Fur industry faces uncertain future due to Covid](https://www.reddit.com/r/news/comments/k2ekmo/fur_industry_faces_uncertain_future_due_to_covid/)
+- [Los Angeles issues stay-home order as coronavirus surges](https://www.reddit.com/r/news/comments/k2clbb/los_angeles_issues_stayhome_order_as_coronavirus/)
+- [U.S. counts its 13 millionth Covid-19 case](https://www.reddit.com/r/news/comments/k2cik2/us_counts_its_13_millionth_covid19_case/)
 <!-- REDDIT:END -->
 
 
