@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Black firefighters in NC allege racism amid larger reckoning](https://www.reddit.com/r/news/comments/k2r0v0/black_firefighters_in_nc_allege_racism_amid/)
+- [Kaavan, the world's loneliest elephant, is finally going free](https://www.reddit.com/r/news/comments/k2qyji/kaavan_the_worlds_loneliest_elephant_is_finally/)
+- [This archbishop is about to become the first African American cardinal in Catholic history](https://www.reddit.com/r/news/comments/k2ptkm/this_archbishop_is_about_to_become_the_first/)
+- [Couple find Prohibition-Era booze hidden behind house walls](https://www.reddit.com/r/news/comments/k2pgp1/couple_find_prohibitionera_booze_hidden_behind/)
+- [Road signs describe Kent as 'toilet of England' in protest by anti-Brexit group EU Flag Mafia](https://www.reddit.com/r/news/comments/k2onkv/road_signs_describe_kent_as_toilet_of_england_in/)
 <!-- REDDIT:END -->
 
 
