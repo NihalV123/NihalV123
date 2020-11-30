@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Covid-19 surges in the Dakotas.](https://www.reddit.com/r/news/comments/k4021c/covid19_surges_in_the_dakotas/)
+- [Google AlphaFold solves 50-year-old ‘grand challenge’ with protein folding A.I.](https://www.reddit.com/r/news/comments/k3zlip/google_alphafold_solves_50yearold_grand_challenge/)
+- [Man missing for 2 days found clinging to capsized boat in Florida](https://www.reddit.com/r/news/comments/k3yp1y/man_missing_for_2_days_found_clinging_to_capsized/)
+- [FCC Chairman Ajit Pai will step down on January 20](https://www.reddit.com/r/news/comments/k3yin8/fcc_chairman_ajit_pai_will_step_down_on_january_20/)
+- ['Mercenary' donor sold access for millions in foreign money](https://www.reddit.com/r/news/comments/k3wfc7/mercenary_donor_sold_access_for_millions_in/)
 <!-- REDDIT:END -->
 
 
