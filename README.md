@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beavers build first Exmoor dam in 400 years](https://www.reddit.com/r/news/comments/k3tnfc/beavers_build_first_exmoor_dam_in_400_years/)
+- [Hospitalizations of COVID-19 patients hit all-time high in US](https://www.reddit.com/r/news/comments/k3tl2h/hospitalizations_of_covid19_patients_hit_alltime/)
+- [Fireball 'as bright as full moon' spotted in night sky over Japan](https://www.reddit.com/r/news/comments/k3thwg/fireball_as_bright_as_full_moon_spotted_in_night/)
+- [S'pore inventor creates portable PCR test kit that can detect Covid-19 in 5 minutes](https://www.reddit.com/r/news/comments/k3tbqp/spore_inventor_creates_portable_pcr_test_kit_that/)
+- [Drought conditions worsen throughout California](https://www.reddit.com/r/news/comments/k3pr9r/drought_conditions_worsen_throughout_california/)
 <!-- REDDIT:END -->
 
 
