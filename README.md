@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Germany bans far-right, pro-Nazi group; Police raid homes](https://www.reddit.com/r/news/comments/k4iafp/germany_bans_farright_pronazi_group_police_raid/)
+- [Unilever is testing a four-day work week in New Zealand](https://www.reddit.com/r/news/comments/k4i3v5/unilever_is_testing_a_fourday_work_week_in_new/)
+- [Articles of Impeachment officially filed against Ohio Gov. Mike DeWine, claiming abuse of power during pandemic](https://www.reddit.com/r/news/comments/k4h1sg/articles_of_impeachment_officially_filed_against/)
+- [Photo reveals Australian soldier drinking beer out of dead Taliban fighter's prosthetic leg](https://www.reddit.com/r/news/comments/k4g9la/photo_reveals_australian_soldier_drinking_beer/)
+- [Michigan Couple Married for 47 Years Die From COVID-19 on the Same Day](https://www.reddit.com/r/news/comments/k4fqe2/michigan_couple_married_for_47_years_die_from/)
 <!-- REDDIT:END -->
 
 
