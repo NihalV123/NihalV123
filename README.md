@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [David Chang donating to hospitality workers after historic 'Who Wants to Be a Millionaire' win](https://www.reddit.com/r/news/comments/k48bkc/david_chang_donating_to_hospitality_workers_after/)
+- [IRS Says Its Own Error Sent $1,200 Stimulus Checks To Non-Americans Overseas](https://www.reddit.com/r/news/comments/k47oos/irs_says_its_own_error_sent_1200_stimulus_checks/)
+- [Leaked documents reveal China's mishandling of the early stages of Covid-19 pandemic](https://www.reddit.com/r/news/comments/k46kk8/leaked_documents_reveal_chinas_mishandling_of_the/)
+- [Ex-Honolulu deputy prosecutor sentence to 13 years behind bars, Judge says she ‘perverted justice’](https://www.reddit.com/r/news/comments/k4572f/exhonolulu_deputy_prosecutor_sentence_to_13_years/)
+- [Ivory Coast, Ghana cancel cocoa sustainability schemes run by Hershey](https://www.reddit.com/r/news/comments/k43szz/ivory_coast_ghana_cancel_cocoa_sustainability/)
 <!-- REDDIT:END -->
 
 
