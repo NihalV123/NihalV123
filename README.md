@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Airlines Can Bump Emotional-Support Pigs, Peacocks in New Rule](https://www.reddit.com/r/news/comments/k5d99z/airlines_can_bump_emotionalsupport_pigs_peacocks/)
+- [Hewlett Packard Enterprise is the latest tech company to leave Silicon Valley, and is moving to Houston](https://www.reddit.com/r/news/comments/k5c56t/hewlett_packard_enterprise_is_the_latest_tech/)
+- [Police in Jackson, Mississippi, want access to live home security video, alarming privacy advocates](https://www.reddit.com/r/news/comments/k5c3p5/police_in_jackson_mississippi_want_access_to_live/)
+- [US official says Israel was behind assassination of Iranian scientist](https://www.reddit.com/r/news/comments/k5b5wq/us_official_says_israel_was_behind_assassination/)
+- [Video: Summit councilwoman appears to be firing gun in Walmart parking lot](https://www.reddit.com/r/news/comments/k5ayrf/video_summit_councilwoman_appears_to_be_firing/)
 <!-- REDDIT:END -->
 
 
