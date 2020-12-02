@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CDC says home workers and nursing homes will receive COVID vaccine first.](https://www.reddit.com/r/news/comments/k4vtcd/cdc_says_home_workers_and_nursing_homes_will/)
+- [9 new Catholic priests named in Colorado sex abuse report](https://www.reddit.com/r/news/comments/k4trwp/9_new_catholic_priests_named_in_colorado_sex/)
+- [Barr: No evidence of fraud that’d change election outcome](https://www.reddit.com/r/news/comments/k4ry7w/barr_no_evidence_of_fraud_thatd_change_election/)
+- [Amazon driver runs into burning Fla. home to rescue man](https://www.reddit.com/r/news/comments/k4rv41/amazon_driver_runs_into_burning_fla_home_to/)
+- [Mother shot at funeral for teen son killed by Florida sheriff's deputy](https://www.reddit.com/r/news/comments/k4rmqh/mother_shot_at_funeral_for_teen_son_killed_by/)
 <!-- REDDIT:END -->
 
 
