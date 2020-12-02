@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [Giro de Notícias: Novembro de 2020](https://blog.lsantos.dev/giro-de-noticias-novembro-de-2020/)
+- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://blog.lsantos.dev/entenda-a-comunicacao-entre-servicos-com-grpc-no-do-while-2020/)
+- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
+- [Entendendo Threading no Node.js com Rodrigo Branas](https://blog.lsantos.dev/entendendo-threading-no-node-js-com-rodrigo-branas/)
+- [Atualização Automática de SO com Unattended Upgrades](https://blog.lsantos.dev/atualizacao-automatica-de-so-com-unattended-upgrades/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
