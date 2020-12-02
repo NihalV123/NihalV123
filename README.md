@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Airbnb asked Canada for a bailout. Canada slapped Airbnb with a tax.](https://www.reddit.com/r/news/comments/k52ga2/airbnb_asked_canada_for_a_bailout_canada_slapped/)
+- [First shipments of Pfizer vaccine to be delivered December 15](https://www.reddit.com/r/news/comments/k51jp6/first_shipments_of_pfizer_vaccine_to_be_delivered/)
+- [Revised citizenship test is harder, more conservative and may worsen backlogs, experts say](https://www.reddit.com/r/news/comments/k514ya/revised_citizenship_test_is_harder_more/)
+- [Lab-grown chicken to be sold in Singapore after 'world's first' approval for cultured meat](https://www.reddit.com/r/news/comments/k50lwf/labgrown_chicken_to_be_sold_in_singapore_after/)
+- [Justice Department Investigating Possible Bribery-For-Pardon Scheme](https://www.reddit.com/r/news/comments/k50iid/justice_department_investigating_possible/)
 <!-- REDDIT:END -->
 
 
