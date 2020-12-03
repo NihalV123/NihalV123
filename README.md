@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lon Adams, Slim Jim jerky recipe creator, dies of COVID-19](https://www.reddit.com/r/news/comments/k5ky28/lon_adams_slim_jim_jerky_recipe_creator_dies_of/)
+- [Trump, Kushner Companies Were Major Beneficiaries of PPP Loans](https://www.reddit.com/r/news/comments/k5k4ts/trump_kushner_companies_were_major_beneficiaries/)
+- [Police: Kauai couple arrested after getting on a plane knowing they were COVID positive](https://www.reddit.com/r/news/comments/k5jn10/police_kauai_couple_arrested_after_getting_on_a/)
+- [CDC director warns the next few months could be 'the most difficult in the public health history of this nation'](https://www.reddit.com/r/news/comments/k5if17/cdc_director_warns_the_next_few_months_could_be/)
+- [Starbucks offering free coffee to health care workers and first responders for the entire month of December](https://www.reddit.com/r/news/comments/k5hdwr/starbucks_offering_free_coffee_to_health_care/)
 <!-- REDDIT:END -->
 
 
