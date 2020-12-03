@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Google violated U.S. labor laws in clampdown on worker organizing, regulator says](https://www.reddit.com/r/news/comments/k5ubqm/google_violated_us_labor_laws_in_clampdown_on/)
+- [The US reports 3,100 coronavirus deaths in one day -- 20% more than previous record](https://www.reddit.com/r/news/comments/k5tibe/the_us_reports_3100_coronavirus_deaths_in_one_day/)
+- [UK to become first country in Europe to ban live animal exports](https://www.reddit.com/r/news/comments/k5tf9s/uk_to_become_first_country_in_europe_to_ban_live/)
+- [Los Angeles city issues remain-at-home order to all residents](https://www.reddit.com/r/news/comments/k5rkxo/los_angeles_city_issues_remainathome_order_to_all/)
+- [Oregon doctor and staff refuse to wear masks during pandemic, calling Covid 'common cold'](https://www.reddit.com/r/news/comments/k5r0p7/oregon_doctor_and_staff_refuse_to_wear_masks/)
 <!-- REDDIT:END -->
 
 
