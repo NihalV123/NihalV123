@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['We've been saved': Thirsty drinkers buy bar's entire beer stock to keep them in business](https://www.reddit.com/r/news/comments/k5or6r/weve_been_saved_thirsty_drinkers_buy_bars_entire/)
+- [1 Percent of P.P.P. Borrowers Got Over One-Quarter of the Loan Money](https://www.reddit.com/r/news/comments/k5ojf5/1_percent_of_ppp_borrowers_got_over_onequarter_of/)
+- [The UN removes cannabis from a list of the most dangerous substances](https://www.reddit.com/r/news/comments/k5o4ka/the_un_removes_cannabis_from_a_list_of_the_most/)
+- [Vaccination cards will be issued to everyone getting Covid-19 vaccine, health officials say](https://www.reddit.com/r/news/comments/k5nmzk/vaccination_cards_will_be_issued_to_everyone/)
+- [U.S. bans cotton imports from China producer XPCC citing Xinjiang 'slave labor'](https://www.reddit.com/r/news/comments/k5n2df/us_bans_cotton_imports_from_china_producer_xpcc/)
 <!-- REDDIT:END -->
 
 
