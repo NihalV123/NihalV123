@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [17 year old girl who was wrongly arrested and charged with murder files lawsuit-](https://www.reddit.com/r/news/comments/k67m6r/17_year_old_girl_who_was_wrongly_arrested_and/)
+- [California announces sweeping new Covid restrictions, including planned stay-at-home orders](https://www.reddit.com/r/news/comments/k66hns/california_announces_sweeping_new_covid/)
+- [California Imposes New Virus Rules Based on ICU Capacity](https://www.reddit.com/r/news/comments/k65tfx/california_imposes_new_virus_rules_based_on_icu/)
+- [Southwest warns 6,800 employees of impending layoffs, a first for the airline](https://www.reddit.com/r/news/comments/k65nag/southwest_warns_6800_employees_of_impending/)
+- [Wisconsin high court declines to hear Trump election lawsuit](https://www.reddit.com/r/news/comments/k63t0r/wisconsin_high_court_declines_to_hear_trump/)
 <!-- REDDIT:END -->
 
 
