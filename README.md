@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [See unreal drone footage of Arecibo Observatory's catastrophic collapse](https://www.reddit.com/r/news/comments/k6ipkd/see_unreal_drone_footage_of_arecibo_observatorys/)
+- [”They raped me with truncheons” – the truth about Lukashenko’s brutal war on opposition activists](https://www.reddit.com/r/news/comments/k6i8ge/they_raped_me_with_truncheons_the_truth_about/)
+- [China announces expansion to weather modification program, artificial rain to cover area bigger than size of India](https://www.reddit.com/r/news/comments/k6ho73/china_announces_expansion_to_weather_modification/)
+- [Pittsburgh parking officer suspended for blocking street, refusing to move for ambulance](https://www.reddit.com/r/news/comments/k6h7yy/pittsburgh_parking_officer_suspended_for_blocking/)
+- [Not wearing masks is violation of other citizens' fundamental rights : Indian Supreme Court](https://www.reddit.com/r/news/comments/k6ftk0/not_wearing_masks_is_violation_of_other_citizens/)
 <!-- REDDIT:END -->
 
 
