@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The House has passed legislation known as the “Big Cat Public Safety Act” banning the private ownership of large cats such as tigers, pumas, leopards, and jaguars.](https://www.reddit.com/r/news/comments/k6dpco/the_house_has_passed_legislation_known_as_the_big/)
+- [Facebook could face a state antitrust lawsuit as soon as next week](https://www.reddit.com/r/news/comments/k6dgqs/facebook_could_face_a_state_antitrust_lawsuit_as/)
+- [Betsy Wade, First Woman to Edit News at The Times, Dies at 91](https://www.reddit.com/r/news/comments/k6atss/betsy_wade_first_woman_to_edit_news_at_the_times/)
+- [Feds accuse Facebook of discriminating against Americans in hiring](https://www.reddit.com/r/news/comments/k68d7s/feds_accuse_facebook_of_discriminating_against/)
+- [No charges for 84 yo SUV driver that slammed into back of buggy, killing 3 Amish children.](https://www.reddit.com/r/news/comments/k6854g/no_charges_for_84_yo_suv_driver_that_slammed_into/)
 <!-- REDDIT:END -->
 
 
