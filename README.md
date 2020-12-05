@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Treasury encouraged banks to prioritize PPP loans for existing clients, hurting minority- and women-owned small businesses, House report says](https://www.reddit.com/r/news/comments/k7as1z/treasury_encouraged_banks_to_prioritize_ppp_loans/)
+- [Federal student loan payments suspended until end of January](https://www.reddit.com/r/news/comments/k79nos/federal_student_loan_payments_suspended_until_end/)
+- [Oxford malaria vaccine could be ready by 2024, speculates top UK scientist | UK News](https://www.reddit.com/r/news/comments/k792od/oxford_malaria_vaccine_could_be_ready_by_2024/)
+- [Alleged Jeffrey Epstein madam Ghislaine Maxwell wants bail hearing just before Christmas](https://www.reddit.com/r/news/comments/k78c0n/alleged_jeffrey_epstein_madam_ghislaine_maxwell/)
+- [U.S. sells more than $175 billion in weapons to foreign governments, nearly 3% higher than last year](https://www.reddit.com/r/news/comments/k7851u/us_sells_more_than_175_billion_in_weapons_to/)
 <!-- REDDIT:END -->
 
 
