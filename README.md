@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CDC advises 'universal' masks indoors as US Covid deaths again break records](https://www.reddit.com/r/news/comments/k71ff5/cdc_advises_universal_masks_indoors_as_us_covid/)
+- [Astronauts harvest radishes grown aboard the International Space Station](https://www.reddit.com/r/news/comments/k70dfz/astronauts_harvest_radishes_grown_aboard_the/)
+- [Jupiter and Saturn will come within 0.1 degrees of each other, forming the first visible "double planet" in 800 years](https://www.reddit.com/r/news/comments/k6zx5u/jupiter_and_saturn_will_come_within_01_degrees_of/)
+- [Koala wanders into Australian family's home and climbs their Christmas tree](https://www.reddit.com/r/news/comments/k6zow5/koala_wanders_into_australian_familys_home_and/)
+- [Disruption after 'thundersnow' hits Scotland](https://www.reddit.com/r/news/comments/k6yi8l/disruption_after_thundersnow_hits_scotland/)
 <!-- REDDIT:END -->
 
 
