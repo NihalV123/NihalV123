@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mastercard to investigate allegations against Pornhub](https://www.reddit.com/r/news/comments/k7x6n0/mastercard_to_investigate_allegations_against/)
+- [FBI raids New Jersey lab, urges new Covid-19 tests for people who went there](https://www.reddit.com/r/news/comments/k7x2yq/fbi_raids_new_jersey_lab_urges_new_covid19_tests/)
+- [A New York artist spent $65,000 buying art to support fellow artists struggling because of the pandemic](https://www.reddit.com/r/news/comments/k7w76u/a_new_york_artist_spent_65000_buying_art_to/)
+- [Nazi art dispute goes to US supreme court in landmark case](https://www.reddit.com/r/news/comments/k7v53j/nazi_art_dispute_goes_to_us_supreme_court_in/)
+- [Sheriff: Defiant NYC bar owner struck deputy with his car](https://www.reddit.com/r/news/comments/k7uy34/sheriff_defiant_nyc_bar_owner_struck_deputy_with/)
 <!-- REDDIT:END -->
 
 
