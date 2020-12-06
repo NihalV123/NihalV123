@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
-- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/watch?v=V-J2OnZRC0I)
-- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](https://www.youtube.com/watch?v=lFF5jQeQuEs)
-- [Responsive Mega Menu and Multi Level Dropdown | Animations | HTML, CSS, & JavaScript Tutorial (2020)](https://www.youtube.com/watch?v=8qO5QmD5gfM)
-- [Best Explanation of JavaScript Null vs Undefined! #shorts](https://www.youtube.com/watch?v=fCGswW7fruY)
+- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
+- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
+- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -346,22 +346,22 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [China to ban all solid waste imports from day 1, 2021](https://www.reddit.com/r/news/comments/k7py9g/china_to_ban_all_solid_waste_imports_from_day_1/)
-- [15 law school students told they passed bar exam, then told they didn't](https://www.reddit.com/r/news/comments/k7ozb8/15_law_school_students_told_they_passed_bar_exam/)
-- [Toledo Zoo first to record biofluorescence in Tasmanian Devils](https://www.reddit.com/r/news/comments/k7oth9/toledo_zoo_first_to_record_biofluorescence_in/)
-- [Little pygmy possum discovered on Kangaroo Island after fears bushfires had wiped them out](https://www.reddit.com/r/news/comments/k7mhqe/little_pygmy_possum_discovered_on_kangaroo_island/)
-- [Winter Storm Batters New England, Leaving 200,000 Without Power](https://www.reddit.com/r/news/comments/k7lybp/winter_storm_batters_new_england_leaving_200000/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Supercharge your Flutter Apps with VelocityX](https://blog.albertobonacina.com/supercharge-your-flutter-apps-with-velocityx)
-- [How to add a custom domain to a GitHub Page](https://blog.albertobonacina.com/how-to-add-a-custom-domain-to-a-github-page)
 - [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
 - [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
 - [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
+- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [gRPC com Node.js no EnterJS 2020](https://blog.lsantos.dev/grpc-com-node-js-no-enterjs-2020/)
-- [Giro de Notícias: Novembro de 2020](https://blog.lsantos.dev/giro-de-noticias-novembro-de-2020/)
-- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://blog.lsantos.dev/entenda-a-comunicacao-entre-servicos-com-grpc-no-do-while-2020/)
-- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://blog.lsantos.dev/por-que-black-fridays-dao-errado/)
-- [Entendendo Threading no Node.js com Rodrigo Branas](https://blog.lsantos.dev/entendendo-threading-no-node-js-com-rodrigo-branas/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Entenda a comunicação entre serviços com gRPC no DoWhile 2020](https://dev.to/khaosdoctor/entenda-a-comunicacao-entre-servicos-com-grpc-no-dowhile-2020-56e8)
-- [Por Que Black Fridays Dão Errado? - Hipsters.talks](https://dev.to/khaosdoctor/por-que-black-fridays-dao-errado-hipsters-talks-1238)
-- [Entendendo Threading no Node.js com Rodrigo Branas](https://dev.to/khaosdoctor/entendendo-threading-no-node-js-com-rodrigo-branas-dlm)
-- [Atualização Automática de SO com Unattended Upgrades](https://dev.to/azure/atualizacao-automatica-de-so-com-unattended-upgrades-16e1)
 - [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
