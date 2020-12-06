@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Little pygmy possum discovered on Kangaroo Island after fears bushfires had wiped them out](https://www.reddit.com/r/news/comments/k7mhqe/little_pygmy_possum_discovered_on_kangaroo_island/)
+- [Winter Storm Batters New England, Leaving 200,000 Without Power](https://www.reddit.com/r/news/comments/k7lybp/winter_storm_batters_new_england_leaving_200000/)
+- [Kia recalls 295,000 U.S. vehicles for fire risks](https://www.reddit.com/r/news/comments/k7lm2p/kia_recalls_295000_us_vehicles_for_fire_risks/)
+- [David Lander, the actor who played Squiggy on 'Laverne & Shirley,' has died at age 73](https://www.reddit.com/r/news/comments/k7kaol/david_lander_the_actor_who_played_squiggy_on/)
+- [Library removes LGBTQ books from kids’ section](https://www.reddit.com/r/news/comments/k7jwtv/library_removes_lgbtq_books_from_kids_section/)
 <!-- REDDIT:END -->
 
 
