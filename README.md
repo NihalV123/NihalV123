@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fauci's plea 'Wear a mask' tops list of 2020 notable quotes](https://www.reddit.com/r/news/comments/k8e8ql/faucis_plea_wear_a_mask_tops_list_of_2020_notable/)
+- [Alabama's sheriff's office deletes photo of Christmas tree decorated with 'thugshots' after backlash](https://www.reddit.com/r/news/comments/k8e7xi/alabamas_sheriffs_office_deletes_photo_of/)
+- [Protester Arrested at Mayor Garcetti’s Residence](https://www.reddit.com/r/news/comments/k8bt6i/protester_arrested_at_mayor_garcettis_residence/)
+- [U.S. Coast Guard warns Hawaii boaters about ‘hundreds’ of overboard shipping containers](https://www.reddit.com/r/news/comments/k8a0wv/us_coast_guard_warns_hawaii_boaters_about/)
+- [Face masks considerably reduce COVID-19 cases in Germany - PNAS](https://www.reddit.com/r/news/comments/k88rbn/face_masks_considerably_reduce_covid19_cases_in/)
 <!-- REDDIT:END -->
 
 
