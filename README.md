@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. air pollution monitoring network falling into disrepair](https://www.reddit.com/r/news/comments/k8ki70/us_air_pollution_monitoring_network_falling_into/)
+- [Millions of hungry Americans turn to food banks for 1st time](https://www.reddit.com/r/news/comments/k8kdl6/millions_of_hungry_americans_turn_to_food_banks/)
+- [Fort Bragg paratrooper found dead in North Carolina was decapitated, autopsy says](https://www.reddit.com/r/news/comments/k8jzv3/fort_bragg_paratrooper_found_dead_in_north/)
+- [Man fined $3,500 for breaking Taiwan coronavirus quarantine for 8 seconds](https://www.reddit.com/r/news/comments/k8jxic/man_fined_3500_for_breaking_taiwan_coronavirus/)
+- [Chick-fil-A suit accuses 17 U.S. poultry producers of price-fixing](https://www.reddit.com/r/news/comments/k8hv1g/chickfila_suit_accuses_17_us_poultry_producers_of/)
 <!-- REDDIT:END -->
 
 
