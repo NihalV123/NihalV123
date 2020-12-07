@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A 104-year-old World War II veteran from Alabama has survived Covid-19](https://www.reddit.com/r/news/comments/k83eyc/a_104yearold_world_war_ii_veteran_from_alabama/)
+- [Male student given in-school suspension for wearing nail polish to Texas high school](https://www.reddit.com/r/news/comments/k82yia/male_student_given_inschool_suspension_for/)
+- [Giuliani has tested positive for coronavirus, Trump says](https://www.reddit.com/r/news/comments/k81dvi/giuliani_has_tested_positive_for_coronavirus/)
+- [More than 200,000 people in New England without power after winter storm](https://www.reddit.com/r/news/comments/k815lt/more_than_200000_people_in_new_england_without/)
+- [Schools confront 'off the rails' numbers of failing grades](https://www.reddit.com/r/news/comments/k80877/schools_confront_off_the_rails_numbers_of_failing/)
 <!-- REDDIT:END -->
 
 
