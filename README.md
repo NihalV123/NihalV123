@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Agents raid home of fired Florida data scientist who built COVID-19 dashboard](https://www.reddit.com/r/news/comments/k8rn6b/agents_raid_home_of_fired_florida_data_scientist/)
+- [Police In Ohio Say Slain Black Man Brandished A Gun; Family Says He Held A Sandwich](https://www.reddit.com/r/news/comments/k8qun5/police_in_ohio_say_slain_black_man_brandished_a/)
+- [Trump administration officials passed when Pfizer offered in late summer to sell the U.S. more vaccine doses.](https://www.reddit.com/r/news/comments/k8qbgr/trump_administration_officials_passed_when_pfizer/)
+- [COVID-19 passes heart disease as leading killer in U.S. last week](https://www.reddit.com/r/news/comments/k8qb6f/covid19_passes_heart_disease_as_leading_killer_in/)
+- [Former Alabama senator dies of Covid at age 78, and in his last words warns, 'We messed up'](https://www.reddit.com/r/news/comments/k8pafm/former_alabama_senator_dies_of_covid_at_age_78/)
 <!-- REDDIT:END -->
 
 
