@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chuck Yeager, first to break the sound barrier, has died](https://www.reddit.com/r/news/comments/k8wqle/chuck_yeager_first_to_break_the_sound_barrier_has/)
+- [Federal judge holds Seattle Police Department in contempt for use of pepper spray, blast balls during Black Lives Matter protests](https://www.reddit.com/r/news/comments/k8w3cl/federal_judge_holds_seattle_police_department_in/)
+- [After first getting $1.25 billion in April, West Virginia has until Dec. 30 to spend more than $800 million in CARES Act dollars](https://www.reddit.com/r/news/comments/k8usl8/after_first_getting_125_billion_in_april_west/)
+- [Mother gives birth to healthy baby but dies of COVID-19 before she can hold him](https://www.reddit.com/r/news/comments/k8u8d0/mother_gives_birth_to_healthy_baby_but_dies_of/)
+- [On Pearl Harbor Day, no survivors or eyewitnesses attended the ceremony](https://www.reddit.com/r/news/comments/k8tzm1/on_pearl_harbor_day_no_survivors_or_eyewitnesses/)
 <!-- REDDIT:END -->
 
 
