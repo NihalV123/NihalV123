@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mt Everest grows by nearly a metre to new height](https://www.reddit.com/r/news/comments/k91dmu/mt_everest_grows_by_nearly_a_metre_to_new_height/)
+- [As virus spreads, Kansas hospital runs out of staff](https://www.reddit.com/r/news/comments/k8zgkn/as_virus_spreads_kansas_hospital_runs_out_of_staff/)
+- [Australia to make Facebook, Google pay news outlets for content](https://www.reddit.com/r/news/comments/k8xnw3/australia_to_make_facebook_google_pay_news/)
+- [New Offshore Wind Turbine Can Power a House for 2 Days With a Single Spin](https://www.reddit.com/r/news/comments/k8xh0u/new_offshore_wind_turbine_can_power_a_house_for_2/)
+- [Breaking the previous recorded human-created stone tools by over 100,000 years, new site shows Homo sapiens made them 130,000 years ago](https://www.reddit.com/r/news/comments/k8xflv/breaking_the_previous_recorded_humancreated_stone/)
 <!-- REDDIT:END -->
 
 
