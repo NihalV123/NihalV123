@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pornhub calls halt to unverified users posting on its site](https://www.reddit.com/r/news/comments/k9eldy/pornhub_calls_halt_to_unverified_users_posting_on/)
+- [Supreme Court rejects Trump ally's push to overturn Biden win in Pennsylvania](https://www.reddit.com/r/news/comments/k9dt3h/supreme_court_rejects_trump_allys_push_to/)
+- [Execution staff have COVID-19 after inmate put to death](https://www.reddit.com/r/news/comments/k9dedr/execution_staff_have_covid19_after_inmate_put_to/)
+- [Fired Data Scientist Rebekah Jones Raises $100K After FDLE Raid](https://www.reddit.com/r/news/comments/k9cpwd/fired_data_scientist_rebekah_jones_raises_100k/)
+- [Apple exec warns it may remove apps that track users without permission](https://www.reddit.com/r/news/comments/k9chj2/apple_exec_warns_it_may_remove_apps_that_track/)
 <!-- REDDIT:END -->
 
 
