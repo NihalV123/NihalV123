@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chehalis eatery fined $67,000 for 'willfully' flaunting state's COVID-19 indoor dining ban](https://www.reddit.com/r/news/comments/k9vk8x/chehalis_eatery_fined_67000_for_willfully/)
+- [Health Canada approves Pfizer COVID-19 vaccine](https://www.reddit.com/r/news/comments/k9upm5/health_canada_approves_pfizer_covid19_vaccine/)
+- [Dunkin’ customer stabs teen worker because flavor wasn’t available, Georgia cops say](https://www.reddit.com/r/news/comments/k9uf88/dunkin_customer_stabs_teen_worker_because_flavor/)
+- [Multiple workers trapped in collapsed power plant in Ohio](https://www.reddit.com/r/news/comments/k9ub9a/multiple_workers_trapped_in_collapsed_power_plant/)
+- [More than a month after the election, YouTube decides to crack down on misinformation on results](https://www.reddit.com/r/news/comments/k9u0rb/more_than_a_month_after_the_election_youtube/)
 <!-- REDDIT:END -->
 
 
