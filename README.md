@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Longest-serving marijuana inmate in US released from Florida prison](https://www.reddit.com/r/news/comments/k9hjay/longestserving_marijuana_inmate_in_us_released/)
+- [Mississippi governor plans Christmas parties despite his own orders and record COVID-19 numbers](https://www.reddit.com/r/news/comments/k9gx33/mississippi_governor_plans_christmas_parties/)
+- [Pornhub bans video downloads following report of alleged child abuse content](https://www.reddit.com/r/news/comments/k9gtuq/pornhub_bans_video_downloads_following_report_of/)
+- [Portland police and protestors clash in broad daylight](https://www.reddit.com/r/news/comments/k9fcc0/portland_police_and_protestors_clash_in_broad/)
+- [Pornhub calls halt to unverified users posting on its site](https://www.reddit.com/r/news/comments/k9eldy/pornhub_calls_halt_to_unverified_users_posting_on/)
 <!-- REDDIT:END -->
 
 
