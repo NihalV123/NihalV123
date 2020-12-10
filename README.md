@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Report: 10,000 restaurants expected to close in the next 3 weeks because of COVID-19](https://www.reddit.com/r/news/comments/kabhug/report_10000_restaurants_expected_to_close_in_the/)
+- [Surfer bit by a shark in Maui’s Honolua Bay dies after his condition deteriorates](https://www.reddit.com/r/news/comments/kaarpj/surfer_bit_by_a_shark_in_mauis_honolua_bay_dies/)
+- [Largest apartment landlord in America using apartment buildings as Airbnb’s](https://www.reddit.com/r/news/comments/ka9gxp/largest_apartment_landlord_in_america_using/)
+- [Drugs recalled after "mix-up" in packages for depression medication and erectile dysfunction drug](https://www.reddit.com/r/news/comments/ka8qaf/drugs_recalled_after_mixup_in_packages_for/)
+- [Hyundai spends almost $1B to buy Boston Dynamics, makers of Spot dog robot](https://www.reddit.com/r/news/comments/ka6fq9/hyundai_spends_almost_1b_to_buy_boston_dynamics/)
 <!-- REDDIT:END -->
 
 
