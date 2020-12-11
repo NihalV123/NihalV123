@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Feds Raid Large Maker Of ‘Ghost-Gun’ Parts In Nevada](https://www.reddit.com/r/news/comments/kb6xx9/feds_raid_large_maker_of_ghostgun_parts_in_nevada/)
+- [Louisiana state trooper arrested, accused of 'excessive, unjustifiable' actions during arrest](https://www.reddit.com/r/news/comments/kb6x2h/louisiana_state_trooper_arrested_accused_of/)
+- [Heartbroken community supports 17-year-old who lost parents to COVID-19 hours apart](https://www.reddit.com/r/news/comments/kb5xke/heartbroken_community_supports_17yearold_who_lost/)
+- [University of Evansville admin proposes cutting quarter of the faculty, nixing 17 majors](https://www.reddit.com/r/news/comments/kb57qr/university_of_evansville_admin_proposes_cutting/)
+- [United Airlines flight attendants raise alarm on crew quarantine protocols](https://www.reddit.com/r/news/comments/kb563w/united_airlines_flight_attendants_raise_alarm_on/)
 <!-- REDDIT:END -->
 
 
