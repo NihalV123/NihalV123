@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No ICU beds left in Mississippi as COVID-19 case levels continue to hit record highs](https://www.reddit.com/r/news/comments/kbirpf/no_icu_beds_left_in_mississippi_as_covid19_case/)
+- [Utah State football game canceled after players reportedly vote not to play because of comments from university president](https://www.reddit.com/r/news/comments/kbhqki/utah_state_football_game_canceled_after_players/)
+- [F.D.A. Clears Pfizer Vaccine, and Millions of Doses Will Be Shipped Right Away](https://www.reddit.com/r/news/comments/kbgrln/fda_clears_pfizer_vaccine_and_millions_of_doses/)
+- [Clorox disinfectant wipes shortage likely to last until mid-2021](https://www.reddit.com/r/news/comments/kbgr47/clorox_disinfectant_wipes_shortage_likely_to_last/)
+- [Tower of human skulls reveals grisly scale to archaeologists in Mexico City](https://www.reddit.com/r/news/comments/kbfqqw/tower_of_human_skulls_reveals_grisly_scale_to/)
 <!-- REDDIT:END -->
 
 
