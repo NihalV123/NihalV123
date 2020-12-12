@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Supreme Court rejects Texas lawsuit](https://www.reddit.com/r/news/comments/kbe541/us_supreme_court_rejects_texas_lawsuit/)
+- [Car ploughs into Black Lives Matter protest in New York City](https://www.reddit.com/r/news/comments/kbe4cw/car_ploughs_into_black_lives_matter_protest_in/)
+- [U.S. government orders 100 million more doses of Moderna's COVID-19 vaccine](https://www.reddit.com/r/news/comments/kbdczl/us_government_orders_100_million_more_doses_of/)
+- [White House threatens to fire FDA chief unless Pfizer Covid vaccine approved Friday, reports say](https://www.reddit.com/r/news/comments/kbd9zq/white_house_threatens_to_fire_fda_chief_unless/)
+- [California files to join U.S. antitrust lawsuit against Google](https://www.reddit.com/r/news/comments/kbcsv8/california_files_to_join_us_antitrust_lawsuit/)
 <!-- REDDIT:END -->
 
 
