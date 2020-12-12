@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [With the Virus Surging, Arizona Teachers Protest by Calling In Sick](https://www.reddit.com/r/news/comments/kbspcc/with_the_virus_surging_arizona_teachers_protest/)
+- [Lil Wayne pleads guilty to federal gun charge](https://www.reddit.com/r/news/comments/kbqiia/lil_wayne_pleads_guilty_to_federal_gun_charge/)
+- [State reviewing possible COVID-19 reinfections after 115 prisoners test positive twice](https://www.reddit.com/r/news/comments/kbq5cx/state_reviewing_possible_covid19_reinfections/)
+- [Largest Wildlife Bridge In U.S. Opened Friday At San Antonio's Hardberger Park](https://www.reddit.com/r/news/comments/kbp4t6/largest_wildlife_bridge_in_us_opened_friday_at/)
+- [2 charged with stealing ventilators headed to El Salvador](https://www.reddit.com/r/news/comments/kbp1tm/2_charged_with_stealing_ventilators_headed_to_el/)
 <!-- REDDIT:END -->
 
 
