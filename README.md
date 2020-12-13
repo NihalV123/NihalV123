@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 stabbed in skirmishes at DC protests, while 1 person shot at clashes in Washington state](https://www.reddit.com/r/news/comments/kc8i8l/4_stabbed_in_skirmishes_at_dc_protests_while_1/)
+- [Church identified as hate group gets permit in Minnesota](https://www.reddit.com/r/news/comments/kc7hw1/church_identified_as_hate_group_gets_permit_in/)
+- [Man was taken into custody after he climbed onto the wing of an airplane preparing to takeoff in Las Vegas](https://www.reddit.com/r/news/comments/kc6lh7/man_was_taken_into_custody_after_he_climbed_onto/)
+- [Coronavirus updates: U.S. states need more money for vaccinations, but Congress still stalled on relief](https://www.reddit.com/r/news/comments/kc5hc8/coronavirus_updates_us_states_need_more_money_for/)
+- [4 stabbed in skirmishes at DC protests, while 1 person shot at clashes in Washington state](https://www.reddit.com/r/news/comments/kc52o0/4_stabbed_in_skirmishes_at_dc_protests_while_1/)
 <!-- REDDIT:END -->
 
 
