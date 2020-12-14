@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [MAGA protesters damage historic Black church in DC](https://www.reddit.com/r/news/comments/kclp7l/maga_protesters_damage_historic_black_church_in_dc/)
+- [Search Continues for 2 Escaped Prisoners in Tennessee](https://www.reddit.com/r/news/comments/kckqsf/search_continues_for_2_escaped_prisoners_in/)
+- [Trump administration pushing delay in nursing home vaccinations](https://www.reddit.com/r/news/comments/kcklf9/trump_administration_pushing_delay_in_nursing/)
+- [Gunman shot by police at NYC cathedral Christmas concert](https://www.reddit.com/r/news/comments/kck9cw/gunman_shot_by_police_at_nyc_cathedral_christmas/)
+- [Master spy writer John le Carre dies at 89](https://www.reddit.com/r/news/comments/kck5zr/master_spy_writer_john_le_carre_dies_at_89/)
 <!-- REDDIT:END -->
 
 
