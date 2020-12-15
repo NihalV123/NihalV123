@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Voting technology company sends legal notices to Fox News and other right-wing media outlets over 'disinformation campaign'](https://www.reddit.com/r/news/comments/kde4ub/voting_technology_company_sends_legal_notices_to/)
+- [Georgia man who lied to employer about having Covid pleads guilty](https://www.reddit.com/r/news/comments/kddayf/georgia_man_who_lied_to_employer_about_having/)
+- [Caterers at finance guru Dave Ramsey's holiday party told not to wear masks, complaint says](https://www.reddit.com/r/news/comments/kdcpxj/caterers_at_finance_guru_dave_ramseys_holiday/)
+- [More Orange County restaurants decide to stay open, declaring their views on Instagram](https://www.reddit.com/r/news/comments/kdbroy/more_orange_county_restaurants_decide_to_stay/)
+- [2-year-old boy abandoned at Mississippi Goodwill store with note, bag of clothes, police say](https://www.reddit.com/r/news/comments/kd8qbj/2yearold_boy_abandoned_at_mississippi_goodwill/)
 <!-- REDDIT:END -->
 
 
