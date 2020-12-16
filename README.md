@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fiji braces for 'dire situation' as Category 5 Cyclone Yasa threatens 600,000 people](https://www.reddit.com/r/news/comments/ke79nb/fiji_braces_for_dire_situation_as_category_5/)
+- [Unsold U.S. hotel rooms near 1 billion as lodging crisis deepens](https://www.reddit.com/r/news/comments/ke6eb3/unsold_us_hotel_rooms_near_1_billion_as_lodging/)
+- [LGBT-owned kilt maker denounces kilt-clad Proud Boys](https://www.reddit.com/r/news/comments/ke558p/lgbtowned_kilt_maker_denounces_kiltclad_proud_boys/)
+- [A 107-year-old Minnesota woman beats Covid-19](https://www.reddit.com/r/news/comments/ke505t/a_107yearold_minnesota_woman_beats_covid19/)
+- [UM Fires History Professor Who Criticizes ‘Powerful, Racist Donors’ and ‘Carceral State’](https://www.reddit.com/r/news/comments/ke3ct7/um_fires_history_professor_who_criticizes/)
 <!-- REDDIT:END -->
 
 
