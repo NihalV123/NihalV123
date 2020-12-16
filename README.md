@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Go build a snowman': School district cites snow, year of loss for canceling school](https://www.reddit.com/r/news/comments/ke1xy0/go_build_a_snowman_school_district_cites_snow/)
+- [Canadian fashion mogul Peter Nygard arrested on federal sex trafficking charges](https://www.reddit.com/r/news/comments/ke05qv/canadian_fashion_mogul_peter_nygard_arrested_on/)
+- [Researchers discover 20 species not previously known to science](https://www.reddit.com/r/news/comments/kdzgzx/researchers_discover_20_species_not_previously/)
+- [Mexico : New security law strips DEA of diplomatic immunity.](https://www.reddit.com/r/news/comments/kdxn32/mexico_new_security_law_strips_dea_of_diplomatic/)
+- [Santa took photos with about 50 kids before positive COVID test, Georgia officials say](https://www.reddit.com/r/news/comments/kdxfcf/santa_took_photos_with_about_50_kids_before/)
 <!-- REDDIT:END -->
 
 
