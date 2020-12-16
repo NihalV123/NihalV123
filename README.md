@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FDA authorizes rapid, at-home Covid test kit, costs $30 with results in 15 min](https://www.reddit.com/r/news/comments/kecin2/fda_authorizes_rapid_athome_covid_test_kit_costs/)
+- [Florida puppy that escaped alligator's jaws becomes sheriff 'deputy dog'](https://www.reddit.com/r/news/comments/kec1io/florida_puppy_that_escaped_alligators_jaws/)
+- [Most child sexual abuse gangs made up of white men, Home Office report says](https://www.reddit.com/r/news/comments/kebt8f/most_child_sexual_abuse_gangs_made_up_of_white/)
+- [Man with chainsaw chases McDonald's employees, steals food and drink](https://www.reddit.com/r/news/comments/kebd3a/man_with_chainsaw_chases_mcdonalds_employees/)
+- [Israeli spy firm suspected of accessing global telecoms via Channel Islands](https://www.reddit.com/r/news/comments/kea6cl/israeli_spy_firm_suspected_of_accessing_global/)
 <!-- REDDIT:END -->
 
 
