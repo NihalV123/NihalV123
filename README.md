@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ["You've got the wrong house": Video shows Chicago police handcuffing innocent naked woman during raid on wrong apartment](https://www.reddit.com/r/news/comments/kfj2vj/youve_got_the_wrong_house_video_shows_chicago/)
+- [Amazon workers in bid to unionize at Alabama warehouse](https://www.reddit.com/r/news/comments/kfh2zc/amazon_workers_in_bid_to_unionize_at_alabama/)
+- [Body Camera Footage Shows Columbus Police Officers Pointing Guns, Tazing ATF Agent | WOSU Radio](https://www.reddit.com/r/news/comments/kffocn/body_camera_footage_shows_columbus_police/)
+- [San Francisco mandates 10-day quarantine for travelers from outside Bay Area](https://www.reddit.com/r/news/comments/kfehif/san_francisco_mandates_10day_quarantine_for/)
+- [8 nuns die of COVID-19 in last week at Wisconsin convent](https://www.reddit.com/r/news/comments/kfcitn/8_nuns_die_of_covid19_in_last_week_at_wisconsin/)
 <!-- REDDIT:END -->
 
 
