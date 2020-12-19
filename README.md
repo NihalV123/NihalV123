@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California hospitals 'crushed' as virus patients flood ICUs](https://www.reddit.com/r/news/comments/kfvfc9/california_hospitals_crushed_as_virus_patients/)
+- [Boeing 'inappropriately coached' pilots in 737 MAX testing -U.S. Senate report](https://www.reddit.com/r/news/comments/kfupft/boeing_inappropriately_coached_pilots_in_737_max/)
+- [Ex-Rochester police chief says mayor told him to lie about Daniel Prude death](https://www.reddit.com/r/news/comments/kfu9fl/exrochester_police_chief_says_mayor_told_him_to/)
+- [Local restaurants are closing in the tens of thousands, more by spring.](https://www.reddit.com/r/news/comments/kfu3nd/local_restaurants_are_closing_in_the_tens_of/)
+- ['This is unacceptable': Wisconsin receives nearly 15K fewer doses of COVID-19 vaccine than expected](https://www.reddit.com/r/news/comments/kft9vb/this_is_unacceptable_wisconsin_receives_nearly/)
 <!-- REDDIT:END -->
 
 
