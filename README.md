@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia Man Arrested in ‘Extremely Disturbing' Abduction of 12-Year-Old California Girl](https://www.reddit.com/r/news/comments/kgiwa8/virginia_man_arrested_in_extremely_disturbing/)
+- [Man releases Free 'Amazon for buying local' tool that lets customers shop local small businesses](https://www.reddit.com/r/news/comments/kgircr/man_releases_free_amazon_for_buying_local_tool/)
+- [New coronavirus variant up to 70% more transmissible, Britain says.](https://www.reddit.com/r/news/comments/kgi2gg/new_coronavirus_variant_up_to_70_more/)
+- [Covid-19: Fake 'immunity booster' found on sale in London shops](https://www.reddit.com/r/news/comments/kggdu1/covid19_fake_immunity_booster_found_on_sale_in/)
+- [N.J. accuses Google of having an illegal monopoly](https://www.reddit.com/r/news/comments/kgexqz/nj_accuses_google_of_having_an_illegal_monopoly/)
 <!-- REDDIT:END -->
 
 
