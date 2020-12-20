@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ursid meteor shower peaks this week around winter solstice](https://www.reddit.com/r/news/comments/kgs8a2/ursid_meteor_shower_peaks_this_week_around_winter/)
+- [Fake delivery notices imitating Amazon, UPS, FedEx surge during biggest online shopping season ever](https://www.reddit.com/r/news/comments/kgp1qq/fake_delivery_notices_imitating_amazon_ups_fedex/)
+- [After legal threat, Fox airs news package debunking election fraud claims made by its own hosts](https://www.reddit.com/r/news/comments/kgoyjk/after_legal_threat_fox_airs_news_package/)
+- [Overwhelmed, California hospitals contemplate rationing care](https://www.reddit.com/r/news/comments/kgounp/overwhelmed_california_hospitals_contemplate/)
+- [Canada's confirmed COVID-19 cases surpass 500,000](https://www.reddit.com/r/news/comments/kgou1r/canadas_confirmed_covid19_cases_surpass_500000/)
 <!-- REDDIT:END -->
 
 
