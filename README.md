@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A customer at an Ohio restaurant left a $5,600 tip to split among the entire staff for Christmas](https://www.reddit.com/r/news/comments/kh5afr/a_customer_at_an_ohio_restaurant_left_a_5600_tip/)
+- [BCSO Sheriff says he will not enforce ‘unconstitutional laws’ under state’s COVID response](https://www.reddit.com/r/news/comments/kh4y1w/bcso_sheriff_says_he_will_not_enforce/)
+- [Congress seals agreement on COVID relief, government funding](https://www.reddit.com/r/news/comments/kh4w2w/congress_seals_agreement_on_covid_relief/)
+- [Dow futures rise 200 points as lawmakers reach last-minute stimulus deal](https://www.reddit.com/r/news/comments/kh4jfc/dow_futures_rise_200_points_as_lawmakers_reach/)
+- [McConnell says Congress has agreed to $900 billion coronavirus stimulus deal](https://www.reddit.com/r/news/comments/kh43i3/mcconnell_says_congress_has_agreed_to_900_billion/)
 <!-- REDDIT:END -->
 
 
