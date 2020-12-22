@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US deaths in 2020 top 3 million, by far most ever counted](https://www.reddit.com/r/news/comments/ki93xl/us_deaths_in_2020_top_3_million_by_far_most_ever/)
+- [Migrant women file class-action lawsuit for alleged medical abuse at ICE detention center](https://www.reddit.com/r/news/comments/ki8zd0/migrant_women_file_classaction_lawsuit_for/)
+- [After permit approved for whites-only church, small Minnesota town insists it isn't racist | City leaders said if they had turned down Asatru Folk Assembly, they would have faced an expensive legal battle.](https://www.reddit.com/r/news/comments/ki8ywk/after_permit_approved_for_whitesonly_church_small/)
+- [Michigan judges are locking up children for noncriminal offenses like repeatedly disobeying their parents and skipping school](https://www.reddit.com/r/news/comments/ki8q9n/michigan_judges_are_locking_up_children_for/)
+- [Pa. misses deadline to spend $108M in rent, mortgage relief from CARES Act](https://www.reddit.com/r/news/comments/ki85rx/pa_misses_deadline_to_spend_108m_in_rent_mortgage/)
 <!-- REDDIT:END -->
 
 
