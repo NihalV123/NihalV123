@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rescue worker uses CPR to revive baby elephant after motorcycle crash](https://www.reddit.com/r/news/comments/ki0lwd/rescue_worker_uses_cpr_to_revive_baby_elephant/)
+- [Mum who starved teen son to death released from jail after serving less than two years.](https://www.reddit.com/r/news/comments/khywyx/mum_who_starved_teen_son_to_death_released_from/)
+- [Man charged with murder in connection to 1988 kidnapping of Michaela Garecht three decades after she vanished from California supermarket](https://www.reddit.com/r/news/comments/khytca/man_charged_with_murder_in_connection_to_1988/)
+- [Hospitals discuss rationing care as California faces deluge of Covid cases](https://www.reddit.com/r/news/comments/khx416/hospitals_discuss_rationing_care_as_california/)
+- [Tensions rise inside and outside of Oregon's Capitol](https://www.reddit.com/r/news/comments/khwyz4/tensions_rise_inside_and_outside_of_oregons/)
 <!-- REDDIT:END -->
 
 
