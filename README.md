@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tensions rise inside and outside of Oregon's Capitol](https://www.reddit.com/r/news/comments/khwyz4/tensions_rise_inside_and_outside_of_oregons/)
+- [U.S. Treasury Department latest to admit to being victim of widespread hack blamed on Russia](https://www.reddit.com/r/news/comments/khw612/us_treasury_department_latest_to_admit_to_being/)
+- [New Zealand village turns off street lights to stop birds crash-landing on to roads](https://www.reddit.com/r/news/comments/khvoxf/new_zealand_village_turns_off_street_lights_to/)
+- [Steel Panther played three packed live shows in Florida this weekend to maskless audiences](https://www.reddit.com/r/news/comments/khv3yu/steel_panther_played_three_packed_live_shows_in/)
+- [Microsoft, Google, Cisco, Dell join legal battle against hacking company NSO](https://www.reddit.com/r/news/comments/khuubp/microsoft_google_cisco_dell_join_legal_battle/)
 <!-- REDDIT:END -->
 
 
