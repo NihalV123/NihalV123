@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio mayor wants officer fired for not turning on camera during fatal police shooting](https://www.reddit.com/r/news/comments/kirscm/ohio_mayor_wants_officer_fired_for_not_turning_on/)
+- [Couple dies from COVID-19 holding hands after 61 years of marriage](https://www.reddit.com/r/news/comments/kirahp/couple_dies_from_covid19_holding_hands_after_61/)
+- [Troll, bully or OFFEND anyone online and you could cop a $110K fine under Federal Government's proposed laws](https://www.reddit.com/r/news/comments/kiqk8q/troll_bully_or_offend_anyone_online_and_you_could/)
+- [Covid: new variant found "due to hard work of UK scientists"](https://www.reddit.com/r/news/comments/kipg22/covid_new_variant_found_due_to_hard_work_of_uk/)
+- [Survey Finds 30% Of L.A. Residents Defying Covid Stay-at-Home Order](https://www.reddit.com/r/news/comments/kimqom/survey_finds_30_of_la_residents_defying_covid/)
 <!-- REDDIT:END -->
 
 
