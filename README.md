@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. air travel reached post-March peak on day before Christmas Eve](https://www.reddit.com/r/news/comments/kjj846/us_air_travel_reached_postmarch_peak_on_day/)
+- [EMT tests negative after giving CPR to passenger on LAX-bound flight who died from COVID-19](https://www.reddit.com/r/news/comments/kjj632/emt_tests_negative_after_giving_cpr_to_passenger/)
+- ['Christmas asteroid' to make close fly-by of Earth, NASA says](https://www.reddit.com/r/news/comments/kjj56g/christmas_asteroid_to_make_close_flyby_of_earth/)
+- [White supremacist's statue off of Louisiana high court steps](https://www.reddit.com/r/news/comments/kjiwez/white_supremacists_statue_off_of_louisiana_high/)
+- [A person who went to work while sick is likely the cause of two separate Covid-19 outbreaks in Oregon](https://www.reddit.com/r/news/comments/kjhjkk/a_person_who_went_to_work_while_sick_is_likely/)
 <!-- REDDIT:END -->
 
 
