@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Court orders Foster Farms chicken plant to give workers protective equipment](https://www.reddit.com/r/news/comments/kjp9jf/court_orders_foster_farms_chicken_plant_to_give/)
+- [A New Population of Blue Whales Was Discovered Hiding in the Indian Ocean](https://www.reddit.com/r/news/comments/kjp8u1/a_new_population_of_blue_whales_was_discovered/)
+- [Cyberpunk 2077: Class-Action Lawsuit Filed Against CD Projekt Red](https://www.reddit.com/r/news/comments/kjowuz/cyberpunk_2077_classaction_lawsuit_filed_against/)
+- [Black doctor dies of coronavirus after reporting racist treatment at Carmel hospital](https://www.reddit.com/r/news/comments/kjniif/black_doctor_dies_of_coronavirus_after_reporting/)
+- [Royal Caribbean launches legal action against families of White Island volcano tragedy](https://www.reddit.com/r/news/comments/kjmvzh/royal_caribbean_launches_legal_action_against/)
 <!-- REDDIT:END -->
 
 
