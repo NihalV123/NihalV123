@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Online store stops selling Rittenhouse family's merchandise](https://www.reddit.com/r/news/comments/kk38ea/online_store_stops_selling_rittenhouse_familys/)
+- [The Evictions Are Coming. Housing Activists Are Ready.](https://www.reddit.com/r/news/comments/kk3141/the_evictions_are_coming_housing_activists_are/)
+- [Covid: Millions of Americans face unemployment benefits lapse](https://www.reddit.com/r/news/comments/kk2hso/covid_millions_of_americans_face_unemployment/)
+- [Australian expeditioner evacuated from Antarctica in five-day mission](https://www.reddit.com/r/news/comments/kk2hgy/australian_expeditioner_evacuated_from_antarctica/)
+- [60 employees at Colorado Springs In-N-Out test positive for COVID-19 - KRDO](https://www.reddit.com/r/news/comments/kk1vc2/60_employees_at_colorado_springs_innout_test/)
 <!-- REDDIT:END -->
 
 
