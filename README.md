@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 UN peacekeepers killed, 2 injured in attack in Central African Republic](https://www.reddit.com/r/news/comments/kkcfew/3_un_peacekeepers_killed_2_injured_in_attack_in/)
+- [COVID-19 patient charged with murder in deadly beating of fellow patient at Lancaster hospital](https://www.reddit.com/r/news/comments/kkbw49/covid19_patient_charged_with_murder_in_deadly/)
+- [Air Canada Boeing 737 Max 8 forced to land after takeoff due to engine issue warning](https://www.reddit.com/r/news/comments/kkbgm3/air_canada_boeing_737_max_8_forced_to_land_after/)
+- [Boko Haram kill villagers in Christmas Eve attack](https://www.reddit.com/r/news/comments/kkbby3/boko_haram_kill_villagers_in_christmas_eve_attack/)
+- [NYPD officer who was shot on Christmas Eve survived because of his bulletproof vest](https://www.reddit.com/r/news/comments/kkad5z/nypd_officer_who_was_shot_on_christmas_eve/)
 <!-- REDDIT:END -->
 
 
