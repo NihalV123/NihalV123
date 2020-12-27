@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [37-year-old active military member charged in Rockford, IL shooting that left 3 dead, 3 injured](https://www.reddit.com/r/news/comments/kl6q5h/37yearold_active_military_member_charged_in/)
+- [Police: Man severely injured as teens throw bricks at cars](https://www.reddit.com/r/news/comments/kl6ifp/police_man_severely_injured_as_teens_throw_bricks/)
+- [Man Sues Police After Being Pepper-Sprayed While Filming Son’s Arrest](https://www.reddit.com/r/news/comments/kl5t18/man_sues_police_after_being_peppersprayed_while/)
+- [Several soldiers killed by gunmen in southwestern Pakistan](https://www.reddit.com/r/news/comments/kl5jtz/several_soldiers_killed_by_gunmen_in_southwestern/)
+- [4 pregnant women among 20 migrants dead after boat sinks off of Tunisia.](https://www.reddit.com/r/news/comments/kl534x/4_pregnant_women_among_20_migrants_dead_after/)
 <!-- REDDIT:END -->
 
 
