@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suicide bombing suspected in Nashville explosion as investigators search home south of the city](https://www.reddit.com/r/news/comments/kkson5/suicide_bombing_suspected_in_nashville_explosion/)
+- [Beverly Hills Eatery Reportedly Planning Indoor ‘Speakeasy' NYE Party Draws Police Interest](https://www.reddit.com/r/news/comments/kks4b4/beverly_hills_eatery_reportedly_planning_indoor/)
+- [California Covid-19 Update: Statewide Available ICU Capacity Falls To 0% On Christmas Day](https://www.reddit.com/r/news/comments/kkrwv0/california_covid19_update_statewide_available_icu/)
+- [Ontario confirms Canada’s 1st known cases of UK coronavirus variant](https://www.reddit.com/r/news/comments/kkqltb/ontario_confirms_canadas_1st_known_cases_of_uk/)
+- [The US has administered nearly 2 million coronavirus vaccine doses, according to CDC](https://www.reddit.com/r/news/comments/kkproz/the_us_has_administered_nearly_2_million/)
 <!-- REDDIT:END -->
 
 
