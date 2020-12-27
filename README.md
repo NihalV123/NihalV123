@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dispute over dipping sauce leads to shooting of Wendy’s employee in St. Louis](https://www.reddit.com/r/news/comments/kkxd96/dispute_over_dipping_sauce_leads_to_shooting_of/)
+- [UPS employee confessed to fatally attacking co-worker found stabbed in truck, warrant says](https://www.reddit.com/r/news/comments/kkwi85/ups_employee_confessed_to_fatally_attacking/)
+- [Japan temporarily bans entry into country until end of January](https://www.reddit.com/r/news/comments/kkvofp/japan_temporarily_bans_entry_into_country_until/)
+- [Prince William County Sheriff's deputy fired after 'disturbing' social media posts](https://www.reddit.com/r/news/comments/kkvlte/prince_william_county_sheriffs_deputy_fired_after/)
+- [More than 1.5 billion masks believed to have entered oceans in 2020](https://www.reddit.com/r/news/comments/kkvakf/more_than_15_billion_masks_believed_to_have/)
 <!-- REDDIT:END -->
 
 
