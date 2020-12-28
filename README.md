@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dr. Fauci: General public to receive COVID-19 vaccinations by March-Apr '21, start of normalcy next Fall](https://www.reddit.com/r/news/comments/klojpo/dr_fauci_general_public_to_receive_covid19/)
+- [Chinese journalist who documented Wuhan coronavirus outbreak jailed for 4 years](https://www.reddit.com/r/news/comments/klo8h0/chinese_journalist_who_documented_wuhan/)
+- [New $160,000 drug for multiple myeloma blood cancer to be added to Australia's Pharmaceutical Benefits Scheme, at a cost of $480 to patients](https://www.reddit.com/r/news/comments/klnv7h/new_160000_drug_for_multiple_myeloma_blood_cancer/)
+- [400 United Steelworkers on strike at Alabama aluminum plant](https://www.reddit.com/r/news/comments/klntf4/400_united_steelworkers_on_strike_at_alabama/)
+- [A 7-year-old boy went back into a burning home to save his baby sister](https://www.reddit.com/r/news/comments/klndwy/a_7yearold_boy_went_back_into_a_burning_home_to/)
 <!-- REDDIT:END -->
 
 
