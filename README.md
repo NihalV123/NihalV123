@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia admits to world's third-worst Covid-19 death toll | World news](https://www.reddit.com/r/news/comments/km1x5a/russia_admits_to_worlds_thirdworst_covid19_death/)
+- [Virginia deputy fired over 'disturbing' posts on social media site Parler](https://www.reddit.com/r/news/comments/km0i5p/virginia_deputy_fired_over_disturbing_posts_on/)
+- [Russia gives Kremlin critic Navalny an ultimatum: Return immediately or face jail](https://www.reddit.com/r/news/comments/klzom0/russia_gives_kremlin_critic_navalny_an_ultimatum/)
+- [Ghislaine Maxwell: Jeffrey Epstein's former girlfriend denied bail](https://www.reddit.com/r/news/comments/klyb5e/ghislaine_maxwell_jeffrey_epsteins_former/)
+- [Bomber to neighbor: The world is ‘never going to forget me’](https://www.reddit.com/r/news/comments/klxrgc/bomber_to_neighbor_the_world_is_never_going_to/)
 <!-- REDDIT:END -->
 
 
