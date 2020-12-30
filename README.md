@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Joshua Jaynes: Second Louisville police officer involved in Breonna Taylor investigation will be fired](https://www.reddit.com/r/news/comments/kmp4yh/joshua_jaynes_second_louisville_police_officer/)
+- [Alaska Airlines to stop allowing emotional support animals on flights](https://www.reddit.com/r/news/comments/kmo5s0/alaska_airlines_to_stop_allowing_emotional/)
+- [Wisconsin prosecutors add curfew charge against Rittenhouse](https://www.reddit.com/r/news/comments/kmo301/wisconsin_prosecutors_add_curfew_charge_against/)
+- [Mink infected with the coronavirus escapes Oregon fur farm](https://www.reddit.com/r/news/comments/kmldwx/mink_infected_with_the_coronavirus_escapes_oregon/)
+- [Video shows park ranger tasering Native American man in New Mexico](https://www.reddit.com/r/news/comments/kml92y/video_shows_park_ranger_tasering_native_american/)
 <!-- REDDIT:END -->
 
 
