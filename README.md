@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Groundbreaking Massachusetts Abortion Law Repeals Parental Consent for Older Teens](https://www.reddit.com/r/news/comments/kmuhj8/groundbreaking_massachusetts_abortion_law_repeals/)
+- [Louisiana congressman Luke Letlow dead from COVID-19](https://www.reddit.com/r/news/comments/kmtot7/louisiana_congressman_luke_letlow_dead_from/)
+- [Louisville police to fire 2 officers involved in fatal shooting of Breonna Taylor](https://www.reddit.com/r/news/comments/kmtgg8/louisville_police_to_fire_2_officers_involved_in/)
+- [Warner's girlfriend warned police he was building a bomb in his RV last year](https://www.reddit.com/r/news/comments/kmt78p/warners_girlfriend_warned_police_he_was_building/)
+- [Officials worry large NYE event in Vegas will spread virus](https://www.reddit.com/r/news/comments/kmr7zq/officials_worry_large_nye_event_in_vegas_will/)
 <!-- REDDIT:END -->
 
 
