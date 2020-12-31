@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado governor asks state health department to move all counties in 'Red' to 'Orange' to help businesses](https://www.reddit.com/r/news/comments/knti0t/colorado_governor_asks_state_health_department_to/)
+- [Number of Colorado In-N-Out employees with COVID grows to 122](https://www.reddit.com/r/news/comments/knsgpm/number_of_colorado_innout_employees_with_covid/)
+- [Sex offender, 38, 'spent hours glued to child porn on AT&T store iPad' until horrified workers called police](https://www.reddit.com/r/news/comments/knrtfn/sex_offender_38_spent_hours_glued_to_child_porn/)
+- [Driver of truck that killed 5 bicyclists on Nevada highway had high level of meth in his system, prosecutors say](https://www.reddit.com/r/news/comments/knqudn/driver_of_truck_that_killed_5_bicyclists_on/)
+- [British PM Johnson's father applying for French citizenship](https://www.reddit.com/r/news/comments/knq5vw/british_pm_johnsons_father_applying_for_french/)
 <!-- REDDIT:END -->
 
 
