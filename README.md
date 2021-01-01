@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wall Street to kick out three Chinese telecom firms](https://www.reddit.com/r/news/comments/ko596b/wall_street_to_kick_out_three_chinese_telecom/)
+- [Danny Masterson harassment suit must go through Scientology mediation, judge rules](https://www.reddit.com/r/news/comments/ko3s8y/danny_masterson_harassment_suit_must_go_through/)
+- [Thousands of cannabis cases expunged due to legalization](https://www.reddit.com/r/news/comments/ko33pp/thousands_of_cannabis_cases_expunged_due_to/)
+- [First case of COVID-19 variant in Florida found in Martin County](https://www.reddit.com/r/news/comments/ko2lc4/first_case_of_covid19_variant_in_florida_found_in/)
+- [Florida man charged in damage to church, businesses during Portland riot](https://www.reddit.com/r/news/comments/ko2jdy/florida_man_charged_in_damage_to_church/)
 <!-- REDDIT:END -->
 
 
