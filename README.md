@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sen. Mitch McConnell's home in Kentucky vandalized](https://www.reddit.com/r/news/comments/kp1v9g/sen_mitch_mcconnells_home_in_kentucky_vandalized/)
+- [LA Sheriff Superspreader Task Force detains 900 during NYE party busts](https://www.reddit.com/r/news/comments/kp1j0g/la_sheriff_superspreader_task_force_detains_900/)
+- [Soldier, 16-year-old charged in death of Fort Drum corporal found shot, buried under snow](https://www.reddit.com/r/news/comments/kp19g5/soldier_16yearold_charged_in_death_of_fort_drum/)
+- [‘Second Chance’ Law Takes Effect, Offers Hope To Georgians With Criminal Past](https://www.reddit.com/r/news/comments/kp0tws/second_chance_law_takes_effect_offers_hope_to/)
+- [Doctor erases cancer patients' medical debt totaling $650,000](https://www.reddit.com/r/news/comments/kp0tcl/doctor_erases_cancer_patients_medical_debt/)
 <!-- REDDIT:END -->
 
 
