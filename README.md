@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Army investigates after drill sergeant found fatally shot off-base](https://www.reddit.com/r/news/comments/kpcese/army_investigates_after_drill_sergeant_found/)
+- [Witness: bystanders chased fatal hit-and-run suspect down, leading to arrest](https://www.reddit.com/r/news/comments/kpbthk/witness_bystanders_chased_fatal_hitandrun_suspect/)
+- [New, possibly more contagious coronavirus strain detected in Big Bear](https://www.reddit.com/r/news/comments/kpbemw/new_possibly_more_contagious_coronavirus_strain/)
+- [Federal appeals court strikes down conversion therapy ban](https://www.reddit.com/r/news/comments/kpa9qd/federal_appeals_court_strikes_down_conversion/)
+- [Small plane crashes into Michigan home, killing three](https://www.reddit.com/r/news/comments/kpa1kw/small_plane_crashes_into_michigan_home_killing/)
 <!-- REDDIT:END -->
 
 
