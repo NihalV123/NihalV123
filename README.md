@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nearly 500K marijuana arrest records expunged in Illinois](https://www.reddit.com/r/news/comments/kp97z7/nearly_500k_marijuana_arrest_records_expunged_in/)
+- [More cases of new Covid variant found in the U.S., threatening to worsen nation's outbreak](https://www.reddit.com/r/news/comments/kp8ix2/more_cases_of_new_covid_variant_found_in_the_us/)
+- ['Nowhere to be found': Harvard coalition says US must fight to free young Uighur](https://www.reddit.com/r/news/comments/kp7oh2/nowhere_to_be_found_harvard_coalition_says_us/)
+- [Larry King Hospitalized With Covid-19, 87-Year-Old Broadcaster In Unknown Condition – Report](https://www.reddit.com/r/news/comments/kp5yjw/larry_king_hospitalized_with_covid19_87yearold/)
+- [After pardon, Blackwater guard defiant: ‘I acted correctly’](https://www.reddit.com/r/news/comments/kp4ugx/after_pardon_blackwater_guard_defiant_i_acted/)
 <!-- REDDIT:END -->
 
 
