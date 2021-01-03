@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A teacher whose 2018 class video made her a national sensation dies from Covid-19 at 35.](https://www.reddit.com/r/news/comments/kpp1oj/a_teacher_whose_2018_class_video_made_her_a/)
+- [K-9 removed from home of Vacaville police officer filmed punching it](https://www.reddit.com/r/news/comments/kpolty/k9_removed_from_home_of_vacaville_police_officer/)
+- [Squatters issue death threats to archaeologist who discovered oldest city in the Americas](https://www.reddit.com/r/news/comments/kpoc6j/squatters_issue_death_threats_to_archaeologist/)
+- [IRS says executors undervalued Prince's estate by 50%](https://www.reddit.com/r/news/comments/kpnz9h/irs_says_executors_undervalued_princes_estate_by/)
+- [Taxi driver takes drunk passenger who refused to wear mask directly to police station](https://www.reddit.com/r/news/comments/kpmgw5/taxi_driver_takes_drunk_passenger_who_refused_to/)
 <!-- REDDIT:END -->
 
 
