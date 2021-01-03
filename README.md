@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Navajo Nation faces a battle to protect its elders and traditions as Covid-19 deaths spike](https://www.reddit.com/r/news/comments/kphh81/the_navajo_nation_faces_a_battle_to_protect_its/)
+- [Ellis County Judge is Suspect in Vandalism of Segregation-Era ‘Negroes' Sign in Courthouse](https://www.reddit.com/r/news/comments/kpge5e/ellis_county_judge_is_suspect_in_vandalism_of/)
+- [Ambulances Waiting Up to 8 Hours to Offload Patients, as LA County's COVID-19 Hospital Crisis Worsens](https://www.reddit.com/r/news/comments/kpg1y7/ambulances_waiting_up_to_8_hours_to_offload/)
+- [New York becomes fourth state to record 1 million Covid-19 cases](https://www.reddit.com/r/news/comments/kpf1cx/new_york_becomes_fourth_state_to_record_1_million/)
+- [Palestinian man left quadriplegic by Israeli shooting](https://www.reddit.com/r/news/comments/kperta/palestinian_man_left_quadriplegic_by_israeli/)
 <!-- REDDIT:END -->
 
 
