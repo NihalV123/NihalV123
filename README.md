@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [TSA screened 2.5M travelers over the weekend, including a pandemic record 1.3M on Sunday](https://www.reddit.com/r/news/comments/kqd32k/tsa_screened_25m_travelers_over_the_weekend/)
+- [SC home renovations find baby's bones in wall from long ago](https://www.reddit.com/r/news/comments/kqblf4/sc_home_renovations_find_babys_bones_in_wall_from/)
+- [Bali's beaches buried in tide of plastic rubbish during monsoon season](https://www.reddit.com/r/news/comments/kqbbef/balis_beaches_buried_in_tide_of_plastic_rubbish/)
+- [Trump rewarding allies Nunes, Jordan with Medal of Freedom](https://www.reddit.com/r/news/comments/kqaum7/trump_rewarding_allies_nunes_jordan_with_medal_of/)
+- [Covid deniers removed from at capacity hospital](https://www.reddit.com/r/news/comments/kq9wvd/covid_deniers_removed_from_at_capacity_hospital/)
 <!-- REDDIT:END -->
 
 
