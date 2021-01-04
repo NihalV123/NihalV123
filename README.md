@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DC says no guns allowed during MAGA election protest](https://www.reddit.com/r/news/comments/kq2i47/dc_says_no_guns_allowed_during_maga_election/)
+- ['Unpersuasive.' 'Meritless.' 'Gross mischaracterization.' U.S. appeals court scorches CPS in case of 8-year-old's suicide](https://www.reddit.com/r/news/comments/kq1dvm/unpersuasive_meritless_gross_mischaracterization/)
+- [Norway landslide: Seventh body found, three still missing](https://www.reddit.com/r/news/comments/kpzm08/norway_landslide_seventh_body_found_three_still/)
+- [Pentagon: Carrier USS Nimitz Will Stay in Middle East After Threats from Iran](https://www.reddit.com/r/news/comments/kpywk2/pentagon_carrier_uss_nimitz_will_stay_in_middle/)
+- [CDC hopes to double the number of coronavirus samples checked for new mutations](https://www.reddit.com/r/news/comments/kpyb41/cdc_hopes_to_double_the_number_of_coronavirus/)
 <!-- REDDIT:END -->
 
 
