@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California's Hospitals Are at the 'Brink of Catastrophe' as the State Passes 25,000 Dead](https://www.reddit.com/r/news/comments/kqvnss/californias_hospitals_are_at_the_brink_of/)
+- [Former Walmart Pharmacists Say Company Ignored Red Flags As Opioid Sales Boomed](https://www.reddit.com/r/news/comments/kqvjn8/former_walmart_pharmacists_say_company_ignored/)
+- [Pakistan court bans virginity tests for rape survivors](https://www.reddit.com/r/news/comments/kquvew/pakistan_court_bans_virginity_tests_for_rape/)
+- [OSU studies find Oregon’s Medicaid expansion improved prenatal care access, birth outcomes](https://www.reddit.com/r/news/comments/kqt1k5/osu_studies_find_oregons_medicaid_expansion/)
+- [Chinese cities reportedly go dark as country faces shortage of coal, a major Australian export](https://www.reddit.com/r/news/comments/kqqvar/chinese_cities_reportedly_go_dark_as_country/)
 <!-- REDDIT:END -->
 
 
