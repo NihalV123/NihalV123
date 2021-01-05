@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK records more than 60,000 new coronavirus cases, BBC News](https://www.reddit.com/r/news/comments/kr1xb1/uk_records_more_than_60000_new_coronavirus_cases/)
+- [Rio Tinto copper mine threatens Apache sacred land - National Indigenous Times](https://www.reddit.com/r/news/comments/kr0tze/rio_tinto_copper_mine_threatens_apache_sacred/)
+- [Manufacturing worker trapped in machine for 45 minutes remains in critical condition](https://www.reddit.com/r/news/comments/kr091p/manufacturing_worker_trapped_in_machine_for_45/)
+- [VA’s coronavirus deaths have now surpassed totals from Iraq, Afghanistan wars](https://www.reddit.com/r/news/comments/kqztrz/vas_coronavirus_deaths_have_now_surpassed_totals/)
+- [Massachusetts to Ban Sale of New Gas-Powered Cars by 2035](https://www.reddit.com/r/news/comments/kqzpxl/massachusetts_to_ban_sale_of_new_gaspowered_cars/)
 <!-- REDDIT:END -->
 
 
