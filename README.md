@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 detectives involved in Breonna Taylor raid are fired](https://www.reddit.com/r/news/comments/krs2sn/2_detectives_involved_in_breonna_taylor_raid_are/)
+- [Son of rancher Cliven Bundy arrested in Henderson](https://www.reddit.com/r/news/comments/krrgv8/son_of_rancher_cliven_bundy_arrested_in_henderson/)
+- [FBI still not labeling Nashville bombing as a act of terrorism](https://www.reddit.com/r/news/comments/krr3kv/fbi_still_not_labeling_nashville_bombing_as_a_act/)
+- [Raphael Warnock wins Georgia runoff, CNN projects](https://www.reddit.com/r/news/comments/krq6rd/raphael_warnock_wins_georgia_runoff_cnn_projects/)
+- [2 Connecticut police officers arrested over apparent hotel room tryst](https://www.reddit.com/r/news/comments/krpepp/2_connecticut_police_officers_arrested_over/)
 <!-- REDDIT:END -->
 
 
