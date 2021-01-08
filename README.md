@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 6 Michigan residents arrested in connection to US Capitol riot](https://www.reddit.com/r/news/comments/ksqd96/at_least_6_michigan_residents_arrested_in/)
+- [US Capitol Police officer has died following pro-Trump riot](https://www.reddit.com/r/news/comments/ksq7hx/us_capitol_police_officer_has_died_following/)
+- [Chicago Police Union President Defends Those Who Stormed The U.S. Capitol](https://www.reddit.com/r/news/comments/kspf3y/chicago_police_union_president_defends_those_who/)
+- [Simon & Schuster Cancels Plans for Senator Hawley’s Book](https://www.reddit.com/r/news/comments/ksp624/simon_schuster_cancels_plans_for_senator_hawleys/)
+- [Capitol Police rejected offers of federal help to quell mob](https://www.reddit.com/r/news/comments/ksongv/capitol_police_rejected_offers_of_federal_help_to/)
 <!-- REDDIT:END -->
 
 
