@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman who falsely said Black teen stole her phone in NYC hotel arrested in home state of California](https://www.reddit.com/r/news/comments/kt0cdl/woman_who_falsely_said_black_teen_stole_her_phone/)
+- [North Texas lawyer fired after videoing himself outside the Capitol on Wednesday](https://www.reddit.com/r/news/comments/ksxs2e/north_texas_lawyer_fired_after_videoing_himself/)
+- [DC police release photos of 26 people suspected of criminal acts in connection to Capitol siege](https://www.reddit.com/r/news/comments/ksxi0t/dc_police_release_photos_of_26_people_suspected/)
+- [Alabama AG leads nonprofit that helped organize march at Capitol](https://www.reddit.com/r/news/comments/kswloj/alabama_ag_leads_nonprofit_that_helped_organize/)
+- [Shots Fired At Tippecanoe County Democratic Party Headquarters](https://www.reddit.com/r/news/comments/kswi67/shots_fired_at_tippecanoe_county_democratic_party/)
 <!-- REDDIT:END -->
 
 
