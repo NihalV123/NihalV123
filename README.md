@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DC police made far more arrests at the height of Black Lives Matter protests than during Capitol clash](https://www.reddit.com/r/news/comments/ktj1dj/dc_police_made_far_more_arrests_at_the_height_of/)
+- [US judge blocks Trump administration’s sweeping asylum rules](https://www.reddit.com/r/news/comments/ktici3/us_judge_blocks_trump_administrations_sweeping/)
+- [‘Proud Boys Hawaii’ founder arrested after returning to Honolulu following US Capitol riots](https://www.reddit.com/r/news/comments/kti0kq/proud_boys_hawaii_founder_arrested_after/)
+- [Right-wing social media app Parler has been removed from the Google Play store](https://www.reddit.com/r/news/comments/ktgxdj/rightwing_social_media_app_parler_has_been/)
+- [Elijah McClain's death to be subject of grand jury investigation](https://www.reddit.com/r/news/comments/ktg5ro/elijah_mcclains_death_to_be_subject_of_grand_jury/)
 <!-- REDDIT:END -->
 
 
