@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Apple threatens to remove Parler social networking service from App Store](https://www.reddit.com/r/news/comments/kteuch/apple_threatens_to_remove_parler_social/)
+- [Twitter permanently suspends Trump’s account](https://www.reddit.com/r/news/comments/ktenem/twitter_permanently_suspends_trumps_account/)
+- [Video shows Oregon Rep. Mike Nearman open Capitol door to far-right demonstrators](https://www.reddit.com/r/news/comments/ktcqsh/video_shows_oregon_rep_mike_nearman_open_capitol/)
+- [Twitter bans Michael Flynn, Sidney Powell in QAnon account purge](https://www.reddit.com/r/news/comments/ktcbtp/twitter_bans_michael_flynn_sidney_powell_in_qanon/)
+- [Alaska Airlines bans 14 passengers after disturbance on D.C.-Seattle flight](https://www.reddit.com/r/news/comments/ktbm60/alaska_airlines_bans_14_passengers_after/)
 <!-- REDDIT:END -->
 
 
