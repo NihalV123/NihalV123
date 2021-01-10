@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Interim police chief says recent shooting of unarmed man was Modesto officer’s fourth fatality](https://www.reddit.com/r/news/comments/ku1k0k/interim_police_chief_says_recent_shooting_of/)
+- [Canadian athletes say vaccine priority must go to vulnerable individuals, not Olympians](https://www.reddit.com/r/news/comments/ku12m6/canadian_athletes_say_vaccine_priority_must_go_to/)
+- [Quebec QAnon conspiracy theorist Alexis Cossette-Trudel banned from Twitter](https://www.reddit.com/r/news/comments/ku0ywy/quebec_qanon_conspiracy_theorist_alexis/)
+- [Amazon Employees Call for Company to Cut Ties With Parler After Deadly U.S. Capitol Riot](https://www.reddit.com/r/news/comments/ku01jx/amazon_employees_call_for_company_to_cut_ties/)
+- ['This is our most dangerous time.' Covid-19 deaths are at unprecedented levels in US](https://www.reddit.com/r/news/comments/ktzd8v/this_is_our_most_dangerous_time_covid19_deaths/)
 <!-- REDDIT:END -->
 
 
