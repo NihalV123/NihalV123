@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [National veterans groups plan to purge members found guilty in Capitol attack](https://www.reddit.com/r/news/comments/kv856s/national_veterans_groups_plan_to_purge_members/)
+- [Man photographed hanging from Senate balcony identified as religious Idaho man](https://www.reddit.com/r/news/comments/kv7h5j/man_photographed_hanging_from_senate_balcony/)
+- [Washington Monument temporarily shutting down due to ‘credible threat’ following Capitol mayhem](https://www.reddit.com/r/news/comments/kv7ci1/washington_monument_temporarily_shutting_down_due/)
+- [An impeachment charge against Trump is introduced as Republicans block a measure demanding Pence act.](https://www.reddit.com/r/news/comments/kv6hbu/an_impeachment_charge_against_trump_is_introduced/)
+- [Rocky Mount police officer placed on leave for being at Capitol riot says he and fellow officer did nothing illegal](https://www.reddit.com/r/news/comments/kv53ml/rocky_mount_police_officer_placed_on_leave_for/)
 <!-- REDDIT:END -->
 
 
