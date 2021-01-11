@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Off-duty police, firefighters under investigation in connection with U.S. Capitol riot](https://www.reddit.com/r/news/comments/kuqjcg/offduty_police_firefighters_under_investigation/)
+- [Men seen carrying restraints during Capitol riot charged with federal crimes](https://www.reddit.com/r/news/comments/kuq9n8/men_seen_carrying_restraints_during_capitol_riot/)
+- [DC Mayor Asks Feds to Cancel Demonstration Permits, Plan Inauguration Security](https://www.reddit.com/r/news/comments/kuq7tf/dc_mayor_asks_feds_to_cancel_demonstration/)
+- [Police officer hailed for steering Capitol mob from Senate chamber](https://www.reddit.com/r/news/comments/kup7iz/police_officer_hailed_for_steering_capitol_mob/)
+- [‘Hateful’ Tweet About Stacey Abrams Costs University Football Coach His Job](https://www.reddit.com/r/news/comments/kup25k/hateful_tweet_about_stacey_abrams_costs/)
 <!-- REDDIT:END -->
 
 
