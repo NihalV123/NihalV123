@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Airbnb says it will try to ban Capitol rioters from inauguration stays](https://www.reddit.com/r/news/comments/kvfhmk/airbnb_says_it_will_try_to_ban_capitol_rioters/)
+- [New York State Bar Association Weighs Removal of Giuliani’s Membership After Mob Storms Capitol | New York Law Journal](https://www.reddit.com/r/news/comments/kveeqd/new_york_state_bar_association_weighs_removal_of/)
+- [Facebook bans 'stop the steal' content, 69 days after the election](https://www.reddit.com/r/news/comments/kved7t/facebook_bans_stop_the_steal_content_69_days/)
+- [Horned D.C. protester makes first court appearance, refuses to eat in detention](https://www.reddit.com/r/news/comments/kve1q0/horned_dc_protester_makes_first_court_appearance/)
+- [Two US Capitol police officers suspended, one arrested following Capitol riot](https://www.reddit.com/r/news/comments/kvdt9b/two_us_capitol_police_officers_suspended_one/)
 <!-- REDDIT:END -->
 
 
