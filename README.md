@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada considers adding Proud Boys to terrorist list alongside Isis and al-Qaida](https://www.reddit.com/r/news/comments/kvk3ct/canada_considers_adding_proud_boys_to_terrorist/)
+- [Twitter has suspended 70,000 QAnon accounts since U.S. Capitol riot](https://www.reddit.com/r/news/comments/kvin5i/twitter_has_suspended_70000_qanon_accounts_since/)
+- [Man charged with shooting Portland federal courthouse attended Salem ‘Stop the Steal’ protest](https://www.reddit.com/r/news/comments/kvgyn4/man_charged_with_shooting_portland_federal/)
+- [Bill Belichick will not travel to Washington, accept Presidential Medal of Freedom](https://www.reddit.com/r/news/comments/kvgta5/bill_belichick_will_not_travel_to_washington/)
+- [Airbnb says it will try to ban Capitol rioters from inauguration stays](https://www.reddit.com/r/news/comments/kvfhmk/airbnb_says_it_will_try_to_ban_capitol_rioters/)
 <!-- REDDIT:END -->
 
 
