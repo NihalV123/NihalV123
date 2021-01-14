@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man suspected of throwing fire extinguisher at police in U.S. Capitol is arrested](https://www.reddit.com/r/news/comments/kxax58/man_suspected_of_throwing_fire_extinguisher_at/)
+- [Wisconsin pharmacist accused of spoiling Covid-19 vaccine has license suspended](https://www.reddit.com/r/news/comments/kxa9xa/wisconsin_pharmacist_accused_of_spoiling_covid19/)
+- [A man who carried a Confederate flag into the Capitol has been arrested.](https://www.reddit.com/r/news/comments/kx9xx9/a_man_who_carried_a_confederate_flag_into_the/)
+- [NY attorney general sues NYPD over Floyd protest response](https://www.reddit.com/r/news/comments/kx9agy/ny_attorney_general_sues_nypd_over_floyd_protest/)
+- [FBI: Proud Boys fan stockpiled ammo, knives in NY home](https://www.reddit.com/r/news/comments/kx987c/fbi_proud_boys_fan_stockpiled_ammo_knives_in_ny/)
 <!-- REDDIT:END -->
 
 
