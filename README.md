@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dolly Parton statue proposed for Tennessee Capitol ground](https://www.reddit.com/r/news/comments/kx3ys9/dolly_parton_statue_proposed_for_tennessee/)
+- [Motion to change Rittenhouse's bond agreement after allegedly flashing white-power signs at bar](https://www.reddit.com/r/news/comments/kx2zoj/motion_to_change_rittenhouses_bond_agreement/)
+- [F.B.I. Urges Police Chiefs Across U.S. to Be On High Alert for Threats](https://www.reddit.com/r/news/comments/kwzsfh/fbi_urges_police_chiefs_across_us_to_be_on_high/)
+- [Amazon reveals violent content, death threats that led to Parler's suspension](https://www.reddit.com/r/news/comments/kwx3an/amazon_reveals_violent_content_death_threats_that/)
+- [FAA steps up enforcement against unruly airline passengers](https://www.reddit.com/r/news/comments/kww31d/faa_steps_up_enforcement_against_unruly_airline/)
 <!-- REDDIT:END -->
 
 
