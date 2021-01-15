@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FAA issues new zero tolerance order against unruly airline passengers](https://www.reddit.com/r/news/comments/kxs2xh/faa_issues_new_zero_tolerance_order_against/)
+- [More than 90,000 Americans could die of Covid-19 in next three weeks, CDC forecast shows](https://www.reddit.com/r/news/comments/kxo6n9/more_than_90000_americans_could_die_of_covid19_in/)
+- [UFC won't punish fighters for marijuana use in policy change](https://www.reddit.com/r/news/comments/kxn3g9/ufc_wont_punish_fighters_for_marijuana_use_in/)
+- [WATCH: 'Kill him with his own gun': DC cops injured in Capitol riot share their stories](https://www.reddit.com/r/news/comments/kxmv0d/watch_kill_him_with_his_own_gun_dc_cops_injured/)
+- [Lawsuit alleges La. Deputies sat on teen with autism for more than 9 minutes before he died](https://www.reddit.com/r/news/comments/kxmj4v/lawsuit_alleges_la_deputies_sat_on_teen_with/)
 <!-- REDDIT:END -->
 
 
