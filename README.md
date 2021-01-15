@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WATCH: 'Kill him with his own gun': DC cops injured in Capitol riot share their stories](https://www.reddit.com/r/news/comments/kxmv0d/watch_kill_him_with_his_own_gun_dc_cops_injured/)
+- [Lawsuit alleges La. Deputies sat on teen with autism for more than 9 minutes before he died](https://www.reddit.com/r/news/comments/kxmj4v/lawsuit_alleges_la_deputies_sat_on_teen_with/)
+- [Nurse loses job after admitting of entering US Capitol building during riot and says she would do it again.](https://www.reddit.com/r/news/comments/kxm2rx/nurse_loses_job_after_admitting_of_entering_us/)
+- [Native Americans say U.S. does not own land it is about to give to Rio Tinto](https://www.reddit.com/r/news/comments/kxlj5d/native_americans_say_us_does_not_own_land_it_is/)
+- [Robocaller hit with $10 million fine by FCC](https://www.reddit.com/r/news/comments/kxk9zc/robocaller_hit_with_10_million_fine_by_fcc/)
 <!-- REDDIT:END -->
 
 
