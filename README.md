@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge drops charges against 28 Black Lives Matter protesters in Detroit](https://www.reddit.com/r/news/comments/kymlmu/judge_drops_charges_against_28_black_lives_matter/)
+- [Tipster explains why they helped FBI identify Memphis man now charged in connection with Capitol siege](https://www.reddit.com/r/news/comments/kyml9v/tipster_explains_why_they_helped_fbi_identify/)
+- [Ohio man charged in connection to Capitol riots](https://www.reddit.com/r/news/comments/kymkf6/ohio_man_charged_in_connection_to_capitol_riots/)
+- [A former White supremacist store and Ku Klux Klan meeting space is being turned into a community center to promote healing](https://www.reddit.com/r/news/comments/kyk30o/a_former_white_supremacist_store_and_ku_klux_klan/)
+- [Falsely claiming someone is gay is no longer defamation per se, N.Y. court rules](https://www.reddit.com/r/news/comments/kyiw3w/falsely_claiming_someone_is_gay_is_no_longer/)
 <!-- REDDIT:END -->
 
 
