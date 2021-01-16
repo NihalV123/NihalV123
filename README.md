@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gov. Polis “disappointed” after being “lied to” by federal gov’t about vaccines](https://www.reddit.com/r/news/comments/ky7cv4/gov_polis_disappointed_after_being_lied_to_by/)
+- [Rochester man with Proud Boys ties smashed window at Capitol riots, feds say](https://www.reddit.com/r/news/comments/ky6dh0/rochester_man_with_proud_boys_ties_smashed_window/)
+- [US fast-food workers plan strike to demand $15-an-hour minimum wage](https://www.reddit.com/r/news/comments/ky5jxl/us_fastfood_workers_plan_strike_to_demand/)
+- [NRA files for bankruptcy, says it will reincorporate in Texas](https://www.reddit.com/r/news/comments/ky462w/nra_files_for_bankruptcy_says_it_will/)
+- [Texas real estate agent who took private jet to D.C. charged in Capitol riot](https://www.reddit.com/r/news/comments/ky45ys/texas_real_estate_agent_who_took_private_jet_to/)
 <!-- REDDIT:END -->
 
 
