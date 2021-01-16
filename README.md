@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Seattle's police watchdog agency finds 'multiple' offenses in officers' response to racial justice protests](https://www.reddit.com/r/news/comments/kyaxt8/seattles_police_watchdog_agency_finds_multiple/)
+- [Vaccine Reserves the White House Released This Week Don’t Exist](https://www.reddit.com/r/news/comments/kyamnt/vaccine_reserves_the_white_house_released_this/)
+- [Dorothy Schmidt Cole, oldest living Marine, dies at 107](https://www.reddit.com/r/news/comments/kyabhl/dorothy_schmidt_cole_oldest_living_marine_dies_at/)
+- [California bill would ban intersex surgery for young kids](https://www.reddit.com/r/news/comments/ky9vhi/california_bill_would_ban_intersex_surgery_for/)
+- [Memphis man arrested in connection with riots at US Capitol](https://www.reddit.com/r/news/comments/ky8zja/memphis_man_arrested_in_connection_with_riots_at/)
 <!-- REDDIT:END -->
 
 
