@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dating apps are using Capitol siege images to ban rioters’ accounts](https://www.reddit.com/r/news/comments/kyzolf/dating_apps_are_using_capitol_siege_images_to_ban/)
+- [Major NRA donor to challenge gun group's bankruptcy over alleged fraud](https://www.reddit.com/r/news/comments/kyz77b/major_nra_donor_to_challenge_gun_groups/)
+- [Thousands of People Have Rallied to Save This Giant Tree in a Portland Neighborhood](https://www.reddit.com/r/news/comments/kyyxu5/thousands_of_people_have_rallied_to_save_this/)
+- [Ex-Florida data scientist Rebekah Jones plans to surrender](https://www.reddit.com/r/news/comments/kyxcic/exflorida_data_scientist_rebekah_jones_plans_to/)
+- [The oldest living Marine, a North Carolina woman, has died at age 107](https://www.reddit.com/r/news/comments/kywjv4/the_oldest_living_marine_a_north_carolina_woman/)
 <!-- REDDIT:END -->
 
 
