@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California man lived inside O’Hare Airport security zone for 3 months — because he was afraid to fly during COVID, prosecutors say](https://www.reddit.com/r/news/comments/kzghsw/california_man_lived_inside_ohare_airport/)
+- [U.S. state capitals see few protesters after bracing for violent demonstrations](https://www.reddit.com/r/news/comments/kzfu4e/us_state_capitals_see_few_protesters_after/)
+- [Woman, 70, filmed allegedly poisoning husband's coffee with roach killer multiple times](https://www.reddit.com/r/news/comments/kzf9p4/woman_70_filmed_allegedly_poisoning_husbands/)
+- [Apple CEO Tim Cook Tells Fox News Sunday: No Intersection Between Free Speech And Provoking Violence](https://www.reddit.com/r/news/comments/kzf9hl/apple_ceo_tim_cook_tells_fox_news_sunday_no/)
+- [Armed protesters arrive at Michigan Capitol](https://www.reddit.com/r/news/comments/kzf1yj/armed_protesters_arrive_at_michigan_capitol/)
 <!-- REDDIT:END -->
 
 
