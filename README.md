@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI moves on alleged members of extremist groups Oath Keepers, Three Percenters](https://www.reddit.com/r/news/comments/kzz4oj/fbi_moves_on_alleged_members_of_extremist_groups/)
+- [Air quality regulator temporarily suspends cremation limits for LA County amid 'backlog' from pandemic](https://www.reddit.com/r/news/comments/kzz4jk/air_quality_regulator_temporarily_suspends/)
+- [University exam-taker flunked for refusing to cover nose with a mask](https://www.reddit.com/r/news/comments/kzyvk6/university_examtaker_flunked_for_refusing_to/)
+- [China rolls out its new 400-mph 'super bullet' magnetic levitation train](https://www.reddit.com/r/news/comments/kzyb86/china_rolls_out_its_new_400mph_super_bullet/)
+- [FBI agents raided home in Stone Oak, arrest made](https://www.reddit.com/r/news/comments/kzy7it/fbi_agents_raided_home_in_stone_oak_arrest_made/)
 <!-- REDDIT:END -->
 
 
