@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alexei Navalny: EU and US demand release of poisoned Putin critic](https://www.reddit.com/r/news/comments/kzpvbn/alexei_navalny_eu_and_us_demand_release_of/)
+- [Defense officials tell AP they fear possible inside attack at inauguration, will have National Guard troops vetted](https://www.reddit.com/r/news/comments/kzla08/defense_officials_tell_ap_they_fear_possible/)
+- [FBI Albany arrests Capital Region man for his role in DC riots](https://www.reddit.com/r/news/comments/kzjxif/fbi_albany_arrests_capital_region_man_for_his/)
+- [Cowboys for Trump leader arrested over US Capitol riot](https://www.reddit.com/r/news/comments/kzj9al/cowboys_for_trump_leader_arrested_over_us_capitol/)
+- [Columbus native and musician Jon Schaffer arrested for role in Capitol riot](https://www.reddit.com/r/news/comments/kzivji/columbus_native_and_musician_jon_schaffer/)
 <!-- REDDIT:END -->
 
 
