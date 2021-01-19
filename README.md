@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Covid death toll passes 400,000](https://www.reddit.com/r/news/comments/l0hamo/us_covid_death_toll_passes_400000/)
+- [Police recover 500-year-old stolen copy of Leonardo da Vinci's 'Salvator Mundi'](https://www.reddit.com/r/news/comments/l0ghu7/police_recover_500yearold_stolen_copy_of_leonardo/)
+- [DuckDuckGo surpasses 100 million daily search queries for the first time](https://www.reddit.com/r/news/comments/l0cxr3/duckduckgo_surpasses_100_million_daily_search/)
+- [Woman wanted for allegedly stealing Nancy Pelosi’s laptop arrested](https://www.reddit.com/r/news/comments/l0cnuh/woman_wanted_for_allegedly_stealing_nancy_pelosis/)
+- [A missing teen snowmobiler built a snow cave to survive until rescuers arrived](https://www.reddit.com/r/news/comments/l0bfs6/a_missing_teen_snowmobiler_built_a_snow_cave_to/)
 <!-- REDDIT:END -->
 
 
