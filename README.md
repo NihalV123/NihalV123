@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman wanted for allegedly stealing Nancy Pelosi’s laptop arrested](https://www.reddit.com/r/news/comments/l0cnuh/woman_wanted_for_allegedly_stealing_nancy_pelosis/)
+- [A missing teen snowmobiler built a snow cave to survive until rescuers arrived](https://www.reddit.com/r/news/comments/l0bfs6/a_missing_teen_snowmobiler_built_a_snow_cave_to/)
+- [U.S. expected to have 500,000 COVID-19 deaths by February, CDC official warns](https://www.reddit.com/r/news/comments/l0a9my/us_expected_to_have_500000_covid19_deaths_by/)
+- [Heights Hospital Closes Because Owners are Behind on Rent, Notice Says](https://www.reddit.com/r/news/comments/l09oh4/heights_hospital_closes_because_owners_are_behind/)
+- [DC Police Investigating Pepe The Frog Graffiti As Possible Hate Crime](https://www.reddit.com/r/news/comments/l09c9k/dc_police_investigating_pepe_the_frog_graffiti_as/)
 <!-- REDDIT:END -->
 
 
