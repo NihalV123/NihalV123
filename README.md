@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A teenager saved her family when they lost their sense of smell from Covid-19 and didn't realize their house was on fire](https://www.reddit.com/r/news/comments/l07pah/a_teenager_saved_her_family_when_they_lost_their/)
+- [Single anonymous donor gives $40 million to fund 50 civil rights lawyers](https://www.reddit.com/r/news/comments/l07h7w/single_anonymous_donor_gives_40_million_to_fund/)
+- [Rudy Giuliani voted with an affidavit ballot, which he bashed in failed effort to overturn election](https://www.reddit.com/r/news/comments/l06f0a/rudy_giuliani_voted_with_an_affidavit_ballot/)
+- [New York Gov. Cuomo asks to buy Covid vaccine directly from Pfizer amid dose shortages](https://www.reddit.com/r/news/comments/l061y7/new_york_gov_cuomo_asks_to_buy_covid_vaccine/)
+- [Hidden camera reveals 'appalling' conditions in overseas PPE factory supplying Canadian hospitals, expert says | CBC News](https://www.reddit.com/r/news/comments/l0589o/hidden_camera_reveals_appalling_conditions_in/)
 <!-- REDDIT:END -->
 
 
