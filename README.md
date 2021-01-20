@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trump pardons Bannon](https://www.reddit.com/r/news/comments/l126qb/trump_pardons_bannon/)
+- [COVID-19: British pilot discharged from US hospital after 243 days of coronavirus treatment](https://www.reddit.com/r/news/comments/l10hmb/covid19_british_pilot_discharged_from_us_hospital/)
+- [DOJ will not criminally charge Sen. Richard Burr for stock trades he made after getting Covid intelligence](https://www.reddit.com/r/news/comments/l0zudz/doj_will_not_criminally_charge_sen_richard_burr/)
+- [Pharmacist Accused Of Tampering With COVID-19 Vaccine Doses Charged With Misdemeanor](https://www.reddit.com/r/news/comments/l0yftt/pharmacist_accused_of_tampering_with_covid19/)
+- [Ghislaine Maxwell court hearing disrupted by apparent QAnon followers](https://www.reddit.com/r/news/comments/l0y80k/ghislaine_maxwell_court_hearing_disrupted_by/)
 <!-- REDDIT:END -->
 
 
