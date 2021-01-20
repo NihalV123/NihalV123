@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vegan restaurant becomes first in France to earn a Michelin star](https://www.reddit.com/r/news/comments/l135m0/vegan_restaurant_becomes_first_in_france_to_earn/)
+- [Treasury nominee Yellen says U.S. can afford higher corporate tax rate if it coordinates with other countries](https://www.reddit.com/r/news/comments/l132gx/treasury_nominee_yellen_says_us_can_afford_higher/)
+- [Trump pardons Steve Bannon, Elliott Broidy, dozens of others, on last night in White House](https://www.reddit.com/r/news/comments/l132ak/trump_pardons_steve_bannon_elliott_broidy_dozens/)
+- [Tennessee state senator charged again in federal court](https://www.reddit.com/r/news/comments/l11dq4/tennessee_state_senator_charged_again_in_federal/)
+- [COVID-19: British pilot discharged from US hospital after 243 days of coronavirus treatment](https://www.reddit.com/r/news/comments/l10hmb/covid19_british_pilot_discharged_from_us_hospital/)
 <!-- REDDIT:END -->
 
 
