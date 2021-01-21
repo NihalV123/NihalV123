@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Owner of Ben and Jerry's: We'll ensure every worker in our supply chain gets a living wage](https://www.reddit.com/r/news/comments/l1q3g2/owner_of_ben_and_jerrys_well_ensure_every_worker/)
+- [Three variant strains of COVID-19 found in California, may be behind recent surge](https://www.reddit.com/r/news/comments/l1pb9i/three_variant_strains_of_covid19_found_in/)
+- [3 National Guard soldiers killed in helicopter crash in New York state](https://www.reddit.com/r/news/comments/l1ossa/3_national_guard_soldiers_killed_in_helicopter/)
+- [Proud Boys leader Joseph Biggs arrested in Florida in connection with the Capitol riot](https://www.reddit.com/r/news/comments/l1oho5/proud_boys_leader_joseph_biggs_arrested_in/)
+- [Germany to ban killing of newly hatched male chicks](https://www.reddit.com/r/news/comments/l1mlhw/germany_to_ban_killing_of_newly_hatched_male/)
 <!-- REDDIT:END -->
 
 
