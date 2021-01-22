@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dave Chappelle tests positive for COVID-19; shows canceled](https://www.reddit.com/r/news/comments/l2lyls/dave_chappelle_tests_positive_for_covid19_shows/)
+- [Maryland man accused of threatening to bomb IRS headquarters](https://www.reddit.com/r/news/comments/l2el09/maryland_man_accused_of_threatening_to_bomb_irs/)
+- [SpaceX to convert offshore oil platforms into spaceports](https://www.reddit.com/r/news/comments/l2dv1m/spacex_to_convert_offshore_oil_platforms_into/)
+- [Michigan official shows gun after public meeting criticism](https://www.reddit.com/r/news/comments/l2dlpt/michigan_official_shows_gun_after_public_meeting/)
+- [Texas doctor charged with stealing a vial of Covid-19 vaccine](https://www.reddit.com/r/news/comments/l2diml/texas_doctor_charged_with_stealing_a_vial_of/)
 <!-- REDDIT:END -->
 
 
