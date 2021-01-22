@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two Georgia educators die from Covid on the same day](https://www.reddit.com/r/news/comments/l2rb48/two_georgia_educators_die_from_covid_on_the_same/)
+- [Rare US gold coin dating from 1787 sold for 9m dollars](https://www.reddit.com/r/news/comments/l2r9qj/rare_us_gold_coin_dating_from_1787_sold_for_9m/)
+- [Lawsuit: Florida teen sues Twitter for alleged failure to remove child porn](https://www.reddit.com/r/news/comments/l2r94m/lawsuit_florida_teen_sues_twitter_for_alleged/)
+- [Senate confirms Lloyd Austin as America's first Black secretary of Defense](https://www.reddit.com/r/news/comments/l2qqok/senate_confirms_lloyd_austin_as_americas_first/)
+- [Baseball legend Hank Aaron, who began and ended his big-league career in Milwaukee, dies at 86](https://www.reddit.com/r/news/comments/l2qd96/baseball_legend_hank_aaron_who_began_and_ended/)
 <!-- REDDIT:END -->
 
 
