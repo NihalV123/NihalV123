@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [SpaceX to convert offshore oil platforms into spaceports](https://www.reddit.com/r/news/comments/l2dv1m/spacex_to_convert_offshore_oil_platforms_into/)
+- [Michigan official shows gun after public meeting criticism](https://www.reddit.com/r/news/comments/l2dlpt/michigan_official_shows_gun_after_public_meeting/)
+- [Texas doctor charged with stealing a vial of Covid-19 vaccine](https://www.reddit.com/r/news/comments/l2diml/texas_doctor_charged_with_stealing_a_vial_of/)
+- [Elon Musk to offer US$100 million prize for 'best' carbon capture tech](https://www.reddit.com/r/news/comments/l2cdf1/elon_musk_to_offer_us100_million_prize_for_best/)
+- [Instacart is cutting more than 1,800 jobs, including its only unionized workers](https://www.reddit.com/r/news/comments/l2bo2p/instacart_is_cutting_more_than_1800_jobs/)
 <!-- REDDIT:END -->
 
 
