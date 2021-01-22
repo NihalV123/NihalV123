@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan privately concludes Tokyo Olympics should be cancelled due to coronavirus](https://www.reddit.com/r/news/comments/l2bdld/japan_privately_concludes_tokyo_olympics_should/)
+- [Biden signs burst of virus orders, requires masks for travel](https://www.reddit.com/r/news/comments/l289v9/biden_signs_burst_of_virus_orders_requires_masks/)
+- [FBI ups reward to $75,000 for suspect who placed pipe bombs during Capitol riot](https://www.reddit.com/r/news/comments/l27feg/fbi_ups_reward_to_75000_for_suspect_who_placed/)
+- [Former head of Vatican bank guilty of embezzlement, money laundering](https://www.reddit.com/r/news/comments/l27466/former_head_of_vatican_bank_guilty_of/)
+- [Parler loses bid to have service restored by Amazon](https://www.reddit.com/r/news/comments/l26wq8/parler_loses_bid_to_have_service_restored_by/)
 <!-- REDDIT:END -->
 
 
