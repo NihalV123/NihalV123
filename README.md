@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alexei Navalny: 'More than 2,000 detained' in protests across Russia](https://www.reddit.com/r/news/comments/l3gnzg/alexei_navalny_more_than_2000_detained_in/)
+- [Florida teen gets 45 years for killing mom during fight over grades](https://www.reddit.com/r/news/comments/l3ggn0/florida_teen_gets_45_years_for_killing_mom_during/)
+- [Teacher suspended for attending Capitol 'Stop the Steal' rally - CNN Video](https://www.reddit.com/r/news/comments/l3f7r9/teacher_suspended_for_attending_capitol_stop_the/)
+- [Russia arrests more than 1,600 protesters demanding Alexey Navalny's release](https://www.reddit.com/r/news/comments/l3evpc/russia_arrests_more_than_1600_protesters/)
+- [Navalny's wife Yulia detained as protests in his support sweep across Russia](https://www.reddit.com/r/news/comments/l3dp2j/navalnys_wife_yulia_detained_as_protests_in_his/)
 <!-- REDDIT:END -->
 
 
