@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [7 charged, 1 with felony, after attack on Chili's hostess enforcing coronavirus rules](https://www.reddit.com/r/news/comments/l30bq8/7_charged_1_with_felony_after_attack_on_chilis/)
+- [Giuliani hit with another disciplinary complaint over false claims, rhetoric](https://www.reddit.com/r/news/comments/l2znx2/giuliani_hit_with_another_disciplinary_complaint/)
+- [Bond Agreement for Kyle Rittenhouse Modified After He Allegedly Flashed White-Power Signs at Bar](https://www.reddit.com/r/news/comments/l2z687/bond_agreement_for_kyle_rittenhouse_modified/)
+- [Archaeologists Unearth Egyptian Queen’s Tomb, 13-Foot ‘Book of the Dead’ Scroll](https://www.reddit.com/r/news/comments/l2xzyg/archaeologists_unearth_egyptian_queens_tomb/)
+- [Breonna Taylor grand jurors file petition to impeach Kentucky AG Daniel Cameron](https://www.reddit.com/r/news/comments/l2xs3z/breonna_taylor_grand_jurors_file_petition_to/)
 <!-- REDDIT:END -->
 
 
