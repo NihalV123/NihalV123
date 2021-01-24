@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [It's a secret: California keeps key virus data from public](https://www.reddit.com/r/news/comments/l43paj/its_a_secret_california_keeps_key_virus_data_from/)
+- [Montgomery County cops accused of harassing 5-year-old boy](https://www.reddit.com/r/news/comments/l43hn1/montgomery_county_cops_accused_of_harassing/)
+- [47 bags of dog poop collected in one day at Colorado open space](https://www.reddit.com/r/news/comments/l438q2/47_bags_of_dog_poop_collected_in_one_day_at/)
+- [A woman who won a $60 million lottery said she got the winning numbers from her husband's dream](https://www.reddit.com/r/news/comments/l430t0/a_woman_who_won_a_60_million_lottery_said_she_got/)
+- [As Birthrates Fall, Animals Prowl The Abandoned Ghost Villages](https://www.reddit.com/r/news/comments/l41igd/as_birthrates_fall_animals_prowl_the_abandoned/)
 <!-- REDDIT:END -->
 
 
