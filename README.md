@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan's health director resigned after the state allowed restaurants to reopen](https://www.reddit.com/r/news/comments/l3tocj/michigans_health_director_resigned_after_the/)
+- [Pedestrian run over by Tacoma police officer surrounded by crowd](https://www.reddit.com/r/news/comments/l3slue/pedestrian_run_over_by_tacoma_police_officer/)
+- [33 missing children rescued in Los Angeles trafficking operation](https://www.reddit.com/r/news/comments/l3sa06/33_missing_children_rescued_in_los_angeles/)
+- [Food Network Pulls ‘Worst Cooks In America’ Season 20 After Champion Charged With Child Murder](https://www.reddit.com/r/news/comments/l3rgcg/food_network_pulls_worst_cooks_in_america_season/)
+- [Chicago teachers vote on job action, claim schools not ready to reopen](https://www.reddit.com/r/news/comments/l3qhbh/chicago_teachers_vote_on_job_action_claim_schools/)
 <!-- REDDIT:END -->
 
 
