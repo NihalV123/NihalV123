@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bomb Explodes at California Church Known for Hateful Views](https://www.reddit.com/r/news/comments/l3msdi/bomb_explodes_at_california_church_known_for/)
+- ['The problem is Putin': protesters throng Russia's streets to support jailed Navalny](https://www.reddit.com/r/news/comments/l3lzg3/the_problem_is_putin_protesters_throng_russias/)
+- [Md. man charged with assaulting officers with bat, baton ordered held pending trial](https://www.reddit.com/r/news/comments/l3k5l0/md_man_charged_with_assaulting_officers_with_bat/)
+- [Baltimore Is Suing Big Oil Over Climate Change : Short Wave](https://www.reddit.com/r/news/comments/l3jjmo/baltimore_is_suing_big_oil_over_climate_change/)
+- [F.D.A. Approves Monthly Shots to Treat H.I.V.](https://www.reddit.com/r/news/comments/l3ile0/fda_approves_monthly_shots_to_treat_hiv/)
 <!-- REDDIT:END -->
 
 
