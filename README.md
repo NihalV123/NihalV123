@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two Virginia police officers suspended over role in Capitol riot](https://www.reddit.com/r/news/comments/l4sh0t/two_virginia_police_officers_suspended_over_role/)
+- [Bay Area hospital won't receive COVID vaccine after teachers given doses before frontliners, elderly](https://www.reddit.com/r/news/comments/l4s2fp/bay_area_hospital_wont_receive_covid_vaccine/)
+- [Man steals tow truck as revenge for company previously towing his car](https://www.reddit.com/r/news/comments/l4rgq4/man_steals_tow_truck_as_revenge_for_company/)
+- [Supreme court dismisses emolument cases against Trump](https://www.reddit.com/r/news/comments/l4qipi/supreme_court_dismisses_emolument_cases_against/)
+- [Italy consumer association sues Apple for planned iPhone obsolescence](https://www.reddit.com/r/news/comments/l4ptfa/italy_consumer_association_sues_apple_for_planned/)
 <!-- REDDIT:END -->
 
 
