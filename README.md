@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WNBA team Atlanta Dream, co-owned by Kelly Loeffler, is close to being sold, league says](https://www.reddit.com/r/news/comments/l4ffws/wnba_team_atlanta_dream_coowned_by_kelly_loeffler/)
+- [Sen. Cory Booker Eulogizes U.S. Capitol Police Officer Brian Sicknick of South River](https://www.reddit.com/r/news/comments/l4fb05/sen_cory_booker_eulogizes_us_capitol_police/)
+- [Godiva Chocolates to close all 128 North American stores due to coronavirus pandemic](https://www.reddit.com/r/news/comments/l4ebf7/godiva_chocolates_to_close_all_128_north_american/)
+- [Bay Area man fights off four home invaders, killing one, police say](https://www.reddit.com/r/news/comments/l4dnrm/bay_area_man_fights_off_four_home_invaders/)
+- [Baby abandoned on the side of the road found by Amazon driver](https://www.reddit.com/r/news/comments/l4c3v8/baby_abandoned_on_the_side_of_the_road_found_by/)
 <!-- REDDIT:END -->
 
 
