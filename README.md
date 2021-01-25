@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WhatsApp loses millions of users after terms update](https://www.reddit.com/r/news/comments/l4bdz3/whatsapp_loses_millions_of_users_after_terms/)
+- [CDC director says federal government does not know how much Covid vaccine the U.S. has](https://www.reddit.com/r/news/comments/l4bbqb/cdc_director_says_federal_government_does_not/)
+- [Threatening email sent to 5,000 parents, students through Massachusetts school's account](https://www.reddit.com/r/news/comments/l49n2k/threatening_email_sent_to_5000_parents_students/)
+- [5 people, including pregnant woman, killed in Indianapolis mass shooting](https://www.reddit.com/r/news/comments/l48b9o/5_people_including_pregnant_woman_killed_in/)
+- [Chicago teachers vote to teach from home, defying district](https://www.reddit.com/r/news/comments/l47cr3/chicago_teachers_vote_to_teach_from_home_defying/)
 <!-- REDDIT:END -->
 
 
