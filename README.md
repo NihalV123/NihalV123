@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge Orders Massage Parlor Video of Robert Kraft to be Destroyed](https://www.reddit.com/r/news/comments/l5h0nt/judge_orders_massage_parlor_video_of_robert_kraft/)
+- [Mohamad Fakih, CEO of Paramount Fine Foods Donating 30,000 Meals to Frontline Workers](https://www.reddit.com/r/news/comments/l5gf0c/mohamad_fakih_ceo_of_paramount_fine_foods/)
+- [PepsiCo, Beyond Meat partner to develop new plant-based snacks](https://www.reddit.com/r/news/comments/l5fz8c/pepsico_beyond_meat_partner_to_develop_new/)
+- [No-fly list: Southwest last to ban emotional-support animals](https://www.reddit.com/r/news/comments/l5fyy9/nofly_list_southwest_last_to_ban_emotionalsupport/)
+- [1 dead, at least 17 injured after tornado rips Alabama town](https://www.reddit.com/r/news/comments/l5f198/1_dead_at_least_17_injured_after_tornado_rips/)
 <!-- REDDIT:END -->
 
 
