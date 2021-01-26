@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman sentenced in scheme to offer information to Russia](https://www.reddit.com/r/news/comments/l58bc5/woman_sentenced_in_scheme_to_offer_information_to/)
+- [U.S. new COVID cases down 21% in past week, deaths fall from peak](https://www.reddit.com/r/news/comments/l57lt3/us_new_covid_cases_down_21_in_past_week_deaths/)
+- [Google Maps will soon display Covid-19 vaccination sites](https://www.reddit.com/r/news/comments/l57f4a/google_maps_will_soon_display_covid19_vaccination/)
+- [Court approves $17 million payout to Harvey Weinstein's accusers](https://www.reddit.com/r/news/comments/l570rr/court_approves_17_million_payout_to_harvey/)
+- [Twitter account belonging to MyPillow CEO Mike Lindell suspended](https://www.reddit.com/r/news/comments/l56mtd/twitter_account_belonging_to_mypillow_ceo_mike/)
 <!-- REDDIT:END -->
 
 
