@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Goldman Sachs slashes CEO pay by $10 million over massive scandal](https://www.reddit.com/r/news/comments/l5w82m/goldman_sachs_slashes_ceo_pay_by_10_million_over/)
+- [Lawsuit filed after off-duty officer, 'mob' allegedly tried to force way into Black teen's home](https://www.reddit.com/r/news/comments/l5u753/lawsuit_filed_after_offduty_officer_mob_allegedly/)
+- [Grizzly, 34, confirmed as Yellowstone region's oldest known](https://www.reddit.com/r/news/comments/l5sp9s/grizzly_34_confirmed_as_yellowstone_regions/)
+- [Pharmacist pleads guilty to federal charges for intentionally sabotaging COVID vaccines](https://www.reddit.com/r/news/comments/l5rpqp/pharmacist_pleads_guilty_to_federal_charges_for/)
+- [‘Armed And Dangerous' 70-Year-Old Man After Two Hunters Are Killed At Tennessee Lake](https://www.reddit.com/r/news/comments/l5r8s8/armed_and_dangerous_70yearold_man_after_two/)
 <!-- REDDIT:END -->
 
 
