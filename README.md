@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [America's billionaires have grown $1.1 trillion richer during the pandemic](https://www.reddit.com/r/news/comments/l5qkpr/americas_billionaires_have_grown_11_trillion/)
+- [Oklahoma trying to return its $2m stockpile of hydroxychloroquine](https://www.reddit.com/r/news/comments/l5pt06/oklahoma_trying_to_return_its_2m_stockpile_of/)
+- [Kellyanne Conway accused of posting topless photo of her 16-year-old daughter on Twitter](https://www.reddit.com/r/news/comments/l5prlc/kellyanne_conway_accused_of_posting_topless_photo/)
+- [YouTube suspends Giuliani from partner program, cutting access to ad revenue](https://www.reddit.com/r/news/comments/l5or21/youtube_suspends_giuliani_from_partner_program/)
+- ['Paramedic of the Year' in Florida arrested for role in theft of Covid-19 vaccines](https://www.reddit.com/r/news/comments/l5obc6/paramedic_of_the_year_in_florida_arrested_for/)
 <!-- REDDIT:END -->
 
 
