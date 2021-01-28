@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bernie Sanders’ mittens, memes help raise $1.8M for charity](https://www.reddit.com/r/news/comments/l6hwz8/bernie_sanders_mittens_memes_help_raise_18m_for/)
+- [NJ hospital gave vaccine to wealthy donors, ineligible relatives in December](https://www.reddit.com/r/news/comments/l6gi5w/nj_hospital_gave_vaccine_to_wealthy_donors/)
+- [Cloris Leachman, Emmy and Oscar winning actor, dies at 94](https://www.reddit.com/r/news/comments/l6ggat/cloris_leachman_emmy_and_oscar_winning_actor_dies/)
+- [Facebook will stop recommending political groups permanently](https://www.reddit.com/r/news/comments/l6gdz3/facebook_will_stop_recommending_political_groups/)
+- [Owasso second grader expelled for telling another girl she had a crush on her](https://www.reddit.com/r/news/comments/l6fz67/owasso_second_grader_expelled_for_telling_another/)
 <!-- REDDIT:END -->
 
 
