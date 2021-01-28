@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [GameStop’s three largest shareholders earn over $2bn amid stock surge](https://www.reddit.com/r/news/comments/l6tnbu/gamestops_three_largest_shareholders_earn_over/)
+- [Backlash grows for ‘selfish millionaire’ who got vaccine meant for Indigenous people](https://www.reddit.com/r/news/comments/l6phqo/backlash_grows_for_selfish_millionaire_who_got/)
+- [Black girls wrongly held at gunpoint in Colorado file suit](https://www.reddit.com/r/news/comments/l6p7l0/black_girls_wrongly_held_at_gunpoint_in_colorado/)
+- [Man found with five ‘fully operational’ pipe bombs was targeting Governor Newsom](https://www.reddit.com/r/news/comments/l6n1uq/man_found_with_five_fully_operational_pipe_bombs/)
+- ['Their inaction cost lives': U.S. Capitol Police union rebukes leadership](https://www.reddit.com/r/news/comments/l6hzeq/their_inaction_cost_lives_us_capitol_police_union/)
 <!-- REDDIT:END -->
 
 
