@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Boy Scouts Chaplain Is Sentenced to 40 Years in Prison for Sexual Abuse](https://www.reddit.com/r/news/comments/l7gw4p/former_boy_scouts_chaplain_is_sentenced_to_40/)
+- [Memorial to John Lewis replacing Decatur Confederate monument](https://www.reddit.com/r/news/comments/l7g3k9/memorial_to_john_lewis_replacing_decatur/)
+- [2 toddlers still missing after disappearance from California home nearly 6 weeks ago](https://www.reddit.com/r/news/comments/l7ftmy/2_toddlers_still_missing_after_disappearance_from/)
+- [Robinhood CEO says limited trade to protect firm and customers](https://www.reddit.com/r/news/comments/l7exc0/robinhood_ceo_says_limited_trade_to_protect_firm/)
+- [U.S. panel to hold hearing on GameStop, other social-media driven stock trading](https://www.reddit.com/r/news/comments/l7er7j/us_panel_to_hold_hearing_on_gamestop_other/)
 <!-- REDDIT:END -->
 
 
