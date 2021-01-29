@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [San Antonio 10 year old cashes in GameStop stocks](https://www.reddit.com/r/news/comments/l7oqby/san_antonio_10_year_old_cashes_in_gamestop_stocks/)
+- [Elon Musk Loses Round One Vs Indian American Student Who Sued Him](https://www.reddit.com/r/news/comments/l7mrsu/elon_musk_loses_round_one_vs_indian_american/)
+- [Winnipeg man wants answers from Air Canada after cat lost in Toronto airport | CBC News](https://www.reddit.com/r/news/comments/l7j060/winnipeg_man_wants_answers_from_air_canada_after/)
+- [Former Boy Scouts Chaplain Is Sentenced to 40 Years in Prison for Sexual Abuse](https://www.reddit.com/r/news/comments/l7gw4p/former_boy_scouts_chaplain_is_sentenced_to_40/)
+- [Memorial to John Lewis replacing Decatur Confederate monument](https://www.reddit.com/r/news/comments/l7g3k9/memorial_to_john_lewis_replacing_decatur/)
 <!-- REDDIT:END -->
 
 
