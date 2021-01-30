@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Robinhood is still severely limiting trading, customers can only buy one share of GameStop](https://www.reddit.com/r/news/comments/l8deis/robinhood_is_still_severely_limiting_trading/)
+- [Judge orders Seattle to pay nearly $82,000 to Black Lives Matter lawyers for costs of case against police](https://www.reddit.com/r/news/comments/l8c56s/judge_orders_seattle_to_pay_nearly_82000_to_black/)
+- [Black Lives Matter movement nominated for Nobel peace prize](https://www.reddit.com/r/news/comments/l8bbnm/black_lives_matter_movement_nominated_for_nobel/)
+- ['Bomb-making manuals' found in home of Proud Boy who stormed U.S. Capitol](https://www.reddit.com/r/news/comments/l8aliu/bombmaking_manuals_found_in_home_of_proud_boy_who/)
+- [Black Lives Matter foundation wins Swedish human rights prize](https://www.reddit.com/r/news/comments/l8a5uj/black_lives_matter_foundation_wins_swedish_human/)
 <!-- REDDIT:END -->
 
 
