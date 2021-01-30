@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [IG Group restricts trading on GameStop and AMC due to 'extreme volatility'](https://www.reddit.com/r/news/comments/l8ow7p/ig_group_restricts_trading_on_gamestop_and_amc/)
+- [Civil Beat Sues Honolulu Police To Make Officer Overtime Data Public](https://www.reddit.com/r/news/comments/l8o9h4/civil_beat_sues_honolulu_police_to_make_officer/)
+- [In Philadelphia, a scandal erupts over vaccination startup led by 22-year-old — NPR](https://www.reddit.com/r/news/comments/l8nvoe/in_philadelphia_a_scandal_erupts_over_vaccination/)
+- [National Police Foundation to Review LAPD’s Response Tactics to BLM Protests](https://www.reddit.com/r/news/comments/l8mv6d/national_police_foundation_to_review_lapds/)
+- [Babies get Covid-19 antibodies from mothers while in the womb, study finds](https://www.reddit.com/r/news/comments/l8mm9h/babies_get_covid19_antibodies_from_mothers_while/)
 <!-- REDDIT:END -->
 
 
