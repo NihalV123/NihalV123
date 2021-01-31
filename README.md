@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protesters Disrupt Dodger Stadium Vaccinations](https://www.reddit.com/r/news/comments/l93v75/protesters_disrupt_dodger_stadium_vaccinations/)
+- [India cuts Internet near Delhi as hundreds of farmers begin hunger strike](https://www.reddit.com/r/news/comments/l932pl/india_cuts_internet_near_delhi_as_hundreds_of/)
+- [Residents of Washington town wonder if QAnon has taken hold of their mayor](https://www.reddit.com/r/news/comments/l92knr/residents_of_washington_town_wonder_if_qanon_has/)
+- [Police chief, officer under fire after bodycam video surfaces with racial slurs, explicit language](https://www.reddit.com/r/news/comments/l92gmn/police_chief_officer_under_fire_after_bodycam/)
+- [Anti-vaccine protesters temporarily shut down vaccine site](https://www.reddit.com/r/news/comments/l90z4o/antivaccine_protesters_temporarily_shut_down/)
 <!-- REDDIT:END -->
 
 
