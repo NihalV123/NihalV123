@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rochester Police Pepper-Sprayed 9-Year-Old Girl, Footage Shows](https://www.reddit.com/r/news/comments/l9u84s/rochester_police_peppersprayed_9yearold_girl/)
+- [Robinhood trading limits continue, customers can just buy 1 GameStop share](https://www.reddit.com/r/news/comments/l9tjwd/robinhood_trading_limits_continue_customers_can/)
+- [RPD body-cam video of 9-year-old girl getting handcuffed, pepper-sprayed](https://www.reddit.com/r/news/comments/l9t7r3/rpd_bodycam_video_of_9yearold_girl_getting/)
+- [Military stages coup in Myanmar](https://www.reddit.com/r/news/comments/l9sjpn/military_stages_coup_in_myanmar/)
+- [Captain Tom, Who Raised Millions for U.K. Health Workers, Is Hospitalized](https://www.reddit.com/r/news/comments/l9s2yy/captain_tom_who_raised_millions_for_uk_health/)
 <!-- REDDIT:END -->
 
 
