@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Outagamie sheriff: Stay away from the Fox River Mall, people inside mall advised to shelter in place](https://www.reddit.com/r/news/comments/l9nxf2/outagamie_sheriff_stay_away_from_the_fox_river/)
+- [Melvin Capital, hedge fund that bet against GameStop, lost more than 50% in January](https://www.reddit.com/r/news/comments/l9mry1/melvin_capital_hedge_fund_that_bet_against/)
+- [Videos show Rochester officers pepper-spraying 9-year-old](https://www.reddit.com/r/news/comments/l9mru7/videos_show_rochester_officers_pepperspraying/)
+- [N.Y.P.D. Officer Solicited Sexual Photos From 46 Minors, U.S. Says](https://www.reddit.com/r/news/comments/l9m1ls/nypd_officer_solicited_sexual_photos_from_46/)
+- [Goldman sees hedge fund exposures close to records, ongoing sell-off risk after GameStop swings](https://www.reddit.com/r/news/comments/l9l9zv/goldman_sees_hedge_fund_exposures_close_to/)
 <!-- REDDIT:END -->
 
 
