@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Six people are in custody after changing the Hollywood sign to read "Hollyboob."](https://www.reddit.com/r/news/comments/laoppw/six_people_are_in_custody_after_changing_the/)
+- [FEMA asks Pentagon to ready as many as 10,000 troops to support nationwide vaccine push](https://www.reddit.com/r/news/comments/lanogq/fema_asks_pentagon_to_ready_as_many_as_10000/)
+- [Ocasio-Cortez Says She Is a Sexual Assault Survivor](https://www.reddit.com/r/news/comments/lan91d/ocasiocortez_says_she_is_a_sexual_assault_survivor/)
+- [A college student made big bucks off GameStop stock. Now he's donating video games to a children's hospital](https://www.reddit.com/r/news/comments/lan8xu/a_college_student_made_big_bucks_off_gamestop/)
+- [Kroger to Close Long Beach Ralphs' and Food-4-Less locations after City Inacts “Hero Pay” Mandate](https://www.reddit.com/r/news/comments/lan51r/kroger_to_close_long_beach_ralphs_and_food4less/)
 <!-- REDDIT:END -->
 
 
