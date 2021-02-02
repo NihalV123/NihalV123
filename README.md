@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan zoo announces birth of 2 polar bear cubs for first time in decades](https://www.reddit.com/r/news/comments/lagsge/michigan_zoo_announces_birth_of_2_polar_bear_cubs/)
+- [Rochester Mayor Suspends Police Officers Who Pepper-Sprayed 9-Year-Old Girl](https://www.reddit.com/r/news/comments/lagiwv/rochester_mayor_suspends_police_officers_who/)
+- [CDC data: Majority of employees at skilled nursing facilities not receiving COVID-19 vaccine](https://www.reddit.com/r/news/comments/laft33/cdc_data_majority_of_employees_at_skilled_nursing/)
+- [Anti-vaxxers briefly shut down Dodger Stadium vaccination site over weekend, police say](https://www.reddit.com/r/news/comments/lae6ng/antivaxxers_briefly_shut_down_dodger_stadium/)
+- [Man hires two to kill rape victim, pair kills man's sister and neighbor instead](https://www.reddit.com/r/news/comments/ladrd9/man_hires_two_to_kill_rape_victim_pair_kills_mans/)
 <!-- REDDIT:END -->
 
 
