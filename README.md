@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rochester police union president defends officers seen pepper-spraying 9-year-old girl: report](https://www.reddit.com/r/news/comments/lbcz18/rochester_police_union_president_defends_officers/)
+- ['Their goal is to destroy everyone': Uighur camp detainees allege systematic rape](https://www.reddit.com/r/news/comments/lbbpre/their_goal_is_to_destroy_everyone_uighur_camp/)
+- [Dolly Parton reveals she turned down Presidential Medal of Freedom twice](https://www.reddit.com/r/news/comments/lbaqw0/dolly_parton_reveals_she_turned_down_presidential/)
+- [Team Accepted Officer Who Killed Tamir Rice, Black Players Feel Betrayed | News](https://www.reddit.com/r/news/comments/lbadts/team_accepted_officer_who_killed_tamir_rice_black/)
+- [Two teens charged as adults in connection to Denver house fire that killed Senegalese family](https://www.reddit.com/r/news/comments/lba8t7/two_teens_charged_as_adults_in_connection_to/)
 <!-- REDDIT:END -->
 
 
