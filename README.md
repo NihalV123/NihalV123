@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fake accounts gain traction as they praise China, mock US](https://www.reddit.com/r/news/comments/lcl0qx/fake_accounts_gain_traction_as_they_praise_china/)
+- [Driver stuck in snow burns to death after repeatedly revving SUV's engine](https://www.reddit.com/r/news/comments/lcj05e/driver_stuck_in_snow_burns_to_death_after/)
+- [Georgia man sentenced after trying to sell 50M nonexistent N95 masks to foreign government](https://www.reddit.com/r/news/comments/lcipk2/georgia_man_sentenced_after_trying_to_sell_50m/)
+- [Israel razes Palestinian Bedouin village for second time](https://www.reddit.com/r/news/comments/lcimsj/israel_razes_palestinian_bedouin_village_for/)
+- [Robinhood's CEO is not licensed by a powerful Wall Street regulator](https://www.reddit.com/r/news/comments/lchzpx/robinhoods_ceo_is_not_licensed_by_a_powerful_wall/)
 <!-- REDDIT:END -->
 
 
