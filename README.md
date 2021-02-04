@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hong Kong pro-democracy movement nominated for Nobel peace prize by US lawmakers](https://www.reddit.com/r/news/comments/lcdgz6/hong_kong_prodemocracy_movement_nominated_for/)
+- [Sitting on billions, Catholic dioceses amassed taxpayer aid](https://www.reddit.com/r/news/comments/lc9u8a/sitting_on_billions_catholic_dioceses_amassed/)
+- [Newsmax anchor walks off camera during MyPillow CEO Mike Lindell appearance](https://www.reddit.com/r/news/comments/lc8iej/newsmax_anchor_walks_off_camera_during_mypillow/)
+- [How Indian farmers’ protest is converting into an all-India Oppressed Peoples’ Movement](https://www.reddit.com/r/news/comments/lc87fu/how_indian_farmers_protest_is_converting_into_an/)
+- [Firings overturned for two Atlanta officers who used Tasers on Black students during Floyd protests](https://www.reddit.com/r/news/comments/lc84wi/firings_overturned_for_two_atlanta_officers_who/)
 <!-- REDDIT:END -->
 
 
