@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutors request arrest warrant for Kyle Rittenhouse after he allegedly violates bond](https://www.reddit.com/r/news/comments/lc18cz/prosecutors_request_arrest_warrant_for_kyle/)
+- [Mother died protecting daughter from hitmen allegedly hired by her brother. Police said Beaux Cormier hired two of his friends to kill his niece to stop her from testifying in a rape trial against him.](https://www.reddit.com/r/news/comments/lc0bk3/mother_died_protecting_daughter_from_hitmen/)
+- [Kenosha County DA says Kyle Rittenhouse has violated bond](https://www.reddit.com/r/news/comments/lbzr1n/kenosha_county_da_says_kyle_rittenhouse_has/)
+- [Slain FBI agents worked to protect children from abusers](https://www.reddit.com/r/news/comments/lby1t2/slain_fbi_agents_worked_to_protect_children_from/)
+- [Merck anti-baldness drug Propecia has long trail of suicide reports, records show](https://www.reddit.com/r/news/comments/lbxfj8/merck_antibaldness_drug_propecia_has_long_trail/)
 <!-- REDDIT:END -->
 
 
