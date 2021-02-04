@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scuba Divers Find Mammoth Tusks Off Florida Coast](https://www.reddit.com/r/news/comments/lc7exw/scuba_divers_find_mammoth_tusks_off_florida_coast/)
+- [Former police officer Adam Coy charged with murder in death of Andre Hill](https://www.reddit.com/r/news/comments/lc7em2/former_police_officer_adam_coy_charged_with/)
+- [Oakland passes emergency ‘hazard pay’ ordinance; grocers must pay workers an extra $5 per hour](https://www.reddit.com/r/news/comments/lc670h/oakland_passes_emergency_hazard_pay_ordinance/)
+- [Plant-based diets crucial to saving global wildlife, says report. Vicious circle of cheap but damaging food is biggest destroyer of nature, says UN-backed report.](https://www.reddit.com/r/news/comments/lc5dai/plantbased_diets_crucial_to_saving_global/)
+- [Judge Pauses Texas’ Plan to End Planned Parenthood Funding](https://www.reddit.com/r/news/comments/lc4idt/judge_pauses_texas_plan_to_end_planned_parenthood/)
 <!-- REDDIT:END -->
 
 
