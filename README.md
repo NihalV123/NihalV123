@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [House votes to remove Rep. Marjorie Taylor Greene from committee assignments](https://www.reddit.com/r/news/comments/lcu1nt/house_votes_to_remove_rep_marjorie_taylor_greene/)
+- [Dem-led House, drawing a line, kicks Greene off committees](https://www.reddit.com/r/news/comments/lcu1bl/demled_house_drawing_a_line_kicks_greene_off/)
+- [House votes to strip Rep. Marjorie Taylor Greene of committee assignments](https://www.reddit.com/r/news/comments/lcu16p/house_votes_to_strip_rep_marjorie_taylor_greene/)
+- [Maine man arrested by FBI in connection with Capitol riots](https://www.reddit.com/r/news/comments/lcswvb/maine_man_arrested_by_fbi_in_connection_with/)
+- [Johnson & Johnson requests emergency authorization from FDA for Covid vaccine](https://www.reddit.com/r/news/comments/lcsmou/johnson_johnson_requests_emergency_authorization/)
 <!-- REDDIT:END -->
 
 
