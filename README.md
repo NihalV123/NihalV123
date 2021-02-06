@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Orleans to close bars during Mardi Gras](https://www.reddit.com/r/news/comments/ldjdth/new_orleans_to_close_bars_during_mardi_gras/)
+- [NFL offers Biden all 32 football stadiums as mass Covid vaccination sites](https://www.reddit.com/r/news/comments/ldht9o/nfl_offers_biden_all_32_football_stadiums_as_mass/)
+- [Capitol riot's suspected "bullhorn lady" Rachel Powell taken into custody](https://www.reddit.com/r/news/comments/ldhjpy/capitol_riots_suspected_bullhorn_lady_rachel/)
+- [3 officers charged with brutal beatings at NJ women's prison](https://www.reddit.com/r/news/comments/ldhhmi/3_officers_charged_with_brutal_beatings_at_nj/)
+- [Woman named Karen arrested for trespassing after refusing to wear mask in Northeast Ohio grocery store](https://www.reddit.com/r/news/comments/ldgcf9/woman_named_karen_arrested_for_trespassing_after/)
 <!-- REDDIT:END -->
 
 
