@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pilots say they, too, were molested by Univ. of Michigan doc](https://www.reddit.com/r/news/comments/le0qn1/pilots_say_they_too_were_molested_by_univ_of/)
+- [Wallet lost in Antarctica turns up in California 53 years later](https://www.reddit.com/r/news/comments/ldzt56/wallet_lost_in_antarctica_turns_up_in_california/)
+- [Covid-19: Police fine baby's birthday party-goers £11k](https://www.reddit.com/r/news/comments/ldzswx/covid19_police_fine_babys_birthday_partygoers_11k/)
+- [French couple jailed after boy's fatal beating revealed accidentally in call](https://www.reddit.com/r/news/comments/ldykwb/french_couple_jailed_after_boys_fatal_beating/)
+- [WHO: Influenza A (H3N2) variant virus detected United States of America](https://www.reddit.com/r/news/comments/ldycj8/who_influenza_a_h3n2_variant_virus_detected/)
 <!-- REDDIT:END -->
 
 
