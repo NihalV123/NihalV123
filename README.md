@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two men linked to Netflix's 'Cheer' arrested on sexual misconduct charges involving children](https://www.reddit.com/r/news/comments/lefauw/two_men_linked_to_netflixs_cheer_arrested_on/)
+- [Scientists develop transparent wood that is stronger and lighter than glass](https://www.reddit.com/r/news/comments/lee8of/scientists_develop_transparent_wood_that_is/)
+- [Paris court finds France guilty of failing to meet its own Paris climate accord commitments](https://www.reddit.com/r/news/comments/lee76n/paris_court_finds_france_guilty_of_failing_to/)
+- ['A door has opened': Pope Francis appoints first woman to senior synod post | Vatican](https://www.reddit.com/r/news/comments/leds89/a_door_has_opened_pope_francis_appoints_first/)
+- [Leon Spinks, ex-heavyweight champ who upset Muhammad Ali, dies at 67](https://www.reddit.com/r/news/comments/lebhb1/leon_spinks_exheavyweight_champ_who_upset/)
 <!-- REDDIT:END -->
 
 
