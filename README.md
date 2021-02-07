@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Internet access restored as Myanmar coup protests grow](https://www.reddit.com/r/news/comments/lekqxf/internet_access_restored_as_myanmar_coup_protests/)
+- [Haiti Braces for Unrest as President Refuses to Step Down](https://www.reddit.com/r/news/comments/lek09q/haiti_braces_for_unrest_as_president_refuses_to/)
+- [Myanmar coup: Tens of thousands protest for second day](https://www.reddit.com/r/news/comments/lej3ex/myanmar_coup_tens_of_thousands_protest_for_second/)
+- [Himalayan glacier bursts in India, 100-150 feared dead](https://www.reddit.com/r/news/comments/lej0wh/himalayan_glacier_bursts_in_india_100150_feared/)
+- [Paris court finds France guilty of failing to meet its own Paris climate accord commitments](https://www.reddit.com/r/news/comments/lee76n/paris_court_finds_france_guilty_of_failing_to/)
 <!-- REDDIT:END -->
 
 
