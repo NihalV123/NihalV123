@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [McKinsey allegedly fed the opioid crisis. Now an affiliate may profit from treating addicts.](https://www.reddit.com/r/news/comments/lfa2tw/mckinsey_allegedly_fed_the_opioid_crisis_now_an/)
+- [Uighurs: 'Credible case' China carrying out genocide](https://www.reddit.com/r/news/comments/lf9f2v/uighurs_credible_case_china_carrying_out_genocide/)
+- [Catholic dioceses amassed $1.5 billion in taxpayer aid Church given funds through Paycheck Protection Program](https://www.reddit.com/r/news/comments/lf6jr6/catholic_dioceses_amassed_15_billion_in_taxpayer/)
+- [Japanese mostly opposed to Tokyo Olympics this summer](https://www.reddit.com/r/news/comments/lf5ao7/japanese_mostly_opposed_to_tokyo_olympics_this/)
+- [Tom Brady wins his 7th Super Bowl in his first year with the Buccaneers at age 43](https://www.reddit.com/r/news/comments/lf2ogh/tom_brady_wins_his_7th_super_bowl_in_his_first/)
 <!-- REDDIT:END -->
 
 
