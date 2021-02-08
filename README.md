@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man killed after cannon explodes at baby shower](https://www.reddit.com/r/news/comments/lewnox/man_killed_after_cannon_explodes_at_baby_shower/)
+- [Facebook vowed to crack down on Covid-19 vaccine misinformation but misleading posts remain easy to find](https://www.reddit.com/r/news/comments/lewf3l/facebook_vowed_to_crack_down_on_covid19_vaccine/)
+- [U.S. administers 41.2 million doses of COVID-19 vaccines - CDC](https://www.reddit.com/r/news/comments/lewf1x/us_administers_412_million_doses_of_covid19/)
+- [Philly cop charged with DUI after crashing into a house, injuring two occupants and killing a dog](https://www.reddit.com/r/news/comments/leusad/philly_cop_charged_with_dui_after_crashing_into_a/)
+- [Disney Revamps Jungle Cruise Ride To Remove Racist Depictions Of Indigenous People](https://www.reddit.com/r/news/comments/lestzk/disney_revamps_jungle_cruise_ride_to_remove/)
 <!-- REDDIT:END -->
 
 
