@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Despite dip in Covid-19 cases, expert says US is in the 'eye of the hurricane' as variants spread](https://www.reddit.com/r/news/comments/lfg7in/despite_dip_in_covid19_cases_expert_says_us_is_in/)
+- [Rep. Ron Wright of Texas dies of Covid](https://www.reddit.com/r/news/comments/lffa4t/rep_ron_wright_of_texas_dies_of_covid/)
+- [Martial law was declared in parts of Myanmar's second-largest city Mandalay on Monday (Feb 8), after hundreds of thousands rallied across the country against the coup and the military issued a stern warning against further protests.](https://www.reddit.com/r/news/comments/lfexq0/martial_law_was_declared_in_parts_of_myanmars/)
+- [Drone successfully delivers at-home COVID-19 test in Northern Nevada](https://www.reddit.com/r/news/comments/lfdgic/drone_successfully_delivers_athome_covid19_test/)
+- [Afghan pilot reputed for saving US lives reapplies for asylum after being approved and later rejected](https://www.reddit.com/r/news/comments/lfcz4v/afghan_pilot_reputed_for_saving_us_lives/)
 <!-- REDDIT:END -->
 
 
