@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indigenous leader becomes surprise contender in Ecuador's presidential election.](https://www.reddit.com/r/news/comments/lfyr0r/indigenous_leader_becomes_surprise_contender_in/)
+- [Mary Wilson, founding member of The Supremes, dies at 76](https://www.reddit.com/r/news/comments/lfxcpo/mary_wilson_founding_member_of_the_supremes_dies/)
+- [Myanmar's military overturned a democratic election. Now they're warning protesters not to 'destroy democracy'](https://www.reddit.com/r/news/comments/lfw6y1/myanmars_military_overturned_a_democratic/)
+- [Iran cleric: People who are vaccinated for COVID have ‘become homosexuals’](https://www.reddit.com/r/news/comments/lfvazq/iran_cleric_people_who_are_vaccinated_for_covid/)
+- [4 La. State Police troopers charged in excessive force cases](https://www.reddit.com/r/news/comments/lfu4d2/4_la_state_police_troopers_charged_in_excessive/)
 <!-- REDDIT:END -->
 
 
