@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran cleric: People who are vaccinated for COVID have ‘become homosexuals’](https://www.reddit.com/r/news/comments/lfvazq/iran_cleric_people_who_are_vaccinated_for_covid/)
+- [4 La. State Police troopers charged in excessive force cases](https://www.reddit.com/r/news/comments/lfu4d2/4_la_state_police_troopers_charged_in_excessive/)
+- [Tesla skips 401(k) match for third straight year](https://www.reddit.com/r/news/comments/lftob1/tesla_skips_401k_match_for_third_straight_year/)
+- [Cleveland serial killer Anthony Sowell dies in prison](https://www.reddit.com/r/news/comments/lftg7e/cleveland_serial_killer_anthony_sowell_dies_in/)
+- [Rise in attacks on elderly Asian Americans in Bay Area prompts new special response unit](https://www.reddit.com/r/news/comments/lfrf6m/rise_in_attacks_on_elderly_asian_americans_in_bay/)
 <!-- REDDIT:END -->
 
 
