@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Dakota judge rejects amendment legalizing marijuana](https://www.reddit.com/r/news/comments/lfp1bj/south_dakota_judge_rejects_amendment_legalizing/)
+- [Germany, Poland and Sweden expel Russian diplomats](https://www.reddit.com/r/news/comments/lfoanc/germany_poland_and_sweden_expel_russian_diplomats/)
+- [Rudy Giuliani associate jailed for a year over fraud at fraud-busting business](https://www.reddit.com/r/news/comments/lfmt08/rudy_giuliani_associate_jailed_for_a_year_over/)
+- [Ghislaine Maxwell loses bid to keep deposition excerpt secret](https://www.reddit.com/r/news/comments/lflb8j/ghislaine_maxwell_loses_bid_to_keep_deposition/)
+- [Grandfather of toddler who fell out of cruise ship window sentenced to 3 years' probation](https://www.reddit.com/r/news/comments/lfksmq/grandfather_of_toddler_who_fell_out_of_cruise/)
 <!-- REDDIT:END -->
 
 
