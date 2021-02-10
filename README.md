@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Explosives are missing from the nation's largest Marine Corps base and an investigation is underway](https://www.reddit.com/r/news/comments/lgm1fj/explosives_are_missing_from_the_nations_largest/)
+- [Kodak Black offers to cover college tuition for children of slain FBI agents](https://www.reddit.com/r/news/comments/lgkpss/kodak_black_offers_to_cover_college_tuition_for/)
+- [Cops fired over photos tied to Elijah McClain not reinstated](https://www.reddit.com/r/news/comments/lgirdw/cops_fired_over_photos_tied_to_elijah_mcclain_not/)
+- [Europe's oldest person survives Covid just before 117th birthday](https://www.reddit.com/r/news/comments/lgh10e/europes_oldest_person_survives_covid_just_before/)
+- [Boeing lied about 737 MAX after deadly crashes, shareholders say](https://www.reddit.com/r/news/comments/lggw5t/boeing_lied_about_737_max_after_deadly_crashes/)
 <!-- REDDIT:END -->
 
 
