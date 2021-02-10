@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Navy condemns discovery of hate symbols on warships, including noose left on black sailor’s bed](https://www.reddit.com/r/news/comments/lgrq7y/us_navy_condemns_discovery_of_hate_symbols_on/)
+- [Family of girl, 12, forced to marry abductor condemn Pakistan authorities](https://www.reddit.com/r/news/comments/lgqlez/family_of_girl_12_forced_to_marry_abductor/)
+- [Mavericks become first NBA team to cease playing national anthem before games](https://www.reddit.com/r/news/comments/lgn8dh/mavericks_become_first_nba_team_to_cease_playing/)
+- [Explosives are missing from the nation's largest Marine Corps base and an investigation is underway](https://www.reddit.com/r/news/comments/lgm1fj/explosives_are_missing_from_the_nations_largest/)
+- [Kodak Black offers to cover college tuition for children of slain FBI agents](https://www.reddit.com/r/news/comments/lgkpss/kodak_black_offers_to_cover_college_tuition_for/)
 <!-- REDDIT:END -->
 
 
