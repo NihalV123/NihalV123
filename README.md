@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [K.K.K. Member Who Drove Into Protesters Gets More Than 3 Years in Prison](https://www.reddit.com/r/news/comments/lgx7v3/kkk_member_who_drove_into_protesters_gets_more/)
+- [Canadian traces origin of AIDS to starving First World War soldier who hunted chimpanzees](https://www.reddit.com/r/news/comments/lgw9s2/canadian_traces_origin_of_aids_to_starving_first/)
+- [Georgia Prosecutors Open Criminal Investigation of Trump Call](https://www.reddit.com/r/news/comments/lgvitn/georgia_prosecutors_open_criminal_investigation/)
+- [Facebook sued for 'losing control' of users’ data](https://www.reddit.com/r/news/comments/lgumsb/facebook_sued_for_losing_control_of_users_data/)
+- [Armed out-of-state bounty hunters, assisted by BPD storm the wrong home](https://www.reddit.com/r/news/comments/lgt245/armed_outofstate_bounty_hunters_assisted_by_bpd/)
 <!-- REDDIT:END -->
 
 
