@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Robert Irwin: Steve Irwin's son wins award for bushfire image](https://www.reddit.com/r/news/comments/lhd237/robert_irwin_steve_irwins_son_wins_award_for/)
+- [Lucasfilm Calls Gina Carano Social Media Posts “Abhorrent”; Actress No Longer Employed By ‘Mandalorian’ Studio](https://www.reddit.com/r/news/comments/lhcx40/lucasfilm_calls_gina_carano_social_media_posts/)
+- [Idaho Officer Killed Man at His Home After Mistaking His Identity, Police Say](https://www.reddit.com/r/news/comments/lhaznr/idaho_officer_killed_man_at_his_home_after/)
+- [World's top 15 hedge fund managers made $23.2bn in total last year](https://www.reddit.com/r/news/comments/lhaesi/worlds_top_15_hedge_fund_managers_made_232bn_in/)
+- [Ancient hunter-gatherer seashell resonates after 17,000 years](https://www.reddit.com/r/news/comments/lh92cy/ancient_huntergatherer_seashell_resonates_after/)
 <!-- REDDIT:END -->
 
 
