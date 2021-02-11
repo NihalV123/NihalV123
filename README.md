@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Legal loopholes allow abuse to go undetected at religious boarding schools, advocates say](https://www.reddit.com/r/news/comments/lhi4iz/legal_loopholes_allow_abuse_to_go_undetected_at/)
+- [U.S. border agents do not need warrants to search digital devices, court rules](https://www.reddit.com/r/news/comments/lhgz8e/us_border_agents_do_not_need_warrants_to_search/)
+- [Michigan Senate majority leader is caught on hot mic claiming that Capitol riot was a hoax.](https://www.reddit.com/r/news/comments/lhd8la/michigan_senate_majority_leader_is_caught_on_hot/)
+- [Robert F. Kennedy Jr. has been banned from Instagram](https://www.reddit.com/r/news/comments/lhd560/robert_f_kennedy_jr_has_been_banned_from_instagram/)
+- [Robert Irwin: Steve Irwin's son wins award for bushfire image](https://www.reddit.com/r/news/comments/lhd237/robert_irwin_steve_irwins_son_wins_award_for/)
 <!-- REDDIT:END -->
 
 
