@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [India provides 2000 tonnes of rice to war-torn Syria as humanitarian aid](https://www.reddit.com/r/news/comments/lifhoc/india_provides_2000_tonnes_of_rice_to_wartorn/)
+- [FBI probe of Texas AG expands to look at home renovations](https://www.reddit.com/r/news/comments/lie50r/fbi_probe_of_texas_ag_expands_to_look_at_home/)
+- [Two teens, 15 and 17, charged with homicide in beating, assault of woman in Washington Park](https://www.reddit.com/r/news/comments/lidxy7/two_teens_15_and_17_charged_with_homicide_in/)
+- [Group on Foot Patrols San Francisco's Chinatown Amid Spike in Attacks](https://www.reddit.com/r/news/comments/lidikc/group_on_foot_patrols_san_franciscos_chinatown/)
+- [FBI arrests 2 'Boogaloo Bois'-associated militia members, 1 who incited riot on Jan. 6](https://www.reddit.com/r/news/comments/licwr6/fbi_arrests_2_boogaloo_boisassociated_militia/)
 <!-- REDDIT:END -->
 
 
