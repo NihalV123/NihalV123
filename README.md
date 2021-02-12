@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family of Black man killed by L.A. sheriff's deputies files $35 million claim against county](https://www.reddit.com/r/news/comments/li820p/family_of_black_man_killed_by_la_sheriffs/)
+- [100-year-old former Nazi concentration camp guard charged with Holocaust atrocities](https://www.reddit.com/r/news/comments/li68y0/100yearold_former_nazi_concentration_camp_guard/)
+- ['He would be alive today': Parents detail son's desperate attempts to contact Robinhood before he killed himself](https://www.reddit.com/r/news/comments/li61uq/he_would_be_alive_today_parents_detail_sons/)
+- ['We have no oxygen': Chilling 911 call from trapped migrants prompts urgent search](https://www.reddit.com/r/news/comments/li1mp8/we_have_no_oxygen_chilling_911_call_from_trapped/)
+- [Over her objection, Ghislaine Maxwell's testimony about massages is unsealed](https://www.reddit.com/r/news/comments/li12ir/over_her_objection_ghislaine_maxwells_testimony/)
 <!-- REDDIT:END -->
 
 
