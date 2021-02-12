@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over her objection, Ghislaine Maxwell's testimony about massages is unsealed](https://www.reddit.com/r/news/comments/li12ir/over_her_objection_ghislaine_maxwells_testimony/)
+- [Hospitals see uptick in liver disease related to pandemic alcohol abuse](https://www.reddit.com/r/news/comments/li0mli/hospitals_see_uptick_in_liver_disease_related_to/)
+- [White House secures deals for 200 million more Covid vaccine doses](https://www.reddit.com/r/news/comments/lhzcy5/white_house_secures_deals_for_200_million_more/)
+- [North Carolina man charged with threatening to kill President Biden](https://www.reddit.com/r/news/comments/lhzce1/north_carolina_man_charged_with_threatening_to/)
+- [Grand jury dismisses felony assault charges against 2 Buffalo police officers who pushed 75-year-old protester to the ground](https://www.reddit.com/r/news/comments/lhz4j7/grand_jury_dismisses_felony_assault_charges/)
 <!-- REDDIT:END -->
 
 
