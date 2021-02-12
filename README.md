@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [In a new court hearing, Britney Spears' father loses bid to retain complete control of his daughter's financial investments](https://www.reddit.com/r/news/comments/lhyp8a/in_a_new_court_hearing_britney_spears_father/)
+- [Twitter permanently bans Project Veritas account](https://www.reddit.com/r/news/comments/lhxhql/twitter_permanently_bans_project_veritas_account/)
+- [Chick Corea, Jazz Fusion Pioneer, Has Died Of Cancer At 79 : NPR](https://www.reddit.com/r/news/comments/lhw7e8/chick_corea_jazz_fusion_pioneer_has_died_of/)
+- [Prosecutor Says Executors of Jeffrey Epstein’s Estate Enabled His Abuse](https://www.reddit.com/r/news/comments/lhusp7/prosecutor_says_executors_of_jeffrey_epsteins/)
+- [Angry customers show up at Robinhood’s headquarters in the wake of GameStop trading chaos](https://www.reddit.com/r/news/comments/lhucrf/angry_customers_show_up_at_robinhoods/)
 <!-- REDDIT:END -->
 
 
