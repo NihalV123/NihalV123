@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Senator Graham's call with Georgia official part of election probe: Washington Post](https://www.reddit.com/r/news/comments/litsmz/senator_grahams_call_with_georgia_official_part/)
+- [A Rise in Violence Against Asian Americans Prompts NYC Restaurateurs to Take Action](https://www.reddit.com/r/news/comments/litcns/a_rise_in_violence_against_asian_americans/)
+- [B.C. man ordered to pay $7 million for brutal beating of teenager](https://www.reddit.com/r/news/comments/lish0g/bc_man_ordered_to_pay_7_million_for_brutal/)
+- [White House suspends deputy press secretary for one week for threatening reporter over story about him](https://www.reddit.com/r/news/comments/lis6h2/white_house_suspends_deputy_press_secretary_for/)
+- [Mars, Nestlé and Hershey to face landmark child slavery lawsuit in US](https://www.reddit.com/r/news/comments/limws9/mars_nestlé_and_hershey_to_face_landmark_child/)
 <!-- REDDIT:END -->
 
 
