@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House says it has 'deep concerns' about WHO COVID-19 report from China](https://www.reddit.com/r/news/comments/lj36lq/white_house_says_it_has_deep_concerns_about_who/)
+- [Lincoln Project co-founder Steve Schmidt resigns from board amid group's recent scandals](https://www.reddit.com/r/news/comments/lj1ugj/lincoln_project_cofounder_steve_schmidt_resigns/)
+- [7.1 Earthquake rocks Fukushima](https://www.reddit.com/r/news/comments/lj1iv5/71_earthquake_rocks_fukushima/)
+- [Oxford University extends COVID-19 vaccine study to children, some as young as 6](https://www.reddit.com/r/news/comments/lj0ugd/oxford_university_extends_covid19_vaccine_study/)
+- [Rapid Covid breath tests developed in Finland](https://www.reddit.com/r/news/comments/lj0q7l/rapid_covid_breath_tests_developed_in_finland/)
 <!-- REDDIT:END -->
 
 
