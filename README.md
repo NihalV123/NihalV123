@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan gives final OK to Pfizer’s coronavirus vaccine, with rollout to begin this week](https://www.reddit.com/r/news/comments/ljl046/japan_gives_final_ok_to_pfizers_coronavirus/)
+- [Black CA couple lowballed by $500K in home appraisal, believe race was a factor](https://www.reddit.com/r/news/comments/ljknl2/black_ca_couple_lowballed_by_500k_in_home/)
+- [EXCLUSIVE: Video shows 4 suspects attacking woman in brazen Oakland theft](https://www.reddit.com/r/news/comments/ljk745/exclusive_video_shows_4_suspects_attacking_woman/)
+- [Tens of thousands protest Myanmar coup after night of fear, security patrols](https://www.reddit.com/r/news/comments/ljixks/tens_of_thousands_protest_myanmar_coup_after/)
+- [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reddit.com/r/news/comments/ljh813/roaring_kitty_to_testify_on_gamestop_alongside/)
 <!-- REDDIT:END -->
 
 
