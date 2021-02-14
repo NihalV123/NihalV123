@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over 50 million doses of COVID-19 vaccines administered: U.S. CDC](https://www.reddit.com/r/news/comments/ljbbh0/over_50_million_doses_of_covid19_vaccines/)
+- [Dallas police officer directing traffic killed by suspected drunk driver](https://www.reddit.com/r/news/comments/ljaq93/dallas_police_officer_directing_traffic_killed_by/)
+- [The Boeing 737 Max is flying again. Not every airline wants to admit it | ZDNet](https://www.reddit.com/r/news/comments/ljaj77/the_boeing_737_max_is_flying_again_not_every/)
+- [Rupert Neve, Legendary Audio Equipment Inventor, Dies at 94](https://www.reddit.com/r/news/comments/lj9kyu/rupert_neve_legendary_audio_equipment_inventor/)
+- [Trump acquitted for second time following historic Senate trial](https://www.reddit.com/r/news/comments/lj92r6/trump_acquitted_for_second_time_following/)
 <!-- REDDIT:END -->
 
 
