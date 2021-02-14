@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Roaring Kitty to testify on GameStop alongside hedge fund managers](https://www.reddit.com/r/news/comments/ljh813/roaring_kitty_to_testify_on_gamestop_alongside/)
+- [Police search for man who pooped in unlocked cars at auto shops](https://www.reddit.com/r/news/comments/ljga69/police_search_for_man_who_pooped_in_unlocked_cars/)
+- [Blobs of brain tissue with Neanderthal DNA grown by scientists](https://www.reddit.com/r/news/comments/ljg3v9/blobs_of_brain_tissue_with_neanderthal_dna_grown/)
+- [NYPD deploys 500 officers to patrol subways after four stabbings in less than 24 hours](https://www.reddit.com/r/news/comments/lje8qa/nypd_deploys_500_officers_to_patrol_subways_after/)
+- [White House aide resigns after threatening reporter](https://www.reddit.com/r/news/comments/ljdxlc/white_house_aide_resigns_after_threatening/)
 <!-- REDDIT:END -->
 
 
