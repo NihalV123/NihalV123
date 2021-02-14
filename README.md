@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [Criando e gerenciando usuários no Kubernetes](https://blog.lsantos.dev/criando-e-gerenciando-usuarios-no-kubernetes/)
+- [Métricas customizadas com AKS](https://blog.lsantos.dev/metricas-customizadas-com-aks/)
+- [#ImersãoFullstack - Escalando infinitamente com Kubernetes](https://blog.lsantos.dev/aprenda-kubernetes-no-aks/)
+- [Controlando containers de dentro sua aplicação com ContainerD](https://blog.lsantos.dev/integrando-containers-na-sua-aplicacao-com-containerd/)
+- [Kubernetes sem Docker? – Entendendo OCI, CRI e o ecossistema de containers](https://blog.lsantos.dev/oci-cri-docker-ecossistema-de-containers/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
