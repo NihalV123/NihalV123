@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wall Street regulators signal tougher approach to industry after GameStop frenzy](https://www.reddit.com/r/news/comments/lk4qd8/wall_street_regulators_signal_tougher_approach_to/)
+- [7 Virus Variants Found in U.S. Carrying the Same Mutation - The New York Times](https://www.reddit.com/r/news/comments/lk4mle/7_virus_variants_found_in_us_carrying_the_same/)
+- [New York City : Man charged with deadly subway stabbings](https://www.reddit.com/r/news/comments/lk3a8q/new_york_city_man_charged_with_deadly_subway/)
+- [Crown Resorts chief Ken Barton resigns amid money laundering scandal](https://www.reddit.com/r/news/comments/lk2wtr/crown_resorts_chief_ken_barton_resigns_amid_money/)
+- [LAPD investigating alleged Valentine's Day photo mocking George Floyd shared by cops](https://www.reddit.com/r/news/comments/lk1n4y/lapd_investigating_alleged_valentines_day_photo/)
 <!-- REDDIT:END -->
 
 
