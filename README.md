@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Dakota judge rejects amendment legalizing marijuana](https://www.reddit.com/r/news/comments/lkimzl/south_dakota_judge_rejects_amendment_legalizing/)
+- [Muslim woman attacked in Meerut for running 'successful shop', booked by police too - Maktoob](https://www.reddit.com/r/news/comments/lkgf0f/muslim_woman_attacked_in_meerut_for_running/)
+- [Covid: Husband not guilty of murdering wife in lockdown](https://www.reddit.com/r/news/comments/lkfovx/covid_husband_not_guilty_of_murdering_wife_in/)
+- [Lafayette, Louisiana among cities ignoring pleas to make masks mandatory](https://www.reddit.com/r/news/comments/lkf9qf/lafayette_louisiana_among_cities_ignoring_pleas/)
+- [Hundreds of people are volunteering to escort elderly Asian Americans to help keep them safe](https://www.reddit.com/r/news/comments/lkdxoa/hundreds_of_people_are_volunteering_to_escort/)
 <!-- REDDIT:END -->
 
 
