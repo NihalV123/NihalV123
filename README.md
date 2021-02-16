@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Obamacare enrollment reopens for Americans in need of coverage amid pandemic](https://www.reddit.com/r/news/comments/lkoijn/obamacare_enrollment_reopens_for_americans_in/)
+- [Ex-NFL WR Vincent Jackson found dead at 38](https://www.reddit.com/r/news/comments/lkobwx/exnfl_wr_vincent_jackson_found_dead_at_38/)
+- [30 Taliban militants killed in explosion during bomb-making class](https://www.reddit.com/r/news/comments/lknwtp/30_taliban_militants_killed_in_explosion_during/)
+- [Nearly all US kids live in red zones under new CDC school guidance](https://www.reddit.com/r/news/comments/lknvf8/nearly_all_us_kids_live_in_red_zones_under_new/)
+- [US fast food workers hold Black History Month strikes to demand $15 an hour | Minimum wage](https://www.reddit.com/r/news/comments/lknfw1/us_fast_food_workers_hold_black_history_month/)
 <!-- REDDIT:END -->
 
 
