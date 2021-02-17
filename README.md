@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rush Limbaugh dead at 70](https://www.reddit.com/r/news/comments/llzdbq/rush_limbaugh_dead_at_70/)
+- [Woman charged in Capitol melee says Proud Boys recruited her](https://www.reddit.com/r/news/comments/lly4zw/woman_charged_in_capitol_melee_says_proud_boys/)
+- [Elizabeth Holmes resists government efforts to detail her CEO lifestyle](https://www.reddit.com/r/news/comments/lly1ev/elizabeth_holmes_resists_government_efforts_to/)
+- [Family of Thai immigrant, 84, says fatal attack 'was driven by hate'](https://www.reddit.com/r/news/comments/llxkdv/family_of_thai_immigrant_84_says_fatal_attack_was/)
+- [White swan turned black by 'printer toner' dumped in pond](https://www.reddit.com/r/news/comments/llwo3l/white_swan_turned_black_by_printer_toner_dumped/)
 <!-- REDDIT:END -->
 
 
