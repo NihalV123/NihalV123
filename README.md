@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal Regulators Plan to Investigate Massive Texas Power Outage](https://www.reddit.com/r/news/comments/lmiwq6/federal_regulators_plan_to_investigate_massive/)
+- [US life expectancy drops a year in pandemic, most since WWII](https://www.reddit.com/r/news/comments/lmilx0/us_life_expectancy_drops_a_year_in_pandemic_most/)
+- [Houston furniture store offers shelter after winter storm](https://www.reddit.com/r/news/comments/lmcuk9/houston_furniture_store_offers_shelter_after/)
+- [ERCOT Didn't Conduct On-Site Inspections of Power Plants to Verify Winter Preparedness](https://www.reddit.com/r/news/comments/lmc96n/ercot_didnt_conduct_onsite_inspections_of_power/)
+- [U.S. attorney, FBI investigating Cuomo's handling of nursing home deaths](https://www.reddit.com/r/news/comments/lmbhy8/us_attorney_fbi_investigating_cuomos_handling_of/)
 <!-- REDDIT:END -->
 
 
