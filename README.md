@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ERCOT Didn't Conduct On-Site Inspections of Power Plants to Verify Winter Preparedness](https://www.reddit.com/r/news/comments/lmc96n/ercot_didnt_conduct_onsite_inspections_of_power/)
+- [U.S. attorney, FBI investigating Cuomo's handling of nursing home deaths](https://www.reddit.com/r/news/comments/lmbhy8/us_attorney_fbi_investigating_cuomos_handling_of/)
+- [Orlando police officer responds to complaint about street vendor, buys all her flowers so she can go home](https://www.reddit.com/r/news/comments/lmbafm/orlando_police_officer_responds_to_complaint/)
+- [After 68 years in prison, America's oldest juvenile lifer was released](https://www.reddit.com/r/news/comments/lma6bc/after_68_years_in_prison_americas_oldest_juvenile/)
+- [Reddit CEO says activity on WallStreetBets was not driven by bots or foreign agents](https://www.reddit.com/r/news/comments/lm9wob/reddit_ceo_says_activity_on_wallstreetbets_was/)
 <!-- REDDIT:END -->
 
 
