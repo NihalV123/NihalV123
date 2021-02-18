@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Megathread : NASA’s Perseverance Rover Landing on Mars](https://www.reddit.com/r/news/comments/lmq1xa/megathread_nasas_perseverance_rover_landing_on/)
+- [Texas family rationing baby’s oxygen tanks amid power outage](https://www.reddit.com/r/news/comments/lmnvr5/texas_family_rationing_babys_oxygen_tanks_amid/)
+- [Animal cruelty investigators responding to reports of pets left outside in cold](https://www.reddit.com/r/news/comments/lmnkus/animal_cruelty_investigators_responding_to/)
+- [US jobless claims rise to 861,000 as layoffs remain high with economy still under pressure from virus](https://www.reddit.com/r/news/comments/lmn0g8/us_jobless_claims_rise_to_861000_as_layoffs/)
+- [6 adults, 2 children rescued in Missouri during joint human trafficking operation](https://www.reddit.com/r/news/comments/lmmuef/6_adults_2_children_rescued_in_missouri_during/)
 <!-- REDDIT:END -->
 
 
