@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exclusive: White House working with Facebook and Twitter to tackle anti-vaxxers](https://www.reddit.com/r/news/comments/lnjsss/exclusive_white_house_working_with_facebook_and/)
+- [USC accused of animal cruelty in labs, including amputating mice ears for no reason](https://www.reddit.com/r/news/comments/lnjdsy/usc_accused_of_animal_cruelty_in_labs_including/)
+- [Boy died trying to save his sister from frozen Tennessee pond, family pastor says](https://www.reddit.com/r/news/comments/lniyr3/boy_died_trying_to_save_his_sister_from_frozen/)
+- [Travellers from Mexico fined after lying about COVID-19 diagnosis to board plane to Canada](https://www.reddit.com/r/news/comments/lniw88/travellers_from_mexico_fined_after_lying_about/)
+- [Cocaine 'worth £184m' found in banana boxes sent from Colombia](https://www.reddit.com/r/news/comments/lni948/cocaine_worth_184m_found_in_banana_boxes_sent/)
 <!-- REDDIT:END -->
 
 
