@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mysteries of massive holes forming in Siberian permafrost unlocked by scientists](https://www.reddit.com/r/news/comments/ln53sg/mysteries_of_massive_holes_forming_in_siberian/)
+- [Texas prices for lodging, necessities skyrocket amid storm](https://www.reddit.com/r/news/comments/ln24o6/texas_prices_for_lodging_necessities_skyrocket/)
+- [Florida county commissioner limited vaccine drive to the two richest zip codes and then created a 'VIP list'](https://www.reddit.com/r/news/comments/ln249q/florida_county_commissioner_limited_vaccine_drive/)
+- [Bob Dole says he's been diagnosed with Stage 4 lung cancer](https://www.reddit.com/r/news/comments/ln0lq0/bob_dole_says_hes_been_diagnosed_with_stage_4/)
+- [Carbon monoxide poisonings spike in winter storm-battered Texas](https://www.reddit.com/r/news/comments/ln0fyi/carbon_monoxide_poisonings_spike_in_winter/)
 <!-- REDDIT:END -->
 
 
