@@ -340,7 +340,7 @@ Top 4 most used languages across your repositories:
 ### INDIAN
 
 <!-- INDIAN:START -->
-- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/)
 <!-- INDIAN:END -->
 
 ### REDDIT
