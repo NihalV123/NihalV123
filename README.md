@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Independent probe accuses police and paramedics of wrongdoing in death of Elijah McClain](https://www.reddit.com/r/news/comments/lpshx4/independent_probe_accuses_police_and_paramedics/)
+- [Edvard Munch wrote a hidden message on 'The Scream,' new scans show](https://www.reddit.com/r/news/comments/lps06b/edvard_munch_wrote_a_hidden_message_on_the_scream/)
+- [U.S. Supreme Court snubs Republican appeal in Pennsylvania voting fight](https://www.reddit.com/r/news/comments/lpr4li/us_supreme_court_snubs_republican_appeal_in/)
+- [U.S. Supreme Court rebuffs porn star's bid to revive suit against Trump](https://www.reddit.com/r/news/comments/lpqonl/us_supreme_court_rebuffs_porn_stars_bid_to_revive/)
+- [Florida doctor charged with hate crime against Hispanic man](https://www.reddit.com/r/news/comments/lpq40b/florida_doctor_charged_with_hate_crime_against/)
 <!-- REDDIT:END -->
 
 
