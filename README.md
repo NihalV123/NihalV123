@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cost of flood damage to U.S. homes will increase by 61% in 30 years](https://www.reddit.com/r/news/comments/lpig2s/cost_of_flood_damage_to_us_homes_will_increase_by/)
+- [Myanmar begins general strike in face of military threats](https://www.reddit.com/r/news/comments/lpggb8/myanmar_begins_general_strike_in_face_of_military/)
+- [Tesla has made about $1 billion in profit on its bitcoin investment, analyst estimates](https://www.reddit.com/r/news/comments/lpgc22/tesla_has_made_about_1_billion_in_profit_on_its/)
+- [U.S. reaches 500,000 deaths from the coronavirus](https://www.reddit.com/r/news/comments/lpf450/us_reaches_500000_deaths_from_the_coronavirus/)
+- [Ingenuity helicopter phones home from Mars](https://www.reddit.com/r/news/comments/lperqy/ingenuity_helicopter_phones_home_from_mars/)
 <!-- REDDIT:END -->
 
 
