@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DOJ announces arrest of 'El Chapo's' wife on international drug trafficking charges](https://www.reddit.com/r/news/comments/lq20w3/doj_announces_arrest_of_el_chapos_wife_on/)
+- [She Beat Cancer at 10. Now She’s Set to Be the Youngest American in Space.](https://www.reddit.com/r/news/comments/lq0smr/she_beat_cancer_at_10_now_shes_set_to_be_the/)
+- [Police: Girl who disappeared after school found in motel room with man she met online](https://www.reddit.com/r/news/comments/lq0caw/police_girl_who_disappeared_after_school_found_in/)
+- [U.S. House budget panel approves $1.9 trillion COVID-19 aid bill](https://www.reddit.com/r/news/comments/lpzmsf/us_house_budget_panel_approves_19_trillion/)
+- [Body Camera Video Shows Fatal Shooting of Unarmed California Man by Police](https://www.reddit.com/r/news/comments/lpzcww/body_camera_video_shows_fatal_shooting_of_unarmed/)
 <!-- REDDIT:END -->
 
 
