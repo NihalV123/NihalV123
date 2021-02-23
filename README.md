@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Senate begins review of security failings ahead of deadly Capitol riot](https://www.reddit.com/r/news/comments/lqg8c9/us_senate_begins_review_of_security_failings/)
+- [Revealed: 6,500 migrant workers have died in Qatar as it gears up for World Cup](https://www.reddit.com/r/news/comments/lqdf9r/revealed_6500_migrant_workers_have_died_in_qatar/)
+- [Bay Area gang member arrested after threatening to kill Asians online](https://www.reddit.com/r/news/comments/lqb5vi/bay_area_gang_member_arrested_after_threatening/)
+- [B.C. farmer grabs lynx by scruff of neck, scolds it for killing chickens](https://www.reddit.com/r/news/comments/lq71zj/bc_farmer_grabs_lynx_by_scruff_of_neck_scolds_it/)
+- [75-year-old protester pushed by Buffalo police files lawsuit against city, mayor and officers](https://www.reddit.com/r/news/comments/lq5bcn/75yearold_protester_pushed_by_buffalo_police/)
 <!-- REDDIT:END -->
 
 
