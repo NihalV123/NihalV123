@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man dies after police kneel on his neck for nearly 5 minutes, family says in wrongful death claim](https://www.reddit.com/r/news/comments/lr3xap/man_dies_after_police_kneel_on_his_neck_for/)
+- [Ex-bank president in Texas gets 8 years for fake loans, arson to try to cover up fraud](https://www.reddit.com/r/news/comments/lr2ldp/exbank_president_in_texas_gets_8_years_for_fake/)
+- [Ghislaine Maxwell makes third attempt at bail on sex charges](https://www.reddit.com/r/news/comments/lqx0jd/ghislaine_maxwell_makes_third_attempt_at_bail_on/)
+- [Member of Kansas City Proud Boys chapter to remain in jail](https://www.reddit.com/r/news/comments/lqvuz3/member_of_kansas_city_proud_boys_chapter_to/)
+- [Oklahoma murder suspect confesses to killing neighbor, cooking her heart, investigators say](https://www.reddit.com/r/news/comments/lqvh74/oklahoma_murder_suspect_confesses_to_killing/)
 <!-- REDDIT:END -->
 
 
