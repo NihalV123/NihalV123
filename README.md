@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Member of Kansas City Proud Boys chapter to remain in jail](https://www.reddit.com/r/news/comments/lqvuz3/member_of_kansas_city_proud_boys_chapter_to/)
+- [Albany landlord tied up, 'evicted' sleeping tenants, dumping them in cemetery, police say](https://www.reddit.com/r/news/comments/lqu6py/albany_landlord_tied_up_evicted_sleeping_tenants/)
+- [9-year-old girl says she was starved, handcuffed, whipped by mother, mother's boyfriend](https://www.reddit.com/r/news/comments/lqtnxq/9yearold_girl_says_she_was_starved_handcuffed/)
+- [Ex-officer arrested in alleged threat to 'put a bullet' in 11-year-old's head over prank](https://www.reddit.com/r/news/comments/lqtn76/exofficer_arrested_in_alleged_threat_to_put_a/)
+- [New video shows California officers fatally shooting Black man accused of jaywalking](https://www.reddit.com/r/news/comments/lqtmb0/new_video_shows_california_officers_fatally/)
 <!-- REDDIT:END -->
 
 
