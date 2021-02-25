@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US navy veteran having mental health crisis died after officer knelt on his neck | California](https://www.reddit.com/r/news/comments/lrxtaj/us_navy_veteran_having_mental_health_crisis_died/)
+- [The Florida official who set up a vaccine site for affluent ZIP codes and created a VIP list is under investigation, sheriff's office says](https://www.reddit.com/r/news/comments/lrscfj/the_florida_official_who_set_up_a_vaccine_site/)
+- [More Americans identify as LGBT than ever before, including 15% of Gen Z adults: Poll](https://www.reddit.com/r/news/comments/lrr3e8/more_americans_identify_as_lgbt_than_ever_before/)
+- [South Dakota AG under pressure to resign as new evidence reveals investigators found victim's broken glasses inside his car](https://www.reddit.com/r/news/comments/lrqqug/south_dakota_ag_under_pressure_to_resign_as_new/)
+- [Close ally of Marjorie Taylor Greene among those in Capitol mob](https://www.reddit.com/r/news/comments/lrqq26/close_ally_of_marjorie_taylor_greene_among_those/)
 <!-- REDDIT:END -->
 
 
