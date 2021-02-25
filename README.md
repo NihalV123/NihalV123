@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Costco lifts minimum wage above Amazon or Target to $16 per hour](https://www.reddit.com/r/news/comments/lsbgop/costco_lifts_minimum_wage_above_amazon_or_target/)
+- [Donald Trump Jr. deposed by DC attorney general as part of inaugural funds lawsuit](https://www.reddit.com/r/news/comments/lsa5ri/donald_trump_jr_deposed_by_dc_attorney_general_as/)
+- [A Texas woman sues an electric company after her bill was nearly $10,000](https://www.reddit.com/r/news/comments/ls99dr/a_texas_woman_sues_an_electric_company_after_her/)
+- [Lady Gaga's dog walker shot, two of her French bulldogs stolen](https://www.reddit.com/r/news/comments/ls8wrb/lady_gagas_dog_walker_shot_two_of_her_french/)
+- [Trump tax returns are now in the hands of the Manhattan district attorney](https://www.reddit.com/r/news/comments/ls7y1u/trump_tax_returns_are_now_in_the_hands_of_the/)
 <!-- REDDIT:END -->
 
 
