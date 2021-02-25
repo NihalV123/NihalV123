@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prince Harry and Meghan donate new roof to Texas women's shelter damaged in storm](https://www.reddit.com/r/news/comments/lrpc06/prince_harry_and_meghan_donate_new_roof_to_texas/)
+- [Man released early from prison cooked neighbor’s heart, kills 4-year-old](https://www.reddit.com/r/news/comments/lrolos/man_released_early_from_prison_cooked_neighbors/)
+- [GameStop shares surge more than 100%](https://www.reddit.com/r/news/comments/lrolhi/gamestop_shares_surge_more_than_100/)
+- [Ex-Aide Details Sexual Harassment Claims Against Gov. Cuomo](https://www.reddit.com/r/news/comments/lrnj49/exaide_details_sexual_harassment_claims_against/)
+- [U.S. Supreme Court weighs scope of police power to enter homes without a warrant](https://www.reddit.com/r/news/comments/lrnat2/us_supreme_court_weighs_scope_of_police_power_to/)
 <!-- REDDIT:END -->
 
 
