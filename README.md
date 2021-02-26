@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Washington high court strikes down law that makes unintentional possession of drugs a crime](https://www.reddit.com/r/news/comments/lsjb0n/washington_high_court_strikes_down_law_that_makes/)
+- [Former Olympic coach John Geddert commits suicide Thursday after charges announced, AG confirms](https://www.reddit.com/r/news/comments/lsgzju/former_olympic_coach_john_geddert_commits_suicide/)
+- [Traumatized and tired, nurses are quitting due to the pandemic](https://www.reddit.com/r/news/comments/lsew4u/traumatized_and_tired_nurses_are_quitting_due_to/)
+- [Ex-girlfriend leads FBI to Capitol riot suspect who called her a 'moron' in a text, feds say](https://www.reddit.com/r/news/comments/lsdd64/exgirlfriend_leads_fbi_to_capitol_riot_suspect/)
+- [Rightwing group nearly forced Wisconsin to purge thousands of eligible voters](https://www.reddit.com/r/news/comments/lsd89n/rightwing_group_nearly_forced_wisconsin_to_purge/)
 <!-- REDDIT:END -->
 
 
