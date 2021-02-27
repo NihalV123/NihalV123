@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Parents of 7 more separated migrant children have been found, lawyer says](https://www.reddit.com/r/news/comments/ltiraq/parents_of_7_more_separated_migrant_children_have/)
+- [FAA proposes $27,500 fine for Delta passenger who allegedly hit flight attendant](https://www.reddit.com/r/news/comments/ltg1wy/faa_proposes_27500_fine_for_delta_passenger_who/)
+- [Christian boys school in Missouri under investigation as abuse claims mount](https://www.reddit.com/r/news/comments/ltelii/christian_boys_school_in_missouri_under/)
+- [FBI identifies suspect in death of Capitol Police Officer Brian Sicknick, sources say](https://www.reddit.com/r/news/comments/ltdy9c/fbi_identifies_suspect_in_death_of_capitol_police/)
+- [White supremacist sentenced to nearly 20 years in plot to bomb Colorado synagogue](https://www.reddit.com/r/news/comments/ltdy37/white_supremacist_sentenced_to_nearly_20_years_in/)
 <!-- REDDIT:END -->
 
 
