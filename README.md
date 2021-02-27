@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A troop made up of homeless girls is on a mission to sell Girl Scout cookies in all 50 states](https://www.reddit.com/r/news/comments/ltsqi0/a_troop_made_up_of_homeless_girls_is_on_a_mission/)
+- [Electric firm Griddy loses access to Texas grid, customers shifted to rivals](https://www.reddit.com/r/news/comments/ltrtbn/electric_firm_griddy_loses_access_to_texas_grid/)
+- [Rescue dog that nobody wanted saves life of new owner](https://www.reddit.com/r/news/comments/ltqxa6/rescue_dog_that_nobody_wanted_saves_life_of_new/)
+- [Indian man killed by his own rooster during cockfight](https://www.reddit.com/r/news/comments/ltqo82/indian_man_killed_by_his_own_rooster_during/)
+- [Hundreds killed by Eritrean soldiers](https://www.reddit.com/r/news/comments/ltp52e/hundreds_killed_by_eritrean_soldiers/)
 <!-- REDDIT:END -->
 
 
