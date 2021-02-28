@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cuomo Is Accused of Sexual Harassment by a 2nd Former Aide](https://www.reddit.com/r/news/comments/lu0a1m/cuomo_is_accused_of_sexual_harassment_by_a_2nd/)
+- [F.D.A. Clears Johnson & Johnson’s Shot, the Third Vaccine for U.S.](https://www.reddit.com/r/news/comments/ltzvwv/fda_clears_johnson_johnsons_shot_the_third/)
+- [Oath Keeper charged in Capitol riot renounces group, judge says she’s too dangerous for release](https://www.reddit.com/r/news/comments/ltyi2c/oath_keeper_charged_in_capitol_riot_renounces/)
+- [First vaccine to fully immunize against malaria builds on pandemic-driven RNA tech](https://www.reddit.com/r/news/comments/ltxvze/first_vaccine_to_fully_immunize_against_malaria/)
+- [Nearly A Week After The Winter Storm, Some In Houston’s 5th Ward Are Still Without Water](https://www.reddit.com/r/news/comments/ltxilv/nearly_a_week_after_the_winter_storm_some_in/)
 <!-- REDDIT:END -->
 
 
