@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Girl dies after being caned during 'exorcism' in Sri Lanka](https://www.reddit.com/r/news/comments/lvcgj5/girl_dies_after_being_caned_during_exorcism_in/)
+- [Women's domestic abuse charity loses £5M funding because it's not gender neutral](https://www.reddit.com/r/news/comments/lvca8e/womens_domestic_abuse_charity_loses_5m_funding/)
+- ['Many' US Capitol Police officers want to retire or leave after Jan. 6 insurrection, union says](https://www.reddit.com/r/news/comments/lvaxi1/many_us_capitol_police_officers_want_to_retire_or/)
+- [Report: US wasted billions on cars, buildings in Afghanistan](https://www.reddit.com/r/news/comments/lvawo1/report_us_wasted_billions_on_cars_buildings_in/)
+- [Wind power company vows to help save critically endangered California condor](https://www.reddit.com/r/news/comments/lvav2p/wind_power_company_vows_to_help_save_critically/)
 <!-- REDDIT:END -->
 
 
