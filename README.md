@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Far-Right Platform Gab Has Been Hacked—Including Private Data](https://www.reddit.com/r/news/comments/lv0yqt/farright_platform_gab_has_been_hackedincluding/)
+- [Phoenix-bound pilot reportedly spots unknown object flying over American Airlines flight](https://www.reddit.com/r/news/comments/luxs9k/phoenixbound_pilot_reportedly_spots_unknown/)
+- [Canada Post suspends mail delivery to 2 Toronto highrises after some residents seen without masks](https://www.reddit.com/r/news/comments/luwm2n/canada_post_suspends_mail_delivery_to_2_toronto/)
+- [J&J Covid-19 vaccine distribution to begin immediately](https://www.reddit.com/r/news/comments/luw7ma/jj_covid19_vaccine_distribution_to_begin/)
+- [Amid COVID-19 pandemic, flu has disappeared in the US](https://www.reddit.com/r/news/comments/lutthl/amid_covid19_pandemic_flu_has_disappeared_in_the/)
 <!-- REDDIT:END -->
 
 
