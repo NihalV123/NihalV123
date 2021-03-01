@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amid COVID-19 pandemic, flu has disappeared in the US](https://www.reddit.com/r/news/comments/lutthl/amid_covid19_pandemic_flu_has_disappeared_in_the/)
+- [Vanessa Bryant calls on deputies who shared Kobe Bryant crash photos to be ID'd publicly](https://www.reddit.com/r/news/comments/lurpc1/vanessa_bryant_calls_on_deputies_who_shared_kobe/)
+- [Florida golfer found drowned after searching for lost ball](https://www.reddit.com/r/news/comments/lurjwp/florida_golfer_found_drowned_after_searching_for/)
+- [BRPD narcotics officer arrested, accused of distributing drugs](https://www.reddit.com/r/news/comments/lur2sr/brpd_narcotics_officer_arrested_accused_of/)
+- [CDC panel recommends use of J&J's single-shot Covid vaccine, clearing way for distribution](https://www.reddit.com/r/news/comments/lupmup/cdc_panel_recommends_use_of_jjs_singleshot_covid/)
 <!-- REDDIT:END -->
 
 
