@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lost 'libraries': Brazil's indigenous people lament COVID deaths](https://www.reddit.com/r/news/comments/lv6wci/lost_libraries_brazils_indigenous_people_lament/)
+- [US wasted billions on cars, buildings in Afghanistan](https://www.reddit.com/r/news/comments/lv44x5/us_wasted_billions_on_cars_buildings_in/)
+- [Texas electricity firm files for bankruptcy citing $1.8 billion in claims from grid operator](https://www.reddit.com/r/news/comments/lv2fxr/texas_electricity_firm_files_for_bankruptcy/)
+- [Video captures what appears to be Miami Police punching, kicking man, department investigating](https://www.reddit.com/r/news/comments/lv2btz/video_captures_what_appears_to_be_miami_police/)
+- [Far-Right Platform Gab Has Been Hacked—Including Private Data](https://www.reddit.com/r/news/comments/lv0yqt/farright_platform_gab_has_been_hackedincluding/)
 <!-- REDDIT:END -->
 
 
