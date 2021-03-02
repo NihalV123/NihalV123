@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI searching for suspect who sprayed chemical irritant on Capitol police officer](https://www.reddit.com/r/news/comments/lvtco0/fbi_searching_for_suspect_who_sprayed_chemical/)
+- [Oldest Texas electricity co-op goes bust after getting hit with $2 billion bill](https://www.reddit.com/r/news/comments/lvr5nx/oldest_texas_electricity_coop_goes_bust_after/)
+- [Proud Boys nominated man to hold 'war powers' and lead January 6 attack, Justice Department says](https://www.reddit.com/r/news/comments/lvqm76/proud_boys_nominated_man_to_hold_war_powers_and/)
+- [Leader of Texas Utility Regulator Resigns After Extensive Storm Outages](https://www.reddit.com/r/news/comments/lvq4ys/leader_of_texas_utility_regulator_resigns_after/)
+- [Women allege sexual misconduct against North Carolina GOP lawmaker as his biography is under new scrutiny](https://www.reddit.com/r/news/comments/lvpe8v/women_allege_sexual_misconduct_against_north/)
 <!-- REDDIT:END -->
 
 
