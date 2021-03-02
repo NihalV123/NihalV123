@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia to place first far-right group on terror list](https://www.reddit.com/r/news/comments/lvyb53/australia_to_place_first_farright_group_on_terror/)
+- [All abducted Nigerian schoolgirls freed by kidnappers](https://www.reddit.com/r/news/comments/lvy6rv/all_abducted_nigerian_schoolgirls_freed_by/)
+- [Declining social trust in the United States linked to job losses, income insecurity](https://www.reddit.com/r/news/comments/lvy2ao/declining_social_trust_in_the_united_states/)
+- [Amazon employee sues the company, alleging racial discrimination and unequal pay](https://www.reddit.com/r/news/comments/lvy0nk/amazon_employee_sues_the_company_alleging_racial/)
+- [Police Video Shows Chaotic Moments After Man With Intellectual Disability Killed in Costco Store in Corona](https://www.reddit.com/r/news/comments/lvxyr7/police_video_shows_chaotic_moments_after_man_with/)
 <!-- REDDIT:END -->
 
 
