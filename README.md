@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Multiple vehicle crash in Imperial County, California, leaves at least 12 dead](https://www.reddit.com/r/news/comments/lw79hi/multiple_vehicle_crash_in_imperial_county/)
+- [Major Evangelical Adoption Agency Will Now Serve Gay Parents Nationwide](https://www.reddit.com/r/news/comments/lw5ejw/major_evangelical_adoption_agency_will_now_serve/)
+- [Two teens charged in shooting death of 32-year-old mother](https://www.reddit.com/r/news/comments/lw58pm/two_teens_charged_in_shooting_death_of_32yearold/)
+- [The Cherokee Nation acknowledges that descendants of people once enslaved by the tribe should also qualify as Cherokee](https://www.reddit.com/r/news/comments/lw41ak/the_cherokee_nation_acknowledges_that_descendants/)
+- [CDC chief warns of 'potential fourth surge' and urges US to keep Covid rules](https://www.reddit.com/r/news/comments/lw3qio/cdc_chief_warns_of_potential_fourth_surge_and/)
 <!-- REDDIT:END -->
 
 
