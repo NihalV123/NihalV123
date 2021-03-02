@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas power crisis deepens as more companies skip payments due to grid operator](https://www.reddit.com/r/news/comments/lvnsik/texas_power_crisis_deepens_as_more_companies_skip/)
+- [A Trader Joe's worker says he was fired after writing to the CEO about Covid-19 safety protections](https://www.reddit.com/r/news/comments/lvmqwx/a_trader_joes_worker_says_he_was_fired_after/)
+- ['Roaring Kitty' no longer has financial broker license: filing](https://www.reddit.com/r/news/comments/lvlxy5/roaring_kitty_no_longer_has_financial_broker/)
+- ['Shocked by the uproar': Amanda Gorman's white translator quits](https://www.reddit.com/r/news/comments/lvlhw3/shocked_by_the_uproar_amanda_gormans_white/)
+- [AG James Receives Formal Referral to Begin Investigation of Gov. Cuomo](https://www.reddit.com/r/news/comments/lvjnjq/ag_james_receives_formal_referral_to_begin/)
 <!-- REDDIT:END -->
 
 
