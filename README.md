@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bunny Wailer, last surviving founder member of the Wailers, dies aged 73](https://www.reddit.com/r/news/comments/lwerss/bunny_wailer_last_surviving_founder_member_of_the/)
+- [President Joe Biden urges states to vaccinate teachers, school staff this month](https://www.reddit.com/r/news/comments/lwerms/president_joe_biden_urges_states_to_vaccinate/)
+- [Man Raises Over $3.5k For Friend's Funeral, Refuses To Give Money To Grieving Family, Says He Wants To Use It To Get Budweiser Tattoo](https://www.reddit.com/r/news/comments/lwddig/man_raises_over_35k_for_friends_funeral_refuses/)
+- [White House moves up vaccine supply timeline, says U.S. will have enough for every adult by end of May](https://www.reddit.com/r/news/comments/lwd352/white_house_moves_up_vaccine_supply_timeline_says/)
+- [Texas governor lifts mask mandate despite health officials' warnings](https://www.reddit.com/r/news/comments/lwbs6f/texas_governor_lifts_mask_mandate_despite_health/)
 <!-- REDDIT:END -->
 
 
