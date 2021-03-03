@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US militia group draws members from military and police, website leak shows](https://www.reddit.com/r/news/comments/lwrdes/us_militia_group_draws_members_from_military_and/)
+- [U.S. gets 'C-,' faces $2.59 trillion in infrastructure needs over 10 years: report](https://www.reddit.com/r/news/comments/lwp5zj/us_gets_c_faces_259_trillion_in_infrastructure/)
+- [Capitol riot was act of terrorism – FBI director](https://www.reddit.com/r/news/comments/lwk8uw/capitol_riot_was_act_of_terrorism_fbi_director/)
+- [Amazon worker died by suicide at Las Vegas facility](https://www.reddit.com/r/news/comments/lwiu97/amazon_worker_died_by_suicide_at_las_vegas/)
+- [Staff at some major U.S. firms to keep masks on in Texas even as state lifts mandate](https://www.reddit.com/r/news/comments/lwim6d/staff_at_some_major_us_firms_to_keep_masks_on_in/)
 <!-- REDDIT:END -->
 
 
