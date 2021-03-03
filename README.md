@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police preparing for possible militia ‘plot to breach the Capitol’ in Washington on Thursday](https://www.reddit.com/r/news/comments/lwxhqd/police_preparing_for_possible_militia_plot_to/)
+- [South Carolina adds firing squad to execution methods to address lethal injection shortage](https://www.reddit.com/r/news/comments/lwxbva/south_carolina_adds_firing_squad_to_execution/)
+- [Educator who molested 3-year-old girl during language lesson gets 1.5 years’ jail, caning](https://www.reddit.com/r/news/comments/lwwc1j/educator_who_molested_3yearold_girl_during/)
+- [LA sheriffs execute search warrant on Tiger Woods's car after crash](https://www.reddit.com/r/news/comments/lwvthv/la_sheriffs_execute_search_warrant_on_tiger/)
+- [Police: Live pipe bomb found at polling place in Iowa](https://www.reddit.com/r/news/comments/lwvp6l/police_live_pipe_bomb_found_at_polling_place_in/)
 <!-- REDDIT:END -->
 
 
