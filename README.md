@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bucking GOP trend, Alabama governor extends mask order](https://www.reddit.com/r/news/comments/lxplgl/bucking_gop_trend_alabama_governor_extends_mask/)
+- [Microplastics found in 100% of Pennsylvania waterways surveyed](https://www.reddit.com/r/news/comments/lxpi2n/microplastics_found_in_100_of_pennsylvania/)
+- [Fauci calls loosening Covid-19 restrictions inexplicable as variants threaten another surge](https://www.reddit.com/r/news/comments/lxo4s8/fauci_calls_loosening_covid19_restrictions/)
+- [Great apes at San Diego Zoo become first non-humans to receive COVID-19 vaccine](https://www.reddit.com/r/news/comments/lxm9ze/great_apes_at_san_diego_zoo_become_first/)
+- [7.1 magnitude quake sparks tsunami warning in New Zealand](https://www.reddit.com/r/news/comments/lxm2mq/71_magnitude_quake_sparks_tsunami_warning_in_new/)
 <!-- REDDIT:END -->
 
 
