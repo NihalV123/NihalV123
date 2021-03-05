@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Zealanders urged to evacuate after third earthquake triggers tsunami warnings](https://www.reddit.com/r/news/comments/lxwxun/new_zealanders_urged_to_evacuate_after_third/)
+- [Federal investigators are examining communications between US lawmakers and Capitol rioters](https://www.reddit.com/r/news/comments/lxvx3p/federal_investigators_are_examining/)
+- [Tsunami warning for parts of New Zealand after 8.1-magnitude earthquake](https://www.reddit.com/r/news/comments/lxvfhu/tsunami_warning_for_parts_of_new_zealand_after/)
+- [Prosecutors: Officer was on Floyd's neck for about 9 minutes](https://www.reddit.com/r/news/comments/lxuheq/prosecutors_officer_was_on_floyds_neck_for_about/)
+- [Exclusive: U.S. blocked Myanmar junta attempt to empty $1 billion New York Fed account - sources](https://www.reddit.com/r/news/comments/lxtcgt/exclusive_us_blocked_myanmar_junta_attempt_to/)
 <!-- REDDIT:END -->
 
 
