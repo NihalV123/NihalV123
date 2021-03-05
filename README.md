@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World's oldest known wild bird has another chick at age of 70](https://www.reddit.com/r/news/comments/lyghja/worlds_oldest_known_wild_bird_has_another_chick/)
+- [Appeals court reinstates third-degree murder charge against ex-officer accused in the killing of George Floyd](https://www.reddit.com/r/news/comments/lyg6qw/appeals_court_reinstates_thirddegree_murder/)
+- [John McAfee & Executive Cryptocurrency Adviser Indicted For Fraud & Money Laundering](https://www.reddit.com/r/news/comments/lyg6dq/john_mcafee_executive_cryptocurrency_adviser/)
+- [Ex-chief: Dallas cop kept on job to not tip him off to probe](https://www.reddit.com/r/news/comments/lyehos/exchief_dallas_cop_kept_on_job_to_not_tip_him_off/)
+- [Stop 'whining,' Bolsonaro tells Brazilians after record Covid deaths](https://www.reddit.com/r/news/comments/lyef62/stop_whining_bolsonaro_tells_brazilians_after/)
 <!-- REDDIT:END -->
 
 
