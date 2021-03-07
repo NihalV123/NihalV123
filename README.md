@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two trainee doctors refuse Covid vaccine and patients claim it will 'make men gay'](https://www.reddit.com/r/news/comments/lzspwt/two_trainee_doctors_refuse_covid_vaccine_and/)
+- [Bowling Green State University student in critical condition after alleged fraternity hazing incident](https://www.reddit.com/r/news/comments/lzrlb7/bowling_green_state_university_student_in/)
+- [Google advised mental health care when workers complained about racism and sexism](https://www.reddit.com/r/news/comments/lzrbo7/google_advised_mental_health_care_when_workers/)
+- [Europe staggers as infectious variants power virus surge](https://www.reddit.com/r/news/comments/lzqvjl/europe_staggers_as_infectious_variants_power/)
+- [Another ex-aide calls Cuomo's office conduct inappropriate](https://www.reddit.com/r/news/comments/lzqv1i/another_exaide_calls_cuomos_office_conduct/)
 <!-- REDDIT:END -->
 
 
