@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court rejects final Trump election challenge](https://www.reddit.com/r/news/comments/m0kop2/supreme_court_rejects_final_trump_election/)
+- [Schoolgirl admits to lying about French teacher who was later beheaded](https://www.reddit.com/r/news/comments/m0jz2s/schoolgirl_admits_to_lying_about_french_teacher/)
+- [Gasoline spill in North Carolina worse than first reported](https://www.reddit.com/r/news/comments/m0jl8i/gasoline_spill_in_north_carolina_worse_than_first/)
+- [Fully vaccinated Americans can have small gatherings indoors with other vaccinated people but need to wear masks in public, the C.D.C. says.](https://www.reddit.com/r/news/comments/m0jg2y/fully_vaccinated_americans_can_have_small/)
+- [U.S. Supreme Court rejects case over 'qualified immunity' for police](https://www.reddit.com/r/news/comments/m0ja6z/us_supreme_court_rejects_case_over_qualified/)
 <!-- REDDIT:END -->
 
 
