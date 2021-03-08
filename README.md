@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over 166,000 hens die in Arizona farm fire](https://www.reddit.com/r/news/comments/m01aj1/over_166000_hens_die_in_arizona_farm_fire/)
+- [Weatherwatch: latest sea level rise forecast alarms scientists](https://www.reddit.com/r/news/comments/m00srh/weatherwatch_latest_sea_level_rise_forecast/)
+- [White House cites 'active threat,' urges action despite Microsoft patch](https://www.reddit.com/r/news/comments/lzztvn/white_house_cites_active_threat_urges_action/)
+- [Serial car burglar broke into over 1,000 vehicles, Pennsylvania officials say](https://www.reddit.com/r/news/comments/lzyugg/serial_car_burglar_broke_into_over_1000_vehicles/)
+- [Two more women accuse New York Gov. Andrew Cuomo of inappropriate conduct](https://www.reddit.com/r/news/comments/lzytkd/two_more_women_accuse_new_york_gov_andrew_cuomo/)
 <!-- REDDIT:END -->
 
 
