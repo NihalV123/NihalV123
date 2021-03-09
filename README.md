@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter sues Texas attorney general, claiming retaliation for Trump ban](https://www.reddit.com/r/news/comments/m1bjq6/twitter_sues_texas_attorney_general_claiming/)
+- [Teenager, arrested in connection with U.S. Capitol riots, assaulted by fellow inmate, lawyer says](https://www.reddit.com/r/news/comments/m1b6mb/teenager_arrested_in_connection_with_us_capitol/)
+- ['Architect of structural racism' — Groups call to remove KKK leader bust from TN Capitol](https://www.reddit.com/r/news/comments/m1aupj/architect_of_structural_racism_groups_call_to/)
+- [Feds Examining Honolulu Police CARES Spending On ATVs, Robot Dog](https://www.reddit.com/r/news/comments/m193st/feds_examining_honolulu_police_cares_spending_on/)
+- [ERCOT Is Refusing to Release Records On How it Prepared for the Winter Storm](https://www.reddit.com/r/news/comments/m18pq5/ercot_is_refusing_to_release_records_on_how_it/)
 <!-- REDDIT:END -->
 
 
