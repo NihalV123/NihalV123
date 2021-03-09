@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Record 3,200 migrant children stuck in Border Patrol custody, with nearly half held past legal limit](https://www.reddit.com/r/news/comments/m0yl03/record_3200_migrant_children_stuck_in_border/)
+- [Michigan trooper charged with felony in arrest where dog was set on man nearly 4 minutes](https://www.reddit.com/r/news/comments/m0yfbl/michigan_trooper_charged_with_felony_in_arrest/)
+- [North Carolina sued to reverse decision to drop license plates with Confederate flag](https://www.reddit.com/r/news/comments/m0ugie/north_carolina_sued_to_reverse_decision_to_drop/)
+- [Woman charged with 'anti-Asian hate crime' for allegedly spitting on man in California](https://www.reddit.com/r/news/comments/m0ufn3/woman_charged_with_antiasian_hate_crime_for/)
+- [Dallas to probe why cop accused of murder stayed on job](https://www.reddit.com/r/news/comments/m0slsg/dallas_to_probe_why_cop_accused_of_murder_stayed/)
 <!-- REDDIT:END -->
 
 
