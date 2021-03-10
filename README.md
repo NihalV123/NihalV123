@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The one-third of Americans who have bachelor's degrees have been living progressively longer for the past 30 years, while the two-thirds without degrees have been dying younger since 2010, according to new research by the Princeton economists who first identified 'deaths of despair.'](https://www.reddit.com/r/news/comments/m1oh6u/the_onethird_of_americans_who_have_bachelors/)
+- [Investigation into death of Georgia teen found in a rolled-up gym mat 8 years ago will be reopened](https://www.reddit.com/r/news/comments/m1odqr/investigation_into_death_of_georgia_teen_found_in/)
+- [Alaska will be first in U.S. to offer Covid-19 vaccines to all adults](https://www.reddit.com/r/news/comments/m1nuxq/alaska_will_be_first_in_us_to_offer_covid19/)
+- [One in three Americans on unemployment benefits struggle to pay for food, housing - survey](https://www.reddit.com/r/news/comments/m1nf0p/one_in_three_americans_on_unemployment_benefits/)
+- [New owner Buzzfeed lays off 45 from HuffPost newsroom](https://www.reddit.com/r/news/comments/m1ku4c/new_owner_buzzfeed_lays_off_45_from_huffpost/)
 <!-- REDDIT:END -->
 
 
