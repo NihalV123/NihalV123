@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Five Oklahoma City officers charged with manslaughter in shooting of 15-year-old boy](https://www.reddit.com/r/news/comments/m2c6ug/five_oklahoma_city_officers_charged_with/)
+- [Marijuana sales reach record high during COVID-19 crisis](https://www.reddit.com/r/news/comments/m2aonm/marijuana_sales_reach_record_high_during_covid19/)
+- [Senate confirms Merrick Garland as attorney general](https://www.reddit.com/r/news/comments/m282du/senate_confirms_merrick_garland_as_attorney/)
+- [Rhode Island man sentenced to federal prison for traveling to Canada to have sex with teen](https://www.reddit.com/r/news/comments/m27z0e/rhode_island_man_sentenced_to_federal_prison_for/)
+- [Texas attorney general gives local authorities until 6 p.m. to suspend mask mandates](https://www.reddit.com/r/news/comments/m27wfm/texas_attorney_general_gives_local_authorities/)
 <!-- REDDIT:END -->
 
 
