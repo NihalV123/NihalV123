@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [22 year-old, Chanel Contos' e-petition for sex consent education reform across Australian schools, receives positive public support.](https://www.reddit.com/r/news/comments/m2kaek/22_yearold_chanel_contos_epetition_for_sex/)
+- [Anti-Asian hate crimes increased by nearly 150% in 2020, mostly in N.Y. and L.A., new report says](https://www.reddit.com/r/news/comments/m2joga/antiasian_hate_crimes_increased_by_nearly_150_in/)
+- [A CNN investigation finds the U.S.-backed Saudi blockade is leading to deadly fuel & food shortages in Yemen, where hospitals are full of starving children - CNN Video](https://www.reddit.com/r/news/comments/m2i5wv/a_cnn_investigation_finds_the_usbacked_saudi/)
+- [New Victim Claims She Was ‘Drugged and Trafficked’ by T.I. and Tiny, Lawyer Says](https://www.reddit.com/r/news/comments/m2gp8j/new_victim_claims_she_was_drugged_and_trafficked/)
+- [Brazil plunges into crisis as a second wave and deadly new variant overwhelm hospitals](https://www.reddit.com/r/news/comments/m2g622/brazil_plunges_into_crisis_as_a_second_wave_and/)
 <!-- REDDIT:END -->
 
 
