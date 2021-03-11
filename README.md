@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A CNN investigation finds the U.S.-backed Saudi blockade is leading to deadly fuel & food shortages in Yemen, where hospitals are full of starving children - CNN Video](https://www.reddit.com/r/news/comments/m2i5wv/a_cnn_investigation_finds_the_usbacked_saudi/)
+- [Brazil plunges into crisis as a second wave and deadly new variant overwhelm hospitals](https://www.reddit.com/r/news/comments/m2g622/brazil_plunges_into_crisis_as_a_second_wave_and/)
+- [Myanmar’s military on ‘killing spree’ against protesters: Amnesty](https://www.reddit.com/r/news/comments/m2f6n5/myanmars_military_on_killing_spree_against/)
+- ['Harry Potter' actor Katie Leung says she was told to deny she was target of racist attacks](https://www.reddit.com/r/news/comments/m2ek6j/harry_potter_actor_katie_leung_says_she_was_told/)
+- [Mexico Set to Legalize Marijuana, Becoming World’s Largest Market](https://www.reddit.com/r/news/comments/m2e6uq/mexico_set_to_legalize_marijuana_becoming_worlds/)
 <!-- REDDIT:END -->
 
 
