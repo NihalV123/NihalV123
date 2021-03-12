@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [All Michigan adults aged 16 & up will be eligible for COVID-19 vaccine starting April 5](https://www.reddit.com/r/news/comments/m3mjp5/all_michigan_adults_aged_16_up_will_be_eligible/)
+- [DC Grassroots effort saved 100-year-old tree from developer's 'illegal' plan, for now](https://www.reddit.com/r/news/comments/m3lzdv/dc_grassroots_effort_saved_100yearold_tree_from/)
+- [A mother's pursuit for justice overturns wrongful conviction, catches the true killer](https://www.reddit.com/r/news/comments/m3l3ki/a_mothers_pursuit_for_justice_overturns_wrongful/)
+- [77-year-old substitute teacher who lives in his car gifted $27,000 check by former student](https://www.reddit.com/r/news/comments/m3k03u/77yearold_substitute_teacher_who_lives_in_his_car/)
+- [Singaporean youth detained under ISA for planning knife attack on Jews leaving synagogue](https://www.reddit.com/r/news/comments/m3jb13/singaporean_youth_detained_under_isa_for_planning/)
 <!-- REDDIT:END -->
 
 
