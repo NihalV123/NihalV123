@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden to direct states to make all adults eligible for Covid vaccines by May 1](https://www.reddit.com/r/news/comments/m34epk/biden_to_direct_states_to_make_all_adults/)
+- [Senior Military Leaders Thrash Tucker Carlson for Mocking Female Service Members](https://www.reddit.com/r/news/comments/m348lk/senior_military_leaders_thrash_tucker_carlson_for/)
+- [Cafe with locations across 4 states calls teachers unions trash, bans any teacher who has "opted not to return to in person teaching"](https://www.reddit.com/r/news/comments/m33udr/cafe_with_locations_across_4_states_calls/)
+- [Tempe man stabs father 20 times trying to “rid his body of a shape-shifting reptile”](https://www.reddit.com/r/news/comments/m32drt/tempe_man_stabs_father_20_times_trying_to_rid_his/)
+- [Father gets 212 years in prison for scheme that killed his autistic sons for life insurance](https://www.reddit.com/r/news/comments/m31ogu/father_gets_212_years_in_prison_for_scheme_that/)
 <!-- REDDIT:END -->
 
 
