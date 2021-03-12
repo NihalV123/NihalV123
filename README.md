@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Target announces departure from Minneapolis' City Center, citing less space needed](https://www.reddit.com/r/news/comments/m37npw/target_announces_departure_from_minneapolis_city/)
+- [Alabama House votes to end yoga ban, but don’t say ‘namaste’](https://www.reddit.com/r/news/comments/m37c5z/alabama_house_votes_to_end_yoga_ban_but_dont_say/)
+- [Bedbugs found on US Navy submarine USS Connecticut](https://www.reddit.com/r/news/comments/m367yd/bedbugs_found_on_us_navy_submarine_uss_connecticut/)
+- [New York assembly approves 'impeachment investigation' into Andrew Cuomo](https://www.reddit.com/r/news/comments/m35wim/new_york_assembly_approves_impeachment/)
+- [Music producer pushes LAPD to release footage of alleged wrongful arrest](https://www.reddit.com/r/news/comments/m34szb/music_producer_pushes_lapd_to_release_footage_of/)
 <!-- REDDIT:END -->
 
 
