@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ruth Bader Ginsburg's statue unveiled in her native Brooklyn, N.Y.](https://www.reddit.com/r/news/comments/m3tn0z/ruth_bader_ginsburgs_statue_unveiled_in_her/)
+- [Five Chinese companies pose threat to U.S. national security: FCC](https://www.reddit.com/r/news/comments/m3tj61/five_chinese_companies_pose_threat_to_us_national/)
+- [IOC under fire after ‘dismissing’ claims of genocide against Uighurs in China | Olympic Games](https://www.reddit.com/r/news/comments/m3tcb2/ioc_under_fire_after_dismissing_claims_of/)
+- [Less than 24 hours left to apply to be a moderator for /r/news! Previous moderator experience is not required.](https://www.reddit.com/r/news/comments/m3sy6c/less_than_24_hours_left_to_apply_to_be_a/)
+- ['It's sickening': Announcer uses racial slur during state basketball tournament](https://www.reddit.com/r/news/comments/m3st8y/its_sickening_announcer_uses_racial_slur_during/)
 <!-- REDDIT:END -->
 
 
