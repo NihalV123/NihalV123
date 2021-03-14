@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ethiopia: video of Tigray massacre lifts lid on 'war without photos'](https://www.reddit.com/r/news/comments/m4tghc/ethiopia_video_of_tigray_massacre_lifts_lid_on/)
+- [Family wants answers after Quebec woman posts video begging for help in hospital, dies 2 days later](https://www.reddit.com/r/news/comments/m4onnx/family_wants_answers_after_quebec_woman_posts/)
+- [Hundreds gather in Seattle Chinatown International District to protest attacks on Asian Americans](https://www.reddit.com/r/news/comments/m4mow1/hundreds_gather_in_seattle_chinatown/)
+- [Charges filed against Proud Boys member who allegedly pepper-sprayed police during Capitol insurrection](https://www.reddit.com/r/news/comments/m4lbp1/charges_filed_against_proud_boys_member_who/)
+- [Londoners protest after police officer charged with woman's murder](https://www.reddit.com/r/news/comments/m4krzd/londoners_protest_after_police_officer_charged/)
 <!-- REDDIT:END -->
 
 
