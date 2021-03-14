@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Breonna Taylor's boyfriend Kenneth Walker files federal lawsuit against Louisville police](https://www.reddit.com/r/news/comments/m4g3j9/breonna_taylors_boyfriend_kenneth_walker_files/)
+- [Woman hiked miles barefoot and wet to call 911 for help after boyfriend fell in creek](https://www.reddit.com/r/news/comments/m4g37r/woman_hiked_miles_barefoot_and_wet_to_call_911/)
+- [Woman suspected in Uber attack arrested for fraud scheme at bank, Vegas police say](https://www.reddit.com/r/news/comments/m4egkx/woman_suspected_in_uber_attack_arrested_for_fraud/)
+- [Pa. woman created ‘deepfake’ videos to force rivals off daughter’s cheerleading squad: police](https://www.reddit.com/r/news/comments/m4e5lo/pa_woman_created_deepfake_videos_to_force_rivals/)
+- [New York man accused of taking badge of officer beaten during Capitol riot and burying evidence in backyard](https://www.reddit.com/r/news/comments/m4dvm4/new_york_man_accused_of_taking_badge_of_officer/)
 <!-- REDDIT:END -->
 
 
