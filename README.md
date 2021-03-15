@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [12-year-old prodigy set to attend college, says she plans to land job at NASA](https://www.reddit.com/r/news/comments/m5d47g/12yearold_prodigy_set_to_attend_college_says_she/)
+- [S.C. nurse who fatally poisoned husband with eye drops: "I just wanted him to suffer"](https://www.reddit.com/r/news/comments/m59ku0/sc_nurse_who_fatally_poisoned_husband_with_eye/)
+- [Satellite Imagery Shows Northern California Kelp Forests Have Collapsed](https://www.reddit.com/r/news/comments/m596de/satellite_imagery_shows_northern_california_kelp/)
+- [First ever sighting of a walrus in Ireland after it is thought to have drifted across Atlantic after falling asleep on iceberg](https://www.reddit.com/r/news/comments/m58znv/first_ever_sighting_of_a_walrus_in_ireland_after/)
+- [Southern Claifornia man arrested after search finds $167K in catalytic converters](https://www.reddit.com/r/news/comments/m58h11/southern_claifornia_man_arrested_after_search/)
 <!-- REDDIT:END -->
 
 
