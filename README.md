@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Navy probe finds contractor charged in Capitol insurrection was well-known Nazi sympathizer](https://www.reddit.com/r/news/comments/m56ktq/navy_probe_finds_contractor_charged_in_capitol/)
+- [Cellist Yo-Yo Ma gives impromptu performance at Covid vaccine center](https://www.reddit.com/r/news/comments/m55sd2/cellist_yoyo_ma_gives_impromptu_performance_at/)
+- [At least 39 reported killed in Myanmar as Chinese factories burn](https://www.reddit.com/r/news/comments/m55gpf/at_least_39_reported_killed_in_myanmar_as_chinese/)
+- [Drew Brees announces retirement from the NFL after 20 seasons](https://www.reddit.com/r/news/comments/m550pc/drew_brees_announces_retirement_from_the_nfl/)
+- [North Carolina police find suspicious devices near church](https://www.reddit.com/r/news/comments/m54s0e/north_carolina_police_find_suspicious_devices/)
 <!-- REDDIT:END -->
 
 
