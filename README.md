@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Deb Haaland becomes first-ever Native American U.S. Cabinet secretary](https://www.reddit.com/r/news/comments/m602ob/deb_haaland_becomes_firstever_native_american_us/)
+- [Student who joined white supremacists in calling in fake attacks gets nearly 3 years](https://www.reddit.com/r/news/comments/m5z71f/student_who_joined_white_supremacists_in_calling/)
+- [Florida school principal hacked into student accounts to cast homecoming votes, FDLE says](https://www.reddit.com/r/news/comments/m5ys3x/florida_school_principal_hacked_into_student/)
+- [She got $662/month to run a tiny Washington town post office. When asked for more, USPS shut it down.](https://www.reddit.com/r/news/comments/m5yisl/she_got_662month_to_run_a_tiny_washington_town/)
+- [Florida man faces charge after allegedly spitting at Disney guard over mask rules](https://www.reddit.com/r/news/comments/m5y6f7/florida_man_faces_charge_after_allegedly_spitting/)
 <!-- REDDIT:END -->
 
 
