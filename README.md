@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. has issued 90 million stimulus checks worth $242 billion, Treasury says](https://www.reddit.com/r/news/comments/m74p98/us_has_issued_90_million_stimulus_checks_worth/)
+- [Suspect in Atlanta-area spa shootings might have intended more shootings in Florida, mayor says](https://www.reddit.com/r/news/comments/m73b6h/suspect_in_atlantaarea_spa_shootings_might_have/)
+- [Tesla on autopilot crashes into state police patrol car in Lansing](https://www.reddit.com/r/news/comments/m73017/tesla_on_autopilot_crashes_into_state_police/)
+- [Texas AG says more than $29 million in unpaid electric bills will be forgiven as he sues Griddy Energy](https://www.reddit.com/r/news/comments/m72n1x/texas_ag_says_more_than_29_million_in_unpaid/)
+- [US woman gives birth to first known baby with Covid antibodies, doctors say](https://www.reddit.com/r/news/comments/m71xch/us_woman_gives_birth_to_first_known_baby_with/)
 <!-- REDDIT:END -->
 
 
