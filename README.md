@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI releases videos of 'most egregious' assaults on officers at Capitol riot](https://www.reddit.com/r/news/comments/m7wgih/fbi_releases_videos_of_most_egregious_assaults_on/)
+- [Community raises $150,000 for man who lost both legs in farming accident](https://www.reddit.com/r/news/comments/m7ullj/community_raises_150000_for_man_who_lost_both/)
+- [Feeding cows seaweed could cut their methane emissions by 82%, scientists say](https://www.reddit.com/r/news/comments/m7ts72/feeding_cows_seaweed_could_cut_their_methane/)
+- [Appeal court reinstates conviction of Flynn business partner](https://www.reddit.com/r/news/comments/m7skic/appeal_court_reinstates_conviction_of_flynn/)
+- [Details emerge about man arrested in Georgia shootings](https://www.reddit.com/r/news/comments/m7s06x/details_emerge_about_man_arrested_in_georgia/)
 <!-- REDDIT:END -->
 
 
