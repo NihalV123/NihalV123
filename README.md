@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Racist extremists pose most deadly terrorist threat to US, intelligence report warns](https://www.reddit.com/r/news/comments/m7czk6/racist_extremists_pose_most_deadly_terrorist/)
+- [Man arrested with gun outside vice president’s residence](https://www.reddit.com/r/news/comments/m7cy36/man_arrested_with_gun_outside_vice_presidents/)
+- [Former Green Beret, whom Trump pardoned for alleged murder, won’t get Silver Star or SF tab back, Army rules](https://www.reddit.com/r/news/comments/m7c8zh/former_green_beret_whom_trump_pardoned_for/)
+- [FCC cracks down on robocalls with record $225 million fine](https://www.reddit.com/r/news/comments/m7b7f9/fcc_cracks_down_on_robocalls_with_record_225/)
+- [Indicted state trooper fired almost 3 years after shooting unarmed man during traffic stop](https://www.reddit.com/r/news/comments/m79wbi/indicted_state_trooper_fired_almost_3_years_after/)
 <!-- REDDIT:END -->
 
 
