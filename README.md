@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Louisiana man charged with federal hate crime, accused of trying to kill and dismember gay man](https://www.reddit.com/r/news/comments/m8ln15/louisiana_man_charged_with_federal_hate_crime/)
+- [Black newspaper delivery driver detained after Pierce County sheriff claims, then recants, threat to life](https://www.reddit.com/r/news/comments/m8lmtd/black_newspaper_delivery_driver_detained_after/)
+- [U.S. charges Proud Boys with conspiring to impede Congress on January 6](https://www.reddit.com/r/news/comments/m8jxpy/us_charges_proud_boys_with_conspiring_to_impede/)
+- [Mission to clean up space junk with magnets set for launch](https://www.reddit.com/r/news/comments/m8jo6t/mission_to_clean_up_space_junk_with_magnets_set/)
+- [Trump wax figure pulled from Texas display after visitors attacked it – reports | Donald Trump](https://www.reddit.com/r/news/comments/m8j9bs/trump_wax_figure_pulled_from_texas_display_after/)
 <!-- REDDIT:END -->
 
 
