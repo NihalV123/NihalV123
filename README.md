@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rochester man dies after two teens intentionally set him on fire.](https://www.reddit.com/r/news/comments/m8fkbb/rochester_man_dies_after_two_teens_intentionally/)
+- ['Handwashing isn't kept on top of': McDonald's facing new claims of COVID rules being broken | Business News](https://www.reddit.com/r/news/comments/m8bmr9/handwashing_isnt_kept_on_top_of_mcdonalds_facing/)
+- [Stanford researcher proposes a rapid-response technology to produce billions of vaccine doses fast enough to stop the next pandemic](https://www.reddit.com/r/news/comments/m8aszt/stanford_researcher_proposes_a_rapidresponse/)
+- [New York is poised to limit solitary confinement in prisons and jails to 15 consecutive days](https://www.reddit.com/r/news/comments/m8asgy/new_york_is_poised_to_limit_solitary_confinement/)
+- [Philadelphia man fatally shot on prison grounds shortly after being released](https://www.reddit.com/r/news/comments/m89m5j/philadelphia_man_fatally_shot_on_prison_grounds/)
 <!-- REDDIT:END -->
 
 
