@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New mom, Army vet among 8 killed in Georgia spa shootings](https://www.reddit.com/r/news/comments/m86wob/new_mom_army_vet_among_8_killed_in_georgia_spa/)
+- [Starbucks shareholders reject CEO pay proposal in rare move](https://www.reddit.com/r/news/comments/m86m5e/starbucks_shareholders_reject_ceo_pay_proposal_in/)
+- [Three more Cleveland cops suspended in incident where officer stepped on man’s throat](https://www.reddit.com/r/news/comments/m855yv/three_more_cleveland_cops_suspended_in_incident/)
+- [Accused Gunman Had Visited Massage Parlors He Targeted, Police Say](https://www.reddit.com/r/news/comments/m852wl/accused_gunman_had_visited_massage_parlors_he/)
+- [SpaceX engineer pleads guilty to DOJ charges of insider trading with material bought on the dark web](https://www.reddit.com/r/news/comments/m83tdo/spacex_engineer_pleads_guilty_to_doj_charges_of/)
 <!-- REDDIT:END -->
 
 
