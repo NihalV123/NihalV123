@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FOX 11 crew members taken to hospital after SUV crashes into Hollywood building, 3 others hurt](https://www.reddit.com/r/news/comments/m8tyxm/fox_11_crew_members_taken_to_hospital_after_suv/)
+- [A volcanic eruption started just started in Fagradalsfjall, Iceland](https://www.reddit.com/r/news/comments/m8suwj/a_volcanic_eruption_started_just_started_in/)
+- [In death of baby fed meth-tainted breastmilk, grand jury charges Kenner mom with murder](https://www.reddit.com/r/news/comments/m8sifd/in_death_of_baby_fed_methtainted_breastmilk_grand/)
+- [Body cam video surfaces of maskless woman's 2nd arrest in Galveston Co.](https://www.reddit.com/r/news/comments/m8qzso/body_cam_video_surfaces_of_maskless_womans_2nd/)
+- [Cuomo Faces New Claims of Sexual Harassment From Current Aide](https://www.reddit.com/r/news/comments/m8qx47/cuomo_faces_new_claims_of_sexual_harassment_from/)
 <!-- REDDIT:END -->
 
 
