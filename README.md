@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Policeman missing since the 2004 tsunami is believed to be found in psychiatric facility, over 16 years later](https://www.reddit.com/r/news/comments/m8yvqv/policeman_missing_since_the_2004_tsunami_is/)
+- [6-year-old girl shot to death by relative over spilled water, police say](https://www.reddit.com/r/news/comments/m8yri5/6yearold_girl_shot_to_death_by_relative_over/)
+- [Georgia church disowns suspect, says he betrayed faith](https://www.reddit.com/r/news/comments/m8xfa9/georgia_church_disowns_suspect_says_he_betrayed/)
+- [The number of women suing Deshaun Watson for alleged sexual assault grows to seven](https://www.reddit.com/r/news/comments/m8x3ad/the_number_of_women_suing_deshaun_watson_for/)
+- [Volcano erupts in Iceland near capital following weeks of seismic activity](https://www.reddit.com/r/news/comments/m8wzzj/volcano_erupts_in_iceland_near_capital_following/)
 <!-- REDDIT:END -->
 
 
