@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chicago Cubs prospect arrested with 21lbs of meth in team duffel bag](https://www.reddit.com/r/news/comments/m9j3rx/chicago_cubs_prospect_arrested_with_21lbs_of_meth/)
+- [16 missing children recovered by US marshals in the Philadelphia area](https://www.reddit.com/r/news/comments/m9i41q/16_missing_children_recovered_by_us_marshals_in/)
+- [Oakland street shut down by crowd protesting Asian hate crimes](https://www.reddit.com/r/news/comments/m9h6cz/oakland_street_shut_down_by_crowd_protesting/)
+- [Dave Brubaker, ex-Canadian women’s gymnastics coach, banned for life after internal probe](https://www.reddit.com/r/news/comments/m9g17o/dave_brubaker_excanadian_womens_gymnastics_coach/)
+- [A Virginia restaurant is giving away free meals, no questions asked](https://www.reddit.com/r/news/comments/m9g0m9/a_virginia_restaurant_is_giving_away_free_meals/)
 <!-- REDDIT:END -->
 
 
