@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Maryland Officers Deescalate Situation, Offer Compassion to Man in Behavioral Crisis](https://www.reddit.com/r/news/comments/ma7yrg/maryland_officers_deescalate_situation_offer/)
+- [Riots in Bristol, UK after protests against a new bill which seeks to limit protesters rights](https://www.reddit.com/r/news/comments/ma7n8n/riots_in_bristol_uk_after_protests_against_a_new/)
+- [Man stabs 12 year-old in the neck at a McDonalds in Pittsburg](https://www.reddit.com/r/news/comments/ma7erp/man_stabs_12_yearold_in_the_neck_at_a_mcdonalds/)
+- [Kent Taylor, Texas Roadhouse Founder and C.E.O., Dies at 65 | Mr. Taylor died by suicide after suffering from post-Covid-19 symptoms, including severe tinnitus, the company said.](https://www.reddit.com/r/news/comments/ma5079/kent_taylor_texas_roadhouse_founder_and_ceo_dies/)
+- [Evidence of UFOs to be revealed by national intelligence in 2021 US bill](https://www.reddit.com/r/news/comments/ma4dc8/evidence_of_ufos_to_be_revealed_by_national/)
 <!-- REDDIT:END -->
 
 
