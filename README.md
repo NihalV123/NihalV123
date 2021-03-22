@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Krispy Kreme will you give you a free doughnut every day this year — if you've been vaccinated](https://www.reddit.com/r/news/comments/mat122/krispy_kreme_will_you_give_you_a_free_doughnut/)
+- [YouTuber David Dobrik quits app after rape video claim](https://www.reddit.com/r/news/comments/mas3vd/youtuber_david_dobrik_quits_app_after_rape_video/)
+- [Drug dealer used drone to deliver heroin, police say](https://www.reddit.com/r/news/comments/marfw7/drug_dealer_used_drone_to_deliver_heroin_police/)
+- [Couple buys Riverside dream home, but seller refuses to move out in eviction moratorium loophole](https://www.reddit.com/r/news/comments/marecf/couple_buys_riverside_dream_home_but_seller/)
+- [New York makes complaint records of 83,000 police officers available to public](https://www.reddit.com/r/news/comments/mar14p/new_york_makes_complaint_records_of_83000_police/)
 <!-- REDDIT:END -->
 
 
