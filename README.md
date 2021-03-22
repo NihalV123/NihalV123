@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After Spa Attacks, Officers Handcuffed Victim’s Anguished Husband for Four Hours](https://www.reddit.com/r/news/comments/mafxhm/after_spa_attacks_officers_handcuffed_victims/)
+- [Philippine troops rescue Indonesian hostages and kill Abu Sayyaf leader](https://www.reddit.com/r/news/comments/maf25y/philippine_troops_rescue_indonesian_hostages_and/)
+- [DOJ official says there is evidence to charge sedition in U.S. Capitol assault: '60 Minutes'](https://www.reddit.com/r/news/comments/maf02k/doj_official_says_there_is_evidence_to_charge/)
+- [Japanese fisherman exposed to 1954 U.S. nuclear test dies of pneumonia at 87](https://www.reddit.com/r/news/comments/madqy3/japanese_fisherman_exposed_to_1954_us_nuclear/)
+- [Man dies after jumping off Panama City Beach hotel balcony with parachute, police say](https://www.reddit.com/r/news/comments/mad9rd/man_dies_after_jumping_off_panama_city_beach/)
 <!-- REDDIT:END -->
 
 
