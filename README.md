@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Global shortage in computer chips 'reaches crisis point'](https://www.reddit.com/r/news/comments/mbat2t/global_shortage_in_computer_chips_reaches_crisis/)
+- [Police: Man tackled 12-year-old, stabbed him in the neck at downtown McDonald’s – WPXI](https://www.reddit.com/r/news/comments/mb8yvz/police_man_tackled_12yearold_stabbed_him_in_the/)
+- [AstraZeneca may have provided incomplete efficacy data from latest COVID-19 trial: NIAID](https://www.reddit.com/r/news/comments/mb7jvn/astrazeneca_may_have_provided_incomplete_efficacy/)
+- [Judge rules Colorado cities unable to enact gun restrictions - March 18, 2021](https://www.reddit.com/r/news/comments/mb7jff/judge_rules_colorado_cities_unable_to_enact_gun/)
+- [Massachusetts DA seeks to vacate thousands of drug convictions connected to botched evidence certification at state lab](https://www.reddit.com/r/news/comments/mb5ep7/massachusetts_da_seeks_to_vacate_thousands_of/)
 <!-- REDDIT:END -->
 
 
