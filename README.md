@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ellen DeGeneres Loses 1 Million Viewers After Apologies for Toxic Workplace](https://www.reddit.com/r/news/comments/mazvmr/ellen_degeneres_loses_1_million_viewers_after/)
+- [For a third time, judge rejects bail for Ghislaine Maxwell](https://www.reddit.com/r/news/comments/mazciy/for_a_third_time_judge_rejects_bail_for_ghislaine/)
+- [Woman of Asian descent assaulted in NYC on her way to protest anti-Asian violence](https://www.reddit.com/r/news/comments/may4q2/woman_of_asian_descent_assaulted_in_nyc_on_her/)
+- [Active shooter reported at grocery store in Colorado: Boulder police](https://www.reddit.com/r/news/comments/may3gl/active_shooter_reported_at_grocery_store_in/)
+- [Arizona opens up COVID-19 vaccine eligibility to all adults - KTAR.com](https://www.reddit.com/r/news/comments/max9c9/arizona_opens_up_covid19_vaccine_eligibility_to/)
 <!-- REDDIT:END -->
 
 
