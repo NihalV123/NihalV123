@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Seven-year-old girl in Myanmar killed when the military shot into her home.](https://www.reddit.com/r/news/comments/mbhjuc/sevenyearold_girl_in_myanmar_killed_when_the/)
+- [Prince Harry joins $1bn Silicon Valley startup as senior executive](https://www.reddit.com/r/news/comments/mbg4rc/prince_harry_joins_1bn_silicon_valley_startup_as/)
+- [Tesla’s Autopilot Technology Faces Fresh Scrutiny | Federal regulators are investigating 23 recent accidents in which drivers were, or may have been, using the automatic steering and braking system.](https://www.reddit.com/r/news/comments/mbfd9i/teslas_autopilot_technology_faces_fresh_scrutiny/)
+- ['We knew he was getting closer': Boulder shooting survivor recounts how she and her son escaped](https://www.reddit.com/r/news/comments/mbe9bh/we_knew_he_was_getting_closer_boulder_shooting/)
+- [UN says 15 dead, 400 missing in fire at Rohingya camp in Bangladesh](https://www.reddit.com/r/news/comments/mbe953/un_says_15_dead_400_missing_in_fire_at_rohingya/)
 <!-- REDDIT:END -->
 
 
