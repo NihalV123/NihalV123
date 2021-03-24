@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Louisiana may owe abortion clinics' lawyers $8.6 million](https://www.reddit.com/r/news/comments/mbq5n1/louisiana_may_owe_abortion_clinics_lawyers_86/)
+- [Suez Canal blocked in both directions by mega container ship](https://www.reddit.com/r/news/comments/mbpgkn/suez_canal_blocked_in_both_directions_by_mega/)
+- [Oakland launches guaranteed pay plan for low-income people](https://www.reddit.com/r/news/comments/mbobae/oakland_launches_guaranteed_pay_plan_for/)
+- [A Banksy painting celebrating nurses as superheroes sells for a record-breaking $23M](https://www.reddit.com/r/news/comments/mbmxph/a_banksy_painting_celebrating_nurses_as/)
+- [Judge orders Capitol rioter and Nazi sympathizer to remain in jail while awaiting trial](https://www.reddit.com/r/news/comments/mbkpfy/judge_orders_capitol_rioter_and_nazi_sympathizer/)
 <!-- REDDIT:END -->
 
 
