@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [🔴 DevOps.js Conference Stream by GitNation // Day 1](https://www.youtube.com/watch?v=SmCvCjDnXMM)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-- [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
+- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
+- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
+- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -340,28 +340,28 @@ Top 4 most used languages across your repositories:
 ### INDIAN
 
 <!-- INDIAN:START -->
-- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 <!-- INDIAN:END -->
 
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Michigan Covid surge raises fears it’s an early sign of things to come across US | Michigan](https://www.reddit.com/r/news/comments/mc3rka/michigan_covid_surge_raises_fears_its_an_early/)
-- [Gang member sentenced for firebombing Black families’ homes](https://www.reddit.com/r/news/comments/mc2zto/gang_member_sentenced_for_firebombing_black/)
-- [NASA readies Ingenuity Mars helicopter for first flight above the red planet](https://www.reddit.com/r/news/comments/mc2cmt/nasa_readies_ingenuity_mars_helicopter_for_first/)
-- [Virginia to become 23rd US state to abolish death penalty after nearly 1,400 executions](https://www.reddit.com/r/news/comments/mc0jhv/virginia_to_become_23rd_us_state_to_abolish_death/)
-- [10 dogs found dead in trash bags in a North Carolina ditch](https://www.reddit.com/r/news/comments/mbyhwu/10_dogs_found_dead_in_trash_bags_in_a_north/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Monetize your Flutter Apps with Google Ads](https://blog.albertobonacina.com/monetize-your-flutter-apps-with-google-ads)
-- [Foldables and Flutter: very interesting Duo](https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo)
-- [Sound Null Safety: make better apps with Flutter!](https://blog.albertobonacina.com/sound-null-safety-make-better-apps-with-flutter)
-- [Flutter Engage Recap: what a wonderful future!!!](https://blog.albertobonacina.com/flutter-engage-recap-what-a-wonderful-future)
-- [Online resources to deal with images for FREE](https://blog.albertobonacina.com/online-resources-to-deal-with-images-for-free)
+- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
+- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
+- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
+- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
@@ -409,29 +409,27 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://blog.lsantos.dev/dotfiles-git/)
-- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://blog.lsantos.dev/kubernetes-affinity-taints-tolerations/)
-- [Dando permissões a usuários com Kubernetes](https://blog.lsantos.dev/dando-permissoes-a-usuarios-com-kubernetes/)
-- [Entendendo runtimes de containers](https://blog.lsantos.dev/entendendo-runtimes-de-containers/)
-- [Criando e gerenciando usuários no Kubernetes](https://blog.lsantos.dev/criando-e-gerenciando-usuarios-no-kubernetes/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 
 <!-- FCC:START -->
-- [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
-- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://dev.to/azure/gerencie-seus-dotfiles-de-qualquer-lugar-com-git-46db)
-- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://dev.to/azure/como-ter-controle-do-seu-cluster-kubernetes-com-affinity-e-tolerations-57od)
-- [Dando permissões a usuários com Kubernetes](https://dev.to/azure/dando-permissoes-a-usuarios-com-kubernetes-16pn)
-- [Entendendo runtimes de containers](https://dev.to/azure/entendendo-runtimes-de-containers-f1f)
-- [Criando e gerenciando usuários no Kubernetes](https://dev.to/azure/criando-e-gerenciando-usuarios-no-kubernetes-ege)
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -440,6 +438,7 @@ Top 4 most used languages across your repositories:
 - [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
 - [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
 - [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
+- [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
  ---
