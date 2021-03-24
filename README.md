@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Part of Wright brothers' 1st airplane on NASA's Mars chopper](https://www.reddit.com/r/news/comments/mbuxgu/part_of_wright_brothers_1st_airplane_on_nasas/)
+- [George Segal, Academy Award-nominated actor and 'Goldbergs' star, dies at 87](https://www.reddit.com/r/news/comments/mbumii/george_segal_academy_awardnominated_actor_and/)
+- [Car ramming at rally protesting anti-Asian hate being investigated as hate crime](https://www.reddit.com/r/news/comments/mbtxd1/car_ramming_at_rally_protesting_antiasian_hate/)
+- [Parents Protest Abrupt End to Chinese Language Program at Local Elementary School](https://www.reddit.com/r/news/comments/mbqsla/parents_protest_abrupt_end_to_chinese_language/)
+- [Louisiana may owe abortion clinics' lawyers $8.6 million](https://www.reddit.com/r/news/comments/mbq5n1/louisiana_may_owe_abortion_clinics_lawyers_86/)
 <!-- REDDIT:END -->
 
 
