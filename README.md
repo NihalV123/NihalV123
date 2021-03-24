@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elderly Asian woman who fought attacker donates nearly $1m from GoFundMe](https://www.reddit.com/r/news/comments/mcc0ot/elderly_asian_woman_who_fought_attacker_donates/)
+- [12 attorneys general call on Facebook and Twitter to remove anti-vaxxers from their services](https://www.reddit.com/r/news/comments/mcanko/12_attorneys_general_call_on_facebook_and_twitter/)
+- [Woman accuses husband of making bomb in Columbus basement overnight Tuesday, police say](https://www.reddit.com/r/news/comments/mcah7r/woman_accuses_husband_of_making_bomb_in_columbus/)
+- [Videos show ally of Marjorie Taylor Greene among mob inside Capitol during January 6 riot](https://www.reddit.com/r/news/comments/mc9q5v/videos_show_ally_of_marjorie_taylor_greene_among/)
+- [Britain to expand nuclear warhead stockpile by over 40% as global threats rise](https://www.reddit.com/r/news/comments/mc9kxa/britain_to_expand_nuclear_warhead_stockpile_by/)
 <!-- REDDIT:END -->
 
 
