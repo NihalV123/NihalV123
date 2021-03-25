@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tic Tac-Shaped Drones Swarmed Navy Destroyers. No One Knows Where They Came From.](https://www.reddit.com/r/news/comments/md2wwn/tic_tacshaped_drones_swarmed_navy_destroyers_no/)
+- [New York lawmakers reach a deal to legalize recreational marijuana, source says](https://www.reddit.com/r/news/comments/md1z0b/new_york_lawmakers_reach_a_deal_to_legalize/)
+- [Supreme Court says New Mexico woman can sue police over excessive force even though she escaped from officers](https://www.reddit.com/r/news/comments/md0gg3/supreme_court_says_new_mexico_woman_can_sue/)
+- [NFL player is credited with saving a 71 year old retired schoolteacher from a sexual assault](https://www.reddit.com/r/news/comments/mcy701/nfl_player_is_credited_with_saving_a_71_year_old/)
+- [Hospital official resigns after Covid-19 vaccines were improperly distributed at Trump Tower in Chicago](https://www.reddit.com/r/news/comments/mcy3o9/hospital_official_resigns_after_covid19_vaccines/)
 <!-- REDDIT:END -->
 
 
