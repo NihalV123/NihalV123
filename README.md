@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tesla ordered to have Elon Musk delete anti-union tweet](https://www.reddit.com/r/news/comments/mdalxa/tesla_ordered_to_have_elon_musk_delete_antiunion/)
+- [Los Angeles police clash with homeless activists as encampment is dismantled](https://www.reddit.com/r/news/comments/md8zou/los_angeles_police_clash_with_homeless_activists/)
+- [U.S. pledges to slash solar energy costs by 60% in a decade](https://www.reddit.com/r/news/comments/md8tvt/us_pledges_to_slash_solar_energy_costs_by_60_in_a/)
+- [California to open vaccinations to everyone 16 and older](https://www.reddit.com/r/news/comments/md8pr2/california_to_open_vaccinations_to_everyone_16/)
+- [Texas death toll from February storm, outages surpasses 100](https://www.reddit.com/r/news/comments/md84aq/texas_death_toll_from_february_storm_outages/)
 <!-- REDDIT:END -->
 
 
