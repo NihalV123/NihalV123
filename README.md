@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Farmer coaxes forest from the desert in Burkina Faso](https://www.reddit.com/r/news/comments/mdmfyz/farmer_coaxes_forest_from_the_desert_in_burkina/)
+- [Dominion Voting sues Fox for $1.6B over 2020 election claims](https://www.reddit.com/r/news/comments/mdmbm7/dominion_voting_sues_fox_for_16b_over_2020/)
+- [Suez blockage is holding up $9.6bn of goods a day](https://www.reddit.com/r/news/comments/mdkzp3/suez_blockage_is_holding_up_96bn_of_goods_a_day/)
+- [Grieving family of young girl shot dead by Myanmar's military forced into hiding](https://www.reddit.com/r/news/comments/mdipeu/grieving_family_of_young_girl_shot_dead_by/)
+- [Seattle police welfare check turns into ordeal as man, 74, is held at gunpoint in his own home](https://www.reddit.com/r/news/comments/mdg3uf/seattle_police_welfare_check_turns_into_ordeal_as/)
 <!-- REDDIT:END -->
 
 
