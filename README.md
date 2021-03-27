@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Several people reported shot in Virginia Beach](https://www.reddit.com/r/news/comments/me7qa9/several_people_reported_shot_in_virginia_beach/)
+- [Man arrested in 1979 killing after DNA match](https://www.reddit.com/r/news/comments/me5sr6/man_arrested_in_1979_killing_after_dna_match/)
+- [Royals blasted for 'entirely unneccessary' trip to Greece during pandemic](https://www.reddit.com/r/news/comments/me34st/royals_blasted_for_entirely_unneccessary_trip_to/)
+- [Forensic pathologist rules Andre Hill's death was a homicide caused by multiple gunshot wounds](https://www.reddit.com/r/news/comments/me2vbe/forensic_pathologist_rules_andre_hills_death_was/)
+- [Baltimore will no longer prosecute drug possession, prostitution, low-level crimes](https://www.reddit.com/r/news/comments/me09ve/baltimore_will_no_longer_prosecute_drug/)
 <!-- REDDIT:END -->
 
 
