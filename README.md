@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exclusive: Facebook freezes Venezuela president Maduro's page over COVID-19 misinformation](https://www.reddit.com/r/news/comments/meb7xc/exclusive_facebook_freezes_venezuela_president/)
+- [St. Louis police officers on trial for beating Black undercover detective during protest](https://www.reddit.com/r/news/comments/meb0h7/st_louis_police_officers_on_trial_for_beating/)
+- [Nearly 500 Charged With Coronavirus-Related Fraud In Past Year : NPR](https://www.reddit.com/r/news/comments/meajc0/nearly_500_charged_with_coronavirusrelated_fraud/)
+- [At least 50 protesters killed in Myanmar on 'day of shame for armed forces'](https://www.reddit.com/r/news/comments/mea7gz/at_least_50_protesters_killed_in_myanmar_on_day/)
+- [Lower your mask: Female restaurant workers face sexual harassment even during pandemic](https://www.reddit.com/r/news/comments/me7v1n/lower_your_mask_female_restaurant_workers_face/)
 <!-- REDDIT:END -->
 
 
