@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York on the verge of legalizing recreational cannabis](https://www.reddit.com/r/news/comments/meug50/new_york_on_the_verge_of_legalizing_recreational/)
+- ['Slap an Asian' challenge has San Francisco police, Muni on alert](https://www.reddit.com/r/news/comments/metrvh/slap_an_asian_challenge_has_san_francisco_police/)
+- [Woman dead, six hospitalized after ‘multiple’ people stabbed at North Vancouver library](https://www.reddit.com/r/news/comments/mes55f/woman_dead_six_hospitalized_after_multiple_people/)
+- [Images From a ‘Day of Shame’ in Myanmar, With Scores Shot Dead](https://www.reddit.com/r/news/comments/merl38/images_from_a_day_of_shame_in_myanmar_with_scores/)
+- [Tennessee Becomes 3rd State This Month To Enact Restrictions For Transgender Athletes](https://www.reddit.com/r/news/comments/merj9g/tennessee_becomes_3rd_state_this_month_to_enact/)
 <!-- REDDIT:END -->
 
 
