@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gov. Cuomo, NY Lawmakers Reach Deal To Legalize Marijuana For Adult, Recreational Use](https://www.reddit.com/r/news/comments/mf5ugw/gov_cuomo_ny_lawmakers_reach_deal_to_legalize/)
+- [At least 20 livestock ships caught in Suez canal logjam](https://www.reddit.com/r/news/comments/mf585s/at_least_20_livestock_ships_caught_in_suez_canal/)
+- [San Diego Comic-Con sets sights on Thanksgiving weekend, sparking backlash from fans and talent](https://www.reddit.com/r/news/comments/mf4s1s/san_diego_comiccon_sets_sights_on_thanksgiving/)
+- [Myanmar army air raids on Karen force 3,000 to flee for Thailand](https://www.reddit.com/r/news/comments/mf3ogh/myanmar_army_air_raids_on_karen_force_3000_to/)
+- [The lawyer who took on Chevron – and now marks his 600th day under house arrest](https://www.reddit.com/r/news/comments/mf3k3k/the_lawyer_who_took_on_chevron_and_now_marks_his/)
 <!-- REDDIT:END -->
 
 
