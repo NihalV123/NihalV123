@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Biden administration makes a swath of ocean between New York and New Jersey an offshore wind zone.](https://www.reddit.com/r/news/comments/mfu8de/the_biden_administration_makes_a_swath_of_ocean/)
+- [Galápagos tortoises: 185 babies seized from smugglers](https://www.reddit.com/r/news/comments/mftpkn/galápagos_tortoises_185_babies_seized_from/)
+- [California teacher goes on racist rant against Black student, caught on Zoom hot mic](https://www.reddit.com/r/news/comments/mftg0n/california_teacher_goes_on_racist_rant_against/)
+- [Pfizer, Moderna vaccines reduce COVID-19 infection risk by 90% after second dose: U.S. study](https://www.reddit.com/r/news/comments/mftet6/pfizer_moderna_vaccines_reduce_covid19_infection/)
+- [US suspends all trade with Myanmar after weekend of violence against pro-democracy protesters](https://www.reddit.com/r/news/comments/mfrzgo/us_suspends_all_trade_with_myanmar_after_weekend/)
 <!-- REDDIT:END -->
 
 
