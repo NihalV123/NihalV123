@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York bar infamous for defying COVID-19 lockdown laws padlocked by sheriff's deputies](https://www.reddit.com/r/news/comments/mfn4e2/new_york_bar_infamous_for_defying_covid19/)
+- [Coronavirus: London has zero Covid-19 deaths on one day for first time in six months](https://www.reddit.com/r/news/comments/mfmibm/coronavirus_london_has_zero_covid19_deaths_on_one/)
+- [Petr Kellner: Billionaire and Czech Republic's richest man killed in helicopter crash during Alaska ski trip](https://www.reddit.com/r/news/comments/mfl6fk/petr_kellner_billionaire_and_czech_republics/)
+- [Obama family matriarch has died in a Kenyan hospital at 99](https://www.reddit.com/r/news/comments/mfkwdm/obama_family_matriarch_has_died_in_a_kenyan/)
+- [Credit Suisse exits positions with a U.S. hedge fund, warns of 'significant' losses](https://www.reddit.com/r/news/comments/mfifqb/credit_suisse_exits_positions_with_a_us_hedge/)
 <!-- REDDIT:END -->
 
 
