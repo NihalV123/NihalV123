@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A teen girl abducted by a registered sex offender in Texas is in 'extreme danger,' sheriff's office says](https://www.reddit.com/r/news/comments/mfdr3k/a_teen_girl_abducted_by_a_registered_sex_offender/)
+- [Nike denies involvement with Lil Nas X 'Satan Shoes' containing human blood](https://www.reddit.com/r/news/comments/mfd4iu/nike_denies_involvement_with_lil_nas_x_satan/)
+- [Florida mom with boxing glove superglued to hand fights girl at daughter’s school](https://www.reddit.com/r/news/comments/mfcu8v/florida_mom_with_boxing_glove_superglued_to_hand/)
+- [Doctors warn Paris ICUs could be overwhelmed by Covid-19 surge](https://www.reddit.com/r/news/comments/mfbpyx/doctors_warn_paris_icus_could_be_overwhelmed_by/)
+- [Mexico revises coronavirus death toll up by 60%](https://www.reddit.com/r/news/comments/mfbh1r/mexico_revises_coronavirus_death_toll_up_by_60/)
 <!-- REDDIT:END -->
 
 
