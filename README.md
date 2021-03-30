@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia voting law leads to calls for some sports events to be moved or canceled](https://www.reddit.com/r/news/comments/mg1wma/georgia_voting_law_leads_to_calls_for_some_sports/)
+- [CDC chief warns U.S. headed for 'impending doom' as Covid cases rise again: 'Right now I'm scared'](https://www.reddit.com/r/news/comments/mg1fg6/cdc_chief_warns_us_headed_for_impending_doom_as/)
+- [Ghislaine Maxwell Charged With Sex Trafficking of 14-Year-Old Girl](https://www.reddit.com/r/news/comments/mfzs1k/ghislaine_maxwell_charged_with_sex_trafficking_of/)
+- [Jeffrey Epstein friend Ghislaine Maxwell faces new charges in sex crimes case](https://www.reddit.com/r/news/comments/mfyrbi/jeffrey_epstein_friend_ghislaine_maxwell_faces/)
+- [Another hate crime targeting Asians in Seattle; suspect arrested](https://www.reddit.com/r/news/comments/mfy342/another_hate_crime_targeting_asians_in_seattle/)
 <!-- REDDIT:END -->
 
 
