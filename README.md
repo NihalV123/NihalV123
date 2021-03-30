@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Asian woman in NYC, 65, knocked down, repeatedly kicked as witnesses appear to watch](https://www.reddit.com/r/news/comments/mglpk3/asian_woman_in_nyc_65_knocked_down_repeatedly/)
+- [THE INVESTIGATORS: DA drops 640 drug cases tied to potential corruption within BRPD narcotic division](https://www.reddit.com/r/news/comments/mgk2fy/the_investigators_da_drops_640_drug_cases_tied_to/)
+- ['Fake' Amazon workers defend company on Twitter](https://www.reddit.com/r/news/comments/mgj2z3/fake_amazon_workers_defend_company_on_twitter/)
+- [New Orleans man freed after accuser says he fabricated robbery: 'I have been tortured by the lie I told'](https://www.reddit.com/r/news/comments/mgil8p/new_orleans_man_freed_after_accuser_says_he/)
+- [Child tweets gibberish from US nuclear-agency account](https://www.reddit.com/r/news/comments/mgi0di/child_tweets_gibberish_from_us_nuclearagency/)
 <!-- REDDIT:END -->
 
 
