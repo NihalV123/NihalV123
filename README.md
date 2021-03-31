@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York legalizes recreational marijuana, expunges former pot convictions](https://www.reddit.com/r/news/comments/mgwh7p/new_york_legalizes_recreational_marijuana/)
+- [Matt Gaetz reportedly under DOJ investigation for possible sex trafficking of 17-year-old; he says he's being extorted](https://www.reddit.com/r/news/comments/mgubb3/matt_gaetz_reportedly_under_doj_investigation_for/)
+- [G. Gordon Liddy, Watergate mastermind, dead at 90](https://www.reddit.com/r/news/comments/mgu954/g_gordon_liddy_watergate_mastermind_dead_at_90/)
+- [Tanzania police confirm 45 people died in stadium crush](https://www.reddit.com/r/news/comments/mgteq5/tanzania_police_confirm_45_people_died_in_stadium/)
+- [California Couple Can’t Move Into New Home Because Previous Owner Refuses to Move Out](https://www.reddit.com/r/news/comments/mgt7el/california_couple_cant_move_into_new_home_because/)
 <!-- REDDIT:END -->
 
 
