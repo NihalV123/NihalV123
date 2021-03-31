@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who killed his mom in 2002 arrested in NYC attack on 65-year-old Asian woman](https://www.reddit.com/r/news/comments/mh474m/man_who_killed_his_mom_in_2002_arrested_in_nyc/)
+- [Pfizer says Covid vaccine 100 percent effective in children ages 12 to 15](https://www.reddit.com/r/news/comments/mh3qun/pfizer_says_covid_vaccine_100_percent_effective/)
+- [Man who killed his mother arrested in brutal attack on Asian woman in NYC](https://www.reddit.com/r/news/comments/mh3ft5/man_who_killed_his_mother_arrested_in_brutal/)
+- [Firefighter blocked from helping Floyd returns to stand](https://www.reddit.com/r/news/comments/mh2o6s/firefighter_blocked_from_helping_floyd_returns_to/)
+- [Elderly Asian woman's attacker arrested for 'very disturbing' hate crime](https://www.reddit.com/r/news/comments/mh2hto/elderly_asian_womans_attacker_arrested_for_very/)
 <!-- REDDIT:END -->
 
 
