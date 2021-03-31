@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Truck carrying radioactive uranium compound crashes, closing I-95 in Cumberland County, authorities say](https://www.reddit.com/r/news/comments/mhb0v8/truck_carrying_radioactive_uranium_compound/)
+- [No convictions for three St. Louis officers accused of beating undercover detective](https://www.reddit.com/r/news/comments/mhai8s/no_convictions_for_three_st_louis_officers/)
+- [14 countries and WHO chief accuse China of withholding data from coronavirus investigation](https://www.reddit.com/r/news/comments/mhae9g/14_countries_and_who_chief_accuse_china_of/)
+- [Authorities: Woman punches, knocks man to ground after he tried to choke girlfriend at bowling alley](https://www.reddit.com/r/news/comments/mh8p17/authorities_woman_punches_knocks_man_to_ground/)
+- [Covid-19 was third leading cause of death last year, CDC confirms in early data](https://www.reddit.com/r/news/comments/mh8nrl/covid19_was_third_leading_cause_of_death_last/)
 <!-- REDDIT:END -->
 
 
