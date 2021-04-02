@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect in custody after car rams two officers at U.S. Capitol complex; one person reportedly shot](https://www.reddit.com/r/news/comments/miphyr/suspect_in_custody_after_car_rams_two_officers_at/)
+- [US Capitol Is on Lockdown Over an 'External Security Threat'](https://www.reddit.com/r/news/comments/miozjy/us_capitol_is_on_lockdown_over_an_external/)
+- [Russian 'troop build-up' near Ukraine alarms Nato](https://www.reddit.com/r/news/comments/mio4wn/russian_troop_buildup_near_ukraine_alarms_nato/)
+- [Biden lets Trump's H-1B visa ban expire](https://www.reddit.com/r/news/comments/minp30/biden_lets_trumps_h1b_visa_ban_expire/)
+- [Suspect in mass shooting at Orange, California, business complex knew the victims, police say](https://www.reddit.com/r/news/comments/min898/suspect_in_mass_shooting_at_orange_california/)
 <!-- REDDIT:END -->
 
 
