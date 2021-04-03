@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rapper DMX Is Hospitalized and in Critical Care After Suffering an Overdose](https://www.reddit.com/r/news/comments/mjdaod/rapper_dmx_is_hospitalized_and_in_critical_care/)
+- [Veterinarians face increased risk of suicide amid pandemic: Reports](https://www.reddit.com/r/news/comments/mjbr2i/veterinarians_face_increased_risk_of_suicide_amid/)
+- [Virginia becomes 12th state to ban gay/trans panic defense](https://www.reddit.com/r/news/comments/mjbq9t/virginia_becomes_12th_state_to_ban_gaytrans_panic/)
+- [Young couple mistakenly vandalizes $440,000 painting in South Korea](https://www.reddit.com/r/news/comments/mjbpo1/young_couple_mistakenly_vandalizes_440000/)
+- [A mom just reunited with her 10-year-old daughter in Texas after six years apart. Their journey isn't over](https://www.reddit.com/r/news/comments/mjb96w/a_mom_just_reunited_with_her_10yearold_daughter/)
 <!-- REDDIT:END -->
 
 
