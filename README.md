@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Housing advocates say evictions are continuing at 'full steam,' despite a federal ban](https://www.reddit.com/r/news/comments/mj6en8/housing_advocates_say_evictions_are_continuing_at/)
+- [Amazon offers rare apology, says it will look for solutions to drivers peeing in bottles](https://www.reddit.com/r/news/comments/mj4t0z/amazon_offers_rare_apology_says_it_will_look_for/)
+- [A juvenile has been arrested following a videotaped attack against an Asian couple in Tacoma, Washington](https://www.reddit.com/r/news/comments/mj37hm/a_juvenile_has_been_arrested_following_a/)
+- [US, Japan, South Korea pledge co-operation in dealing with North Korea](https://www.reddit.com/r/news/comments/mj0gz6/us_japan_south_korea_pledge_cooperation_in/)
+- [Dinosaur-killing asteroid strike gave rise to Amazon rainforest](https://www.reddit.com/r/news/comments/mizj3z/dinosaurkilling_asteroid_strike_gave_rise_to/)
 <!-- REDDIT:END -->
 
 
