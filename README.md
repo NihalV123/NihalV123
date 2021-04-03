@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US, Japan, South Korea pledge co-operation in dealing with North Korea](https://www.reddit.com/r/news/comments/mj0gz6/us_japan_south_korea_pledge_cooperation_in/)
+- [Dinosaur-killing asteroid strike gave rise to Amazon rainforest](https://www.reddit.com/r/news/comments/mizj3z/dinosaurkilling_asteroid_strike_gave_rise_to/)
+- [Woman gives birth to "super twins" conceived three weeks apart](https://www.reddit.com/r/news/comments/miyvyu/woman_gives_birth_to_super_twins_conceived_three/)
+- [100 Million Americans Have Received At Least 1 Vaccine Dose](https://www.reddit.com/r/news/comments/miysqw/100_million_americans_have_received_at_least_1/)
+- [Rallies planned across Britain against new protest law](https://www.reddit.com/r/news/comments/mixbxn/rallies_planned_across_britain_against_new/)
 <!-- REDDIT:END -->
 
 
