@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['We found a baby on the subway - now he's our son'](https://www.reddit.com/r/news/comments/mjuvt5/we_found_a_baby_on_the_subway_now_hes_our_son/)
+- [Man found bludgeoned to death in Niagara Falls is identified](https://www.reddit.com/r/news/comments/mju0nj/man_found_bludgeoned_to_death_in_niagara_falls_is/)
+- [Asian Woman Stabbing Death in Riverside Deemed as ‘Random' Attack by Police](https://www.reddit.com/r/news/comments/mjt5s5/asian_woman_stabbing_death_in_riverside_deemed_as/)
+- [7-year-old Oakland girl's message to robbers who tied up parents, stole family's life savings](https://www.reddit.com/r/news/comments/mjt4ho/7yearold_oakland_girls_message_to_robbers_who/)
+- [U.S. puts J&J in charge of plant that botched COVID vaccine, removes AstraZeneca](https://www.reddit.com/r/news/comments/mjqr6d/us_puts_jj_in_charge_of_plant_that_botched_covid/)
 <!-- REDDIT:END -->
 
 
