@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The doctor who pronounced George Floyd dead says a lack of oxygen was the likely cause.](https://www.reddit.com/r/news/comments/mkolwd/the_doctor_who_pronounced_george_floyd_dead_says/)
+- [Mysterious rumblings from inside of Mars detected by NASA lander](https://www.reddit.com/r/news/comments/mkohmx/mysterious_rumblings_from_inside_of_mars_detected/)
+- [High court nixes Alex Jones' appeal in Newtown shooting case](https://www.reddit.com/r/news/comments/mknera/high_court_nixes_alex_jones_appeal_in_newtown/)
+- [Wisconsin woman sentenced to jail after dragging a puppy to its death](https://www.reddit.com/r/news/comments/mkn073/wisconsin_woman_sentenced_to_jail_after_dragging/)
+- [U.S. Supreme Court sides with Google in major copyright dispute with Oracle](https://www.reddit.com/r/news/comments/mkmji8/us_supreme_court_sides_with_google_in_major/)
 <!-- REDDIT:END -->
 
 
