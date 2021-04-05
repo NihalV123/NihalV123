@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dow futures jump 200 points in overnight trading after blowout jobs report](https://www.reddit.com/r/news/comments/mk62bo/dow_futures_jump_200_points_in_overnight_trading/)
+- [Suspect handcuffed from behind steals trooper's patrol car, leads police on 50-mile high-speed chase](https://www.reddit.com/r/news/comments/mk4ngb/suspect_handcuffed_from_behind_steals_troopers/)
+- [Texas teacher faces backlash over 'unfathomable' Derek Chauvin mock-trial lesson](https://www.reddit.com/r/news/comments/mk4gvu/texas_teacher_faces_backlash_over_unfathomable/)
+- [Gunman fired 6 shots at Utah 7-Eleven clerk — and missed, police say](https://www.reddit.com/r/news/comments/mk3yz8/gunman_fired_6_shots_at_utah_7eleven_clerk_and/)
+- [Met police criticised for arrest of two observers at 'kill the bill' protest](https://www.reddit.com/r/news/comments/mk2t3n/met_police_criticised_for_arrest_of_two_observers/)
 <!-- REDDIT:END -->
 
 
