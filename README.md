@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan just recorded its earliest cherry blossom bloom in 1,200 years. Scientists warn it's a symptom of the larger climate crisis.](https://www.reddit.com/r/news/comments/mkdgm3/japan_just_recorded_its_earliest_cherry_blossom/)
+- [Texarkana TX Man Dives Into Dam Spillway To Save Crash Victim](https://www.reddit.com/r/news/comments/mkcs6y/texarkana_tx_man_dives_into_dam_spillway_to_save/)
+- [LG Electronics says it will end production and sales of its loss-making smartphone division](https://www.reddit.com/r/news/comments/mkaibo/lg_electronics_says_it_will_end_production_and/)
+- [EU sounds alarm at Russian troops' Ukraine border moves](https://www.reddit.com/r/news/comments/mk9rre/eu_sounds_alarm_at_russian_troops_ukraine_border/)
+- [Benjamin Netanyahu corruption trial to hear first witnesses](https://www.reddit.com/r/news/comments/mk8oma/benjamin_netanyahu_corruption_trial_to_hear_first/)
 <!-- REDDIT:END -->
 
 
