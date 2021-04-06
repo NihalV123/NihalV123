@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan university first in nation to offer cannabis chemistry scholarship](https://www.reddit.com/r/news/comments/ml2pc4/michigan_university_first_in_nation_to_offer/)
+- [AP source: MLB moving All-Star Game to Denver's Coors Field](https://www.reddit.com/r/news/comments/ml2fo3/ap_source_mlb_moving_allstar_game_to_denvers/)
+- [Filmmaker says he potentially uncovered man behind QAnon](https://www.reddit.com/r/news/comments/ml1umt/filmmaker_says_he_potentially_uncovered_man/)
+- [Local bar opening in rural Illinois was tied to at least 46 new Covid cases, CDC says](https://www.reddit.com/r/news/comments/ml0k30/local_bar_opening_in_rural_illinois_was_tied_to/)
+- [Texas Rangers sell over 38,000 tickets to home opener, marking one of the first full-capacity sporting events in a year](https://www.reddit.com/r/news/comments/mkyzzq/texas_rangers_sell_over_38000_tickets_to_home/)
 <!-- REDDIT:END -->
 
 
