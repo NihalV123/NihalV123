@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Riverside family finally moves into dream home after 15-month standoff with squatter](https://www.reddit.com/r/news/comments/mkxyv2/riverside_family_finally_moves_into_dream_home/)
+- [Nearly 40,000 fans sit side-by-side at Texas Rangers home opener](https://www.reddit.com/r/news/comments/mkwrcp/nearly_40000_fans_sit_sidebyside_at_texas_rangers/)
+- [Officials: 2nd breach concern in Florida phosphate reservoir](https://www.reddit.com/r/news/comments/mkuse3/officials_2nd_breach_concern_in_florida_phosphate/)
+- [Proud Boys member, brother held without bond for alleged Capitol riot involvement](https://www.reddit.com/r/news/comments/mkupgv/proud_boys_member_brother_held_without_bond_for/)
+- [Police chief: Kneeling on Floyd's neck violated policy](https://www.reddit.com/r/news/comments/mkulg3/police_chief_kneeling_on_floyds_neck_violated/)
 <!-- REDDIT:END -->
 
 
