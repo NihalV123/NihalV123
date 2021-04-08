@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Mexico Governor Signs Historic Legislation to End Qualified Immunity](https://www.reddit.com/r/news/comments/mmdtpy/new_mexico_governor_signs_historic_legislation_to/)
+- [Capitol riot defendant flips to help prosecutors against Proud Boys](https://www.reddit.com/r/news/comments/mmd3hm/capitol_riot_defendant_flips_to_help_prosecutors/)
+- [The Latest: Florida gov receives vaccine out of public eye](https://www.reddit.com/r/news/comments/mmcj6u/the_latest_florida_gov_receives_vaccine_out_of/)
+- [US teen saves boy’s life more than 800 miles away after seeing crash on TikTok](https://www.reddit.com/r/news/comments/mmalrc/us_teen_saves_boys_life_more_than_800_miles_away/)
+- [2 dead after off-duty Pentagon officer fires at suspects in Takoma Park](https://www.reddit.com/r/news/comments/mmae18/2_dead_after_offduty_pentagon_officer_fires_at/)
 <!-- REDDIT:END -->
 
 
