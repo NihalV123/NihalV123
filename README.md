@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI, Lake County Bomb Squad at Perry Nuclear Power Plant for ‘ongoing law enforcement situation’](https://www.reddit.com/r/news/comments/mmi38g/fbi_lake_county_bomb_squad_at_perry_nuclear_power/)
+- [Entire Morning Bull radio staff at 97 Rock fired following racist incident on show](https://www.reddit.com/r/news/comments/mmgsb8/entire_morning_bull_radio_staff_at_97_rock_fired/)
+- [Home inspector caught on nanny cam pleasuring himself with Elmo doll faces charges](https://www.reddit.com/r/news/comments/mmg9gc/home_inspector_caught_on_nanny_cam_pleasuring/)
+- [Jeff Bezos comes out in support of increased corporate taxes](https://www.reddit.com/r/news/comments/mmg5b9/jeff_bezos_comes_out_in_support_of_increased/)
+- [Michigan ranks highest in COVID-19 hospitalizations amid surge as model predicts further worsening](https://www.reddit.com/r/news/comments/mmef97/michigan_ranks_highest_in_covid19/)
 <!-- REDDIT:END -->
 
 
