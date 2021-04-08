@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One in 4 U.S. adults is now fully vaccinated](https://www.reddit.com/r/news/comments/mmpvr4/one_in_4_us_adults_is_now_fully_vaccinated/)
+- [Local doctor and two children are among 5 killed in South Carolina mass shooting, authorities say](https://www.reddit.com/r/news/comments/mmppo9/local_doctor_and_two_children_are_among_5_killed/)
+- [Exclusive: Robinhood failed to disclose certain trade executions to public feed](https://www.reddit.com/r/news/comments/mml7h1/exclusive_robinhood_failed_to_disclose_certain/)
+- [Navalny: Jailed Putin critic "losing sensation in legs and hands"](https://www.reddit.com/r/news/comments/mmk9be/navalny_jailed_putin_critic_losing_sensation_in/)
+- [Hong Kong democracy activist Nathan Law granted political asylum by Britain](https://www.reddit.com/r/news/comments/mmizd8/hong_kong_democracy_activist_nathan_law_granted/)
 <!-- REDDIT:END -->
 
 
