@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.reddit.com/r/news/comments/mo8x2w/facebook_had_years_to_fix_the_flaw_that_leaked/)
+- [Navajo Nation calls on restoration of Bears Ears National Monument during Deb Haaland visit to Utah](https://www.reddit.com/r/news/comments/mo8jok/navajo_nation_calls_on_restoration_of_bears_ears/)
+- [Nuclear Regulatory Commission fines Florida Power and Light over falsified maintenance records at Turkey Point nuclear site](https://www.reddit.com/r/news/comments/mo88mx/nuclear_regulatory_commission_fines_florida_power/)
+- [26-year-old Minnesota man arrested in connection with US Capitol attack](https://www.reddit.com/r/news/comments/mo83uc/26yearold_minnesota_man_arrested_in_connection/)
+- [6 hurt in Fort Worth, Texas, freeway shooting](https://www.reddit.com/r/news/comments/mo7nqa/6_hurt_in_fort_worth_texas_freeway_shooting/)
 <!-- REDDIT:END -->
 
 
