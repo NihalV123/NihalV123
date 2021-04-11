@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-- [Top VS Code Updates | v1.55 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=rXPmjkaTA9A)
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
+- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
+- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
+- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -340,28 +340,28 @@ Top 4 most used languages across your repositories:
 ### INDIAN
 
 <!-- INDIAN:START -->
-- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 <!-- INDIAN:END -->
 
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data](https://www.reddit.com/r/news/comments/mo8x2w/facebook_had_years_to_fix_the_flaw_that_leaked/)
-- [Navajo Nation calls on restoration of Bears Ears National Monument during Deb Haaland visit to Utah](https://www.reddit.com/r/news/comments/mo8jok/navajo_nation_calls_on_restoration_of_bears_ears/)
-- [Nuclear Regulatory Commission fines Florida Power and Light over falsified maintenance records at Turkey Point nuclear site](https://www.reddit.com/r/news/comments/mo88mx/nuclear_regulatory_commission_fines_florida_power/)
-- [26-year-old Minnesota man arrested in connection with US Capitol attack](https://www.reddit.com/r/news/comments/mo83uc/26yearold_minnesota_man_arrested_in_connection/)
-- [6 hurt in Fort Worth, Texas, freeway shooting](https://www.reddit.com/r/news/comments/mo7nqa/6_hurt_in_fort_worth_texas_freeway_shooting/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Flutter Web & Desktop: two platforms, endless possibilities](https://blog.albertobonacina.com/flutter-web-and-desktop-two-platforms-endless-possibilities)
-- [Become a better designer by developing Flutter Apps](https://blog.albertobonacina.com/become-a-better-designer-by-developing-flutter-apps)
-- [Monetize your Flutter Apps with Google Ads](https://blog.albertobonacina.com/monetize-your-flutter-apps-with-google-ads)
-- [Foldables and Flutter: very interesting Duo](https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo)
-- [Sound Null Safety: make better apps with Flutter!](https://blog.albertobonacina.com/sound-null-safety-make-better-apps-with-flutter)
+- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
+- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
+- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
+- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
@@ -409,29 +409,27 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Integrando o Azure Active Directory no AKS](https://blog.lsantos.dev/azure-ad-aks/)
-- [Armazenando seus Helm Charts no Azure Container Registry](https://blog.lsantos.dev/armazenando-seus-helm-charts-no-azure-container-registry/)
-- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://blog.lsantos.dev/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker/)
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://blog.lsantos.dev/dotfiles-git/)
-- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://blog.lsantos.dev/kubernetes-affinity-taints-tolerations/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 
 <!-- FCC:START -->
-- [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
-- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Gerencie seus dotfiles de qualquer lugar com Git](https://dev.to/azure/gerencie-seus-dotfiles-de-qualquer-lugar-com-git-46db)
-- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://dev.to/azure/como-ter-controle-do-seu-cluster-kubernetes-com-affinity-e-tolerations-57od)
-- [Dando permissões a usuários com Kubernetes](https://dev.to/azure/dando-permissoes-a-usuarios-com-kubernetes-16pn)
-- [Entendendo runtimes de containers](https://dev.to/azure/entendendo-runtimes-de-containers-f1f)
-- [Criando e gerenciando usuários no Kubernetes](https://dev.to/azure/criando-e-gerenciando-usuarios-no-kubernetes-ege)
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -440,6 +438,7 @@ Top 4 most used languages across your repositories:
 - [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
 - [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
 - [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
+- [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
  ---
