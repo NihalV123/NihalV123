@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 children, each under age 5, found stabbed to death in Reseda; mother arrested in Central California](https://www.reddit.com/r/news/comments/mop6h5/3_children_each_under_age_5_found_stabbed_to/)
+- [Thousands of low-level U.S. inmates released in pandemic could be headed back to prison](https://www.reddit.com/r/news/comments/mop5gz/thousands_of_lowlevel_us_inmates_released_in/)
+- [Saudi crown prince pressed France to lie about fake painting he purchased](https://www.reddit.com/r/news/comments/moowqh/saudi_crown_prince_pressed_france_to_lie_about/)
+- [China launches hotline for netizens to report 'illegal' history comments](https://www.reddit.com/r/news/comments/mooam1/china_launches_hotline_for_netizens_to_report/)
+- [Chinese COVID vaccines have low efficacy rates, official says](https://www.reddit.com/r/news/comments/monmm4/chinese_covid_vaccines_have_low_efficacy_rates/)
 <!-- REDDIT:END -->
 
 
