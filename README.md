@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Greene County prosecutor files murder charge against man in shooting death of transgender woman in Springfield](https://www.reddit.com/r/news/comments/mojh5k/greene_county_prosecutor_files_murder_charge/)
+- [Brooklyn man arrested after alleged involvement in three anti-Asian hate crime incidents within a month](https://www.reddit.com/r/news/comments/moj6bj/brooklyn_man_arrested_after_alleged_involvement/)
+- [University expels fraternity after student's alcohol-related hazing death](https://www.reddit.com/r/news/comments/moj1v7/university_expels_fraternity_after_students/)
+- [Agromining: Farming of metal-extracting trees and plants could replace mining](https://www.reddit.com/r/news/comments/moiw4o/agromining_farming_of_metalextracting_trees_and/)
+- [St. Vincent Volcano: Only those vaccinated for COVID-19 can evacuate - PM](https://www.reddit.com/r/news/comments/moiksx/st_vincent_volcano_only_those_vaccinated_for/)
 <!-- REDDIT:END -->
 
 
