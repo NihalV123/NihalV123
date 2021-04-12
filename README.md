@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser](https://www.reddit.com/r/news/comments/mpiml7/minnesota_police_chief_says_officer_who_fired/)
+- [Cardiologist on George Floyd: Repositioning him would've saved his life](https://www.reddit.com/r/news/comments/mpi070/cardiologist_on_george_floyd_repositioning_him/)
+- [New Mexico governor set to sign recreational marijuana bill](https://www.reddit.com/r/news/comments/mphznh/new_mexico_governor_set_to_sign_recreational/)
+- [Uber CEO says company could get into cannabis delivery](https://www.reddit.com/r/news/comments/mphqtd/uber_ceo_says_company_could_get_into_cannabis/)
+- [Police: Man who couldn’t get toppings on side pointed gun at Domino’s workers, threw pizza at them](https://www.reddit.com/r/news/comments/mphlo3/police_man_who_couldnt_get_toppings_on_side/)
 <!-- REDDIT:END -->
 
 
