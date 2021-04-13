@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Calls for Pause on Johnson & Johnson Vaccine After Clotting Cases](https://www.reddit.com/r/news/comments/mpzye6/us_calls_for_pause_on_johnson_johnson_vaccine/)
+- [Adani Ports to be removed from S&P index due to business links with Myanmar military](https://www.reddit.com/r/news/comments/mpye0c/adani_ports_to_be_removed_from_sp_index_due_to/)
+- [Officer who fatally shot Daunte Wright can’t be charged with a crime under Minnesota law, attorney says](https://www.reddit.com/r/news/comments/mpxxhp/officer_who_fatally_shot_daunte_wright_cant_be/)
+- [3 women shot in D.C., 2 fatally, apartment set on fire with baby inside, police say](https://www.reddit.com/r/news/comments/mpvt9r/3_women_shot_in_dc_2_fatally_apartment_set_on/)
+- [Minneapolis under curfew following protests against police killing of 20-year-old black man](https://www.reddit.com/r/news/comments/mpvg7p/minneapolis_under_curfew_following_protests/)
 <!-- REDDIT:END -->
 
 
