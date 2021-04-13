@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman arrested in connection with multiple explosive devices planted across Trinidad Colorado](https://www.reddit.com/r/news/comments/mpp5wp/woman_arrested_in_connection_with_multiple/)
+- [Virginia AG wants police records after Army officer stopped](https://www.reddit.com/r/news/comments/mpp0af/virginia_ag_wants_police_records_after_army/)
+- [NCAA backs transgender athletes, says events to be in places 'free of discrimination'](https://www.reddit.com/r/news/comments/mpotmz/ncaa_backs_transgender_athletes_says_events_to_be/)
+- [Shooting at Knoxville, Tennessee, high school leaves several injured, including police officer](https://www.reddit.com/r/news/comments/mpo12s/shooting_at_knoxville_tennessee_high_school/)
+- ['Skilled predator' FBI boss harassed 8 women, watchdog finds](https://www.reddit.com/r/news/comments/mpmkya/skilled_predator_fbi_boss_harassed_8_women/)
 <!-- REDDIT:END -->
 
 
