@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Officer in Daunte Wright shooting submits resignation](https://www.reddit.com/r/news/comments/mq72g0/officer_in_daunte_wright_shooting_submits/)
+- [Poll: 15% of Americans worse off a year into pandemic](https://www.reddit.com/r/news/comments/mq6msz/poll_15_of_americans_worse_off_a_year_into/)
+- [Wellington man convicted of rape after 'stealthing' - removing the condom during sex - NZ Herald](https://www.reddit.com/r/news/comments/mq5xhp/wellington_man_convicted_of_rape_after_stealthing/)
+- [Russia calls U.S. "adversary", rejects NATO call to end Ukraine build-up](https://www.reddit.com/r/news/comments/mq5gqm/russia_calls_us_adversary_rejects_nato_call_to/)
+- [Judge holds town in contempt over failure to return seized cash](https://www.reddit.com/r/news/comments/mq5fba/judge_holds_town_in_contempt_over_failure_to/)
 <!-- REDDIT:END -->
 
 
