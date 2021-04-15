@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pfizer CEO says third Covid vaccine dose likely needed within 12 months](https://www.reddit.com/r/news/comments/mrjk3q/pfizer_ceo_says_third_covid_vaccine_dose_likely/)
+- [U.S. spy chiefs say China is 'unparalleled priority'](https://www.reddit.com/r/news/comments/mri5m3/us_spy_chiefs_say_china_is_unparalleled_priority/)
+- [Texas deputy fatally shoots man in crisis, sheriff says](https://www.reddit.com/r/news/comments/mrh3g5/texas_deputy_fatally_shoots_man_in_crisis_sheriff/)
+- [Defense rests in Derek Chauvin murder trial for death of George Floyd](https://www.reddit.com/r/news/comments/mrgb94/defense_rests_in_derek_chauvin_murder_trial_for/)
+- [Teacher killed in 'old Western shootout' after trying to rob Mexican drug cartel, authorities say](https://www.reddit.com/r/news/comments/mrfrf1/teacher_killed_in_old_western_shootout_after/)
 <!-- REDDIT:END -->
 
 
