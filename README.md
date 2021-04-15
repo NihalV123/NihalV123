@@ -357,11 +357,11 @@ Top 4 most used languages across your repositories:
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
-- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
-- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
-- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
-- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
+- [Flutter & Brave: test your Web Apps on your favorite browser](https://blog.albertobonacina.com/flutter-and-brave-test-your-web-apps-on-your-favorite-browser)
+- [Flutter Web & Desktop: two platforms, endless possibilities](https://blog.albertobonacina.com/flutter-web-and-desktop-two-platforms-endless-possibilities)
+- [Become a better designer by developing Flutter Apps](https://blog.albertobonacina.com/become-a-better-designer-by-developing-flutter-apps)
+- [Monetize your Flutter Apps with Google Ads](https://blog.albertobonacina.com/monetize-your-flutter-apps-with-google-ads)
+- [Foldables and Flutter: very interesting Duo](https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
