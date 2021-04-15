@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The body of an LSU student who was went missing a week ago has been found in Mississippi River](https://www.reddit.com/r/news/comments/mr6gno/the_body_of_an_lsu_student_who_was_went_missing_a/)
+- [Atlanta school replacing KKK leader’s name with Hank Aaron’s](https://www.reddit.com/r/news/comments/mr6fs7/atlanta_school_replacing_kkk_leaders_name_with/)
+- [Louisiana fraternity brothers pay off former cook’s mortgage](https://www.reddit.com/r/news/comments/mr5vob/louisiana_fraternity_brothers_pay_off_former/)
+- [Psychedelic drug worked for depression as well as common antidepressant, small trial finds](https://www.reddit.com/r/news/comments/mr4wfs/psychedelic_drug_worked_for_depression_as_well_as/)
+- [Russia deploys 559th Fighter Bomber Aviation Regiment, equipped with SU-34 jets near Ukraine](https://www.reddit.com/r/news/comments/mr4eva/russia_deploys_559th_fighter_bomber_aviation/)
 <!-- REDDIT:END -->
 
 
