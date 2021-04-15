@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Capitol rioter who tried to flee to Switzerland is jailed pre-trial](https://www.reddit.com/r/news/comments/mr17ih/us_capitol_rioter_who_tried_to_flee_to/)
+- [Intelligence Chiefs Say China, Russia Are Biggest Threats To U.S.](https://www.reddit.com/r/news/comments/mr0idf/intelligence_chiefs_say_china_russia_are_biggest/)
+- [City known as Hangtown votes to remove noose from its logo](https://www.reddit.com/r/news/comments/mr0214/city_known_as_hangtown_votes_to_remove_noose_from/)
+- [4 police officers in Muncie, Indiana, now face charges in excessive force case](https://www.reddit.com/r/news/comments/mqz8ov/4_police_officers_in_muncie_indiana_now_face/)
+- [Investigation: Florida sergeant improperly removed 5,000 rounds of ammo for personal use](https://www.reddit.com/r/news/comments/mqyboc/investigation_florida_sergeant_improperly_removed/)
 <!-- REDDIT:END -->
 
 
