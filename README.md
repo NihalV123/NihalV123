@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [51 West Point cadets caught cheating must repeat a year](https://www.reddit.com/r/news/comments/ms7zmp/51_west_point_cadets_caught_cheating_must_repeat/)
+- [Liberty University Sues Jerry Falwell Jr. for $10 Million](https://www.reddit.com/r/news/comments/ms6tyc/liberty_university_sues_jerry_falwell_jr_for_10/)
+- [2 women busted for trying to use a $1M bill — at a Dollar General store](https://www.reddit.com/r/news/comments/ms6apq/2_women_busted_for_trying_to_use_a_1m_bill_at_a/)
+- [Peaky Blinders actress Helen McCrory dies at 52 - BBC News](https://www.reddit.com/r/news/comments/ms65po/peaky_blinders_actress_helen_mccrory_dies_at_52/)
+- [More men charged in animal killing at white supremacist camp](https://www.reddit.com/r/news/comments/ms5ukc/more_men_charged_in_animal_killing_at_white/)
 <!-- REDDIT:END -->
 
 
