@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Multiple victims' reported after report of shots fired at FedEx facility in Indianapolis](https://www.reddit.com/r/news/comments/mrv98h/multiple_victims_reported_after_report_of_shots/)
+- [2 transgender women killed in separate shootings at Charlotte hotels, CMPD says](https://www.reddit.com/r/news/comments/mrtgk2/2_transgender_women_killed_in_separate_shootings/)
+- [A Louisville Officer Who Shot Breonna Taylor Lands a Book Deal](https://www.reddit.com/r/news/comments/mrsuxo/a_louisville_officer_who_shot_breonna_taylor/)
+- [Cuba's Raul Castro is stepping down as head of its Communist Party](https://www.reddit.com/r/news/comments/mrs66e/cubas_raul_castro_is_stepping_down_as_head_of_its/)
+- [Honduran woman exits Utah church after 3 years in sanctuary](https://www.reddit.com/r/news/comments/mrru0j/honduran_woman_exits_utah_church_after_3_years_in/)
 <!-- REDDIT:END -->
 
 
