@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Massachusetts regulators seek to revoke Robinhood's license; brokerage sues](https://www.reddit.com/r/news/comments/mrqgo3/massachusetts_regulators_seek_to_revoke/)
+- [Pentagon confirms UFO video is real, taken by Navy pilot](https://www.reddit.com/r/news/comments/mrq3n2/pentagon_confirms_ufo_video_is_real_taken_by_navy/)
+- [Body camera video in the fatal shooting of a 13-year-old boy by Chicago police has been released](https://www.reddit.com/r/news/comments/mrnh8e/body_camera_video_in_the_fatal_shooting_of_a/)
+- [France outlaws sex with children aged under 15](https://www.reddit.com/r/news/comments/mrn87l/france_outlaws_sex_with_children_aged_under_15/)
+- [Pence, suffering from a sluggish heartbeat, undergoes surgery for a pacemaker implant.](https://www.reddit.com/r/news/comments/mrmwwr/pence_suffering_from_a_sluggish_heartbeat/)
 <!-- REDDIT:END -->
 
 
