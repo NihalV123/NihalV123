@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three people are dead amid an active shooter incident in Austin, Texas](https://www.reddit.com/r/news/comments/mthhnn/three_people_are_dead_amid_an_active_shooter/)
+- [Covid in Brazil: Hunger worsens in city slums](https://www.reddit.com/r/news/comments/mtfg5q/covid_in_brazil_hunger_worsens_in_city_slums/)
+- [India;s Kumbh festival attracts big crowds amid devastating second Covid wave](https://www.reddit.com/r/news/comments/mtfaz7/indias_kumbh_festival_attracts_big_crowds_amid/)
+- [Nearly 100 Injured After Train Derails In Egypt](https://www.reddit.com/r/news/comments/mte732/nearly_100_injured_after_train_derails_in_egypt/)
+- [Earthquake hits Iranian province housing nuclear power plant](https://www.reddit.com/r/news/comments/mte5rk/earthquake_hits_iranian_province_housing_nuclear/)
 <!-- REDDIT:END -->
 
 
