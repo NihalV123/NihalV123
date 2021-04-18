@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [Hospedando suas imagens Docker em seu próprio registry](https://blog.lsantos.dev/docker-registry-local/)
+- [Integrando o Azure Active Directory no AKS](https://blog.lsantos.dev/azure-ad-aks/)
+- [Armazenando seus Helm Charts no Azure Container Registry](https://blog.lsantos.dev/armazenando-seus-helm-charts-no-azure-container-registry/)
+- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://blog.lsantos.dev/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker/)
+- [Gerencie seus dotfiles de qualquer lugar com Git](https://blog.lsantos.dev/dotfiles-git/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
