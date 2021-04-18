@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 people killed and 2 injured in shooting in Kenosha, sheriff's department says](https://www.reddit.com/r/news/comments/mt9xc9/3_people_killed_and_2_injured_in_shooting_in/)
+- [Israel rescinds outdoor coronavirus mask requirement](https://www.reddit.com/r/news/comments/mt98ko/israel_rescinds_outdoor_coronavirus_mask/)
+- [Hester Ford, oldest living American, dead at 115](https://www.reddit.com/r/news/comments/mt8jcg/hester_ford_oldest_living_american_dead_at_115/)
+- [Man arrested in Texarkana, accused of punishing toddler by putting him in scalding bath water](https://www.reddit.com/r/news/comments/mt8f1k/man_arrested_in_texarkana_accused_of_punishing/)
+- [Canadian police refuse provincial order to make random stops amid COVID-19 surge](https://www.reddit.com/r/news/comments/mt6y40/canadian_police_refuse_provincial_order_to_make/)
 <!-- REDDIT:END -->
 
 
