@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jacksonville pastor accused of child molestation](https://www.reddit.com/r/news/comments/mt104d/jacksonville_pastor_accused_of_child_molestation/)
+- [Colorado judge to resign after use of N-word, comments on racial justice draw rare public censure](https://www.reddit.com/r/news/comments/mt0osu/colorado_judge_to_resign_after_use_of_nword/)
+- [Black deportation staff called ‘cotton pickers’ by colleagues, court hears](https://www.reddit.com/r/news/comments/mt0da4/black_deportation_staff_called_cotton_pickers_by/)
+- [Police use Taser twice on Marine veteran in Colorado Springs hospital room](https://www.reddit.com/r/news/comments/mszvk6/police_use_taser_twice_on_marine_veteran_in/)
+- [WATCH: N.C. man throws rabid bobcat after it attacks wife in wild video](https://www.reddit.com/r/news/comments/msyved/watch_nc_man_throws_rabid_bobcat_after_it_attacks/)
 <!-- REDDIT:END -->
 
 
