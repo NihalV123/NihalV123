@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: Man tried to run over Black children after racially charged playground fight.](https://www.reddit.com/r/news/comments/mu5ii1/police_man_tried_to_run_over_black_children_after/)
+- [Derek Chauvin heard George Floyd ask for help, ‘he just didn’t listen’: prosecutor](https://www.reddit.com/r/news/comments/mu5e2q/derek_chauvin_heard_george_floyd_ask_for_help_he/)
+- [France ‘bears significant responsibility’ for Rwandan genocide, US report says](https://www.reddit.com/r/news/comments/mu54kr/france_bears_significant_responsibility_for/)
+- [Union accuses Amazon of illegally interfering with vote](https://www.reddit.com/r/news/comments/mu52su/union_accuses_amazon_of_illegally_interfering/)
+- [Non-stop cremations cast doubt on India's counting of COVID dead](https://www.reddit.com/r/news/comments/mu4966/nonstop_cremations_cast_doubt_on_indias_counting/)
 <!-- REDDIT:END -->
 
 
