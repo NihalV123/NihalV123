@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nasa successfully flies small helicopter on Mars](https://www.reddit.com/r/news/comments/mty6by/nasa_successfully_flies_small_helicopter_on_mars/)
+- [Alexei Navalny moved to hospital as fears grow for life of Putin critic](https://www.reddit.com/r/news/comments/mty4g8/alexei_navalny_moved_to_hospital_as_fears_grow/)
+- [Video: Louisville officer punches protester during arrest](https://www.reddit.com/r/news/comments/mtx7rm/video_louisville_officer_punches_protester_during/)
+- [Local musician loses everything to house fire; saved by hero dog](https://www.reddit.com/r/news/comments/mtwe7s/local_musician_loses_everything_to_house_fire/)
+- [Navalny camp awaits health update, says there's "no hope of good news"](https://www.reddit.com/r/news/comments/mtw805/navalny_camp_awaits_health_update_says_theres_no/)
 <!-- REDDIT:END -->
 
 
