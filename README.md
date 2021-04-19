@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Navajo Nation has no COVID-related deaths for 7th day in row](https://www.reddit.com/r/news/comments/mtnnc6/navajo_nation_has_no_covidrelated_deaths_for_7th/)
+- [Hollywood vigil against police brutality draws hundreds of people](https://www.reddit.com/r/news/comments/mtmdlb/hollywood_vigil_against_police_brutality_draws/)
+- [Marie Supikova, Survivor of Nazi Terror in Czech Village, Dies at 88](https://www.reddit.com/r/news/comments/mtm6id/marie_supikova_survivor_of_nazi_terror_in_czech/)
+- [FedEx has no plans to rescind cellphone policy after Indianapolis shooting. Here's why.](https://www.reddit.com/r/news/comments/mtkdix/fedex_has_no_plans_to_rescind_cellphone_policy/)
+- [1 dead, 5 wounded in shooting at Ohio vigil on Saturday evening according to sheriff.](https://www.reddit.com/r/news/comments/mtjypc/1_dead_5_wounded_in_shooting_at_ohio_vigil_on/)
 <!-- REDDIT:END -->
 
 
