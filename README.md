@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jury begins deliberations in Derek Chauvin's trial in death of George Floyd](https://www.reddit.com/r/news/comments/mucran/jury_begins_deliberations_in_derek_chauvins_trial/)
+- [Capitol police officer Brian Sicknick died of natural causes after battling rioters, medical examiner rules](https://www.reddit.com/r/news/comments/mu9i73/capitol_police_officer_brian_sicknick_died_of/)
+- [Two Russian agents have been linked to a high-profile poisoning and a deadly explosion, but there's little Europe can do](https://www.reddit.com/r/news/comments/mu8m73/two_russian_agents_have_been_linked_to_a/)
+- [Leaders of Proud Boys ordered jailed on Capitol riot charges](https://www.reddit.com/r/news/comments/mu8fbv/leaders_of_proud_boys_ordered_jailed_on_capitol/)
+- [Ex-cop-turned-lawyer gets 4+ years in prison in 9/11 scam](https://www.reddit.com/r/news/comments/mu6n5j/excopturnedlawyer_gets_4_years_in_prison_in_911/)
 <!-- REDDIT:END -->
 
 
