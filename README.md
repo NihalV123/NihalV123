@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who has been living on a detained, now abandoned cargo ship for the past 4 years just wants to go home](https://www.reddit.com/r/news/comments/mumpxn/man_who_has_been_living_on_a_detained_now/)
+- [Australia to Phase Out Single-Use Plastic Bags, Straws & Utensils by 2025](https://www.reddit.com/r/news/comments/mule80/australia_to_phase_out_singleuse_plastic_bags/)
+- [Gov. DeSantis Signs Florida’s ‘Anti-Riot’ Bill Into Law](https://www.reddit.com/r/news/comments/muiq7v/gov_desantis_signs_floridas_antiriot_bill_into_law/)
+- [12-year-old boy charged with murder in fatal shooting of 13-year-old: Police](https://www.reddit.com/r/news/comments/mugpe8/12yearold_boy_charged_with_murder_in_fatal/)
+- [Father angry after teacher cuts biracial daughter's hair](https://www.reddit.com/r/news/comments/muflkg/father_angry_after_teacher_cuts_biracial/)
 <!-- REDDIT:END -->
 
 
