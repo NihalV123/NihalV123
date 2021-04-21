@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia city fires police officer over Kyle Rittenhouse donation](https://www.reddit.com/r/news/comments/mvkul2/virginia_city_fires_police_officer_over_kyle/)
+- [Derek Chauvin is being held in solitary confinement for 23 hours a day.](https://www.reddit.com/r/news/comments/mvkejd/derek_chauvin_is_being_held_in_solitary/)
+- [North Dakota offers free Covid-19 vaccinations for Canadian truckers](https://www.reddit.com/r/news/comments/mvjsul/north_dakota_offers_free_covid19_vaccinations_for/)
+- [FDA finds poor conditions at Baltimore plant that ruined millions of doses of J&J Covid vaccine](https://www.reddit.com/r/news/comments/mvi9ep/fda_finds_poor_conditions_at_baltimore_plant_that/)
+- [Manhattan to Stop Prosecuting Prostitution, Part of Nationwide Shift](https://www.reddit.com/r/news/comments/mvi4jp/manhattan_to_stop_prosecuting_prostitution_part/)
 <!-- REDDIT:END -->
 
 
