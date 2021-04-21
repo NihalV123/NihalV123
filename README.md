@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge orders LA to offer shelter for homeless on Skid Row](https://www.reddit.com/r/news/comments/mv8q7e/judge_orders_la_to_offer_shelter_for_homeless_on/)
+- [USDA extends free school lunch for all students to June 2022](https://www.reddit.com/r/news/comments/mv6zhq/usda_extends_free_school_lunch_for_all_students/)
+- [Russia Effectively Seizes Control of Sea of Azov, Threatening Ukraine](https://www.reddit.com/r/news/comments/mv6pxf/russia_effectively_seizes_control_of_sea_of_azov/)
+- [1 dead following officer-involved shooting in south Columbus](https://www.reddit.com/r/news/comments/mv3usx/1_dead_following_officerinvolved_shooting_in/)
+- [Nevada teen suffers seizures, brain clots after J&J vaccine](https://www.reddit.com/r/news/comments/mv1z2h/nevada_teen_suffers_seizures_brain_clots_after_jj/)
 <!-- REDDIT:END -->
 
 
