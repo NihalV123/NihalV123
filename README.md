@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [Integrando o Azure Active Directory no AKS](https://dev.to/azure/integrando-o-azure-active-directory-no-aks-48pa)
+- [Armazenando seus Helm Charts no Azure Container Registry](https://dev.to/azure/armazenando-seus-helm-charts-no-azure-container-registry-im1)
+- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://dev.to/khaosdoctor/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker-5c3o)
+- [Gerencie seus dotfiles de qualquer lugar com Git](https://dev.to/azure/gerencie-seus-dotfiles-de-qualquer-lugar-com-git-46db)
+- [Como ter controle do seu cluster Kubernetes com affinity e tolerations](https://dev.to/azure/como-ter-controle-do-seu-cluster-kubernetes-com-affinity-e-tolerations-57od)
 <!-- DEVTO:END -->
 
 ### Medium
