@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel-Gaza: Strike collapses building during live BBC report](https://www.reddit.com/r/news/comments/nce53c/israelgaza_strike_collapses_building_during_live/)
+- [Former Navy pilot says flight crews observed UFOs off Atlantic Coast "every day for at least a couple years" | 60 Minutes](https://www.reddit.com/r/news/comments/ncdmcm/former_navy_pilot_says_flight_crews_observed_ufos/)
+- [Black homeowner had a white friend stand in for third appraisal. Her home value doubled.](https://www.reddit.com/r/news/comments/nccpl2/black_homeowner_had_a_white_friend_stand_in_for/)
+- [Michigan lifts mask requirement for people fully vaccinated against COVID-19](https://www.reddit.com/r/news/comments/ncc20v/michigan_lifts_mask_requirement_for_people_fully/)
+- [Boston’s State Street Corporation to pay $115M criminal penalty for defrauding clients](https://www.reddit.com/r/news/comments/ncbwxe/bostons_state_street_corporation_to_pay_115m/)
 <!-- REDDIT:END -->
 
 
