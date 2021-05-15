@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel warns it will target a press building in Gaza](https://www.reddit.com/r/news/comments/ncx5iv/israel_warns_it_will_target_a_press_building_in/)
+- [Wild Horses Adopted Under a Federal Program Are Going to Slaughter](https://www.reddit.com/r/news/comments/ncvvc5/wild_horses_adopted_under_a_federal_program_are/)
+- [A serial rapist accused of using fake ghost hunts to sexually assault women all over SE Texas](https://www.reddit.com/r/news/comments/ncrtlo/a_serial_rapist_accused_of_using_fake_ghost_hunts/)
+- [Video shows South Carolina deputies repeatedly tasing Black man before he dies in jail](https://www.reddit.com/r/news/comments/ncrmys/video_shows_south_carolina_deputies_repeatedly/)
+- [Italian Dockers Stop Arms Shipment to Israel in Solidarity with Palestine](https://www.reddit.com/r/news/comments/ncqlfg/italian_dockers_stop_arms_shipment_to_israel_in/)
 <!-- REDDIT:END -->
 
 
