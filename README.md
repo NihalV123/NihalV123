@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Italian Dockers Stop Arms Shipment to Israel in Solidarity with Palestine](https://www.reddit.com/r/news/comments/ncqlfg/italian_dockers_stop_arms_shipment_to_israel_in/)
+- [Husband charged with murder of missing wife in Colorado also charged with voter fraud for filling out her ballot](https://www.reddit.com/r/news/comments/ncoimh/husband_charged_with_murder_of_missing_wife_in/)
+- [Colorado man has truck stolen in Jackson with pet dog still inside: ‘I can’t go home without him’](https://www.reddit.com/r/news/comments/ncobpf/colorado_man_has_truck_stolen_in_jackson_with_pet/)
+- [Local church pays off $1.9 million in medical debt for Fort Bend residents in need](https://www.reddit.com/r/news/comments/nco83a/local_church_pays_off_19_million_in_medical_debt/)
+- [Proud Boys leader received Covid-19 stimulus loans worth $15,500](https://www.reddit.com/r/news/comments/nco55o/proud_boys_leader_received_covid19_stimulus_loans/)
 <!-- REDDIT:END -->
 
 
