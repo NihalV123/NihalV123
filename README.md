@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina closes government offices in observance of Confederate Memorial Day](https://www.reddit.com/r/news/comments/ndu6f4/south_carolina_closes_government_offices_in/)
+- [Arrest made after boy, 4, found slain on Dallas street](https://www.reddit.com/r/news/comments/ndtvs2/arrest_made_after_boy_4_found_slain_on_dallas/)
+- [B.C. doctors urge action on colleague spreading COVID-19 misinformation](https://www.reddit.com/r/news/comments/ndsuu6/bc_doctors_urge_action_on_colleague_spreading/)
+- [Israel-Palestinian conflict marks its deadliest day as scenes of horror unfold in Gaza](https://www.reddit.com/r/news/comments/ndrvur/israelpalestinian_conflict_marks_its_deadliest/)
+- [Groups call for reintroduction of jaguars in US Southwest](https://www.reddit.com/r/news/comments/ndr58k/groups_call_for_reintroduction_of_jaguars_in_us/)
 <!-- REDDIT:END -->
 
 
