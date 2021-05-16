@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon had keys to USPS mailbox used for union ballots: Report](https://www.reddit.com/r/news/comments/ndh0ne/amazon_had_keys_to_usps_mailbox_used_for_union/)
+- [Tiger missing in Houston found safe, police say](https://www.reddit.com/r/news/comments/ndek58/tiger_missing_in_houston_found_safe_police_say/)
+- [Protesters in major US cities decry airstrikes over Gaza](https://www.reddit.com/r/news/comments/ndeft3/protesters_in_major_us_cities_decry_airstrikes/)
+- [Brooklyn Center City Council approves sweeping police reforms in the wake of Daunte Wright's death](https://www.reddit.com/r/news/comments/nddbkd/brooklyn_center_city_council_approves_sweeping/)
+- [Chick-fil-A imposes sauce limit amid industrywide shortages](https://www.reddit.com/r/news/comments/ndctcd/chickfila_imposes_sauce_limit_amid_industrywide/)
 <!-- REDDIT:END -->
 
 
