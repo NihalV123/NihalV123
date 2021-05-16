@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Carolina jury awards $75m to brothers wrongly convicted of 1983 murder](https://www.reddit.com/r/news/comments/ndc1ow/north_carolina_jury_awards_75m_to_brothers/)
+- [This bar will require proof of vaccination for entry](https://www.reddit.com/r/news/comments/ndbbj6/this_bar_will_require_proof_of_vaccination_for/)
+- [Tensions in Gaza have escalated further after an Israeli bombardment destroyed a high-rise building used by foreign press, followed up by the targeting of the home of one of Hamas's leaders. The United Nations Security Council is due to discuss the crisis for the first time publicly on Sunday.](https://www.reddit.com/r/news/comments/ndaeqh/tensions_in_gaza_have_escalated_further_after_an/)
+- [Hundreds of Epidemiologists Expected Mask-Wearing in Public for at Least a Year](https://www.reddit.com/r/news/comments/nd9mu1/hundreds_of_epidemiologists_expected_maskwearing/)
+- [HAZMAT called to contain gas leaking from 200-gallon tank in back of passenger van](https://www.reddit.com/r/news/comments/nd9flp/hazmat_called_to_contain_gas_leaking_from/)
 <!-- REDDIT:END -->
 
 
