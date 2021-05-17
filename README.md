@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Suspicious' brushfire in Los Angeles grows to more than 1,300 acres](https://www.reddit.com/r/news/comments/ne1tbf/suspicious_brushfire_in_los_angeles_grows_to_more/)
+- [Navy pilots recall "unsettling" 2004 UAP sighting | 60 Minutes](https://www.reddit.com/r/news/comments/ne187z/navy_pilots_recall_unsettling_2004_uap_sighting/)
+- [Four men arrested in anti-Semitism video investigation](https://www.reddit.com/r/news/comments/ndzyec/four_men_arrested_in_antisemitism_video/)
+- [AT&T in advanced talks to merge WarnerMedia with Discovery, deal expected as soon as tomorrow](https://www.reddit.com/r/news/comments/ndzats/att_in_advanced_talks_to_merge_warnermedia_with/)
+- [‘Now is not the time’: Nurses’ union condemns CDC for relaxing mask protocols for vaccinated people](https://www.reddit.com/r/news/comments/ndyvkx/now_is_not_the_time_nurses_union_condemns_cdc_for/)
 <!-- REDDIT:END -->
 
 
