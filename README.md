@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel-Palestine: US blocks UN statement for third time in a week](https://www.reddit.com/r/news/comments/nee9qv/israelpalestine_us_blocks_un_statement_for_third/)
+- [Detained Yemen model risks 'virginity test': Amnesty - France 24](https://www.reddit.com/r/news/comments/ned5yp/detained_yemen_model_risks_virginity_test_amnesty/)
+- [Average asking price for UK homes hits record £333,564 | House prices](https://www.reddit.com/r/news/comments/necovz/average_asking_price_for_uk_homes_hits_record/)
+- [Elon Musk's tweets have once again sent bitcoin on a wild ride](https://www.reddit.com/r/news/comments/neb6n8/elon_musks_tweets_have_once_again_sent_bitcoin_on/)
+- [Officer charged in death of Daunte Wright to appear in court](https://www.reddit.com/r/news/comments/ne8dqw/officer_charged_in_death_of_daunte_wright_to/)
 <!-- REDDIT:END -->
 
 
