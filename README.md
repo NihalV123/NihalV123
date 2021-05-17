@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [SCOTUS Rules Police Cannot Search Homes Without Warrants in the Name of 'Community Caretaking'](https://www.reddit.com/r/news/comments/nen3in/scotus_rules_police_cannot_search_homes_without/)
+- [Capitol riot suspect shoots mountain lion, defies order to not own guns, prosecutors say](https://www.reddit.com/r/news/comments/nemni0/capitol_riot_suspect_shoots_mountain_lion_defies/)
+- [Friend of embattled U.S. Rep. Matt Gaetz pleads guilty to sex trafficking](https://www.reddit.com/r/news/comments/nelce9/friend_of_embattled_us_rep_matt_gaetz_pleads/)
+- [Woman kills her 2 kids with meat cleaver in Arizona](https://www.reddit.com/r/news/comments/nekyj0/woman_kills_her_2_kids_with_meat_cleaver_in/)
+- [AP Exclusive: Full-blown boycott pushed for Beijing Olympics](https://www.reddit.com/r/news/comments/nekkpz/ap_exclusive_fullblown_boycott_pushed_for_beijing/)
 <!-- REDDIT:END -->
 
 
