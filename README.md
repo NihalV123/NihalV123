@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Fort Bend ISD teacher charged with animal cruelty for allegedly killing kittens](https://www.reddit.com/r/news/comments/nfo78o/former_fort_bend_isd_teacher_charged_with_animal/)
+- [Galapagos rock formation Darwin's Arch has collapsed](https://www.reddit.com/r/news/comments/nfo54z/galapagos_rock_formation_darwins_arch_has/)
+- [U.S. weekly deaths from COVID fall to lowest in 14 months](https://www.reddit.com/r/news/comments/nfnigk/us_weekly_deaths_from_covid_fall_to_lowest_in_14/)
+- [Gwyneth Paltrow's Goop calls lawsuit over exploding vagina-scented candle 'frivolous'](https://www.reddit.com/r/news/comments/nfn0yx/gwyneth_paltrows_goop_calls_lawsuit_over/)
+- [60% of American Adults have received at least one Covid-19 dose](https://www.reddit.com/r/news/comments/nfl6li/60_of_american_adults_have_received_at_least_one/)
 <!-- REDDIT:END -->
 
 
