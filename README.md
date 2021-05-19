@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama judge faces more than 100 racism, sexism allegations in scathing complaint](https://www.reddit.com/r/news/comments/ng2hqw/alabama_judge_faces_more_than_100_racism_sexism/)
+- [Dallas police: Video shows slain 4-year-old Cash Gernon being abducted from bed as he slept](https://www.reddit.com/r/news/comments/nfzlyi/dallas_police_video_shows_slain_4yearold_cash/)
+- [Amazon will block police indefinitely from using its facial-recognition software](https://www.reddit.com/r/news/comments/nfvfs0/amazon_will_block_police_indefinitely_from_using/)
+- [Two brothers were wrongfully convicted of rape and murder. Nearly 40 years later, they are getting $75 million in compensation](https://www.reddit.com/r/news/comments/nftbdc/two_brothers_were_wrongfully_convicted_of_rape/)
+- [Arab Americans in Michigan protest Biden’s visit over US support for Israel](https://www.reddit.com/r/news/comments/nfsmsu/arab_americans_in_michigan_protest_bidens_visit/)
 <!-- REDDIT:END -->
 
 
