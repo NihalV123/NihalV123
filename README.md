@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. reports fewer than 30,000 cases for five straight days, with the nation averaging 1.8 million daily vaccinations](https://www.reddit.com/r/news/comments/nh555g/us_reports_fewer_than_30000_cases_for_five/)
+- [Feds seize 68 big cats from 'Tiger King Park' in Oklahoma](https://www.reddit.com/r/news/comments/nh4qx8/feds_seize_68_big_cats_from_tiger_king_park_in/)
+- [Betsy DeVos must testify in student loan forgiveness lawsuit, judge rules](https://www.reddit.com/r/news/comments/nh2vzu/betsy_devos_must_testify_in_student_loan/)
+- [Fauci says public is 'misinterpreting' latest CDC mask guidance](https://www.reddit.com/r/news/comments/nh2ccu/fauci_says_public_is_misinterpreting_latest_cdc/)
+- [Clearing of homeless encampment in Liberty Village halted after standoff with community](https://www.reddit.com/r/news/comments/nh20fe/clearing_of_homeless_encampment_in_liberty/)
 <!-- REDDIT:END -->
 
 
