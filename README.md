@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['You shouldn't be able to breathe,' officer tells man before he dies](https://www.reddit.com/r/news/comments/nhfgi4/you_shouldnt_be_able_to_breathe_officer_tells_man/)
+- [Canadian soldier charged with feeding cannabis cupcakes to artillery unit during live-fire exercise](https://www.reddit.com/r/news/comments/nhdvmq/canadian_soldier_charged_with_feeding_cannabis/)
+- [Naturalist Jane Goodall wins 2021 Templeton prize for life’s work](https://www.reddit.com/r/news/comments/nhdiy8/naturalist_jane_goodall_wins_2021_templeton_prize/)
+- [Trump administration secretly obtained CNN reporter's phone and email records](https://www.reddit.com/r/news/comments/nhdanh/trump_administration_secretly_obtained_cnn/)
+- [Israel, Hamas agree to cease-fire to end bloody 11-day war](https://www.reddit.com/r/news/comments/nhd0aq/israel_hamas_agree_to_ceasefire_to_end_bloody/)
 <!-- REDDIT:END -->
 
 
