@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At Least 14 Shot, Leaving 2 Dead, in Mass Shooting at New Jersey House Party](https://www.reddit.com/r/news/comments/njc7bk/at_least_14_shot_leaving_2_dead_in_mass_shooting/)
+- [Iraq estimates that $150 billion of its oil money has been stolen from the country since the US-led invasion of 2003](https://www.reddit.com/r/news/comments/njbtxn/iraq_estimates_that_150_billion_of_its_oil_money/)
+- [Archaeologists discover ancient Christian ruins in Egypt’s Western Desert](https://www.reddit.com/r/news/comments/njbtem/archaeologists_discover_ancient_christian_ruins/)
+- [Jurors in Elizabeth Holmes trial can hear some evidence about extravagant lifestyle as Theranos CEO](https://www.reddit.com/r/news/comments/njbpp3/jurors_in_elizabeth_holmes_trial_can_hear_some/)
+- [India reports nearly 9,000 'black fungus' cases - BBC News](https://www.reddit.com/r/news/comments/njbf2b/india_reports_nearly_9000_black_fungus_cases_bbc/)
 <!-- REDDIT:END -->
 
 
