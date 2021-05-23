@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [O guia completo do gRPC parte 1: O que é gRPC?](https://dev.to/azure/o-guia-completo-do-grpc-parte-1-o-que-e-grpc-3o42)
+- [Hospedando suas imagens Docker em seu próprio registry](https://dev.to/azure/hospedando-suas-imagens-docker-em-seu-proprio-registry-379b)
+- [Integrando o Azure Active Directory no AKS](https://dev.to/azure/integrando-o-azure-active-directory-no-aks-48pa)
+- [Armazenando seus Helm Charts no Azure Container Registry](https://dev.to/azure/armazenando-seus-helm-charts-no-azure-container-registry-im1)
+- [#DockerSP - Entendendo o ecossistema de containers além do Docker](https://dev.to/khaosdoctor/dockersp-entendendo-o-ecossistema-de-containers-alem-do-docker-5c3o)
 <!-- DEVTO:END -->
 
 ### Medium
