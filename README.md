@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Royal Caribbean states that all guests on its cruise ships must be vaccinated](https://www.reddit.com/r/news/comments/nj5ps2/royal_caribbean_states_that_all_guests_on_its/)
+- [Hundreds of PPP loans went to fake farms in absurd places](https://www.reddit.com/r/news/comments/nj5776/hundreds_of_ppp_loans_went_to_fake_farms_in/)
+- [Arrests on Vancouver Island over old-growth logging blockades tally 33 on Saturday](https://www.reddit.com/r/news/comments/nj4hai/arrests_on_vancouver_island_over_oldgrowth/)
+- [EU court rules against Banksy in copyright case, citing Banksy's own assertion that "copyright is for losers".](https://www.reddit.com/r/news/comments/nj3ctk/eu_court_rules_against_banksy_in_copyright_case/)
+- [The Jewish man who was the victim of a gang assault in New York says the level of hatred was troubling](https://www.reddit.com/r/news/comments/nize5a/the_jewish_man_who_was_the_victim_of_a_gang/)
 <!-- REDDIT:END -->
 
 
