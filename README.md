@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York City mayor says public schools will be all in person this fall with no remote options](https://www.reddit.com/r/news/comments/njw1x8/new_york_city_mayor_says_public_schools_will_be/)
+- [Man who said he was going to kill an officer drives into Maryland police station, police say](https://www.reddit.com/r/news/comments/njv8jb/man_who_said_he_was_going_to_kill_an_officer/)
+- [Faster than a PCR test: dogs detect Covid in under a second](https://www.reddit.com/r/news/comments/njuad1/faster_than_a_pcr_test_dogs_detect_covid_in_under/)
+- [Trials to suck carbon dioxide from the air to start across the UK](https://www.reddit.com/r/news/comments/njt6ji/trials_to_suck_carbon_dioxide_from_the_air_to/)
+- [Ukrainian scientists develop a surface radiation-removal device](https://www.reddit.com/r/news/comments/njt628/ukrainian_scientists_develop_a_surface/)
 <!-- REDDIT:END -->
 
 
