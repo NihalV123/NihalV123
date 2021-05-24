@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Irish parliament to vote on motion to expel Israeli ambassador](https://www.reddit.com/r/news/comments/njkbs0/irish_parliament_to_vote_on_motion_to_expel/)
+- [Phil Mickelson becomes oldest major winner as he wins enthralling PGA Championship](https://www.reddit.com/r/news/comments/njjy8u/phil_mickelson_becomes_oldest_major_winner_as_he/)
+- [Last cat out of the Tiger King Park bag as seizure completed](https://www.reddit.com/r/news/comments/njiwic/last_cat_out_of_the_tiger_king_park_bag_as/)
+- [The mob made me do it: Rioters claim Jan. 6 crowd at fault](https://www.reddit.com/r/news/comments/njipee/the_mob_made_me_do_it_rioters_claim_jan_6_crowd/)
+- [Ohio mother allegedly faked daughter's terminal illness to obtain funding for trips and housing](https://www.reddit.com/r/news/comments/nji0g3/ohio_mother_allegedly_faked_daughters_terminal/)
 <!-- REDDIT:END -->
 
 
