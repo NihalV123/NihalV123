@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas female deputies in human trafficking task force accuse superiors of sexual exploitation, abuse](https://www.reddit.com/r/news/comments/nkvr03/texas_female_deputies_in_human_trafficking_task/)
+- [Shots fired near George Floyd Square, one person injured on anniversary of Floyd's death](https://www.reddit.com/r/news/comments/nkufok/shots_fired_near_george_floyd_square_one_person/)
+- [DC attorney general sues Amazon on antitrust grounds, alleges it illegally raises prices](https://www.reddit.com/r/news/comments/nkspmg/dc_attorney_general_sues_amazon_on_antitrust/)
+- [Drug dealer jailed after sharing a photo of cheese that included his fingerprints](https://www.reddit.com/r/news/comments/nkrwrf/drug_dealer_jailed_after_sharing_a_photo_of/)
+- [Influencers say Russia-linked PR agency asked them to disparage Pfizer vaccine](https://www.reddit.com/r/news/comments/nkrjwp/influencers_say_russialinked_pr_agency_asked_them/)
 <!-- REDDIT:END -->
 
 
