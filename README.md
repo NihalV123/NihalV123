@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Moderna to take mRNA flu and HIV vaccines into Phase 1 trials this year](https://www.reddit.com/r/news/comments/nkak4g/moderna_to_take_mrna_flu_and_hiv_vaccines_into/)
+- [Illinois police face lawsuit over drug testing a toddler's ashes](https://www.reddit.com/r/news/comments/nk9zp3/illinois_police_face_lawsuit_over_drug_testing_a/)
+- [Florida governor signs ban on 'deplatforming' by tech companies](https://www.reddit.com/r/news/comments/nk6rtb/florida_governor_signs_ban_on_deplatforming_by/)
+- [Kuwait school fires American teacher for supporting Israel](https://www.reddit.com/r/news/comments/nk6ff2/kuwait_school_fires_american_teacher_for/)
+- [Belarus' national airline Belavia banned from operating flights to the UK. UK airlines told to avoid Belarusian airspace.](https://www.reddit.com/r/news/comments/nk61bi/belarus_national_airline_belavia_banned_from/)
 <!-- REDDIT:END -->
 
 
