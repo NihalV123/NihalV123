@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ["Very Sorry For My Mistake": John Cena After Calling Taiwan A "Country"](https://www.reddit.com/r/news/comments/nkmkpi/very_sorry_for_my_mistake_john_cena_after_calling/)
+- [German antitrust watchdog launches proceedings against Google](https://www.reddit.com/r/news/comments/nkm0qn/german_antitrust_watchdog_launches_proceedings/)
+- [Singapore Airlines reroutes flights to avoid Belarus airspace after forced landing of Ryanair plane](https://www.reddit.com/r/news/comments/nkkb84/singapore_airlines_reroutes_flights_to_avoid/)
+- [A second person was arrested in the gang assault of a Jewish man in New York during protests](https://www.reddit.com/r/news/comments/nkk2s6/a_second_person_was_arrested_in_the_gang_assault/)
+- [Squatters take over multimillion-dollar Sammamish home, police say hands are tied](https://www.reddit.com/r/news/comments/nkhn95/squatters_take_over_multimilliondollar_sammamish/)
 <!-- REDDIT:END -->
 
 
