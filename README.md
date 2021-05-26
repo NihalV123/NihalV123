@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Proposed New York law would ban fired police officers from getting hired](https://www.reddit.com/r/news/comments/nlmmb3/proposed_new_york_law_would_ban_fired_police/)
+- [Influencers say they got offered thousands to spread fake news on Pfizer COVID-19 vaccine](https://www.reddit.com/r/news/comments/nlmm7k/influencers_say_they_got_offered_thousands_to/)
+- [Former Kansas school resource officer sentenced to life in prison for child sex crimes](https://www.reddit.com/r/news/comments/nlkyvb/former_kansas_school_resource_officer_sentenced/)
+- [Woman who falsely accused Black bird watcher in Central Park sues ex-employer](https://www.reddit.com/r/news/comments/nlj03y/woman_who_falsely_accused_black_bird_watcher_in/)
+- [Ford boosts electric vehicle spending to more than $30 billion, aims to have 40% of volume all-electric by 2030](https://www.reddit.com/r/news/comments/nliump/ford_boosts_electric_vehicle_spending_to_more/)
 <!-- REDDIT:END -->
 
 
