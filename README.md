@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing fined $17m after fitting uncertified sensors to 737 Max and NG airliners for 4 years](https://www.reddit.com/r/news/comments/nmd62n/boeing_fined_17m_after_fitting_uncertified/)
+- [$1 million Ohio vaccine lottery winner was on her way to buy a used car when she found out she won](https://www.reddit.com/r/news/comments/nmci8h/1_million_ohio_vaccine_lottery_winner_was_on_her/)
+- [Police: Armed school worker stops attempted kidnap suspect](https://www.reddit.com/r/news/comments/nmcbo5/police_armed_school_worker_stops_attempted_kidnap/)
+- [Three men charged with hate crimes after antisemitic incidents in Brooklyn](https://www.reddit.com/r/news/comments/nmblg1/three_men_charged_with_hate_crimes_after/)
+- [Russia prohibits Austrian Airlines flight to arrive without entering Belarusian airspace: reports](https://www.reddit.com/r/news/comments/nm9rt5/russia_prohibits_austrian_airlines_flight_to/)
 <!-- REDDIT:END -->
 
 
