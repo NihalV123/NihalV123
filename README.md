@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Eric Carle, Author of ‘The Very Hungry Caterpillar,’ Dies at 91](https://www.reddit.com/r/news/comments/nltq56/eric_carle_author_of_the_very_hungry_caterpillar/)
+- [Former Penn State president ordered to report to jail for role in Jerry Sandusky scandal](https://www.reddit.com/r/news/comments/nlta3d/former_penn_state_president_ordered_to_report_to/)
+- [Climate Activists Win at Least 2 Seats on Exxon’s Board](https://www.reddit.com/r/news/comments/nlt1zc/climate_activists_win_at_least_2_seats_on_exxons/)
+- [Former Penn State President Will Serve 2 Months in Jail in Child Abuse Scandal](https://www.reddit.com/r/news/comments/nlsm8w/former_penn_state_president_will_serve_2_months/)
+- [R.I.P. Kevin Clark, Drummer from School of Rock Dead at 32](https://www.reddit.com/r/news/comments/nlsfnn/rip_kevin_clark_drummer_from_school_of_rock_dead/)
 <!-- REDDIT:END -->
 
 
