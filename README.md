@@ -391,11 +391,11 @@ Top 4 most used languages across your repositories:
 ### STACKEXCHANGE
 
 <!-- STACKEXCHANGE:START -->
-- [Answer by Gepser for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
-- [Answer by Gepser for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
-- [Answer by Gepser for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
+- [Answer by Gepser - for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
+- [Answer by Gepser - for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
+- [Answer by Gepser - for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
 - [How to create a host on a DigitalOcean team with Terraform?](https://devops.stackexchange.com/questions/60/how-to-create-a-host-on-a-digitalocean-team-with-terraform)
-- [Answer by Gepser for How do you back up Jenkins jobs & master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
+- [Answer by Gepser - for How do you back up Jenkins jobs & master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
 <!-- STACKEXCHANGE:END -->
 
 ### My Blog
