@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [N.C. mom, teens went into high school and assaulted girl in her classroom, district says](https://www.reddit.com/r/news/comments/nn24xi/nc_mom_teens_went_into_high_school_and_assaulted/)
+- [CEO pay rises to $12.7M even as pandemic ravages economy](https://www.reddit.com/r/news/comments/nn1wry/ceo_pay_rises_to_127m_even_as_pandemic_ravages/)
+- [U.S. to Freeze Funding for Ethiopia as Tigray Abuses Surface](https://www.reddit.com/r/news/comments/nn14fd/us_to_freeze_funding_for_ethiopia_as_tigray/)
+- [FBI joins Poland, Lithuania in investigating forced plane landing in Minsk](https://www.reddit.com/r/news/comments/nn0jbe/fbi_joins_poland_lithuania_in_investigating/)
+- [Woman gets $385 ticket for talking too loud on sidewalk, she says race is the reason](https://www.reddit.com/r/news/comments/nmzz1f/woman_gets_385_ticket_for_talking_too_loud_on/)
 <!-- REDDIT:END -->
 
 
