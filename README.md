@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man charged in smashing of bird in a pet store after employees declined a refund for bird with broken wing.](https://www.reddit.com/r/news/comments/nmjtqq/man_charged_in_smashing_of_bird_in_a_pet_store/)
+- [He’s been asking Walmart to pick up its trash for 3 years. But when he did it himself, Walmart called the police.](https://www.reddit.com/r/news/comments/nmjezd/hes_been_asking_walmart_to_pick_up_its_trash_for/)
+- [Reward up to $310,000, search for road rage shooter who killed 6-year-old in Orange continues](https://www.reddit.com/r/news/comments/nmj97t/reward_up_to_310000_search_for_road_rage_shooter/)
+- [Florida cheerleader allegedly stabbed 114 times, teen suspect to be charged as adult](https://www.reddit.com/r/news/comments/nmhz5w/florida_cheerleader_allegedly_stabbed_114_times/)
+- [USDA rejects request for faster pork slaughterhouse speeds](https://www.reddit.com/r/news/comments/nmhicw/usda_rejects_request_for_faster_pork/)
 <!-- REDDIT:END -->
 
 
