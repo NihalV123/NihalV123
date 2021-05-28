@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Microsoft says SolarWinds hackers have struck again at the US and other countries](https://www.reddit.com/r/news/comments/nmw709/microsoft_says_solarwinds_hackers_have_struck/)
+- [Former astronaut pleads guilty in traffic deaths of 2 girls](https://www.reddit.com/r/news/comments/nmtxwt/former_astronaut_pleads_guilty_in_traffic_deaths/)
+- [The European Union has urged its airlines to avoid Belarus and its airspace following Sunday's forced landing in Minsk of a Ryanair plane and the arrest of dissident journalist Raman Pratasevich.](https://www.reddit.com/r/news/comments/nmtbs9/the_european_union_has_urged_its_airlines_to/)
+- [Black Lives Matter co-founder to step down amid criticism](https://www.reddit.com/r/news/comments/nmt9ze/black_lives_matter_cofounder_to_step_down_amid/)
+- [Germany officially recognises colonial-era Namibia genocide](https://www.reddit.com/r/news/comments/nmswyt/germany_officially_recognises_colonialera_namibia/)
 <!-- REDDIT:END -->
 
 
