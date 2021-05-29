@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Convicted South African serial rapist Sello Abram Maponya sentenced to 1088 years in prison](https://www.reddit.com/r/news/comments/nnsg9t/convicted_south_african_serial_rapist_sello_abram/)
+- [North Korea says children volunteering on mines and farms](https://www.reddit.com/r/news/comments/nnq4n4/north_korea_says_children_volunteering_on_mines/)
+- [Feds charge Pa. police chief with threatening to arrest critic over Facebook posts](https://www.reddit.com/r/news/comments/nnq1r3/feds_charge_pa_police_chief_with_threatening_to/)
+- [US returns ancient stone carvings to Thailand](https://www.reddit.com/r/news/comments/nnpadh/us_returns_ancient_stone_carvings_to_thailand/)
+- [Morocco joins growing list of African countries to legalize cannabis | Africanews](https://www.reddit.com/r/news/comments/nnp519/morocco_joins_growing_list_of_african_countries/)
 <!-- REDDIT:END -->
 
 
