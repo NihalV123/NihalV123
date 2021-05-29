@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CEO pay rises yet again, despite global pandemic that slashed profits worldwide](https://www.reddit.com/r/news/comments/nnfp3u/ceo_pay_rises_yet_again_despite_global_pandemic/)
+- [Tulsa Race Massacre events could be targeted by white supremacist groups, DHS warns](https://www.reddit.com/r/news/comments/nnea40/tulsa_race_massacre_events_could_be_targeted_by/)
+- [Court rules against using race, sex to allocate federal aid](https://www.reddit.com/r/news/comments/nndb71/court_rules_against_using_race_sex_to_allocate/)
+- [Police seek tips after child’s body found near hiking trail outside of Las Vegas](https://www.reddit.com/r/news/comments/nncb3a/police_seek_tips_after_childs_body_found_near/)
+- [Tulsa 'Remember and Rise' event canceled days before centennial of race massacre after dispute over payment to survivors](https://www.reddit.com/r/news/comments/nnbwtx/tulsa_remember_and_rise_event_canceled_days/)
 <!-- REDDIT:END -->
 
 
