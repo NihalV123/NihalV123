@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Texas Law Bans Reality Shows from working with law enforcement After Man Filmed Being Killed By Police](https://www.reddit.com/r/news/comments/nnbi0u/new_texas_law_bans_reality_shows_from_working/)
+- [An estimated 2,600 Latinos were killed by police or in custody in the past six years, preliminary report says](https://www.reddit.com/r/news/comments/nnaj5m/an_estimated_2600_latinos_were_killed_by_police/)
+- [Asian Americans are patrolling streets across the US to keep their elders safe](https://www.reddit.com/r/news/comments/nnaiw5/asian_americans_are_patrolling_streets_across_the/)
+- [US blocks seafood from Chinese fleet over crew mistreatment](https://www.reddit.com/r/news/comments/nn9u1h/us_blocks_seafood_from_chinese_fleet_over_crew/)
+- [Eleven employees with a Texas sheriff's office have been fired and six others suspended following the February death of an inmate who was hit multiple times in the head by detention officers, authorities announced Friday](https://www.reddit.com/r/news/comments/nn9nlw/eleven_employees_with_a_texas_sheriffs_office/)
 <!-- REDDIT:END -->
 
 
