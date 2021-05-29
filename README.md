@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Feds: Semi driver who killed 5 kids lied on health forms](https://www.reddit.com/r/news/comments/nnkn1o/feds_semi_driver_who_killed_5_kids_lied_on_health/)
+- [Outrage as regulators let pesticides from factory pollute US town for years](https://www.reddit.com/r/news/comments/nnkjd1/outrage_as_regulators_let_pesticides_from_factory/)
+- [Man, 93, sentenced to 6 months' jail for beating shelter home roommate with walking stick](https://www.reddit.com/r/news/comments/nnj73f/man_93_sentenced_to_6_months_jail_for_beating/)
+- [BBC News - Children tell of neglect, filth and fear in US asylum camps](https://www.reddit.com/r/news/comments/nnix3t/bbc_news_children_tell_of_neglect_filth_and_fear/)
+- [Report: guards didn’t notice after killer beheaded cellmate](https://www.reddit.com/r/news/comments/nng4wy/report_guards_didnt_notice_after_killer_beheaded/)
 <!-- REDDIT:END -->
 
 
