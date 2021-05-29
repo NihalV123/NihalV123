@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://dev.to/azure/o-guia-completo-do-grpc-parte-3-tipos-em-tudo-com-typescript-3in5)
+- [Veja o que há de novo no Node.js 16](https://dev.to/khaosdoctor/veja-o-que-ha-de-novo-no-node-js-16-1mb5)
+- [Não só de Docker vivem os containers](https://dev.to/khaosdoctor/nao-so-de-docker-vivem-os-containers-hl2)
+- [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://dev.to/azure/o-guia-completo-do-grpc-parte-2-maos-a-obra-com-javascript-10h1)
+- [O que é Open Source?](https://dev.to/khaosdoctor/o-que-e-open-source-1h3p)
 <!-- DEVTO:END -->
 
 ### Medium
