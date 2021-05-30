@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Naomi Osaka fined $15K by tennis officials after refusing press for sake of mental health](https://www.reddit.com/r/news/comments/nofg38/naomi_osaka_fined_15k_by_tennis_officials_after/)
+- [Man, 73, missing for 2 days found in water in NJ marshland](https://www.reddit.com/r/news/comments/nof1ll/man_73_missing_for_2_days_found_in_water_in_nj/)
+- [Baltimore students who failed classes this year will still pass, school board says](https://www.reddit.com/r/news/comments/noey1x/baltimore_students_who_failed_classes_this_year/)
+- [Wealthy Latin Americans Head to U.S. for Vaccines](https://www.reddit.com/r/news/comments/nodle8/wealthy_latin_americans_head_to_us_for_vaccines/)
+- [Ethiopians denounce US at pro-government rally in Addis Ababa](https://www.reddit.com/r/news/comments/nodc9j/ethiopians_denounce_us_at_progovernment_rally_in/)
 <!-- REDDIT:END -->
 
 
