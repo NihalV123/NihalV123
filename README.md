@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-employee at farm-to-table Belcampo admits to selling falsely labeled meat](https://www.reddit.com/r/news/comments/npa349/exemployee_at_farmtotable_belcampo_admits_to/)
+- [Aiden Leos shooting: Reward increases to $400,000 in killing of 6-year-old boy on OC freeway](https://www.reddit.com/r/news/comments/np9mwg/aiden_leos_shooting_reward_increases_to_400000_in/)
+- [Naomi Osaka withdrew from the French Open on Monday, according to her social media, one day after tennis’ Grand Slams threatened disqualification or suspension if she continued to skip press conferences](https://www.reddit.com/r/news/comments/np9m8k/naomi_osaka_withdrew_from_the_french_open_on/)
+- [Arizona wants to use Zyklon B to execute inmates on death row](https://www.reddit.com/r/news/comments/np9hb1/arizona_wants_to_use_zyklon_b_to_execute_inmates/)
+- [Sri Lanka faces disaster as burning ship spills chemicals on beaches](https://www.reddit.com/r/news/comments/np7vsn/sri_lanka_faces_disaster_as_burning_ship_spills/)
 <!-- REDDIT:END -->
 
 
