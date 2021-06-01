@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘No going back to normal’: 43,000 US kids lost a parent to COVID](https://www.reddit.com/r/news/comments/npna39/no_going_back_to_normal_43000_us_kids_lost_a/)
+- [Rise of armed civilian groups in Myanmar fuels fears of civil war](https://www.reddit.com/r/news/comments/npklhb/rise_of_armed_civilian_groups_in_myanmar_fuels/)
+- [NYC Art Gallery Commemorating Tulsa Massacre Vandalized Overnight](https://www.reddit.com/r/news/comments/npjs7o/nyc_art_gallery_commemorating_tulsa_massacre/)
+- [Illinois Lawmakers Bar Police From Using Deception When Interrogating Minors](https://www.reddit.com/r/news/comments/npj1r6/illinois_lawmakers_bar_police_from_using/)
+- [More than 150 children are missing in latest Nigeria kidnapping raid](https://www.reddit.com/r/news/comments/npiiay/more_than_150_children_are_missing_in_latest/)
 <!-- REDDIT:END -->
 
 
