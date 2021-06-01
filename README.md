@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Extremely rare prehistoric animal carvings found for first time in Scotland](https://www.reddit.com/r/news/comments/npsrgu/extremely_rare_prehistoric_animal_carvings_found/)
+- [Gunmen kill Uganda minister's daughter, driver in failed assassination bid](https://www.reddit.com/r/news/comments/nprrai/gunmen_kill_uganda_ministers_daughter_driver_in/)
+- [Vatican law criminalizes abuse of adults by priests, laity](https://www.reddit.com/r/news/comments/nprizt/vatican_law_criminalizes_abuse_of_adults_by/)
+- [The Somerton man died alone on a beach in 1948. Now Australian scientists are close to solving the mystery](https://www.reddit.com/r/news/comments/npra0i/the_somerton_man_died_alone_on_a_beach_in_1948/)
+- [Miami police offer $130,000 for shooters who left 2 dead, 21 injured](https://www.reddit.com/r/news/comments/npr9vo/miami_police_offer_130000_for_shooters_who_left_2/)
 <!-- REDDIT:END -->
 
 
