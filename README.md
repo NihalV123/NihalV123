@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Illinois Lawmakers Bar Police From Using Deception When Interrogating Minors](https://www.reddit.com/r/news/comments/npj1r6/illinois_lawmakers_bar_police_from_using/)
+- [A 7-year-old boy in Florida swam for an hour to get help for his dad and sister who were stranded in a river](https://www.reddit.com/r/news/comments/npi461/a_7yearold_boy_in_florida_swam_for_an_hour_to_get/)
+- [Russia to deploy military units near border in response to NATO – minister](https://www.reddit.com/r/news/comments/nph7o6/russia_to_deploy_military_units_near_border_in/)
+- [‘Too much of a burden’: Chinese couples react to three-child policy | China](https://www.reddit.com/r/news/comments/npfxy2/too_much_of_a_burden_chinese_couples_react_to/)
+- [U.S. experts press calls for China to allow deeper inquiries into the pandemic’s origins.](https://www.reddit.com/r/news/comments/npf59t/us_experts_press_calls_for_china_to_allow_deeper/)
 <!-- REDDIT:END -->
 
 
