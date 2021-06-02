@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran's largest navy ship catches fire, sinks in Gulf of Oman](https://www.reddit.com/r/news/comments/nqem0u/irans_largest_navy_ship_catches_fire_sinks_in/)
+- [West Virginia governor liable for $700M coal company loan](https://www.reddit.com/r/news/comments/nqeb9p/west_virginia_governor_liable_for_700m_coal/)
+- [Heat wave pounds the West: Over 100 degrees forecast for California, Oregon, Arizona, Nevada](https://www.reddit.com/r/news/comments/nqch4z/heat_wave_pounds_the_west_over_100_degrees/)
+- [Police Chief Who Threatened Facebook Critic With False Arrest Pleads Guilty](https://www.reddit.com/r/news/comments/nqc9x9/police_chief_who_threatened_facebook_critic_with/)
+- [Two Elon Musk tweets have violated SEC settlement agreement, report says](https://www.reddit.com/r/news/comments/nqax82/two_elon_musk_tweets_have_violated_sec_settlement/)
 <!-- REDDIT:END -->
 
 
