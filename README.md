@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Unbelievable:’ Children, 12 and 14, use AK-47, other guns in shooting rampage on Volusia deputies](https://www.reddit.com/r/news/comments/nqjvy1/unbelievable_children_12_and_14_use_ak47_other/)
+- [McKinley football player to sue Canton schools for religious violation](https://www.reddit.com/r/news/comments/nqjr9c/mckinley_football_player_to_sue_canton_schools/)
+- [A man accused of killing an iguana wanted the charge dismissed based on “stand your ground” law. A judge said no.](https://www.reddit.com/r/news/comments/nqjlee/a_man_accused_of_killing_an_iguana_wanted_the/)
+- [Mom charged after shooting her 5-year-old son while trying to target loose dog, HPD says](https://www.reddit.com/r/news/comments/nqixtz/mom_charged_after_shooting_her_5yearold_son_while/)
+- [Iran's largest navy ship catches fire, sinks in Gulf of Oman](https://www.reddit.com/r/news/comments/nqem0u/irans_largest_navy_ship_catches_fire_sinks_in/)
 <!-- REDDIT:END -->
 
 
