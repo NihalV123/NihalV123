@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man blinded by bean bag during Cleveland racial protest sues](https://www.reddit.com/r/news/comments/nraj8p/man_blinded_by_bean_bag_during_cleveland_racial/)
+- [West Virginia's COVID-19 vaccine incentives include guns, trucks and cash](https://www.reddit.com/r/news/comments/nr9eyk/west_virginias_covid19_vaccine_incentives_include/)
+- [US military admits killing 23 civilians around the world in 2020](https://www.reddit.com/r/news/comments/nr7aiy/us_military_admits_killing_23_civilians_around/)
+- [Anheuser-Busch to give away free beer when America hits its vaccination goal.](https://www.reddit.com/r/news/comments/nr566k/anheuserbusch_to_give_away_free_beer_when_america/)
+- [‘Hundreds’ of photos exist of Australian soldiers drinking from dead Afghan’s prosthetic leg, court told | Australian military](https://www.reddit.com/r/news/comments/nr4weu/hundreds_of_photos_exist_of_australian_soldiers/)
 <!-- REDDIT:END -->
 
 
