@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man accused of storming U.S. Capitol pleads guilty](https://www.reddit.com/r/news/comments/nr1dr9/florida_man_accused_of_storming_us_capitol_pleads/)
+- [Prosecutors seek 30-year sentence for Derek Chauvin; defense requests probation](https://www.reddit.com/r/news/comments/nqzbi4/prosecutors_seek_30year_sentence_for_derek/)
+- [Vancouver Catholic school students call on religious order to apologize for its role in residential schools](https://www.reddit.com/r/news/comments/nqyncc/vancouver_catholic_school_students_call_on/)
+- [National Enquirer publisher to pay $187,500 fine for Trump hush money payment](https://www.reddit.com/r/news/comments/nqw2we/national_enquirer_publisher_to_pay_187500_fine/)
+- [FDA says to avoid eating cicadas 'if you're allergic to seafood'](https://www.reddit.com/r/news/comments/nqu79j/fda_says_to_avoid_eating_cicadas_if_youre/)
 <!-- REDDIT:END -->
 
 
