@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arrest made in possible DC hate crime against Asian business owner](https://www.reddit.com/r/news/comments/ns2d12/arrest_made_in_possible_dc_hate_crime_against/)
+- [US finds no evidence aerial sightings were alien spacecraft: NYT](https://www.reddit.com/r/news/comments/ns1yg8/us_finds_no_evidence_aerial_sightings_were_alien/)
+- [U.S. traffic deaths soar to 38,680 in 2020; highest yearly total since 2007](https://www.reddit.com/r/news/comments/nrzdfd/us_traffic_deaths_soar_to_38680_in_2020_highest/)
+- [Tiananmen: Hong Kong vigil organizer arrested on 32nd anniversary](https://www.reddit.com/r/news/comments/nryk8g/tiananmen_hong_kong_vigil_organizer_arrested_on/)
+- [Sri Lanka’s Zoo Animals Are Making More Babies During Pandemic, Since Tourists Aren't Around](https://www.reddit.com/r/news/comments/nrxl9d/sri_lankas_zoo_animals_are_making_more_babies/)
 <!-- REDDIT:END -->
 
 
