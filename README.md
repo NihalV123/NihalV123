@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chrystul Kizer, sex trafficking victim accused of killing alleged abuser, wins appeal](https://www.reddit.com/r/news/comments/nsbohp/chrystul_kizer_sex_trafficking_victim_accused_of/)
+- [Texas abortion ban targets anyone who helps patients get the procedure](https://www.reddit.com/r/news/comments/nsaws0/texas_abortion_ban_targets_anyone_who_helps/)
+- [Arrest made in 1972 killing of 15-year-old Illinois girl thanks to genetic genealogy](https://www.reddit.com/r/news/comments/nsas7t/arrest_made_in_1972_killing_of_15yearold_illinois/)
+- [Teen girl to be committed until age 21 for role in deadly DC Uber Eats carjacking](https://www.reddit.com/r/news/comments/ns9k2x/teen_girl_to_be_committed_until_age_21_for_role/)
+- [Vermont decriminalizes possession of opioid addiction drug](https://www.reddit.com/r/news/comments/ns8p64/vermont_decriminalizes_possession_of_opioid/)
 <!-- REDDIT:END -->
 
 
