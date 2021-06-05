@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Historic' G7 deal to stop global corporate tax avoidance welcomed by tech giants Google and Facebook](https://www.reddit.com/r/news/comments/nt0kf2/historic_g7_deal_to_stop_global_corporate_tax/)
+- [Justice Department says it’ll no longer seize reporters’ records](https://www.reddit.com/r/news/comments/nszvkx/justice_department_says_itll_no_longer_seize/)
+- [Texas mother charged after she snuck into school pretending to be daughter](https://www.reddit.com/r/news/comments/nszqpo/texas_mother_charged_after_she_snuck_into_school/)
+- [Deadly knife attack in east China leaves 5 dead, 15 injured](https://www.reddit.com/r/news/comments/nsyjkw/deadly_knife_attack_in_east_china_leaves_5_dead/)
+- [New Caledonia to once again vote on independence from France](https://www.reddit.com/r/news/comments/nswe0j/new_caledonia_to_once_again_vote_on_independence/)
 <!-- REDDIT:END -->
 
 
