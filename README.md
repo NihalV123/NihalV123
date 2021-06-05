@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Native American tribe in Maine buys back island taken 160 years ago | Native Americans](https://www.reddit.com/r/news/comments/nsjan4/native_american_tribe_in_maine_buys_back_island/)
+- [Big Banks Charged Billions in Overdraft Fees During the Worst Months of the Pandemic](https://www.reddit.com/r/news/comments/nsgtxa/big_banks_charged_billions_in_overdraft_fees/)
+- [Microsoft Bing raises concerns over lack of image results for Tiananmen 'tank man'](https://www.reddit.com/r/news/comments/nsg2do/microsoft_bing_raises_concerns_over_lack_of_image/)
+- [3,000 eggs abandoned after drone scares birds in California](https://www.reddit.com/r/news/comments/nsfzag/3000_eggs_abandoned_after_drone_scares_birds_in/)
+- [Florida opera singer charged with hitting officer with flagpole during Capitol riot](https://www.reddit.com/r/news/comments/nsfmwn/florida_opera_singer_charged_with_hitting_officer/)
 <!-- REDDIT:END -->
 
 
