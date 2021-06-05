@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [G7: Rich nations back deal to tax multinationals](https://www.reddit.com/r/news/comments/nstxmw/g7_rich_nations_back_deal_to_tax_multinationals/)
+- [Rich nations back deal to tax multinationals - BBC News](https://www.reddit.com/r/news/comments/nstjbh/rich_nations_back_deal_to_tax_multinationals_bbc/)
+- [US gun laws: Judge overturns California assault weapons ban](https://www.reddit.com/r/news/comments/nst1cv/us_gun_laws_judge_overturns_california_assault/)
+- [School district agrees to pay $3M in bullied child's suicide](https://www.reddit.com/r/news/comments/nsrw5u/school_district_agrees_to_pay_3m_in_bullied/)
+- [Records show teen killed by Honolulu police shot in back of head](https://www.reddit.com/r/news/comments/nsoyn5/records_show_teen_killed_by_honolulu_police_shot/)
 <!-- REDDIT:END -->
 
 
