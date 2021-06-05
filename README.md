@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The state of Alabama took his gun away. When authorities gave it back, he shot and killed his wife.](https://www.reddit.com/r/news/comments/nso07q/the_state_of_alabama_took_his_gun_away_when/)
+- [U.S. judge overturns California's ban on assault weapons](https://www.reddit.com/r/news/comments/nsnhps/us_judge_overturns_californias_ban_on_assault/)
+- [San Luis Obispo, CA approves pilot program to send an EMT and social worker to homeless-related 911 calls](https://www.reddit.com/r/news/comments/nslyrx/san_luis_obispo_ca_approves_pilot_program_to_send/)
+- [A participant in the Capitol riot argued that she was allowed into the building on January 6 because she checked the hours online and said it was open](https://www.reddit.com/r/news/comments/nslpre/a_participant_in_the_capitol_riot_argued_that_she/)
+- [Israel police detain 2,142 Arab citizens over pro-Palestine stance](https://www.reddit.com/r/news/comments/nsk3zl/israel_police_detain_2142_arab_citizens_over/)
 <!-- REDDIT:END -->
 
 
