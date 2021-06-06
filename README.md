@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A federal judge ruled three years ago Crosley Green's murder conviction couldn't stand. Green still isn't free](https://www.reddit.com/r/news/comments/ntjri7/a_federal_judge_ruled_three_years_ago_crosley/)
+- [UN: Famine is imminent in Ethiopia's embattled Tigray region; ‘People need to wake up’](https://www.reddit.com/r/news/comments/ntjijp/un_famine_is_imminent_in_ethiopias_embattled/)
+- [More than 200 firefighters battle massive recycling yard fire in Phoenix](https://www.reddit.com/r/news/comments/ntik09/more_than_200_firefighters_battle_massive/)
+- [Dog saves the life of 75-year-old owner](https://www.reddit.com/r/news/comments/ntiet5/dog_saves_the_life_of_75yearold_owner/)
+- [At least 8 injured in New Orleans shooting, police say](https://www.reddit.com/r/news/comments/nthh13/at_least_8_injured_in_new_orleans_shooting_police/)
 <!-- REDDIT:END -->
 
 
