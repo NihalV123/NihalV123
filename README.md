@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dozens of tourists of Italy fined $600-$3650 For Taking Sand and Shells from Sardinia Beaches](https://www.reddit.com/r/news/comments/ntr7gt/dozens_of_tourists_of_italy_fined_6003650_for/)
+- [U.S. officials up pressure on firms, foreign adversaries over cyberattacks](https://www.reddit.com/r/news/comments/ntqttu/us_officials_up_pressure_on_firms_foreign/)
+- [Belgium's Van Ranst: Covid scientist targeted by a far-right sniper](https://www.reddit.com/r/news/comments/ntmw9c/belgiums_van_ranst_covid_scientist_targeted_by_a/)
+- [Pope voices 'pain' over Canadian deaths, doesn't apologize](https://www.reddit.com/r/news/comments/ntm9zp/pope_voices_pain_over_canadian_deaths_doesnt/)
+- [High court asked to review men-only draft registration law](https://www.reddit.com/r/news/comments/ntlyos/high_court_asked_to_review_menonly_draft/)
 <!-- REDDIT:END -->
 
 
