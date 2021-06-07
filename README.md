@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jeff Bezos and brother to fly to space in Blue Origin flight](https://www.reddit.com/r/news/comments/nuav40/jeff_bezos_and_brother_to_fly_to_space_in_blue/)
+- [Logan Paul v Floyd Mayweather ends in boos as each fighter makes millions | Floyd Mayweather](https://www.reddit.com/r/news/comments/nuamsw/logan_paul_v_floyd_mayweather_ends_in_boos_as/)
+- [Putin signs law taking Russia out of Open Skies arms control treaty](https://www.reddit.com/r/news/comments/nu9jqk/putin_signs_law_taking_russia_out_of_open_skies/)
+- [N. Korea accuses ‘misanthropic’ Israel of genocide, ‘massacring children’](https://www.reddit.com/r/news/comments/nu92lb/n_korea_accuses_misanthropic_israel_of_genocide/)
+- [Al Jazeera Arabic veteran journalist Givara Budeiri sustained a fractured hand while being violently arrested in Sheikh Jarrah, occupied East Jerusalem.](https://www.reddit.com/r/news/comments/nu8kj1/al_jazeera_arabic_veteran_journalist_givara/)
 <!-- REDDIT:END -->
 
 
