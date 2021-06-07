@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Carbon dioxide levels hit 50% higher than preindustrial time](https://www.reddit.com/r/news/comments/nukm9r/carbon_dioxide_levels_hit_50_higher_than/)
+- [First on CNN: US recovers millions in cryptocurrency paid to Colonial Pipeline ransomware hackers](https://www.reddit.com/r/news/comments/nujuux/first_on_cnn_us_recovers_millions_in/)
+- [Woman shot nail salon owner because she was unhappy with cost of mani-pedi, police say](https://www.reddit.com/r/news/comments/nujop7/woman_shot_nail_salon_owner_because_she_was/)
+- [Russian accounts still active on pro-Trump sites -researchers](https://www.reddit.com/r/news/comments/nuj59s/russian_accounts_still_active_on_protrump_sites/)
+- [FBI offering reward for info on fires at 3 Walmart stores in Alabama and Mississippi](https://www.reddit.com/r/news/comments/nuim8s/fbi_offering_reward_for_info_on_fires_at_3/)
 <!-- REDDIT:END -->
 
 
