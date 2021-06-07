@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan Olympic official dies after jumping in front of train - media](https://www.reddit.com/r/news/comments/nu5amy/japan_olympic_official_dies_after_jumping_in/)
+- [Arrests Made in Road Rage Shooting of 6-Year-Old Boy on 55 Freeway in Orange](https://www.reddit.com/r/news/comments/nu1po7/arrests_made_in_road_rage_shooting_of_6yearold/)
+- [Netanyahu alleges Israeli election fraud, accuses rival of duplicity](https://www.reddit.com/r/news/comments/nu1d6u/netanyahu_alleges_israeli_election_fraud_accuses/)
+- [Abubakar Shekau: Boko Haram leader is dead, say rival militant group](https://www.reddit.com/r/news/comments/nu0dms/abubakar_shekau_boko_haram_leader_is_dead_say/)
+- [TD Bank files lawsuit against Plaid, accusing it of trying to 'dupe' consumers](https://www.reddit.com/r/news/comments/ntzlif/td_bank_files_lawsuit_against_plaid_accusing_it/)
 <!-- REDDIT:END -->
 
 
