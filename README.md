@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richard Robinson, longtime Scholastic CEO, dead at 84](https://www.reddit.com/r/news/comments/ntzh0h/richard_robinson_longtime_scholastic_ceo_dead_at/)
+- [Cobby, oldest male chimp in a U.S. zoo, dies at 63](https://www.reddit.com/r/news/comments/ntyuo7/cobby_oldest_male_chimp_in_a_us_zoo_dies_at_63/)
+- [Clarence Williams III, ‘The Mod Squad’s’ Linc, dies at 81](https://www.reddit.com/r/news/comments/nty3rq/clarence_williams_iii_the_mod_squads_linc_dies_at/)
+- [UNRWA finds attack tunnel under one of its Gaza schools](https://www.reddit.com/r/news/comments/ntwfsx/unrwa_finds_attack_tunnel_under_one_of_its_gaza/)
+- [Mother of teenage murder suspect accused of scrubbing son's bloody jeans, authorities say](https://www.reddit.com/r/news/comments/ntvtlh/mother_of_teenage_murder_suspect_accused_of/)
 <!-- REDDIT:END -->
 
 
