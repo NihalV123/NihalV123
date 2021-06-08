@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gun, car used in shooting death of 6-year-old boy on 55 Freeway found, authorities say](https://www.reddit.com/r/news/comments/nut7p3/gun_car_used_in_shooting_death_of_6yearold_boy_on/)
+- [Two new species of cat-size flying squirrel discovered in the Himalaya](https://www.reddit.com/r/news/comments/nut1d2/two_new_species_of_catsize_flying_squirrel/)
+- [United Airlines says it, too, won't hire unvaccinated workers](https://www.reddit.com/r/news/comments/nusl0e/united_airlines_says_it_too_wont_hire/)
+- [Texas bakery 'overwhelmed' with business after backlash over rainbow Pride cookies](https://www.reddit.com/r/news/comments/nusfrb/texas_bakery_overwhelmed_with_business_after/)
+- [Kayaker's photos show crack in closed I-40 bridge in 2016](https://www.reddit.com/r/news/comments/nury0f/kayakers_photos_show_crack_in_closed_i40_bridge/)
 <!-- REDDIT:END -->
 
 
