@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hi-tech sting leads to global crackdown on organised crime, over 800 detained](https://www.reddit.com/r/news/comments/nv220u/hitech_sting_leads_to_global_crackdown_on/)
+- [Carpenter faces $15M lawsuit for criticizing sexual harassment comments in construction podcast](https://www.reddit.com/r/news/comments/nv1a03/carpenter_faces_15m_lawsuit_for_criticizing/)
+- [Multiple news sites down](https://www.reddit.com/r/news/comments/nv17j0/multiple_news_sites_down/)
+- [Drone refuels U.S. Navy fighter jet in midair for the first time](https://www.reddit.com/r/news/comments/nuzd1d/drone_refuels_us_navy_fighter_jet_in_midair_for/)
+- [Gun, car used in shooting death of 6-year-old boy on 55 Freeway found, authorities say](https://www.reddit.com/r/news/comments/nut7p3/gun_car_used_in_shooting_death_of_6yearold_boy_on/)
 <!-- REDDIT:END -->
 
 
