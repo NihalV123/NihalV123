@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rhodes College to charge health fee for unvaccinated students](https://www.reddit.com/r/news/comments/nw147a/rhodes_college_to_charge_health_fee_for/)
+- [France is sending a second Statue of Liberty to the US](https://www.reddit.com/r/news/comments/nvzgbv/france_is_sending_a_second_statue_of_liberty_to/)
+- [High school senior headed to Harvard donates her $40K scholarship to others](https://www.reddit.com/r/news/comments/nvz52c/high_school_senior_headed_to_harvard_donates_her/)
+- [Ohio will soon be home to the largest solar factory complex outside of China](https://www.reddit.com/r/news/comments/nvypi3/ohio_will_soon_be_home_to_the_largest_solar/)
+- [Woman reportedly gives birth to world record 10 babies](https://www.reddit.com/r/news/comments/nvyc9n/woman_reportedly_gives_birth_to_world_record_10/)
 <!-- REDDIT:END -->
 
 
