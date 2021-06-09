@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chipotle hikes prices to cover the cost of raising wages](https://www.reddit.com/r/news/comments/nvgam2/chipotle_hikes_prices_to_cover_the_cost_of/)
+- [Suspect arrested in Mexico 12 years after allegedly killing Milwaukee girl with screwdriver](https://www.reddit.com/r/news/comments/nvfezw/suspect_arrested_in_mexico_12_years_after/)
+- [Rapper Pooh Shiesty Arrested in Connection With Miami-Dade Strip Club Shooting](https://www.reddit.com/r/news/comments/nvf503/rapper_pooh_shiesty_arrested_in_connection_with/)
+- [Yale calls lecture with fantasy about shooting white people 'antithetical' to school's values](https://www.reddit.com/r/news/comments/nvey3s/yale_calls_lecture_with_fantasy_about_shooting/)
+- [Charlottesville City Council votes to remove two confederate statues after hearing from public](https://www.reddit.com/r/news/comments/nvdmy7/charlottesville_city_council_votes_to_remove_two/)
 <!-- REDDIT:END -->
 
 
