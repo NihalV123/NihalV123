@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Capitol attack was planned in plain sight, Senate report finds](https://www.reddit.com/r/news/comments/nvns7j/us_capitol_attack_was_planned_in_plain_sight/)
+- [Capitol rioter Ashli Babbitt’s family sues for records on officer who fatally shot her](https://www.reddit.com/r/news/comments/nvjvv6/capitol_rioter_ashli_babbitts_family_sues_for/)
+- [It’s literally raining PFAS around the Great Lakes, say researchers](https://www.reddit.com/r/news/comments/nvipr3/its_literally_raining_pfas_around_the_great_lakes/)
+- [The outgoing Israeli government has given the go-ahead for a march by religious nationalists which was cancelled by organisers over fears it could trigger a new round of conflict](https://www.reddit.com/r/news/comments/nvhctv/the_outgoing_israeli_government_has_given_the/)
+- [Chipotle hikes prices to cover the cost of raising wages](https://www.reddit.com/r/news/comments/nvgam2/chipotle_hikes_prices_to_cover_the_cost_of/)
 <!-- REDDIT:END -->
 
 
