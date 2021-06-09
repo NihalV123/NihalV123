@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wife of "El Chapo" expected to plead guilty to helping him run his multi-billion dollar drug empire](https://www.reddit.com/r/news/comments/nvt62r/wife_of_el_chapo_expected_to_plead_guilty_to/)
+- [Protesters maintain blockade at Minnesota oil pipeline site](https://www.reddit.com/r/news/comments/nvpa9u/protesters_maintain_blockade_at_minnesota_oil/)
+- [Deutsche Bank warns of global 'time bomb' coming due to rising inflation](https://www.reddit.com/r/news/comments/nvnz0l/deutsche_bank_warns_of_global_time_bomb_coming/)
+- [US Capitol attack was planned in plain sight, Senate report finds](https://www.reddit.com/r/news/comments/nvns7j/us_capitol_attack_was_planned_in_plain_sight/)
+- [Capitol rioter Ashli Babbitt’s family sues for records on officer who fatally shot her](https://www.reddit.com/r/news/comments/nvjvv6/capitol_rioter_ashli_babbitts_family_sues_for/)
 <!-- REDDIT:END -->
 
 
