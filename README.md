@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [B.C. government grants First Nations' request to defer logging at Fairy Creek and Central Walbran](https://www.reddit.com/r/news/comments/nwe337/bc_government_grants_first_nations_request_to/)
+- [Four California officers on leave after video of suspect being punched, kicked during arrest](https://www.reddit.com/r/news/comments/nwco0v/four_california_officers_on_leave_after_video_of/)
+- [After truck breaks down, Addison firefighters hose down 14,000 chickens to keep them cool in the heat](https://www.reddit.com/r/news/comments/nwahiu/after_truck_breaks_down_addison_firefighters_hose/)
+- [Mayor: Seattle 1st major city to fully vaccinate 70%](https://www.reddit.com/r/news/comments/nwa1a9/mayor_seattle_1st_major_city_to_fully_vaccinate_70/)
+- [Houston hospital suspends 178 employees who refused Covid-19 vaccination](https://www.reddit.com/r/news/comments/nw9jsh/houston_hospital_suspends_178_employees_who/)
 <!-- REDDIT:END -->
 
 
