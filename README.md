@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows moment Arkansas state trooper flips pregnant woman's car](https://www.reddit.com/r/news/comments/nx21nt/video_shows_moment_arkansas_state_trooper_flips/)
+- [China has created a "dystopian hellscape" in Xinjiang, Amnesty report says](https://www.reddit.com/r/news/comments/nx130j/china_has_created_a_dystopian_hellscape_in/)
+- [Three Percenters militia members charged in U.S. Capitol attack](https://www.reddit.com/r/news/comments/nx0qjv/three_percenters_militia_members_charged_in_us/)
+- [Human smugglers with links to Cartels operate on Facebook in plain sight, report alleges](https://www.reddit.com/r/news/comments/nwzuus/human_smugglers_with_links_to_cartels_operate_on/)
+- [Lake Mead hits lowest water levels in history amid severe drought in the West](https://www.reddit.com/r/news/comments/nwxt6u/lake_mead_hits_lowest_water_levels_in_history/)
 <!-- REDDIT:END -->
 
 
