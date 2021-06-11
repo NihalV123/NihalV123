@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arkansas state trooper sued for allegedly causing a pregnant woman's car to flip during traffic stop](https://www.reddit.com/r/news/comments/nx74vl/arkansas_state_trooper_sued_for_allegedly_causing/)
+- [Oregon House expels state Rep. Mike Nearman, plotter of state Capitol incursion](https://www.reddit.com/r/news/comments/nx6mla/oregon_house_expels_state_rep_mike_nearman/)
+- [An electrical substation fire in Puerto Rico has knocked out power throughout the island](https://www.reddit.com/r/news/comments/nx5acz/an_electrical_substation_fire_in_puerto_rico_has/)
+- [Two passengers on Celebrity Millennium cruise test positive for Covid-19](https://www.reddit.com/r/news/comments/nx4enl/two_passengers_on_celebrity_millennium_cruise/)
+- [Louisiana police unit investigated over possible systemic abuse and racism by its troopers: AP](https://www.reddit.com/r/news/comments/nx43q3/louisiana_police_unit_investigated_over_possible/)
 <!-- REDDIT:END -->
 
 
