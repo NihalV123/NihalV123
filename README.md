@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chinese official dies by apparent suicide during probe into deaths of 21 runners](https://www.reddit.com/r/news/comments/nxkf4n/chinese_official_dies_by_apparent_suicide_during/)
+- [Prosecutors say 10-year-old Justin Wallace was shot in heart as suspect is charged with murder](https://www.reddit.com/r/news/comments/nxjwad/prosecutors_say_10yearold_justin_wallace_was_shot/)
+- [Sisolak signs bill making Nevada the second state to adopt a public health insurance option](https://www.reddit.com/r/news/comments/nxjq65/sisolak_signs_bill_making_nevada_the_second_state/)
+- [Jeffrey Toobin is back at CNN eight months after exposing himself on Zoom](https://www.reddit.com/r/news/comments/nxj5ya/jeffrey_toobin_is_back_at_cnn_eight_months_after/)
+- [Man found dead after plans to buy ATV from Facebook Marketplace](https://www.reddit.com/r/news/comments/nxi80q/man_found_dead_after_plans_to_buy_atv_from/)
 <!-- REDDIT:END -->
 
 
