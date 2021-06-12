@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man charged with hate crime after verbal, physical assault on family of Asian descent](https://www.reddit.com/r/news/comments/nycdes/man_charged_with_hate_crime_after_verbal_physical/)
+- [Denmark’s Christian Eriksen collapsed on the field against Finland.](https://www.reddit.com/r/news/comments/nybdpq/denmarks_christian_eriksen_collapsed_on_the_field/)
+- [Denmark vs Finland suspended as danish player Christian Erickson collapses on pitch.](https://www.reddit.com/r/news/comments/nybd5n/denmark_vs_finland_suspended_as_danish_player/)
+- [Delta passengers and crew subdue unruly passenger on Atlanta-bound flight](https://www.reddit.com/r/news/comments/ny9ajz/delta_passengers_and_crew_subdue_unruly_passenger/)
+- [Prosecutors can seek 'virtual trial' of US diplomat's wife accused of killing a British teenager, UK says](https://www.reddit.com/r/news/comments/ny8el4/prosecutors_can_seek_virtual_trial_of_us/)
 <!-- REDDIT:END -->
 
 
