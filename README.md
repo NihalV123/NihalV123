@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AP wins 2 Pulitzers for photos of pandemic pain, US unrest](https://www.reddit.com/r/news/comments/ny4h8i/ap_wins_2_pulitzers_for_photos_of_pandemic_pain/)
+- [YouTube suspends GOP Sen. Ron Johnson's account, says he violated Covid-19 policy](https://www.reddit.com/r/news/comments/ny2xxx/youtube_suspends_gop_sen_ron_johnsons_account/)
+- [The woman who spent lockdown alone in the Arctic](https://www.reddit.com/r/news/comments/ny2ujv/the_woman_who_spent_lockdown_alone_in_the_arctic/)
+- [At least 12 injured in shooting in downtown Austin, Texas](https://www.reddit.com/r/news/comments/ny25ur/at_least_12_injured_in_shooting_in_downtown/)
+- [Disney World Dropping Indoor Masks Policy For Vaccinated Guests](https://www.reddit.com/r/news/comments/nxwg41/disney_world_dropping_indoor_masks_policy_for/)
 <!-- REDDIT:END -->
 
 
