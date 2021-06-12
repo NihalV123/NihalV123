@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pulitzer Prizes award special citation to Darnella Frazier, teen who recorded George Floyd killing](https://www.reddit.com/r/news/comments/nxy2tm/pulitzer_prizes_award_special_citation_to/)
+- [Disney World Dropping Indoor Masks Policy For Vaccinated Guests](https://www.reddit.com/r/news/comments/nxwg41/disney_world_dropping_indoor_masks_policy_for/)
+- [Police arrest a suspect in an Oregon city's oldest cold case homicide with the help of DNA](https://www.reddit.com/r/news/comments/nxw3eu/police_arrest_a_suspect_in_an_oregon_citys_oldest/)
+- [Federal board unanimously approves to rename 16 Texas geographic sites that included the word 'Negro'](https://www.reddit.com/r/news/comments/nxv1tu/federal_board_unanimously_approves_to_rename_16/)
+- [China warns Japan after its PM refers to Taiwan as a ‘country’](https://www.reddit.com/r/news/comments/nxugq5/china_warns_japan_after_its_pm_refers_to_taiwan/)
 <!-- REDDIT:END -->
 
 
