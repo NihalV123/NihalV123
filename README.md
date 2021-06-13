@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [How qualified immunity shields cops accused of excessive force](https://www.reddit.com/r/news/comments/nykdcv/how_qualified_immunity_shields_cops_accused_of/)
+- [Mother accused of throwing 1-month-old daughter, 2-year-old son from second-floor window](https://www.reddit.com/r/news/comments/nyj48f/mother_accused_of_throwing_1monthold_daughter/)
+- [Monsoon season is not expected to bring much relief to the drought-stricken Southwest this year](https://www.reddit.com/r/news/comments/nyizmz/monsoon_season_is_not_expected_to_bring_much/)
+- [Jury finds Joseph Daniels guilty of felony murder in death of Joe Clyde Daniels](https://www.reddit.com/r/news/comments/nyiop2/jury_finds_joseph_daniels_guilty_of_felony_murder/)
+- [Police arrest 12-year-old girl suspected of setting four separate fires in the Berkeley Hills](https://www.reddit.com/r/news/comments/nyict8/police_arrest_12yearold_girl_suspected_of_setting/)
 <!-- REDDIT:END -->
 
 
