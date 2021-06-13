@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Many' people trapped after huge gas explosion in central Chinese city](https://www.reddit.com/r/news/comments/nyoqum/many_people_trapped_after_huge_gas_explosion_in/)
+- [One arrest made in Austin, Texas, mass shooting that injured 14 people](https://www.reddit.com/r/news/comments/nyocfk/one_arrest_made_in_austin_texas_mass_shooting/)
+- [Judge dismisses lawsuit from Houston hospital employees over vaccine](https://www.reddit.com/r/news/comments/nyoa67/judge_dismisses_lawsuit_from_houston_hospital/)
+- [Punjab province in Pakistan to block SIM cards and salaries of unvaccinated people](https://www.reddit.com/r/news/comments/nynzwx/punjab_province_in_pakistan_to_block_sim_cards/)
+- [Alberta launches COVID-19 vaccination lottery with three $1 million prizes](https://www.reddit.com/r/news/comments/nympgk/alberta_launches_covid19_vaccination_lottery_with/)
 <!-- REDDIT:END -->
 
 
