@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [9-year-old boy accidentally shot in chest by father after alleged road rage incident](https://www.reddit.com/r/news/comments/nyupc0/9yearold_boy_accidentally_shot_in_chest_by_father/)
+- [Putin says Russia would accept conditional handover of cyber criminals to U.S.](https://www.reddit.com/r/news/comments/nytva2/putin_says_russia_would_accept_conditional/)
+- [Daily US COVID-19 cases fell below 10K this week](https://www.reddit.com/r/news/comments/nyr240/daily_us_covid19_cases_fell_below_10k_this_week/)
+- [Dangerous heat wave headed to the West: Latest forecast](https://www.reddit.com/r/news/comments/nypk7y/dangerous_heat_wave_headed_to_the_west_latest/)
+- ['Many' people trapped after huge gas explosion in central Chinese city](https://www.reddit.com/r/news/comments/nyoqum/many_people_trapped_after_huge_gas_explosion_in/)
 <!-- REDDIT:END -->
 
 
