@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ["Departures of Police Officers Accelerated During a Year of Protests" Retirements nationwide were up by 45 percent and resignations by 18 percent in the 12-month period ending in April.](https://www.reddit.com/r/news/comments/nz1fsv/departures_of_police_officers_accelerated_during/)
+- [Suspect arrested in connection with 3 shootings in less than 24 hours in Georgia and Alabama](https://www.reddit.com/r/news/comments/nz04ol/suspect_arrested_in_connection_with_3_shootings/)
+- [Investigators digging under the house of a suspected serial killer on the outskirts of Mexico City said Saturday they have found 3,787 bone fragments so far, apparently belonging to 17 different victims](https://www.reddit.com/r/news/comments/nyzucr/investigators_digging_under_the_house_of_a/)
+- [Cyclist confronts driver who sexually harassed her](https://www.reddit.com/r/news/comments/nyzcdw/cyclist_confronts_driver_who_sexually_harassed_her/)
+- [Man denied bail after stabbing pregnant woman on Georgia trail](https://www.reddit.com/r/news/comments/nyz5ih/man_denied_bail_after_stabbing_pregnant_woman_on/)
 <!-- REDDIT:END -->
 
 
