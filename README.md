@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [G7 commits to removing forced labor from global supply chains - U.S. says](https://www.reddit.com/r/news/comments/nzjxxy/g7_commits_to_removing_forced_labor_from_global/)
+- [Georgia man killed roommate, cut body into pieces, officials say](https://www.reddit.com/r/news/comments/nzjnp0/georgia_man_killed_roommate_cut_body_into_pieces/)
+- [Indonesia police investigate death of politician who opposed remote gold mine](https://www.reddit.com/r/news/comments/nzhz2i/indonesia_police_investigate_death_of_politician/)
+- [IRS now sending millions more additional stimulus checks](https://www.reddit.com/r/news/comments/nzhfyq/irs_now_sending_millions_more_additional_stimulus/)
+- [Philips recalls 3-4 mln sleep apnea, ventilator machines due to risks](https://www.reddit.com/r/news/comments/nzhag5/philips_recalls_34_mln_sleep_apnea_ventilator/)
 <!-- REDDIT:END -->
 
 
