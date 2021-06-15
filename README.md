@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Rep. Ashley Henley shot, killed outside home where sister-in-law’s body had been found](https://www.reddit.com/r/news/comments/o0cok4/former_rep_ashley_henley_shot_killed_outside_home/)
+- ['It was our children they killed': Russian mercenaries implicated in the torture and killing of civilians in Central African Republic](https://www.reddit.com/r/news/comments/o0brx6/it_was_our_children_they_killed_russian/)
+- [DOJ Seeks to Reinstate Death Penalty for Boston Marathon Bomber](https://www.reddit.com/r/news/comments/o0bp9f/doj_seeks_to_reinstate_death_penalty_for_boston/)
+- [Topless 'breast activists' ejected from Tampere public sauna](https://www.reddit.com/r/news/comments/o0bg6z/topless_breast_activists_ejected_from_tampere/)
+- [NASA designs new spacesuits for next lunar mission in 2024](https://www.reddit.com/r/news/comments/o07ztc/nasa_designs_new_spacesuits_for_next_lunar/)
 <!-- REDDIT:END -->
 
 
