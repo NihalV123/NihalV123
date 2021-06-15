@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cashier dead, 2 wounded during argument over Georgia store's mask policy: Sheriff](https://www.reddit.com/r/news/comments/nzysyn/cashier_dead_2_wounded_during_argument_over/)
+- [Dad killed girl to silence sex abuse claims, court told](https://www.reddit.com/r/news/comments/nzyidh/dad_killed_girl_to_silence_sex_abuse_claims_court/)
+- [15-year-old killed by lightning strike at beach while swimming on vacation](https://www.reddit.com/r/news/comments/nzye5q/15yearold_killed_by_lightning_strike_at_beach/)
+- [Rupert Murdoch's The Sun newspaper is valued at zero after $200M in losses in a year](https://www.reddit.com/r/news/comments/nzwap4/rupert_murdochs_the_sun_newspaper_is_valued_at/)
+- [Iowa father and Minnesota son charged with storming Capitol during Jan. 6 riot](https://www.reddit.com/r/news/comments/nzw642/iowa_father_and_minnesota_son_charged_with/)
 <!-- REDDIT:END -->
 
 
