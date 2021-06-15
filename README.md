@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Unplanned' outages hit Texas power plants in soaring temperatures](https://www.reddit.com/r/news/comments/o06cmi/unplanned_outages_hit_texas_power_plants_in/)
+- [Cashier dead, 2 wounded during argument over Georgia store's mask policy: Sheriff](https://www.reddit.com/r/news/comments/o04sv3/cashier_dead_2_wounded_during_argument_over/)
+- [Biden returns $26M in border wall money to Norfolk Naval Shipyard](https://www.reddit.com/r/news/comments/o037pq/biden_returns_26m_in_border_wall_money_to_norfolk/)
+- [$1.2 million worth of cocaine found on Florida beach during turtle nesting survey](https://www.reddit.com/r/news/comments/o01vat/12_million_worth_of_cocaine_found_on_florida/)
+- [Iowa Man Is Sentenced to 10 Years in Prison After Mask Fight](https://www.reddit.com/r/news/comments/o01pc6/iowa_man_is_sentenced_to_10_years_in_prison_after/)
 <!-- REDDIT:END -->
 
 
