@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [MacKenzie Scott, citing wealth gap, donates $2.7 billion](https://www.reddit.com/r/news/comments/o0jnj8/mackenzie_scott_citing_wealth_gap_donates_27/)
+- [Canada tops world in vaccinated population as new COVID-19 cases fall below 1,000](https://www.reddit.com/r/news/comments/o0j3ug/canada_tops_world_in_vaccinated_population_as_new/)
+- [Extreme heat in the West could break 200 records and produce temps up to 127 degrees](https://www.reddit.com/r/news/comments/o0hx96/extreme_heat_in_the_west_could_break_200_records/)
+- [Lisa Banes, 'Gone Girl' actress, has died following hit and run accident](https://www.reddit.com/r/news/comments/o0hi16/lisa_banes_gone_girl_actress_has_died_following/)
+- [Toxic ‘forever chemicals’ widespread in top makeup brands, study finds](https://www.reddit.com/r/news/comments/o0g6ye/toxic_forever_chemicals_widespread_in_top_makeup/)
 <!-- REDDIT:END -->
 
 
