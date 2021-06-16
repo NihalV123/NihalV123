@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 Honolulu police officers charged in killing of 16-year-old](https://www.reddit.com/r/news/comments/o0v5hc/3_honolulu_police_officers_charged_in_killing_of/)
+- [California Woman Sues Red Lobster For "Deceptive Advertising" Of "Sustainable" Maine Lobster](https://www.reddit.com/r/news/comments/o0u43a/california_woman_sues_red_lobster_for_deceptive/)
+- [AP says it will no longer name suspects in minor crimes](https://www.reddit.com/r/news/comments/o0tqit/ap_says_it_will_no_longer_name_suspects_in_minor/)
+- [Man accused of shooting catalytic converter thief, dragging body behind his truck](https://www.reddit.com/r/news/comments/o0st50/man_accused_of_shooting_catalytic_converter_thief/)
+- [More evidence suggests COVID-19 was in US by Christmas 2019](https://www.reddit.com/r/news/comments/o0shln/more_evidence_suggests_covid19_was_in_us_by/)
 <!-- REDDIT:END -->
 
 
