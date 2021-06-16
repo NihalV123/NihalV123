@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Loan relief granted to defrauded for-profit college students](https://www.reddit.com/r/news/comments/o12n3a/loan_relief_granted_to_defrauded_forprofit/)
+- [Israeli military says it launched air strike at Gaza over incendiary balloons](https://www.reddit.com/r/news/comments/o10wah/israeli_military_says_it_launched_air_strike_at/)
+- [Cases of a dangerous Covid-19 variant are 'rapidly increasing' in US, expert says](https://www.reddit.com/r/news/comments/o10097/cases_of_a_dangerous_covid19_variant_are_rapidly/)
+- [899 People Received Expired Pfizer COVID-19 Vaccine Doses at Times Square Site](https://www.reddit.com/r/news/comments/o0xzgh/899_people_received_expired_pfizer_covid19/)
+- [3 Honolulu police officers charged in killing of 16-year-old](https://www.reddit.com/r/news/comments/o0v5hc/3_honolulu_police_officers_charged_in_killing_of/)
 <!-- REDDIT:END -->
 
 
