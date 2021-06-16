@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [GM Considering Dropping Pot Testing To Attract More Workers](https://www.reddit.com/r/news/comments/o19ax6/gm_considering_dropping_pot_testing_to_attract/)
+- [Cannabis dispensary Budway must pay $40K after Subway sues over trademark](https://www.reddit.com/r/news/comments/o18p89/cannabis_dispensary_budway_must_pay_40k_after/)
+- [Germany has recalled a platoon from a Nato mission in Lithuania after reports emerged of troops engaging in racist and anti-Semitic behaviour, as well as sexual assault.](https://www.reddit.com/r/news/comments/o1732t/germany_has_recalled_a_platoon_from_a_nato/)
+- [Spanish man jailed for killing and eating his mother](https://www.reddit.com/r/news/comments/o15t1d/spanish_man_jailed_for_killing_and_eating_his/)
+- [New York grapples with growing presence of homeless in midtown Manhattan](https://www.reddit.com/r/news/comments/o154on/new_york_grapples_with_growing_presence_of/)
 <!-- REDDIT:END -->
 
 
