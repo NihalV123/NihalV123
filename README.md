@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court sides with Catholic adoption agency that refuses to work with LGBT couples](https://www.reddit.com/r/news/comments/o229ef/supreme_court_sides_with_catholic_adoption_agency/)
+- [Most Federal Employees Will Receive Friday Off for Juneteenth](https://www.reddit.com/r/news/comments/o217d5/most_federal_employees_will_receive_friday_off/)
+- [Florida teen charged after 6-year-old fatally shoots himself](https://www.reddit.com/r/news/comments/o20c62/florida_teen_charged_after_6yearold_fatally/)
+- [San Jose mandates video and audio recordings of gun sales after rail yard mass shooting](https://www.reddit.com/r/news/comments/o1zqrm/san_jose_mandates_video_and_audio_recordings_of/)
+- [Nestle and Cargill win child slavery case at Supreme Court](https://www.reddit.com/r/news/comments/o1yuw6/nestle_and_cargill_win_child_slavery_case_at/)
 <!-- REDDIT:END -->
 
 
