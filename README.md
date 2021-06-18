@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina electric chair executions halted as court says death row killers must get firing squad option](https://www.reddit.com/r/news/comments/o2m20g/south_carolina_electric_chair_executions_halted/)
+- [SA police replace cocaine with icing sugar in hollowed-out novel, leading to drug trafficking acquittal](https://www.reddit.com/r/news/comments/o2lyw9/sa_police_replace_cocaine_with_icing_sugar_in/)
+- [Rhode Island Makes Financial Literacy A Required Class For All High School Students](https://www.reddit.com/r/news/comments/o2kj8l/rhode_island_makes_financial_literacy_a_required/)
+- [Yorkshire anti-masker faces up to six months in Singapore prison after riding train without face covering](https://www.reddit.com/r/news/comments/o2kgoe/yorkshire_antimasker_faces_up_to_six_months_in/)
+- [It is now illegal to pay disabled people in Hawaii less than minimum wage](https://www.reddit.com/r/news/comments/o2kggd/it_is_now_illegal_to_pay_disabled_people_in/)
 <!-- REDDIT:END -->
 
 
