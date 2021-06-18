@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
-- [Everything New In React 18!](https://www.youtube.com/watch?v=t8E_xtofvVY)
-- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
+- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
+- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
+- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -340,34 +340,33 @@ Top 4 most used languages across your repositories:
 ### INDIAN
 
 <!-- INDIAN:START -->
-- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 <!-- INDIAN:END -->
 
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [South Carolina electric chair executions halted as court says death row killers must get firing squad option](https://www.reddit.com/r/news/comments/o2m20g/south_carolina_electric_chair_executions_halted/)
-- [SA police replace cocaine with icing sugar in hollowed-out novel, leading to drug trafficking acquittal](https://www.reddit.com/r/news/comments/o2lyw9/sa_police_replace_cocaine_with_icing_sugar_in/)
-- [Rhode Island Makes Financial Literacy A Required Class For All High School Students](https://www.reddit.com/r/news/comments/o2kj8l/rhode_island_makes_financial_literacy_a_required/)
-- [Yorkshire anti-masker faces up to six months in Singapore prison after riding train without face covering](https://www.reddit.com/r/news/comments/o2kgoe/yorkshire_antimasker_faces_up_to_six_months_in/)
-- [It is now illegal to pay disabled people in Hawaii less than minimum wage](https://www.reddit.com/r/news/comments/o2kggd/it_is_now_illegal_to_pay_disabled_people_in/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Create a Simple Responsive GridView with Flutter](https://blog.albertobonacina.com/create-a-simple-responsive-gridview-with-flutter)
-- [Create a Simple Contact App with Faker & Flutter](https://blog.albertobonacina.com/create-a-simple-contact-app-with-faker-and-flutter)
-- [Create a Simple Timetable App with JSON & Flutter](https://blog.albertobonacina.com/create-a-simple-timetable-app-with-json-and-flutter)
-- [How to protect yourself online in 5 steps](https://blog.albertobonacina.com/how-to-protect-yourself-online-in-5-steps)
-- [Cryptocurrency 101: all you need to know to start](https://blog.albertobonacina.com/cryptocurrency-101-all-you-need-to-know-to-start)
+- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
+- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
+- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
+- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
 
 <!-- ANCHOR:START -->
-- [A hack to become exponentially better at everything you do!](https://anchor.fm/laii/episodes/A-hack-to-become-exponentially-better-at-everything-you-do-e128jkv)
 - [A hack to happiness!](https://anchor.fm/laii/episodes/A-hack-to-happiness-ek7uuc)
 - [I quit social media for 30 days & here's what I learned](https://anchor.fm/laii/episodes/I-quit-social-media-for-30-days--heres-what-I-learned-eg0j3d)
 - [Introduction](https://anchor.fm/laii/episodes/Introduction-ed8chg)
@@ -392,11 +391,11 @@ Top 4 most used languages across your repositories:
 ### STACKEXCHANGE
 
 <!-- STACKEXCHANGE:START -->
-- [Answer by Gepser - for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
-- [Answer by Gepser - for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
-- [Answer by Gepser - for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
+- [Answer by Gepser for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
+- [Answer by Gepser for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
+- [Answer by Gepser for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
 - [How to create a host on a DigitalOcean team with Terraform?](https://devops.stackexchange.com/questions/60/how-to-create-a-host-on-a-digitalocean-team-with-terraform)
-- [Answer by Gepser - for How do you back up Jenkins jobs & master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
+- [Answer by Gepser for How do you back up Jenkins jobs & master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
 <!-- STACKEXCHANGE:END -->
 
 ### My Blog
@@ -410,29 +409,27 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Criando ambientes de teste dinamicamente com GitHub Actions](https://blog.lsantos.dev/ambientes-dinamicos-helm-actions/)
-- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://blog.lsantos.dev/o-guia-do-grpc-3/)
-- [Veja o que há de novo no Node.js 16](https://blog.lsantos.dev/veja-o-que-ha-de-novo-no-node-js-16/)
-- [Não só de Docker vivem os containers](https://blog.lsantos.dev/nao-so-de-docker-vivem-os-containers/)
-- [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://blog.lsantos.dev/o-guia-do-grpc-2/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 
 <!-- FCC:START -->
-- [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
-- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [O guia completo do gRPC parte 3: Tipos em tudo com TypeScript!](https://dev.to/azure/o-guia-completo-do-grpc-parte-3-tipos-em-tudo-com-typescript-3in5)
-- [Veja o que há de novo no Node.js 16](https://dev.to/khaosdoctor/veja-o-que-ha-de-novo-no-node-js-16-1mb5)
-- [Não só de Docker vivem os containers](https://dev.to/khaosdoctor/nao-so-de-docker-vivem-os-containers-hl2)
-- [O guia completo do gRPC parte 2: Mãos à obra com JavaScript](https://dev.to/azure/o-guia-completo-do-grpc-parte-2-maos-a-obra-com-javascript-10h1)
-- [O que é Open Source?](https://dev.to/khaosdoctor/o-que-e-open-source-1h3p)
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -441,6 +438,7 @@ Top 4 most used languages across your repositories:
 - [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
 - [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
 - [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
+- [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
  ---
