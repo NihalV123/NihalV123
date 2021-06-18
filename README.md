@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge: No car show trip for man arrested in Capitol riot](https://www.reddit.com/r/news/comments/o2vkz3/judge_no_car_show_trip_for_man_arrested_in/)
+- [Police smashed their living room window with an armoured vehicle in a drug raid that found nothing | CBC News](https://www.reddit.com/r/news/comments/o2snge/police_smashed_their_living_room_window_with_an/)
+- [Montreal police filmed kneeling on Black teen's neck, prompting calls for investigation | CBC News](https://www.reddit.com/r/news/comments/o2slp1/montreal_police_filmed_kneeling_on_black_teens/)
+- [Artists overwhelmed with gigs as 'shortage of musicians' takes hold of Broadway](https://www.reddit.com/r/news/comments/o2sa7q/artists_overwhelmed_with_gigs_as_shortage_of/)
+- [Lost brown bear in Japan injures four, breaks into military base and delays flights before being shot dead](https://www.reddit.com/r/news/comments/o2rday/lost_brown_bear_in_japan_injures_four_breaks_into/)
 <!-- REDDIT:END -->
 
 
