@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Entire Portland Police crowd control unit resigns after officer indicted](https://www.reddit.com/r/news/comments/o2h5iu/entire_portland_police_crowd_control_unit_resigns/)
+- [$6M settlement after 'KKK' deputies sued for excessive force](https://www.reddit.com/r/news/comments/o2g5mv/6m_settlement_after_kkk_deputies_sued_for/)
+- [The man who allegedly fatally shot a 6-year-old in road range incident brandished a gun days later, prosecutors say](https://www.reddit.com/r/news/comments/o2ffb1/the_man_who_allegedly_fatally_shot_a_6yearold_in/)
+- [Louisiana bill decriminalizing marijuana signed into law Tuesday](https://www.reddit.com/r/news/comments/o2eht0/louisiana_bill_decriminalizing_marijuana_signed/)
+- [Wildfire in Montana explodes to 21,000 acres as heat wave continues](https://www.reddit.com/r/news/comments/o2dolj/wildfire_in_montana_explodes_to_21000_acres_as/)
 <!-- REDDIT:END -->
 
 
