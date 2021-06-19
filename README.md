@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [United Nations calls for halt of weapons to Myanmar](https://www.reddit.com/r/news/comments/o38s5i/united_nations_calls_for_halt_of_weapons_to/)
+- [Police say shooting spree in Georgia, Alabama was racially motivated](https://www.reddit.com/r/news/comments/o35clz/police_say_shooting_spree_in_georgia_alabama_was/)
+- [Ottawa police open tip line into possible serial cat killer; so far five dead cats have been found, showing human signs of abuse](https://www.reddit.com/r/news/comments/o34kht/ottawa_police_open_tip_line_into_possible_serial/)
+- [Rabid dog imported into US sparks multi-state investigation](https://www.reddit.com/r/news/comments/o33is4/rabid_dog_imported_into_us_sparks_multistate/)
+- [Mother "numb" over high school yearbook message of support for son's accused killer](https://www.reddit.com/r/news/comments/o32j4j/mother_numb_over_high_school_yearbook_message_of/)
 <!-- REDDIT:END -->
 
 
