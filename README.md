@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bidens announce their 'beloved' German Shepherd Champ has died](https://www.reddit.com/r/news/comments/o3jab4/bidens_announce_their_beloved_german_shepherd/)
+- [Expensive brain-cancer drug no longer an option under Medicare](https://www.reddit.com/r/news/comments/o3ih4x/expensive_braincancer_drug_no_longer_an_option/)
+- [Hiker from Dublin has been missing for 10 days in Grand Teton National Park](https://www.reddit.com/r/news/comments/o3ih00/hiker_from_dublin_has_been_missing_for_10_days_in/)
+- [Texas authorities threaten SpaceX with legal action over beach closures, private security](https://www.reddit.com/r/news/comments/o3hkij/texas_authorities_threaten_spacex_with_legal/)
+- [NFL Receiver Beasley would rather retire then get vaccinated.](https://www.reddit.com/r/news/comments/o3gw8q/nfl_receiver_beasley_would_rather_retire_then_get/)
 <!-- REDDIT:END -->
 
 
