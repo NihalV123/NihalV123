@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Delta variant infecting mounting number of people in rural Kansas and Missouri](https://www.reddit.com/r/news/comments/o3qtg7/delta_variant_infecting_mounting_number_of_people/)
+- [Afghans who helped Lithuanian troops to receive asylum, says minister](https://www.reddit.com/r/news/comments/o3q5z0/afghans_who_helped_lithuanian_troops_to_receive/)
+- [Woman dies after falling 200 feet from Wyoming mountain cliff](https://www.reddit.com/r/news/comments/o3oxkj/woman_dies_after_falling_200_feet_from_wyoming/)
+- [Delaware lawmakers give final approval to $15 minimum wage](https://www.reddit.com/r/news/comments/o3osf2/delaware_lawmakers_give_final_approval_to_15/)
+- [Buffalo Bills' Cole Beasley says he'd rather retire than get Covid-19 vaccine](https://www.reddit.com/r/news/comments/o3or8l/buffalo_bills_cole_beasley_says_hed_rather_retire/)
 <!-- REDDIT:END -->
 
 
