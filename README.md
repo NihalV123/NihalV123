@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The world's most premature baby has celebrated his first birthday after beating 0% odds of surviving](https://www.reddit.com/r/news/comments/o43nly/the_worlds_most_premature_baby_has_celebrated_his/)
+- [Airbnb tried to hide a crime in one of its accommodations by paying 7 million dollars](https://www.reddit.com/r/news/comments/o43jes/airbnb_tried_to_hide_a_crime_in_one_of_its/)
+- [Ugandan Olympic coach tests positive for Covid after arriving in Japan](https://www.reddit.com/r/news/comments/o431ec/ugandan_olympic_coach_tests_positive_for_covid/)
+- [Murder suspect in alleged road rage shooting denied bail for posing 'complete danger': Judge](https://www.reddit.com/r/news/comments/o403ny/murder_suspect_in_alleged_road_rage_shooting/)
+- [Hoover Dam’s Lake Mead Hits Lowest Water Level Since 1930s](https://www.reddit.com/r/news/comments/o3ymeu/hoover_dams_lake_mead_hits_lowest_water_level/)
 <!-- REDDIT:END -->
 
 
