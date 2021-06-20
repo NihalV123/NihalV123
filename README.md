@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada hits COVID-19 vaccine milestone as 75% receive one dose, 20% fully vaccinated](https://www.reddit.com/r/news/comments/o3y7wj/canada_hits_covid19_vaccine_milestone_as_75/)
+- [Five shot, one fatally, in downtown Anchorage, Alaska](https://www.reddit.com/r/news/comments/o3x6x9/five_shot_one_fatally_in_downtown_anchorage_alaska/)
+- [2 People Hit, One Killed at Pride Parade by Pickup Truck Driver](https://www.reddit.com/r/news/comments/o3vuim/2_people_hit_one_killed_at_pride_parade_by_pickup/)
+- [Data Collection Centers are Taking Water Away from Communities that Need it](https://www.reddit.com/r/news/comments/o3vpne/data_collection_centers_are_taking_water_away/)
+- [California: Latin Kings Gang Member Raped Elderly, Paralyzed Woman For Hours](https://www.reddit.com/r/news/comments/o3tu88/california_latin_kings_gang_member_raped_elderly/)
 <!-- REDDIT:END -->
 
 
