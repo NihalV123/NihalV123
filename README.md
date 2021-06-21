@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Far-right extremist who threatened top Belgian doctor appears to have killed himself, prosecutor says](https://www.reddit.com/r/news/comments/o4hkiq/farright_extremist_who_threatened_top_belgian/)
+- [As COVID-19 wave begins to flatten in India, new deadly illness poses a challenge](https://www.reddit.com/r/news/comments/o4h65g/as_covid19_wave_begins_to_flatten_in_india_new/)
+- [Fugitive in Oregon triple killing turns himself into custody](https://www.reddit.com/r/news/comments/o4fqwl/fugitive_in_oregon_triple_killing_turns_himself/)
+- [Madeline Davis, Who Spoke to the Nation as a Lesbian, Dies at 80](https://www.reddit.com/r/news/comments/o4ercw/madeline_davis_who_spoke_to_the_nation_as_a/)
+- [NYPD investigating after car hits family of 6 in the Bronx](https://www.reddit.com/r/news/comments/o4eq74/nypd_investigating_after_car_hits_family_of_6_in/)
 <!-- REDDIT:END -->
 
 
