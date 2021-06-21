@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Confirmed Large and Extremely Dangerous Tornado' Touches Down in Chicago Suburbs](https://www.reddit.com/r/news/comments/o4njvu/confirmed_large_and_extremely_dangerous_tornado/)
+- [Texas Says It Will Build the Wall, and Asks Online Donors to Pay for It](https://www.reddit.com/r/news/comments/o4me73/texas_says_it_will_build_the_wall_and_asks_online/)
+- [French Far Right Is Dealt a Setback in First Round of Regional Elections](https://www.reddit.com/r/news/comments/o4kt6k/french_far_right_is_dealt_a_setback_in_first/)
+- [Fiona Hill welcomes "obligatory" new U.S. sanctions on Russia over Navalny poisoning](https://www.reddit.com/r/news/comments/o4jtio/fiona_hill_welcomes_obligatory_new_us_sanctions/)
+- [10 year old boy in South Dakota named Ricky Lee dies after saving his younger sister from drowning](https://www.reddit.com/r/news/comments/o4jhd4/10_year_old_boy_in_south_dakota_named_ricky_lee/)
 <!-- REDDIT:END -->
 
 
