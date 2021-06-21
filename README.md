@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Waitress abducted and assaulted after chasing 5 people who ran out on $70 bill: Police](https://www.reddit.com/r/news/comments/o4sveq/waitress_abducted_and_assaulted_after_chasing_5/)
+- [7-year-old's body found days after group of tubers went over a dam in North Carolina](https://www.reddit.com/r/news/comments/o4snsn/7yearolds_body_found_days_after_group_of_tubers/)
+- [Claudette regains tropical storm strength after 13 deaths](https://www.reddit.com/r/news/comments/o4reyd/claudette_regains_tropical_storm_strength_after/)
+- [42,000 pounds of missing pistachios leads to possible illegal pistachio operation.](https://www.reddit.com/r/news/comments/o4op78/42000_pounds_of_missing_pistachios_leads_to/)
+- [‘Confirmed Large and Extremely Dangerous Tornado' Touches Down in Chicago Suburbs](https://www.reddit.com/r/news/comments/o4njvu/confirmed_large_and_extremely_dangerous_tornado/)
 <!-- REDDIT:END -->
 
 
