@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [7,000 troops died in the Post-9/11 wars. A staggering 30,000 died by suicide](https://www.reddit.com/r/news/comments/o5t4yh/7000_troops_died_in_the_post911_wars_a_staggering/)
+- [Chris Brown accused of hitting woman in Los Angeles, police say](https://www.reddit.com/r/news/comments/o5rzkv/chris_brown_accused_of_hitting_woman_in_los/)
+- [In new court records obtained by the New York Times, Britney Spears repeatedly pushed to end her father's conservatorship over her and cited health concerns including his forcing her to perform on stage with a 104 degree fever](https://www.reddit.com/r/news/comments/o5rwcz/in_new_court_records_obtained_by_the_new_york/)
+- [Michigan confirms 25 cases of COVID-19's highly contagious delta variant](https://www.reddit.com/r/news/comments/o5rsgn/michigan_confirms_25_cases_of_covid19s_highly/)
+- [Two Catholic churches destroyed by fire on First Nations reserves in Canada](https://www.reddit.com/r/news/comments/o5r8nz/two_catholic_churches_destroyed_by_fire_on_first/)
 <!-- REDDIT:END -->
 
 
