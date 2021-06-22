@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Raiders’ Carl Nassib Announces He’s Gay, an N.F.L. First](https://www.reddit.com/r/news/comments/o58vpq/raiders_carl_nassib_announces_hes_gay_an_nfl_first/)
+- [Raiders' Carl Nassib becomes first active NFL player to come out as gay](https://www.reddit.com/r/news/comments/o57bsh/raiders_carl_nassib_becomes_first_active_nfl/)
+- [Since 9/11, military suicides dwarf the number of soldiers killed in combat](https://www.reddit.com/r/news/comments/o56aqf/since_911_military_suicides_dwarf_the_number_of/)
+- [Georgia police appealing to public for help solving road-rage killing](https://www.reddit.com/r/news/comments/o55tq5/georgia_police_appealing_to_public_for_help/)
+- [Lordstown executives sold millions of dollars in stock before problems became public](https://www.reddit.com/r/news/comments/o55s9f/lordstown_executives_sold_millions_of_dollars_in/)
 <!-- REDDIT:END -->
 
 
