@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hubble telescope remains in 'safe mode' as NASA tries to restart crashed 1980s-era computer](https://www.reddit.com/r/news/comments/o5c7ne/hubble_telescope_remains_in_safe_mode_as_nasa/)
+- [UK to close loophole allowing child marriage by lifting minimum age to 18](https://www.reddit.com/r/news/comments/o5c515/uk_to_close_loophole_allowing_child_marriage_by/)
+- [Customs agents seize nearly $13M in fake Cialis pills, designer labels at California port.](https://www.reddit.com/r/news/comments/o5b8mq/customs_agents_seize_nearly_13m_in_fake_cialis/)
+- [Ronnie Oneal found guilty of 2018 double-murder of family; attempted murder of son](https://www.reddit.com/r/news/comments/o5avd0/ronnie_oneal_found_guilty_of_2018_doublemurder_of/)
+- [Woman shot in face during road rage incident; suspect arrested, sheriff says](https://www.reddit.com/r/news/comments/o5autt/woman_shot_in_face_during_road_rage_incident/)
 <!-- REDDIT:END -->
 
 
