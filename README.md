@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China fails to meet promises on missing Xinjiang children](https://www.reddit.com/r/news/comments/o5krm4/china_fails_to_meet_promises_on_missing_xinjiang/)
+- [St. Croix refinery that rained oil on neighborhoods is shutting down indefinitely](https://www.reddit.com/r/news/comments/o5kgl9/st_croix_refinery_that_rained_oil_on/)
+- [A coronavirus outbreak hit a Florida government building. Two people are dead but a vaccinated employee wasn't infected](https://www.reddit.com/r/news/comments/o5jksy/a_coronavirus_outbreak_hit_a_florida_government/)
+- [Lithuania donates COVID-19 vaccines to Taiwan](https://www.reddit.com/r/news/comments/o5iatc/lithuania_donates_covid19_vaccines_to_taiwan/)
+- ['Living fossil' fish surprises scientists with 100-year lifespan | CBC News](https://www.reddit.com/r/news/comments/o5i03e/living_fossil_fish_surprises_scientists_with/)
 <!-- REDDIT:END -->
 
 
