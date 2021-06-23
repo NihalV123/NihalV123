@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The push to make ‘ecocide’ an international crime takes a big step forward](https://www.reddit.com/r/news/comments/o65r9o/the_push_to_make_ecocide_an_international_crime/)
+- [Texas governor vetoes bill protecting dogs from abuse [News]](https://www.reddit.com/r/news/comments/o63nxt/texas_governor_vetoes_bill_protecting_dogs_from/)
+- [Saudi operatives who killed Jamal Khashoggi received paramilitary training in U.S.](https://www.reddit.com/r/news/comments/o625bc/saudi_operatives_who_killed_jamal_khashoggi/)
+- [153 Houston Methodist Workers Out of Job After Vaccine Protest](https://www.reddit.com/r/news/comments/o61zkp/153_houston_methodist_workers_out_of_job_after/)
+- [Columbus Co. man gets decade in prison for 16th DWI conviction](https://www.reddit.com/r/news/comments/o61ks4/columbus_co_man_gets_decade_in_prison_for_16th/)
 <!-- REDDIT:END -->
 
 
