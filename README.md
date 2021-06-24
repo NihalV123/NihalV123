@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nearly all COVID deaths in US are now among unvaccinated](https://www.reddit.com/r/news/comments/o74xpm/nearly_all_covid_deaths_in_us_are_now_among/)
+- [New York Suspends Giuliani’s Law License](https://www.reddit.com/r/news/comments/o73bez/new_york_suspends_giulianis_law_license/)
+- [U.S. government prepares to issue landmark report on UFOs](https://www.reddit.com/r/news/comments/o732t2/us_government_prepares_to_issue_landmark_report/)
+- [Exclusive: Workers in Factory That Makes Kate Hudson's Fabletics Activewear Allege Rampant Sexual and Physical Abuse](https://www.reddit.com/r/news/comments/o73214/exclusive_workers_in_factory_that_makes_kate/)
+- [Shoes were stolen from a nonprofit that provides footwear to Denver metro's unhoused community](https://www.reddit.com/r/news/comments/o7236k/shoes_were_stolen_from_a_nonprofit_that_provides/)
 <!-- REDDIT:END -->
 
 
