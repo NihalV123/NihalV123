@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A former NRA chief has been duped into giving a speech to 3,044 empty chairs for shooting victims](https://www.reddit.com/r/news/comments/o7m7kb/a_former_nra_chief_has_been_duped_into_giving_a/)
+- [Blood test that finds 50 types of cancer is accurate enough to be rolled out](https://www.reddit.com/r/news/comments/o7lw3i/blood_test_that_finds_50_types_of_cancer_is/)
+- [Tide partners with NASA to create detergent for astronauts and help save water on Earth](https://www.reddit.com/r/news/comments/o7lbl9/tide_partners_with_nasa_to_create_detergent_for/)
+- [Virgin Galactic gets the green light from the FAA to fly passengers to space](https://www.reddit.com/r/news/comments/o7lax3/virgin_galactic_gets_the_green_light_from_the_faa/)
+- [Hackers are infecting gamers’ PCs with malware to make millions from crypto](https://www.reddit.com/r/news/comments/o7lan6/hackers_are_infecting_gamers_pcs_with_malware_to/)
 <!-- REDDIT:END -->
 
 
