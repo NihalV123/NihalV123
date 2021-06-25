@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [19-year-old suspect in Austin mass shooting arrested in Killeen](https://www.reddit.com/r/news/comments/o7qv6q/19yearold_suspect_in_austin_mass_shooting/)
+- [Judge rejects Chauvin’s request for new trial in Floyd death](https://www.reddit.com/r/news/comments/o7pw9p/judge_rejects_chauvins_request_for_new_trial_in/)
+- [Three Percenters, neo-Nazi group added to Canada's terrorist list](https://www.reddit.com/r/news/comments/o7pb9r/three_percenters_neonazi_group_added_to_canadas/)
+- [Justice Department to sue Georgia over sweeping voting restrictions](https://www.reddit.com/r/news/comments/o7pac3/justice_department_to_sue_georgia_over_sweeping/)
+- [Transgender runner CeCe Telfer is ruled ineligible to compete in US Olympic trials](https://www.reddit.com/r/news/comments/o7oz1q/transgender_runner_cece_telfer_is_ruled/)
 <!-- REDDIT:END -->
 
 
