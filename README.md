@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK deaths outnumber births for first time in 40 years](https://www.reddit.com/r/news/comments/o7fr1u/uk_deaths_outnumber_births_for_first_time_in_40/)
+- [Billionaire investor Peter Thiel has $5B in his tax-free retirement account, report finds](https://www.reddit.com/r/news/comments/o7en8b/billionaire_investor_peter_thiel_has_5b_in_his/)
+- [Rudy Giuliani skips Dominion, Powell, MyPillow-Lindell defamation case hearing after his law license gets revoked in NY](https://www.reddit.com/r/news/comments/o7dhcz/rudy_giuliani_skips_dominion_powell/)
+- [Missouri becomes hot spot for Delta variant fueling hospitalizations while vaccination efforts lag](https://www.reddit.com/r/news/comments/o7derg/missouri_becomes_hot_spot_for_delta_variant/)
+- [Historic Northwest heat wave could shatter all-time records in Washington, Oregon, including Seattle, Portland](https://www.reddit.com/r/news/comments/o7c7ek/historic_northwest_heat_wave_could_shatter/)
 <!-- REDDIT:END -->
 
 
