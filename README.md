@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WHO urges fully vaccinated people to continue to wear masks as delta Covid variant spreads](https://www.reddit.com/r/news/comments/o83eq8/who_urges_fully_vaccinated_people_to_continue_to/)
+- [Helicopter carrying Colombia's President Duque struck by bullets in attack](https://www.reddit.com/r/news/comments/o831jb/helicopter_carrying_colombias_president_duque/)
+- [‘War in the woods’: hundreds of anti-logging protesters arrested in Canada](https://www.reddit.com/r/news/comments/o80j71/war_in_the_woods_hundreds_of_antilogging/)
+- [Floyd girlfriend seeks 'evening of nonviolence' in Minnesota](https://www.reddit.com/r/news/comments/o80bbx/floyd_girlfriend_seeks_evening_of_nonviolence_in/)
+- [Israeli police killed unarmed Palestinian who did not pose threat, rights group says](https://www.reddit.com/r/news/comments/o804d1/israeli_police_killed_unarmed_palestinian_who_did/)
 <!-- REDDIT:END -->
 
 
