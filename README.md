@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida K-9 Dies in Parked Patrol Vehicle](https://www.reddit.com/r/news/comments/o7yiif/florida_k9_dies_in_parked_patrol_vehicle/)
+- [A Philly man was cleared of murder after 34 years by evidence that was in the police file all along](https://www.reddit.com/r/news/comments/o7x5lp/a_philly_man_was_cleared_of_murder_after_34_years/)
+- [Rome's Colosseum opens its underground for the first time in its history](https://www.reddit.com/r/news/comments/o7wxgi/romes_colosseum_opens_its_underground_for_the/)
+- [US intelligence community releases long-awaited UFO report](https://www.reddit.com/r/news/comments/o7wlpn/us_intelligence_community_releases_longawaited/)
+- [N.C. governor vetoes bill that would’ve banned Down syndrome, discriminatory abortions](https://www.reddit.com/r/news/comments/o7vyp3/nc_governor_vetoes_bill_that_wouldve_banned_down/)
 <!-- REDDIT:END -->
 
 
