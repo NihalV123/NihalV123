@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After Florida building collapse, authorities evacuate similar tower](https://www.reddit.com/r/news/comments/o8l3af/after_florida_building_collapse_authorities/)
+- [These are the hotshot firefighters leading attacks against California wildfires. And they're quitting](https://www.reddit.com/r/news/comments/o8kvgv/these_are_the_hotshot_firefighters_leading/)
+- [Booster may be needed for J&J shot as Delta variant spreads, some experts already taking them](https://www.reddit.com/r/news/comments/o8kst9/booster_may_be_needed_for_jj_shot_as_delta/)
+- [A no-swimming order was issued at a Cape Cod beach after a great white shark was sighted](https://www.reddit.com/r/news/comments/o8k8e5/a_noswimming_order_was_issued_at_a_cape_cod_beach/)
+- [California will soon pay the health care bills for low-income people 50 and older who are living in the country illegally as part of an expansion of Medicaid.](https://www.reddit.com/r/news/comments/o8jykm/california_will_soon_pay_the_health_care_bills/)
 <!-- REDDIT:END -->
 
 
