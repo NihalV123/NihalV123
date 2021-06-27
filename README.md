@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [10-year-old boy fatally shoots himself after finding gun in Philadelphia home](https://www.reddit.com/r/news/comments/o91a3t/10yearold_boy_fatally_shoots_himself_after/)
+- [Case files on 1964 civil rights worker killings made public | Case files, photographs and other records documenting the investigation into the infamous slayings of three civil rights workers in Mississippi are now open to the public for the first time](https://www.reddit.com/r/news/comments/o90lil/case_files_on_1964_civil_rights_worker_killings/)
+- [Death toll climbs to 9 as search for survivors goes on in collapsed Florida condo building](https://www.reddit.com/r/news/comments/o8z9pk/death_toll_climbs_to_9_as_search_for_survivors/)
+- [Western drought brings another woe: voracious grasshoppers](https://www.reddit.com/r/news/comments/o8z6k3/western_drought_brings_another_woe_voracious/)
+- [Turkey police bash LGBT pride parade in Istanbul](https://www.reddit.com/r/news/comments/o8yxms/turkey_police_bash_lgbt_pride_parade_in_istanbul/)
 <!-- REDDIT:END -->
 
 
