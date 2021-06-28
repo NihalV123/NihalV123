@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [YouTube blocked testimonials about missing Uyghurs in China: Report | ZDNet](https://www.reddit.com/r/news/comments/o9iotg/youtube_blocked_testimonials_about_missing/)
+- [North Carolina man formerly tied to Boy Scouts could have been targeting children for decades, police say](https://www.reddit.com/r/news/comments/o9id44/north_carolina_man_formerly_tied_to_boy_scouts/)
+- [Revealed: neo-Confederate group includes military officers and politicians](https://www.reddit.com/r/news/comments/o9hgq3/revealed_neoconfederate_group_includes_military/)
+- [UN calls for end of ‘impunity’ for police violence against black people](https://www.reddit.com/r/news/comments/o9h5cz/un_calls_for_end_of_impunity_for_police_violence/)
+- [Missing grandparents’ landline calling from Champlain Towers South condo, family says](https://www.reddit.com/r/news/comments/o9g70l/missing_grandparents_landline_calling_from/)
 <!-- REDDIT:END -->
 
 
