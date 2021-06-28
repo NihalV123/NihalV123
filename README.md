@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Juul to pay North Carolina $40 million over claims it targeted youth](https://www.reddit.com/r/news/comments/o9ns6k/juul_to_pay_north_carolina_40_million_over_claims/)
+- [Houston chief calls 1977 police killing 'straight-up murder'](https://www.reddit.com/r/news/comments/o9nbly/houston_chief_calls_1977_police_killing/)
+- [‘God told me to come here’ Louisiana man arrested after getting high and driving to prison](https://www.reddit.com/r/news/comments/o9mxlp/god_told_me_to_come_here_louisiana_man_arrested/)
+- ["Space is for everyone": Europe's Space Agency to hire first disabled astronaut](https://www.reddit.com/r/news/comments/o9monn/space_is_for_everyone_europes_space_agency_to/)
+- [U.S. Supreme Court rejects defense contractor's Abu Ghraib torture appeal](https://www.reddit.com/r/news/comments/o9le24/us_supreme_court_rejects_defense_contractors_abu/)
 <!-- REDDIT:END -->
 
 
