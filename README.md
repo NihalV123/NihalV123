@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [18 Story Miami Beach Building Showing Same Damage as Collapsed Champlain Towers](https://www.reddit.com/r/news/comments/o9zor4/18_story_miami_beach_building_showing_same_damage/)
+- [U.S. marijuana ban 'may no longer be necessary' - Justice Thomas](https://www.reddit.com/r/news/comments/o9yi67/us_marijuana_ban_may_no_longer_be_necessary/)
+- [Amazon opens Cooling center at Seattle headquarters amid record-breaking heat wave](https://www.reddit.com/r/news/comments/o9yhxa/amazon_opens_cooling_center_at_seattle/)
+- [Supreme Court Justice Clarence Thomas says federal Marijuana laws may be Outdated](https://www.reddit.com/r/news/comments/o9y5cq/supreme_court_justice_clarence_thomas_says/)
+- [San Francisco sees 753% increase in car break-ins in tourist areas](https://www.reddit.com/r/news/comments/o9xm33/san_francisco_sees_753_increase_in_car_breakins/)
 <!-- REDDIT:END -->
 
 
