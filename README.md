@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South African court orders ex-president to jail for contempt.](https://www.reddit.com/r/news/comments/oa5dt5/south_african_court_orders_expresident_to_jail/)
+- [Japan minister says necessary to 'wake up' to protect Taiwan](https://www.reddit.com/r/news/comments/oa4vwk/japan_minister_says_necessary_to_wake_up_to/)
+- ['Stop denying racism, start dismantling it,' U.N. rights chief says](https://www.reddit.com/r/news/comments/oa2di1/stop_denying_racism_start_dismantling_it_un/)
+- [Mother detained after 3 young children found dead at East Los Angeles home, officials say](https://www.reddit.com/r/news/comments/oa1bp1/mother_detained_after_3_young_children_found_dead/)
+- [Israel approves 31 new 'settlement zones' in the West Bank](https://www.reddit.com/r/news/comments/oa0x08/israel_approves_31_new_settlement_zones_in_the/)
 <!-- REDDIT:END -->
 
 
