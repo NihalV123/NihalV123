@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hotshot Firefighters Quitting Due to Low Wages, Lack of Benefits](https://www.reddit.com/r/news/comments/oap8o9/hotshot_firefighters_quitting_due_to_low_wages/)
+- [California couple fined $18,000 for illegally uprooting 36 Joshua trees](https://www.reddit.com/r/news/comments/oap1al/california_couple_fined_18000_for_illegally/)
+- [Bloodhound in Tennessee finds missing 6-year-old girl allegedly abducted by father](https://www.reddit.com/r/news/comments/oaot83/bloodhound_in_tennessee_finds_missing_6yearold/)
+- [Lori Vallow Daybell indicted in Arizona for death of fourth husband Charles Vallow](https://www.reddit.com/r/news/comments/oaml93/lori_vallow_daybell_indicted_in_arizona_for_death/)
+- [Family reports receiving 16 calls from missing grandparents' landline in collapsed Florida condo](https://www.reddit.com/r/news/comments/oalxom/family_reports_receiving_16_calls_from_missing/)
 <!-- REDDIT:END -->
 
 
