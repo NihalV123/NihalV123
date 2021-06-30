@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An 88-year-old survivor of the condo collapse in Surfside, Florida, was carried to safety by her neighbors](https://www.reddit.com/r/news/comments/oaud0i/an_88yearold_survivor_of_the_condo_collapse_in/)
+- [Taiwan boy thrown 27 times during judo class taken off life support](https://www.reddit.com/r/news/comments/oar33p/taiwan_boy_thrown_27_times_during_judo_class/)
+- [Fox News fined $1 million for sex harassment and retaliation](https://www.reddit.com/r/news/comments/oaqg36/fox_news_fined_1_million_for_sex_harassment_and/)
+- [Hotshot Firefighters Quitting Due to Low Wages, Lack of Benefits](https://www.reddit.com/r/news/comments/oap8o9/hotshot_firefighters_quitting_due_to_low_wages/)
+- [California couple fined $18,000 for illegally uprooting 36 Joshua trees](https://www.reddit.com/r/news/comments/oap1al/california_couple_fined_18000_for_illegally/)
 <!-- REDDIT:END -->
 
 
