@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cuyahoga County Jail officer accused of sexually assaulting 3 inmates in 17 days](https://www.reddit.com/r/news/comments/oaj6n4/cuyahoga_county_jail_officer_accused_of_sexually/)
+- [Home-grown, recreational pot get legal status in New Mexico](https://www.reddit.com/r/news/comments/oaj37y/homegrown_recreational_pot_get_legal_status_in/)
+- [Fox News agrees to $1 million fine as part of human rights investigation settlement](https://www.reddit.com/r/news/comments/oairzv/fox_news_agrees_to_1_million_fine_as_part_of/)
+- [COVID outbreak at Illinois summer camp fueled by unvaccinated attendees](https://www.reddit.com/r/news/comments/oailwp/covid_outbreak_at_illinois_summer_camp_fueled_by/)
+- [In 1990 a bee learned to clone herself - now her army of millions threaten other species](https://www.reddit.com/r/news/comments/oaifin/in_1990_a_bee_learned_to_clone_herself_now_her/)
 <!-- REDDIT:END -->
 
 
