@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Heat wave kills more than 60 in Pacific Northwest](https://www.reddit.com/r/news/comments/ob8v5n/heat_wave_kills_more_than_60_in_pacific_northwest/)
+- [Woman who falsely accused Black teen of stealing phone at NYC hotel pleads not guilty to hate crimes](https://www.reddit.com/r/news/comments/ob8op0/woman_who_falsely_accused_black_teen_of_stealing/)
+- [Boy Scouts, Girl Scouts suffer huge declines in membership](https://www.reddit.com/r/news/comments/ob6mo2/boy_scouts_girl_scouts_suffer_huge_declines_in/)
+- [Gates Foundation commits $2.1 billion to advance gender equality](https://www.reddit.com/r/news/comments/ob6lkj/gates_foundation_commits_21_billion_to_advance/)
+- [House votes to create select committee to investigate January 6 attack](https://www.reddit.com/r/news/comments/ob55rv/house_votes_to_create_select_committee_to/)
 <!-- REDDIT:END -->
 
 
