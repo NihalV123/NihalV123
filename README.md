@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nowhere is safe, say scientists as extreme heat causes chaos in US and Canada](https://www.reddit.com/r/news/comments/oc0kri/nowhere_is_safe_say_scientists_as_extreme_heat/)
+- [Tens of thousands of people who say they were sexually abused while scouts and filed suit against the Boy Scouts of America have reached an $850 million settlement, the largest in a child sexual abuse case in United States history](https://www.reddit.com/r/news/comments/obziuh/tens_of_thousands_of_people_who_say_they_were/)
+- [Britney Spears' professional co-conservator files to resign after explosive testimony](https://www.reddit.com/r/news/comments/obyt6l/britney_spears_professional_coconservator_files/)
+- [Pinterest bans all weight loss ads](https://www.reddit.com/r/news/comments/obymt7/pinterest_bans_all_weight_loss_ads/)
+- [Arrest warrant out for TV personality Chris Hansen after failing to appear in Mich. court](https://www.reddit.com/r/news/comments/obxxmk/arrest_warrant_out_for_tv_personality_chris/)
 <!-- REDDIT:END -->
 
 
