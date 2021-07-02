@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. sprinter Sha'Carri Richardson suspended for month after positive marijuana test, putting Olympics in doubt](https://www.reddit.com/r/news/comments/ocdqdr/us_sprinter_shacarri_richardson_suspended_for/)
+- [Johnson & Johnson Vaccine Protects Against Delta Variant, Company Reports](https://www.reddit.com/r/news/comments/ocd1hk/johnson_johnson_vaccine_protects_against_delta/)
+- [Mom finds drugs inside child's Happy Meal from Auburn McDonald's](https://www.reddit.com/r/news/comments/ocb5sq/mom_finds_drugs_inside_childs_happy_meal_from/)
+- [First responder finds daughter’s body in Surfside as crews continue searching for victims of collapse](https://www.reddit.com/r/news/comments/ocazc9/first_responder_finds_daughters_body_in_surfside/)
+- [Boeing cargo plane makes emergency landing in ocean off Honolulu coast, FAA says](https://www.reddit.com/r/news/comments/ocaoe9/boeing_cargo_plane_makes_emergency_landing_in/)
 <!-- REDDIT:END -->
 
 
