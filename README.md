@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boys, 8 and 9, face involuntary manslaughter charges for shooting 62-year-old South Carolina man](https://www.reddit.com/r/news/comments/ocvmhr/boys_8_and_9_face_involuntary_manslaughter/)
+- [Prosecutors seek to show evidence of past violence at Kyle Rittenhouse trial](https://www.reddit.com/r/news/comments/ocrntm/prosecutors_seek_to_show_evidence_of_past/)
+- [US officer plays Taylor Swift song to try to block video](https://www.reddit.com/r/news/comments/ocornd/us_officer_plays_taylor_swift_song_to_try_to/)
+- [Mysterious disease killing songbirds in Philly and suburbs being investigated by Pa. Game Commission](https://www.reddit.com/r/news/comments/ocolbq/mysterious_disease_killing_songbirds_in_philly/)
+- [Collapse Wasn’t First for Inspector Who Said Tower Seemed in ‘Good Shape’](https://www.reddit.com/r/news/comments/ocmcuw/collapse_wasnt_first_for_inspector_who_said_tower/)
 <!-- REDDIT:END -->
 
 
