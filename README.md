@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['Eye of fire’: Shocking footage shows ocean on fire in Gulf of Mexico](https://www.reddit.com/r/news/comments/ocmece/eye_of_fire_shocking_footage_shows_ocean_on_fire/)
+- [Canadian inferno: northern heat exceeds worst-case climate models](https://www.reddit.com/r/news/comments/oclsn1/canadian_inferno_northern_heat_exceeds_worstcase/)
+- [Gas leak from underwater pipeline causes fire in Gulf of Mexico, report says](https://www.reddit.com/r/news/comments/oclsht/gas_leak_from_underwater_pipeline_causes_fire_in/)
+- [North Miami Beach has ordered the evacuation of a condominium building after an inspection showed it was unsafe](https://www.reddit.com/r/news/comments/ocl7ku/north_miami_beach_has_ordered_the_evacuation_of_a/)
+- [Design student creates device that rapidly stops bleeding from stab wounds](https://www.reddit.com/r/news/comments/ockvv9/design_student_creates_device_that_rapidly_stops/)
 <!-- REDDIT:END -->
 
 
