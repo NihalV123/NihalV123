@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexico, state-owned oil company slammed after gas leak causes subaquatic fireball in Gulf | CBC News](https://www.reddit.com/r/news/comments/odig84/mexico_stateowned_oil_company_slammed_after_gas/)
+- [Israel carries out another air raid on besieged Gaza Strip](https://www.reddit.com/r/news/comments/odhy7l/israel_carries_out_another_air_raid_on_besieged/)
+- [Cyprus appeals for help as deadly wildfire rips through forest](https://www.reddit.com/r/news/comments/odgl8q/cyprus_appeals_for_help_as_deadly_wildfire_rips/)
+- [Massive US ransomware attack forces Swedish shops to shut, FBI investigating](https://www.reddit.com/r/news/comments/odfqv0/massive_us_ransomware_attack_forces_swedish_shops/)
+- [Unvaccinated people are 'variant factories,' infectious diseases expert says](https://www.reddit.com/r/news/comments/odezi8/unvaccinated_people_are_variant_factories/)
 <!-- REDDIT:END -->
 
 
