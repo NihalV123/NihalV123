@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protesters clash, one injured, over trans rights at Korean spa in L.A.](https://www.reddit.com/r/news/comments/od87yt/protesters_clash_one_injured_over_trans_rights_at/)
+- [Hate symbols graffitied on Martin Luther King Jr. statue in Central Long Beach](https://www.reddit.com/r/news/comments/od7d08/hate_symbols_graffitied_on_martin_luther_king_jr/)
+- [US warns Belarus over its closure of border with Ukraine](https://www.reddit.com/r/news/comments/od6s7j/us_warns_belarus_over_its_closure_of_border_with/)
+- [UEFA: No rainbow-colour ads at Euro 2020 in Russia, Azerbaijan | Euro2020 News](https://www.reddit.com/r/news/comments/od6r6b/uefa_no_rainbowcolour_ads_at_euro_2020_in_russia/)
+- [No Charges for Honolulu Police Officers Who Fatally Shot South African Man](https://www.reddit.com/r/news/comments/od6otv/no_charges_for_honolulu_police_officers_who/)
 <!-- REDDIT:END -->
 
 
