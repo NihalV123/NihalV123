@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [99% of COVID-19 deaths in U.S. involve unvaccinated people, Fauci says](https://www.reddit.com/r/news/comments/oe0ufq/99_of_covid19_deaths_in_us_involve_unvaccinated/)
+- [Victim needs 16 stitches in Bronx subway slashing, suspect sought](https://www.reddit.com/r/news/comments/oe03fk/victim_needs_16_stitches_in_bronx_subway_slashing/)
+- [Lax Enforcement Let South Florida Towers Skirt Inspections for Years](https://www.reddit.com/r/news/comments/odzhcj/lax_enforcement_let_south_florida_towers_skirt/)
+- [Demolition crews have set off explosives to bring down the damaged remaining portion of a collapsed South Florida condo.](https://www.reddit.com/r/news/comments/ody8mt/demolition_crews_have_set_off_explosives_to_bring/)
+- [Diplomacy wears thin between Egypt, Ethiopia over Nile Dam](https://www.reddit.com/r/news/comments/odxavy/diplomacy_wears_thin_between_egypt_ethiopia_over/)
 <!-- REDDIT:END -->
 
 
