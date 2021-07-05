@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Killing spree’: Wisconsin’s wolf population plunges after protections removed](https://www.reddit.com/r/news/comments/oebsfi/killing_spree_wisconsins_wolf_population_plunges/)
+- [Nightmare scenario: alarm as advertisers seek to plug into our dreams](https://www.reddit.com/r/news/comments/oeblph/nightmare_scenario_alarm_as_advertisers_seek_to/)
+- [NHL goaltender Matiss Kivlenieks dead at 24 from apparent head injury](https://www.reddit.com/r/news/comments/oeaqop/nhl_goaltender_matiss_kivlenieks_dead_at_24_from/)
+- [Thousands of people in India thought they were getting the Covid vaccine. They were injected with salt water instead](https://www.reddit.com/r/news/comments/oe9yne/thousands_of_people_in_india_thought_they_were/)
+- [Death toll rises to 27 as search resumes at Miami-area condominium collapse - reports](https://www.reddit.com/r/news/comments/oe9vt6/death_toll_rises_to_27_as_search_resumes_at/)
 <!-- REDDIT:END -->
 
 
