@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tropical Storm Elsa nears Cuba and worries Florida](https://www.reddit.com/r/news/comments/oe584z/tropical_storm_elsa_nears_cuba_and_worries_florida/)
+- [Man accused of storing 16 tons of fireworks at home, including devices that later blew up and injured 17](https://www.reddit.com/r/news/comments/oe5010/man_accused_of_storing_16_tons_of_fireworks_at/)
+- [After pressuring telecom firms, Myanmar's junta bans executives from leaving](https://www.reddit.com/r/news/comments/oe4j8u/after_pressuring_telecom_firms_myanmars_junta/)
+- [Jeff Bezos steps down as Amazon boss](https://www.reddit.com/r/news/comments/oe3rbg/jeff_bezos_steps_down_as_amazon_boss/)
+- [80 people feared missing in deadly 'tsunami' mudslide](https://www.reddit.com/r/news/comments/oe3o55/80_people_feared_missing_in_deadly_tsunami/)
 <!-- REDDIT:END -->
 
 
