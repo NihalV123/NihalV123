@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Austrian man bitten by python during visit to the toilet: "Victim, 65, felt a nip in the genital area"](https://www.reddit.com/r/news/comments/oeywg9/austrian_man_bitten_by_python_during_visit_to_the/)
+- [Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over](https://www.reddit.com/r/news/comments/oeyryq/pentagon_cancels_10_billion_jedi_cloud_contract/)
+- [In Myanmar, the military and police declare war on medics](https://www.reddit.com/r/news/comments/oext5h/in_myanmar_the_military_and_police_declare_war_on/)
+- [Spain says non-consensual sex is rape, toughens sexual violence laws](https://www.reddit.com/r/news/comments/oex4yb/spain_says_nonconsensual_sex_is_rape_toughens/)
+- [Taliban parade weapons seized from Afghan army as U.S. withdraws](https://www.reddit.com/r/news/comments/oewqxg/taliban_parade_weapons_seized_from_afghan_army_as/)
 <!-- REDDIT:END -->
 
 
