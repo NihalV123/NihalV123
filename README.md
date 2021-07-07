@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oregon's heat wave death toll reaches 107 in 'mass casualty' event](https://www.reddit.com/r/news/comments/ofn4pe/oregons_heat_wave_death_toll_reaches_107_in_mass/)
+- [10 more bodies found in Surfside condo collapse rubble, pushing death toll to 46](https://www.reddit.com/r/news/comments/ofmuhx/10_more_bodies_found_in_surfside_condo_collapse/)
+- [AP: Body cam prompts new look at what killed Black motorist](https://www.reddit.com/r/news/comments/ofmcdw/ap_body_cam_prompts_new_look_at_what_killed_black/)
+- [Trump sues Twitter, Google and Facebook, alleging 'censorship'](https://www.reddit.com/r/news/comments/ofltff/trump_sues_twitter_google_and_facebook_alleging/)
+- [Judge: Air Force mostly at fault in 2017 Texas church attack](https://www.reddit.com/r/news/comments/oflpq2/judge_air_force_mostly_at_fault_in_2017_texas/)
 <!-- REDDIT:END -->
 
 
