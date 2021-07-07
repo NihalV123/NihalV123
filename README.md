@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Memphis community celebrates after crude oil pipeline proposal scrapped](https://www.reddit.com/r/news/comments/of5t9k/memphis_community_celebrates_after_crude_oil/)
+- [Defendants involved in standoff on I-95 in Wakefield refuse to cooperate in court – Boston News, Weather, Sports](https://www.reddit.com/r/news/comments/of4yl3/defendants_involved_in_standoff_on_i95_in/)
+- [New York governor declares gun violence a health emergency](https://www.reddit.com/r/news/comments/of4y1z/new_york_governor_declares_gun_violence_a_health/)
+- [Tensions high as White man arrested after racist rant against Black neighbor](https://www.reddit.com/r/news/comments/of422u/tensions_high_as_white_man_arrested_after_racist/)
+- [A woman mowing the lawn at a Canadian airstrip is struck and killed by a small plane making a landing](https://www.reddit.com/r/news/comments/of2kv7/a_woman_mowing_the_lawn_at_a_canadian_airstrip_is/)
 <!-- REDDIT:END -->
 
 
