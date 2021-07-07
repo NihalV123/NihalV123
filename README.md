@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [President of Haiti assassinated at home, country's interim PM says](https://www.reddit.com/r/news/comments/ofg8tf/president_of_haiti_assassinated_at_home_countrys/)
+- [School librarian who cut biracial girl’s hair keeps job as officials claim no racial bias](https://www.reddit.com/r/news/comments/offrpy/school_librarian_who_cut_biracial_girls_hair/)
+- [More police K9s forced into retirement following legalization of recreational marijuana](https://www.reddit.com/r/news/comments/offmpi/more_police_k9s_forced_into_retirement_following/)
+- [FBI infiltrates group whose members wanted to test homemade bombs, surveil Capitol, secede from US, court records show](https://www.reddit.com/r/news/comments/ofeckp/fbi_infiltrates_group_whose_members_wanted_to/)
+- ['Not in solidarity with us': Indigenous leaders call for church arsons to stop](https://www.reddit.com/r/news/comments/ofaxv7/not_in_solidarity_with_us_indigenous_leaders_call/)
 <!-- REDDIT:END -->
 
 
