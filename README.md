@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After 15 years and $500m, the US Navy decides it doesn't need shipboard railguns after all](https://www.reddit.com/r/news/comments/ofzoo8/after_15_years_and_500m_the_us_navy_decides_it/)
+- [Bear pulls woman out of her tent, kills her in Montana](https://www.reddit.com/r/news/comments/ofxs1o/bear_pulls_woman_out_of_her_tent_kills_her_in/)
+- [In Maryland, every person who died of Covid-19 in June was unvaccinated. That's not an aberration, experts say](https://www.reddit.com/r/news/comments/ofxhhp/in_maryland_every_person_who_died_of_covid19_in/)
+- [It’s so hot that Canada’s sea creatures are cooking to death in their shells.](https://www.reddit.com/r/news/comments/ofwycx/its_so_hot_that_canadas_sea_creatures_are_cooking/)
+- [California to pay victims of forced, coerced sterilizations](https://www.reddit.com/r/news/comments/ofvrlk/california_to_pay_victims_of_forced_coerced/)
 <!-- REDDIT:END -->
 
 
