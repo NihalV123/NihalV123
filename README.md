@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Preliminary 5.9-magnitude earthquake strikes near California-Nevada border](https://www.reddit.com/r/news/comments/ogiyc3/preliminary_59magnitude_earthquake_strikes_near/)
+- [California charges 6 ex-highway officers with overtime fraud](https://www.reddit.com/r/news/comments/ogi4o8/california_charges_6_exhighway_officers_with/)
+- [West Texas man sentenced to 15 years in Federal Prison for $18 million fraudulent scheme](https://www.reddit.com/r/news/comments/ogi0mt/west_texas_man_sentenced_to_15_years_in_federal/)
+- [Pfizer says it is developing a Covid booster shot to target the highly transmissible delta variant](https://www.reddit.com/r/news/comments/oggt64/pfizer_says_it_is_developing_a_covid_booster_shot/)
+- [Houston teen on life support following road rage shooting](https://www.reddit.com/r/news/comments/ogggb1/houston_teen_on_life_support_following_road_rage/)
 <!-- REDDIT:END -->
 
 
