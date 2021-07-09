@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Charlottesville to remove Confederate monuments Saturday](https://www.reddit.com/r/news/comments/oh05ut/charlottesville_to_remove_confederate_monuments/)
+- [Police officer arrested after stepson found dead inside bedroom wall](https://www.reddit.com/r/news/comments/oh0243/police_officer_arrested_after_stepson_found_dead/)
+- [CDC recommends masking indoors for unvaccinated students, teachers in U.S. schools](https://www.reddit.com/r/news/comments/ogzc1r/cdc_recommends_masking_indoors_for_unvaccinated/)
+- [Heavy Rains Pound New York City, Flooding Subway Stations and Roads](https://www.reddit.com/r/news/comments/ogy8km/heavy_rains_pound_new_york_city_flooding_subway/)
+- [7 sent back to Canada after using library lawn to enter US](https://www.reddit.com/r/news/comments/ogy2qd/7_sent_back_to_canada_after_using_library_lawn_to/)
 <!-- REDDIT:END -->
 
 
