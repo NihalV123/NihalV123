@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Robert E. Lee statue removal underway in Charlottesville](https://www.reddit.com/r/news/comments/ohgzse/robert_e_lee_statue_removal_underway_in/)
+- [Lawyers for Breonna Taylor's family sue police over existence of body camera footage](https://www.reddit.com/r/news/comments/ohgg50/lawyers_for_breonna_taylors_family_sue_police/)
+- [Belgium recalls ambassador to Seoul after wife's second physical altercation](https://www.reddit.com/r/news/comments/ohgfft/belgium_recalls_ambassador_to_seoul_after_wifes/)
+- [Heavy rain hits southern Japan, over 120,000 ordered to evacuate](https://www.reddit.com/r/news/comments/ohawci/heavy_rain_hits_southern_japan_over_120000/)
+- [NYPD beekeeper removes 25,000 bees from Times Square](https://www.reddit.com/r/news/comments/oh96n2/nypd_beekeeper_removes_25000_bees_from_times/)
 <!-- REDDIT:END -->
 
 
