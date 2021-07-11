@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Maid stops potential mass shooting ahead of Denver MLB All Star Game](https://www.reddit.com/r/news/comments/ohyf8x/maid_stops_potential_mass_shooting_ahead_of/)
+- [Woman, 90, infected with Alpha and Beta Covid variants at the same time](https://www.reddit.com/r/news/comments/ohxj5a/woman_90_infected_with_alpha_and_beta_covid/)
+- [Four arrested at Maven Hotel face weapon charges; police feared ‘Las Vegas style shooting’ during All-Star Game](https://www.reddit.com/r/news/comments/ohxhx0/four_arrested_at_maven_hotel_face_weapon_charges/)
+- [Death Valley Hits 130 Degrees as Heat Wave Sweeps the West](https://www.reddit.com/r/news/comments/ohwzbq/death_valley_hits_130_degrees_as_heat_wave_sweeps/)
+- [A woman was looking to adopt a new pet. Then she found the dog she lost two years ago](https://www.reddit.com/r/news/comments/ohw9zi/a_woman_was_looking_to_adopt_a_new_pet_then_she/)
 <!-- REDDIT:END -->
 
 
