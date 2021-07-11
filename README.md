@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California burns as staggering high temperature of 54C recorded in Death Valley](https://www.reddit.com/r/news/comments/ohtx4l/california_burns_as_staggering_high_temperature/)
+- [California Wildfire advances as heat wave blankets US West](https://www.reddit.com/r/news/comments/ohsleq/california_wildfire_advances_as_heat_wave/)
+- [Police Bust Illegal Cryptomining Ring Enslaving Thousands Of PS4 Consoles And GPUs](https://www.reddit.com/r/news/comments/ohs978/police_bust_illegal_cryptomining_ring_enslaving/)
+- [Hawaiian authorities are asking for help after historic cliff carvings were vandalized with paintballs](https://www.reddit.com/r/news/comments/ohrrg2/hawaiian_authorities_are_asking_for_help_after/)
+- [Like in ‘Postapocalyptic Movies’: Heat Wave Killed Marine Wildlife en Masse An early estimate points to a huge die-off along the Pacific Coast, and scientists say rivers farther inland are warming to levels that could be lethal for some kinds of salmon.](https://www.reddit.com/r/news/comments/ohr1vb/like_in_postapocalyptic_movies_heat_wave_killed/)
 <!-- REDDIT:END -->
 
 
