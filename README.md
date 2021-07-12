@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Just 25 big cities, mostly in China, driving majority of urban greenhouse gas emissions](https://www.reddit.com/r/news/comments/oiogdx/just_25_big_cities_mostly_in_china_driving/)
+- [Marcus Rashford mural defaced after England Euro 2020 defeat](https://www.reddit.com/r/news/comments/oinw4p/marcus_rashford_mural_defaced_after_england_euro/)
+- [State of emergency begins in host city Tokyo as Games near](https://www.reddit.com/r/news/comments/oinkgl/state_of_emergency_begins_in_host_city_tokyo_as/)
+- [Salon owner sells business for $1 to 'worthy' employee](https://www.reddit.com/r/news/comments/oim9de/salon_owner_sells_business_for_1_to_worthy/)
+- [Firefighters struggle to contain exploding northern California wildfire](https://www.reddit.com/r/news/comments/oilx28/firefighters_struggle_to_contain_exploding/)
 <!-- REDDIT:END -->
 
 
