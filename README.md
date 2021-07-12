@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK bans fifth neo-Nazi group under terror laws](https://www.reddit.com/r/news/comments/oiukfs/uk_bans_fifth_neonazi_group_under_terror_laws/)
+- [Taliban surrounds the Afghan city of Ghazni, Take over civilian houses](https://www.reddit.com/r/news/comments/oissel/taliban_surrounds_the_afghan_city_of_ghazni_take/)
+- [Teenager abducted from basement of his home found badly injured, 3 suspects arrested](https://www.reddit.com/r/news/comments/oiss8d/teenager_abducted_from_basement_of_his_home_found/)
+- [The South African military said it was deploying soldiers in two provinces, including its economic hub of Johannesburg, to help police cope with looting and arson attacks on businesses](https://www.reddit.com/r/news/comments/oisi6q/the_south_african_military_said_it_was_deploying/)
+- [Authorities: Woman killed husband by dousing him in boiling sugar water as he slept](https://www.reddit.com/r/news/comments/oisb1h/authorities_woman_killed_husband_by_dousing_him/)
 <!-- REDDIT:END -->
 
 
