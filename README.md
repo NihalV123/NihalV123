@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cryptocurrency Miners Caught With 3,800 PlayStation 4 Consoles After Ukrainian Police Uncover The Mining Operation](https://www.reddit.com/r/news/comments/oiiyas/cryptocurrency_miners_caught_with_3800/)
+- [The Army is investigating a married officer accused of faking deployments and awards amid affairs with several women](https://www.reddit.com/r/news/comments/oihfk0/the_army_is_investigating_a_married_officer/)
+- [Several injured after man drives truck into crowd following ejection from club: Police](https://www.reddit.com/r/news/comments/oigiwq/several_injured_after_man_drives_truck_into_crowd/)
+- [Long Covid: Early findings bring hope for diagnostic tests - Scientists say they have detected irregularities in the blood of long Covid patients that could one day pave the way for a test for the condition.](https://www.reddit.com/r/news/comments/oifrj7/long_covid_early_findings_bring_hope_for/)
+- [Florida breaks annual manatee death record in first 6 months](https://www.reddit.com/r/news/comments/oieuvr/florida_breaks_annual_manatee_death_record_in/)
 <!-- REDDIT:END -->
 
 
