@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 arrested after cache of weapons found in hotel near upcoming MLB All-Star Game in Denver](https://www.reddit.com/r/news/comments/oifdgw/4_arrested_after_cache_of_weapons_found_in_hotel/)
+- [Florida breaks annual manatee death record in first 6 months](https://www.reddit.com/r/news/comments/oieuvr/florida_breaks_annual_manatee_death_record_in/)
+- [Gutter ball: Michigan man finds 160 bowling balls under home](https://www.reddit.com/r/news/comments/oiecku/gutter_ball_michigan_man_finds_160_bowling_balls/)
+- [Indigenous Americans call for justice over residential schools](https://www.reddit.com/r/news/comments/oidvfx/indigenous_americans_call_for_justice_over/)
+- [Fauci says no immediate need for Covid booster for fully vaccinated Americans](https://www.reddit.com/r/news/comments/oidltp/fauci_says_no_immediate_need_for_covid_booster/)
 <!-- REDDIT:END -->
 
 
