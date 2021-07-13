@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oklahoma Board of Education approves rules to limit classroom discussions on race, gender](https://www.reddit.com/r/news/comments/oj21qd/oklahoma_board_of_education_approves_rules_to/)
+- [Domestic abuse victims urged to call charities after England’s Euro 2020 defeat](https://www.reddit.com/r/news/comments/oj0tk2/domestic_abuse_victims_urged_to_call_charities/)
+- [Most fully vaccinated people who get Covid delta infections are asymptomatic, WHO says](https://www.reddit.com/r/news/comments/oiz0v4/most_fully_vaccinated_people_who_get_covid_delta/)
+- [Burger King workers write ‘we all quit’ on sign, walk out of Nebraska restaurant](https://www.reddit.com/r/news/comments/oiyz1i/burger_king_workers_write_we_all_quit_on_sign/)
+- [‘They grow bigger than you think’: Officials ask people not to dump pet goldfish in ponds, lakes](https://www.reddit.com/r/news/comments/oiy79w/they_grow_bigger_than_you_think_officials_ask/)
 <!-- REDDIT:END -->
 
 
