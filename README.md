@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. feds arrest 5 family members from Texas in new U.S. Capitol riot case](https://www.reddit.com/r/news/comments/ojs17u/us_feds_arrest_5_family_members_from_texas_in_new/)
+- [Activists continue protests in Arkansas by repainting billboard](https://www.reddit.com/r/news/comments/ojqrbt/activists_continue_protests_in_arkansas_by/)
+- [Woman, 77, killed in dog attack on her front porch in Phoenix](https://www.reddit.com/r/news/comments/ojpmpk/woman_77_killed_in_dog_attack_on_her_front_porch/)
+- [Sixty wildfires rage across 10 US states – including blaze bigger than Portland](https://www.reddit.com/r/news/comments/ojouco/sixty_wildfires_rage_across_10_us_states/)
+- [Lawsuit challenges Texas law banning abortion after 6 weeks](https://www.reddit.com/r/news/comments/ojoscn/lawsuit_challenges_texas_law_banning_abortion/)
 <!-- REDDIT:END -->
 
 
