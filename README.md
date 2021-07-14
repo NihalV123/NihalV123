@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lego demands US company Culper Precision stop producing Glock pistol covering that looks like a toy](https://www.reddit.com/r/news/comments/ojvla4/lego_demands_us_company_culper_precision_stop/)
+- [Norwegian Cruise Line sues Florida over prohibition on vaccine requirements.](https://www.reddit.com/r/news/comments/ojvl91/norwegian_cruise_line_sues_florida_over/)
+- [Judge tosses Roy Moore’s lawsuit over Baron Cohen interview](https://www.reddit.com/r/news/comments/ojtzow/judge_tosses_roy_moores_lawsuit_over_baron_cohen/)
+- [At Least 600 Tons Of Dead Fish Have Washed Up Along Tampa Bay's Shore](https://www.reddit.com/r/news/comments/ojtx6w/at_least_600_tons_of_dead_fish_have_washed_up/)
+- [Iran Intelligence Agents Plotted to Kidnap Brooklyn Human Rights Activist: Prosecutors](https://www.reddit.com/r/news/comments/ojtbkz/iran_intelligence_agents_plotted_to_kidnap/)
 <!-- REDDIT:END -->
 
 
