@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gas Sellers Reaped $11 Billion Windfall During Texas Freeze](https://www.reddit.com/r/news/comments/ok8lx5/gas_sellers_reaped_11_billion_windfall_during/)
+- [Memphis (Shelby County) will not follow Tennessee state ban on promoting childhood vaccinations](https://www.reddit.com/r/news/comments/ok7wxt/memphis_shelby_county_will_not_follow_tennessee/)
+- [Extreme heat could kill nearly all young salmon in the Sacramento River, officials say](https://www.reddit.com/r/news/comments/ok6m5f/extreme_heat_could_kill_nearly_all_young_salmon/)
+- [US to begin evacuation of Afghans who aided US military](https://www.reddit.com/r/news/comments/ok6fjr/us_to_begin_evacuation_of_afghans_who_aided_us/)
+- [Amazon rainforest now emitting more CO2 than it absorbs](https://www.reddit.com/r/news/comments/ok6bj4/amazon_rainforest_now_emitting_more_co2_than_it/)
 <!-- REDDIT:END -->
 
 
