@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Safety regulators are suing Amazon for not recalling hazardous products sold on its site, such as flammable children’s pajamas, faulty carbon monoxide detectors and hair dryers that don’t protect users from getting electrocuted](https://www.reddit.com/r/news/comments/okxe2s/safety_regulators_are_suing_amazon_for_not/)
+- [16 members of Florida white supremacist gang indicted on charges of violent crimes](https://www.reddit.com/r/news/comments/okwlqa/16_members_of_florida_white_supremacist_gang/)
+- [Cuba lifts customs restrictions on food and medicine after biggest protests in decades](https://www.reddit.com/r/news/comments/okvzwo/cuba_lifts_customs_restrictions_on_food_and/)
+- [Paralyzed man’s brain waves turned into sentences on computer in medical first](https://www.reddit.com/r/news/comments/okuvgk/paralyzed_mans_brain_waves_turned_into_sentences/)
+- [Gov. Inslee declares drought emergency for nearly all of Washington](https://www.reddit.com/r/news/comments/oku6wa/gov_inslee_declares_drought_emergency_for_nearly/)
 <!-- REDDIT:END -->
 
 
