@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Baltimore City Schools: 41% of high school students earn below 1.0 GPA](https://www.reddit.com/r/news/comments/okqto8/baltimore_city_schools_41_of_high_school_students/)
+- [Baton Rouge man builds levees to protect property from flooding, city sues him](https://www.reddit.com/r/news/comments/oko3te/baton_rouge_man_builds_levees_to_protect_property/)
+- [Napa naturopathic doctor charged with faking COVID vaccines and vaccination cards](https://www.reddit.com/r/news/comments/okiuo6/napa_naturopathic_doctor_charged_with_faking/)
+- [Every single Covid patient in a L.A. County DHS hospital is not fully vaccinated](https://www.reddit.com/r/news/comments/okh45h/every_single_covid_patient_in_a_la_county_dhs/)
+- [Man who pleaded guilty in murder-for-hire case planned to pin killings on Black Lives Matter, prosecutors say](https://www.reddit.com/r/news/comments/okgqz3/man_who_pleaded_guilty_in_murderforhire_case/)
 <!-- REDDIT:END -->
 
 
