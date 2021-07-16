@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Delta COVID variant now dominant strain worldwide; U.S. deaths surge -officials](https://www.reddit.com/r/news/comments/oll69h/delta_covid_variant_now_dominant_strain_worldwide/)
+- [Maine police officers who beat porcupines to death while on duty sentenced to jail time](https://www.reddit.com/r/news/comments/oll4pd/maine_police_officers_who_beat_porcupines_to/)
+- [Covid cases, deaths rising in U.S., as CDC warns of 'pandemic of the unvaccinated'](https://www.reddit.com/r/news/comments/oljjp0/covid_cases_deaths_rising_in_us_as_cdc_warns_of/)
+- [Rents are going through the roof across much of the U.S as the economy tries to recover.](https://www.reddit.com/r/news/comments/olic1z/rents_are_going_through_the_roof_across_much_of/)
+- [European floods: Germany accused of hypocrisy over Arctic gas project after climate change blamed for flooding | Climate News](https://www.reddit.com/r/news/comments/olhwva/european_floods_germany_accused_of_hypocrisy_over/)
 <!-- REDDIT:END -->
 
 
