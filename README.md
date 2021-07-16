@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman breaks into dentist and pulls 13 teeth from clueless patient](https://www.reddit.com/r/news/comments/olduyx/woman_breaks_into_dentist_and_pulls_13_teeth_from/)
+- [Argument over Bible verses leads to strangulation, murder charge](https://www.reddit.com/r/news/comments/olduq9/argument_over_bible_verses_leads_to_strangulation/)
+- [2 men charged with plotting to attack Democratic HQ in Sacramento](https://www.reddit.com/r/news/comments/old4kc/2_men_charged_with_plotting_to_attack_democratic/)
+- [Prosecutors said a Capitol rioter left a probation officer an obscene voicemail. Now, his bail has been revoked.](https://www.reddit.com/r/news/comments/olcl0m/prosecutors_said_a_capitol_rioter_left_a/)
+- [Hundreds offer to donate cars to South Carolina mechanic who fixes them for those in need](https://www.reddit.com/r/news/comments/olbxlm/hundreds_offer_to_donate_cars_to_south_carolina/)
 <!-- REDDIT:END -->
 
 
