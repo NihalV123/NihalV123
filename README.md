@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iowa stops for caravan conveying coffins of Native American students who died a century ago](https://www.reddit.com/r/news/comments/olr5gk/iowa_stops_for_caravan_conveying_coffins_of/)
+- [Officials advise wearing masks in Vegas as COVID cases rise](https://www.reddit.com/r/news/comments/olqyys/officials_advise_wearing_masks_in_vegas_as_covid/)
+- [Biden admin now plans to evacuate 2,500 Afghans directly to the U.S.](https://www.reddit.com/r/news/comments/olqk8l/biden_admin_now_plans_to_evacuate_2500_afghans/)
+- [Greenland ceases oil exploration due to climate change: ‘The future does not lie in oil’](https://www.reddit.com/r/news/comments/olqeu2/greenland_ceases_oil_exploration_due_to_climate/)
+- [Judge orders U.S. to close DACA program to new applicants, calling it illegal](https://www.reddit.com/r/news/comments/olqer7/judge_orders_us_to_close_daca_program_to_new/)
 <!-- REDDIT:END -->
 
 
