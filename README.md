@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada's vaccination rate overtakes US](https://www.reddit.com/r/news/comments/om8sbl/canadas_vaccination_rate_overtakes_us/)
+- [262,000 doses of COVID-19 vaccine set to expire in Michigan in the coming months](https://www.reddit.com/r/news/comments/om89ka/262000_doses_of_covid19_vaccine_set_to_expire_in/)
+- [Longtime Alaska Zoo resident Jake the brown bear dies](https://www.reddit.com/r/news/comments/om7sza/longtime_alaska_zoo_resident_jake_the_brown_bear/)
+- [Great Salt Lake is shrinking fast. Scientists demand action before it becomes a toxic dustbin](https://www.reddit.com/r/news/comments/om5ju3/great_salt_lake_is_shrinking_fast_scientists/)
+- [Amazon asked Apple to remove an app that spots fake reviews, and Apple agreed](https://www.reddit.com/r/news/comments/om4jxh/amazon_asked_apple_to_remove_an_app_that_spots/)
 <!-- REDDIT:END -->
 
 
