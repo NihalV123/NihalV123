@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One hundred lost night-vision goggles at Fort Hood triggers investigation](https://www.reddit.com/r/news/comments/olu8ek/one_hundred_lost_nightvision_goggles_at_fort_hood/)
+- [Biz Markie, Bombastic Rapper Behind 'Just a Friend,' Dies at 57](https://www.reddit.com/r/news/comments/oltxx0/biz_markie_bombastic_rapper_behind_just_a_friend/)
+- [Uber was fined $59 million over sexual assault data. Now it may pay just $150,000](https://www.reddit.com/r/news/comments/olt6ze/uber_was_fined_59_million_over_sexual_assault/)
+- [Teen accused of stabbing girl 114 times allegedly asked how her death was his 'problem'](https://www.reddit.com/r/news/comments/olsza2/teen_accused_of_stabbing_girl_114_times_allegedly/)
+- [Standoff in Texas: SWAT command leader dead, 4 wounded after standoff with gunman](https://www.reddit.com/r/news/comments/olsxyo/standoff_in_texas_swat_command_leader_dead_4/)
 <!-- REDDIT:END -->
 
 
