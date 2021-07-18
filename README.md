@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arkansas National Guardsmen speak out about unsafe living conditions due to COVID](https://www.reddit.com/r/news/comments/omowo7/arkansas_national_guardsmen_speak_out_about/)
+- [2 dead, 7 injured in separate shootings in Portland, Oregon](https://www.reddit.com/r/news/comments/omo44l/2_dead_7_injured_in_separate_shootings_in/)
+- [Pilot dies in fall from hot air balloon, passengers carried across state line](https://www.reddit.com/r/news/comments/omo2rb/pilot_dies_in_fall_from_hot_air_balloon/)
+- [No Bail for Teen Charged in Marine Veteran's Killing During Attempted Carjacking](https://www.reddit.com/r/news/comments/omjvne/no_bail_for_teen_charged_in_marine_veterans/)
+- [OPP officer facing extradition to U.S. on charges of sexual abuse involving minors](https://www.reddit.com/r/news/comments/ominsu/opp_officer_facing_extradition_to_us_on_charges/)
 <!-- REDDIT:END -->
 
 
