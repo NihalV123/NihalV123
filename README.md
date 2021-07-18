@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK looks to extend ivory ban to hippos and other animals](https://www.reddit.com/r/news/comments/omftm6/uk_looks_to_extend_ivory_ban_to_hippos_and_other/)
+- [At least 70 large wildfires burning in US west as fears mount over conditions](https://www.reddit.com/r/news/comments/omf6es/at_least_70_large_wildfires_burning_in_us_west_as/)
+- [34 people being decontaminated after unknown chemical spill at Hurricane Harbour Splashtown in Spring](https://www.reddit.com/r/news/comments/ome6at/34_people_being_decontaminated_after_unknown/)
+- [Reducing incarceration in 2020 did not lead to increase in overall crime in Baton Rouge, study finds](https://www.reddit.com/r/news/comments/ome3g9/reducing_incarceration_in_2020_did_not_lead_to/)
+- [Mom thwarts kidnapping attempt by pulling her son out the car window](https://www.reddit.com/r/news/comments/omchqb/mom_thwarts_kidnapping_attempt_by_pulling_her_son/)
 <!-- REDDIT:END -->
 
 
