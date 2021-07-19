@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Microsoft Exchange email hack was caused by China, US says](https://www.reddit.com/r/news/comments/onbzzi/microsoft_exchange_email_hack_was_caused_by_china/)
+- [Florida man faces first sentencing for felony in riot at US Capitol](https://www.reddit.com/r/news/comments/ona6vq/florida_man_faces_first_sentencing_for_felony_in/)
+- [More than 80% of crew aboard South Korean destroyer test positive for Covid-19](https://www.reddit.com/r/news/comments/on9glv/more_than_80_of_crew_aboard_south_korean/)
+- [Pegasus spyware used to ‘snoop’ on Indian journalists, activists](https://www.reddit.com/r/news/comments/on6z6x/pegasus_spyware_used_to_snoop_on_indian/)
+- [Costa Rica seizes 4.3 tons of Colombian cocaine, 2nd-biggest bust in its history](https://www.reddit.com/r/news/comments/on6jlp/costa_rica_seizes_43_tons_of_colombian_cocaine/)
 <!-- REDDIT:END -->
 
 
