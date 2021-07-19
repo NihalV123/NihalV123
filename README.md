@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia to deport Britain's Katie Hopkins after quarantine breach](https://www.reddit.com/r/news/comments/on1zrq/australia_to_deport_britains_katie_hopkins_after/)
+- [J&J mulls offloading lawsuits from Baby Powder to new company and bankrupting it: sources - National | Globalnews.ca](https://www.reddit.com/r/news/comments/on03n9/jj_mulls_offloading_lawsuits_from_baby_powder_to/)
+- [Bear shot, killed outside Buncombe County home; neighbor faces charges](https://www.reddit.com/r/news/comments/omznf7/bear_shot_killed_outside_buncombe_county_home/)
+- [Vehicle of interest wanted in triple shooting outside Washington Nationals game](https://www.reddit.com/r/news/comments/omyx0y/vehicle_of_interest_wanted_in_triple_shooting/)
+- [Jury awards Manitowoc woman more than $125 million in discrimination lawsuit against Walmart](https://www.reddit.com/r/news/comments/omyk0l/jury_awards_manitowoc_woman_more_than_125_million/)
 <!-- REDDIT:END -->
 
 
