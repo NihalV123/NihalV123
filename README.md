@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pedro Castillo, Leftist Political Outsider, Wins Peru Presidency](https://www.reddit.com/r/news/comments/ontxhy/pedro_castillo_leftist_political_outsider_wins/)
+- [Lawyer will file a petition to remove Britney Spears's father as her guardian](https://www.reddit.com/r/news/comments/onti60/lawyer_will_file_a_petition_to_remove_britney/)
+- [Law firm for Ford, Boeing, Exxon, Marriott, Walgreens and more hacked in ransomware attack | ZDNet](https://www.reddit.com/r/news/comments/ontg8o/law_firm_for_ford_boeing_exxon_marriott_walgreens/)
+- [Twitter Suspends Marjorie Taylor Greene for Posting Coronavirus Misinformation](https://www.reddit.com/r/news/comments/onryy4/twitter_suspends_marjorie_taylor_greene_for/)
+- [West El Paso woman mauled to death by pit bulls in family home](https://www.reddit.com/r/news/comments/onq450/west_el_paso_woman_mauled_to_death_by_pit_bulls/)
 <!-- REDDIT:END -->
 
 
