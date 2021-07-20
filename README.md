@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DEA agent arrested after filming himself with firearm while storming Capitol](https://www.reddit.com/r/news/comments/oo71pr/dea_agent_arrested_after_filming_himself_with/)
+- [American deafblind Paralympian withdraws from Tokyo Games after request for personal assistant refused](https://www.reddit.com/r/news/comments/oo633g/american_deafblind_paralympian_withdraws_from/)
+- [Teen driver swerves to miss squirrel, crashes into Lincoln's historic family home](https://www.reddit.com/r/news/comments/oo62w3/teen_driver_swerves_to_miss_squirrel_crashes_into/)
+- [Americans’ Medical Debts Are Bigger Than Was Known, Totaling $140 Billion](https://www.reddit.com/r/news/comments/oo4yua/americans_medical_debts_are_bigger_than_was_known/)
+- [Highly contagious Delta variant now makes up 83% of US coronavirus cases, CDC says](https://www.reddit.com/r/news/comments/oo4omr/highly_contagious_delta_variant_now_makes_up_83/)
 <!-- REDDIT:END -->
 
 
