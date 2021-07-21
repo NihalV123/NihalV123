@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Life Expectancy Fell By 1.5 Years In 2020, The Biggest Drop Since WW II](https://www.reddit.com/r/news/comments/ooigq9/us_life_expectancy_fell_by_15_years_in_2020_the/)
+- [Bezos thanks Amazon workers and customers for his vast wealth, prompting backlash.](https://www.reddit.com/r/news/comments/oohsex/bezos_thanks_amazon_workers_and_customers_for_his/)
+- [Pasadena To Require City Workers To Be Fully Vaccinated](https://www.reddit.com/r/news/comments/oog0m8/pasadena_to_require_city_workers_to_be_fully/)
+- [California synagogue shooter pleads guilty in deadly attack, will spend life in prison](https://www.reddit.com/r/news/comments/oofwwu/california_synagogue_shooter_pleads_guilty_in/)
+- [Couple charged in California fire sparked by gender reveal](https://www.reddit.com/r/news/comments/oofw3f/couple_charged_in_california_fire_sparked_by/)
 <!-- REDDIT:END -->
 
 
