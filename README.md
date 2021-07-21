@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former informant 'White Boy Rick' sues FBI for $100m](https://www.reddit.com/r/news/comments/ooubrc/former_informant_white_boy_rick_sues_fbi_for_100m/)
+- [Man found dead with ‘I touch little girls’ written on chest in New York](https://www.reddit.com/r/news/comments/oou7kh/man_found_dead_with_i_touch_little_girls_written/)
+- [Russia's permafrost is thawing - and it could make melting polar ice caps look like a sideshow | Climate News](https://www.reddit.com/r/news/comments/oos734/russias_permafrost_is_thawing_and_it_could_make/)
+- [General Secretary of USCCB unexpectedly resigns after ‘impending media reports alleging possible improper behavior’](https://www.reddit.com/r/news/comments/oorz14/general_secretary_of_usccb_unexpectedly_resigns/)
+- [Dubai is making its own fake rain to beat 122F heat](https://www.reddit.com/r/news/comments/oorix7/dubai_is_making_its_own_fake_rain_to_beat_122f/)
 <!-- REDDIT:END -->
 
 
