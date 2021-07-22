@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Detroit Police moved to fire cop hit with 85 complaints, accusations of racist language. Why was he promoted?](https://www.reddit.com/r/news/comments/opc197/detroit_police_moved_to_fire_cop_hit_with_85/)
+- [Eric Clapton refuses to play venues that require proof of vaccination](https://www.reddit.com/r/news/comments/opb2vf/eric_clapton_refuses_to_play_venues_that_require/)
+- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.reddit.com/r/news/comments/op7emx/the_ftc_votes_unanimously_to_enforce_right_to/)
+- [YouTube pulls Jair Bolsonaro videos for Covid-19 misinformation](https://www.reddit.com/r/news/comments/op6a4v/youtube_pulls_jair_bolsonaro_videos_for_covid19/)
+- [In A Historic Reform, Elected Civilians Will Now Help Oversee Chicago’s Police Department](https://www.reddit.com/r/news/comments/op53nd/in_a_historic_reform_elected_civilians_will_now/)
 <!-- REDDIT:END -->
 
 
