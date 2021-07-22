@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The FTC Votes Unanimously to Enforce Right to Repair](https://www.reddit.com/r/news/comments/op7emx/the_ftc_votes_unanimously_to_enforce_right_to/)
+- [FBI arrests Mississippi man for assaulting officers during Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/op5ya0/fbi_arrests_mississippi_man_for_assaulting/)
+- [Lawsuit: Kansas altered software to hide election records](https://www.reddit.com/r/news/comments/op5vrv/lawsuit_kansas_altered_software_to_hide_election/)
+- [In A Historic Reform, Elected Civilians Will Now Help Oversee Chicago’s Police Department](https://www.reddit.com/r/news/comments/op53nd/in_a_historic_reform_elected_civilians_will_now/)
+- [Tens of thousands of children cope with "pandemic grief" after losing parent or caregiver](https://www.reddit.com/r/news/comments/op4uv0/tens_of_thousands_of_children_cope_with_pandemic/)
 <!-- REDDIT:END -->
 
 
