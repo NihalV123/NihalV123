@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Powerful magnitude-6.8 quake shakes Panama and Costa Rica](https://www.reddit.com/r/news/comments/op0ac9/powerful_magnitude68_quake_shakes_panama_and/)
+- [Judge blocks Arkansas' ban on gender-affirming care for transgender minors](https://www.reddit.com/r/news/comments/ooz5e4/judge_blocks_arkansas_ban_on_genderaffirming_care/)
+- [US church official resigns after news outlet uses phone data to out him as Grindr user](https://www.reddit.com/r/news/comments/ooyppv/us_church_official_resigns_after_news_outlet_uses/)
+- [Unvaccinated staff eyed in rising nursing home cases, deaths](https://www.reddit.com/r/news/comments/ooyb3w/unvaccinated_staff_eyed_in_rising_nursing_home/)
+- [Malaysia to Phase Out China’s Sinovac Vaccine In Favor of Pfizer-BioNTech](https://www.reddit.com/r/news/comments/ooy7a5/malaysia_to_phase_out_chinas_sinovac_vaccine_in/)
 <!-- REDDIT:END -->
 
 
