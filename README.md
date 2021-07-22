@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [“The Italian government is poised to introduce restrictions on unvaccinated people as it pushes for more citizens to take a vaccine against Covid-19 amid a resurgence in infections.”](https://www.reddit.com/r/news/comments/opi5u9/the_italian_government_is_poised_to_introduce/)
+- [Several major websites go down in widespread internet outage](https://www.reddit.com/r/news/comments/oph98w/several_major_websites_go_down_in_widespread/)
+- [Chinese prosecutor, ex-NYPD cop charged with stalking, harassing U.S. residents on behalf of China](https://www.reddit.com/r/news/comments/opgveh/chinese_prosecutor_exnypd_cop_charged_with/)
+- [Myanmar military accused of arresting doctors while COVID-19 infections rise](https://www.reddit.com/r/news/comments/opf5h2/myanmar_military_accused_of_arresting_doctors/)
+- [Anti-vaccine groups changing into 'dance parties' on Facebook to avoid detection](https://www.reddit.com/r/news/comments/opf4ye/antivaccine_groups_changing_into_dance_parties_on/)
 <!-- REDDIT:END -->
 
 
