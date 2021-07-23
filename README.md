@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Afghan interpreter for US Army was beheaded by Taliban. Others fear they will be hunted down too](https://www.reddit.com/r/news/comments/optkmu/afghan_interpreter_for_us_army_was_beheaded_by/)
+- [Training video in alleged kidnapping plot of Michigan Gov. Gretchen Whitmer released](https://www.reddit.com/r/news/comments/opt262/training_video_in_alleged_kidnapping_plot_of/)
+- [Three states are seeing about 40% of the country's new Covid-19 cases](https://www.reddit.com/r/news/comments/ops4tt/three_states_are_seeing_about_40_of_the_countrys/)
+- [Oregon congressman proposes new space tourism tax](https://www.reddit.com/r/news/comments/opr2a1/oregon_congressman_proposes_new_space_tourism_tax/)
+- [Coast Guard helicopter spots man’s SOS signal after he was stalked and repeatedly attacked by grizzly bear](https://www.reddit.com/r/news/comments/opr0jf/coast_guard_helicopter_spots_mans_sos_signal/)
 <!-- REDDIT:END -->
 
 
