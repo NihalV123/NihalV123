@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Caution urged after plague found in six Colorado counties, linked to death of 10-year-old child](https://www.reddit.com/r/news/comments/oq6lhw/caution_urged_after_plague_found_in_six_colorado/)
+- [Florida pastor facing U.S. Capitol riot charges has court hearing](https://www.reddit.com/r/news/comments/oq5su3/florida_pastor_facing_us_capitol_riot_charges_has/)
+- [Homeowners yell 'have him die somewhere else' as hero lawn care worker tries to save man's life](https://www.reddit.com/r/news/comments/oq4dp7/homeowners_yell_have_him_die_somewhere_else_as/)
+- [Thieves in California are stealing scarce water amid extreme drought, 'devastating' some communities](https://www.reddit.com/r/news/comments/oq32gu/thieves_in_california_are_stealing_scarce_water/)
+- [Baseball's Cleveland Indians will change name to Cleveland Guardians in 2022](https://www.reddit.com/r/news/comments/oq2zct/baseballs_cleveland_indians_will_change_name_to/)
 <!-- REDDIT:END -->
 
 
