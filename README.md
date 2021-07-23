@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [8 shot in Old Town drive-by, marking Chicago's 3rd mass shooting in 6-hour span, CPD says](https://www.reddit.com/r/news/comments/oq0acw/8_shot_in_old_town_driveby_marking_chicagos_3rd/)
+- [China floods: Henan mother dies after saving baby from mudslide](https://www.reddit.com/r/news/comments/opzamd/china_floods_henan_mother_dies_after_saving_baby/)
+- [Girl battling brain cancer meets a 'unicorn' through Make-A-Wish Foundation](https://www.reddit.com/r/news/comments/opyqjd/girl_battling_brain_cancer_meets_a_unicorn/)
+- [Video: 1st aircraft carrier named in honor of Black Navy veteran](https://www.reddit.com/r/news/comments/opyg6t/video_1st_aircraft_carrier_named_in_honor_of/)
+- [Afghan interpreter for US Army was beheaded by Taliban. Others fear they will be hunted down too](https://www.reddit.com/r/news/comments/optkmu/afghan_interpreter_for_us_army_was_beheaded_by/)
 <!-- REDDIT:END -->
 
 
