@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [SoCal man, 34, who mocked vaccines dies of COVID-19](https://www.reddit.com/r/news/comments/oqjncq/socal_man_34_who_mocked_vaccines_dies_of_covid19/)
+- [Chicago will require masks in school this fall, regardless of vaccination status.](https://www.reddit.com/r/news/comments/oqii26/chicago_will_require_masks_in_school_this_fall/)
+- [Surfside condo collapse: Judge says families to get minimum of $150M in compensation](https://www.reddit.com/r/news/comments/oqi1th/surfside_condo_collapse_judge_says_families_to/)
+- [Hospitals Are Being Penalized for Not Publishing Their Prices](https://www.reddit.com/r/news/comments/oqhy1j/hospitals_are_being_penalized_for_not_publishing/)
+- [FAA changes policy on who qualifies for commercial astronaut wings on same day as Blue Origin spaceflight](https://www.reddit.com/r/news/comments/oqfxh0/faa_changes_policy_on_who_qualifies_for/)
 <!-- REDDIT:END -->
 
 
