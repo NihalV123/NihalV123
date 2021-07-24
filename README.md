@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama gov.: 'Start blaming the unvaccinated folks' for rising cases, they're 'letting us down'](https://www.reddit.com/r/news/comments/oqeinm/alabama_gov_start_blaming_the_unvaccinated_folks/)
+- [Dutch teen on space flight told Bezos he had never ordered from Amazon](https://www.reddit.com/r/news/comments/oqdbq1/dutch_teen_on_space_flight_told_bezos_he_had/)
+- [Talk radio host hospitalized with COVID regrets vaccine hesitancy, brother says](https://www.reddit.com/r/news/comments/oqd58j/talk_radio_host_hospitalized_with_covid_regrets/)
+- [Outbreaks of a drug-resistant superbug fungus spread in two U.S. cities, CDC reports](https://www.reddit.com/r/news/comments/oqd4pw/outbreaks_of_a_drugresistant_superbug_fungus/)
+- [Jeff Bezos and Sir Richard Branson not yet astronauts, US says](https://www.reddit.com/r/news/comments/oqc85i/jeff_bezos_and_sir_richard_branson_not_yet/)
 <!-- REDDIT:END -->
 
 
