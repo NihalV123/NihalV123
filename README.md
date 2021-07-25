@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sleep-away camp COVID-19 outbreak sickens 31](https://www.reddit.com/r/news/comments/oqyp0o/sleepaway_camp_covid19_outbreak_sickens_31/)
+- [Man who made fun of vaccination efforts on social media dies of Covid](https://www.reddit.com/r/news/comments/oqyjxr/man_who_made_fun_of_vaccination_efforts_on_social/)
+- [Imprisoned 'Dating Game Killer' Rodney Alcala dies in Central California while awaiting execution](https://www.reddit.com/r/news/comments/oqxwwy/imprisoned_dating_game_killer_rodney_alcala_dies/)
+- [France bans crushing and gassing of male chicks from 2022](https://www.reddit.com/r/news/comments/oqxu5g/france_bans_crushing_and_gassing_of_male_chicks/)
+- [R Kelly had sexual contact with underage boy as well as girls, prosecutors say](https://www.reddit.com/r/news/comments/oqwmiv/r_kelly_had_sexual_contact_with_underage_boy_as/)
 <!-- REDDIT:END -->
 
 
