@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Disney executives won’t attend CinemaCon in-person as delta Covid variant rages in Las Vegas](https://www.reddit.com/r/news/comments/or9zgi/disney_executives_wont_attend_cinemacon_inperson/)
+- [As R. Kelly trial approaches, prosecutors want to include alleged evidence of bribes and recordings of threats](https://www.reddit.com/r/news/comments/or8w4s/as_r_kelly_trial_approaches_prosecutors_want_to/)
+- [UK health minister sparks fury by urging people not to 'cower from' COVID](https://www.reddit.com/r/news/comments/or8fhe/uk_health_minister_sparks_fury_by_urging_people/)
+- [German TV reporter fired after caught smearing herself with mud to fake that she helped clear up flooded town](https://www.reddit.com/r/news/comments/or7x1k/german_tv_reporter_fired_after_caught_smearing/)
+- [Man in Florida bar shows off gun, accidently shoots himself](https://www.reddit.com/r/news/comments/or6v75/man_in_florida_bar_shows_off_gun_accidently/)
 <!-- REDDIT:END -->
 
 
