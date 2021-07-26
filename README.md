@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California is requiring proof of Covid vaccination for state employees](https://www.reddit.com/r/news/comments/os41j9/california_is_requiring_proof_of_covid/)
+- [FDA asks Pfizer and Moderna to expand COVID-19 vaccine pediatric studies- NYT](https://www.reddit.com/r/news/comments/os3nha/fda_asks_pfizer_and_moderna_to_expand_covid19/)
+- [SUV left at dealership for first oil change totaled; Owner told dealership not responsible.](https://www.reddit.com/r/news/comments/os1k32/suv_left_at_dealership_for_first_oil_change/)
+- [After son dies of COVID, mother holds vaccine drive at his funeral](https://www.reddit.com/r/news/comments/os04q9/after_son_dies_of_covid_mother_holds_vaccine/)
+- [Amid Delta Fears, NYC to Expand Vaccine Mandate for All City Workers](https://www.reddit.com/r/news/comments/os03qc/amid_delta_fears_nyc_to_expand_vaccine_mandate/)
 <!-- REDDIT:END -->
 
 
