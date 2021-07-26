@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Most fire victims are still waiting to be paid by PG&E’s Fire Victim Fund, investigation finds](https://www.reddit.com/r/news/comments/orl644/most_fire_victims_are_still_waiting_to_be_paid_by/)
+- [Video shows baby trapped under alleged drunk driver's car being rescued by bystanders, police](https://www.reddit.com/r/news/comments/orkzmi/video_shows_baby_trapped_under_alleged_drunk/)
+- [12-year-old girl killed in North Carolina drive-by shooting while sitting at picnic table](https://www.reddit.com/r/news/comments/ork5e7/12yearold_girl_killed_in_north_carolina_driveby/)
+- [Tennessee man sentenced for deadly 'swatting' scheme over username](https://www.reddit.com/r/news/comments/orj8kh/tennessee_man_sentenced_for_deadly_swatting/)
+- [Firefighters from Mexico arrive in B.C. to help fight hundreds of active wildfires](https://www.reddit.com/r/news/comments/orhvme/firefighters_from_mexico_arrive_in_bc_to_help/)
 <!-- REDDIT:END -->
 
 
