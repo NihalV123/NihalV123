@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Landmark Vatican fraud trial of 10 including a cardinal set to start](https://www.reddit.com/r/news/comments/orv69d/landmark_vatican_fraud_trial_of_10_including_a/)
+- [Australians may face longer lockdown after ‘reckless’ mass protests](https://www.reddit.com/r/news/comments/oru3mb/australians_may_face_longer_lockdown_after/)
+- [Flooded London hospitals ask patients to stay away](https://www.reddit.com/r/news/comments/oru2zw/flooded_london_hospitals_ask_patients_to_stay_away/)
+- [6 people are dead and several more injured after sandstorm leads to 20 vehicle crash in Utah](https://www.reddit.com/r/news/comments/orrl3m/6_people_are_dead_and_several_more_injured_after/)
+- [SpaceX Falcon Heavy to launch NASA ocean moon explorer, saving the US billions](https://www.reddit.com/r/news/comments/orqw1c/spacex_falcon_heavy_to_launch_nasa_ocean_moon/)
 <!-- REDDIT:END -->
 
 
