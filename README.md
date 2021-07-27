@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [75-year-old hit with Taser says officer put knee on his neck](https://www.reddit.com/r/news/comments/osfbfr/75yearold_hit_with_taser_says_officer_put_knee_on/)
+- [Police catch ‘serial pooper’ after wrong woman gets a bum rap in Indiana - National](https://www.reddit.com/r/news/comments/osdmfp/police_catch_serial_pooper_after_wrong_woman_gets/)
+- [Arrest warrants issued for two Aurora police officers over use of force, failure to report](https://www.reddit.com/r/news/comments/osdeke/arrest_warrants_issued_for_two_aurora_police/)
+- [Former U.S. Sen. Barbara Boxer assaulted, robbed in California](https://www.reddit.com/r/news/comments/oscbxf/former_us_sen_barbara_boxer_assaulted_robbed_in/)
+- [4 men charged in fatal drive-by shooting of 13-year-old girl](https://www.reddit.com/r/news/comments/osbkl2/4_men_charged_in_fatal_driveby_shooting_of/)
 <!-- REDDIT:END -->
 
 
