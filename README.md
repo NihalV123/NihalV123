@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China critic Sen. Tommy Tuberville of Alabama violated stock disclosure law, sold Alibaba option](https://www.reddit.com/r/news/comments/osqcmi/china_critic_sen_tommy_tuberville_of_alabama/)
+- [Two men charged for allegedly vandalizing a Black Lives Matter mural in California](https://www.reddit.com/r/news/comments/osq6zz/two_men_charged_for_allegedly_vandalizing_a_black/)
+- [U.S. to seek rapid deportations of migrant families traveling with children](https://www.reddit.com/r/news/comments/osow3l/us_to_seek_rapid_deportations_of_migrant_families/)
+- [Tokyo reports record virus cases days after Olympics begin](https://www.reddit.com/r/news/comments/osofpb/tokyo_reports_record_virus_cases_days_after/)
+- [Man pleading guilty, hopes for life without parole in first 4 Georgia spa killings, faces death in 4 Atlanta killings](https://www.reddit.com/r/news/comments/osn4i9/man_pleading_guilty_hopes_for_life_without_parole/)
 <!-- REDDIT:END -->
 
 
