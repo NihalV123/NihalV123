@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Masks Will Return To The U.S. House And White House After The CDC Changes Guidance](https://www.reddit.com/r/news/comments/otd35y/masks_will_return_to_the_us_house_and_white_house/)
+- [NYC to Offer $100 Incentive for Vaccination Starting Friday](https://www.reddit.com/r/news/comments/otcoms/nyc_to_offer_100_incentive_for_vaccination/)
+- [Check your spice cabinet: These McCormick seasonings could make you sick](https://www.reddit.com/r/news/comments/otbvda/check_your_spice_cabinet_these_mccormick/)
+- [‘Disinfo kills’: protesters demand Facebook act to stop vaccine falsehoods](https://www.reddit.com/r/news/comments/otb72s/disinfo_kills_protesters_demand_facebook_act_to/)
+- [Ex-lawmaker who let protesters in Oregon Capitol gets probation](https://www.reddit.com/r/news/comments/otb2js/exlawmaker_who_let_protesters_in_oregon_capitol/)
 <!-- REDDIT:END -->
 
 
