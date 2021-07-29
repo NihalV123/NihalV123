@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Severe storms in the Midwest could produce hurricane-force winds, bringing widespread damage and power outages](https://www.reddit.com/r/news/comments/otv3yb/severe_storms_in_the_midwest_could_produce/)
+- [Cannabis part of the future says tobacco giant](https://www.reddit.com/r/news/comments/otu5a0/cannabis_part_of_the_future_says_tobacco_giant/)
+- [Cleveland EMS staffing issues in spotlight after child unable to be transported following dog attack](https://www.reddit.com/r/news/comments/otu2jy/cleveland_ems_staffing_issues_in_spotlight_after/)
+- [Major magnitude 8.2 earthquake - Gulf of Alaska, 102 mi east of Sandpoint, Aleutians East, Alaska, USA, on 28 Jul 10:15 pm (GMT -8)](https://www.reddit.com/r/news/comments/otsa9a/major_magnitude_82_earthquake_gulf_of_alaska_102/)
+- [Disney World guests will have to wear masks again](https://www.reddit.com/r/news/comments/otohmr/disney_world_guests_will_have_to_wear_masks_again/)
 <!-- REDDIT:END -->
 
 
