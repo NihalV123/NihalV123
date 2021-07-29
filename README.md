@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bob Odenkirk in stable condition after experiencing a "heart-related incident"](https://www.reddit.com/r/news/comments/otllx1/bob_odenkirk_in_stable_condition_after/)
+- [Pacific Northwest braces for another heat wave as dozens of wildfires continue to burn](https://www.reddit.com/r/news/comments/otldlg/pacific_northwest_braces_for_another_heat_wave_as/)
+- [Lollapalooza to require vaccination card or negative test](https://www.reddit.com/r/news/comments/otku26/lollapalooza_to_require_vaccination_card_or/)
+- [Baylor Scott and White Hospital will require 40,000 staff and support staff to get Covid Vaccine](https://www.reddit.com/r/news/comments/otjqwv/baylor_scott_and_white_hospital_will_require/)
+- [Apple will require masks in many U.S. stores regardless of vaccination status](https://www.reddit.com/r/news/comments/otj4kh/apple_will_require_masks_in_many_us_stores/)
 <!-- REDDIT:END -->
 
 
