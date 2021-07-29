@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Disney World guests will have to wear masks again](https://www.reddit.com/r/news/comments/otohmr/disney_world_guests_will_have_to_wear_masks_again/)
+- [CDC reinstates face mask recommendations amid U.S. surge in Delta variant cases](https://www.reddit.com/r/news/comments/otntmz/cdc_reinstates_face_mask_recommendations_amid_us/)
+- [Twitter closes San Francisco, New York offices as Covid cases surge](https://www.reddit.com/r/news/comments/otn8hf/twitter_closes_san_francisco_new_york_offices_as/)
+- [FDA allows automatic 'generic' swap for brand-name insulin](https://www.reddit.com/r/news/comments/otn2fc/fda_allows_automatic_generic_swap_for_brandname/)
+- [Florida mayors defy DeSantis with mask, vaccine mandates](https://www.reddit.com/r/news/comments/otmtwv/florida_mayors_defy_desantis_with_mask_vaccine/)
 <!-- REDDIT:END -->
 
 
