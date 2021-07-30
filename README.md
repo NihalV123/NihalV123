@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The amount of Greenland ice that melted on Tuesday could cover Florida in 2 inches of water](https://www.reddit.com/r/news/comments/ou8myq/the_amount_of_greenland_ice_that_melted_on/)
+- [Alabama has highest COVID case positivity rate in the U.S.](https://www.reddit.com/r/news/comments/ou7foo/alabama_has_highest_covid_case_positivity_rate_in/)
+- [Some people in Missouri are getting vaccinated in secret to avoid backlash from loved ones, doctor says](https://www.reddit.com/r/news/comments/ou6qj2/some_people_in_missouri_are_getting_vaccinated_in/)
+- [Florida virus cases soar, hospitals near last summer's peak](https://www.reddit.com/r/news/comments/ou6d8o/florida_virus_cases_soar_hospitals_near_last/)
+- [Mask with Nazi symbols sold at Fort Lauderdale gas station](https://www.reddit.com/r/news/comments/ou4y4s/mask_with_nazi_symbols_sold_at_fort_lauderdale/)
 <!-- REDDIT:END -->
 
 
