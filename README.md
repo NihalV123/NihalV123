@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bayer to pull Glyphosate from U.S. Lawn and Garden Markets.](https://www.reddit.com/r/news/comments/ouoi8t/bayer_to_pull_glyphosate_from_us_lawn_and_garden/)
+- [Woman burns herself, sets car on fire while trying to kill bed bugs](https://www.reddit.com/r/news/comments/ounres/woman_burns_herself_sets_car_on_fire_while_trying/)
+- [Government workers can be required to get vaccinated, too, legal experts say](https://www.reddit.com/r/news/comments/ounnp2/government_workers_can_be_required_to_get/)
+- [Walmart reinstates mask policy as Delta variant cases climb](https://www.reddit.com/r/news/comments/ounl7x/walmart_reinstates_mask_policy_as_delta_variant/)
+- [Mother arrested after 12-year-old daughter gives birth](https://www.reddit.com/r/news/comments/oumtm1/mother_arrested_after_12yearold_daughter_gives/)
 <!-- REDDIT:END -->
 
 
