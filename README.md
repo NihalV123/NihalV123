@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [First group of evacuated Afghan interpreters to arrive in US](https://www.reddit.com/r/news/comments/oubpxe/first_group_of_evacuated_afghan_interpreters_to/)
+- [Five teens indicted on 205 charges including rape, burglary and kidnapping](https://www.reddit.com/r/news/comments/oubacb/five_teens_indicted_on_205_charges_including_rape/)
+- [Breakthrough COVID infections show 'the unvaccinated are now putting the vaccinated at risk'](https://www.reddit.com/r/news/comments/ouailg/breakthrough_covid_infections_show_the/)
+- [Urgent appeal as Irish girl, 12, vanishes in London while on holiday](https://www.reddit.com/r/news/comments/ou96tm/urgent_appeal_as_irish_girl_12_vanishes_in_london/)
+- [The amount of Greenland ice that melted on Tuesday could cover Florida in 2 inches of water](https://www.reddit.com/r/news/comments/ou8myq/the_amount_of_greenland_ice_that_melted_on/)
 <!-- REDDIT:END -->
 
 
