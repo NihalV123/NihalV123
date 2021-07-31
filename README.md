@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kurdish family of seven killed in Turkey. The family, including three women, who had previously been victim of a reportedly racist attack, was killed and their house was subsequently set on fire. The incident happened in the same town in which last week a Kurdish man was killed by 60 people.](https://www.reddit.com/r/news/comments/ovazhs/kurdish_family_of_seven_killed_in_turkey_the/)
+- [The US reported 122,000 new COVID-19 cases on Friday — the highest single-day spike since February](https://www.reddit.com/r/news/comments/ov9yg8/the_us_reported_122000_new_covid19_cases_on/)
+- [Biden Calls On The Military To Look Into Making The COVID-19 Vaccine Mandatory](https://www.reddit.com/r/news/comments/ov9jjx/biden_calls_on_the_military_to_look_into_making/)
+- [US vaccination rates rise as White House frustrated with media ‘alarmism’](https://www.reddit.com/r/news/comments/ov7nya/us_vaccination_rates_rise_as_white_house/)
+- [Forgotten oil and gas wells linger, leaking toxic chemicals](https://www.reddit.com/r/news/comments/ov73wa/forgotten_oil_and_gas_wells_linger_leaking_toxic/)
 <!-- REDDIT:END -->
 
 
