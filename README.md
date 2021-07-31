@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Austin health officials warn there are 16 staffed ICU beds left for 2.3 million residents as COVID cases surge](https://www.reddit.com/r/news/comments/ov1799/austin_health_officials_warn_there_are_16_staffed/)
+- [Woman charged for disturbing Yellowstone mother grizzly](https://www.reddit.com/r/news/comments/ouzl82/woman_charged_for_disturbing_yellowstone_mother/)
+- [Lollapalooza a ‘Recipe for Disaster,' Doctors Say, Warning of COVID Spike After Festival - Chicago's top doctor has said there will "almost certainly" be some COVID cases associated with the four-day music festival](https://www.reddit.com/r/news/comments/ouyhth/lollapalooza_a_recipe_for_disaster_doctors_say/)
+- [Justice Department says Russians hacked federal prosecutors](https://www.reddit.com/r/news/comments/ouydih/justice_department_says_russians_hacked_federal/)
+- [U.S. sues Texas to block state troopers from stopping migrants](https://www.reddit.com/r/news/comments/ouwlnk/us_sues_texas_to_block_state_troopers_from/)
 <!-- REDDIT:END -->
 
 
