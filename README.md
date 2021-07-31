@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mississippi ICUs have only 10% of beds available as COVID-19 delta variant surges](https://www.reddit.com/r/news/comments/ouwdn3/mississippi_icus_have_only_10_of_beds_available/)
+- [Baton Rouge children's hospital nears capacity, braces for surge in Covid cases ahead of school year](https://www.reddit.com/r/news/comments/ouw4px/baton_rouge_childrens_hospital_nears_capacity/)
+- [600 tons of marine life have washed up on Florida's shores](https://www.reddit.com/r/news/comments/ouvun6/600_tons_of_marine_life_have_washed_up_on/)
+- [Disney to Require Employees Get Vaccinated for COVID-19](https://www.reddit.com/r/news/comments/outcqz/disney_to_require_employees_get_vaccinated_for/)
+- [Front-line workers in Florida say current COVID-19 surge 'feels like it's an impending storm'](https://www.reddit.com/r/news/comments/out1ft/frontline_workers_in_florida_say_current_covid19/)
 <!-- REDDIT:END -->
 
 
