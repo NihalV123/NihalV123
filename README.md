@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Department says Russians hacked federal prosecutors](https://www.reddit.com/r/news/comments/ov5pf4/justice_department_says_russians_hacked_federal/)
+- [Audio from migrant kids shelter reveals allegations of sex misconduct by staff](https://www.reddit.com/r/news/comments/ov5f77/audio_from_migrant_kids_shelter_reveals/)
+- [The two largest wildfires in the US have burned land nearly the size of New York City, Los Angeles and Chicago combined](https://www.reddit.com/r/news/comments/ov5772/the_two_largest_wildfires_in_the_us_have_burned/)
+- [Bob Odenkirk says he had small heart attack but vows ‘I’ll be back soon’](https://www.reddit.com/r/news/comments/ov459y/bob_odenkirk_says_he_had_small_heart_attack_but/)
+- [New Orleans EMS can't keep up with calls due to the Covid-19 surge as mayor restores a mask mandate](https://www.reddit.com/r/news/comments/ov2yti/new_orleans_ems_cant_keep_up_with_calls_due_to/)
 <!-- REDDIT:END -->
 
 
