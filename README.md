@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nassau County woman loses fiancé, mother, grandmother days apart to COVID](https://www.reddit.com/r/news/comments/ovm5r2/nassau_county_woman_loses_fiancé_mother/)
+- [Representative Cori Bush sleeps outside Capitol to protest end of eviction freeze: "I know what it's like"](https://www.reddit.com/r/news/comments/ovm4j2/representative_cori_bush_sleeps_outside_capitol/)
+- [A stranded orca was freed from a rocky coastline in Alaska after being stuck for hours | CNN](https://www.reddit.com/r/news/comments/ovlnc6/a_stranded_orca_was_freed_from_a_rocky_coastline/)
+- [Bishop: Albany diocese covered up priest abuse for decades](https://www.reddit.com/r/news/comments/ovkew6/bishop_albany_diocese_covered_up_priest_abuse_for/)
+- [Ireland’s vaccination programme ‘having massive benefits beyond expectations’](https://www.reddit.com/r/news/comments/ovj34y/irelands_vaccination_programme_having_massive/)
 <!-- REDDIT:END -->
 
 
