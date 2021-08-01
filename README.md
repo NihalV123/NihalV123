@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Simply bonkers: House prices now 10.5 times median disposable income, ANZ economists say - NZ Herald](https://www.reddit.com/r/news/comments/ovhnmt/simply_bonkers_house_prices_now_105_times_median/)
+- [Fauci says polio would still exist in the US if the 'false information' currently being spread existed decades ago](https://www.reddit.com/r/news/comments/ovh0ui/fauci_says_polio_would_still_exist_in_the_us_if/)
+- [Minimum wage earners can’t afford a two-bedroom rental anywhere, report says](https://www.reddit.com/r/news/comments/ovgp3c/minimum_wage_earners_cant_afford_a_twobedroom/)
+- [Haiti assassination revives concerns over ‘private armies’](https://www.reddit.com/r/news/comments/ovg8cl/haiti_assassination_revives_concerns_over_private/)
+- [Olympics-Russia emboldened to continue cheating, says USADA chief](https://www.reddit.com/r/news/comments/ovfn33/olympicsrussia_emboldened_to_continue_cheating/)
 <!-- REDDIT:END -->
 
 
