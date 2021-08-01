@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Thea White, voice of Muriel Bagge in Courage the Cowardly Dog, has passed away.](https://www.reddit.com/r/news/comments/ovqses/thea_white_voice_of_muriel_bagge_in_courage_the/)
+- [Astronomers detect light behind black hole for first time](https://www.reddit.com/r/news/comments/ovp39s/astronomers_detect_light_behind_black_hole_for/)
+- [Sky News Australia banned from YouTube for seven days over Covid misinformation | Australian media](https://www.reddit.com/r/news/comments/ovo9rr/sky_news_australia_banned_from_youtube_for_seven/)
+- [Ammunition shelves bare as US gun sales continue to soar](https://www.reddit.com/r/news/comments/ovmomw/ammunition_shelves_bare_as_us_gun_sales_continue/)
+- [Nassau County woman loses fiancé, mother, grandmother days apart to COVID](https://www.reddit.com/r/news/comments/ovm5r2/nassau_county_woman_loses_fiancé_mother/)
 <!-- REDDIT:END -->
 
 
