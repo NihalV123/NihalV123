@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dr. Scott Gottlieb sees Covid vaccine boosters for vulnerable people in U.S. as early as September](https://www.reddit.com/r/news/comments/owigqp/dr_scott_gottlieb_sees_covid_vaccine_boosters_for/)
+- [About 99.99% of Fully Vaccinated Americans Have not had a deadly COVID-19 Breakthrough Case, CDC Data shows](https://www.reddit.com/r/news/comments/owifwc/about_9999_of_fully_vaccinated_americans_have_not/)
+- [Equinox and SoulCycle to require proof of vaccination starting in September](https://www.reddit.com/r/news/comments/owi2xg/equinox_and_soulcycle_to_require_proof_of/)
+- [U.S. expands Afghan refugee program, citing Taliban violence](https://www.reddit.com/r/news/comments/owh65f/us_expands_afghan_refugee_program_citing_taliban/)
+- [Oxfordshire vicar, 71, sews lips shut in protest against Rupert Murdoch](https://www.reddit.com/r/news/comments/owgzql/oxfordshire_vicar_71_sews_lips_shut_in_protest/)
 <!-- REDDIT:END -->
 
 
