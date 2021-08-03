@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 in 3 people say return-to-office negatively impacted their mental health](https://www.reddit.com/r/news/comments/ox87et/1_in_3_people_say_returntooffice_negatively/)
+- [Household debt jumps by the most in 14 years to nearly $15 trillion in the second quarter](https://www.reddit.com/r/news/comments/ox7nrx/household_debt_jumps_by_the_most_in_14_years_to/)
+- [NY Gov. Cuomo sexually harassed multiple women, retaliated against ex-employee, attorney general says](https://www.reddit.com/r/news/comments/ox5gse/ny_gov_cuomo_sexually_harassed_multiple_women/)
+- [Florida's Broward County school district reverses its mask mandate after funding threat from the governor](https://www.reddit.com/r/news/comments/ox5c5i/floridas_broward_county_school_district_reverses/)
+- [Pentagon on lockdown after gunshots fired near Metro](https://www.reddit.com/r/news/comments/ox5a07/pentagon_on_lockdown_after_gunshots_fired_near/)
 <!-- REDDIT:END -->
 
 
