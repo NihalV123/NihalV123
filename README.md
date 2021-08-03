@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Four officers who responded to U.S. Capitol attack have died by suicide](https://www.reddit.com/r/news/comments/owvpei/four_officers_who_responded_to_us_capitol_attack/)
+- [Fourth police officer dies by suicide after Capitol riot, family confirms](https://www.reddit.com/r/news/comments/owu23i/fourth_police_officer_dies_by_suicide_after/)
+- [Amazon violated labor law in Alabama union election, labor official finds](https://www.reddit.com/r/news/comments/owtrre/amazon_violated_labor_law_in_alabama_union/)
+- [Florida and Texas had one-third of all US Covid-19 cases in past week, official says](https://www.reddit.com/r/news/comments/owtihd/florida_and_texas_had_onethird_of_all_us_covid19/)
+- [Employers are losing patience with unvaccinated workers](https://www.reddit.com/r/news/comments/owt4hs/employers_are_losing_patience_with_unvaccinated/)
 <!-- REDDIT:END -->
 
 
