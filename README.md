@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
+- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
+- [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
+- [STACKr News Shorts - Issue 4 - How to learn Git slowly](https://www.youtube.com/watch?v=lLGVf4vjo9E)
+- [STACKr News Shorts - Issue 4 - Solve This Coding Question To Win $200](https://www.youtube.com/watch?v=fg7ccFTJ4gI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
