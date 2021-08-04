@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man locked up in Hawaii mental hospital for two years in case of mistaken identity - Police did not compare Joshua Spriestersbach's fingerprints or photos with that of a wanted man and thought he was delusional when he repeatedly protested his innocence](https://www.reddit.com/r/news/comments/oxqh67/man_locked_up_in_hawaii_mental_hospital_for_two/)
+- [Mistaken identity lands man in Hawaii mental hospital for over 2 years](https://www.reddit.com/r/news/comments/oxpn5q/mistaken_identity_lands_man_in_hawaii_mental/)
+- [College students buying fake vaccine cards to circumvent shot, testing requirements](https://www.reddit.com/r/news/comments/oxnj1t/college_students_buying_fake_vaccine_cards_to/)
+- [COVID-19: Oklahoma runs out of ICU hospital beds](https://www.reddit.com/r/news/comments/oxkwjl/covid19_oklahoma_runs_out_of_icu_hospital_beds/)
+- [Belarusian NGO chief found hanged in Ukraine](https://www.reddit.com/r/news/comments/oxki75/belarusian_ngo_chief_found_hanged_in_ukraine/)
 <!-- REDDIT:END -->
 
 
