@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [COVID-19: Oklahoma runs out of ICU hospital beds](https://www.reddit.com/r/news/comments/oxkwjl/covid19_oklahoma_runs_out_of_icu_hospital_beds/)
+- [Covid third wave: Florida surpasses all-time record for hospital admissions](https://www.reddit.com/r/news/comments/oxj7uy/covid_third_wave_florida_surpasses_alltime_record/)
+- [More than $170,000 raised in 24 hours for mother and three kids facing eviction](https://www.reddit.com/r/news/comments/oxiuz0/more_than_170000_raised_in_24_hours_for_mother/)
+- [Former Minneapolis officers charged with violating George Floyd's civil rights want their federal cases separated from Derek Chauvin](https://www.reddit.com/r/news/comments/oxhqv5/former_minneapolis_officers_charged_with/)
+- [FDA aiming to give final approval to Pfizer vaccine by early next month -NY Times](https://www.reddit.com/r/news/comments/oxhqmq/fda_aiming_to_give_final_approval_to_pfizer/)
 <!-- REDDIT:END -->
 
 
