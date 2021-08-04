@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [County coroner in Missouri says he omits Covid-19 from some death certificates](https://www.reddit.com/r/news/comments/oxwsxo/county_coroner_in_missouri_says_he_omits_covid19/)
+- [Mexico sues gun firms in U.S., seeks estimated $10 bln damages](https://www.reddit.com/r/news/comments/oxvy1b/mexico_sues_gun_firms_in_us_seeks_estimated_10/)
+- [Frontier flight attendants placed on leave after taping unruly passenger to seat](https://www.reddit.com/r/news/comments/oxvgvr/frontier_flight_attendants_placed_on_leave_after/)
+- [Spirit Airlines cancels 60% of scheduled flights on third day of "operational issues"](https://www.reddit.com/r/news/comments/oxvge3/spirit_airlines_cancels_60_of_scheduled_flights/)
+- [Police: Teen fatally shot himself after accidently shooting mother in the head](https://www.reddit.com/r/news/comments/oxueyq/police_teen_fatally_shot_himself_after_accidently/)
 <!-- REDDIT:END -->
 
 
