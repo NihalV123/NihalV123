@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indiana woman killed husband, dismembered body with ax, asked kids to help, police say](https://www.reddit.com/r/news/comments/oymsun/indiana_woman_killed_husband_dismembered_body/)
+- [Police seize vehicle after woman caught hanging out of window while holding AK-47](https://www.reddit.com/r/news/comments/oymrpq/police_seize_vehicle_after_woman_caught_hanging/)
+- [Third Covid vaccine shot for people with weakened immune systems ‘very high priority,’ Fauci says](https://www.reddit.com/r/news/comments/oymk1u/third_covid_vaccine_shot_for_people_with_weakened/)
+- [100-Year-Old Alleged Former Nazi Will Stand Trial on Charges of Involvement of the Deaths of Nearly 3,500 Jews](https://www.reddit.com/r/news/comments/oylvlp/100yearold_alleged_former_nazi_will_stand_trial/)
+- [Major US bank delays its return to the office due to the Delta variant](https://www.reddit.com/r/news/comments/oylh4j/major_us_bank_delays_its_return_to_the_office_due/)
 <!-- REDDIT:END -->
 
 
