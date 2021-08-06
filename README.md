@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Seven states make up half of COVID cases in the US: White House | Coronavirus pandemic News](https://www.reddit.com/r/news/comments/oyzasx/seven_states_make_up_half_of_covid_cases_in_the/)
+- [First cases of COVID Lambda variant reported in North Louisiana](https://www.reddit.com/r/news/comments/oyyoav/first_cases_of_covid_lambda_variant_reported_in/)
+- [Dallas firefighter allegedly faked family's Covid diagnosis, then lounged at local resort](https://www.reddit.com/r/news/comments/oyxs7u/dallas_firefighter_allegedly_faked_familys_covid/)
+- [U.S. FTC says Facebook misused privacy decree to shut down ad research](https://www.reddit.com/r/news/comments/oyxn7b/us_ftc_says_facebook_misused_privacy_decree_to/)
+- [‘We lost Greenville’: Wildfire decimates California town](https://www.reddit.com/r/news/comments/oyufd5/we_lost_greenville_wildfire_decimates_california/)
 <!-- REDDIT:END -->
 
 
