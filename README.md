@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House says 50% of Americans are fully vaccinated](https://www.reddit.com/r/news/comments/ozawue/white_house_says_50_of_americans_are_fully/)
+- [Judge blocks Arkansas law barring mask mandates in schools](https://www.reddit.com/r/news/comments/oza0ue/judge_blocks_arkansas_law_barring_mask_mandates/)
+- [Lawsuit: Guards mistook dentures for contraband, beat inmate](https://www.reddit.com/r/news/comments/oz9u4d/lawsuit_guards_mistook_dentures_for_contraband/)
+- [Sheriff: Aide who accused Cuomo files criminal complaint](https://www.reddit.com/r/news/comments/oz9t07/sheriff_aide_who_accused_cuomo_files_criminal/)
+- [Wildfire explodes to third-largest in California history](https://www.reddit.com/r/news/comments/oz9m7l/wildfire_explodes_to_thirdlargest_in_california/)
 <!-- REDDIT:END -->
 
 
