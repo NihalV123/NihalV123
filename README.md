@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawsuit accuses Chicago police of pointing guns at young children during wrongful raid](https://www.reddit.com/r/news/comments/oyue7w/lawsuit_accuses_chicago_police_of_pointing_guns/)
+- [$15 wage becoming a norm as employers struggle to fill jobs](https://www.reddit.com/r/news/comments/oyu4pg/15_wage_becoming_a_norm_as_employers_struggle_to/)
+- [California to mandate COVID-19 vaccines for health workers](https://www.reddit.com/r/news/comments/oytsjn/california_to_mandate_covid19_vaccines_for_health/)
+- ['Never seen anything like it': Delta is making a growing number of kids very sick](https://www.reddit.com/r/news/comments/oysoxz/never_seen_anything_like_it_delta_is_making_a/)
+- [Yelp to allow users to filter businesses based on vaccination requirements](https://www.reddit.com/r/news/comments/oysjbk/yelp_to_allow_users_to_filter_businesses_based_on/)
 <!-- REDDIT:END -->
 
 
