@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Like a war zone’: 27K pounds of deodorant cans carried by semi explode in Oklahoma](https://www.reddit.com/r/news/comments/p04f1m/like_a_war_zone_27k_pounds_of_deodorant_cans/)
+- [Colorado mudslides wreak havoc on major transportation route](https://www.reddit.com/r/news/comments/p03f8o/colorado_mudslides_wreak_havoc_on_major/)
+- [Trevor Moore Dies: Co-Founder Of ‘The Whitest Kids U Know’ Was 41](https://www.reddit.com/r/news/comments/p035qk/trevor_moore_dies_cofounder_of_the_whitest_kids_u/)
+- [Kool & the Gang co-founder Dennis Thomas dead at age 70](https://www.reddit.com/r/news/comments/p00qy2/kool_the_gang_cofounder_dennis_thomas_dead_at_age/)
+- [NYC's beloved owl "Barry" dies after being struck by Central Park maintenance vehicle](https://www.reddit.com/r/news/comments/ozy63p/nycs_beloved_owl_barry_dies_after_being_struck_by/)
 <!-- REDDIT:END -->
 
 
