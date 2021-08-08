@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Her husband needs this life-support machine, but she says Florida has none to spare](https://www.reddit.com/r/news/comments/p0iyve/her_husband_needs_this_lifesupport_machine_but/)
+- [Denver experienced the worst air quality of any major city in the world due to smoke from western wildfires](https://www.reddit.com/r/news/comments/p0ix5v/denver_experienced_the_worst_air_quality_of_any/)
+- [A Black realtor was showing a home to a Black father and son. They were handcuffed by Michigan police](https://www.reddit.com/r/news/comments/p0iefo/a_black_realtor_was_showing_a_home_to_a_black/)
+- [Gaza resort bombed for holding mixed-gender concert](https://www.reddit.com/r/news/comments/p0gmgm/gaza_resort_bombed_for_holding_mixedgender_concert/)
+- [Sheriff: 1 dead, 5 wounded in Houston club shooting](https://www.reddit.com/r/news/comments/p0gcw7/sheriff_1_dead_5_wounded_in_houston_club_shooting/)
 <!-- REDDIT:END -->
 
 
