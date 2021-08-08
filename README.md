@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Legendary FSU coach Bobby Bowden dies at 91](https://www.reddit.com/r/news/comments/p0cqy1/legendary_fsu_coach_bobby_bowden_dies_at_91/)
+- [N.C. woman, 70, found buried in concrete inside home's basement](https://www.reddit.com/r/news/comments/p0c07n/nc_woman_70_found_buried_in_concrete_inside_homes/)
+- [Man gets 25 years for murdering sister's rapist after meeting him in jail](https://www.reddit.com/r/news/comments/p0bzfh/man_gets_25_years_for_murdering_sisters_rapist/)
+- [Indonesia study shows Sinovac Covid-19 vaccine 85% effective against symptomatic illness among older folk](https://www.reddit.com/r/news/comments/p0bvud/indonesia_study_shows_sinovac_covid19_vaccine_85/)
+- [Californians hit hard hard with weekend of wildfire fears](https://www.reddit.com/r/news/comments/p07dmj/californians_hit_hard_hard_with_weekend_of/)
 <!-- REDDIT:END -->
 
 
