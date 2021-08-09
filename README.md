@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Palm Beach parents tell their kids not to associate with unmasked kids](https://www.reddit.com/r/news/comments/p0q83y/palm_beach_parents_tell_their_kids_not_to/)
+- [New Orleans Jazz Fest cancels 2021 event due to Covid-19](https://www.reddit.com/r/news/comments/p0pnbs/new_orleans_jazz_fest_cancels_2021_event_due_to/)
+- [Big Tech call center workers face pressure to accept home surveillance](https://www.reddit.com/r/news/comments/p0o5bt/big_tech_call_center_workers_face_pressure_to/)
+- [U.S. teachers' union shifts stance to back vaccine mandate as COVID surges](https://www.reddit.com/r/news/comments/p0nl9w/us_teachers_union_shifts_stance_to_back_vaccine/)
+- [Texas judge asks nurses to 'step up' amid staffing shortages and rising COVID cases](https://www.reddit.com/r/news/comments/p0n0n7/texas_judge_asks_nurses_to_step_up_amid_staffing/)
 <!-- REDDIT:END -->
 
 
