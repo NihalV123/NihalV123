@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Employees at Lincoln Family Dollar all quit](https://www.reddit.com/r/news/comments/p16d12/employees_at_lincoln_family_dollar_all_quit/)
+- [Pentagon to require COVID vaccine for all troops by Sept. 15](https://www.reddit.com/r/news/comments/p15i8g/pentagon_to_require_covid_vaccine_for_all_troops/)
+- [Target will cover 100% of college tuition for its workers](https://www.reddit.com/r/news/comments/p153sj/target_will_cover_100_of_college_tuition_for_its/)
+- [Emergency notification system used to warn people of 'dire' Covid-19 situation in Austin, Texas](https://www.reddit.com/r/news/comments/p13w9g/emergency_notification_system_used_to_warn_people/)
+- [Anti-vax protesters attempt to storm studio at BBC Television Centre](https://www.reddit.com/r/news/comments/p13acj/antivax_protesters_attempt_to_storm_studio_at_bbc/)
 <!-- REDDIT:END -->
 
 
