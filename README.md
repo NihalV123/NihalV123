@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Austin, Texas, activates emergency alert system in response to COVID surge](https://www.reddit.com/r/news/comments/p0tuzg/austin_texas_activates_emergency_alert_system_in/)
+- [U.S. judge says Florida can't ban cruise ship's 'vaccine passport' program](https://www.reddit.com/r/news/comments/p0s4vd/us_judge_says_florida_cant_ban_cruise_ships/)
+- [Prolonged period of 'potentially dangerous heat' becoming more likely for the Northwest, weather service warns](https://www.reddit.com/r/news/comments/p0rn95/prolonged_period_of_potentially_dangerous_heat/)
+- [An Ohio judge ordered a man to get a Covid-19 vaccine as a condition of his probation](https://www.reddit.com/r/news/comments/p0rio8/an_ohio_judge_ordered_a_man_to_get_a_covid19/)
+- [US sets record for children hospitalized with Covid-19](https://www.reddit.com/r/news/comments/p0rfqx/us_sets_record_for_children_hospitalized_with/)
 <!-- REDDIT:END -->
 
 
