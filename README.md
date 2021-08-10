@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 Texas ERs temporarily shut down as US Covid-19 hospitalization and death rates double in 2 weeks](https://www.reddit.com/r/news/comments/p1gee7/2_texas_ers_temporarily_shut_down_as_us_covid19/)
+- [Arkansas has just 8 ICU beds available as the state had its largest increase in hospitalizations](https://www.reddit.com/r/news/comments/p1g6ju/arkansas_has_just_8_icu_beds_available_as_the/)
+- [Houston ICUs 'like a war zone' amid COVID surge, doctor says](https://www.reddit.com/r/news/comments/p1f459/houston_icus_like_a_war_zone_amid_covid_surge/)
+- [Texas hospital system is prepping tents to deal with rapid surge in Covid-19 patients](https://www.reddit.com/r/news/comments/p1e3cv/texas_hospital_system_is_prepping_tents_to_deal/)
+- [NY COVID Hospitalizations Up 229% in Month; Severe Breakthrough Rate Rising in NJ](https://www.reddit.com/r/news/comments/p1dywn/ny_covid_hospitalizations_up_229_in_month_severe/)
 <!-- REDDIT:END -->
 
 
