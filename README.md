@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Houses are getting scooped up before they're listed. It's shutting people out of homeownership](https://www.reddit.com/r/news/comments/p2ghjh/houses_are_getting_scooped_up_before_theyre/)
+- [Florida hospitals are overrun as state fights one of the worst Covid outbreaks in the U.S.](https://www.reddit.com/r/news/comments/p2fyge/florida_hospitals_are_overrun_as_state_fights_one/)
+- [Police stand by officers who detained Black real estate agent, clients viewing home](https://www.reddit.com/r/news/comments/p2fd9j/police_stand_by_officers_who_detained_black_real/)
+- [Florida school administrators are risking their salaries to defy DeSantis on masks](https://www.reddit.com/r/news/comments/p2dypf/florida_school_administrators_are_risking_their/)
+- [3 men sentenced in beating of gay couple in Austin, Texas](https://www.reddit.com/r/news/comments/p2dqzc/3_men_sentenced_in_beating_of_gay_couple_in/)
 <!-- REDDIT:END -->
 
 
