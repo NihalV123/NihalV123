@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Census shows US is diversifying, white population shrinking](https://www.reddit.com/r/news/comments/p34eb4/census_shows_us_is_diversifying_white_population/)
+- [Tokyo Olympics: Jamaican gold medallist Hansle Parchment tracks down woman who gave him taxi fare and helped save his Games dream](https://www.reddit.com/r/news/comments/p348c8/tokyo_olympics_jamaican_gold_medallist_hansle/)
+- [Kentucky Sen. Paul failed to disclose wife's stock trade](https://www.reddit.com/r/news/comments/p33fo2/kentucky_sen_paul_failed_to_disclose_wifes_stock/)
+- [Climate change is making people think twice about having children](https://www.reddit.com/r/news/comments/p330h2/climate_change_is_making_people_think_twice_about/)
+- [Landlord Accused of Killing 2 Tenants Told Police He Handled Eviction 'His Way'](https://www.reddit.com/r/news/comments/p321n6/landlord_accused_of_killing_2_tenants_told_police/)
 <!-- REDDIT:END -->
 
 
