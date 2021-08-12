@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Herd immunity from Covid is 'mythical' with the delta variant, experts say](https://www.reddit.com/r/news/comments/p2xus2/herd_immunity_from_covid_is_mythical_with_the/)
+- [Wildland firefighters told to supply own food, water over 'critical' shortages](https://www.reddit.com/r/news/comments/p2wgcq/wildland_firefighters_told_to_supply_own_food/)
+- [Shell to pay $111m over decades-old oil spills in Nigeria](https://www.reddit.com/r/news/comments/p2w2nv/shell_to_pay_111m_over_decadesold_oil_spills_in/)
+- [Newberg school board approves ban on pride and Black Lives Matter flags](https://www.reddit.com/r/news/comments/p2rlsp/newberg_school_board_approves_ban_on_pride_and/)
+- [New Zealand borders to remain closed for rest of the year](https://www.reddit.com/r/news/comments/p2r0dw/new_zealand_borders_to_remain_closed_for_rest_of/)
 <!-- REDDIT:END -->
 
 
