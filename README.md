@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court won’t stop Indiana University’s Covid vaccination requirement](https://www.reddit.com/r/news/comments/p3agix/supreme_court_wont_stop_indiana_universitys_covid/)
+- [Nearly half of American workers don’t earn enough to afford a one-bedroom rental](https://www.reddit.com/r/news/comments/p39ma4/nearly_half_of_american_workers_dont_earn_enough/)
+- [Tallahassee hospital confirms first childhood COVID-19 death amid push for masks in schools](https://www.reddit.com/r/news/comments/p39izp/tallahassee_hospital_confirms_first_childhood/)
+- [Britney Spears’ father agrees to step down as conservator](https://www.reddit.com/r/news/comments/p39c82/britney_spears_father_agrees_to_step_down_as/)
+- [203 cases of COVID-19 linked to Chicago's Lollapalooza](https://www.reddit.com/r/news/comments/p38ys0/203_cases_of_covid19_linked_to_chicagos/)
 <!-- REDDIT:END -->
 
 
