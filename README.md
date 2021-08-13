@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A parent sent their child to school after a positive Covid-19 test. More than 80 students may have been exposed, officials say](https://www.reddit.com/r/news/comments/p3f1is/a_parent_sent_their_child_to_school_after_a/)
+- [Toddler shoots, kills mom during video call after finding gun, Florida police say](https://www.reddit.com/r/news/comments/p3eswv/toddler_shoots_kills_mom_during_video_call_after/)
+- [No Pediatric ICU Beds Available in North Texas as COVID-19 Cases Surge](https://www.reddit.com/r/news/comments/p3dwtv/no_pediatric_icu_beds_available_in_north_texas_as/)
+- [Oregon school board votes to ban Black Lives Matter, Pride signs from district buildings](https://www.reddit.com/r/news/comments/p3dowr/oregon_school_board_votes_to_ban_black_lives/)
+- [Hundreds of students in Palm Beach county forced to quarantine after only 2 days of school.](https://www.reddit.com/r/news/comments/p3d8ka/hundreds_of_students_in_palm_beach_county_forced/)
 <!-- REDDIT:END -->
 
 
