@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada to require all commercial air passengers flying within the country to be vaccinated](https://www.reddit.com/r/news/comments/p3pn4u/canada_to_require_all_commercial_air_passengers/)
+- [The Co-Founder Of The Fact-Checking Site Snopes Was Writing Plagiarized Articles Under A Fake Name](https://www.reddit.com/r/news/comments/p3pken/the_cofounder_of_the_factchecking_site_snopes_was/)
+- ['Let me breathe': Manitoba RCMP officer dismissed pleas while pinning man's neck in arrest, video shows](https://www.reddit.com/r/news/comments/p3pahv/let_me_breathe_manitoba_rcmp_officer_dismissed/)
+- [Feds to make COVID-19 vaccines mandatory across federal public service](https://www.reddit.com/r/news/comments/p3ozgn/feds_to_make_covid19_vaccines_mandatory_across/)
+- [ACLU sues DC, police over use of chemical irritants, stun grenades at racial justice protest](https://www.reddit.com/r/news/comments/p3o8er/aclu_sues_dc_police_over_use_of_chemical/)
 <!-- REDDIT:END -->
 
 
