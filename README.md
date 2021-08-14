@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada to accept 20,000 vulnerable Afghans such as women leaders, human rights workers](https://www.reddit.com/r/news/comments/p3ui79/canada_to_accept_20000_vulnerable_afghans_such_as/)
+- [COVID hits hard in rural Mississippi after big county fair](https://www.reddit.com/r/news/comments/p3ud8p/covid_hits_hard_in_rural_mississippi_after_big/)
+- ['Your child will wait for another child to die.' Amid Covid-19 surge, Dallas County has no pediatric ICU beds left, county judge says](https://www.reddit.com/r/news/comments/p3tu8y/your_child_will_wait_for_another_child_to_die/)
+- [WSU to end 'personal or philosophical' vaccine exemptions](https://www.reddit.com/r/news/comments/p3tgym/wsu_to_end_personal_or_philosophical_vaccine/)
+- [Hundreds of students in Palm Beach County forced to quarantine because of COVID days after school starts](https://www.reddit.com/r/news/comments/p3swxw/hundreds_of_students_in_palm_beach_county_forced/)
 <!-- REDDIT:END -->
 
 
