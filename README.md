@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [96% of ICU beds across Texas are full as COVID cases surge: "Some wait hours, some wait days"](https://www.reddit.com/r/news/comments/p4c641/96_of_icu_beds_across_texas_are_full_as_covid/)
+- [Michigan tops 20,000 COVID-19 deaths, braces for new wave](https://www.reddit.com/r/news/comments/p4bpfm/michigan_tops_20000_covid19_deaths_braces_for_new/)
+- [Electricity and transport become 'luxury' items overnight accelerating Lebanon's economic tailspin](https://www.reddit.com/r/news/comments/p4bosl/electricity_and_transport_become_luxury_items/)
+- [Fired Tennessee vaccinations director planning to leave state](https://www.reddit.com/r/news/comments/p4bf7b/fired_tennessee_vaccinations_director_planning_to/)
+- [WHO scientist says China tried to block lab-leak theory from COVID origins report](https://www.reddit.com/r/news/comments/p4beiv/who_scientist_says_china_tried_to_block_lableak/)
 <!-- REDDIT:END -->
 
 
