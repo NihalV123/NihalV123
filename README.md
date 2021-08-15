@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 stabbed as fights break out at anti-vaccine protest in downtown Los Angeles](https://www.reddit.com/r/news/comments/p4m8fu/1_stabbed_as_fights_break_out_at_antivaccine/)
+- [Family of DC officer who died by suicide after Capitol riot files lawsuit against alleged attacker](https://www.reddit.com/r/news/comments/p4lx53/family_of_dc_officer_who_died_by_suicide_after/)
+- [Scammers are selling fake COVID-19 vaccination cards online](https://www.reddit.com/r/news/comments/p4kl05/scammers_are_selling_fake_covid19_vaccination/)
+- [Mississippi 8th Grader Dies With COVID Hours After Reeves Downplays Child Cases](https://www.reddit.com/r/news/comments/p4kcfc/mississippi_8th_grader_dies_with_covid_hours/)
+- [The COVID-19 pandemic laid bare America’s diabetes crisis](https://www.reddit.com/r/news/comments/p4k0yv/the_covid19_pandemic_laid_bare_americas_diabetes/)
 <!-- REDDIT:END -->
 
 
