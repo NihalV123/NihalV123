@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Afghan president to abdicate after Taliban entered Kabul: Sources](https://www.reddit.com/r/news/comments/p4qjie/afghan_president_to_abdicate_after_taliban/)
+- [Three volcanoes are erupting at the same time in Alaska](https://www.reddit.com/r/news/comments/p4q3w2/three_volcanoes_are_erupting_at_the_same_time_in/)
+- [New COVID cases in US soar 700% week-over-week since July 1, CDC says](https://www.reddit.com/r/news/comments/p4o1jf/new_covid_cases_in_us_soar_700_weekoverweek_since/)
+- [Afghans who worked with Australian forces wait for death at the hands of the Taliban](https://www.reddit.com/r/news/comments/p4nqxv/afghans_who_worked_with_australian_forces_wait/)
+- [1 stabbed as fights break out at anti-vaccine protest in downtown Los Angeles](https://www.reddit.com/r/news/comments/p4m8fu/1_stabbed_as_fights_break_out_at_antivaccine/)
 <!-- REDDIT:END -->
 
 
