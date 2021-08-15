@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [19-year-old arrested for conspiracy to commit child sex trafficking in Florida](https://www.reddit.com/r/news/comments/p4idqc/19yearold_arrested_for_conspiracy_to_commit_child/)
+- [Cybersleuths find men who allegedly attacked officer during US Capitol riot | US Capitol attack](https://www.reddit.com/r/news/comments/p4g5es/cybersleuths_find_men_who_allegedly_attacked/)
+- [More than 470 Covid cases and 1,000 quarantined after the first week of school in a Florida county](https://www.reddit.com/r/news/comments/p4g5du/more_than_470_covid_cases_and_1000_quarantined/)
+- [Houston man shot 6 times last week still waiting for surgery at hospital overwhelmed by COVID-19](https://www.reddit.com/r/news/comments/p4fs3d/houston_man_shot_6_times_last_week_still_waiting/)
+- [Children hospitalized with COVID-19 in U.S. hits record number](https://www.reddit.com/r/news/comments/p4ey7z/children_hospitalized_with_covid19_in_us_hits/)
 <!-- REDDIT:END -->
 
 
