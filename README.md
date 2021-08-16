@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nationwide shrimp recall expanded amid more salmonella illnesses](https://www.reddit.com/r/news/comments/p5jvw2/nationwide_shrimp_recall_expanded_amid_more/)
+- [16-year-old South Carolina student dies from Covid-19 complications as school district struggles with infections](https://www.reddit.com/r/news/comments/p5jfl5/16yearold_south_carolina_student_dies_from/)
+- [Kentucky school district cancels classes due to COVID cases](https://www.reddit.com/r/news/comments/p5idhp/kentucky_school_district_cancels_classes_due_to/)
+- [Vaccine skeptic US cardinal on ventilator after Covid diagnosis](https://www.reddit.com/r/news/comments/p5i303/vaccine_skeptic_us_cardinal_on_ventilator_after/)
+- [Schools close throughout the Florida Panhandle ahead of Tropical Storm Fred](https://www.reddit.com/r/news/comments/p5hutf/schools_close_throughout_the_florida_panhandle/)
 <!-- REDDIT:END -->
 
 
