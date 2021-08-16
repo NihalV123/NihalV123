@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US opens formal investigation of Tesla autopilot citing collisions with parked emergency vehicles](https://www.reddit.com/r/news/comments/p5efa3/us_opens_formal_investigation_of_tesla_autopilot/)
+- [An Afghan woman in Kabul: ‘Now I have to burn everything I achieved’](https://www.reddit.com/r/news/comments/p5e86f/an_afghan_woman_in_kabul_now_i_have_to_burn/)
+- [Detainee says China has secret jail in Dubai, holds Uyghurs](https://www.reddit.com/r/news/comments/p5dad2/detainee_says_china_has_secret_jail_in_dubai/)
+- [UMMC to open second field hospital, with ICU beds, in parking garage as COVID-19 explodes](https://www.reddit.com/r/news/comments/p5ceyf/ummc_to_open_second_field_hospital_with_icu_beds/)
+- [Florida's COVID-19 deaths rise as it leads in hospital rates](https://www.reddit.com/r/news/comments/p5atch/floridas_covid19_deaths_rise_as_it_leads_in/)
 <!-- REDDIT:END -->
 
 
