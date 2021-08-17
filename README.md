@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tennessee investigators determine dog muzzle sent to former state vaccine manager was ordered with her own credit card](https://www.reddit.com/r/news/comments/p61lgy/tennessee_investigators_determine_dog_muzzle_sent/)
+- [NZ into full lockdown after 1 COVID case found in community.](https://www.reddit.com/r/news/comments/p5yk5q/nz_into_full_lockdown_after_1_covid_case_found_in/)
+- [Las Vegas Raiders to require vaccination for all fans at home games](https://www.reddit.com/r/news/comments/p5yfxf/las_vegas_raiders_to_require_vaccination_for_all/)
+- [Hospitals in Oregon buckling under surge of COVID patients](https://www.reddit.com/r/news/comments/p5x4xz/hospitals_in_oregon_buckling_under_surge_of_covid/)
+- [New Zealand looks headed for lockdown after its first community case in 170 days](https://www.reddit.com/r/news/comments/p5wqg0/new_zealand_looks_headed_for_lockdown_after_its/)
 <!-- REDDIT:END -->
 
 
