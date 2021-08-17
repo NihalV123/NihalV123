@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. declares first Western reservoir water shortage, triggering cuts](https://www.reddit.com/r/news/comments/p5sc5d/us_declares_first_western_reservoir_water/)
+- ['Save our babies': As another Mississippi child dies of COVID-19, communities beg for help](https://www.reddit.com/r/news/comments/p5qt6k/save_our_babies_as_another_mississippi_child_dies/)
+- [Prince Andrew 'a person of interest' in Epstein probe - source](https://www.reddit.com/r/news/comments/p5qfbn/prince_andrew_a_person_of_interest_in_epstein/)
+- [Haiti quake death toll rises to 1,419, injured now at 6,000](https://www.reddit.com/r/news/comments/p5pne3/haiti_quake_death_toll_rises_to_1419_injured_now/)
+- [T-Mobile Confirms Data Breach, Unclear If Personal Customer Data Was Accessed](https://www.reddit.com/r/news/comments/p5pjkl/tmobile_confirms_data_breach_unclear_if_personal/)
 <!-- REDDIT:END -->
 
 
