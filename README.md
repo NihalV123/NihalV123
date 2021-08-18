@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Comedian Sean Lock Dies Aged 58](https://www.reddit.com/r/news/comments/p6o9s3/comedian_sean_lock_dies_aged_58/)
+- [Texas school district makes masks part of dress code to get around Gov. Abbott's order](https://www.reddit.com/r/news/comments/p6o45x/texas_school_district_makes_masks_part_of_dress/)
+- [Pope Francis urges everyone to get COVID-19 vaccines for the good of all](https://www.reddit.com/r/news/comments/p6np9g/pope_francis_urges_everyone_to_get_covid19/)
+- [Fed chair Powell: There's no returning to pre-pandemic economy](https://www.reddit.com/r/news/comments/p6hug3/fed_chair_powell_theres_no_returning_to/)
+- [Bible Prophecy Teacher Dr. Jimmy DeYoung Sr. Dies After Bout With COVID](https://www.reddit.com/r/news/comments/p6gp9o/bible_prophecy_teacher_dr_jimmy_deyoung_sr_dies/)
 <!-- REDDIT:END -->
 
 
