@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida couple arrested after traveling to Hawaii with fake Covid vaccination cards, officials say](https://www.reddit.com/r/news/comments/p7jcm3/florida_couple_arrested_after_traveling_to_hawaii/)
+- [Police say man in pickup near Capitol claims he has a bomb](https://www.reddit.com/r/news/comments/p7imdn/police_say_man_in_pickup_near_capitol_claims_he/)
+- [Mississippi Quarantines 20,000 With 5,993 Students Positive For COVID; Teen Deaths Rise](https://www.reddit.com/r/news/comments/p7hnf6/mississippi_quarantines_20000_with_5993_students/)
+- [FTC files new antitrust complaint against Facebook](https://www.reddit.com/r/news/comments/p7hao8/ftc_files_new_antitrust_complaint_against_facebook/)
+- [U.S. cannabis insurers get ready to roll as federal legalization nears](https://www.reddit.com/r/news/comments/p7h5ds/us_cannabis_insurers_get_ready_to_roll_as_federal/)
 <!-- REDDIT:END -->
 
 
