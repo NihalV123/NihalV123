@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Naval Academy expels 18 after online exam cheating probe](https://www.reddit.com/r/news/comments/p89h6b/naval_academy_expels_18_after_online_exam/)
+- [Judge orders that Larry Nassar's prison funds be turned over to victim restitution](https://www.reddit.com/r/news/comments/p88dq1/judge_orders_that_larry_nassars_prison_funds_be/)
+- [Poison control calls spike as people take livestock dewormer to treat COVID-19](https://www.reddit.com/r/news/comments/p87a6j/poison_control_calls_spike_as_people_take/)
+- [Palantir CEO gives $180,000 to New Hampshire river hermit whose home burned down](https://www.reddit.com/r/news/comments/p86uef/palantir_ceo_gives_180000_to_new_hampshire_river/)
+- [Connecticut Governor mandates vaccine for teachers and state employees](https://www.reddit.com/r/news/comments/p86twp/connecticut_governor_mandates_vaccine_for/)
 <!-- REDDIT:END -->
 
 
