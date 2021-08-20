@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oregon Governor Tells Doctors, Nurses and Teachers: Get Vaccinated or Be Fired](https://www.reddit.com/r/news/comments/p7qrrv/oregon_governor_tells_doctors_nurses_and_teachers/)
+- [Florida judge refuses to dismiss suit challenging Gov. Ron DeSantis’ order banning school mask mandates without opt-outs](https://www.reddit.com/r/news/comments/p7o6ie/florida_judge_refuses_to_dismiss_suit_challenging/)
+- [Patagonia dumps Jackson Hole ski resort after far-right fundraiser](https://www.reddit.com/r/news/comments/p7nlfe/patagonia_dumps_jackson_hole_ski_resort_after/)
+- [Rain fell at the normally snowy summit of Greenland for the first time on record](https://www.reddit.com/r/news/comments/p7mi43/rain_fell_at_the_normally_snowy_summit_of/)
+- [A white Iowa woman who said she drove her SUV into two children in 2019 to try to kill them because of their race was sentenced Thursday to 25 years in prison on federal hate crimes charges](https://www.reddit.com/r/news/comments/p7m0uh/a_white_iowa_woman_who_said_she_drove_her_suv/)
 <!-- REDDIT:END -->
 
 
