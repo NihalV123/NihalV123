@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Most private insurers are no longer waiving cost-sharing for COVID-19 treatment](https://www.reddit.com/r/news/comments/p830nt/most_private_insurers_are_no_longer_waiving/)
+- [Judge says case against former Parkland school resource officer Scot Peterson can go to trial](https://www.reddit.com/r/news/comments/p82cdt/judge_says_case_against_former_parkland_school/)
+- [Danny DeVito Gets Twitter Verification Back After Abrupt Loss of Status Sparks Outrage](https://www.reddit.com/r/news/comments/p81ouk/danny_devito_gets_twitter_verification_back_after/)
+- [Pakistan: Outpouring of anger after woman assaulted by over 400 men](https://www.reddit.com/r/news/comments/p7xzwm/pakistan_outpouring_of_anger_after_woman/)
+- [Hundreds of cases are being reviewed after police officers involved were relieved of duty over racist and anti-Semitic messages](https://www.reddit.com/r/news/comments/p7xnf7/hundreds_of_cases_are_being_reviewed_after_police/)
 <!-- REDDIT:END -->
 
 
