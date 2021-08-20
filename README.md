@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White Iowa woman who drove her SUV into two children in 2019 to try to kill them because of their race sentenced to 25 years in prison on federal hate crimes charges](https://www.reddit.com/r/news/comments/p7vh7s/white_iowa_woman_who_drove_her_suv_into_two/)
+- [Man accused of assaulting officer in Capitol riot was Williamson County sheriff's deputy](https://www.reddit.com/r/news/comments/p7u00p/man_accused_of_assaulting_officer_in_capitol_riot/)
+- [Texas Supreme Court declines to hold up mask mandate ban](https://www.reddit.com/r/news/comments/p7tixe/texas_supreme_court_declines_to_hold_up_mask/)
+- [Danny DeVito Abruptly Loses Twitter Verification After Tweeting Support For Nabisco Strike](https://www.reddit.com/r/news/comments/p7s2sh/danny_devito_abruptly_loses_twitter_verification/)
+- [Feds seize over 3,000 fake vaccination cards in Anchorage](https://www.reddit.com/r/news/comments/p7ratz/feds_seize_over_3000_fake_vaccination_cards_in/)
 <!-- REDDIT:END -->
 
 
