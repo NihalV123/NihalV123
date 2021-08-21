@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Infowars host Owen Shroyer charged in Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/p8kuiw/infowars_host_owen_shroyer_charged_in_jan_6/)
+- [Judge strikes down California voter-approved law shielding Uber, Lyft from classifying drivers as employees.](https://www.reddit.com/r/news/comments/p8j5ru/judge_strikes_down_california_voterapproved_law/)
+- [University of Virginia disenrolls 238 students for not complying with university's vaccine mandate](https://www.reddit.com/r/news/comments/p8j3ml/university_of_virginia_disenrolls_238_students/)
+- [Mississippi threatens fines, jail time for Covid patients who don't isolate](https://www.reddit.com/r/news/comments/p8hytm/mississippi_threatens_fines_jail_time_for_covid/)
+- [Mississippi officials warn against using livestock ivermectin to prevent COVID-19 after rise in poison control calls](https://www.reddit.com/r/news/comments/p8hjxh/mississippi_officials_warn_against_using/)
 <!-- REDDIT:END -->
 
 
