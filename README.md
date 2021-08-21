@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pfizer Vaccine to Get Full FDA Approval: Report](https://www.reddit.com/r/news/comments/p8q529/pfizer_vaccine_to_get_full_fda_approval_report/)
+- [Florida gives school districts 48 hours to reverse mask mandates or lose funding](https://www.reddit.com/r/news/comments/p8p8kk/florida_gives_school_districts_48_hours_to/)
+- [VISA and MasterCard are the reasons behind OnlyFans restricting nudity on their site](https://www.reddit.com/r/news/comments/p8mg2t/visa_and_mastercard_are_the_reasons_behind/)
+- [Faced with a flood of COVID-19 patients, Queen’s Medical Center West Oahu has declared a “disaster” as the hospital seeks additional support](https://www.reddit.com/r/news/comments/p8lgnf/faced_with_a_flood_of_covid19_patients_queens/)
+- [Judge strikes down California voter-approved law shielding Uber, Lyft from classifying drivers as employees.](https://www.reddit.com/r/news/comments/p8j5ru/judge_strikes_down_california_voterapproved_law/)
 <!-- REDDIT:END -->
 
 
