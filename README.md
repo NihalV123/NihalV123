@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Anti-Taliban forces say they've taken three districts in Afghanistan's north](https://www.reddit.com/r/news/comments/p8vffi/antitaliban_forces_say_theyve_taken_three/)
+- [Raging Delta variant takes its toll as Philippines runs out of nurses](https://www.reddit.com/r/news/comments/p8uvk4/raging_delta_variant_takes_its_toll_as/)
+- [Though young and healthy, unvaccinated father dies of COVID](https://www.reddit.com/r/news/comments/p8ulj8/though_young_and_healthy_unvaccinated_father_dies/)
+- ['My missing piece': Nurse who lost baby to Covid highlights risks for pregnancies](https://www.reddit.com/r/news/comments/p8ukmx/my_missing_piece_nurse_who_lost_baby_to_covid/)
+- [Governor sees 'astronomical' number of new Covid-19 cases](https://www.reddit.com/r/news/comments/p8ubsf/governor_sees_astronomical_number_of_new_covid19/)
 <!-- REDDIT:END -->
 
 
