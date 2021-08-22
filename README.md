@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Officials: South Dakota's nursing shortage growing](https://www.reddit.com/r/news/comments/p9gd70/officials_south_dakotas_nursing_shortage_growing/)
+- [Tropical Storm Henri makes landfall in Rhode Island](https://www.reddit.com/r/news/comments/p9fz3d/tropical_storm_henri_makes_landfall_in_rhode/)
+- [Facebook says post that cast doubt on coronavirus vaccine among the most popular on the platform this year](https://www.reddit.com/r/news/comments/p9fv4q/facebook_says_post_that_cast_doubt_on_coronavirus/)
+- [Full FDA approval of Pfizer Covid shot will enable vaccine requirements](https://www.reddit.com/r/news/comments/p9ekjr/full_fda_approval_of_pfizer_covid_shot_will/)
+- [For bank regulators, tech giants are now too big to fail [Reuters]](https://www.reddit.com/r/news/comments/p9ds6j/for_bank_regulators_tech_giants_are_now_too_big/)
 <!-- REDDIT:END -->
 
 
