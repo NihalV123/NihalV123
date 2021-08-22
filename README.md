@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rev. Jesse Jackson Sr. and Wife Hospitalized After Testing Positive for COVID-19](https://www.reddit.com/r/news/comments/p91vo6/rev_jesse_jackson_sr_and_wife_hospitalized_after/)
+- [R. Kelly aide says he paid bribe for singer to marry Aaliyah](https://www.reddit.com/r/news/comments/p919fy/r_kelly_aide_says_he_paid_bribe_for_singer_to/)
+- [Outspoken conservative radio host Phil Valentine dies after battling COVID-19](https://www.reddit.com/r/news/comments/p8zpng/outspoken_conservative_radio_host_phil_valentine/)
+- ['Stop it': FDA warns people not to take veterinary drugs to treat Covid-19](https://www.reddit.com/r/news/comments/p8zdx6/stop_it_fda_warns_people_not_to_take_veterinary/)
+- [Large nest of 'murder hornets' found near B.C. border](https://www.reddit.com/r/news/comments/p8z8s0/large_nest_of_murder_hornets_found_near_bc_border/)
 <!-- REDDIT:END -->
 
 
