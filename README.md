@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [East Portland Proud Boys Rally Devolves Into Street Violence With No Police in Sight](https://www.reddit.com/r/news/comments/p9t8kt/east_portland_proud_boys_rally_devolves_into/)
+- [‘You are not a cow’: Americans warned over use of livestock anti-worm drug to treat COVID](https://www.reddit.com/r/news/comments/p9sxm9/you_are_not_a_cow_americans_warned_over_use_of/)
+- [NC man who claimed to have bomb near U.S. Capitol held in jail](https://www.reddit.com/r/news/comments/p9sjdr/nc_man_who_claimed_to_have_bomb_near_us_capitol/)
+- [Schools in Florida's capital city defy governor, impose mask mandate](https://www.reddit.com/r/news/comments/p9rtoo/schools_in_floridas_capital_city_defy_governor/)
+- [Jacksonville mother loses 2 sons to COVID-19 in 12 hours. Sons, 41 and 35, were not vaccinated](https://www.reddit.com/r/news/comments/p9rkog/jacksonville_mother_loses_2_sons_to_covid19_in_12/)
 <!-- REDDIT:END -->
 
 
