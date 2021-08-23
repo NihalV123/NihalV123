@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Blue Jays to require proof of vaccination or negative COVID test from fans 12 and over | CBC Sports](https://www.reddit.com/r/news/comments/pa4grx/blue_jays_to_require_proof_of_vaccination_or/)
+- [Autopsy unable to determine cause of death for family hiking in California](https://www.reddit.com/r/news/comments/pa3py7/autopsy_unable_to_determine_cause_of_death_for/)
+- [Pentagon: Coronavirus vaccine will soon be mandatory for troops following full FDA approval](https://www.reddit.com/r/news/comments/pa3lny/pentagon_coronavirus_vaccine_will_soon_be/)
+- [California officer shoots at suspect but kills bystander](https://www.reddit.com/r/news/comments/pa332f/california_officer_shoots_at_suspect_but_kills/)
+- [Anti-vax protesters have broken into UK media organisations](https://www.reddit.com/r/news/comments/pa32mc/antivax_protesters_have_broken_into_uk_media/)
 <!-- REDDIT:END -->
 
 
