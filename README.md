@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [[South Dakota] Meade County experiencing 36% weekly test-positivity rate eight days after the Sturgis Rally ended](https://www.reddit.com/r/news/comments/pafr1l/south_dakota_meade_county_experiencing_36_weekly/)
+- [2 newlywed women found shot to death at their Utah campsite](https://www.reddit.com/r/news/comments/pae33u/2_newlywed_women_found_shot_to_death_at_their/)
+- [Texas Instruments Requiring All U.S. Employees to Get COVID-19 Vaccine](https://www.reddit.com/r/news/comments/paduhb/texas_instruments_requiring_all_us_employees_to/)
+- [The workers at Colectivo Coffee voted Monday to unionize and will become the largest unionized coffee chain in the country](https://www.reddit.com/r/news/comments/padtqm/the_workers_at_colectivo_coffee_voted_monday_to/)
+- [Staten Island hospital employees protest Covid-19 vaccine and testing requirements](https://www.reddit.com/r/news/comments/pabfyu/staten_island_hospital_employees_protest_covid19/)
 <!-- REDDIT:END -->
 
 
