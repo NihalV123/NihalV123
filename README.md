@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Llama antibodies could blunt covid-19 variants](https://www.reddit.com/r/news/comments/pal20e/llama_antibodies_could_blunt_covid19_variants/)
+- [Insane Clown Posse's Violent J reveals heart condition; group announces farewell tour](https://www.reddit.com/r/news/comments/pagb06/insane_clown_posses_violent_j_reveals_heart/)
+- [Kathy Hochul becomes New York’s first female governor](https://www.reddit.com/r/news/comments/pafzh3/kathy_hochul_becomes_new_yorks_first_female/)
+- [2 newlywed women found shot to death at their Utah campsite](https://www.reddit.com/r/news/comments/pae33u/2_newlywed_women_found_shot_to_death_at_their/)
+- [Texas Instruments Requiring All U.S. Employees to Get COVID-19 Vaccine](https://www.reddit.com/r/news/comments/paduhb/texas_instruments_requiring_all_us_employees_to/)
 <!-- REDDIT:END -->
 
 
