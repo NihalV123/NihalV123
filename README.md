@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York City mandates COVID-19 vaccine for teachers in largest U.S. school district](https://www.reddit.com/r/news/comments/pa9n25/new_york_city_mandates_covid19_vaccine_for/)
+- [State investigation finds a California police department violated constitutional rights of residents](https://www.reddit.com/r/news/comments/pa9jph/state_investigation_finds_a_california_police/)
+- [Actors ‘told they’re too disabled’ for disabled roles in UK television](https://www.reddit.com/r/news/comments/pa8oya/actors_told_theyre_too_disabled_for_disabled/)
+- [Voting rights restored to 55,000 North Carolinians - Carolina Public Press](https://www.reddit.com/r/news/comments/pa7l3x/voting_rights_restored_to_55000_north_carolinians/)
+- [Proud Boys leader sentenced to more than 5 months for burning Black Lives Matter banner](https://www.reddit.com/r/news/comments/pa7352/proud_boys_leader_sentenced_to_more_than_5_months/)
 <!-- REDDIT:END -->
 
 
