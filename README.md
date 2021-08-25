@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nurses battle burnout as COVID-19 hospitalizations rise](https://www.reddit.com/r/news/comments/pb351o/nurses_battle_burnout_as_covid19_hospitalizations/)
+- [US Capitol rioter who wore 'Camp Auschwitz' sweatshirt offered plea deal](https://www.reddit.com/r/news/comments/pazyk2/us_capitol_rioter_who_wore_camp_auschwitz/)
+- ['Try to get charges on somebody if you can': Video shows Tampa police targeting BLM protesters](https://www.reddit.com/r/news/comments/paywy5/try_to_get_charges_on_somebody_if_you_can_video/)
+- [A diner at a north Florida restaurant gathered the staff of 10 together to thank them for their hard work before leaving them a $10,000 tip to share](https://www.reddit.com/r/news/comments/payt38/a_diner_at_a_north_florida_restaurant_gathered/)
+- [NRA cancels annual meeting in Texas due to Covid](https://www.reddit.com/r/news/comments/payixb/nra_cancels_annual_meeting_in_texas_due_to_covid/)
 <!-- REDDIT:END -->
 
 
