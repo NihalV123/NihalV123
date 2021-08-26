@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Airplane mechanic sentenced to 75 months in prison for plot to kidnap Michigan governor](https://www.reddit.com/r/news/comments/pbn8pn/airplane_mechanic_sentenced_to_75_months_in/)
+- [The Designer Of The NES And SNES Has Retired From Nintendo After Almost 40 Years](https://www.reddit.com/r/news/comments/pbkm60/the_designer_of_the_nes_and_snes_has_retired_from/)
+- [Oklahoma gubernatorial candidate charged with raping, kidnapping women](https://www.reddit.com/r/news/comments/pbjua9/oklahoma_gubernatorial_candidate_charged_with/)
+- [Ron Jeremy Indicted On 30 Sexual Assault Charges By LA DA; Ex-Porn Star Pleads Not Guilty, Again](https://www.reddit.com/r/news/comments/pbjnc6/ron_jeremy_indicted_on_30_sexual_assault_charges/)
+- [Ex-Florida deputy gets 35 years for child porn charges](https://www.reddit.com/r/news/comments/pbji16/exflorida_deputy_gets_35_years_for_child_porn/)
 <!-- REDDIT:END -->
 
 
