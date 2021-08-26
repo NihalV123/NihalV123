@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- ['I think we already broke:' Mississippi's nurses are resigning to protect themselves from Covid-19 burnout](https://www.reddit.com/r/news/comments/pbsmde/i_think_we_already_broke_mississippis_nurses_are/)
+- [Unvaccinated pregnant nurse, unborn baby die after she contracts Covid](https://www.reddit.com/r/news/comments/pbqxnz/unvaccinated_pregnant_nurse_unborn_baby_die_after/)
+- [Pediatric Covid hospitalizations surge to highest on record in U.S. as doctors brace for more](https://www.reddit.com/r/news/comments/pbqepi/pediatric_covid_hospitalizations_surge_to_highest/)
+- [Texas governor issues order banning local vaccine mandates](https://www.reddit.com/r/news/comments/pbp3x3/texas_governor_issues_order_banning_local_vaccine/)
+- [Federal judge sanctions Sidney Powell election lawsuit](https://www.reddit.com/r/news/comments/pbng22/federal_judge_sanctions_sidney_powell_election/)
 <!-- REDDIT:END -->
 
 
