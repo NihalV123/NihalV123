@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Florida doctor has been removed from his hospital job amid reports that he offered parents medical letters to circumvent school mask requirements.](https://www.reddit.com/r/news/comments/pc4ox4/a_florida_doctor_has_been_removed_from_his/)
+- [US official: Several US Marines killed in Afghanistan blast, a number of US military members wounded](https://www.reddit.com/r/news/comments/pc47zk/us_official_several_us_marines_killed_in/)
+- [68 Florida hospitals have less than 48hrs of oxygen left.](https://www.reddit.com/r/news/comments/pc3pam/68_florida_hospitals_have_less_than_48hrs_of/)
+- [Active Shooter Reported Near Kankakee County Courthouse, Officials Say](https://www.reddit.com/r/news/comments/pc2jye/active_shooter_reported_near_kankakee_county/)
+- [Capitol Police officers sue Trump, Roger Stone, Proud Boys and others over Jan. 6 invasion](https://www.reddit.com/r/news/comments/pc2bny/capitol_police_officers_sue_trump_roger_stone/)
 <!-- REDDIT:END -->
 
 
