@@ -409,29 +409,27 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Conheça o SparkPlug, o novo compilador de JS do V8](https://blog.lsantos.dev/v8-sparkplug/)
-- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://blog.lsantos.dev/es2021/)
-- [O Guia Completo do gRPC parte 4: Streams](https://blog.lsantos.dev/o-guia-do-grpc-4/)
-- [Apresentando o KEDA HTTP Add-on](https://blog.lsantos.dev/apresentando-o-keda-http-add-on/)
-- [Iniciando com ECMAScript Modules](https://blog.lsantos.dev/os-ecmascript-modules-estao-aqui/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 
 <!-- FCC:START -->
-- [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
-- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
-- [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
-- [Apresentando o KEDA HTTP Add-on](https://dev.to/azure/apresentando-o-keda-http-add-on-5d15)
-- [Iniciando com ECMAScript Modules](https://dev.to/azure/iniciando-com-ecmascript-modules-4fgn)
-- [Criando ambientes de teste dinamicamente com GitHub Actions](https://dev.to/azure/criando-ambientes-de-teste-dinamicamente-com-github-actions-2p6k)
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -441,7 +439,6 @@ Top 4 most used languages across your repositories:
 - [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
 - [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
 - [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
-- [Como é trabalhar como desenvolvedor backend, por Luiz Felipe Limeira](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-backend-por-luiz-felipe-limeira-f795edc4fe48?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
  ---
