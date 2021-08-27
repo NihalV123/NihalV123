@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Orleans mayor calls for everyone outside the levee system to evacuate before Hurricane Ida hits Louisiana](https://www.reddit.com/r/news/comments/pcrwn4/new_orleans_mayor_calls_for_everyone_outside_the/)
+- [COVID: ‘I don’t know how much longer we can do this’ says emotional Alabama state health officer.](https://www.reddit.com/r/news/comments/pcqsmb/covid_i_dont_know_how_much_longer_we_can_do_this/)
+- [Judge blocks Florida governor’s order banning mask mandates](https://www.reddit.com/r/news/comments/pcqq6n/judge_blocks_florida_governors_order_banning_mask/)
+- [Report: Unvaccinated people are more than 15 times more likely to die from COVID-19](https://www.reddit.com/r/news/comments/pcprbi/report_unvaccinated_people_are_more_than_15_times/)
+- [Woman who hid 26 kids behind false wall at day care guilty](https://www.reddit.com/r/news/comments/pcphk3/woman_who_hid_26_kids_behind_false_wall_at_day/)
 <!-- REDDIT:END -->
 
 
