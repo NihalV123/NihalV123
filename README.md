@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Anonymous donor to pay for all the funerals of those killed in Tennessee floods](https://www.reddit.com/r/news/comments/pcaosz/anonymous_donor_to_pay_for_all_the_funerals_of/)
+- [Officer who shot Ashli Babbitt during Capitol riot breaks silence: 'I saved countless lives'](https://www.reddit.com/r/news/comments/pca8p4/officer_who_shot_ashli_babbitt_during_capitol/)
+- [Houston confirms city’s first COVID-19 pediatric death of child with no underlying health conditions](https://www.reddit.com/r/news/comments/pc9t6c/houston_confirms_citys_first_covid19_pediatric/)
+- [High school students walk out of class to protest coach’s dismissal over sexual orientation](https://www.reddit.com/r/news/comments/pc9dzf/high_school_students_walk_out_of_class_to_protest/)
+- [3 Broward students arrested in 48 hours: Two threatened to ‘terrorize school,’ one brought a gun](https://www.reddit.com/r/news/comments/pc82l1/3_broward_students_arrested_in_48_hours_two/)
 <!-- REDDIT:END -->
 
 
