@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police officer sued after shooting puppy dead in front of its owners](https://www.reddit.com/r/news/comments/pd7xbq/police_officer_sued_after_shooting_puppy_dead_in/)
+- [Protesters to march in Washington, U.S. cities for voting rights](https://www.reddit.com/r/news/comments/pd7icj/protesters_to_march_in_washington_us_cities_for/)
+- [Fukushima operators to build undersea tunnel to dump contaminated water](https://www.reddit.com/r/news/comments/pd77nb/fukushima_operators_to_build_undersea_tunnel_to/)
+- [India registers over 10 million vaccines in a single day.](https://www.reddit.com/r/news/comments/pd63we/india_registers_over_10_million_vaccines_in_a/)
+- [World Series of Poker announces mandatory vaccination policy for all players ahead of 2021 series](https://www.reddit.com/r/news/comments/pd63pm/world_series_of_poker_announces_mandatory/)
 <!-- REDDIT:END -->
 
 
