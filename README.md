@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Intensifying Category 4 Hurricane Ida to hit Louisiana soon](https://www.reddit.com/r/news/comments/pdtmvm/intensifying_category_4_hurricane_ida_to_hit/)
+- [California: mother fights off mountain lion with bare hands to save 5-year-old son](https://www.reddit.com/r/news/comments/pdtckh/california_mother_fights_off_mountain_lion_with/)
+- [Witnesses describe life inside R. Kelly's 'Chocolate Factory'](https://www.reddit.com/r/news/comments/pdt39n/witnesses_describe_life_inside_r_kellys_chocolate/)
+- [U.S. reports world's first deer with COVID-19](https://www.reddit.com/r/news/comments/pds4h0/us_reports_worlds_first_deer_with_covid19/)
+- [Map: See how many adults in the U.S. have not been vaccinated, by state](https://www.reddit.com/r/news/comments/pdrzsx/map_see_how_many_adults_in_the_us_have_not_been/)
 <!-- REDDIT:END -->
 
 
