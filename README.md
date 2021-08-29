@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A grim warning from Israel: Vaccination blunts, but does not defeat Delta](https://www.reddit.com/r/news/comments/pdphgp/a_grim_warning_from_israel_vaccination_blunts_but/)
+- [Woman who hid 26 kids behind false wall at day care guilty](https://www.reddit.com/r/news/comments/pdox9x/woman_who_hid_26_kids_behind_false_wall_at_day/)
+- [Homelessness blamed for demise of iconic coffee shop](https://www.reddit.com/r/news/comments/pdnuhv/homelessness_blamed_for_demise_of_iconic_coffee/)
+- [After 3-week COVID-19 battle, Daytona Beach talk radio host Marc Bernier dies](https://www.reddit.com/r/news/comments/pdmiwk/after_3week_covid19_battle_daytona_beach_talk/)
+- [Roughly 350 Americans who want to leave are still in Afghanistan, State Department says](https://www.reddit.com/r/news/comments/pdlzhm/roughly_350_americans_who_want_to_leave_are_still/)
 <!-- REDDIT:END -->
 
 
