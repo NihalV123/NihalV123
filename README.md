@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea appears to have restarted nuclear reactor, IAEA says](https://www.reddit.com/r/news/comments/peaosw/north_korea_appears_to_have_restarted_nuclear/)
+- [Hurricane Ida: Latest updates, please add links in comments](https://www.reddit.com/r/news/comments/pe9loa/hurricane_ida_latest_updates_please_add_links_in/)
+- [Hurricane Ida forces Mississippi River to reverse flow](https://www.reddit.com/r/news/comments/pe8bs3/hurricane_ida_forces_mississippi_river_to_reverse/)
+- [All of New Orleans without power due to ‘catastrophic damage’ during Ida, Entergy says](https://www.reddit.com/r/news/comments/pe7ps8/all_of_new_orleans_without_power_due_to/)
+- [Trudeau says he won't back down after protesters hurl death threats, racist and sexist slurs](https://www.reddit.com/r/news/comments/pe5nal/trudeau_says_he_wont_back_down_after_protesters/)
 <!-- REDDIT:END -->
 
 
