@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pennsylvania to mandate masks in K-12 schools, day cares](https://www.reddit.com/r/news/comments/pfac4z/pennsylvania_to_mandate_masks_in_k12_schools_day/)
+- [Mormon vaccine push ratchets up, dividing faith's members](https://www.reddit.com/r/news/comments/pf9ew1/mormon_vaccine_push_ratchets_up_dividing_faiths/)
+- [The Harlem Hellfighters, Black soldiers who fought in World War I, will receive a Congressional Gold Medal](https://www.reddit.com/r/news/comments/pf8pet/the_harlem_hellfighters_black_soldiers_who_fought/)
+- [Baby cougar rescued from New York City apartment](https://www.reddit.com/r/news/comments/pf7ysu/baby_cougar_rescued_from_new_york_city_apartment/)
+- [U.S. pending home sales drop for second straight month in July](https://www.reddit.com/r/news/comments/pf777b/us_pending_home_sales_drop_for_second_straight/)
 <!-- REDDIT:END -->
 
 
