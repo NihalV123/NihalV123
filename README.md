@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [USPS has shorted some workers’ pay for years, CPI finds](https://www.reddit.com/r/news/comments/pf411h/usps_has_shorted_some_workers_pay_for_years_cpi/)
+- [British ex-soldier stranded in Afghanistan plots escape with 400 Afghans](https://www.reddit.com/r/news/comments/pf2zlr/british_exsoldier_stranded_in_afghanistan_plots/)
+- [Shepparton couple donating up to 500 free meals a day amid Covid outbreak](https://www.reddit.com/r/news/comments/pf2hfx/shepparton_couple_donating_up_to_500_free_meals_a/)
+- [Berlin’s university canteens go almost meat-free as students prioritise climate](https://www.reddit.com/r/news/comments/pf2bu6/berlins_university_canteens_go_almost_meatfree_as/)
+- [West Virginia woman pleads guilty to participating in January 6 riot at Capitol](https://www.reddit.com/r/news/comments/pf1z1d/west_virginia_woman_pleads_guilty_to/)
 <!-- REDDIT:END -->
 
 
