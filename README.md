@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Native American tribes enforce mask mandates regardless of state bans. As sovereign nations, Indigenous groups are using their authority to make their own rules to protect students and teachers](https://www.reddit.com/r/news/comments/pfhk3v/native_american_tribes_enforce_mask_mandates/)
+- [Arrest warrant issued for Ohio man accused of confronting NBC's Shaquille Brewster on live TV](https://www.reddit.com/r/news/comments/pfh3zo/arrest_warrant_issued_for_ohio_man_accused_of/)
+- ['Several breaches' of COVID-19 protocol at Lakeshore General Hospital expose patients to delta variant](https://www.reddit.com/r/news/comments/pffvfv/several_breaches_of_covid19_protocol_at_lakeshore/)
+- [More Americans getting vaccinated following full FDA approval of Pfizer COVID vaccine](https://www.reddit.com/r/news/comments/pffg8k/more_americans_getting_vaccinated_following_full/)
+- [Walgreens becomes newest member of the $15 an hour club](https://www.reddit.com/r/news/comments/pff5pe/walgreens_becomes_newest_member_of_the_15_an_hour/)
 <!-- REDDIT:END -->
 
 
