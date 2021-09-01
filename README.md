@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Seattle Children’s announces first patient death from COVID-19](https://www.reddit.com/r/news/comments/pfyhob/seattle_childrens_announces_first_patient_death/)
+- [Britney Spears' lawyer requests her father resign as conservator without payout](https://www.reddit.com/r/news/comments/pfxyka/britney_spears_lawyer_requests_her_father_resign/)
+- [Colorado attorney general: 3 officers, 2 paramedics charged in 2019 death of Elijah McClain, Black man put in chokehold](https://www.reddit.com/r/news/comments/pfx4zg/colorado_attorney_general_3_officers_2_paramedics/)
+- [Tennessee sets new record for COVID hospitalizations - with no end in sight](https://www.reddit.com/r/news/comments/pfwsns/tennessee_sets_new_record_for_covid/)
+- [America has wasted at least 15 million Covid vaccine doses since March, new data shows](https://www.reddit.com/r/news/comments/pfwj9q/america_has_wasted_at_least_15_million_covid/)
 <!-- REDDIT:END -->
 
 
