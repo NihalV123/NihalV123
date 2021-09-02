@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protests in Texas over restrictive new abortion law](https://www.reddit.com/r/news/comments/pg5wfd/protests_in_texas_over_restrictive_new_abortion/)
+- [Oregon school district fires superintendent without reason, after he upheld state's mask mandate](https://www.reddit.com/r/news/comments/pg5248/oregon_school_district_fires_superintendent/)
+- [Social Security costs to exceed revenue for 1st time in 39 years](https://www.reddit.com/r/news/comments/pg4s85/social_security_costs_to_exceed_revenue_for_1st/)
+- [Misspelling of Moderna leads to tourist’s arrest in Hawaii](https://www.reddit.com/r/news/comments/pg455i/misspelling_of_moderna_leads_to_tourists_arrest/)
+- [Iowa virus cases surging among children, young adults](https://www.reddit.com/r/news/comments/pg43yk/iowa_virus_cases_surging_among_children_young/)
 <!-- REDDIT:END -->
 
 
