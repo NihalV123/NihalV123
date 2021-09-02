@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Mississippi casino reports 100% employee vaccination rate](https://www.reddit.com/r/news/comments/pgm3l5/south_mississippi_casino_reports_100_employee/)
+- [Jan. 6 riot defendant returned to jail for using internet](https://www.reddit.com/r/news/comments/pgm1p9/jan_6_riot_defendant_returned_to_jail_for_using/)
+- [Egypt pumps toxic gas into Gaza tunnel, three Palestinians dead](https://www.reddit.com/r/news/comments/pgk98y/egypt_pumps_toxic_gas_into_gaza_tunnel_three/)
+- [The skeleton of the world's biggest Triceratops goes on sale for estimated $1.4M](https://www.reddit.com/r/news/comments/pgjeoc/the_skeleton_of_the_worlds_biggest_triceratops/)
+- [Ida updates: 5 found dead in New Jersey apartment](https://www.reddit.com/r/news/comments/pgie2q/ida_updates_5_found_dead_in_new_jersey_apartment/)
 <!-- REDDIT:END -->
 
 
