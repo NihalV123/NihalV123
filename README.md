@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court refuses to block restrictive Texas abortion law in 5-4 decision](https://www.reddit.com/r/news/comments/pgahah/supreme_court_refuses_to_block_restrictive_texas/)
+- [Ask for COVID vaccine proof, face a $5,000 fine in Florida](https://www.reddit.com/r/news/comments/pg9rqa/ask_for_covid_vaccine_proof_face_a_5000_fine_in/)
+- [Texans can now openly carry guns in public without a permit or training. Police say the new law makes it harder to do their jobs](https://www.reddit.com/r/news/comments/pg9qq7/texans_can_now_openly_carry_guns_in_public/)
+- [Photos show black slick in water near Gulf oil rig after Ida](https://www.reddit.com/r/news/comments/pg8rdk/photos_show_black_slick_in_water_near_gulf_oil/)
+- [Ninety-nine percent of people arrested by Beverly Hills ‘safe streets’ unit were Black, suit says | US policing](https://www.reddit.com/r/news/comments/pg6t10/ninetynine_percent_of_people_arrested_by_beverly/)
 <!-- REDDIT:END -->
 
 
