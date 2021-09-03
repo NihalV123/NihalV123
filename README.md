@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US hospitals hit with nurse staffing crisis amid COVID](https://www.reddit.com/r/news/comments/pgxgas/us_hospitals_hit_with_nurse_staffing_crisis_amid/)
+- [At least 46 people have died after floodwaters from Ida's remnants swamp cities from Virginia to New England](https://www.reddit.com/r/news/comments/pgvvyj/at_least_46_people_have_died_after_floodwaters/)
+- [TikTokers flood Texas abortion whistleblower site with Shrek memes, fake reports and porn](https://www.reddit.com/r/news/comments/pguzmp/tiktokers_flood_texas_abortion_whistleblower_site/)
+- [Wi Spa: Person at center of transgender protests facing indecent-exposure charges](https://www.reddit.com/r/news/comments/pgux9y/wi_spa_person_at_center_of_transgender_protests/)
+- [Police on-scene at Vail elementary school after group threatens to zip-tie principal over COVID-19 protocols](https://www.reddit.com/r/news/comments/pgtfjs/police_onscene_at_vail_elementary_school_after/)
 <!-- REDDIT:END -->
 
 
