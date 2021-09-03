@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pet abduction to be made new criminal offence in England](https://www.reddit.com/r/news/comments/ph1ucv/pet_abduction_to_be_made_new_criminal_offence_in/)
+- [Idaho hospitals nearly buckling in relentless COVID surge](https://www.reddit.com/r/news/comments/ph111s/idaho_hospitals_nearly_buckling_in_relentless/)
+- [U.S. Civil Engineers Bent the Rules to Give New Orleans Extra Protection from Hurricanes. Those Adjustments Might Have Saved the City During Ida](https://www.reddit.com/r/news/comments/ph0xcy/us_civil_engineers_bent_the_rules_to_give_new/)
+- [Proud Boys and Oath Keepers expected at September 18 rally in D.C.](https://www.reddit.com/r/news/comments/pgxgrg/proud_boys_and_oath_keepers_expected_at_september/)
+- [Heavy clashes erupt between Taliban and anti-Taliban group in Afghanistan's Panjshir province](https://www.reddit.com/r/news/comments/pgx0oh/heavy_clashes_erupt_between_taliban_and/)
 <!-- REDDIT:END -->
 
 
