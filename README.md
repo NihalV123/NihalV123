@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tens of thousands protest for gay marriage in Switzerland](https://www.reddit.com/r/news/comments/phuw0q/tens_of_thousands_protest_for_gay_marriage_in/)
+- [Taliban special forces bring abrupt end to women's protest](https://www.reddit.com/r/news/comments/pht2cy/taliban_special_forces_bring_abrupt_end_to_womens/)
+- [New Zealand supermarket stabbing: Government to toughen anti-terror laws](https://www.reddit.com/r/news/comments/phskd0/new_zealand_supermarket_stabbing_government_to/)
+- [Plan to add touchless food, retail options at O’Hare Airport](https://www.reddit.com/r/news/comments/phrzn0/plan_to_add_touchless_food_retail_options_at/)
+- [Hurricane Ida turns spotlight on Louisiana power grid issues](https://www.reddit.com/r/news/comments/phrytc/hurricane_ida_turns_spotlight_on_louisiana_power/)
 <!-- REDDIT:END -->
 
 
