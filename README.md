@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After Six Months On Mars, NASA's Tiny Helicopter Is Still Flying High](https://www.reddit.com/r/news/comments/pi8xkj/after_six_months_on_mars_nasas_tiny_helicopter_is/)
+- [Scotland to trial a four-day week](https://www.reddit.com/r/news/comments/pi84sm/scotland_to_trial_a_fourday_week/)
+- [Dread at 30,000 ft: Inside the increasingly violent world of US flight attendants](https://www.reddit.com/r/news/comments/pi7z32/dread_at_30000_ft_inside_the_increasingly_violent/)
+- [Labor Day: A substantially worse outbreak of COVID-19 than same time last year.](https://www.reddit.com/r/news/comments/pi6i98/labor_day_a_substantially_worse_outbreak_of/)
+- [US drug companies say $26bn opioid settlement will proceed](https://www.reddit.com/r/news/comments/pi575s/us_drug_companies_say_26bn_opioid_settlement_will/)
 <!-- REDDIT:END -->
 
 
