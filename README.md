@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Majority of Ida's NYC Victims Died in Illegally Converted Basements, Cellars](https://www.reddit.com/r/news/comments/pi2f4n/majority_of_idas_nyc_victims_died_in_illegally/)
+- [Parkland shooter Nikolas Cruz cannot be called an 'animal' or any other derogatory names during trial, judge rules](https://www.reddit.com/r/news/comments/pi0vzd/parkland_shooter_nikolas_cruz_cannot_be_called_an/)
+- [Former FBI agent who worked on still-secret FBI 9/11 case says hijackers had U.S.-based support network](https://www.reddit.com/r/news/comments/pi0os6/former_fbi_agent_who_worked_on_stillsecret_fbi/)
+- [Willard Scott, legendary TODAY show weatherman, dies at 87](https://www.reddit.com/r/news/comments/phzb05/willard_scott_legendary_today_show_weatherman/)
+- [Miami Beach says law-breaking partiers no longer tolerated](https://www.reddit.com/r/news/comments/phz9jm/miami_beach_says_lawbreaking_partiers_no_longer/)
 <!-- REDDIT:END -->
 
 
