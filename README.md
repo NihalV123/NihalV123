@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [23 homes on the Navajo Nation finally getting electricity](https://www.reddit.com/r/news/comments/pih7p7/23_homes_on_the_navajo_nation_finally_getting/)
+- [The ‘true delta wave’ starts this weekend, expert says](https://www.reddit.com/r/news/comments/pigo3p/the_true_delta_wave_starts_this_weekend_expert/)
+- [State Patrol engaged in massive 'purge' of emails and texts immediately after George Floyd protests, court records show](https://www.reddit.com/r/news/comments/pige7w/state_patrol_engaged_in_massive_purge_of_emails/)
+- [Women say they met porn actor Jeremy for fun; rape came next](https://www.reddit.com/r/news/comments/pife5b/women_say_they_met_porn_actor_jeremy_for_fun_rape/)
+- [Ethiopia Conflict: Tigrayan men are marched out of prison camps. Then corpses float down the river into Sudan.](https://www.reddit.com/r/news/comments/pifcrl/ethiopia_conflict_tigrayan_men_are_marched_out_of/)
 <!-- REDDIT:END -->
 
 
