@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Four people, including two children, found shot to death at burning home in Houston](https://www.reddit.com/r/news/comments/pilvek/four_people_including_two_children_found_shot_to/)
+- [Map: State mask mandates are trickling back](https://www.reddit.com/r/news/comments/piksi4/map_state_mask_mandates_are_trickling_back/)
+- [Bosses turn to ‘tattleware’ to keep tabs on employees working from home](https://www.reddit.com/r/news/comments/pikghp/bosses_turn_to_tattleware_to_keep_tabs_on/)
+- [Elon Musk’s SpaceX launch site threatens wildlife, Texas environmental groups say](https://www.reddit.com/r/news/comments/pij910/elon_musks_spacex_launch_site_threatens_wildlife/)
+- [Multiple planes are ready to take U.S. citizens and green card holders out of Afghanistan — but the Taliban won't let them leave, officials say](https://www.reddit.com/r/news/comments/piitvc/multiple_planes_are_ready_to_take_us_citizens_and/)
 <!-- REDDIT:END -->
 
 
