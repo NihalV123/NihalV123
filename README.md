@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [College debt crisis drives more students away from four-year schools](https://www.reddit.com/r/news/comments/pisytb/college_debt_crisis_drives_more_students_away/)
+- [Hurricane Ida: divers find broken pipeline in search for source of Gulf oil spill](https://www.reddit.com/r/news/comments/pirre1/hurricane_ida_divers_find_broken_pipeline_in/)
+- [9-1-1 systems go down in California](https://www.reddit.com/r/news/comments/pirkou/911_systems_go_down_in_california/)
+- [‘Biggest’ recent collection of Soviet-era mass graves discovered in Black Sea city of Odesa Site includes 29 mass graves dating to Stalin’s Great Terror](https://www.reddit.com/r/news/comments/piqpsc/biggest_recent_collection_of_sovietera_mass/)
+- [South Carolina attorney shot in the head 3 months after his wife and son were killed](https://www.reddit.com/r/news/comments/pipwe3/south_carolina_attorney_shot_in_the_head_3_months/)
 <!-- REDDIT:END -->
 
 
