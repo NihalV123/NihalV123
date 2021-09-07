@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Detroit-area Ford plant leaks 1,400 gallons of gasoline into city sewers](https://www.reddit.com/r/news/comments/pjei6q/detroitarea_ford_plant_leaks_1400_gallons_of/)
+- [Judge says Ohio hospital cannot be forced to give ivermectin, reversing earlier decision](https://www.reddit.com/r/news/comments/pjdjji/judge_says_ohio_hospital_cannot_be_forced_to_give/)
+- [Justin Trudeau hit with rocks as he exits London campaign event](https://www.reddit.com/r/news/comments/pjcvh0/justin_trudeau_hit_with_rocks_as_he_exits_london/)
+- [JBS fined $175K after Colorado worker loses arm in machinery](https://www.reddit.com/r/news/comments/pjcn11/jbs_fined_175k_after_colorado_worker_loses_arm_in/)
+- [Internal Park Police Emails Reveal More Gun Incidents & Warnings on Jan. 6](https://www.reddit.com/r/news/comments/pjbrj2/internal_park_police_emails_reveal_more_gun/)
 <!-- REDDIT:END -->
 
 
