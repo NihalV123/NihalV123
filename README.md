@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Internal Park Police Emails Reveal More Gun Incidents & Warnings on Jan. 6](https://www.reddit.com/r/news/comments/pjbrj2/internal_park_police_emails_reveal_more_gun/)
+- [Plans for $400-billion new city in the American desert unveiled](https://www.reddit.com/r/news/comments/pjbeof/plans_for_400billion_new_city_in_the_american/)
+- [Vietnam man jailed for five years for spreading coronavirus](https://www.reddit.com/r/news/comments/pjb6jh/vietnam_man_jailed_for_five_years_for_spreading/)
+- [Authorities race to contain deadly Nipah virus outbreak in India](https://www.reddit.com/r/news/comments/pj9tki/authorities_race_to_contain_deadly_nipah_virus/)
+- [Michael K. Williams, 'Wire' actor, found dead](https://www.reddit.com/r/news/comments/pj8l5f/michael_k_williams_wire_actor_found_dead/)
 <!-- REDDIT:END -->
 
 
