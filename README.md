@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman refused 5pm finish to pick daughter up from nursery wins £185,000 payout](https://www.reddit.com/r/news/comments/pk65ox/woman_refused_5pm_finish_to_pick_daughter_up_from/)
+- [Man arrested after claiming to be victim in Tesla hit-and-run, proved wrong by car's camera](https://www.reddit.com/r/news/comments/pk3tnt/man_arrested_after_claiming_to_be_victim_in_tesla/)
+- [California moves to outlaw 'stealthing,' or removing condom](https://www.reddit.com/r/news/comments/pk2hda/california_moves_to_outlaw_stealthing_or_removing/)
+- [South Dakota governor orders restrictions on abortion meds](https://www.reddit.com/r/news/comments/pk1vsc/south_dakota_governor_orders_restrictions_on/)
+- [Magnitude 7.4 quake strikes Mexico -USGS](https://www.reddit.com/r/news/comments/pk1mx0/magnitude_74_quake_strikes_mexico_usgs/)
 <!-- REDDIT:END -->
 
 
