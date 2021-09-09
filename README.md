@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Novavax begins early-stage trial for combined flu/Covid vaccine](https://www.reddit.com/r/news/comments/pklmlz/novavax_begins_earlystage_trial_for_combined/)
+- [Report: Solar could power 40% of US electricity by 2035](https://www.reddit.com/r/news/comments/pkl0cw/report_solar_could_power_40_of_us_electricity_by/)
+- [2 people killed in World Trade Center on 9/11 identified with DNA ahead of 20th anniversary](https://www.reddit.com/r/news/comments/pkkf3y/2_people_killed_in_world_trade_center_on_911/)
+- [Richest Americans fail to pay $163 billion in taxes, Treasury estimates](https://www.reddit.com/r/news/comments/pkk000/richest_americans_fail_to_pay_163_billion_in/)
+- [United Airlines staff who are granted religious exemptions to vaccine mandate will be put on unpaid leave](https://www.reddit.com/r/news/comments/pkjkvt/united_airlines_staff_who_are_granted_religious/)
 <!-- REDDIT:END -->
 
 
