@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beatings, buried videos a pattern at Louisiana State Police](https://www.reddit.com/r/news/comments/pkujv8/beatings_buried_videos_a_pattern_at_louisiana/)
+- [Call for police to get mandatory neurodiversity training after officer assaulted young autistic boy in school](https://www.reddit.com/r/news/comments/pkua1m/call_for_police_to_get_mandatory_neurodiversity/)
+- [Colorado city agrees to $3M settlement in violent arrest of woman with dementia](https://www.reddit.com/r/news/comments/pku23p/colorado_city_agrees_to_3m_settlement_in_violent/)
+- [Oscar De La Hoya released from hospital, says Covid 'hit me really hard'](https://www.reddit.com/r/news/comments/pkqgr1/oscar_de_la_hoya_released_from_hospital_says/)
+- [Bill to weed out bad law enforcement officers heads to Gov. Newsom](https://www.reddit.com/r/news/comments/pkpvss/bill_to_weed_out_bad_law_enforcement_officers/)
 <!-- REDDIT:END -->
 
 
