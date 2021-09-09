@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bill to weed out bad law enforcement officers heads to Gov. Newsom](https://www.reddit.com/r/news/comments/pkpvss/bill_to_weed_out_bad_law_enforcement_officers/)
+- [Idaho allows COVID-slammed hospitals to ration care for 1st time ever](https://www.reddit.com/r/news/comments/pkpe2p/idaho_allows_covidslammed_hospitals_to_ration/)
+- [Calgary hospitals cancel all elective surgeries as COVID-19 cases fill hospitals | CBC News](https://www.reddit.com/r/news/comments/pknvzc/calgary_hospitals_cancel_all_elective_surgeries/)
+- [At least 200 Indigenous children went missing or died after entering a Quebec hospital](https://www.reddit.com/r/news/comments/pknm4x/at_least_200_indigenous_children_went_missing_or/)
+- [Anti-logging protest becomes Canada’s biggest ever act of civil disobedience](https://www.reddit.com/r/news/comments/pkmr2j/antilogging_protest_becomes_canadas_biggest_ever/)
 <!-- REDDIT:END -->
 
 
