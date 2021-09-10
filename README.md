@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Los Angeles to require vaccine for all students 12 and up](https://www.reddit.com/r/news/comments/pl93nj/los_angeles_to_require_vaccine_for_all_students/)
+- [Tennessee teen talking about grandma who died of Covid heckled by adults at school board meeting](https://www.reddit.com/r/news/comments/pl907q/tennessee_teen_talking_about_grandma_who_died_of/)
+- [All COVID-19 patients under age 50 in B.C. ICUs are unvaccinated, health minister says](https://www.reddit.com/r/news/comments/pl8ufe/all_covid19_patients_under_age_50_in_bc_icus_are/)
+- [Los Angeles school district votes to mandate Covid-19 vaccine](https://www.reddit.com/r/news/comments/pl8txr/los_angeles_school_district_votes_to_mandate/)
+- [“I am angry today:” Jeffco’s top health official halts mobile COVID-19 vaccination clinics after medical staff harassed](https://www.reddit.com/r/news/comments/pl5td3/i_am_angry_today_jeffcos_top_health_official/)
 <!-- REDDIT:END -->
 
 
