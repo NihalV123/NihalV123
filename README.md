@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Google illegally underpaid thousands of workers across dozens of countries](https://www.reddit.com/r/news/comments/plpeqc/google_illegally_underpaid_thousands_of_workers/)
+- [Board: Docs can lose license spreading faux vaccine info](https://www.reddit.com/r/news/comments/plp9d9/board_docs_can_lose_license_spreading_faux/)
+- [20 meat and dairy firms emit more greenhouse gas than Germany, Britain or France | Meat industry](https://www.reddit.com/r/news/comments/plosqu/20_meat_and_dairy_firms_emit_more_greenhouse_gas/)
+- [Apple can no longer force developers to use in-app purchasing, judge rules in Epic Games case](https://www.reddit.com/r/news/comments/plngnv/apple_can_no_longer_force_developers_to_use_inapp/)
+- [Harvard University will divest itself from fossil fuels](https://www.reddit.com/r/news/comments/plndmr/harvard_university_will_divest_itself_from_fossil/)
 <!-- REDDIT:END -->
 
 
