@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Maryland judge who was about to be arrested by the FBI kills himself, officials say](https://www.reddit.com/r/news/comments/pmc2kg/maryland_judge_who_was_about_to_be_arrested_by/)
+- [Church bars priest accused of child sex abuse from ministry](https://www.reddit.com/r/news/comments/pmaaal/church_bars_priest_accused_of_child_sex_abuse/)
+- [Security workers called in to protect mobile vaccine units](https://www.reddit.com/r/news/comments/pma9ot/security_workers_called_in_to_protect_mobile/)
+- [Some of the most iconic 9/11 news coverage is lost. Blame Adobe Flash](https://www.reddit.com/r/news/comments/pma67h/some_of_the_most_iconic_911_news_coverage_is_lost/)
+- [US drone strike mistakenly targeted Afghan aid worker, investigation finds | US military](https://www.reddit.com/r/news/comments/pm9lgb/us_drone_strike_mistakenly_targeted_afghan_aid/)
 <!-- REDDIT:END -->
 
 
