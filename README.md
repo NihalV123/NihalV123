@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden commemorates 9/11 anniversary with stops at all three attack sites](https://www.reddit.com/r/news/comments/pm4v44/biden_commemorates_911_anniversary_with_stops_at/)
+- [Kansas Board of Healing Arts issued a public censure and $4,000 fine against a Lawrence chiropractor who urged potential clients early in the pandemic to “get adjusted” by a chiropractor to improve prospects of surviving COVID-19.](https://www.reddit.com/r/news/comments/pm4o45/kansas_board_of_healing_arts_issued_a_public/)
+- [After 43 hospitals turn away Alabama man who needed ICU bed, obituary urges COVID vaccines](https://www.reddit.com/r/news/comments/pm0e6h/after_43_hospitals_turn_away_alabama_man_who/)
+- [In Mississippi, Fetal Deaths Double Among Women With COVID-19](https://www.reddit.com/r/news/comments/pm0dwu/in_mississippi_fetal_deaths_double_among_women/)
+- [Hurricane Larry will produce category 1 winds and... feet of snow](https://www.reddit.com/r/news/comments/plz5re/hurricane_larry_will_produce_category_1_winds_and/)
 <!-- REDDIT:END -->
 
 
