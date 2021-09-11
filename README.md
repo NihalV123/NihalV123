@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Affidavit: Texas man murdered woman, shot her husband, because they voted for Biden](https://www.reddit.com/r/news/comments/plwaoi/affidavit_texas_man_murdered_woman_shot_her/)
+- [Alaska lawmaker banned by airline says she can't reach capital to vote](https://www.reddit.com/r/news/comments/plvp4x/alaska_lawmaker_banned_by_airline_says_she_cant/)
+- [Capitol riot suspect wants GPS monitor removed, citing loud beeping in front of clients](https://www.reddit.com/r/news/comments/plvf0w/capitol_riot_suspect_wants_gps_monitor_removed/)
+- [U.S. decision on Pfizer COVID-19 shot for kids age 5-11 could come in October](https://www.reddit.com/r/news/comments/plu1q4/us_decision_on_pfizer_covid19_shot_for_kids_age/)
+- [1-year-old girl dies after being left in hot car all day in Texas: Sheriff](https://www.reddit.com/r/news/comments/plu0yp/1yearold_girl_dies_after_being_left_in_hot_car/)
 <!-- REDDIT:END -->
 
 
