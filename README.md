@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Evangelical Lutheran church installs 1st transgender bishop](https://www.reddit.com/r/news/comments/pmhbzh/evangelical_lutheran_church_installs_1st/)
+- [Complaints filed after reporter attacked at anti-mask event](https://www.reddit.com/r/news/comments/pmgdyt/complaints_filed_after_reporter_attacked_at/)
+- [Arkansas virus deaths rise, patients on ventilators decline](https://www.reddit.com/r/news/comments/pmgcx4/arkansas_virus_deaths_rise_patients_on/)
+- [Air Force secretary orders investigation into domestic violence cases following CBS News report](https://www.reddit.com/r/news/comments/pmffd0/air_force_secretary_orders_investigation_into/)
+- [Gorillas at Zoo Atlanta being treated after initial testing reveals Covid-19 virus](https://www.reddit.com/r/news/comments/pme74q/gorillas_at_zoo_atlanta_being_treated_after/)
 <!-- REDDIT:END -->
 
 
