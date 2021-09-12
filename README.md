@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US pulls missile defences in Saudi Arabia amid Yemen attacks | Saudi Arabia News](https://www.reddit.com/r/news/comments/pmqi13/us_pulls_missile_defences_in_saudi_arabia_amid/)
+- [Top security officials to reinstall Capitol fence ahead of far-right rally](https://www.reddit.com/r/news/comments/pmpdjw/top_security_officials_to_reinstall_capitol_fence/)
+- [Twitch sues unnamed pair linked to 'hate raids'](https://www.reddit.com/r/news/comments/pmm7fz/twitch_sues_unnamed_pair_linked_to_hate_raids/)
+- [A Sikh man’s murder at a gas station revealed another tragedy of 9/11](https://www.reddit.com/r/news/comments/pmlecz/a_sikh_mans_murder_at_a_gas_station_revealed/)
+- [FBI releases first 9/11 document after Biden order](https://www.reddit.com/r/news/comments/pmkk8p/fbi_releases_first_911_document_after_biden_order/)
 <!-- REDDIT:END -->
 
 
