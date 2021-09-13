@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Record number of environmental activists murdered](https://www.reddit.com/r/news/comments/pnclvk/record_number_of_environmental_activists_murdered/)
+- [Uber drivers are employees, not contractors, says Dutch court](https://www.reddit.com/r/news/comments/pncius/uber_drivers_are_employees_not_contractors_says/)
+- [More than 300,000 suspected of breaking quarantine rules. Nearly a third of people arriving in England and Northern Ireland as the coronavirus Delta variant took off may have broken quarantine rules.](https://www.reddit.com/r/news/comments/pnc51d/more_than_300000_suspected_of_breaking_quarantine/)
+- [Hundreds protest against rise in homophobic attacks in Madrid](https://www.reddit.com/r/news/comments/pnbuon/hundreds_protest_against_rise_in_homophobic/)
+- [Vietnam speeds up Hanoi vaccine drive; 1M jabs over weekend](https://www.reddit.com/r/news/comments/pnaldf/vietnam_speeds_up_hanoi_vaccine_drive_1m_jabs/)
 <!-- REDDIT:END -->
 
 
