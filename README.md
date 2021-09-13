@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama heart patient dies after hospital contacts 43 ICUs in 3 states, family says](https://www.reddit.com/r/news/comments/pnk3y6/alabama_heart_patient_dies_after_hospital/)
+- [Mortgage giant Fannie Mae to consider on-time rent payments in home-loan approvals](https://www.reddit.com/r/news/comments/pnjq33/mortgage_giant_fannie_mae_to_consider_ontime_rent/)
+- [Jeff Bridges Says “Cancer is in remission”](https://www.reddit.com/r/news/comments/pnjalo/jeff_bridges_says_cancer_is_in_remission/)
+- [Vietnam vet discovers his old helicopter at Smithsonian museum](https://www.reddit.com/r/news/comments/pniv7l/vietnam_vet_discovers_his_old_helicopter_at/)
+- [COVID Patient at Center of Ivermectin Debate at Chicago-Area Hospital Dies](https://www.reddit.com/r/news/comments/pni3a1/covid_patient_at_center_of_ivermectin_debate_at/)
 <!-- REDDIT:END -->
 
 
