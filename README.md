@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama heart patient dies after hospital contacts 43 ICUs in 3 states, family says](https://www.reddit.com/r/news/comments/pn9eqt/alabama_heart_patient_dies_after_hospital/)
+- [Mother charged with shooting 12-year-old son over lost digital memory card, prosecutors claim](https://www.reddit.com/r/news/comments/pn81g9/mother_charged_with_shooting_12yearold_son_over/)
+- [Ohio mom pleads guilty in execution-style killings of 8 members of a family](https://www.reddit.com/r/news/comments/pn6td5/ohio_mom_pleads_guilty_in_executionstyle_killings/)
+- [Producer inflation accelerated in August, as wholesale prices rose record 8.3% from a year ago](https://www.reddit.com/r/news/comments/pn62al/producer_inflation_accelerated_in_august_as/)
+- [Mass., Vermont, Connecticut lead the nation in vaccination rates](https://www.reddit.com/r/news/comments/pn4pgz/mass_vermont_connecticut_lead_the_nation_in/)
 <!-- REDDIT:END -->
 
 
