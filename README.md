@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 Florida middle school students arrested in alleged school shooting plot tried to recruit fellow students to participate](https://www.reddit.com/r/news/comments/pnqn5d/2_florida_middle_school_students_arrested_in/)
+- ['Slender Man' teen to be released, survivor's family wishes she served longer sentence](https://www.reddit.com/r/news/comments/pnqkpd/slender_man_teen_to_be_released_survivors_family/)
+- [Washington to destroy third murder hornet nest in battle to save bees](https://www.reddit.com/r/news/comments/pnps9n/washington_to_destroy_third_murder_hornet_nest_in/)
+- [Israeli anti-vaxx leader dies of COVID-19](https://www.reddit.com/r/news/comments/pnppxk/israeli_antivaxx_leader_dies_of_covid19/)
+- [Judge temporary order allows Iowa schools to mandate masks](https://www.reddit.com/r/news/comments/pnp3bh/judge_temporary_order_allows_iowa_schools_to/)
 <!-- REDDIT:END -->
 
 
