@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kansas lawmaker charged with kicking student in groin pleads guilty to disorderly conduct](https://www.reddit.com/r/news/comments/pnvimi/kansas_lawmaker_charged_with_kicking_student_in/)
+- [Bob Enyart, conservative firebrand and pastor, dies of COVID-19](https://www.reddit.com/r/news/comments/pnthc4/bob_enyart_conservative_firebrand_and_pastor_dies/)
+- [Mississippi alcohol sales reportedly outpaced nation during pandemic](https://www.reddit.com/r/news/comments/pnt102/mississippi_alcohol_sales_reportedly_outpaced/)
+- [Ohio ISIS supporter who plotted synagogue attack sentenced to 20 years](https://www.reddit.com/r/news/comments/pnsd7m/ohio_isis_supporter_who_plotted_synagogue_attack/)
+- [Comedian and 'SNL' alum Jim Breuer cancels shows at venues requiring Covid vaccination](https://www.reddit.com/r/news/comments/pns7fe/comedian_and_snl_alum_jim_breuer_cancels_shows_at/)
 <!-- REDDIT:END -->
 
 
