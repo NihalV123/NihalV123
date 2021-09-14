@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Notorious anti-mask QAnon supporter dies of Covid](https://www.reddit.com/r/news/comments/po149v/notorious_antimask_qanon_supporter_dies_of_covid/)
+- [More workers are facing compulsory Covid vaccination or no job](https://www.reddit.com/r/news/comments/po0yf3/more_workers_are_facing_compulsory_covid/)
+- [Afghan women are sharing photos of dresses to protest the Taliban's black hijab mandate](https://www.reddit.com/r/news/comments/po0fhh/afghan_women_are_sharing_photos_of_dresses_to/)
+- [Apple co-founder announces private space company to clean space debris](https://www.reddit.com/r/news/comments/po05wl/apple_cofounder_announces_private_space_company/)
+- [Putin to self-isolate due to COVID cases among inner circle](https://www.reddit.com/r/news/comments/po0278/putin_to_selfisolate_due_to_covid_cases_among/)
 <!-- REDDIT:END -->
 
 
