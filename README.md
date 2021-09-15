@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Simone Biles: FBI turned 'blind eye' to reports of gymnasts' abuse](https://www.reddit.com/r/news/comments/pouf2m/simone_biles_fbi_turned_blind_eye_to_reports_of/)
+- [Nicki Minaj said Covid vaccine could make you impotent. Fauci shut her down.](https://www.reddit.com/r/news/comments/posak2/nicki_minaj_said_covid_vaccine_could_make_you/)
+- [Ex-U.S. intel operatives admit hacking American networks for UAE](https://www.reddit.com/r/news/comments/pos60v/exus_intel_operatives_admit_hacking_american/)
+- [Pfizer says Israel data shows third Covid shot restores protection from infection to 95% as it makes case to FDA for boosters](https://www.reddit.com/r/news/comments/porjol/pfizer_says_israel_data_shows_third_covid_shot/)
+- [Jupiter just got smacked by a space rock and an amateur astronomer caught it on camera](https://www.reddit.com/r/news/comments/por2cw/jupiter_just_got_smacked_by_a_space_rock_and_an/)
 <!-- REDDIT:END -->
 
 
