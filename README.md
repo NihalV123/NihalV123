@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iowa widow blames unvaccinated people for her husband's death from 'breakthrough' COVID infection](https://www.reddit.com/r/news/comments/poeb6j/iowa_widow_blames_unvaccinated_people_for_her/)
+- [Woman pleads guilty to threatening Vice President Harris](https://www.reddit.com/r/news/comments/podgpa/woman_pleads_guilty_to_threatening_vice_president/)
+- [Tennessee COVID-19 cases climb to top in the country](https://www.reddit.com/r/news/comments/poctbs/tennessee_covid19_cases_climb_to_top_in_the/)
+- [LA officers sue over vaccine mandate as police across California threaten to resign](https://www.reddit.com/r/news/comments/pobn16/la_officers_sue_over_vaccine_mandate_as_police/)
+- [U.S. Army says active duty soldiers must be vaccinated by Dec. 15](https://www.reddit.com/r/news/comments/pobhul/us_army_says_active_duty_soldiers_must_be/)
 <!-- REDDIT:END -->
 
 
