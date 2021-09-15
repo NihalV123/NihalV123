@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [Got Scammed 😡, Top Paid Dev Jobs 💲, & How to Network for Success 📩 // STACKr News Weekly](https://www.youtube.com/watch?v=xQxnLiHz2-A)
+- [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
+- [7 Days to Learn React 🤯, 30 Days to Build a SaaS 💪, 40 Min Full Stack App 🦸‍♀️ // STACKr News Weekly](https://www.youtube.com/watch?v=bsJ7bf1hx74)
+- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ)
+- [$1M in 1000 Days❓, IDE vs Text Editor 🆚, & How Many Languages to Learn 📚 // STACKr News Weekly](https://www.youtube.com/watch?v=kroLbiFXMjw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
