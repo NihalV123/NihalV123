@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Extreme weather to cost US over $100bn this year: Joe Biden](https://www.reddit.com/r/news/comments/poodhe/extreme_weather_to_cost_us_over_100bn_this_year/)
+- [FBI fires agent accused of failing to properly investigate Larry Nassar](https://www.reddit.com/r/news/comments/pong52/fbi_fires_agent_accused_of_failing_to_properly/)
+- [1 in 500 US residents has died of Covid-19](https://www.reddit.com/r/news/comments/pomh5d/1_in_500_us_residents_has_died_of_covid19/)
+- [90% of global farm subsidies damage people and planet, says UN](https://www.reddit.com/r/news/comments/polnco/90_of_global_farm_subsidies_damage_people_and/)
+- [R. Kelly abused Aaliyah when she was 13 or 14, court hears](https://www.reddit.com/r/news/comments/pokn6t/r_kelly_abused_aaliyah_when_she_was_13_or_14/)
 <!-- REDDIT:END -->
 
 
