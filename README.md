@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [O que há de novo no TypeScript 4.4](https://blog.lsantos.dev/typescript-44/)
+- [Removendo itens duplicados no JavaScript ES6](https://blog.lsantos.dev/removendo-itens-duplicados-no-javascript-es6/)
+- [Conheça o SparkPlug, o novo compilador de JS do V8](https://blog.lsantos.dev/v8-sparkplug/)
+- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://blog.lsantos.dev/es2021/)
+- [O Guia Completo do gRPC parte 4: Streams](https://blog.lsantos.dev/o-guia-do-grpc-4/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
