@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fugitive hands himself in after nearly 30 years on the run](https://www.reddit.com/r/news/comments/ppgnnn/fugitive_hands_himself_in_after_nearly_30_years/)
+- [Idaho rations health care statewide as COVID surge continues](https://www.reddit.com/r/news/comments/ppg2ev/idaho_rations_health_care_statewide_as_covid/)
+- [Derek Chauvin to be arraigned for alleged civil rights violation](https://www.reddit.com/r/news/comments/ppg0dm/derek_chauvin_to_be_arraigned_for_alleged_civil/)
+- [Facebook under fire over secret teen research](https://www.reddit.com/r/news/comments/ppew8i/facebook_under_fire_over_secret_teen_research/)
+- [4 people found slain in SUV in Wisconsin cornfield: "Everybody's a suspect"](https://www.reddit.com/r/news/comments/ppet38/4_people_found_slain_in_suv_in_wisconsin/)
 <!-- REDDIT:END -->
 
 
