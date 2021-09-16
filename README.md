@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House offers Nicki Minaj call to answer vaccine Qs](https://www.reddit.com/r/news/comments/pp59sk/white_house_offers_nicki_minaj_call_to_answer/)
+- [Nearly all Fox staffers vaccinated for Covid even as hosts cast doubt on vaccine](https://www.reddit.com/r/news/comments/pp4hi8/nearly_all_fox_staffers_vaccinated_for_covid_even/)
+- [State economist refutes politicians' claim that Mississippi cannot afford Medicaid expansion](https://www.reddit.com/r/news/comments/pp3xmj/state_economist_refutes_politicians_claim_that/)
+- [Muslim Americans reported hate incidents nationwide on 9/11 anniversary](https://www.reddit.com/r/news/comments/pp1s92/muslim_americans_reported_hate_incidents/)
+- [Ex-House Speaker settles child sexual abuse payments suit](https://www.reddit.com/r/news/comments/pp117q/exhouse_speaker_settles_child_sexual_abuse/)
 <!-- REDDIT:END -->
 
 
