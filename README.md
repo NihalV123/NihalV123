@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World’s first battery-electric freight train unveiled in Pittsburgh](https://www.reddit.com/r/news/comments/ppbidf/worlds_first_batteryelectric_freight_train/)
+- [White House offers Nicki Minaj call to answer vaccine Qs](https://www.reddit.com/r/news/comments/pp59sk/white_house_offers_nicki_minaj_call_to_answer/)
+- [Firefighters rescue Reba McEntire after stairwells collapse in Oklahoma building](https://www.reddit.com/r/news/comments/pp4zvd/firefighters_rescue_reba_mcentire_after/)
+- [Nearly all Fox staffers vaccinated for Covid even as hosts cast doubt on vaccine](https://www.reddit.com/r/news/comments/pp4hi8/nearly_all_fox_staffers_vaccinated_for_covid_even/)
+- [Google workers demand back pay for temps company underpaid for years](https://www.reddit.com/r/news/comments/pp4h8x/google_workers_demand_back_pay_for_temps_company/)
 <!-- REDDIT:END -->
 
 
