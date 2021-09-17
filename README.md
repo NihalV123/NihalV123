@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 in 500 Americans have died of Covid (the Guardian)](https://www.reddit.com/r/news/comments/ppt6rw/1_in_500_americans_have_died_of_covid_the_guardian/)
+- [Community demands answers after video shows school officer body slam teen girl at Lancaster campus](https://www.reddit.com/r/news/comments/ppspzw/community_demands_answers_after_video_shows/)
+- [2 charged with using drone to fly drugs into California jail](https://www.reddit.com/r/news/comments/ppr8jc/2_charged_with_using_drone_to_fly_drugs_into/)
+- [Cuba begins vaccinating children as young as 2](https://www.reddit.com/r/news/comments/ppqsla/cuba_begins_vaccinating_children_as_young_as_2/)
+- ['My dad didn't have a fighting chance': Covid is leading cause of death among law enforcement](https://www.reddit.com/r/news/comments/ppqrla/my_dad_didnt_have_a_fighting_chance_covid_is/)
 <!-- REDDIT:END -->
 
 
