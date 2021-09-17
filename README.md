@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Massachusetts fines MassMutual $4.75 mln in 'Roaring Kitty' case](https://www.reddit.com/r/news/comments/ppn2wa/massachusetts_fines_massmutual_475_mln_in_roaring/)
+- [Israeli spyware firm targeted Apple devices via iMessage, researchers say | Hacking](https://www.reddit.com/r/news/comments/ppn0iy/israeli_spyware_firm_targeted_apple_devices_via/)
+- [Florida chiropractor signed hundreds of mask exemptions for kids](https://www.reddit.com/r/news/comments/ppmckh/florida_chiropractor_signed_hundreds_of_mask/)
+- [Florida governor conflated 'black joy' with protest, judge says](https://www.reddit.com/r/news/comments/ppm8eg/florida_governor_conflated_black_joy_with_protest/)
+- [US man files $1m lawsuit after Michigan teacher cuts child's hair](https://www.reddit.com/r/news/comments/pplmgi/us_man_files_1m_lawsuit_after_michigan_teacher/)
 <!-- REDDIT:END -->
 
 
