@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio man charged for bomb threat targeting reproductive health center](https://www.reddit.com/r/news/comments/pqbhti/ohio_man_charged_for_bomb_threat_targeting/)
+- [Real estate heir Robert Durst found guilty of murdering his friend Susan Berman](https://www.reddit.com/r/news/comments/pqb3g7/real_estate_heir_robert_durst_found_guilty_of/)
+- [Texan tied to ‘boogaloo’ sentenced to 50 years in prison](https://www.reddit.com/r/news/comments/pqa9be/texan_tied_to_boogaloo_sentenced_to_50_years_in/)
+- [Grand jury indicts 2 officers fired for beating Black teen](https://www.reddit.com/r/news/comments/pqa5a6/grand_jury_indicts_2_officers_fired_for_beating/)
+- [Northern Michigan meteorologist fired from TV station after 30 years after refusing COVID-19 vaccine](https://www.reddit.com/r/news/comments/pq9c1a/northern_michigan_meteorologist_fired_from_tv/)
 <!-- REDDIT:END -->
 
 
