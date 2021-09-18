@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gabby Petito's family attorney says fiance Brian Laundrie 'is not missing, he is hiding'](https://www.reddit.com/r/news/comments/pqjkve/gabby_petitos_family_attorney_says_fiance_brian/)
+- [Man has hand ‘chopped off at the wrist after Whitechapel vigilantes corner him’](https://www.reddit.com/r/news/comments/pqi92o/man_has_hand_chopped_off_at_the_wrist_after/)
+- [2 of California Gov. Gavin Newsom's kids test positive for COVID-19](https://www.reddit.com/r/news/comments/pqem05/2_of_california_gov_gavin_newsoms_kids_test/)
+- [LAPD to stop requesting civilians’ social security numbers after backlash](https://www.reddit.com/r/news/comments/pqe0zv/lapd_to_stop_requesting_civilians_social_security/)
+- [Use of OxyContin profits to fight opioids formally approved](https://www.reddit.com/r/news/comments/pqdrwt/use_of_oxycontin_profits_to_fight_opioids/)
 <!-- REDDIT:END -->
 
 
