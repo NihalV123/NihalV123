@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 of California Gov. Gavin Newsom's kids test positive for COVID-19](https://www.reddit.com/r/news/comments/pqem05/2_of_california_gov_gavin_newsoms_kids_test/)
+- [LAPD to stop requesting civilians’ social security numbers after backlash](https://www.reddit.com/r/news/comments/pqe0zv/lapd_to_stop_requesting_civilians_social_security/)
+- [California synagogue shooter pleads guilty to more than 100 federal hate crimes](https://www.reddit.com/r/news/comments/pqdrfh/california_synagogue_shooter_pleads_guilty_to/)
+- [Attorney for Brian Laundrie says his whereabouts are unknown](https://www.reddit.com/r/news/comments/pqd64z/attorney_for_brian_laundrie_says_his_whereabouts/)
+- [Biologists identify new targets for cancer vaccines. Vaccinating against certain proteins found on cancer cells could help to enhance the T cell response to tumors.](https://www.reddit.com/r/news/comments/pqc21q/biologists_identify_new_targets_for_cancer/)
 <!-- REDDIT:END -->
 
 
