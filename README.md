@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California high school removes "Columbus ship" from high school logo.](https://www.reddit.com/r/news/comments/pqpmdp/california_high_school_removes_columbus_ship_from/)
+- [Search underway at ‘vast’ Florida wildlife reserve for Gabby Petito’s fiancé, police say](https://www.reddit.com/r/news/comments/pqp5hj/search_underway_at_vast_florida_wildlife_reserve/)
+- [A woman accepted $50 from a West Virginia police chief so he could rape her 17-year-old relative, feds say](https://www.reddit.com/r/news/comments/pqoz12/a_woman_accepted_50_from_a_west_virginia_police/)
+- [Loudoun judge jails alleged domestic violence victim for pot use](https://www.reddit.com/r/news/comments/pqnzf1/loudoun_judge_jails_alleged_domestic_violence/)
+- [Tunisians protest over president's seizure of powers](https://www.reddit.com/r/news/comments/pqn07u/tunisians_protest_over_presidents_seizure_of/)
 <!-- REDDIT:END -->
 
 
