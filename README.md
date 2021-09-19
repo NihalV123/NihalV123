@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gabby Petito Search Expands, FBI Looking for Witnesses From a Specific Campground](https://www.reddit.com/r/news/comments/prb5my/gabby_petito_search_expands_fbi_looking_for/)
+- [3 people were shot at a Pennsylvania baby shower after an argument over gifts, police say](https://www.reddit.com/r/news/comments/praoia/3_people_were_shot_at_a_pennsylvania_baby_shower/)
+- [Dutch king unveils Holocaust name monument in Amsterdam](https://www.reddit.com/r/news/comments/prab7k/dutch_king_unveils_holocaust_name_monument_in/)
+- [A Muslim family was killed in Canada 3 months ago. Many wonder why party leaders are 'silent' on Islamophobia | CBC News](https://www.reddit.com/r/news/comments/pra4hp/a_muslim_family_was_killed_in_canada_3_months_ago/)
+- [Nearly 70% of millionaires are worried about leaving ‘too much’ money to their kids, survey finds](https://www.reddit.com/r/news/comments/pr9tr7/nearly_70_of_millionaires_are_worried_about/)
 <!-- REDDIT:END -->
 
 
