@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nike and Amazon among brands advertising on Covid conspiracy sites](https://www.reddit.com/r/news/comments/pr5uae/nike_and_amazon_among_brands_advertising_on_covid/)
+- [Manny Pacquiao: Boxing star to run for Philippines president](https://www.reddit.com/r/news/comments/pr5k77/manny_pacquiao_boxing_star_to_run_for_philippines/)
+- [India breaks world record by vaccinating 25 million people in a single day](https://www.reddit.com/r/news/comments/pr3rq3/india_breaks_world_record_by_vaccinating_25/)
+- [Italy will likely hold a referendum on decriminalizing cannabis next year](https://www.reddit.com/r/news/comments/pr2na6/italy_will_likely_hold_a_referendum_on/)
+- [Australian man finally leaves hospital after 399 days with COVID19](https://www.reddit.com/r/news/comments/pr2m5d/australian_man_finally_leaves_hospital_after_399/)
 <!-- REDDIT:END -->
 
 
