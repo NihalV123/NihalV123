@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Five Oregonians hospitalized due to misuse of ivermectin for COVID-19](https://www.reddit.com/r/news/comments/pqwbdl/five_oregonians_hospitalized_due_to_misuse_of/)
+- [FBI offers $10,000 reward for information on the disappearance of Native American woman](https://www.reddit.com/r/news/comments/pqvcfq/fbi_offers_10000_reward_for_information_on_the/)
+- [Small crowd gathers near the Capitol to protest arrests of Jan. 6 rioters](https://www.reddit.com/r/news/comments/pqv6c6/small_crowd_gathers_near_the_capitol_to_protest/)
+- [California wildfires make run toward giant sequoia groves](https://www.reddit.com/r/news/comments/pqti6d/california_wildfires_make_run_toward_giant/)
+- [Biden Invests $2.1 Billion in Infection Control](https://www.reddit.com/r/news/comments/pqtddi/biden_invests_21_billion_in_infection_control/)
 <!-- REDDIT:END -->
 
 
