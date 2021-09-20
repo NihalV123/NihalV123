@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California reports lowest COVID-19 case rate in the country](https://www.reddit.com/r/news/comments/prjkca/california_reports_lowest_covid19_case_rate_in/)
+- [Vandalism at Sikh temple investigated as possible hate crime](https://www.reddit.com/r/news/comments/prh6xz/vandalism_at_sikh_temple_investigated_as_possible/)
+- [Gabby Petito Search Turns Up a Body in Wyoming Park, But No ID as Yet](https://www.reddit.com/r/news/comments/prgnnl/gabby_petito_search_turns_up_a_body_in_wyoming/)
+- [Indiana woman who strangled stepdaughter gets life sentence](https://www.reddit.com/r/news/comments/prey83/indiana_woman_who_strangled_stepdaughter_gets/)
+- [Almost 90% of people in India's financial capital have COVID-19 antibodies](https://www.reddit.com/r/news/comments/prewg7/almost_90_of_people_in_indias_financial_capital/)
 <!-- REDDIT:END -->
 
 
