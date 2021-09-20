@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Couple kicked out of Texas bar for violating “no mask policy”](https://www.reddit.com/r/news/comments/prz9sm/couple_kicked_out_of_texas_bar_for_violating_no/)
+- [Ohio Medical Board renews license of Sherri Tenpenny, doctor who claims vaccines make you magnetic](https://www.reddit.com/r/news/comments/pryydc/ohio_medical_board_renews_license_of_sherri/)
+- [Dow tumbles 700 points as Wall Street's fears turn to China](https://www.reddit.com/r/news/comments/pryx1a/dow_tumbles_700_points_as_wall_streets_fears_turn/)
+- [FDA Panel OKs Booster mRNA Covid-19 Vax for Adults 65 and Older](https://www.reddit.com/r/news/comments/pryd6h/fda_panel_oks_booster_mrna_covid19_vax_for_adults/)
+- [Parents sue Cedar Creek School, saying son was severely bullied. School denies allegations.](https://www.reddit.com/r/news/comments/prxitn/parents_sue_cedar_creek_school_saying_son_was/)
 <!-- REDDIT:END -->
 
 
