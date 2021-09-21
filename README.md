@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2nd dose of J&J COVID-19 vaccine results in stronger protection, company says](https://www.reddit.com/r/news/comments/psgksv/2nd_dose_of_jj_covid19_vaccine_results_in/)
+- [A Black town’s water is more poisoned than Flint’s. In a white town nearby, it’s clean](https://www.reddit.com/r/news/comments/psfufu/a_black_towns_water_is_more_poisoned_than_flints/)
+- [Hong Kong police seize M&M's as national security threat](https://www.reddit.com/r/news/comments/psfhq2/hong_kong_police_seize_mms_as_national_security/)
+- [Russia responsible for Litvinenko killing - European court](https://www.reddit.com/r/news/comments/psevbj/russia_responsible_for_litvinenko_killing/)
+- [2 dead after man jumps from N.Y. building and hits another man](https://www.reddit.com/r/news/comments/psbaaz/2_dead_after_man_jumps_from_ny_building_and_hits/)
 <!-- REDDIT:END -->
 
 
