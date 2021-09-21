@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Puerto Rico to raise minimum wage for 1st time in 12 years](https://www.reddit.com/r/news/comments/psmciw/puerto_rico_to_raise_minimum_wage_for_1st_time_in/)
+- [Few health workers actually quitting over vaccine mandate despite ongoing protests](https://www.reddit.com/r/news/comments/pslpps/few_health_workers_actually_quitting_over_vaccine/)
+- [Amazon relaxes drug testing policies and will lobby the government to legalize marijuana](https://www.reddit.com/r/news/comments/pskwqa/amazon_relaxes_drug_testing_policies_and_will/)
+- [Search for Brian Laundrie resumes in Florida reserve a day after authorities called it off](https://www.reddit.com/r/news/comments/pskwes/search_for_brian_laundrie_resumes_in_florida/)
+- [India seizes $2.7 bln Afghan heroin haul amid Kabul takeover chaos](https://www.reddit.com/r/news/comments/psk4ax/india_seizes_27_bln_afghan_heroin_haul_amid_kabul/)
 <!-- REDDIT:END -->
 
 
