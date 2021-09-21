@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing reportedly investigating empty tequila bottles found on a future Air Force One](https://www.reddit.com/r/news/comments/ps5k5e/boeing_reportedly_investigating_empty_tequila/)
+- [Oregon school employee suspended for coming to work in blackface](https://www.reddit.com/r/news/comments/ps4tyd/oregon_school_employee_suspended_for_coming_to/)
+- [Texas doctor who says he performed abortion sued in first known challenge under new law](https://www.reddit.com/r/news/comments/ps4mv9/texas_doctor_who_says_he_performed_abortion_sued/)
+- [Kylen Schulte’s father blasts police over failure to make arrest in Moab murders](https://www.reddit.com/r/news/comments/ps456e/kylen_schultes_father_blasts_police_over_failure/)
+- [George Holliday, man who filmed Rodney King beating by LAPD officers, dies at 61](https://www.reddit.com/r/news/comments/ps3hmm/george_holliday_man_who_filmed_rodney_king/)
 <!-- REDDIT:END -->
 
 
