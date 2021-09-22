@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Covid-19 death rate more than 4 times higher in least vaccinated states than in most vaccinated](https://www.reddit.com/r/news/comments/pszjy5/covid19_death_rate_more_than_4_times_higher_in/)
+- [An Indigenous woman went missing in November. The FBI is now offering $10,000 for information about her disappearance.](https://www.reddit.com/r/news/comments/psxrz5/an_indigenous_woman_went_missing_in_november_the/)
+- [Man charged for allegedly planting pipe bombs outside telecommunications stores in Michigan](https://www.reddit.com/r/news/comments/psxptz/man_charged_for_allegedly_planting_pipe_bombs/)
+- [Amazon has rewarded eight workers who got vaccinated with free cars or $100,000 payouts](https://www.reddit.com/r/news/comments/psx54c/amazon_has_rewarded_eight_workers_who_got/)
+- [FBI has more than doubled domestic terrorism caseload](https://www.reddit.com/r/news/comments/pswt9f/fbi_has_more_than_doubled_domestic_terrorism/)
 <!-- REDDIT:END -->
 
 
