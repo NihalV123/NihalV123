@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [OnlyFans content creators arrested by Thai police on pornography charges](https://www.reddit.com/r/news/comments/pssc6k/onlyfans_content_creators_arrested_by_thai_police/)
+- [Autopsy confirms remains found in Wyoming are Gabby Petito's, FBI says](https://www.reddit.com/r/news/comments/pss6gb/autopsy_confirms_remains_found_in_wyoming_are/)
+- [Activision Blizzard confirms SEC probe into discrimination allegations](https://www.reddit.com/r/news/comments/psre0x/activision_blizzard_confirms_sec_probe_into/)
+- [Misinformation on Reddit has become unmanageable, 3 Alberta moderators say](https://www.reddit.com/r/news/comments/pspfzx/misinformation_on_reddit_has_become_unmanageable/)
+- [Illinois professor charged with hate crime after he allegedly spat on Black woman, used N-word](https://www.reddit.com/r/news/comments/psp54b/illinois_professor_charged_with_hate_crime_after/)
 <!-- REDDIT:END -->
 
 
