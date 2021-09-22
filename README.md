@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida's new surgeon general opposes mandates, calls COVID-19 vaccines "nothing special"](https://www.reddit.com/r/news/comments/ptbzt4/floridas_new_surgeon_general_opposes_mandates/)
+- [NC farmer with 27 years experience fired for raising safety concerns](https://www.reddit.com/r/news/comments/ptazru/nc_farmer_with_27_years_experience_fired_for/)
+- [Gas station clerk murdered for asking a customer to wear a mask](https://www.reddit.com/r/news/comments/ptagog/gas_station_clerk_murdered_for_asking_a_customer/)
+- [Germany to end quarantine pay for those without vaccinations](https://www.reddit.com/r/news/comments/ptabei/germany_to_end_quarantine_pay_for_those_without/)
+- [Victim of East Oakland homicide killed while feeding the homeless](https://www.reddit.com/r/news/comments/pt9zai/victim_of_east_oakland_homicide_killed_while/)
 <!-- REDDIT:END -->
 
 
