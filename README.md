@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DA Interviewed Cops Together After Deadly Shooting When Their Stories Didn't Line Up](https://www.reddit.com/r/news/comments/ptj4xy/da_interviewed_cops_together_after_deadly/)
+- [Crowded camps, garbage piles, extreme heat: asylum seekers in Texas face unlivable conditions](https://www.reddit.com/r/news/comments/pthb9i/crowded_camps_garbage_piles_extreme_heat_asylum/)
+- ['Maderna' tourist wanted after skipping Hawaii Zoom hearing](https://www.reddit.com/r/news/comments/pth38n/maderna_tourist_wanted_after_skipping_hawaii_zoom/)
+- [Monument honoring abolition of slavery unveiled in Richmond two weeks after Robert E. Lee statue was removed](https://www.reddit.com/r/news/comments/ptgbmp/monument_honoring_abolition_of_slavery_unveiled/)
+- [Air pollution: Even worse than we thought - WHO](https://www.reddit.com/r/news/comments/ptfyid/air_pollution_even_worse_than_we_thought_who/)
 <!-- REDDIT:END -->
 
 
