@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [America's billionaires pay an average income tax rate of just 8.2%](https://www.reddit.com/r/news/comments/ptzn2v/americas_billionaires_pay_an_average_income_tax/)
+- [U.S. begins reimbursing Florida school officials docked pay for defying mask mandate ban](https://www.reddit.com/r/news/comments/ptyty5/us_begins_reimbursing_florida_school_officials/)
+- [Veteran police officer resigns over California city's vaccine mandate](https://www.reddit.com/r/news/comments/ptyemk/veteran_police_officer_resigns_over_california/)
+- [88K without power in Michigan after storms bring rain, wind and cold](https://www.reddit.com/r/news/comments/ptwgvs/88k_without_power_in_michigan_after_storms_bring/)
+- [US special envoy to Haiti resigns over migrant expulsions](https://www.reddit.com/r/news/comments/ptvhfd/us_special_envoy_to_haiti_resigns_over_migrant/)
 <!-- REDDIT:END -->
 
 
