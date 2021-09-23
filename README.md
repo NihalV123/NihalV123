@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Melbourne braces for more protests amid record COVID cases](https://www.reddit.com/r/news/comments/ptlx1e/melbourne_braces_for_more_protests_amid_record/)
+- [Average daily U.S. Covid deaths climb above 2,000 for the first time since March](https://www.reddit.com/r/news/comments/ptlw8j/average_daily_us_covid_deaths_climb_above_2000/)
+- [David Simon will pull upcoming HBO series from Texas over abortion law](https://www.reddit.com/r/news/comments/ptkh8q/david_simon_will_pull_upcoming_hbo_series_from/)
+- [Melvin Van Peebles, trailblazing director and Black cinema champion, has died](https://www.reddit.com/r/news/comments/ptkbxh/melvin_van_peebles_trailblazing_director_and/)
+- [The Fed will change trading rules for officials to keep public’s trust after controversy, Powell says](https://www.reddit.com/r/news/comments/ptjakq/the_fed_will_change_trading_rules_for_officials/)
 <!-- REDDIT:END -->
 
 
