@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alaska, overwhelmed by COVID-19 patients, adopts crisis standards for all hospitals](https://www.reddit.com/r/news/comments/ptq1u0/alaska_overwhelmed_by_covid19_patients_adopts/)
+- [97% of United Airlines employees are now vaccinated](https://www.reddit.com/r/news/comments/ptpnqd/97_of_united_airlines_employees_are_now_vaccinated/)
+- [More than 50 UGA faculty members announce plans to mandate masks in their classrooms](https://www.reddit.com/r/news/comments/ptpm31/more_than_50_uga_faculty_members_announce_plans/)
+- [Sequoia National Park's Giant Forest unscathed by wildfire](https://www.reddit.com/r/news/comments/ptp1rd/sequoia_national_parks_giant_forest_unscathed_by/)
+- [Canadian police seek man who allegedly punched nurse for vaccinating his wife | Canada](https://www.reddit.com/r/news/comments/ptop0c/canadian_police_seek_man_who_allegedly_punched/)
 <!-- REDDIT:END -->
 
 
