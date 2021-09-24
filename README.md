@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China declares all crypto-currency transactions illegal](https://www.reddit.com/r/news/comments/puia2l/china_declares_all_cryptocurrency_transactions/)
+- [Female MBA grads earn $11,000 less than male peers on Day 1 of new job](https://www.reddit.com/r/news/comments/pugzzz/female_mba_grads_earn_11000_less_than_male_peers/)
+- [90% of Miami-Dade vaccinated? ‘It’s just not true,’ experts say](https://www.reddit.com/r/news/comments/pugzkp/90_of_miamidade_vaccinated_its_just_not_true/)
+- [Dozens of men arrested in India accused of gang raping 15-year-old girl repeatedly](https://www.reddit.com/r/news/comments/pugu24/dozens_of_men_arrested_in_india_accused_of_gang/)
+- [Florida Has Surpassed 53,000 Deaths From COVID-19](https://www.reddit.com/r/news/comments/puacaq/florida_has_surpassed_53000_deaths_from_covid19/)
 <!-- REDDIT:END -->
 
 
