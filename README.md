@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Costco, Nike and FedEx are warning there’s more inflation set to hit consumers as holidays approach](https://www.reddit.com/r/news/comments/puuhaf/costco_nike_and_fedex_are_warning_theres_more/)
+- [Lauren Cho disappearance: Search intensifies for missing New Jersey woman last seen near Joshua Tree](https://www.reddit.com/r/news/comments/puufro/lauren_cho_disappearance_search_intensifies_for/)
+- ['People will suffer and will die': Emergency doctor says some health triage has begun](https://www.reddit.com/r/news/comments/putsru/people_will_suffer_and_will_die_emergency_doctor/)
+- [Hollywood Production Crews May Strike Due To Unglamorously Low Wages And Long Hours : NPR](https://www.reddit.com/r/news/comments/pusaaf/hollywood_production_crews_may_strike_due_to/)
+- [Judge won't order hospital to give ivermectin to patient](https://www.reddit.com/r/news/comments/purqqb/judge_wont_order_hospital_to_give_ivermectin_to/)
 <!-- REDDIT:END -->
 
 
