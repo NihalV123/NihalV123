@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [6-year-old girl killed on drop ride at Colorado amusement park was not buckled in by ride operators, report finds](https://www.reddit.com/r/news/comments/puxcak/6yearold_girl_killed_on_drop_ride_at_colorado/)
+- [Former Orange County Sheriff’s Deputy Charged with Stealing Deceased Woman’s Credit Cards in Attempt to Buy Thousands of Dollars in Automotive Parts](https://www.reddit.com/r/news/comments/pux4pl/former_orange_county_sheriffs_deputy_charged_with/)
+- [Alabama verifies more than 1,000 new COVID-19 deaths in past week](https://www.reddit.com/r/news/comments/puw4k4/alabama_verifies_more_than_1000_new_covid19/)
+- [Fort Bliss woman soldier assaulted at Afghan refugee camp](https://www.reddit.com/r/news/comments/puvk95/fort_bliss_woman_soldier_assaulted_at_afghan/)
+- [Costco, Nike and FedEx are warning there’s more inflation set to hit consumers as holidays approach](https://www.reddit.com/r/news/comments/puuhaf/costco_nike_and_fedex_are_warning_theres_more/)
 <!-- REDDIT:END -->
 
 
