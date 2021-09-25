@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Masks in school help prevent Covid-19 outbreaks and spread, CDC studies find](https://www.reddit.com/r/news/comments/pv4jkl/masks_in_school_help_prevent_covid19_outbreaks/)
+- [US police departments clamoring for de-escalation training](https://www.reddit.com/r/news/comments/pv41wm/us_police_departments_clamoring_for_deescalation/)
+- [COVID-19 may impair men’s sexual performance](https://www.reddit.com/r/news/comments/pv3jf0/covid19_may_impair_mens_sexual_performance/)
+- [6-year-old girl killed on drop ride at Colorado amusement park was not buckled in by ride operators, report finds](https://www.reddit.com/r/news/comments/puxcak/6yearold_girl_killed_on_drop_ride_at_colorado/)
+- [Alabama verifies more than 1,000 new COVID-19 deaths in past week](https://www.reddit.com/r/news/comments/puw4k4/alabama_verifies_more_than_1000_new_covid19/)
 <!-- REDDIT:END -->
 
 
