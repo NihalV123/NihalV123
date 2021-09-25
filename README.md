@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 accused of plotting school attack on Columbine anniversary](https://www.reddit.com/r/news/comments/pvbjdb/4_accused_of_plotting_school_attack_on_columbine/)
+- ['We will not boost our way out of this pandemic,' CDC director says as 70 million eligible Americans remain unvaccinated](https://www.reddit.com/r/news/comments/pvbibw/we_will_not_boost_our_way_out_of_this_pandemic/)
+- [PG&E charged in California wildfire last year that killed 4](https://www.reddit.com/r/news/comments/pv8duw/pge_charged_in_california_wildfire_last_year_that/)
+- [Petrol driver shortage: Police urge motorists to be 'sensible' at pumps as AA predicts 'short-term' crisis](https://www.reddit.com/r/news/comments/pv85xg/petrol_driver_shortage_police_urge_motorists_to/)
+- ['The Conjuring' home being sold for $1.2 million as one of 'most well-known haunted houses' in U.S.](https://www.reddit.com/r/news/comments/pv7skn/the_conjuring_home_being_sold_for_12_million_as/)
 <!-- REDDIT:END -->
 
 
