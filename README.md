@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal Contractors Must Show Proof of COVID-19 Vaccination by December 8](https://www.reddit.com/r/news/comments/pvitzm/federal_contractors_must_show_proof_of_covid19/)
+- [Federal court temporarily blocks Covid-19 vaccine mandate for New York City teachers](https://www.reddit.com/r/news/comments/pvheqz/federal_court_temporarily_blocks_covid19_vaccine/)
+- [U.S. border agents briefly detain 14 Mexican soldiers in El Paso](https://www.reddit.com/r/news/comments/pvgbc1/us_border_agents_briefly_detain_14_mexican/)
+- [Nazi flag raised in Hebron taken down by IDF soldiers](https://www.reddit.com/r/news/comments/pvg00p/nazi_flag_raised_in_hebron_taken_down_by_idf/)
+- [Parents protest vaccine mandates despite Glendale Unified not having requirement for students](https://www.reddit.com/r/news/comments/pvezwz/parents_protest_vaccine_mandates_despite_glendale/)
 <!-- REDDIT:END -->
 
 
