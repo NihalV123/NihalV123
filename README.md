@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Murders targeting sex workers in St. Louis under investigation by police, FBI](https://www.reddit.com/r/news/comments/pvr9np/murders_targeting_sex_workers_in_st_louis_under/)
+- [Remains of Louisiana man missing after Hurricane Ida found inside 504-pound alligator](https://www.reddit.com/r/news/comments/pvqmzu/remains_of_louisiana_man_missing_after_hurricane/)
+- [Woman, child killed in fall at Petco Park](https://www.reddit.com/r/news/comments/pvmo9n/woman_child_killed_in_fall_at_petco_park/)
+- [California: firefighters hope cooling temperatures will aid wildfire battle | California](https://www.reddit.com/r/news/comments/pvm91b/california_firefighters_hope_cooling_temperatures/)
+- [Hong Kong Tiananmen vigil group disbands amid crackdown on dissent | Hong Kong](https://www.reddit.com/r/news/comments/pvm84s/hong_kong_tiananmen_vigil_group_disbands_amid/)
 <!-- REDDIT:END -->
 
 
