@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ARRESTED: 19-year-old woman in custody for setting Houston man on fire](https://www.reddit.com/r/news/comments/pvxern/arrested_19yearold_woman_in_custody_for_setting/)
+- [Fallout begins for far-right trolls who trusted Epik to keep their identities secret](https://www.reddit.com/r/news/comments/pvx9gt/fallout_begins_for_farright_trolls_who_trusted/)
+- [FBI investigating Missouri cops who let dog bite Black man](https://www.reddit.com/r/news/comments/pvx6al/fbi_investigating_missouri_cops_who_let_dog_bite/)
+- [Fayette County Public Schools student dies of COVID-19](https://www.reddit.com/r/news/comments/pvx4b7/fayette_county_public_schools_student_dies_of/)
+- [Switzerland votes to make same-sex marriage legal by near two-thirds majority](https://www.reddit.com/r/news/comments/pvwxr9/switzerland_votes_to_make_samesex_marriage_legal/)
 <!-- REDDIT:END -->
 
 
