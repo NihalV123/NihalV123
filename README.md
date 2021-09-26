@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman, child killed in fall at Petco Park](https://www.reddit.com/r/news/comments/pvmo9n/woman_child_killed_in_fall_at_petco_park/)
+- [At least 3 people are dead after an Amtrak train derailed in Montana](https://www.reddit.com/r/news/comments/pvlcfo/at_least_3_people_are_dead_after_an_amtrak_train/)
+- [Interior Secretary: Petito Case a Reminder of Missing Native Americans](https://www.reddit.com/r/news/comments/pvkcyp/interior_secretary_petito_case_a_reminder_of/)
+- [Multiple injuries after Amtrak train derails in Montana](https://www.reddit.com/r/news/comments/pvkbm6/multiple_injuries_after_amtrak_train_derails_in/)
+- [Haunted house actor accidentally stabs 11-year-old boy at Cuyahoga County Fairgrounds in Berea](https://www.reddit.com/r/news/comments/pvjxiw/haunted_house_actor_accidentally_stabs_11yearold/)
 <!-- REDDIT:END -->
 
 
