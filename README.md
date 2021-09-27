@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. House of Representatives Passes Bill Codifying The Right To An Abortion Into Federal Law. - The Global Coverage](https://www.reddit.com/r/news/comments/pwanzw/us_house_of_representatives_passes_bill_codifying/)
+- [FBI returns to Brian Laundrie's home for additional items "some personal items belonging to Brian Laundrie to assist them with DNA matching."](https://www.reddit.com/r/news/comments/pw9imu/fbi_returns_to_brian_laundries_home_for/)
+- [Citadel Ceo Lied Under Oath, Prison Ahead for him- Here’s The LEAKED PROOF](https://www.reddit.com/r/news/comments/pw85qa/citadel_ceo_lied_under_oath_prison_ahead_for_him/)
+- [8 people have been arrested on misdemeanor charges connected to the death of 19-year-old Virginia Commonwealth University student](https://www.reddit.com/r/news/comments/pw7lt2/8_people_have_been_arrested_on_misdemeanor/)
+- [Americans win Ryder Cup in a rout, send Europe a message](https://www.reddit.com/r/news/comments/pw6707/americans_win_ryder_cup_in_a_rout_send_europe_a/)
 <!-- REDDIT:END -->
 
 
