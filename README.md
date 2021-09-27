@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Award-winning Native American Journalist Myron Dewey, Founder of Digital Smoke Signals, Passes Away](https://www.reddit.com/r/news/comments/pwezfe/awardwinning_native_american_journalist_myron/)
+- [Strong quake hits Greece's biggest island of Crete, one person killed](https://www.reddit.com/r/news/comments/pwevek/strong_quake_hits_greeces_biggest_island_of_crete/)
+- [Taiwan says it needs long-range weapons to deter China](https://www.reddit.com/r/news/comments/pweobf/taiwan_says_it_needs_longrange_weapons_to_deter/)
+- [China says it will reduce abortions for 'non-medical purposes'](https://www.reddit.com/r/news/comments/pwec1m/china_says_it_will_reduce_abortions_for/)
+- [EU lorry drivers will not help Britain ease its fuel crisis, union says](https://www.reddit.com/r/news/comments/pwe873/eu_lorry_drivers_will_not_help_britain_ease_its/)
 <!-- REDDIT:END -->
 
 
