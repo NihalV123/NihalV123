@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Universal voting by mail becomes permanent in California](https://www.reddit.com/r/news/comments/pwsjb0/universal_voting_by_mail_becomes_permanent_in/)
+- [Judges Let NYC Schools Proceed With Vaccine Mandate for Educators](https://www.reddit.com/r/news/comments/pwsc7y/judges_let_nyc_schools_proceed_with_vaccine/)
+- [Judge rules state's ban on mask mandates in schools is unconstitutional](https://www.reddit.com/r/news/comments/pws54p/judge_rules_states_ban_on_mask_mandates_in/)
+- [75% of U.S. adults have taken at least one dose of COVID-19 vaccine - CDC](https://www.reddit.com/r/news/comments/pwrgsi/75_of_us_adults_have_taken_at_least_one_dose_of/)
+- [FBI mole in crowd on Jan. 6, files show](https://www.reddit.com/r/news/comments/pwqycd/fbi_mole_in_crowd_on_jan_6_files_show/)
 <!-- REDDIT:END -->
 
 
