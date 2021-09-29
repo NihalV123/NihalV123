@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Child dies after contracting brain-eating amoeba at a Texas splash pad](https://www.reddit.com/r/news/comments/pxnaon/child_dies_after_contracting_braineating_amoeba/)
+- [Brazil hospital chain hid COVID-19 deaths, whistleblowers' lawyer tells Senate](https://www.reddit.com/r/news/comments/pxl1wn/brazil_hospital_chain_hid_covid19_deaths/)
+- [Illinois man dies of rabies after apparent bat bite](https://www.reddit.com/r/news/comments/pxjjnu/illinois_man_dies_of_rabies_after_apparent_bat/)
+- [Court says city can ban Confederate flag in veterans parade](https://www.reddit.com/r/news/comments/pxjhlj/court_says_city_can_ban_confederate_flag_in/)
+- [YouTube deletes RT’s German channels over Covid misinformation](https://www.reddit.com/r/news/comments/pxizyi/youtube_deletes_rts_german_channels_over_covid/)
 <!-- REDDIT:END -->
 
 
