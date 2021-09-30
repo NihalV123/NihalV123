@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AT&T to require vaccines for 90,000 of its union workers](https://www.reddit.com/r/news/comments/py71y1/att_to_require_vaccines_for_90000_of_its_union/)
+- [Eminem serves fans at walk-up window as Mom's Spaghetti opens in downtown Detroit](https://www.reddit.com/r/news/comments/py6tg4/eminem_serves_fans_at_walkup_window_as_moms/)
+- [Covid: 37% of people have symptoms six months after infection](https://www.reddit.com/r/news/comments/py6843/covid_37_of_people_have_symptoms_six_months_after/)
+- [Britney Spears’ father removed as her conservator, judge rules](https://www.reddit.com/r/news/comments/py66uj/britney_spears_father_removed_as_her_conservator/)
+- [Former police officer charged with rape in Jones County](https://www.reddit.com/r/news/comments/py5nbv/former_police_officer_charged_with_rape_in_jones/)
 <!-- REDDIT:END -->
 
 
