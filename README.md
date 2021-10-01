@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Drug Enforcement Administration seizes 1.8 million fentanyl-laced pills and arrests more than 800 in nationwide sting](https://www.reddit.com/r/news/comments/pyztkj/drug_enforcement_administration_seizes_18_million/)
+- [Texas man, 24, admits shooting at Minneapolis police station during riot](https://www.reddit.com/r/news/comments/pyxlf6/texas_man_24_admits_shooting_at_minneapolis/)
+- [Newsom signs bill enabling return of seized Bruce's Beach to descendants of original Black owners](https://www.reddit.com/r/news/comments/pywfge/newsom_signs_bill_enabling_return_of_seized/)
+- [Ban on 'surprise' medical bills on track for Jan. 1 rollout](https://www.reddit.com/r/news/comments/pyvovp/ban_on_surprise_medical_bills_on_track_for_jan_1/)
+- ['Cops were firing like crazy': Video shows officers open fire in deadly gas station shooting](https://www.reddit.com/r/news/comments/pyv9d7/cops_were_firing_like_crazy_video_shows_officers/)
 <!-- REDDIT:END -->
 
 
