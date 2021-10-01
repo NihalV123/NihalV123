@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California to require all schoolchildren to get COVID shots](https://www.reddit.com/r/news/comments/pzd483/california_to_require_all_schoolchildren_to_get/)
+- ['Complicit and compliant' officials fixed boxing matches at 2016 Olympics, investigation finds](https://www.reddit.com/r/news/comments/pzaqph/complicit_and_compliant_officials_fixed_boxing/)
+- [DeFi bug accidentally gives $90 million to users, founder begs them to return it](https://www.reddit.com/r/news/comments/pzalvx/defi_bug_accidentally_gives_90_million_to_users/)
+- [Michigan VA nurse charged with stealing and selling COVID-19 vaccination cards](https://www.reddit.com/r/news/comments/pz9xrk/michigan_va_nurse_charged_with_stealing_and/)
+- [Former President Jimmy Carter quietly marks 97th birthday](https://www.reddit.com/r/news/comments/pz8idr/former_president_jimmy_carter_quietly_marks_97th/)
 <!-- REDDIT:END -->
 
 
