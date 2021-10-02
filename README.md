@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Supreme Court's Sotomayor allows New York school vaccine mandate](https://www.reddit.com/r/news/comments/pzkafh/us_supreme_courts_sotomayor_allows_new_york/)
+- [January 6 rioter who said she looked for Pelosi 'to shoot her in the friggin' brain' pleads guilty to misdemeanor for illegally protesting](https://www.reddit.com/r/news/comments/pzjw79/january_6_rioter_who_said_she_looked_for_pelosi/)
+- [Arrest made in arson incident at Travis County Democratic Party office](https://www.reddit.com/r/news/comments/pzj1xn/arrest_made_in_arson_incident_at_travis_county/)
+- [Pat Robertson steps down as host of long-running '700 Club'](https://www.reddit.com/r/news/comments/pzhb87/pat_robertson_steps_down_as_host_of_longrunning/)
+- [El Salvador police arrest 30 in child pornography case](https://www.reddit.com/r/news/comments/pzgnws/el_salvador_police_arrest_30_in_child_pornography/)
 <!-- REDDIT:END -->
 
 
