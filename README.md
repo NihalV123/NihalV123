@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas man who wanted to blow up Amazon data center sentenced to 10 years](https://www.reddit.com/r/news/comments/pznkwy/texas_man_who_wanted_to_blow_up_amazon_data/)
+- [Louisiana health care provider to charge benefits coverage fee for employees with unvaccinated partners](https://www.reddit.com/r/news/comments/pzmv89/louisiana_health_care_provider_to_charge_benefits/)
+- [Mom calls 911 after waiting hours at bus stop for her children](https://www.reddit.com/r/news/comments/pzmnou/mom_calls_911_after_waiting_hours_at_bus_stop_for/)
+- [French ex-police officer identified as serial killer and rapist after 35-year hunt](https://www.reddit.com/r/news/comments/pzmd88/french_expolice_officer_identified_as_serial/)
+- [Texas prison officials stall release of migrants despite judge's order](https://www.reddit.com/r/news/comments/pzm4kl/texas_prison_officials_stall_release_of_migrants/)
 <!-- REDDIT:END -->
 
 
