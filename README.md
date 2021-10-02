@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 49 Kentucky public school workers dead from COVID](https://www.reddit.com/r/news/comments/pzyqeu/at_least_49_kentucky_public_school_workers_dead/)
+- [Abortion rights advocates march across U.S. to protest restrictive laws](https://www.reddit.com/r/news/comments/pzybs8/abortion_rights_advocates_march_across_us_to/)
+- [Nursing home cited after dementia patient found with maggots](https://www.reddit.com/r/news/comments/pzy4y5/nursing_home_cited_after_dementia_patient_found/)
+- [Alabama city adds Juneteenth as holiday for its employees](https://www.reddit.com/r/news/comments/pzxzzs/alabama_city_adds_juneteenth_as_holiday_for_its/)
+- ['Voice behind the violence': English-speaking narrator of ISIS propaganda videos arrested and charged by Justice Department](https://www.reddit.com/r/news/comments/pzx01y/voice_behind_the_violence_englishspeaking/)
 <!-- REDDIT:END -->
 
 
