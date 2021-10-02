@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘They stole from us’: the New York taxi drivers mired in debt over medallions](https://www.reddit.com/r/news/comments/pzs6eo/they_stole_from_us_the_new_york_taxi_drivers/)
+- [Global COVID-19 deaths hit 5 million as Delta variant sweeps the world](https://www.reddit.com/r/news/comments/pzr7jg/global_covid19_deaths_hit_5_million_as_delta/)
+- [Queen spends millions on Prince Andrew's sex abuse allegations fight](https://www.reddit.com/r/news/comments/pzq3su/queen_spends_millions_on_prince_andrews_sex_abuse/)
+- [Texas man who wanted to blow up Amazon data center sentenced to 10 years](https://www.reddit.com/r/news/comments/pznkwy/texas_man_who_wanted_to_blow_up_amazon_data/)
+- [Louisiana health care provider to charge benefits coverage fee for employees with unvaccinated partners](https://www.reddit.com/r/news/comments/pzmv89/louisiana_health_care_provider_to_charge_benefits/)
 <!-- REDDIT:END -->
 
 
