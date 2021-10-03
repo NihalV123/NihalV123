@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice department urges judge to halt Texas abortion law](https://www.reddit.com/r/news/comments/q0g7kr/justice_department_urges_judge_to_halt_texas/)
+- ["Trevor's Law" was passed to track cancer clusters. Its supporters ask why it's taken so long.](https://www.reddit.com/r/news/comments/q0g2g3/trevors_law_was_passed_to_track_cancer_clusters/)
+- [Fire damages Rome's 19th century 'Iron Bridge'](https://www.reddit.com/r/news/comments/q0frh7/fire_damages_romes_19th_century_iron_bridge/)
+- [Man dies after falling while subway surfing on top of J train on Williamsburg Bridge](https://www.reddit.com/r/news/comments/q0f8if/man_dies_after_falling_while_subway_surfing_on/)
+- [Army veteran awarded $8.2 million in fourth trial over 3M earplugs](https://www.reddit.com/r/news/comments/q0bhhb/army_veteran_awarded_82_million_in_fourth_trial/)
 <!-- REDDIT:END -->
 
 
