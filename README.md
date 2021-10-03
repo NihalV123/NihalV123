@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pandora Papers: Secret wealth and dealings of world leaders exposed](https://www.reddit.com/r/news/comments/q0lcbq/pandora_papers_secret_wealth_and_dealings_of/)
+- [Major oil spill along Orange County coast forces cancellation of Pacific Airshow](https://www.reddit.com/r/news/comments/q0i59l/major_oil_spill_along_orange_county_coast_forces/)
+- [New Zealand says foreign nationals must have coronavirus vaccination to enter country from November](https://www.reddit.com/r/news/comments/q0hqyr/new_zealand_says_foreign_nationals_must_have/)
+- [NASA Won't Rename New Space Telescope Despite Anti-LGBTQ Controversy](https://www.reddit.com/r/news/comments/q0hphk/nasa_wont_rename_new_space_telescope_despite/)
+- [‘He was a loving little boy’: Mother wants her 6-year-old son who died of COVID-19 to be remembered](https://www.reddit.com/r/news/comments/q0hngy/he_was_a_loving_little_boy_mother_wants_her/)
 <!-- REDDIT:END -->
 
 
