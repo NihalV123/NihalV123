@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former NBA player Lazar Hayward arrested in Hawaii for fake COVID-19 test results](https://www.reddit.com/r/news/comments/q13r84/former_nba_player_lazar_hayward_arrested_in/)
+- [A hospital employee was killed by a coworker who fled and started a shootout with officers, Philadelphia police said](https://www.reddit.com/r/news/comments/q13bqo/a_hospital_employee_was_killed_by_a_coworker_who/)
+- [Worker at Wendy's arrested after allegedly pulling gun on customer](https://www.reddit.com/r/news/comments/q13a2q/worker_at_wendys_arrested_after_allegedly_pulling/)
+- [The Nobel Prize in Physiology or Medicine 2021 awarded jointly to David Julius and Ardem Patapoutian "for their discoveries of receptors for temperature and touch."](https://www.reddit.com/r/news/comments/q126ub/the_nobel_prize_in_physiology_or_medicine_2021/)
+- [Melbourne passes Buenos Aires' world record for time spent in lockdown](https://www.reddit.com/r/news/comments/q0yjc8/melbourne_passes_buenos_aires_world_record_for/)
 <!-- REDDIT:END -->
 
 
