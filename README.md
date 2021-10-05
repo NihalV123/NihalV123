@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pandora papers reveal South Dakota’s role as $367bn tax haven](https://www.reddit.com/r/news/comments/q1nfdm/pandora_papers_reveal_south_dakotas_role_as_367bn/)
+- [Tesla must pay $137 million to ex-worker over hostile work environment, racism](https://www.reddit.com/r/news/comments/q1mi7w/tesla_must_pay_137_million_to_exworker_over/)
+- [Man arrested after employer reports him for use of a fake COVID-19 vaccination card](https://www.reddit.com/r/news/comments/q1lndd/man_arrested_after_employer_reports_him_for_use/)
+- [Chinese detective in exile reveals torture inflicted on Uyghurs](https://www.reddit.com/r/news/comments/q1ljxq/chinese_detective_in_exile_reveals_torture/)
+- [Southwest is latest airline to mandate vaccines for workers](https://www.reddit.com/r/news/comments/q1hz6f/southwest_is_latest_airline_to_mandate_vaccines/)
 <!-- REDDIT:END -->
 
 
