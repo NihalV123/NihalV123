@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lars Vilks: Muhammad cartoonist dies in car crash while under police protection. (Sweden)](https://www.reddit.com/r/news/comments/q1u1bx/lars_vilks_muhammad_cartoonist_dies_in_car_crash/)
+- [BBC News: French Catholic clergy abused 216,000 victims since 1950.](https://www.reddit.com/r/news/comments/q1t090/bbc_news_french_catholic_clergy_abused_216000/)
+- [‘Exhausted and underpaid’: teachers across the US are leaving their jobs in record numbers](https://www.reddit.com/r/news/comments/q1svvp/exhausted_and_underpaid_teachers_across_the_us/)
+- [Facebook whistleblower to take her story before the US Senate](https://www.reddit.com/r/news/comments/q1p3lb/facebook_whistleblower_to_take_her_story_before/)
+- [Tesla must pay $137 million to ex-worker over hostile work environment, racism](https://www.reddit.com/r/news/comments/q1mi7w/tesla_must_pay_137_million_to_exworker_over/)
 <!-- REDDIT:END -->
 
 
