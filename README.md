@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Treasury warns Arizona it cannot use federal funds to undermine mask norms](https://www.reddit.com/r/news/comments/q2dobr/treasury_warns_arizona_it_cannot_use_federal/)
+- [New York City police union leader resigns after FBI raids his office and home](https://www.reddit.com/r/news/comments/q2cf6m/new_york_city_police_union_leader_resigns_after/)
+- [Operator in California oil spill didn't shut down for hours after leak alert, regulators say](https://www.reddit.com/r/news/comments/q2bofr/operator_in_california_oil_spill_didnt_shut_down/)
+- [Public urination at Glastonbury Festival leaves traces of cocaine and MDMA in river, posing threat to rare eels](https://www.reddit.com/r/news/comments/q2ab1w/public_urination_at_glastonbury_festival_leaves/)
+- [Holly Hill woman says she never applied for $3.4 million COVID grant she's listed as getting](https://www.reddit.com/r/news/comments/q28sjn/holly_hill_woman_says_she_never_applied_for_34/)
 <!-- REDDIT:END -->
 
 
