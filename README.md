@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. faces a recession if Congress doesn’t address the debt limit within 2 weeks, Yellen says](https://www.reddit.com/r/news/comments/q28n04/us_faces_a_recession_if_congress_doesnt_address/)
+- [Third Sandy Hook parent wins defamation suit against Alex Jones](https://www.reddit.com/r/news/comments/q280v4/third_sandy_hook_parent_wins_defamation_suit/)
+- [Popular WLOX anchor loses job for refusing to get COVID vaccine. ‘I preserved my integrity.’](https://www.reddit.com/r/news/comments/q27xaf/popular_wlox_anchor_loses_job_for_refusing_to_get/)
+- [Arizona can't use COVID money for anti-mask grants, feds say](https://www.reddit.com/r/news/comments/q27rfr/arizona_cant_use_covid_money_for_antimask_grants/)
+- [Lawsuit: Kroger manager drove employee to suicide](https://www.reddit.com/r/news/comments/q27piw/lawsuit_kroger_manager_drove_employee_to_suicide/)
 <!-- REDDIT:END -->
 
 
