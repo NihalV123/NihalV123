@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than 120,000 US kids orphaned with death of caregivers during COVID-19 pandemic, study finds](https://www.reddit.com/r/news/comments/q36y1o/more_than_120000_us_kids_orphaned_with_death_of/)
+- [U.S. to fine for-profit colleges for false promises about graduates' prospects](https://www.reddit.com/r/news/comments/q36rnl/us_to_fine_forprofit_colleges_for_false_promises/)
+- [Remnants of Black church uncovered in Colonial Williamsburg](https://www.reddit.com/r/news/comments/q35kf1/remnants_of_black_church_uncovered_in_colonial/)
+- [Mountain gorilla who became selfie star dies in her caretaker's arms](https://www.reddit.com/r/news/comments/q32slo/mountain_gorilla_who_became_selfie_star_dies_in/)
+- [Universities ‘failing to mark down students’ for poor writing skills](https://www.reddit.com/r/news/comments/q321ym/universities_failing_to_mark_down_students_for/)
 <!-- REDDIT:END -->
 
 
