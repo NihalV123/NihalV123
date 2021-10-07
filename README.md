@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AT&T played key role in founding of far-right conspiracy outlet OAN, channel's president said in court](https://www.reddit.com/r/news/comments/q30sm5/att_played_key_role_in_founding_of_farright/)
+- [California prison guard died after reporting corruption](https://www.reddit.com/r/news/comments/q30si0/california_prison_guard_died_after_reporting/)
+- [Over two feet of rain fell in Italy in only half a day, something not seen in Europe before](https://www.reddit.com/r/news/comments/q2z3fk/over_two_feet_of_rain_fell_in_italy_in_only_half/)
+- [Jury awards $2.5 million to unarmed man shot in back by Denver police in 2013](https://www.reddit.com/r/news/comments/q2yo6d/jury_awards_25_million_to_unarmed_man_shot_in/)
+- [San Jose Sharks forward Evander Kane being investigated by NHL after allegedly using a fake COVID-19 vaccine card, source says](https://www.reddit.com/r/news/comments/q2y1ki/san_jose_sharks_forward_evander_kane_being/)
 <!-- REDDIT:END -->
 
 
