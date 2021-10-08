@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Crowd rallies for missing and murdered Indigenous women](https://www.reddit.com/r/news/comments/q3nf38/crowd_rallies_for_missing_and_murdered_indigenous/)
+- [FBI to investigate threats, harassment against school board members](https://www.reddit.com/r/news/comments/q3mrij/fbi_to_investigate_threats_harassment_against/)
+- [Man who put on fat suit disguise to throw acid on ex-girlfriend jailed](https://www.reddit.com/r/news/comments/q3mhk7/man_who_put_on_fat_suit_disguise_to_throw_acid_on/)
+- [Serial killer lured on social media by a friend of a victim gets 160 years](https://www.reddit.com/r/news/comments/q3mfbh/serial_killer_lured_on_social_media_by_a_friend/)
+- [Senate report details Trump's pressure campaign at DOJ to overturn the 2020 election](https://www.reddit.com/r/news/comments/q3me3t/senate_report_details_trumps_pressure_campaign_at/)
 <!-- REDDIT:END -->
 
 
