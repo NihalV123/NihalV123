@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tesla moves headquarters from California to Texas](https://www.reddit.com/r/news/comments/q3l4zi/tesla_moves_headquarters_from_california_to_texas/)
+- [Florida Board of Education votes to sanction 8 school districts with mask mandates with no opt-out](https://www.reddit.com/r/news/comments/q3ijg9/florida_board_of_education_votes_to_sanction_8/)
+- [Student arrested in Texas school shooting released from jail](https://www.reddit.com/r/news/comments/q3if4t/student_arrested_in_texas_school_shooting/)
+- [Biden administration releases alarming reports on climate change challenges](https://www.reddit.com/r/news/comments/q3hyux/biden_administration_releases_alarming_reports_on/)
+- [House Capitol attack panel subpoenas key planners of ‘Stop the Steal’ rally](https://www.reddit.com/r/news/comments/q3hr3q/house_capitol_attack_panel_subpoenas_key_planners/)
 <!-- REDDIT:END -->
 
 
