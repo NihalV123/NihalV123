@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New data suggests Canada's 'gamble' on delaying, mixing and matching COVID-19 vaccines paid off | CBC News](https://www.reddit.com/r/news/comments/q4ofq6/new_data_suggests_canadas_gamble_on_delaying/)
+- [B.C. woman awakes to a hole in her roof and a space rock on her pillow](https://www.reddit.com/r/news/comments/q4o3l2/bc_woman_awakes_to_a_hole_in_her_roof_and_a_space/)
+- [Nearly all major airlines mandate COVID vaccine for employees](https://www.reddit.com/r/news/comments/q4mxrl/nearly_all_major_airlines_mandate_covid_vaccine/)
+- [Moderna, Racing for Profits, Keeps Covid Vaccine Out of Reach of Poor](https://www.reddit.com/r/news/comments/q4mgq9/moderna_racing_for_profits_keeps_covid_vaccine/)
+- [Police kill Los Angeles man they say took a hostage after a violent crime spree](https://www.reddit.com/r/news/comments/q4lz3j/police_kill_los_angeles_man_they_say_took_a/)
 <!-- REDDIT:END -->
 
 
