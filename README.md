@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UN declares access to a clean environment a human right](https://www.reddit.com/r/news/comments/q4ekte/un_declares_access_to_a_clean_environment_a_human/)
+- [Paraplegic man pulled from car, thrown to ground by police in Ohio](https://www.reddit.com/r/news/comments/q4d6p4/paraplegic_man_pulled_from_car_thrown_to_ground/)
+- [Facebook will now ban the sale of protected Amazon rainforest land on Marketplace](https://www.reddit.com/r/news/comments/q4bavh/facebook_will_now_ban_the_sale_of_protected/)
+- [UN says access to a 'clean, healthy' environment is a human right](https://www.reddit.com/r/news/comments/q4aypy/un_says_access_to_a_clean_healthy_environment_is/)
+- [A mom takes action after her 5-year-old was put in a chokehold at school](https://www.reddit.com/r/news/comments/q4atvy/a_mom_takes_action_after_her_5yearold_was_put_in/)
 <!-- REDDIT:END -->
 
 
