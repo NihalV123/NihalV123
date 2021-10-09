@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [N.C. lieutenant governor faces calls to resign for calling LGBTQ people 'filth'](https://www.reddit.com/r/news/comments/q4jtt3/nc_lieutenant_governor_faces_calls_to_resign_for/)
+- [Jan. 6 committee to 'swiftly consider' criminal contempt for Steve Bannon, others who ignore subpoenas](https://www.reddit.com/r/news/comments/q4isi3/jan_6_committee_to_swiftly_consider_criminal/)
+- [Black Children Were Jailed for a Crime That Doesn’t Exist. Almost Nothing Happened to the Adults in Charge.](https://www.reddit.com/r/news/comments/q4is5k/black_children_were_jailed_for_a_crime_that/)
+- [U.S. woman refused kidney transplant until she gets COVID-19 vaccine](https://www.reddit.com/r/news/comments/q4htut/us_woman_refused_kidney_transplant_until_she_gets/)
+- [Paraplegic man pulled from car, thrown to ground by police in Ohio](https://www.reddit.com/r/news/comments/q4d6p4/paraplegic_man_pulled_from_car_thrown_to_ground/)
 <!-- REDDIT:END -->
 
 
