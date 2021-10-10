@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fort Hood looking for missing soldier](https://www.reddit.com/r/news/comments/q4yy4n/fort_hood_looking_for_missing_soldier/)
+- [California law to eventually ban gas-powered lawn equipment](https://www.reddit.com/r/news/comments/q4y06f/california_law_to_eventually_ban_gaspowered_lawn/)
+- [A fast food chain is bringing corporate employees to work in its restaurants](https://www.reddit.com/r/news/comments/q4xv16/a_fast_food_chain_is_bringing_corporate_employees/)
+- [Allen West, Texas GOP gubernatorial candidate, has COVID](https://www.reddit.com/r/news/comments/q4xq4f/allen_west_texas_gop_gubernatorial_candidate_has/)
+- [Remains in suitcase in Wisconsin identified as missing woman](https://www.reddit.com/r/news/comments/q4w12h/remains_in_suitcase_in_wisconsin_identified_as/)
 <!-- REDDIT:END -->
 
 
