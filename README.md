@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pandora Papers: How the rich and elite use U.S. states to hide billions](https://www.reddit.com/r/news/comments/q5ct2x/pandora_papers_how_the_rich_and_elite_use_us/)
+- [Facebook plans to reduce the presence of politics on people's feeds, Nick Clegg says](https://www.reddit.com/r/news/comments/q5crqi/facebook_plans_to_reduce_the_presence_of_politics/)
+- [US Navy engineer tried to leak nuclear submarine secrets: FBI](https://www.reddit.com/r/news/comments/q5cqvw/us_navy_engineer_tried_to_leak_nuclear_submarine/)
+- [Southwest Airlines cancels 1,000 more flights as disruptions mount](https://www.reddit.com/r/news/comments/q5awuv/southwest_airlines_cancels_1000_more_flights_as/)
+- [Russian plane carrying parachutists crashes, 16 killed](https://www.reddit.com/r/news/comments/q59tws/russian_plane_carrying_parachutists_crashes_16/)
 <!-- REDDIT:END -->
 
 
