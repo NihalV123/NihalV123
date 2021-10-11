@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [25% of all critical infrastructure in the US is at risk of failure due to flooding, new report finds](https://www.reddit.com/r/news/comments/q5olkg/25_of_all_critical_infrastructure_in_the_us_is_at/)
+- [Czech president in hospital after shock election defeat for PM](https://www.reddit.com/r/news/comments/q5nlrf/czech_president_in_hospital_after_shock_election/)
+- [California Bans Gas Powered Lawn Mowers, Chain Saws, and Leaf Blowers Starting in 2024](https://www.reddit.com/r/news/comments/q5nj7w/california_bans_gas_powered_lawn_mowers_chain/)
+- [Fauci says it’s fine to trick-or-treat this year](https://www.reddit.com/r/news/comments/q5k89j/fauci_says_its_fine_to_trickortreat_this_year/)
+- [QAnon beliefs fuel child-kidnap plot in France](https://www.reddit.com/r/news/comments/q5jy2a/qanon_beliefs_fuel_childkidnap_plot_in_france/)
 <!-- REDDIT:END -->
 
 
