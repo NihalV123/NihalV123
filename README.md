@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Taiwanese president: China offers no free or Democratic way of life](https://www.reddit.com/r/news/comments/q60z1t/taiwanese_president_china_offers_no_free_or/)
+- [Military leaders saw pandemic as unique opportunity to test psyops techniques on Canadians, Forces report says](https://www.reddit.com/r/news/comments/q604z9/military_leaders_saw_pandemic_as_unique/)
+- [Accountant cleared of drink driving after claiming she guzzled vodka AFTER crash](https://www.reddit.com/r/news/comments/q5ys9z/accountant_cleared_of_drink_driving_after/)
+- [Afghan interpreter who helped rescue Biden in 2008 gets out of Afghanistan](https://www.reddit.com/r/news/comments/q5ymbs/afghan_interpreter_who_helped_rescue_biden_in/)
+- [Russia's Navalny says prison has changed his status to "terrorist"](https://www.reddit.com/r/news/comments/q5x9bi/russias_navalny_says_prison_has_changed_his/)
 <!-- REDDIT:END -->
 
 
