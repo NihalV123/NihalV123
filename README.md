@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Italy's toughest-in-the-world COVID-19 vaccine mandate sparks violent protests](https://www.reddit.com/r/news/comments/q67p50/italys_toughestintheworld_covid19_vaccine_mandate/)
+- [1st executive to head to prison in doomed nuclear project](https://www.reddit.com/r/news/comments/q67cvv/1st_executive_to_head_to_prison_in_doomed_nuclear/)
+- [UNC Chapel Hill cancels classes Tuesday amid two suicide investigations](https://www.reddit.com/r/news/comments/q67c1r/unc_chapel_hill_cancels_classes_tuesday_amid_two/)
+- [Lawsuit filed in Florida over a mural showing city's first Black female firefighter depicted with a White face](https://www.reddit.com/r/news/comments/q665xh/lawsuit_filed_in_florida_over_a_mural_showing/)
+- [Election workers accused of shredding voter applications](https://www.reddit.com/r/news/comments/q65lzp/election_workers_accused_of_shredding_voter/)
 <!-- REDDIT:END -->
 
 
