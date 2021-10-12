@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [James Webb super-telescope arrives at launch site](https://www.reddit.com/r/news/comments/q6qkg0/james_webb_supertelescope_arrives_at_launch_site/)
+- [Netflix backs comedian Dave Chappelle despite criticism over trans remarks | CBC News](https://www.reddit.com/r/news/comments/q6qg13/netflix_backs_comedian_dave_chappelle_despite/)
+- [A record 4.3 million US workers quit their jobs in August, led by food and retail industries](https://www.reddit.com/r/news/comments/q6qbbj/a_record_43_million_us_workers_quit_their_jobs_in/)
+- [Slain reporter's father takes on Facebook over violent video](https://www.reddit.com/r/news/comments/q6p0in/slain_reporters_father_takes_on_facebook_over/)
+- [Nobel prize will have no gender or ethnicity quotas, academy head says](https://www.reddit.com/r/news/comments/q6ozwk/nobel_prize_will_have_no_gender_or_ethnicity/)
 <!-- REDDIT:END -->
 
 
