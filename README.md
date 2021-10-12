@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Report: Gruden Resigns After Release of Anti-LGBTQ Emails](https://www.reddit.com/r/news/comments/q6ayya/report_gruden_resigns_after_release_of_antilgbtq/)
+- [Texas governor bans all COVID-19 vaccine mandates, including by private businesses](https://www.reddit.com/r/news/comments/q6apze/texas_governor_bans_all_covid19_vaccine_mandates/)
+- [Ex-Gardena Officer Found Guilty for Second Time of Firearms Sales](https://www.reddit.com/r/news/comments/q69dav/exgardena_officer_found_guilty_for_second_time_of/)
+- [Blue Origin readies for space launch with William Shatner aboard](https://www.reddit.com/r/news/comments/q68w3f/blue_origin_readies_for_space_launch_with_william/)
+- [Italy's toughest-in-the-world COVID-19 vaccine mandate sparks violent protests](https://www.reddit.com/r/news/comments/q67p50/italys_toughestintheworld_covid19_vaccine_mandate/)
 <!-- REDDIT:END -->
 
 
