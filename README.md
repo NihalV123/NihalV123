@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Food prices reach highest level in a decade.](https://www.reddit.com/r/news/comments/q70t55/food_prices_reach_highest_level_in_a_decade/)
+- [Fort Hood soldier found dead behind company barracks](https://www.reddit.com/r/news/comments/q6zmx4/fort_hood_soldier_found_dead_behind_company/)
+- [Bounty hunter fatally shoots fugitive in Texas, sheriff says](https://www.reddit.com/r/news/comments/q6zg7z/bounty_hunter_fatally_shoots_fugitive_in_texas/)
+- [Major hospital systems in Ohio requiring Covid vaccinations for organ transplants](https://www.reddit.com/r/news/comments/q6z8lo/major_hospital_systems_in_ohio_requiring_covid/)
+- [Texas man charged with threatening prominent doctor over her Covid vaccine advocacy](https://www.reddit.com/r/news/comments/q6yved/texas_man_charged_with_threatening_prominent/)
 <!-- REDDIT:END -->
 
 
