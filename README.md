@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida fines key county $3.5 million for mandating vaccines](https://www.reddit.com/r/news/comments/q7dw2x/florida_fines_key_county_35_million_for_mandating/)
+- [Film TV Workers Union (60,000 Members) Says Strike is Set to Start October 18th](https://www.reddit.com/r/news/comments/q7deix/film_tv_workers_union_60000_members_says_strike/)
+- [Louisiana zoo animals are getting vaccinated against COVID-19](https://www.reddit.com/r/news/comments/q7d0aq/louisiana_zoo_animals_are_getting_vaccinated/)
+- [Social Security cost-of-living adjustment will be 5.9% in 2022](https://www.reddit.com/r/news/comments/q7bu1f/social_security_costofliving_adjustment_will_be/)
+- [U.S. becomes largest bitcoin mining center following China ban](https://www.reddit.com/r/news/comments/q7bacd/us_becomes_largest_bitcoin_mining_center/)
 <!-- REDDIT:END -->
 
 
