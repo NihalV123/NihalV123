@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Major hospital systems in Ohio requiring Covid vaccinations for organ transplants](https://www.reddit.com/r/news/comments/q6z8lo/major_hospital_systems_in_ohio_requiring_covid/)
+- [Texas man charged with threatening prominent doctor over her Covid vaccine advocacy](https://www.reddit.com/r/news/comments/q6yved/texas_man_charged_with_threatening_prominent/)
+- [Texas agency removes webpages with resources for LGBTQ youths](https://www.reddit.com/r/news/comments/q6xj8o/texas_agency_removes_webpages_with_resources_for/)
+- [Indianapolis police sergeant charged after body camera video showed him kicking a handcuffed man in the head](https://www.reddit.com/r/news/comments/q6xfcu/indianapolis_police_sergeant_charged_after_body/)
+- [Walgreens closing 5 SF stores due to 'organized retail crime'](https://www.reddit.com/r/news/comments/q6xb5g/walgreens_closing_5_sf_stores_due_to_organized/)
 <!-- REDDIT:END -->
 
 
