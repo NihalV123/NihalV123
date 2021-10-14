@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Huawei rejected by 3 in 4 Canadians on eve of 5G decision](https://www.reddit.com/r/news/comments/q7q3xv/huawei_rejected_by_3_in_4_canadians_on_eve_of_5g/)
+- [U.S. home heating bills expected to surge this winter, EIA says](https://www.reddit.com/r/news/comments/q7oi4r/us_home_heating_bills_expected_to_surge_this/)
+- [France to ban plastic packaging for most fruit and vegetables from January 2022](https://www.reddit.com/r/news/comments/q7nweo/france_to_ban_plastic_packaging_for_most_fruit/)
+- [An off-duty police officer shot her significant other, another off-duty officer, after she caught her with another woman](https://www.reddit.com/r/news/comments/q7nsxf/an_offduty_police_officer_shot_her_significant/)
+- [U.S. crude oil price tops $80 a barrel, the highest since 2014](https://www.reddit.com/r/news/comments/q7n160/us_crude_oil_price_tops_80_a_barrel_the_highest/)
 <!-- REDDIT:END -->
 
 
