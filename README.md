@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Verizon Has Been Blocking Various Websites, And Nobody Knows Why](https://www.reddit.com/r/news/comments/q7lis7/verizon_has_been_blocking_various_websites_and/)
+- [State Police trooper who cried foul over brutality incidents is notified he'll be fired](https://www.reddit.com/r/news/comments/q7lhxw/state_police_trooper_who_cried_foul_over/)
+- [Dylann Roof's request to reconsider recusal is denied](https://www.reddit.com/r/news/comments/q7k59b/dylann_roofs_request_to_reconsider_recusal_is/)
+- [Jan. 6 committee subpoena targets begin turning over docs](https://www.reddit.com/r/news/comments/q7k2qd/jan_6_committee_subpoena_targets_begin_turning/)
+- [The American Bumblebee Has Nearly Vanished From Eight States](https://www.reddit.com/r/news/comments/q7j2dp/the_american_bumblebee_has_nearly_vanished_from/)
 <!-- REDDIT:END -->
 
 
