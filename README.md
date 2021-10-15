@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Romanian news source exposes massive money laundering scheme organised by The Romanian Orthodox Church itself. (couldn't find an article in english)](https://www.reddit.com/r/news/comments/q8mtrp/romanian_news_source_exposes_massive_money/)
+- [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.reddit.com/r/news/comments/q8mlg5/masten_wanjala_mob_beats_kenyan_child_serial/)
+- ['F*ck off, you can’t arrest me': Drunk British man, 37, fined S$4,000 for swearing at policeman outside Jurong Point](https://www.reddit.com/r/news/comments/q8lzgh/fck_off_you_cant_arrest_me_drunk_british_man_37/)
+- [U.S. prepared to restart "Remain in Mexico" border policy in November](https://www.reddit.com/r/news/comments/q8lwfv/us_prepared_to_restart_remain_in_mexico_border/)
+- [10-year-old Texas boy dies after COVID-19 battle](https://www.reddit.com/r/news/comments/q8gcbq/10yearold_texas_boy_dies_after_covid19_battle/)
 <!-- REDDIT:END -->
 
 
