@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New CDC data shows the risk of dying from Covid-19 is 11 times higher for unvaccinated adults than for fully vaccinated adults](https://www.reddit.com/r/news/comments/q8td6x/new_cdc_data_shows_the_risk_of_dying_from_covid19/)
+- [Teachers in Texas city told to balance Holocaust books with 'opposing' views by school chief | US News](https://www.reddit.com/r/news/comments/q8syo8/teachers_in_texas_city_told_to_balance_holocaust/)
+- [DOJ will ask Supreme Court to halt Texas abortion law](https://www.reddit.com/r/news/comments/q8son8/doj_will_ask_supreme_court_to_halt_texas_abortion/)
+- [Capitol Police officer indicted for obstruction after riot](https://www.reddit.com/r/news/comments/q8s6oq/capitol_police_officer_indicted_for_obstruction/)
+- [Woman allegedly attacked Capitol police officer with baseball bat: report](https://www.reddit.com/r/news/comments/q8qkkk/woman_allegedly_attacked_capitol_police_officer/)
 <!-- REDDIT:END -->
 
 
