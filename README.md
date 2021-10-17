@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman conceived through rape wins award for campaign to convict father](https://www.reddit.com/r/news/comments/qa35d8/woman_conceived_through_rape_wins_award_for/)
+- [Miami private school to require students getting COVID vaccine to stay home for 30 days after each dose](https://www.reddit.com/r/news/comments/qa2dgb/miami_private_school_to_require_students_getting/)
+- [Woman suing Chicago Bears player after alleged assault at Charlotte hotel](https://www.reddit.com/r/news/comments/qa235y/woman_suing_chicago_bears_player_after_alleged/)
+- [Native-led march protests possible contamination from White Mesa uranium mill](https://www.reddit.com/r/news/comments/qa1zgi/nativeled_march_protests_possible_contamination/)
+- [Kansas reports fourth child COVID death as school-aged children have highest case rate](https://www.reddit.com/r/news/comments/qa1880/kansas_reports_fourth_child_covid_death_as/)
 <!-- REDDIT:END -->
 
 
