@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli settlers hang and torture Palestinian teen with fire, human rights group reveals](https://www.reddit.com/r/news/comments/q9wrhs/israeli_settlers_hang_and_torture_palestinian/)
+- [Lawyer Alex Murdaugh jailed in alleged theft of former housekeeper’s settlement cash](https://www.reddit.com/r/news/comments/q9w8ev/lawyer_alex_murdaugh_jailed_in_alleged_theft_of/)
+- [Yesh Din: Israelis stone Palestinian home, light brush fire nearby](https://www.reddit.com/r/news/comments/q9slxg/yesh_din_israelis_stone_palestinian_home_light/)
+- [US religious group says 17 missionaries kidnapped in Haiti](https://www.reddit.com/r/news/comments/q9s166/us_religious_group_says_17_missionaries_kidnapped/)
+- [Russia is pouring millions into Kremlin propaganda targeting the U.S.](https://www.reddit.com/r/news/comments/q9qu75/russia_is_pouring_millions_into_kremlin/)
 <!-- REDDIT:END -->
 
 
