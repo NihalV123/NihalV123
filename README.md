@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Great Resignation may lead companies to offer employees financial wellness benefits](https://www.reddit.com/r/news/comments/qarupd/the_great_resignation_may_lead_companies_to_offer/)
+- [Colorado steel mill is now largely powered by solar, among the first in the world](https://www.reddit.com/r/news/comments/qaqkab/colorado_steel_mill_is_now_largely_powered_by/)
+- [Supreme Court sides with police officers seeking ‘qualified immunity’ in two use-of-force cases](https://www.reddit.com/r/news/comments/qaq34x/supreme_court_sides_with_police_officers_seeking/)
+- [7-Foot-Tall Harambe Statue Stares Down Wall Street's Charging Bull, Which Is Now Covered in Bananas](https://www.reddit.com/r/news/comments/qapkcy/7foottall_harambe_statue_stares_down_wall_streets/)
+- [Supply chain chaos is hitting global growth and it's about to get worse](https://www.reddit.com/r/news/comments/qap517/supply_chain_chaos_is_hitting_global_growth_and/)
 <!-- REDDIT:END -->
 
 
