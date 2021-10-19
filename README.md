@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [94 unvaccinated staff at Yale New Haven Health lose their jobs](https://www.reddit.com/r/news/comments/qazvv8/94_unvaccinated_staff_at_yale_new_haven_health/)
+- [Zillow slams the brakes on home buying as it struggles to manage its backlog of inventory](https://www.reddit.com/r/news/comments/qazene/zillow_slams_the_brakes_on_home_buying_as_it/)
+- [Alaska pediatricians criticize Anchorage’s chief medical officer over ‘grossly misleading’ comments on COVID](https://www.reddit.com/r/news/comments/qayw99/alaska_pediatricians_criticize_anchorages_chief/)
+- [JPSO Deputy Under Investigation After Video Shows Him Slamming Black Woman's Head on Pavement](https://www.reddit.com/r/news/comments/qaxxax/jpso_deputy_under_investigation_after_video_shows/)
+- [Thomas Jefferson statue to be removed from New York City Hall](https://www.reddit.com/r/news/comments/qaxj0i/thomas_jefferson_statue_to_be_removed_from_new/)
 <!-- REDDIT:END -->
 
 
