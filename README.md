@@ -280,7 +280,7 @@ ASP                      1 repo              █████░░░░░░�
 
 Account age: 6 years
 
-Pushed 618 commits
+Pushed 620 commits
 
 Opened 6 issues
 
@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
 - [🔴 Vue.js Live 2021 | The Biggest Vue.js Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=mkm-1UDJ2co)
 - [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
 - [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
 - [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Federal judge rejects bid to block Oregon vaccine mandate](https://www.reddit.com/r/news/comments/qb3kua/federal_judge_rejects_bid_to_block_oregon_vaccine/)
-- [Amazon's Jeff Bezos 'may have lied to Congress'](https://www.reddit.com/r/news/comments/qb2k5l/amazons_jeff_bezos_may_have_lied_to_congress/)
-- [Tight U.S. job market triggers strikes for more pay](https://www.reddit.com/r/news/comments/qb2j7n/tight_us_job_market_triggers_strikes_for_more_pay/)
-- [100,000 workers take action as 'Striketober' hits the US](https://www.reddit.com/r/news/comments/qb269d/100000_workers_take_action_as_striketober_hits/)
-- [So far, COVID-19 spikes from college football games haven’t materialized](https://www.reddit.com/r/news/comments/qb19b7/so_far_covid19_spikes_from_college_football_games/)
+- [Baltimore’s No-Prosecution Policy for Low-Level Drug Possession and Prostitution Finds Almost No Rearrests for Serious Offenses | Johns Hopkins Bloomberg School of Public Health](https://www.reddit.com/r/news/comments/qbgms6/baltimores_noprosecution_policy_for_lowlevel_drug/)
+- [Johnson & Johnson Sending Talc Cases to Bankruptcy Court](https://www.reddit.com/r/news/comments/qbfylv/johnson_johnson_sending_talc_cases_to_bankruptcy/)
+- [Train riders held up cellphones as woman was raped on SEPTA, police say](https://www.reddit.com/r/news/comments/qbfbx5/train_riders_held_up_cellphones_as_woman_was/)
+- [North America's biggest container port faces record backlog](https://www.reddit.com/r/news/comments/qbef12/north_americas_biggest_container_port_faces/)
+- [FBI at home of Russian oligarch and ex-Manafort associate Oleg Deripaska](https://www.reddit.com/r/news/comments/qbea5h/fbi_at_home_of_russian_oligarch_and_exmanafort/)
 <!-- REDDIT:END -->
 
 
