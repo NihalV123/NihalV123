@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🔴 Vue.js Live 2021 | The Biggest Vue.js Conference In The Cloud | GitNation](https://www.youtube.com/watch?v=mkm-1UDJ2co)
 - [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
 - [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
 - [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
 - [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Springfield man accused of killing neighbor found guilty of first-degree murder](https://www.reddit.com/r/news/comments/qaer6c/springfield_man_accused_of_killing_neighbor_found/)
-- [Brooklyn woman arrested in connection with suspected arson at a Jewish school](https://www.reddit.com/r/news/comments/qack02/brooklyn_woman_arrested_in_connection_with/)
-- [Chicago Police Department restricts time off for officers after vaccine mandate deadline, CNN affiliate reports](https://www.reddit.com/r/news/comments/qacbak/chicago_police_department_restricts_time_off_for/)
-- [Betty Lynn, who played Thelma Lou on 'The Andy Griffith Show,' dies at 95](https://www.reddit.com/r/news/comments/qac48n/betty_lynn_who_played_thelma_lou_on_the_andy/)
-- [FBI seeks information on New Zealand man who allegedly coerced women into making sexually explicit videos](https://www.reddit.com/r/news/comments/qac3z4/fbi_seeks_information_on_new_zealand_man_who/)
+- [Federal judge rejects bid to block Oregon vaccine mandate](https://www.reddit.com/r/news/comments/qb3kua/federal_judge_rejects_bid_to_block_oregon_vaccine/)
+- [Amazon's Jeff Bezos 'may have lied to Congress'](https://www.reddit.com/r/news/comments/qb2k5l/amazons_jeff_bezos_may_have_lied_to_congress/)
+- [Tight U.S. job market triggers strikes for more pay](https://www.reddit.com/r/news/comments/qb2j7n/tight_us_job_market_triggers_strikes_for_more_pay/)
+- [100,000 workers take action as 'Striketober' hits the US](https://www.reddit.com/r/news/comments/qb269d/100000_workers_take_action_as_striketober_hits/)
+- [So far, COVID-19 spikes from college football games haven’t materialized](https://www.reddit.com/r/news/comments/qb19b7/so_far_covid19_spikes_from_college_football_games/)
 <!-- REDDIT:END -->
 
 
