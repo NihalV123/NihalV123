@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox News anchor Neil Cavuto tests positive for Covid-19](https://www.reddit.com/r/news/comments/qbo8zu/fox_news_anchor_neil_cavuto_tests_positive_for/)
+- [Leaked Covid-19 report calls for mass homicide charges against Brazilian President Jair Bolsonaro](https://www.reddit.com/r/news/comments/qbmvr1/leaked_covid19_report_calls_for_mass_homicide/)
+- [The National Park Service could soon have its first Native American director](https://www.reddit.com/r/news/comments/qbm769/the_national_park_service_could_soon_have_its/)
+- [US high court won’t block vaccines for Maine health workers](https://www.reddit.com/r/news/comments/qbm724/us_high_court_wont_block_vaccines_for_maine/)
+- [Texas nurse convicted of killing 4 men with air injections](https://www.reddit.com/r/news/comments/qblfyw/texas_nurse_convicted_of_killing_4_men_with_air/)
 <!-- REDDIT:END -->
 
 
