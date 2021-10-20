@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [First responders face termination as vaccine mandates go into effect](https://www.reddit.com/r/news/comments/qbz08o/first_responders_face_termination_as_vaccine/)
+- [Feds: Detroit man charged with locking women in basement, giving them drugs for sex with men](https://www.reddit.com/r/news/comments/qbybzd/feds_detroit_man_charged_with_locking_women_in/)
+- [Taliban won't be allowed access to Afghan central bank reserves -Adeyemo](https://www.reddit.com/r/news/comments/qby2fr/taliban_wont_be_allowed_access_to_afghan_central/)
+- [Cincinnati Zoo vaccinates 80 animals against Covid-19](https://www.reddit.com/r/news/comments/qbxzbw/cincinnati_zoo_vaccinates_80_animals_against/)
+- [German police seize weapons in raid of far-right group](https://www.reddit.com/r/news/comments/qbxw4k/german_police_seize_weapons_in_raid_of_farright/)
 <!-- REDDIT:END -->
 
 
