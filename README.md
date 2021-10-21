@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Parents suing amusement park after 6-year-old girl falls to death on ride](https://www.reddit.com/r/news/comments/qcdpu3/parents_suing_amusement_park_after_6yearold_girl/)
+- [Unvaccinated Minnesotans 30x more likely to die from COVID](https://www.reddit.com/r/news/comments/qcccal/unvaccinated_minnesotans_30x_more_likely_to_die/)
+- [Officers remove man from subway platform after allegedly asking them to wear masks](https://www.reddit.com/r/news/comments/qcbza1/officers_remove_man_from_subway_platform_after/)
+- [FDA OKs mixing COVID vaccines; backs Moderna, J&J boosters](https://www.reddit.com/r/news/comments/qcawdm/fda_oks_mixing_covid_vaccines_backs_moderna_jj/)
+- [USC to apologize for sabotaging its Japanese American students' educations in WWII](https://www.reddit.com/r/news/comments/qc9p5u/usc_to_apologize_for_sabotaging_its_japanese/)
 <!-- REDDIT:END -->
 
 
