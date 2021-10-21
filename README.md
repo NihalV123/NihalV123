@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The leak reveals Saudi Arabia, Japan and Australia are among countries asking the UN to play down the need to move rapidly away from fossil fuels.](https://www.reddit.com/r/news/comments/qckclh/the_leak_reveals_saudi_arabia_japan_and_australia/)
+- [HelloFresh Workers in Richmond Are Trying to Form First Union in 'Meal-Kit' Delivery Industry](https://www.reddit.com/r/news/comments/qciq65/hellofresh_workers_in_richmond_are_trying_to_form/)
+- [NYC mayor 'troubled' by video showing unmasked officers forcibly removing masked subway commuter](https://www.reddit.com/r/news/comments/qcht3q/nyc_mayor_troubled_by_video_showing_unmasked/)
+- [A Black Girl Was Arrested At A School In Hawaii Over A Drawing That Upsets A Parent](https://www.reddit.com/r/news/comments/qcgp5o/a_black_girl_was_arrested_at_a_school_in_hawaii/)
+- [Ex-Minneapolis cop to be resentenced in death of 911 caller](https://www.reddit.com/r/news/comments/qcfqem/exminneapolis_cop_to_be_resentenced_in_death_of/)
 <!-- REDDIT:END -->
 
 
