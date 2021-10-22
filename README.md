@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [People Who Get Fired For Being Unvaccinated In Canada Likely Won't Be Able To Get EI](https://www.reddit.com/r/news/comments/qdlock/people_who_get_fired_for_being_unvaccinated_in/)
+- [Deputies: Man fatally shoots neighbor in dispute over a cat](https://www.reddit.com/r/news/comments/qdkxvv/deputies_man_fatally_shoots_neighbor_in_dispute/)
+- [The Supreme Court will hear a new challenge to Texas' restrictive abortion law](https://www.reddit.com/r/news/comments/qdksrf/the_supreme_court_will_hear_a_new_challenge_to/)
+- [US budget deficit hits $2.77 trillion in 2021, 2nd highest on record](https://www.reddit.com/r/news/comments/qdja3f/us_budget_deficit_hits_277_trillion_in_2021_2nd/)
+- [Elevated lead levels found in Hamtramck Michigan water; distribution of filters happening Thursday](https://www.reddit.com/r/news/comments/qdijuo/elevated_lead_levels_found_in_hamtramck_michigan/)
 <!-- REDDIT:END -->
 
 
