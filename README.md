@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Barbados elects first president, replacing UK Queen as head of state](https://www.reddit.com/r/news/comments/qdfhff/barbados_elects_first_president_replacing_uk/)
+- [DOJ adds 2 top prosecutors to Matt Gaetz investigation, sources say](https://www.reddit.com/r/news/comments/qdepg0/doj_adds_2_top_prosecutors_to_matt_gaetz/)
+- [In corporate crackdown, U.S. SEC takes aim at executive pay](https://www.reddit.com/r/news/comments/qded5i/in_corporate_crackdown_us_sec_takes_aim_at/)
+- [Elephants have evolved to be tuskless in response to ivory poaching, study finds](https://www.reddit.com/r/news/comments/qddg7j/elephants_have_evolved_to_be_tuskless_in_response/)
+- [New Photos Show Horrific Overcrowding at Rikers Island](https://www.reddit.com/r/news/comments/qd96l9/new_photos_show_horrific_overcrowding_at_rikers/)
 <!-- REDDIT:END -->
 
 
