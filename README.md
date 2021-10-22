@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alec Baldwin accidentally discharged prop gun loaded with live rounds, killing cinematographer and injuring director on new movie “Rust”](https://www.reddit.com/r/news/comments/qd7f00/alec_baldwin_accidentally_discharged_prop_gun/)
+- [Syria executes 24 people for starting forest fires that destroyed ancestral home of leader Bashar al-Assad](https://www.reddit.com/r/news/comments/qd563p/syria_executes_24_people_for_starting_forest/)
+- [2 crew members hospitalized after prop gun misfires on set of Alec Baldwin film](https://www.reddit.com/r/news/comments/qd50bn/2_crew_members_hospitalized_after_prop_gun/)
+- [Riverside teacher placed on leave after mimicking Native Americans during math class](https://www.reddit.com/r/news/comments/qd3qx1/riverside_teacher_placed_on_leave_after_mimicking/)
+- [Museum proposes melting Lee statue to make new artwork](https://www.reddit.com/r/news/comments/qd3e1u/museum_proposes_melting_lee_statue_to_make_new/)
 <!-- REDDIT:END -->
 
 
