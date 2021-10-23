@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Warrant: Baldwin didn't know weapon contained live round](https://www.reddit.com/r/news/comments/qdtb0m/warrant_baldwin_didnt_know_weapon_contained_live/)
+- [Giant 4,000 pound sunfish was rescued from a fishing net off the Spanish coast of Ceuta](https://www.reddit.com/r/news/comments/qds012/giant_4000_pound_sunfish_was_rescued_from_a/)
+- [Five UK police officers shared violent sexual images in relation to Sarah Everard's murder, police watchdog says](https://www.reddit.com/r/news/comments/qdr0jb/five_uk_police_officers_shared_violent_sexual/)
+- [Judge issues injunction blocking Wisconsin fall wolf hunt](https://www.reddit.com/r/news/comments/qdqret/judge_issues_injunction_blocking_wisconsin_fall/)
+- [Adobe will put U.S. employees on unpaid leave if they’re not vaccinated by Dec. 8](https://www.reddit.com/r/news/comments/qdq0ro/adobe_will_put_us_employees_on_unpaid_leave_if/)
 <!-- REDDIT:END -->
 
 
