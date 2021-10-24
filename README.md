@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Where are the workers? Cutoff of jobless aid spurs no influx](https://www.reddit.com/r/news/comments/qegvmn/where_are_the_workers_cutoff_of_jobless_aid_spurs/)
+- [White House makes massive change to resettlement program to help Afghan refugees](https://www.reddit.com/r/news/comments/qeg82y/white_house_makes_massive_change_to_resettlement/)
+- [Retirement debt eating up state funding to Louisiana schools](https://www.reddit.com/r/news/comments/qeewc1/retirement_debt_eating_up_state_funding_to/)
+- [Ashland woman suing City, APD, Providence over ‘forced’ catheterization in 2019](https://www.reddit.com/r/news/comments/qednwb/ashland_woman_suing_city_apd_providence_over/)
+- [Body of missing 5-year-old likely found buried in woods, authorities say](https://www.reddit.com/r/news/comments/qeddv6/body_of_missing_5yearold_likely_found_buried_in/)
 <!-- REDDIT:END -->
 
 
