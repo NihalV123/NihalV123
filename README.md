@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dutch psychologist says he sold ‘suicide powder’ to over 100 people](https://www.reddit.com/r/news/comments/qfka0d/dutch_psychologist_says_he_sold_suicide_powder_to/)
+- [Kansas senator makes plea deal in DUI case after driving wrong direction on I-70](https://www.reddit.com/r/news/comments/qfk2v9/kansas_senator_makes_plea_deal_in_dui_case_after/)
+- [Pharmacy labor shortage leads to long waits for prescriptions, missed vaccine shots](https://www.reddit.com/r/news/comments/qfiouv/pharmacy_labor_shortage_leads_to_long_waits_for/)
+- [Nearly half of American companies say they are short on skilled workers](https://www.reddit.com/r/news/comments/qfilgs/nearly_half_of_american_companies_say_they_are/)
+- [Hertz orders 100,000 Model 3 electric vehicles from Tesla](https://www.reddit.com/r/news/comments/qfigxi/hertz_orders_100000_model_3_electric_vehicles/)
 <!-- REDDIT:END -->
 
 
