@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida's top health official booted from meeting after refusing to put on mask](https://www.reddit.com/r/news/comments/qfeyvr/floridas_top_health_official_booted_from_meeting/)
+- [The Facebook Papers: Documents reveal internal fury and dissent over site’s policies](https://www.reddit.com/r/news/comments/qfe8a9/the_facebook_papers_documents_reveal_internal/)
+- [Facebook whistleblower documents offer new revelations about Jan. 6 response](https://www.reddit.com/r/news/comments/qfcghm/facebook_whistleblower_documents_offer_new/)
+- [Officials detained, internet down in possible Sudan coup](https://www.reddit.com/r/news/comments/qfa6p2/officials_detained_internet_down_in_possible/)
+- [A 'triple play' of weather hazards will unfold this week across the US](https://www.reddit.com/r/news/comments/qf8dni/a_triple_play_of_weather_hazards_will_unfold_this/)
 <!-- REDDIT:END -->
 
 
