@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Children are expected to be eligible for the vaccine in early November, Dr. Anthony Fauci says](https://www.reddit.com/r/news/comments/qf8efh/children_are_expected_to_be_eligible_for_the/)
+- [9-year-old has been dead inside SW Houston apartment for a year, 3 other kids were abandoned: HCSO](https://www.reddit.com/r/news/comments/qf7r4k/9yearold_has_been_dead_inside_sw_houston/)
+- [Washington, District of Cats: US capital first city to count its felines](https://www.reddit.com/r/news/comments/qf7l0r/washington_district_of_cats_us_capital_first_city/)
+- [Former Saudi official calls Mohammed bin Salman a "psychopath," says Saudi crown prince fears what he knows](https://www.reddit.com/r/news/comments/qf66qv/former_saudi_official_calls_mohammed_bin_salman_a/)
+- [Ex-Saudi official claims damaging intel against crown prince](https://www.reddit.com/r/news/comments/qf52hn/exsaudi_official_claims_damaging_intel_against/)
 <!-- REDDIT:END -->
 
 
