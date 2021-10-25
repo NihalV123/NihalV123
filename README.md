@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supporters of unvaccinated NBA star Kyrie Irving storm past barricades outside game](https://www.reddit.com/r/news/comments/qf45ap/supporters_of_unvaccinated_nba_star_kyrie_irving/)
+- [Body of missing 26-year-old Texas man found in Grand Teton National Park](https://www.reddit.com/r/news/comments/qf3vzw/body_of_missing_26yearold_texas_man_found_in/)
+- [Two SF Prosecutors Quit & Join Effort to Oust Former Boss, District Attorney Chesa Boudin](https://www.reddit.com/r/news/comments/qf3cvb/two_sf_prosecutors_quit_join_effort_to_oust/)
+- [2 children dead as vehicle plows into spectators at Texas drag racing event](https://www.reddit.com/r/news/comments/qf2oq2/2_children_dead_as_vehicle_plows_into_spectators/)
+- [Homeowner charged in slaying of motorist in his driveway](https://www.reddit.com/r/news/comments/qf2ajv/homeowner_charged_in_slaying_of_motorist_in_his/)
 <!-- REDDIT:END -->
 
 
