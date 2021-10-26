@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [What to know about 'Striketober': Workers seize new power as pandemic wanes](https://www.reddit.com/r/news/comments/qg3ica/what_to_know_about_striketober_workers_seize_new/)
+- [NYPD officers face questions about Eric Garner's death in rare judicial inquiry](https://www.reddit.com/r/news/comments/qg2p3b/nypd_officers_face_questions_about_eric_garners/)
+- [Rise in human bird flu cases in China shows risk of fast-changing variants: experts](https://www.reddit.com/r/news/comments/qg1lyh/rise_in_human_bird_flu_cases_in_china_shows_risk/)
+- [Prince Andrew: Deadline set for depositions in sex assault civil case](https://www.reddit.com/r/news/comments/qg1f9n/prince_andrew_deadline_set_for_depositions_in_sex/)
+- [Investigation finds harsh tactics commonly used by police officers on children across US](https://www.reddit.com/r/news/comments/qfzd0t/investigation_finds_harsh_tactics_commonly_used/)
 <!-- REDDIT:END -->
 
 
