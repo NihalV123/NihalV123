@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas slashes Guard benefits while spending millions to expand border mission](https://www.reddit.com/r/news/comments/qgbtjv/texas_slashes_guard_benefits_while_spending/)
+- [Man arrested in connection with George Floyd statue vandalism in New York City's Union Square](https://www.reddit.com/r/news/comments/qgaejh/man_arrested_in_connection_with_george_floyd/)
+- [TikTok star accused of fatally shooting estranged wife, man in San Diego](https://www.reddit.com/r/news/comments/qg8l51/tiktok_star_accused_of_fatally_shooting_estranged/)
+- [Puerto Ricans resist austerity measures and corporate corruption](https://www.reddit.com/r/news/comments/qg8j42/puerto_ricans_resist_austerity_measures_and/)
+- [Judge halts sale of apartment complex where Black graves were buried beneath parking lot](https://www.reddit.com/r/news/comments/qg7dfb/judge_halts_sale_of_apartment_complex_where_black/)
 <!-- REDDIT:END -->
 
 
