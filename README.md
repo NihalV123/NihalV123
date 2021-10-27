@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Facebook is having a tougher time managing vaccine misinformation than it is letting on, leaks suggest](https://www.reddit.com/r/news/comments/qgnr7p/facebook_is_having_a_tougher_time_managing/)
+- [Tired but determined, 5 young activists continue their hunger strike outside the White House](https://www.reddit.com/r/news/comments/qgmz57/tired_but_determined_5_young_activists_continue/)
+- [Mother, boyfriend arrested in connection with 9-year-old's decomposing body, abandoned brothers](https://www.reddit.com/r/news/comments/qgmuh1/mother_boyfriend_arrested_in_connection_with/)
+- [Federal judge rejects Southwest Airlines pilots’ request to block vaccine mandate](https://www.reddit.com/r/news/comments/qgklnq/federal_judge_rejects_southwest_airlines_pilots/)
+- [2 Georgia law officers indicted in man's 2016 shooting death](https://www.reddit.com/r/news/comments/qgk9vl/2_georgia_law_officers_indicted_in_mans_2016/)
 <!-- REDDIT:END -->
 
 
