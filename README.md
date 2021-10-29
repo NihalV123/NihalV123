@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NAACP to athletes: Don't sign with Texas teams](https://www.reddit.com/r/news/comments/qi3g43/naacp_to_athletes_dont_sign_with_texas_teams/)
+- [Climate change: Major US oil companies face grilling by Congress](https://www.reddit.com/r/news/comments/qi2pzg/climate_change_major_us_oil_companies_face/)
+- [The chief executive of ExxonMobil, Darren Woods, was accused of lying to Congress on Thursday after he denied that the company covered up its own research about oil’s contribution to the climate crisis](https://www.reddit.com/r/news/comments/qi1acb/the_chief_executive_of_exxonmobil_darren_woods/)
+- [Chevron wins case to jail lawyer](https://www.reddit.com/r/news/comments/qi186y/chevron_wins_case_to_jail_lawyer/)
+- [Could planting a trillion trees stop global heating? This man thinks so | Environment](https://www.reddit.com/r/news/comments/qi131d/could_planting_a_trillion_trees_stop_global/)
 <!-- REDDIT:END -->
 
 
