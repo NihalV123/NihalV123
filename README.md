@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [University of Florida prohibits professors from testifying](https://www.reddit.com/r/news/comments/qj4nat/university_of_florida_prohibits_professors_from/)
+- [Maryland retiree wins $2 million lottery prize a second time](https://www.reddit.com/r/news/comments/qj454z/maryland_retiree_wins_2_million_lottery_prize_a/)
+- [Young People Are Leaving Their Jobs in Record Numbers—And Not Going Back](https://www.reddit.com/r/news/comments/qj3vfk/young_people_are_leaving_their_jobs_in_record/)
+- [Riverside Unified School District responds to parent concerns over expired, possible moldy cheese served to students](https://www.reddit.com/r/news/comments/qj3e8h/riverside_unified_school_district_responds_to/)
+- [Earth gets hotter, deadlier during decades of climate talks](https://www.reddit.com/r/news/comments/qj379o/earth_gets_hotter_deadlier_during_decades_of/)
 <!-- REDDIT:END -->
 
 
