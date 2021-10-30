@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Court rules Alabama judge accused of racist, sexist remarks must be removed from office](https://www.reddit.com/r/news/comments/qiozbv/court_rules_alabama_judge_accused_of_racist/)
+- [6 Firefighters Suspended for Taking Truck to Threaten NY Senate Staff Over Vaccine Mandate](https://www.reddit.com/r/news/comments/qiow08/6_firefighters_suspended_for_taking_truck_to/)
+- [Supreme Court declines to block Maine health care employee vaccine mandate](https://www.reddit.com/r/news/comments/qiofg3/supreme_court_declines_to_block_maine_health_care/)
+- [City Commissioner admits membership with Oath Keepers](https://www.reddit.com/r/news/comments/qin31a/city_commissioner_admits_membership_with_oath/)
+- [Kentucky leads nation in ‘The Great Resignation’](https://www.reddit.com/r/news/comments/qilg41/kentucky_leads_nation_in_the_great_resignation/)
 <!-- REDDIT:END -->
 
 
