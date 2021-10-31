@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mister Rogers statue: Florida college honors TV icon's work for children](https://www.reddit.com/r/news/comments/qjclp3/mister_rogers_statue_florida_college_honors_tv/)
+- [Police warn woman not to wear Halloween costume as protest](https://www.reddit.com/r/news/comments/qjbfgk/police_warn_woman_not_to_wear_halloween_costume/)
+- [American Airlines cancels more than 700 flights, citing weather and staffing issues](https://www.reddit.com/r/news/comments/qja22d/american_airlines_cancels_more_than_700_flights/)
+- [Bicyclist attacked during dispute over litter in Edgewater, helmet likely saved life](https://www.reddit.com/r/news/comments/qj9wck/bicyclist_attacked_during_dispute_over_litter_in/)
+- [Mother of 3 abandoned siblings left in a home with their brother's body says she checked on them 'every two weeks'](https://www.reddit.com/r/news/comments/qj9snk/mother_of_3_abandoned_siblings_left_in_a_home/)
 <!-- REDDIT:END -->
 
 
