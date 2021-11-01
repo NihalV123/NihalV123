@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspected gunman surrenders after shooting at Halloween party in Texas kills 1, wounds 9](https://www.reddit.com/r/news/comments/qk2co8/suspected_gunman_surrenders_after_shooting_at/)
+- [White House press secretary Jen Psaki says she has COVID-19](https://www.reddit.com/r/news/comments/qk20qj/white_house_press_secretary_jen_psaki_says_she/)
+- [FDNY: 2,000 Firefighters on Medical Leave in Apparent Protest of Vaccine Mandate](https://www.reddit.com/r/news/comments/qk1goc/fdny_2000_firefighters_on_medical_leave_in/)
+- [Florida educator charged with abuse days after being named Teacher of the Year](https://www.reddit.com/r/news/comments/qk18la/florida_educator_charged_with_abuse_days_after/)
+- [16-year-old dies, another teen injured in Deltona shooting, deputies say](https://www.reddit.com/r/news/comments/qjx25b/16yearold_dies_another_teen_injured_in_deltona/)
 <!-- REDDIT:END -->
 
 
