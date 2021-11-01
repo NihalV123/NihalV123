@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Barclays CEO Jes Staley quits after investigation into links with Jeffrey Epstein](https://www.reddit.com/r/news/comments/qkb4g8/barclays_ceo_jes_staley_quits_after_investigation/)
+- [The COVID-19 pandemic has now killed 5 million people around the world : NPR](https://www.reddit.com/r/news/comments/qkald2/the_covid19_pandemic_has_now_killed_5_million/)
+- [Commercial flights that fly ‘entirely on hydrogen’ planned for 2024](https://www.reddit.com/r/news/comments/qk9uaf/commercial_flights_that_fly_entirely_on_hydrogen/)
+- [Pilot under investigation for saying 'Let's go Brandon' during announcement, Southwest Airlines says](https://www.reddit.com/r/news/comments/qk381n/pilot_under_investigation_for_saying_lets_go/)
+- [A 'number of people' injured after UK train crash, police say](https://www.reddit.com/r/news/comments/qk31jx/a_number_of_people_injured_after_uk_train_crash/)
 <!-- REDDIT:END -->
 
 
