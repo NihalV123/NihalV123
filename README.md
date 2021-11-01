@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kids Covid vaccination program will be ‘fully up and running’ next week, White House says](https://www.reddit.com/r/news/comments/qkj0wz/kids_covid_vaccination_program_will_be_fully_up/)
+- [US prisons face staff shortages as officers quit amid COVID](https://www.reddit.com/r/news/comments/qki1by/us_prisons_face_staff_shortages_as_officers_quit/)
+- [Police investigating desecration of Torah scroll at George Washington University fraternity](https://www.reddit.com/r/news/comments/qkhn9g/police_investigating_desecration_of_torah_scroll/)
+- [21-story building collapses in Lagos, Nigeria](https://www.reddit.com/r/news/comments/qkgt6b/21story_building_collapses_in_lagos_nigeria/)
+- [American cancels more than 2,000 flights since Friday amid staffing issues, bad weather](https://www.reddit.com/r/news/comments/qkgkry/american_cancels_more_than_2000_flights_since/)
 <!-- REDDIT:END -->
 
 
