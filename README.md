@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Half of Beijing’s flights are cancelled as China’s capital city tightens Covid restrictions](https://www.reddit.com/r/news/comments/ql1pzh/half_of_beijings_flights_are_cancelled_as_chinas/)
+- [China urges families to keep stocks of daily necessities ahead of winter](https://www.reddit.com/r/news/comments/ql0hhj/china_urges_families_to_keep_stocks_of_daily/)
+- [U.S. unveils crackdown on methane, starting with oil and gas rules](https://www.reddit.com/r/news/comments/qkwz7z/us_unveils_crackdown_on_methane_starting_with_oil/)
+- [30,000 Visitors Locked Inside Shanghai Disneyland For Hours By Chinese Government After 1 Positive Covid Case](https://www.reddit.com/r/news/comments/qkv1av/30000_visitors_locked_inside_shanghai_disneyland/)
+- [The last hurricane name is being used and the season isn't over yet](https://www.reddit.com/r/news/comments/qkulnu/the_last_hurricane_name_is_being_used_and_the/)
 <!-- REDDIT:END -->
 
 
