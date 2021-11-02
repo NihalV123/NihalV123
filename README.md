@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Radio host gets 3 life prison terms for bilking listeners](https://www.reddit.com/r/news/comments/qkr68k/radio_host_gets_3_life_prison_terms_for_bilking/)
+- [NASA astronauts harvest green chile on the ISS, make space tacos](https://www.reddit.com/r/news/comments/qkqwga/nasa_astronauts_harvest_green_chile_on_the_iss/)
+- [Sheriff's deputy arrested, allegedly murdered wife and child on Halloween](https://www.reddit.com/r/news/comments/qkq819/sheriffs_deputy_arrested_allegedly_murdered_wife/)
+- [Texas woman points gun at 7-year-old for trick-or-treating outside her home](https://www.reddit.com/r/news/comments/qkppwa/texas_woman_points_gun_at_7yearold_for/)
+- [American passenger charged after allegedly punching flight attendant twice](https://www.reddit.com/r/news/comments/qkpea0/american_passenger_charged_after_allegedly/)
 <!-- REDDIT:END -->
 
 
