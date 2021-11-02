@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [30,000 Visitors Locked Inside Shanghai Disneyland For Hours By Chinese Government After 1 Positive Covid Case](https://www.reddit.com/r/news/comments/qkv1av/30000_visitors_locked_inside_shanghai_disneyland/)
+- [Raleigh police detective accused of using fake heroin in drug cases fired](https://www.reddit.com/r/news/comments/qktr13/raleigh_police_detective_accused_of_using_fake/)
+- [Oklahoma parole board recommends clemency for Julius Jones, who is scheduled to be executed for murder he says he didn't commit](https://www.reddit.com/r/news/comments/qktkc8/oklahoma_parole_board_recommends_clemency_for/)
+- [Military weighs penalties for those who refuse COVID vaccine](https://www.reddit.com/r/news/comments/qks2nf/military_weighs_penalties_for_those_who_refuse/)
+- [When your rent goes up 40%. As pandemic fades, many tenants see big hikes](https://www.reddit.com/r/news/comments/qkre3g/when_your_rent_goes_up_40_as_pandemic_fades_many/)
 <!-- REDDIT:END -->
 
 
