@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge: Prince Andrew sex lawsuit trial likely in late 2022](https://www.reddit.com/r/news/comments/qlxngo/judge_prince_andrew_sex_lawsuit_trial_likely_in/)
+- [US woman who killed mom in Bali indicted on US murder charge](https://www.reddit.com/r/news/comments/qlxc21/us_woman_who_killed_mom_in_bali_indicted_on_us/)
+- [Pregnant woman's death puts spotlight on Polish abortion law](https://www.reddit.com/r/news/comments/qlw9lc/pregnant_womans_death_puts_spotlight_on_polish/)
+- [U.S. begins vaccinating its youngest against COVID-19](https://www.reddit.com/r/news/comments/qlvuv3/us_begins_vaccinating_its_youngest_against_covid19/)
+- [Elon Musk says Tesla hasn't signed contract with Hertz for 100,000 EVs](https://www.reddit.com/r/news/comments/qlvtoe/elon_musk_says_tesla_hasnt_signed_contract_with/)
 <!-- REDDIT:END -->
 
 
