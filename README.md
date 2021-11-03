@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Braves capture first title since 1995 after slugging way past Astros in Game 6](https://www.reddit.com/r/news/comments/qlm5ii/braves_capture_first_title_since_1995_after/)
+- [Boston elects Wu, first woman and Asian American as mayor](https://www.reddit.com/r/news/comments/qllby0/boston_elects_wu_first_woman_and_asian_american/)
+- [Adams wins NYC mayoral race; voters focused on police, crime](https://www.reddit.com/r/news/comments/qll4ag/adams_wins_nyc_mayoral_race_voters_focused_on/)
+- [UAW members reject 2nd proposed agreement with John Deere. 10,000 workers to remain on strike.](https://www.reddit.com/r/news/comments/qlkckp/uaw_members_reject_2nd_proposed_agreement_with/)
+- [Minneapolis voters on Tuesday rejected a proposal to replace the city’s police department with a new Department of Public Safety, an idea that supporters hoped would bring radical change to policing in the city where George Floyd’s death under an officer’s knee brought calls for racial justice](https://www.reddit.com/r/news/comments/qlkaja/minneapolis_voters_on_tuesday_rejected_a_proposal/)
 <!-- REDDIT:END -->
 
 
