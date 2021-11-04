@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [West Hollywood City Council votes to hike minimum wage to $17.64 an hour; highest in the country](https://www.reddit.com/r/news/comments/qmpkcs/west_hollywood_city_council_votes_to_hike_minimum/)
+- [Police: Colorado man set home ablaze clearing cobwebs with blowtorch](https://www.reddit.com/r/news/comments/qmoou4/police_colorado_man_set_home_ablaze_clearing/)
+- [Child hospitalised with rabies in Texas in first case for a decade](https://www.reddit.com/r/news/comments/qmooni/child_hospitalised_with_rabies_in_texas_in_first/)
+- [One Black juror, 11 whites to hear trial over Arbery slaying](https://www.reddit.com/r/news/comments/qmnjan/one_black_juror_11_whites_to_hear_trial_over/)
+- [Spending $153, Edward Durr ousts NJ Senate leader Sweeney](https://www.reddit.com/r/news/comments/qmnj6s/spending_153_edward_durr_ousts_nj_senate_leader/)
 <!-- REDDIT:END -->
 
 
