@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Loudoun County school counselor accused of having ‘indecent liberties’ with a student](https://www.reddit.com/r/news/comments/qnfgi2/loudoun_county_school_counselor_accused_of_having/)
+- [State dept: $10M reward for information on DarkSide hackers](https://www.reddit.com/r/news/comments/qnehzq/state_dept_10m_reward_for_information_on_darkside/)
+- [Russian diplomat found dead outside Berlin embassy](https://www.reddit.com/r/news/comments/qndii0/russian_diplomat_found_dead_outside_berlin_embassy/)
+- [Doctors say homeopathic treatment Rodgers reportedly received is not an alternative to COVID-19 vaccine](https://www.reddit.com/r/news/comments/qncp3q/doctors_say_homeopathic_treatment_rodgers/)
+- [All schools in the School District of Beloit closed Friday, protest expected at district building](https://www.reddit.com/r/news/comments/qncdid/all_schools_in_the_school_district_of_beloit/)
 <!-- REDDIT:END -->
 
 
