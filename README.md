@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Newly released FBI tapes show white supremacist members of 'The Base' plotting terror attacks](https://www.reddit.com/r/news/comments/qmyhvf/newly_released_fbi_tapes_show_white_supremacist/)
+- [Guests, hotel staff forced to hide as gunmen kill 2 at Cancun beach resort](https://www.reddit.com/r/news/comments/qmxma4/guests_hotel_staff_forced_to_hide_as_gunmen_kill/)
+- [U.S. Justice Dept sues Texas over law curbing voting](https://www.reddit.com/r/news/comments/qmwbuq/us_justice_dept_sues_texas_over_law_curbing_voting/)
+- [Florida man accused of attacking pregnant nurse, resulting in death of unborn baby](https://www.reddit.com/r/news/comments/qmvf99/florida_man_accused_of_attacking_pregnant_nurse/)
+- [Loudoun County sheriff on sexual assaults: Superintendent 'knew exactly what was going on'](https://www.reddit.com/r/news/comments/qmvagn/loudoun_county_sheriff_on_sexual_assaults/)
 <!-- REDDIT:END -->
 
 
