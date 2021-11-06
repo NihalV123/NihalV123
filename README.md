@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No toilet for returning SpaceX crew, stuck using diapers](https://www.reddit.com/r/news/comments/qo4paa/no_toilet_for_returning_spacex_crew_stuck_using/)
+- [U.S. orders non-emergency government employees in Ethiopia to leave](https://www.reddit.com/r/news/comments/qo39mz/us_orders_nonemergency_government_employees_in/)
+- [California law school, named for a man who funded the killing of Native Americans, moves to change its name](https://www.reddit.com/r/news/comments/qo2h9u/california_law_school_named_for_a_man_who_funded/)
+- [Restaurants face new challenge: A shortage of take-out containers and coffee cups](https://www.reddit.com/r/news/comments/qo23ex/restaurants_face_new_challenge_a_shortage_of/)
+- [Ohio to pay $17.5 million to man who was paralyzed after he was tackled by prison guards](https://www.reddit.com/r/news/comments/qo1tuv/ohio_to_pay_175_million_to_man_who_was_paralyzed/)
 <!-- REDDIT:END -->
 
 
