@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wife shocked to learn husband’s cadaver dissected at pay-per-view event](https://www.reddit.com/r/news/comments/qnr4ic/wife_shocked_to_learn_husbands_cadaver_dissected/)
+- [COVID-19 denier and conspiracy theorist Mak Parhar dead at 48](https://www.reddit.com/r/news/comments/qnqnx0/covid19_denier_and_conspiracy_theorist_mak_parhar/)
+- [Driver walks free after hitting six cyclists, killing one in Liberty County](https://www.reddit.com/r/news/comments/qnppcv/driver_walks_free_after_hitting_six_cyclists/)
+- [FBI searches homes tied to Project Veritas over diary probe](https://www.reddit.com/r/news/comments/qnpd8w/fbi_searches_homes_tied_to_project_veritas_over/)
+- [Covid-19 hospitalizations are rising in Colorado, which has fewer than 100 open ICU beds](https://www.reddit.com/r/news/comments/qnozww/covid19_hospitalizations_are_rising_in_colorado/)
 <!-- REDDIT:END -->
 
 
