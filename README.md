@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oil tanker explodes in Sierra Leone, killing at least 92](https://www.reddit.com/r/news/comments/qnyh4w/oil_tanker_explodes_in_sierra_leone_killing_at/)
+- [Dutch man bitten by snake on toilet undergoes reconstructive surgery](https://www.reddit.com/r/news/comments/qnxidj/dutch_man_bitten_by_snake_on_toilet_undergoes/)
+- [8 DEAD AT ASTROWORLD FEST FRIDAY NIGHT, HOURS AFTER STAMPEDE](https://www.reddit.com/r/news/comments/qnuon6/8_dead_at_astroworld_fest_friday_night_hours/)
+- [Gene linked to doubling risk of COVID-19 death found by UK scientists](https://www.reddit.com/r/news/comments/qnumj8/gene_linked_to_doubling_risk_of_covid19_death/)
+- [Wife shocked to learn husband’s cadaver dissected at pay-per-view event](https://www.reddit.com/r/news/comments/qnr4ic/wife_shocked_to_learn_husbands_cadaver_dissected/)
 <!-- REDDIT:END -->
 
 
