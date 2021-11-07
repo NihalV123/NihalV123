@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Astroworld: Victims named as police probe US festival crush](https://www.reddit.com/r/news/comments/qot5gq/astroworld_victims_named_as_police_probe_us/)
+- [Catalytic converter thefts rampant in the Bay Area](https://www.reddit.com/r/news/comments/qos495/catalytic_converter_thefts_rampant_in_the_bay_area/)
+- [Man found naked inside wall of New York state theatre](https://www.reddit.com/r/news/comments/qory21/man_found_naked_inside_wall_of_new_york_state/)
+- [Proof of vax required as strict mandate takes effect in LA](https://www.reddit.com/r/news/comments/qorm5t/proof_of_vax_required_as_strict_mandate_takes/)
+- [Sudan coup: Teachers tear-gassed at protest in Khartoum](https://www.reddit.com/r/news/comments/qopt26/sudan_coup_teachers_teargassed_at_protest_in/)
 <!-- REDDIT:END -->
 
 
