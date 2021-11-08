@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [COVID: Austria restricts unvaccinated people from public spaces](https://www.reddit.com/r/news/comments/qpb7ag/covid_austria_restricts_unvaccinated_people_from/)
+- [‘‘Convert to Hinduism or die’ Rising fanatics attack churches, assault, burn Bibles](https://www.reddit.com/r/news/comments/qpafx7/convert_to_hinduism_or_die_rising_fanatics_attack/)
+- [&#39;Nimblewill Nomad,&#39; 83, is oldest to hike Appalachian Trail](https://www.reddit.com/r/news/comments/qp7wow/nimblewill_nomad_83_is_oldest_to_hike_appalachian/)
+- [Elon Musk faces a $15 billion tax bill, which is likely the real reason he&#39;s selling stock.](https://www.reddit.com/r/news/comments/qp718c/elon_musk_faces_a_15_billion_tax_bill_which_is/)
+- [Delta commits $1 billion to become first carbon neutral airline globally](https://www.reddit.com/r/news/comments/qp68ox/delta_commits_1_billion_to_become_first_carbon/)
 <!-- REDDIT:END -->
 
 
