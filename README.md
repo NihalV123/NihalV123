@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rapper Roddy Ricch to donate his earnings from Astroworld Festival to families of victims who died at the event](https://www.reddit.com/r/news/comments/qp12hp/rapper_roddy_ricch_to_donate_his_earnings_from/)
+- [Shaq, police announce $30,000 reward for info on suspect who shot officer](https://www.reddit.com/r/news/comments/qoysqc/shaq_police_announce_30000_reward_for_info_on/)
+- [US to reopen borders to vaccinated travellers after 20 months](https://www.reddit.com/r/news/comments/qoxx2y/us_to_reopen_borders_to_vaccinated_travellers/)
+- [Travis Scott Sued Over ‘Predictable And Preventable’ Astroworld Tragedy](https://www.reddit.com/r/news/comments/qoxici/travis_scott_sued_over_predictable_and/)
+- [Update: Cornell issues "evacuate and avoid" order for four campus buildings after bomb threat](https://www.reddit.com/r/news/comments/qowx6e/update_cornell_issues_evacuate_and_avoid_order/)
 <!-- REDDIT:END -->
 
 
