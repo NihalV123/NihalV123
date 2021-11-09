@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Travis Scott cancels Day N Vegas Festival appearance as online petitions call for performance bans](https://www.reddit.com/r/news/comments/qq8smq/travis_scott_cancels_day_n_vegas_festival/)
+- [Americans have never been in so much debt](https://www.reddit.com/r/news/comments/qq8ih2/americans_have_never_been_in_so_much_debt/)
+- [Hundreds of children 5-to-11 get COVID-19 vaccine across Central Texas](https://www.reddit.com/r/news/comments/qq754h/hundreds_of_children_5to11_get_covid19_vaccine/)
+- [Metallurgist admits faking steel tests for US subs - BBC News](https://www.reddit.com/r/news/comments/qq6ljf/metallurgist_admits_faking_steel_tests_for_us/)
+- [Chilean president impeached over Pandora Papers revelation](https://www.reddit.com/r/news/comments/qq5y47/chilean_president_impeached_over_pandora_papers/)
 <!-- REDDIT:END -->
 
 
