@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man caught on camera setting fire to Pulse nightclub memorial](https://www.reddit.com/r/news/comments/qpq30m/man_caught_on_camera_setting_fire_to_pulse/)
+- [DNA on beer cans leads to suspect in 1996 death of Florida store clerk stabbed 73 times](https://www.reddit.com/r/news/comments/qpougt/dna_on_beer_cans_leads_to_suspect_in_1996_death/)
+- [Mother and toddler survive over 100 foot fall while hiking in Oregon](https://www.reddit.com/r/news/comments/qporc5/mother_and_toddler_survive_over_100_foot_fall/)
+- [Robinhood Notifies Public of Security Breach, 7 Million Individuals Impacted](https://www.reddit.com/r/news/comments/qpo03b/robinhood_notifies_public_of_security_breach_7/)
+- [Former NY police chief faces criminal charges for crash](https://www.reddit.com/r/news/comments/qpn5lv/former_ny_police_chief_faces_criminal_charges_for/)
 <!-- REDDIT:END -->
 
 
