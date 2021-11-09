@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 former police officers who used Tasers on man over 50 times convicted of murder](https://www.reddit.com/r/news/comments/qq0njp/2_former_police_officers_who_used_tasers_on_man/)
+- [Fortnite Pulls the Travis Scott Emote After Astroworld Concert Tragedy](https://www.reddit.com/r/news/comments/qpz7rs/fortnite_pulls_the_travis_scott_emote_after/)
+- [Teen driver who plowed into bicyclists faces 6 felony charges, authorities say](https://www.reddit.com/r/news/comments/qpuarl/teen_driver_who_plowed_into_bicyclists_faces_6/)
+- [NYPD sergeant opened fire at Queens karaoke bar during fight over alleged sex deal: reports | amNewYork](https://www.reddit.com/r/news/comments/qpu16j/nypd_sergeant_opened_fire_at_queens_karaoke_bar/)
+- [FBI says it has arrested a &#39;suspected serial killer&#39; responsible for deaths in Missouri and Kansas](https://www.reddit.com/r/news/comments/qptvnr/fbi_says_it_has_arrested_a_suspected_serial/)
 <!-- REDDIT:END -->
 
 
