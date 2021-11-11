@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Learn to code FAST ⚡, Choose a DB in 9.49 min ⌛, BEST Blog app with React ⚛](https://www.youtube.com/watch?v=KZGzo0bkiLY)
-- [Top VS Code Updates | v1.62 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=JENei5X1vzs)
-- [STACKr News Weekly: What is DevOps? 🤔 Next.js 12 💪, Mr. Beast Collab! 🌊](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [API Crash Course - Integrate, Build, &amp; Sell an API $$$ &lpar;EASY!&rpar;](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let&#39;s Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
+- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
+- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
+- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
+- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
+- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
@@ -330,46 +330,45 @@ Top 4 most used languages across your repositories:
 ### WORDPRESS
 
 <!-- WORDPRESS:START -->
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 - [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
 - [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
+- [Accelerate your startup with the support of big companies!](https://www.gautamkrishnar.com/accelerate-your-startup/)
 <!-- WORDPRESS:END -->
 
 ### INDIAN
 
 <!-- INDIAN:START -->
-- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/)
+- [Deploying Machine Learning Models In Android Apps Using Python](https://analyticsindiamag.com/deploying-machine-learning-models-in-android-apps-using-python/?utm_source=rss&utm_medium=rss&utm_campaign=deploying-machine-learning-models-in-android-apps-using-python)
 <!-- INDIAN:END -->
 
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Federal judge rules Texas school mask ban violates Americans with Disabilities Act](https://www.reddit.com/r/news/comments/qrb83u/federal_judge_rules_texas_school_mask_ban/)
-- [Judge gives final approval of $626 million settlement for people affected by Flint water crisis](https://www.reddit.com/r/news/comments/qrai8f/judge_gives_final_approval_of_626_million/)
-- [Texas schools can again set face mask rules after federal judge overrules Abbott’s ban](https://www.reddit.com/r/news/comments/qr8w5p/texas_schools_can_again_set_face_mask_rules_after/)
-- [Astroworld Security Guard Was Not Injected In Neck, Police Now Say](https://www.reddit.com/r/news/comments/qr8kmf/astroworld_security_guard_was_not_injected_in/)
-- [Elon Musk sells over $1.1 billion of Tesla stock](https://www.reddit.com/r/news/comments/qr86s4/elon_musk_sells_over_11_billion_of_tesla_stock/)
+- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
+- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
+- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
+- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
+- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
 <!-- REDDIT:END -->
 
 
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Wassword: wonderful password generator built in Flutter](https://blog.albertobonacina.com/wassword-wonderful-password-generator-built-in-flutter)
-- [Building a Post Scheduling App with HarperDB &amp; Flutter](https://blog.albertobonacina.com/building-a-post-scheduling-app-with-harperdb-and-flutter)
-- [Create a Simple Responsive GridView with Flutter](https://blog.albertobonacina.com/create-a-simple-responsive-gridview-with-flutter)
-- [Create a Simple Contact App with Faker &amp; Flutter](https://blog.albertobonacina.com/create-a-simple-contact-app-with-faker-and-flutter)
-- [Create a Simple Timetable App with JSON &amp; Flutter](https://blog.albertobonacina.com/create-a-simple-timetable-app-with-json-and-flutter)
+- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
+- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
+- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
+- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
+- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
 
 <!-- ANCHOR:START -->
-- [A hack to become exponentially better at everything you do!](https://anchor.fm/laii/episodes/A-hack-to-become-exponentially-better-at-everything-you-do-e128jkv)
 - [A hack to happiness!](https://anchor.fm/laii/episodes/A-hack-to-happiness-ek7uuc)
-- [I quit social media for 30 days &amp; here&#39;s what I learned](https://anchor.fm/laii/episodes/I-quit-social-media-for-30-days--heres-what-I-learned-eg0j3d)
+- [I quit social media for 30 days & here's what I learned](https://anchor.fm/laii/episodes/I-quit-social-media-for-30-days--heres-what-I-learned-eg0j3d)
 - [Introduction](https://anchor.fm/laii/episodes/Introduction-ed8chg)
 <!-- ANCHOR:END -->
 
@@ -386,53 +385,51 @@ Top 4 most used languages across your repositories:
 - [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
 - [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/)
 - [An Exercise Program for the Fat Web](https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/)
-- [The Cloud Is Just Someone Else&#39;s Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
+- [The Cloud Is Just Someone Else's Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
 <!-- GHOST:END -->
 
 ### STACKEXCHANGE
 
 <!-- STACKEXCHANGE:START -->
-- [Answer by Gepser - for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
-- [Answer by Gepser - for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
-- [Answer by Gepser - for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
+- [Answer by Gepser for Health monitoring of web pages without using GET check](https://devops.stackexchange.com/questions/4263/health-monitoring-of-web-pages-without-using-get-check/4266#4266)
+- [Answer by Gepser for How can I become a DevOps Engineer?](https://devops.stackexchange.com/questions/3884/how-can-i-become-a-devops-engineer/3885#3885)
+- [Answer by Gepser for How to upgrade job-dsl files to Jenkins 2 pipelines?](https://devops.stackexchange.com/questions/104/how-to-upgrade-job-dsl-files-to-jenkins-2-pipelines/107#107)
 - [How to create a host on a DigitalOcean team with Terraform?](https://devops.stackexchange.com/questions/60/how-to-create-a-host-on-a-digitalocean-team-with-terraform)
-- [Answer by Gepser - for How do you back up Jenkins jobs &amp; master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
+- [Answer by Gepser for How do you back up Jenkins jobs & master configs?](https://devops.stackexchange.com/questions/21/how-do-you-back-up-jenkins-jobs-master-configs/27#27)
 <!-- STACKEXCHANGE:END -->
 
 ### My Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Por que escrever é importante pra sua carreira?](https://blog.lsantos.dev/por-que-escrever-e-importante-pra-sua-carreira/)
-- [O que eu aprendi depois de 150 palestras](https://blog.lsantos.dev/150-palestras/)
-- [10 coisas que você não sabia que o NPM era capaz de fazer](https://blog.lsantos.dev/npm-10-comandos/)
-- [5 coisas pra você saber antes de palestrar: Call For Papers](https://blog.lsantos.dev/5-dicas-de-cfp/)
-- [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://blog.lsantos.dev/temporal-api/)
+- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
+- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
+- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
+- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 
 <!-- FCC:START -->
-- [What is a Helm Chart? A Tutorial for Kubernetes Beginners](https://www.freecodecamp.org/news/what-is-a-helm-chart-tutorial-for-kubernetes-beginners/)
-- [What is Docker Used For? A Docker Container Tutorial for Beginners](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 - [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
 <!-- FCC:END -->
 
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://dev.to/azure/temporal-a-nova-forma-de-se-trabalhar-com-datas-em-javascript-3mfl)
-- [O que há de novo no TypeScript 4.4](https://dev.to/azure/o-que-ha-de-novo-no-typescript-4-4-14cj)
-- [Conheça o SparkPlug, o novo compilador de JS do V8](https://dev.to/azure/conheca-o-sparkplug-o-novo-compilador-de-js-do-v8-4mk4)
-- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
-- [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
+- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
+- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
+- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
+- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
+- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
 <!-- DEVTO:END -->
 
 ### Medium
@@ -442,7 +439,6 @@ Top 4 most used languages across your repositories:
 - [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
 - [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
 - [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
-- [Como é trabalhar como desenvolvedor backend, por Luiz Felipe Limeira](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-backend-por-luiz-felipe-limeira-f795edc4fe48?source=rss-84c42a22cef7------2)
 <!-- MEDIUM:END -->
 
  ---
