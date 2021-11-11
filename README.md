@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal judge rules Texas school mask ban violates Americans with Disabilities Act](https://www.reddit.com/r/news/comments/qrb83u/federal_judge_rules_texas_school_mask_ban/)
+- [Judge gives final approval of $626 million settlement for people affected by Flint water crisis](https://www.reddit.com/r/news/comments/qrai8f/judge_gives_final_approval_of_626_million/)
+- [Texas schools can again set face mask rules after federal judge overrules Abbott’s ban](https://www.reddit.com/r/news/comments/qr8w5p/texas_schools_can_again_set_face_mask_rules_after/)
+- [Astroworld Security Guard Was Not Injected In Neck, Police Now Say](https://www.reddit.com/r/news/comments/qr8kmf/astroworld_security_guard_was_not_injected_in/)
+- [Elon Musk sells over $1.1 billion of Tesla stock](https://www.reddit.com/r/news/comments/qr86s4/elon_musk_sells_over_11_billion_of_tesla_stock/)
 <!-- REDDIT:END -->
 
 
