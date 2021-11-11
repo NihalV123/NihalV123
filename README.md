@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ghislaine Maxwell loses bid to bar psychologist from testifying at sex crimes trial](https://www.reddit.com/r/news/comments/qr6zse/ghislaine_maxwell_loses_bid_to_bar_psychologist/)
+- [Man gets 28 years for leaving his daughter to die in burning car during a police chase](https://www.reddit.com/r/news/comments/qr50pw/man_gets_28_years_for_leaving_his_daughter_to_die/)
+- [‘Cotton candy’ lobster, estimated to be 1 in 100 million, caught off coast of Maine, will be fostered by aquarium](https://www.reddit.com/r/news/comments/qr4rjk/cotton_candy_lobster_estimated_to_be_1_in_100/)
+- [A second witness testifies Gregory McMichael didn&#39;t know whether Arbery had committed a crime prior to pursuit](https://www.reddit.com/r/news/comments/qr4plk/a_second_witness_testifies_gregory_mcmichael/)
+- [Rittenhouse murder case thrown into jeopardy by mistrial bid](https://www.reddit.com/r/news/comments/qr3pj0/rittenhouse_murder_case_thrown_into_jeopardy_by/)
 <!-- REDDIT:END -->
 
 
