@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richard &quot;Lowtax&quot; Kyanka, The Creator of Something Awful, Has Passed Away](https://www.reddit.com/r/news/comments/qrai5o/richard_lowtax_kyanka_the_creator_of_something/)
+- [Kmart is closing its last Michigan store; will have only a handful of US locations by year&#39;s end](https://www.reddit.com/r/news/comments/qracf3/kmart_is_closing_its_last_michigan_store_will/)
+- [Beyond Meat shares crater as losses mount, company expects weak U.S. sales growth ahead](https://www.reddit.com/r/news/comments/qr9ma8/beyond_meat_shares_crater_as_losses_mount_company/)
+- [Texas schools can again set face mask rules after federal judge overrules Abbott’s ban](https://www.reddit.com/r/news/comments/qr8w5p/texas_schools_can_again_set_face_mask_rules_after/)
+- [Astroworld Security Guard Was Not Injected In Neck, Police Now Say](https://www.reddit.com/r/news/comments/qr8kmf/astroworld_security_guard_was_not_injected_in/)
 <!-- REDDIT:END -->
 
 
