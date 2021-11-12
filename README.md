@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;We don&#39;t want any more Black pastors coming in here,&#39; says defense attorney in Arbery death trial](https://www.reddit.com/r/news/comments/qrxs5l/we_dont_want_any_more_black_pastors_coming_in/)
+- [Defense rests its case at murder trial of Kyle Rittenhouse](https://www.reddit.com/r/news/comments/qrwr2w/defense_rests_its_case_at_murder_trial_of_kyle/)
+- [FDA recalls 2 million popular at-home COVID-19 tests due to false positives](https://www.reddit.com/r/news/comments/qrvcal/fda_recalls_2_million_popular_athome_covid19/)
+- [LAPD chief ready to fire officers who defy vaccine mandate](https://www.reddit.com/r/news/comments/qrv9nw/lapd_chief_ready_to_fire_officers_who_defy/)
+- [In Portugal, it&#39;s now illegal for your boss to call outside work hours](https://www.reddit.com/r/news/comments/qrux9z/in_portugal_its_now_illegal_for_your_boss_to_call/)
 <!-- REDDIT:END -->
 
 
