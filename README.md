@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rare Antarctic penguin accidentally travels 3,000km to New Zealand](https://www.reddit.com/r/news/comments/qsfjjr/rare_antarctic_penguin_accidentally_travels/)
+- [Russia sends paratroopers to Belarus for drills near Poland](https://www.reddit.com/r/news/comments/qse7m3/russia_sends_paratroopers_to_belarus_for_drills/)
+- [$10K reward for information in highway shooting death of 2-year-old Fremont boy](https://www.reddit.com/r/news/comments/qse28s/10k_reward_for_information_in_highway_shooting/)
+- [Mark Meadows faces contempt referral after failure to show for deposition | US Capitol attack](https://www.reddit.com/r/news/comments/qsdwd7/mark_meadows_faces_contempt_referral_after/)
+- [New York Man Arrested After Death Threat to GOP Congressman](https://www.reddit.com/r/news/comments/qsdnwn/new_york_man_arrested_after_death_threat_to_gop/)
 <!-- REDDIT:END -->
 
 
