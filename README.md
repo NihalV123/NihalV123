@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New therapy harnesses &quot;dancing molecules&quot; to reverse paralysis, repair tissue after spinal cord injuries](https://www.reddit.com/r/news/comments/qs8ue6/new_therapy_harnesses_dancing_molecules_to/)
+- [14-year-old Jashyah Moore has been found in New York after she went missing nearly a month ago](https://www.reddit.com/r/news/comments/qs8k4r/14yearold_jashyah_moore_has_been_found_in_new/)
+- [Black teen allegedly shocked with Taser by students dressed as KKK members in Woodsboro](https://www.reddit.com/r/news/comments/qs7wui/black_teen_allegedly_shocked_with_taser_by/)
+- [Olympic gold medalist Suni Lee says she was pepper-sprayed in a racist attack](https://www.reddit.com/r/news/comments/qs1whv/olympic_gold_medalist_suni_lee_says_she_was/)
+- [Evergrande bond payments again sugar-coated by anonymous sources, but bankruptcy could come in matter of days](https://www.reddit.com/r/news/comments/qs0f3t/evergrande_bond_payments_again_sugarcoated_by/)
 <!-- REDDIT:END -->
 
 
