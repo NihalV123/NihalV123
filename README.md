@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CEO who threw chair inside Capitol on Jan. 6 gets jail time](https://www.reddit.com/r/news/comments/qsn9mv/ceo_who_threw_chair_inside_capitol_on_jan_6_gets/)
+- [Britney Spears&#39; conservatorship is brought to an end after 13 years](https://www.reddit.com/r/news/comments/qsmbnt/britney_spears_conservatorship_is_brought_to_an/)
+- [Jury to get to weigh some lesser charges in Rittenhouse case](https://www.reddit.com/r/news/comments/qslue6/jury_to_get_to_weigh_some_lesser_charges_in/)
+- [Federal grand jury has indicted former Trump adviser Steve Bannon](https://www.reddit.com/r/news/comments/qsko9u/federal_grand_jury_has_indicted_former_trump/)
+- [Parents call for resignation of Scottsdale school board president after dossier discovered](https://www.reddit.com/r/news/comments/qsj9q1/parents_call_for_resignation_of_scottsdale_school/)
 <!-- REDDIT:END -->
 
 
