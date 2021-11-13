@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California police officer dies of Covid while on leave for missing vaccination deadline](https://www.reddit.com/r/news/comments/qszmm2/california_police_officer_dies_of_covid_while_on/)
+- [US announces big hike in Medicare premiums](https://www.reddit.com/r/news/comments/qsyu00/us_announces_big_hike_in_medicare_premiums/)
+- [Washington state kicks off &#39;Joints for Jabs&#39; to promote COVID-19 vaccinations](https://www.reddit.com/r/news/comments/qsy1i8/washington_state_kicks_off_joints_for_jabs_to/)
+- [Sister told police that parents accused of murdering daughter, 6, kept girl in cage](https://www.reddit.com/r/news/comments/qswugh/sister_told_police_that_parents_accused_of/)
+- [North Carolina man wrongfully imprisoned for 24 years pardoned | US news](https://www.reddit.com/r/news/comments/qsuudc/north_carolina_man_wrongfully_imprisoned_for_24/)
 <!-- REDDIT:END -->
 
 
