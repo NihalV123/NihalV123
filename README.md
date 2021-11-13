@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Free at last, Britney Spears calls end of conservatorship &#39;best day ever&#39;](https://www.reddit.com/r/news/comments/qst46f/free_at_last_britney_spears_calls_end_of/)
+- [10-year-old Utah Black and autistic student dies by suicide weeks after scathing DOJ report on school district](https://www.reddit.com/r/news/comments/qsszz3/10yearold_utah_black_and_autistic_student_dies_by/)
+- [Chicago closes schools for a day so students can get vaccinated](https://www.reddit.com/r/news/comments/qsq5om/chicago_closes_schools_for_a_day_so_students_can/)
+- [Officer: Ahmaud Arbery would have received trespass warning](https://www.reddit.com/r/news/comments/qsnzkk/officer_ahmaud_arbery_would_have_received/)
+- [CEO who threw chair inside Capitol on Jan. 6 gets jail time](https://www.reddit.com/r/news/comments/qsn9mv/ceo_who_threw_chair_inside_capitol_on_jan_6_gets/)
 <!-- REDDIT:END -->
 
 
