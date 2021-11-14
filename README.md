@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ecuador battle between prison gangs leaves at least 68 dead](https://www.reddit.com/r/news/comments/qtcils/ecuador_battle_between_prison_gangs_leaves_at/)
+- [Ukraine says Russia has nearly 100,000 troops near its border](https://www.reddit.com/r/news/comments/qtbfth/ukraine_says_russia_has_nearly_100000_troops_near/)
+- [Hackers compromise FBI&#39;s external email system - Bloomberg News](https://www.reddit.com/r/news/comments/qtb0lc/hackers_compromise_fbis_external_email_system/)
+- [U.S. military hid airstrikes that killed dozens of civilians in Syria](https://www.reddit.com/r/news/comments/qtaxx4/us_military_hid_airstrikes_that_killed_dozens_of/)
+- [Massachusetts high school students hold walkout to protest racist video by a White classmate](https://www.reddit.com/r/news/comments/qt9oh1/massachusetts_high_school_students_hold_walkout/)
 <!-- REDDIT:END -->
 
 
