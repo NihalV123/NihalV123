@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [School district investigating after Utah teacher turns Veterans Day speech into message against COVID-19 vaccine, socialism](https://www.reddit.com/r/news/comments/qtim9l/school_district_investigating_after_utah_teacher/)
+- [Three snow leopards die of COVID-19 at Nebraska zoo](https://www.reddit.com/r/news/comments/qtidpb/three_snow_leopards_die_of_covid19_at_nebraska_zoo/)
+- [Oklahoma Guard goes rogue, rejects COVID vaccine mandate after sudden change of command](https://www.reddit.com/r/news/comments/qth7o9/oklahoma_guard_goes_rogue_rejects_covid_vaccine/)
+- [Cuban president: Cuba is a nation of peace and does not give in to pressure, blackmail](https://www.reddit.com/r/news/comments/qtg2bu/cuban_president_cuba_is_a_nation_of_peace_and/)
+- [NH student suspended for ‘only two genders’ comment sues school](https://www.reddit.com/r/news/comments/qtfvoc/nh_student_suspended_for_only_two_genders_comment/)
 <!-- REDDIT:END -->
 
 
