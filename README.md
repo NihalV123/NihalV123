@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ghislaine Maxwell finally goes on trial after 15 months on remand](https://www.reddit.com/r/news/comments/qtuelp/ghislaine_maxwell_finally_goes_on_trial_after_15/)
+- [Southwest Airlines employee hospitalized after passenger punched her, police say](https://www.reddit.com/r/news/comments/qtu4e6/southwest_airlines_employee_hospitalized_after/)
+- [Terminally ill man arrested for mooning speed camera &#39;inspires&#39; new &#39;Banksy&#39; Bart Simpson mural](https://www.reddit.com/r/news/comments/qttw62/terminally_ill_man_arrested_for_mooning_speed/)
+- [Historians found a WWI bunker ‘frozen in time’ in the Alps. Climate change makes it a bittersweet discovery.](https://www.reddit.com/r/news/comments/qtttuj/historians_found_a_wwi_bunker_frozen_in_time_in/)
+- [Howard students are living in tents to avoid the mold, roach and mice infestation in their dorms](https://www.reddit.com/r/news/comments/qtts5j/howard_students_are_living_in_tents_to_avoid_the/)
 <!-- REDDIT:END -->
 
 
