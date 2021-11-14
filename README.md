@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scorpions kill three and injure hundreds in Egypt](https://www.reddit.com/r/news/comments/qtmprc/scorpions_kill_three_and_injure_hundreds_in_egypt/)
+- [A record 4.4 million Americans quit their jobs in September](https://www.reddit.com/r/news/comments/qtletr/a_record_44_million_americans_quit_their_jobs_in/)
+- [&#39;Evil roaming’: Texas trial set for man charged in 18 deaths](https://www.reddit.com/r/news/comments/qtk1ja/evil_roaming_texas_trial_set_for_man_charged_in/)
+- [Utah doctor accused of lying for Denali helicopter rescue](https://www.reddit.com/r/news/comments/qtjo3t/utah_doctor_accused_of_lying_for_denali/)
+- [School district investigating after Utah teacher turns Veterans Day speech into message against COVID-19 vaccine, socialism](https://www.reddit.com/r/news/comments/qtim9l/school_district_investigating_after_utah_teacher/)
 <!-- REDDIT:END -->
 
 
