@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The 9-year-old boy injured at the Astroworld Festival has died, family attorney says, bringing the death toll to 10](https://www.reddit.com/r/news/comments/qu8ofu/the_9yearold_boy_injured_at_the_astroworld/)
+- [Astroworld Festival tragedy: 9-year-old Ezra Blount injured at Travis Scott concert dies from his injuries](https://www.reddit.com/r/news/comments/qu5m4c/astroworld_festival_tragedy_9yearold_ezra_blount/)
+- [Lawrence anti-mask protester arrested at vaccine clinic for children](https://www.reddit.com/r/news/comments/qu2o48/lawrence_antimask_protester_arrested_at_vaccine/)
+- [Gunmen in Mexico kill family of 5, wound 8-month old baby](https://www.reddit.com/r/news/comments/qu2fcj/gunmen_in_mexico_kill_family_of_5_wound_8month/)
+- [This library lets you borrow people instead of books. It just may help bridge our bitter divisions](https://www.reddit.com/r/news/comments/qtzqyo/this_library_lets_you_borrow_people_instead_of/)
 <!-- REDDIT:END -->
 
 
