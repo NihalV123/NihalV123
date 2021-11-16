@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Activision Blizzard shares drop after report CEO allegedly knew about sexual misconduct](https://www.reddit.com/r/news/comments/qvd9go/activision_blizzard_shares_drop_after_report_ceo/)
+- [San Francisco East Bay diamond store cleaned out; nine robbers wearing masks and hoodies stole nearly everything](https://www.reddit.com/r/news/comments/qvcwww/san_francisco_east_bay_diamond_store_cleaned_out/)
+- [Girl, 16, says she was raped by hundreds of men in western India](https://www.reddit.com/r/news/comments/qvcd10/girl_16_says_she_was_raped_by_hundreds_of_men_in/)
+- [UK rents ‘rising at fastest pace in 13 years’](https://www.reddit.com/r/news/comments/qvbokh/uk_rents_rising_at_fastest_pace_in_13_years/)
+- [There will be no airlift: U.S. urges Americans to leave Ethiopia now](https://www.reddit.com/r/news/comments/qvbc1a/there_will_be_no_airlift_us_urges_americans_to/)
 <!-- REDDIT:END -->
 
 
