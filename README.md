@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vancouver is now completely cut off from the rest of Canada by road](https://www.reddit.com/r/news/comments/quu71i/vancouver_is_now_completely_cut_off_from_the_rest/)
+- [Amazon settles California claims it concealed COVID-19 cases from workers](https://www.reddit.com/r/news/comments/qutgn4/amazon_settles_california_claims_it_concealed/)
+- [United Airlines resumes hard liquor sales](https://www.reddit.com/r/news/comments/qus8dc/united_airlines_resumes_hard_liquor_sales/)
+- [South Dakota lawmakers launch impeachment investigation of attorney general](https://www.reddit.com/r/news/comments/quryhj/south_dakota_lawmakers_launch_impeachment/)
+- [2 associates of Joel Greenberg accused of defrauding real estate investor out of $12 million](https://www.reddit.com/r/news/comments/qurju2/2_associates_of_joel_greenberg_accused_of/)
 <!-- REDDIT:END -->
 
 
