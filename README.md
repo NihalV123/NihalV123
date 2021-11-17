@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Adaptive headlights finally legal in US with Biden&#39;s infrastructure bill signed into law](https://www.reddit.com/r/news/comments/qvjwya/adaptive_headlights_finally_legal_in_us_with/)
+- [Prince Andrew’s £1.5m loan paid off by firms linked to Tory donor – report](https://www.reddit.com/r/news/comments/qvj5sp/prince_andrews_15m_loan_paid_off_by_firms_linked/)
+- [Man charged with threatening Connecticut governor on Twitter](https://www.reddit.com/r/news/comments/qvh9qq/man_charged_with_threatening_connecticut_governor/)
+- [8 dead, 89 infected after Covid outbreak at Connecticut nursing home](https://www.reddit.com/r/news/comments/qvgyzx/8_dead_89_infected_after_covid_outbreak_at/)
+- [Liverpool terror attack: Suspect Emad al Swealmeen reportedly had asylum claim rejected and suffered mental health issues](https://www.reddit.com/r/news/comments/qvgo8r/liverpool_terror_attack_suspect_emad_al_swealmeen/)
 <!-- REDDIT:END -->
 
 
