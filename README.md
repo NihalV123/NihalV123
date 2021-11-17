@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teen who was accidentally invited to &#39;Grandma&#39;s&#39; Thanksgiving keeps tradition going](https://www.reddit.com/r/news/comments/qvqq5s/teen_who_was_accidentally_invited_to_grandmas/)
+- [Iowa Man sentenced to life in prison for sex trafficking six adult victims by force, fraud, and coercion as well as trafficking a 14-year-old victim.](https://www.reddit.com/r/news/comments/qvpz5y/iowa_man_sentenced_to_life_in_prison_for_sex/)
+- [Naomi Osaka and Novak Djokovic shocked at Peng Shuai disappearance after sexual allegations - Eurosport](https://www.reddit.com/r/news/comments/qvoiec/naomi_osaka_and_novak_djokovic_shocked_at_peng/)
+- [Black boy in stop and search ‘30 times’ accuses Met police of racist profiling](https://www.reddit.com/r/news/comments/qvogcs/black_boy_in_stop_and_search_30_times_accuses_met/)
+- [YouTube Co-Founder Believes Removing Dislikes &#39;Is A Stupid Decision&#39; And Changes Description Of First Video To Protest](https://www.reddit.com/r/news/comments/qvoevi/youtube_cofounder_believes_removing_dislikes_is_a/)
 <!-- REDDIT:END -->
 
 
