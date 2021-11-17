@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [$750 million lawsuit filed against Travis Scott, Drake on behalf of Astroworld victims](https://www.reddit.com/r/news/comments/qw4hxe/750_million_lawsuit_filed_against_travis_scott/)
+- [Top military leader says China&#39;s hypersonic missile test &#39;went around the world&#39;](https://www.reddit.com/r/news/comments/qw3mc1/top_military_leader_says_chinas_hypersonic/)
+- [&quot;QAnon Shaman&quot; Jacob Chansley sentenced to 41 months in prison for role in January 6 attack](https://www.reddit.com/r/news/comments/qw3ke5/qanon_shaman_jacob_chansley_sentenced_to_41/)
+- [Florida tops 1,000 manatee deaths in grim single-year record](https://www.reddit.com/r/news/comments/qw3b1o/florida_tops_1000_manatee_deaths_in_grim/)
+- [Apple will start letting you fix your own iPhone](https://www.reddit.com/r/news/comments/qw2jjz/apple_will_start_letting_you_fix_your_own_iphone/)
 <!-- REDDIT:END -->
 
 
