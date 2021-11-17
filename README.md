@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lewiston man who previously pleaded guilty to rape receives no jail time, sentenced to eight years probation](https://www.reddit.com/r/news/comments/qvuwmq/lewiston_man_who_previously_pleaded_guilty_to/)
+- [Iowa governor improperly used $450,000 in Covid funds for salaries, audit finds](https://www.reddit.com/r/news/comments/qvtzts/iowa_governor_improperly_used_450000_in_covid/)
+- [Chicago couple, unvaccinated and together for years, die from Covid weeks before wedding](https://www.reddit.com/r/news/comments/qvtpgt/chicago_couple_unvaccinated_and_together_for/)
+- [FBI raids home of Mesa County Clerk Tina Peters in election data breach investigation](https://www.reddit.com/r/news/comments/qvtb1o/fbi_raids_home_of_mesa_county_clerk_tina_peters/)
+- [Teen who was accidentally invited to &#39;Grandma&#39;s&#39; Thanksgiving keeps tradition going](https://www.reddit.com/r/news/comments/qvqq5s/teen_who_was_accidentally_invited_to_grandmas/)
 <!-- REDDIT:END -->
 
 
