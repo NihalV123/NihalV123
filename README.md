@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man with AR-15 rifle outside Kenosha courthouse says he is former Ferguson officer](https://www.reddit.com/r/news/comments/qxecnu/man_with_ar15_rifle_outside_kenosha_courthouse/)
+- [Ex-NFL player Zac Stacy arrested after alleged brutal attack of woman in Florida, jail records show](https://www.reddit.com/r/news/comments/qxddbc/exnfl_player_zac_stacy_arrested_after_alleged/)
+- [Austria reimposes full lockdown, plans to make COVID vaccines compulsory](https://www.reddit.com/r/news/comments/qxd9q1/austria_reimposes_full_lockdown_plans_to_make/)
+- [New Asian American Muppet prompts CPAC president to call for defunding PBS](https://www.reddit.com/r/news/comments/qxd94o/new_asian_american_muppet_prompts_cpac_president/)
+- [Hospitalizations rising among fully vaccinated in U.S., Fauci says](https://www.reddit.com/r/news/comments/qxcvhi/hospitalizations_rising_among_fully_vaccinated_in/)
 <!-- REDDIT:END -->
 
 
