@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jurors reach verdict in Rittenhouse trial](https://www.reddit.com/r/news/comments/qxlwxo/jurors_reach_verdict_in_rittenhouse_trial/)
+- [Tesla subjects women to &#39;nightmarish&#39; sexual harassment at factory -lawsuit](https://www.reddit.com/r/news/comments/qxl2ca/tesla_subjects_women_to_nightmarish_sexual/)
+- [China says ‘not aware’ of tennis player Peng Shuai issue](https://www.reddit.com/r/news/comments/qxk2f1/china_says_not_aware_of_tennis_player_peng_shuai/)
+- [Facebook tells LA police to stop spying on users with fake accounts](https://www.reddit.com/r/news/comments/qxjymh/facebook_tells_la_police_to_stop_spying_on_users/)
+- [Pocono teen had his hands up when killed by State Police, new videos show](https://www.reddit.com/r/news/comments/qxi9hk/pocono_teen_had_his_hands_up_when_killed_by_state/)
 <!-- REDDIT:END -->
 
 
