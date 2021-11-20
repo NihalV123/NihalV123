@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [KCPD Det. Eric DeValkenaere found guilty in death of Cameron Lamb](https://www.reddit.com/r/news/comments/qxt1rh/kcpd_det_eric_devalkenaere_found_guilty_in_death/)
+- [A Lumber Poacher Has Been Foiled—by Tree DNA](https://www.reddit.com/r/news/comments/qxrxp3/a_lumber_poacher_has_been_foiledby_tree_dna/)
+- [Univ. of Maryland slammed for separating Asian students from &#39;students of color&#39; in graphic](https://www.reddit.com/r/news/comments/qxrhpg/univ_of_maryland_slammed_for_separating_asian/)
+- [‘I can’t do this any more’: US faces nurse shortage from burnout](https://www.reddit.com/r/news/comments/qxotgp/i_cant_do_this_any_more_us_faces_nurse_shortage/)
+- [CDC panel unanimously endorses Pfizer and Moderna boosters for all U.S. adults](https://www.reddit.com/r/news/comments/qxomwa/cdc_panel_unanimously_endorses_pfizer_and_moderna/)
 <!-- REDDIT:END -->
 
 
