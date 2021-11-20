@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [20% of the worlds Sequoias destroyed by wildfire in the last two years](https://www.reddit.com/r/news/comments/qxxxvl/20_of_the_worlds_sequoias_destroyed_by_wildfire/)
+- [4 years after rescue, some Turpin children still &#39;living in squalor&#39; despite donations, pledges of support](https://www.reddit.com/r/news/comments/qxvmne/4_years_after_rescue_some_turpin_children_still/)
+- [Kansas City police officer Eric DeValkenaere found guilty in fatal shooting of a Black man | KCUR 89.3 - NPR in Kansas City. Local news, entertainment and podcasts.](https://www.reddit.com/r/news/comments/qxvgbx/kansas_city_police_officer_eric_devalkenaere/)
+- [Attorney accuses Arbery advocates of `lynching&#39; defendants](https://www.reddit.com/r/news/comments/qxuqon/attorney_accuses_arbery_advocates_of_lynching/)
+- [US opens COVID boosters to all adults, urges them for 50+](https://www.reddit.com/r/news/comments/qxtzug/us_opens_covid_boosters_to_all_adults_urges_them/)
 <!-- REDDIT:END -->
 
 
