@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New lawsuit filed on behalf of more than 280 Astroworld Festival concertgoers](https://www.reddit.com/r/news/comments/qy2hjl/new_lawsuit_filed_on_behalf_of_more_than_280/)
+- [Students walk out of class, protest school leaders in Bellevue](https://www.reddit.com/r/news/comments/qy042f/students_walk_out_of_class_protest_school_leaders/)
+- [Andrew Coffee IV found not guilty of murder, attempted murder in Indian River County SWAT raid](https://www.reddit.com/r/news/comments/qxyywx/andrew_coffee_iv_found_not_guilty_of_murder/)
+- [20% of the worlds Sequoias destroyed by wildfire in the last two years](https://www.reddit.com/r/news/comments/qxxxvl/20_of_the_worlds_sequoias_destroyed_by_wildfire/)
+- [Cincinnati hit-and-run victim breathing on his own 2 months after crash](https://www.reddit.com/r/news/comments/qxxq0l/cincinnati_hitandrun_victim_breathing_on_his_own/)
 <!-- REDDIT:END -->
 
 
