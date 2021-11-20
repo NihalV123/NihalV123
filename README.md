@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dutch police open fire on Covid lockdown protesters as European nations reintroduce restrictions](https://www.reddit.com/r/news/comments/qy8v4q/dutch_police_open_fire_on_covid_lockdown/)
+- [[TX] Police Respond to ‘Calm Things Down’ During Protest at Little Elm HS](https://www.reddit.com/r/news/comments/qy8g23/tx_police_respond_to_calm_things_down_during/)
+- [Jaw bombs, the deadliest threat to Sri Lanka’s elephants, are scaling up](https://www.reddit.com/r/news/comments/qy8200/jaw_bombs_the_deadliest_threat_to_sri_lankas/)
+- [Two in hospital after police fire on Dutch COVID-19 protesters](https://www.reddit.com/r/news/comments/qy73gz/two_in_hospital_after_police_fire_on_dutch/)
+- [New Campaign Aims to Reform NY’s ‘Racist, Draconian’ Sentencing Laws](https://www.reddit.com/r/news/comments/qy73gm/new_campaign_aims_to_reform_nys_racist_draconian/)
 <!-- REDDIT:END -->
 
 
