@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;More Bubbas, no Black pastors&#39;: Attorney for man accused of killing Arbery decried as racist](https://www.reddit.com/r/news/comments/qz00hy/more_bubbas_no_black_pastors_attorney_for_man/)
+- [Some US Christian schools believe religious freedom means they can fire gay teachers](https://www.reddit.com/r/news/comments/qyyra0/some_us_christian_schools_believe_religious/)
+- [Ghislaine Maxwell trial: Federal judge to question more than 200 potential jurors](https://www.reddit.com/r/news/comments/qyyep5/ghislaine_maxwell_trial_federal_judge_to_question/)
+- [Ghislaine Maxwell sex crimes trial highlights conditions at Brooklyn jail](https://www.reddit.com/r/news/comments/qyya4t/ghislaine_maxwell_sex_crimes_trial_highlights/)
+- [UK demands immediate release of UN staff detained by Houthis](https://www.reddit.com/r/news/comments/qyy5b5/uk_demands_immediate_release_of_un_staff_detained/)
 <!-- REDDIT:END -->
 
 
