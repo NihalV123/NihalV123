@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 arrested after dozens ransack a Nordstrom store near San Francisco, police say](https://www.reddit.com/r/news/comments/qzdnas/3_arrested_after_dozens_ransack_a_nordstrom_store/)
+- [Abducted child alert issued for 6 year old | Mississippi News Group](https://www.reddit.com/r/news/comments/qzd9vz/abducted_child_alert_issued_for_6_year_old/)
+- [Police: &#39;Some&#39; killed when SUV hits Christmas parade](https://www.reddit.com/r/news/comments/qzcp2k/police_some_killed_when_suv_hits_christmas_parade/)
+- [Tamil Rights Group files submission to International Criminal Court to investigate Sri Lanka for crimes against humanity](https://www.reddit.com/r/news/comments/qzcowq/tamil_rights_group_files_submission_to/)
+- [Two missionaries released in Haiti after group kidnapping](https://www.reddit.com/r/news/comments/qzbux4/two_missionaries_released_in_haiti_after_group/)
 <!-- REDDIT:END -->
 
 
