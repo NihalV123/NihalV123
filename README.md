@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Indentured servitude’: low pay and grueling conditions fueling US truck driver shortage](https://www.reddit.com/r/news/comments/r042bn/indentured_servitude_low_pay_and_grueling/)
+- [The families of most of those killed and wounded in the 2018 Florida high school massacre announced Monday have reached a multi-million dollar settlement with the federal government over the FBI’s failure to stop the gunman even though it had received information he intended to attack](https://www.reddit.com/r/news/comments/r01tye/the_families_of_most_of_those_killed_and_wounded/)
+- [Parents sue Wisconsin school for letting children change pronouns without their consent | Wisconsin](https://www.reddit.com/r/news/comments/r0013g/parents_sue_wisconsin_school_for_letting_children/)
+- [Roger Stone and Alex Jones among five to receive Capitol attack subpoenas](https://www.reddit.com/r/news/comments/qzzw1a/roger_stone_and_alex_jones_among_five_to_receive/)
+- [Kevin Spacey ordered to pay nearly $31 million to &#39;House of Cards&#39; production company](https://www.reddit.com/r/news/comments/qzzvr0/kevin_spacey_ordered_to_pay_nearly_31_million_to/)
 <!-- REDDIT:END -->
 
 
