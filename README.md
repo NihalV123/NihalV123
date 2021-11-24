@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [8-year-old boy dies from injuries in Waukesha Holiday Parade tragedy](https://www.reddit.com/r/news/comments/r0pkqs/8yearold_boy_dies_from_injuries_in_waukesha/)
+- [Michigan teacher says he quit after being ordered to remove Pride flag from middle school classroom](https://www.reddit.com/r/news/comments/r0ocps/michigan_teacher_says_he_quit_after_being_ordered/)
+- [Biden administration asks federal appeals court to immediately lift pause on business vaccine mandate](https://www.reddit.com/r/news/comments/r0mcxj/biden_administration_asks_federal_appeals_court/)
+- [Social media use linked to depression in adults](https://www.reddit.com/r/news/comments/r0mco9/social_media_use_linked_to_depression_in_adults/)
+- [Jury awards millions in damages for Unite the Right violence](https://www.reddit.com/r/news/comments/r0lz8e/jury_awards_millions_in_damages_for_unite_the/)
 <!-- REDDIT:END -->
 
 
