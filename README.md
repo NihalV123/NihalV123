@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Snoop Dogg joins Rams, Chargers to give away turkeys to 2,500 Inglewood residents](https://www.reddit.com/r/news/comments/r0ww01/snoop_dogg_joins_rams_chargers_to_give_away/)
+- [Experts warn of severe flu season as outbreaks start to pop up](https://www.reddit.com/r/news/comments/r0t9gm/experts_warn_of_severe_flu_season_as_outbreaks/)
+- [Experts caution use of &#39;looting&#39; in describing rash of Bay Area smash and grabs](https://www.reddit.com/r/news/comments/r0rxyt/experts_caution_use_of_looting_in_describing_rash/)
+- [T-Mobile to pay $20M after outage led to failed 911 calls](https://www.reddit.com/r/news/comments/r0rs97/tmobile_to_pay_20m_after_outage_led_to_failed_911/)
+- [Elizabeth Holmes admits doctoring lab reports with pharma company logos](https://www.reddit.com/r/news/comments/r0rdfr/elizabeth_holmes_admits_doctoring_lab_reports/)
 <!-- REDDIT:END -->
 
 
