@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia lists neo-Nazi group The Base and Hezbollah as terrorist organisations](https://www.reddit.com/r/news/comments/r1iu7d/australia_lists_neonazi_group_the_base_and/)
+- [Gray wolf who broke records on a historic journey found dead in California](https://www.reddit.com/r/news/comments/r1f7f2/gray_wolf_who_broke_records_on_a_historic_journey/)
+- [Thirty-one migrants die trying to cross Channel to UK](https://www.reddit.com/r/news/comments/r1dj13/thirtyone_migrants_die_trying_to_cross_channel_to/)
+- [J.J. Watt will cover the funeral expenses of those killed during Waukesha Christmas parade](https://www.reddit.com/r/news/comments/r1d0sr/jj_watt_will_cover_the_funeral_expenses_of_those/)
+- [Ahmaud Arbery verdict: three men found guilty of murdering Black man as he jogged](https://www.reddit.com/r/news/comments/r1c65z/ahmaud_arbery_verdict_three_men_found_guilty_of/)
 <!-- REDDIT:END -->
 
 
