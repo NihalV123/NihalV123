@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Army officer who wrote to McCain about detainee torture in Iraq, Afghanistan, dies at 42](https://www.reddit.com/r/news/comments/r20939/army_officer_who_wrote_to_mccain_about_detainee/)
+- [He spent years in prison for the rape of author Alice Sebold, the subject of her memoir, &#39;Lucky.&#39; A judge just exonerated him](https://www.reddit.com/r/news/comments/r202at/he_spent_years_in_prison_for_the_rape_of_author/)
+- [Hundreds of FedEx packages were found tossed into an Alabama ravine, sheriff says](https://www.reddit.com/r/news/comments/r1zrgg/hundreds_of_fedex_packages_were_found_tossed_into/)
+- [Unruly passengers on flights to be prosecuted swiftly, says US attorney general](https://www.reddit.com/r/news/comments/r1yo3q/unruly_passengers_on_flights_to_be_prosecuted/)
+- [Hackney man first to receive 3D-printed prosthetic eye](https://www.reddit.com/r/news/comments/r1y8o4/hackney_man_first_to_receive_3dprinted_prosthetic/)
 <!-- REDDIT:END -->
 
 
