@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK suspends flights to six African countries as new Covid variant raises alarms](https://www.reddit.com/r/news/comments/r29w1y/uk_suspends_flights_to_six_african_countries_as/)
+- [Turkish police fire rubber bullets as thousands march to demand end to violence against women](https://www.reddit.com/r/news/comments/r28wji/turkish_police_fire_rubber_bullets_as_thousands/)
+- [Violence against refugee women surged in 2020, but grassroots solutions can help tackle scourge - UN News](https://www.reddit.com/r/news/comments/r28emp/violence_against_refugee_women_surged_in_2020_but/)
+- [Ethiopian Olympic heroes Haile Gebrselassie and Feyisa Lilesa say they are ready to go to the front line in the war against rebel forces.](https://www.reddit.com/r/news/comments/r27jm0/ethiopian_olympic_heroes_haile_gebrselassie_and/)
+- [Kremlin critic found with dead elk in car is stripped of immunity](https://www.reddit.com/r/news/comments/r270aq/kremlin_critic_found_with_dead_elk_in_car_is/)
 <!-- REDDIT:END -->
 
 
