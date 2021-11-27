@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [61 people on flight from South Africa to the Netherlands test positive for COVID-19.](https://www.reddit.com/r/news/comments/r3aalh/61_people_on_flight_from_south_africa_to_the/)
+- [Female passenger reportedly breastfeeds cat on Delta flight.](https://www.reddit.com/r/news/comments/r369ew/female_passenger_reportedly_breastfeeds_cat_on/)
+- [Fake nurse with long history of impersonation worked at Vancouver hospital for a year, police say | CBC News](https://www.reddit.com/r/news/comments/r36711/fake_nurse_with_long_history_of_impersonation/)
+- [Louisville senator seeks felony charges for ‘porch pirates’ in proposed bill](https://www.reddit.com/r/news/comments/r35apk/louisville_senator_seeks_felony_charges_for_porch/)
+- [Reports of active shooter at Tacoma, WA mall](https://www.reddit.com/r/news/comments/r34f9g/reports_of_active_shooter_at_tacoma_wa_mall/)
 <!-- REDDIT:END -->
 
 
