@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Black Friday shopping in stores drops 28% from pre-pandemic levels as shoppers spread spending throughout the season](https://www.reddit.com/r/news/comments/r3pxkh/black_friday_shopping_in_stores_drops_28_from/)
+- [Unruly passenger allegedly sexually assaulted flight attendant before smoking joint in bathroom.](https://www.reddit.com/r/news/comments/r3pas2/unruly_passenger_allegedly_sexually_assaulted/)
+- [Israel bans foreigners from entering country to stop Omicron variant](https://www.reddit.com/r/news/comments/r3ogb6/israel_bans_foreigners_from_entering_country_to/)
+- [US Customs officials seize nearly 4,000 bongs at DC airport](https://www.reddit.com/r/news/comments/r3ne1f/us_customs_officials_seize_nearly_4000_bongs_at/)
+- [A 5-year-old child was fatally shot by teenager making a video for social media, Minnesota police say](https://www.reddit.com/r/news/comments/r3memy/a_5yearold_child_was_fatally_shot_by_teenager/)
 <!-- REDDIT:END -->
 
 
