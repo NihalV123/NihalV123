@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Covid: Australia woman charged after setting fire in quarantine hotel](https://www.reddit.com/r/news/comments/r49byi/covid_australia_woman_charged_after_setting_fire/)
+- [Magnitude 7.5 earthquake shakes Peru](https://www.reddit.com/r/news/comments/r47uxb/magnitude_75_earthquake_shakes_peru/)
+- [Moderna says an omicron variant vaccine could be ready in early 2022](https://www.reddit.com/r/news/comments/r47k08/moderna_says_an_omicron_variant_vaccine_could_be/)
+- [Researchers try producing potato resistant to climate change](https://www.reddit.com/r/news/comments/r47bhi/researchers_try_producing_potato_resistant_to/)
+- [Frank Williams, Williams F1 team founder, dies at 79](https://www.reddit.com/r/news/comments/r479vb/frank_williams_williams_f1_team_founder_dies_at_79/)
 <!-- REDDIT:END -->
 
 
