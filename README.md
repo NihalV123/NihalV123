@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tor Eckhoff &lpar;57&rpar; have been confirmed dead after falling through the ice during filming a new video for his YouTube channel &lpar;apetor&rpar; 1,2m. Norway](https://www.reddit.com/r/news/comments/r4iau0/tor_eckhoff_57_have_been_confirmed_dead_after/)
+- [&#39;He walked on the bus and began shooting,&#39; 3 shot, 1 dead after gunman opens fire](https://www.reddit.com/r/news/comments/r4fx2l/he_walked_on_the_bus_and_began_shooting_3_shot_1/)
+- [5 people wounded in Aurora shooting](https://www.reddit.com/r/news/comments/r4d2i1/5_people_wounded_in_aurora_shooting/)
+- [University in Afghanistan&#39;s Kandahar holds graduation ceremony &lpar;Men and Women&rpar; - in Pictures](https://www.reddit.com/r/news/comments/r4c973/university_in_afghanistans_kandahar_holds/)
+- [World Health Organization reaches draft consensus on future pandemic treaty](https://www.reddit.com/r/news/comments/r4bw2z/world_health_organization_reaches_draft_consensus/)
 <!-- REDDIT:END -->
 
 
