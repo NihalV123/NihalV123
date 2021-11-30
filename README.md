@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [S.C. woman gets $10 million in Walmart lawsuit after stepping on rusty nail, losing most of leg](https://www.reddit.com/r/news/comments/r5rcyl/sc_woman_gets_10_million_in_walmart_lawsuit_after/)
+- [Judges question Trump bid to keep U.S. Capitol riot records secret](https://www.reddit.com/r/news/comments/r5rbjd/judges_question_trump_bid_to_keep_us_capitol_riot/)
+- [Man accused of using relief funds on Lamborghini gets prison](https://www.reddit.com/r/news/comments/r5ra70/man_accused_of_using_relief_funds_on_lamborghini/)
+- [U.S. FTC orders Walmart, Amazon to provide information in supply chain probe](https://www.reddit.com/r/news/comments/r5qvl9/us_ftc_orders_walmart_amazon_to_provide/)
+- [Woman Sues Police Union for Using Her Son for Photo-Op—After Beating Her Up](https://www.reddit.com/r/news/comments/r5qu7f/woman_sues_police_union_for_using_her_son_for/)
 <!-- REDDIT:END -->
 
 
