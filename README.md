@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge Rejects “Divine” Authority Claim Of Ex-‘Jesus Christ Superstar’ Actor &amp; Accused Rioter As “Gobbledygook”](https://www.reddit.com/r/news/comments/r57ujh/judge_rejects_divine_authority_claim_of_exjesus/)
+- [Amazon workers in Alabama get a do-over in union election](https://www.reddit.com/r/news/comments/r574ae/amazon_workers_in_alabama_get_a_doover_in_union/)
+- [All vaccinated adults should get a Covid-19 booster shot because of the Omicron variant, CDC says](https://www.reddit.com/r/news/comments/r5695k/all_vaccinated_adults_should_get_a_covid19/)
+- [Bill Cosby prosecutors take case to the United States Supreme Court](https://www.reddit.com/r/news/comments/r563hr/bill_cosby_prosecutors_take_case_to_the_united/)
+- [21-year-old Kansas state lawmaker suspected of DUI weeks after domestic violence arrest](https://www.reddit.com/r/news/comments/r54nmf/21yearold_kansas_state_lawmaker_suspected_of_dui/)
 <!-- REDDIT:END -->
 
 
