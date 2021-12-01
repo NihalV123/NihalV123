@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Authorities say fourth person, a 15-year-old boy, has died from Michigan school shooting](https://www.reddit.com/r/news/comments/r6k6qa/authorities_say_fourth_person_a_15yearold_boy_has/)
+- [Half of Astroworld victims&#39; families reject Travis Scott&#39;s offer to pay funeral costs](https://www.reddit.com/r/news/comments/r6juca/half_of_astroworld_victims_families_reject_travis/)
+- [Capital One says it is ditching all consumer overdraft fees, giving up $150 million in annual revenue](https://www.reddit.com/r/news/comments/r6i30q/capital_one_says_it_is_ditching_all_consumer/)
+- [Catalytic converters stolen off 43 Riverside Unified buses](https://www.reddit.com/r/news/comments/r6h1bs/catalytic_converters_stolen_off_43_riverside/)
+- [South Carolina gun shop owner fatally shot worker in prank gone wrong](https://www.reddit.com/r/news/comments/r6gu6c/south_carolina_gun_shop_owner_fatally_shot_worker/)
 <!-- REDDIT:END -->
 
 
