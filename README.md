@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia election workers suing conspiracy website over ‘campaign of lies’](https://www.reddit.com/r/news/comments/r7bpqf/georgia_election_workers_suing_conspiracy_website/)
+- [Minnesota reports second U.S. omicron Covid case in resident who traveled to NYC](https://www.reddit.com/r/news/comments/r7akpz/minnesota_reports_second_us_omicron_covid_case_in/)
+- [Germany excludes unvaccinated from parts of public life](https://www.reddit.com/r/news/comments/r7ajuc/germany_excludes_unvaccinated_from_parts_of/)
+- [US lawmakers announce bill to prohibit bot scalping of high demand goods - Eurogamer](https://www.reddit.com/r/news/comments/r7afrd/us_lawmakers_announce_bill_to_prohibit_bot/)
+- [Murder charge for Ohio deputy in Casey Goodson Jr. shooting](https://www.reddit.com/r/news/comments/r792kx/murder_charge_for_ohio_deputy_in_casey_goodson_jr/)
 <!-- REDDIT:END -->
 
 
