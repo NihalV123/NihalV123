@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [France detects highly pathogenic bird flu on poultry farm in north - farm ministry](https://www.reddit.com/r/news/comments/r7wsyc/france_detects_highly_pathogenic_bird_flu_on/)
+- [Surgeon fined $3,000 for amputating patient&#39;s wrong leg](https://www.reddit.com/r/news/comments/r7wm2o/surgeon_fined_3000_for_amputating_patients_wrong/)
+- [Jeffrey Epstein&#39;s house manager says staff was instructed to &#39;see nothing, hear nothing, say nothing&#39;](https://www.reddit.com/r/news/comments/r7v7jw/jeffrey_epsteins_house_manager_says_staff_was/)
+- [Unvaccinated Nevada state workers to pay insurance surcharge](https://www.reddit.com/r/news/comments/r7ro90/unvaccinated_nevada_state_workers_to_pay/)
+- [Plumber discovers money, checks in wall of Joel Osteen’s Lakewood Church years after $600K burglary](https://www.reddit.com/r/news/comments/r7q11l/plumber_discovers_money_checks_in_wall_of_joel/)
 <!-- REDDIT:END -->
 
 
