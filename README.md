@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Plumber discovers money, checks in wall of Joel Osteen’s Lakewood Church years after $600K burglary](https://www.reddit.com/r/news/comments/r7q11l/plumber_discovers_money_checks_in_wall_of_joel/)
+- [Hawaii confirms its first case of Omicron variant; patient had no travel history](https://www.reddit.com/r/news/comments/r7m6en/hawaii_confirms_its_first_case_of_omicron_variant/)
+- [New cases of omicron variant found in Minnesota, Colorado, New York](https://www.reddit.com/r/news/comments/r7m0io/new_cases_of_omicron_variant_found_in_minnesota/)
+- [Singaporean Amos Yee jailed in the US for grooming 14-year-old girl, possessing child porn](https://www.reddit.com/r/news/comments/r7lxer/singaporean_amos_yee_jailed_in_the_us_for/)
+- [A 14-year-old girl was shot and killed by her brother, who was making and selling guns, Georgia sheriff says](https://www.reddit.com/r/news/comments/r7kxx1/a_14yearold_girl_was_shot_and_killed_by_her/)
 <!-- REDDIT:END -->
 
 
