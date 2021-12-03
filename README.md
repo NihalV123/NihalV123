@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina woman indicted for producing fake COVID-19 vaccination cards, officials say](https://www.reddit.com/r/news/comments/r7j2xq/south_carolina_woman_indicted_for_producing_fake/)
+- [Student arrested after threat made against Marjory Stoneman Douglas High School](https://www.reddit.com/r/news/comments/r7iz0h/student_arrested_after_threat_made_against/)
+- [NFL suspends three players, including Bucs&#39; Antonio Brown, for violating Covid-19 protocols](https://www.reddit.com/r/news/comments/r7itbr/nfl_suspends_three_players_including_bucs_antonio/)
+- [Report: Antonio Brown, Mike Edwards Suspended for &#39;Misrepresenting Vaccine Status&#39;](https://www.reddit.com/r/news/comments/r7ihbc/report_antonio_brown_mike_edwards_suspended_for/)
+- [Federal judge blocks Texas social media &#39;censorship&#39; law](https://www.reddit.com/r/news/comments/r7hjpl/federal_judge_blocks_texas_social_media/)
 <!-- REDDIT:END -->
 
 
