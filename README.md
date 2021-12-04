@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona nurse who sexually assaulted incapacitated patient sentenced to 10 years](https://www.reddit.com/r/news/comments/r8ctpy/arizona_nurse_who_sexually_assaulted/)
+- [Prosecution rests after brothers testify Jussie Smollett directed them to carry out a fake racist and anti-gay attack](https://www.reddit.com/r/news/comments/r8au4q/prosecution_rests_after_brothers_testify_jussie/)
+- [Lewis Hamilton condemns Saudi Arabia&#39;s &#39;terrifying&#39; LGBTQ+ laws ahead of race and says it is &#39;not my choice to be here&#39;](https://www.reddit.com/r/news/comments/r88t9e/lewis_hamilton_condemns_saudi_arabias_terrifying/)
+- [Italy No Vax leader changes his mind after covid scare: &#39;Vaccines save lives&#39;](https://www.reddit.com/r/news/comments/r87wyg/italy_no_vax_leader_changes_his_mind_after_covid/)
+- [Police are searching for Michigan school shooting suspect&#39;s parents](https://www.reddit.com/r/news/comments/r87w71/police_are_searching_for_michigan_school_shooting/)
 <!-- REDDIT:END -->
 
 
