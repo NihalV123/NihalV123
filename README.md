@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Marshals offer rewards of up to $10,000 as manhunt for parents of suspected Michigan school shooter intensifies.](https://www.reddit.com/r/news/comments/r8hlqk/us_marshals_offer_rewards_of_up_to_10000_as/)
+- [The Webb Space Telescope Will Rewrite Cosmic History. If It Works.](https://www.reddit.com/r/news/comments/r8edwd/the_webb_space_telescope_will_rewrite_cosmic/)
+- [Omicron variant may have picked up a piece of common-cold virus](https://www.reddit.com/r/news/comments/r8cx1k/omicron_variant_may_have_picked_up_a_piece_of/)
+- [Arizona nurse who sexually assaulted incapacitated patient sentenced to 10 years](https://www.reddit.com/r/news/comments/r8ctpy/arizona_nurse_who_sexually_assaulted/)
+- [Prosecution rests after brothers testify Jussie Smollett directed them to carry out a fake racist and anti-gay attack](https://www.reddit.com/r/news/comments/r8au4q/prosecution_rests_after_brothers_testify_jussie/)
 <!-- REDDIT:END -->
 
 
