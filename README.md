@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Parents captured after son charged in Oxford school shooting](https://www.reddit.com/r/news/comments/r8nedt/parents_captured_after_son_charged_in_oxford/)
+- [Crypto crash: $570 billion wiped off market cap after major sell-off over regulation fears](https://www.reddit.com/r/news/comments/r8mwt2/crypto_crash_570_billion_wiped_off_market_cap/)
+- [Sources: James and Jennifer Crumbley arrested on Detroit&#39;s east side](https://www.reddit.com/r/news/comments/r8ju55/sources_james_and_jennifer_crumbley_arrested_on/)
+- [Man who put razor blades in pizza dough sentenced to prison](https://www.reddit.com/r/news/comments/r8jtso/man_who_put_razor_blades_in_pizza_dough_sentenced/)
+- [Drugmakers cut prices by 62% on average to get China state insurance listing](https://www.reddit.com/r/news/comments/r8icma/drugmakers_cut_prices_by_62_on_average_to_get/)
 <!-- REDDIT:END -->
 
 
