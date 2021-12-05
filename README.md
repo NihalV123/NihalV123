@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina nursing director charged with making fake Covid vaccination cards](https://www.reddit.com/r/news/comments/r91ead/south_carolina_nursing_director_charged_with/)
+- [Oxford Superintendent Responds To &#39;Anger, Confusion And ... Questioning&#39; About Letting Ethan Crumbley Stay](https://www.reddit.com/r/news/comments/r912o1/oxford_superintendent_responds_to_anger_confusion/)
+- [Two teens were killed and another teen and an infant injured in a Memphis gas station shooting](https://www.reddit.com/r/news/comments/r90zd8/two_teens_were_killed_and_another_teen_and_an/)
+- [CNN fires Chris Cuomo](https://www.reddit.com/r/news/comments/r90l76/cnn_fires_chris_cuomo/)
+- [Homeowner convicted in killings of 2 teens smoking marijuana](https://www.reddit.com/r/news/comments/r8yk43/homeowner_convicted_in_killings_of_2_teens/)
 <!-- REDDIT:END -->
 
 
