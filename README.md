@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former US Senator, Presidential Nominee Bob Dole Dies At 98](https://www.reddit.com/r/news/comments/r9k6g5/former_us_senator_presidential_nominee_bob_dole/)
+- [11-year-old girl shot multiple times after ‘random bullets’ fly through home, police say](https://www.reddit.com/r/news/comments/r9jk0e/11yearold_girl_shot_multiple_times_after_random/)
+- [U.S. Postal Service reports $4.9 billion 2021 net loss meanwhile Louis DeJoy becomes the highest paid Postmaster in the same year](https://www.reddit.com/r/news/comments/r9jibq/us_postal_service_reports_49_billion_2021_net/)
+- [Myanmar: five dead after troops use car to ram anti-coup protest](https://www.reddit.com/r/news/comments/r9japt/myanmar_five_dead_after_troops_use_car_to_ram/)
+- [Third party to investigate Michigan school’s actions ahead of shooting](https://www.reddit.com/r/news/comments/r9h3ve/third_party_to_investigate_michigan_schools/)
 <!-- REDDIT:END -->
 
 
