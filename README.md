@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Maryland man faces federal charges for selling fraudulent COVID-19 cards through the mail](https://www.reddit.com/r/news/comments/r9d95i/maryland_man_faces_federal_charges_for_selling/)
+- [Tucson Police officer who shot man in wheelchair multiple times in back is fired](https://www.reddit.com/r/news/comments/r9d3cg/tucson_police_officer_who_shot_man_in_wheelchair/)
+- [Tacoma man charged with keeping a woman in his garage for weeks, raping her](https://www.reddit.com/r/news/comments/r99l0k/tacoma_man_charged_with_keeping_a_woman_in_his/)
+- [Hundreds of military families sickened by contaminated Pearl Harbor water](https://www.reddit.com/r/news/comments/r99hrh/hundreds_of_military_families_sickened_by/)
+- [Murder charges filed against former Ohio deputy in death of Casey Goodson Jr.](https://www.reddit.com/r/news/comments/r992fm/murder_charges_filed_against_former_ohio_deputy/)
 <!-- REDDIT:END -->
 
 
