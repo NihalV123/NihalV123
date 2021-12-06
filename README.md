@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The US is averaging more than 100,000 new Covid-19 cases a day, the highest level in two months](https://www.reddit.com/r/news/comments/ra3dlj/the_us_is_averaging_more_than_100000_new_covid19/)
+- [Michigan school shooting suspect and his parents isolated in the same facility and under suicide watch, sheriff says](https://www.reddit.com/r/news/comments/ra26cd/michigan_school_shooting_suspect_and_his_parents/)
+- [Aung San Suu Kyi sentenced to four years in prison for incitement | Myanmar](https://www.reddit.com/r/news/comments/ra0ee3/aung_san_suu_kyi_sentenced_to_four_years_in/)
+- [Covid news live: Omicron found in one-third of US states but early reports on severity are ‘encouraging’, Fauci says | World news](https://www.reddit.com/r/news/comments/r9zuxt/covid_news_live_omicron_found_in_onethird_of_us/)
+- [San Francisco suspends cannabis tax to help dispensaries compete with drug dealers](https://www.reddit.com/r/news/comments/r9v1x1/san_francisco_suspends_cannabis_tax_to_help/)
 <!-- REDDIT:END -->
 
 
