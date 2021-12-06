@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [San Francisco suspends cannabis tax to help dispensaries compete with drug dealers](https://www.reddit.com/r/news/comments/r9v1x1/san_francisco_suspends_cannabis_tax_to_help/)
+- [The US is averaging more than 100,000 new Covid-19 cases a day, the highest level in two months](https://www.reddit.com/r/news/comments/r9urwv/the_us_is_averaging_more_than_100000_new_covid19/)
+- [Two teens dead, two other children hurt after quadruple shooting, police say](https://www.reddit.com/r/news/comments/r9uog8/two_teens_dead_two_other_children_hurt_after/)
+- [2 Louisiana insurance companies fail after Hurricane Ida](https://www.reddit.com/r/news/comments/r9sndt/2_louisiana_insurance_companies_fail_after/)
+- [Vandals defaced tunnels near Idaho&#39;s Anne Frank memorial with anti-Semitic graffiti, including swastikas, police say](https://www.reddit.com/r/news/comments/r9sdtq/vandals_defaced_tunnels_near_idahos_anne_frank/)
 <!-- REDDIT:END -->
 
 
