@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 Louisiana insurance companies fail after Hurricane Ida](https://www.reddit.com/r/news/comments/r9sndt/2_louisiana_insurance_companies_fail_after/)
+- [Vandals defaced tunnels near Idaho&#39;s Anne Frank memorial with anti-Semitic graffiti, including swastikas, police say](https://www.reddit.com/r/news/comments/r9sdtq/vandals_defaced_tunnels_near_idahos_anne_frank/)
+- [Sony VP fired after appearing in pedophile sting video](https://www.reddit.com/r/news/comments/r9s1rs/sony_vp_fired_after_appearing_in_pedophile_sting/)
+- [Chris Cuomo was accused of harassment days before CNN firing](https://www.reddit.com/r/news/comments/r9rq8k/chris_cuomo_was_accused_of_harassment_days_before/)
+- [Protest against coronavirus restrictions turns violent in Brussels](https://www.reddit.com/r/news/comments/r9qpl7/protest_against_coronavirus_restrictions_turns/)
 <!-- REDDIT:END -->
 
 
