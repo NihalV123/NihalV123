@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DoJ sues Texas, saying electoral map plans violate Voting Rights Act](https://www.reddit.com/r/news/comments/rawqem/doj_sues_texas_saying_electoral_map_plans_violate/)
+- [Hawaii faces life-threatening flooding after some areas of the state see more than a foot of rain in 48 hours](https://www.reddit.com/r/news/comments/rawfu9/hawaii_faces_lifethreatening_flooding_after_some/)
+- [T.rex gets Christmas jumper at Natural History Museum in London](https://www.reddit.com/r/news/comments/raw61y/trex_gets_christmas_jumper_at_natural_history/)
+- [Florida man stabbed co-worker to death because she refused to date him](https://www.reddit.com/r/news/comments/ravln4/florida_man_stabbed_coworker_to_death_because_she/)
+- [Billionaire hedge fund manager Michael Steinhardt agrees to surrender stolen antiquities valued at $99 million](https://www.reddit.com/r/news/comments/rarhfq/billionaire_hedge_fund_manager_michael_steinhardt/)
 <!-- REDDIT:END -->
 
 
