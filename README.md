@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [High demand for four-day work weeks is coming to United States businesses](https://www.reddit.com/r/news/comments/rb4917/high_demand_for_fourday_work_weeks_is_coming_to/)
+- [Kellogg to permanently replace striking workers as union rejects new contract](https://www.reddit.com/r/news/comments/rb47cz/kellogg_to_permanently_replace_striking_workers/)
+- [Oxford school shooting: Ethan Crumbley appointed lawyer by court after his parents only hired their own](https://www.reddit.com/r/news/comments/rb3trc/oxford_school_shooting_ethan_crumbley_appointed/)
+- [Amazon AWS outage takes down Disney+, Alexa, and more](https://www.reddit.com/r/news/comments/rb3n1h/amazon_aws_outage_takes_down_disney_alexa_and_more/)
+- [Report: Apple CEO Tim Cook signed secret $275 billion deal with China](https://www.reddit.com/r/news/comments/rb2ysi/report_apple_ceo_tim_cook_signed_secret_275/)
 <!-- REDDIT:END -->
 
 
