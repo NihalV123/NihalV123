@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. boosters surge to all-time high on Omicron fears](https://www.reddit.com/r/news/comments/rbdekh/us_boosters_surge_to_alltime_high_on_omicron_fears/)
+- [Former Saints player dies in police custody in Alabama](https://www.reddit.com/r/news/comments/rbcmqx/former_saints_player_dies_in_police_custody_in/)
+- [Houston law firm files $10 billion mega lawsuit against Travis Scott](https://www.reddit.com/r/news/comments/rbc0f7/houston_law_firm_files_10_billion_mega_lawsuit/)
+- [Major outage hits Amazon Web Services; many sites affected](https://www.reddit.com/r/news/comments/rbbi9i/major_outage_hits_amazon_web_services_many_sites/)
+- [Cleveland Clinic Research Identifies Viagra as Candidate Drug for Alzheimer’s Disease](https://www.reddit.com/r/news/comments/rb9iwi/cleveland_clinic_research_identifies_viagra_as/)
 <!-- REDDIT:END -->
 
 
