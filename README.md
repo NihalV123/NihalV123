@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kellogg to replace 1,400 strikers as deal is rejected | Strike, which began in October, expected to continue as workers seek significant raises, saying they work 80-hour weeks](https://www.reddit.com/r/news/comments/rbpa9w/kellogg_to_replace_1400_strikers_as_deal_is/)
+- [Dozens of camels barred from Saudi beauty contest over Botox](https://www.reddit.com/r/news/comments/rboxhg/dozens_of_camels_barred_from_saudi_beauty_contest/)
+- [Journalists in China face ‘nightmare’ worthy of Mao era, press freedom group says](https://www.reddit.com/r/news/comments/rblm45/journalists_in_china_face_nightmare_worthy_of_mao/)
+- [&#39;Pharma Bro&#39; firm reaches $40M settlement in gouging case | AP News](https://www.reddit.com/r/news/comments/rbl2nu/pharma_bro_firm_reaches_40m_settlement_in_gouging/)
+- [Tokyo pushes ahead with same-sex marriage plan](https://www.reddit.com/r/news/comments/rbj9xi/tokyo_pushes_ahead_with_samesex_marriage_plan/)
 <!-- REDDIT:END -->
 
 
