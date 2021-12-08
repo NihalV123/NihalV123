@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
+- [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
+- [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
+- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
+- [STACKr News Weekly: We Like Dislikes 😍, No coding tech roles 👨‍💻, Quantum attacks Crypto 🚨](https://www.youtube.com/watch?v=ByzuWuziB2A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
