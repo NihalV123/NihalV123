@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California plans to be abortion sanctuary if Roe overturned](https://www.reddit.com/r/news/comments/rbwnh7/california_plans_to_be_abortion_sanctuary_if_roe/)
+- [Plumber who discovered money in wall of Joel Osteen&#39;s Lakewood Church gets $20,000 reward](https://www.reddit.com/r/news/comments/rbwkqp/plumber_who_discovered_money_in_wall_of_joel/)
+- [&#39;It&#39;s just crazy&#39;: 12 major cities hit all-time homicide records](https://www.reddit.com/r/news/comments/rbw7jy/its_just_crazy_12_major_cities_hit_alltime/)
+- [Financial Times: Facebook and Snap continue to tract iOS Users Who Opt-Out of App Tracking](https://www.reddit.com/r/news/comments/rbvjjb/financial_times_facebook_and_snap_continue_to/)
+- [Father and partner found guilty of murder of 6 year old boy in Birmingham, UK](https://www.reddit.com/r/news/comments/rbumd9/father_and_partner_found_guilty_of_murder_of_6/)
 <!-- REDDIT:END -->
 
 
