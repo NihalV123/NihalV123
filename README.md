@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Covid cases surge as vaccine progress slows and Omicron variant sparks fear](https://www.reddit.com/r/news/comments/rcf6pw/us_covid_cases_surge_as_vaccine_progress_slows/)
+- [Evergrande has defaulted on its debt, Fitch Ratings says](https://www.reddit.com/r/news/comments/rcet6g/evergrande_has_defaulted_on_its_debt_fitch/)
+- [Robbie Shakespeare, influential Sly and Robbie bassist, dies aged 68](https://www.reddit.com/r/news/comments/rce9kk/robbie_shakespeare_influential_sly_and_robbie/)
+- [New Zealand to ban cigarettes for future generations](https://www.reddit.com/r/news/comments/rccqmw/new_zealand_to_ban_cigarettes_for_future/)
+- [Toddler dies, baby fighting for life after allegedly botched circumcision at Perth medical clinic](https://www.reddit.com/r/news/comments/rcama2/toddler_dies_baby_fighting_for_life_after/)
 <!-- REDDIT:END -->
 
 
