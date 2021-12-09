@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Father and son arrested for allegedly sparking Caldor Fire](https://www.reddit.com/r/news/comments/rc8nud/father_and_son_arrested_for_allegedly_sparking/)
+- [British man suspected of spying for Russia faces extradition from Germany](https://www.reddit.com/r/news/comments/rc8lqe/british_man_suspected_of_spying_for_russia_faces/)
+- [West Texas man acquitted in fatal shooting of police officer](https://www.reddit.com/r/news/comments/rc6tzh/west_texas_man_acquitted_in_fatal_shooting_of/)
+- [The AP Interview: CDC chief says omicron mostly mild so far | AP News](https://www.reddit.com/r/news/comments/rc5cgw/the_ap_interview_cdc_chief_says_omicron_mostly/)
+- [Man who filmed trooper sleeping in cruiser was pulled over moments later by Massachusetts State Police](https://www.reddit.com/r/news/comments/rc3s5e/man_who_filmed_trooper_sleeping_in_cruiser_was/)
 <!-- REDDIT:END -->
 
 
