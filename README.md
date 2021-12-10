@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge: Texas abortion law&#39;s enforcement mechanism not valid](https://www.reddit.com/r/news/comments/rcuvno/judge_texas_abortion_laws_enforcement_mechanism/)
+- [Jussie Smollett found guilty of 5 disorderly conduct charges](https://www.reddit.com/r/news/comments/rcu76o/jussie_smollett_found_guilty_of_5_disorderly/)
+- [DEA agent gets 12 years for conspiring with Colombian cartel](https://www.reddit.com/r/news/comments/rctaj0/dea_agent_gets_12_years_for_conspiring_with/)
+- [Appeals court rejects Trump&#39;s bid to keep January 6 documents from House committee](https://www.reddit.com/r/news/comments/rcs0b1/appeals_court_rejects_trumps_bid_to_keep_january/)
+- [Youth Hockey Refs Facing Out-of-Control Parents Are Quitting in Droves](https://www.reddit.com/r/news/comments/rcq7cc/youth_hockey_refs_facing_outofcontrol_parents_are/)
 <!-- REDDIT:END -->
 
 
