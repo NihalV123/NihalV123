@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Injuries reported after roof collapse at Amazon warehouse in southern Illinois](https://www.reddit.com/r/news/comments/rdr096/injuries_reported_after_roof_collapse_at_amazon/)
+- [Hertz customers claim they were arrested, some jailed and even held at gunpoint after false theft reports](https://www.reddit.com/r/news/comments/rdqfvc/hertz_customers_claim_they_were_arrested_some/)
+- [Rupert Murdoch buys $200m Montana cattle ranch from Koch brothers](https://www.reddit.com/r/news/comments/rdp39n/rupert_murdoch_buys_200m_montana_cattle_ranch/)
+- [Jana Duggar, Josh Duggar&#39;s sister, charged with endangering minor](https://www.reddit.com/r/news/comments/rdo6k8/jana_duggar_josh_duggars_sister_charged_with/)
+- [Latino civil rights organization drops &#39;Latinx&#39; from official communication](https://www.reddit.com/r/news/comments/rdn93s/latino_civil_rights_organization_drops_latinx/)
 <!-- REDDIT:END -->
 
 
