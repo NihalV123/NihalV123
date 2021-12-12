@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kentucky hardest hit as storms leave dozens dead in 5 states](https://www.reddit.com/r/news/comments/reg4vc/kentucky_hardest_hit_as_storms_leave_dozens_dead/)
+- [Six dead in Illinois Amazon warehouse collapse following tornado](https://www.reddit.com/r/news/comments/reg2hy/six_dead_in_illinois_amazon_warehouse_collapse/)
+- [Iran threatens sanctions against US over treatment of Black Americans](https://www.reddit.com/r/news/comments/refhrg/iran_threatens_sanctions_against_us_over/)
+- [Woman overboard from cruise ship that set sail from Long Beach; search underway](https://www.reddit.com/r/news/comments/ref750/woman_overboard_from_cruise_ship_that_set_sail/)
+- [&#39;Quad-State Tornado&#39; crossed four states in four hours, a rare December tornado](https://www.reddit.com/r/news/comments/rec8b0/quadstate_tornado_crossed_four_states_in_four/)
 <!-- REDDIT:END -->
 
 
