@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Quad-State Tornado&#39; crossed four states in four hours, a rare December tornado](https://www.reddit.com/r/news/comments/rec8b0/quadstate_tornado_crossed_four_states_in_four/)
+- [Authorities: Teens charged in trespassing case were in &#39;planning stage of school shooting&#39; | WJAC](https://www.reddit.com/r/news/comments/rebaxl/authorities_teens_charged_in_trespassing_case/)
+- [Fall on walk from bed to desk is workplace accident, German court rules | Man who slipped and broke his back while working from home was commuting, it is decided](https://www.reddit.com/r/news/comments/reb5eq/fall_on_walk_from_bed_to_desk_is_workplace/)
+- [12-year-old girl shot during possible road rage incident in Dallas](https://www.reddit.com/r/news/comments/rea1ee/12yearold_girl_shot_during_possible_road_rage/)
+- [Watchdog; Federal anti-terror unit investigated journalists](https://www.reddit.com/r/news/comments/re8wx6/watchdog_federal_antiterror_unit_investigated/)
 <!-- REDDIT:END -->
 
 
