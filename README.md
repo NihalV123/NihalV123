@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. COVID-19 Death Toll Passes 800,000](https://www.reddit.com/r/news/comments/rfklzy/us_covid19_death_toll_passes_800000/)
+- [&#39;Targeted attack&#39;: Police officer&#39;s German Shepherd puppy beheaded](https://www.reddit.com/r/news/comments/rfk2mq/targeted_attack_police_officers_german_shepherd/)
+- [At least 64 people confirmed dead in Kentucky after barrage of tornadoes](https://www.reddit.com/r/news/comments/rfieg7/at_least_64_people_confirmed_dead_in_kentucky/)
+- [Determined recovery efforts begin after tornadoes wreak devastation, with officials estimating 75% of one Kentucky town gone](https://www.reddit.com/r/news/comments/rff9pf/determined_recovery_efforts_begin_after_tornadoes/)
+- [South Dakota teachers scramble for dollar bills in ‘demeaning’ game](https://www.reddit.com/r/news/comments/rfe3w0/south_dakota_teachers_scramble_for_dollar_bills/)
 <!-- REDDIT:END -->
 
 
