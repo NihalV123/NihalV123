@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [With nearly 5 million children getting COVID vaccines, no safety problems have been seen, CDC director says](https://www.reddit.com/r/news/comments/rf7228/with_nearly_5_million_children_getting_covid/)
+- [Pastor loses his job after performing in drag on HBO’s &#39;We&#39;re Here&#39;](https://www.reddit.com/r/news/comments/rf58x1/pastor_loses_his_job_after_performing_in_drag_on/)
+- [Kids Were in Car Outside While Father Killed Their Mother, Himself in Maryland: Police](https://www.reddit.com/r/news/comments/rf54xe/kids_were_in_car_outside_while_father_killed/)
+- [University of Florida launches formal investigation after reports of pressure to destroy Covid-19 research data](https://www.reddit.com/r/news/comments/rf508i/university_of_florida_launches_formal/)
+- [Tornado carries vintage family picture 130 miles](https://www.reddit.com/r/news/comments/rf4saf/tornado_carries_vintage_family_picture_130_miles/)
 <!-- REDDIT:END -->
 
 
