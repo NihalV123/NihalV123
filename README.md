@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philadelphia joins list of US cities putting in vaccine mandates for indoor venues](https://www.reddit.com/r/news/comments/rft8ro/philadelphia_joins_list_of_us_cities_putting_in/)
+- [Air Force discharges 27 for refusal to get COVID vaccine](https://www.reddit.com/r/news/comments/rfstif/air_force_discharges_27_for_refusal_to_get_covid/)
+- [Factory workers threatened with firing if they left before tornado, employees say](https://www.reddit.com/r/news/comments/rfs849/factory_workers_threatened_with_firing_if_they/)
+- [California Announces Universal Indoor Mask Mandate, Effective Wednesday](https://www.reddit.com/r/news/comments/rfrggm/california_announces_universal_indoor_mask/)
+- [12 State Boards Have Disciplined Docs for COVID Misinformation](https://www.reddit.com/r/news/comments/rfr7g3/12_state_boards_have_disciplined_docs_for_covid/)
 <!-- REDDIT:END -->
 
 
