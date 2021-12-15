@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AmazonSmile donated more than $40,000 to anti-vaccine groups in 2020](https://www.reddit.com/r/news/comments/rgwc3z/amazonsmile_donated_more_than_40000_to/)
+- [ExoMars discovers hidden water in Mars’ Grand Canyon](https://www.reddit.com/r/news/comments/rgw2hu/exomars_discovers_hidden_water_in_mars_grand/)
+- [House votes to hold Mark Meadows in contempt in Jan. 6 probe](https://www.reddit.com/r/news/comments/rgq857/house_votes_to_hold_mark_meadows_in_contempt_in/)
+- [Tesla Employee Arrested in Shooting Death of Co-Worker at Fremont Factory: Police](https://www.reddit.com/r/news/comments/rgnwz7/tesla_employee_arrested_in_shooting_death_of/)
+- [Covid-19: US surpasses 800,000 pandemic deaths](https://www.reddit.com/r/news/comments/rgnqf6/covid19_us_surpasses_800000_pandemic_deaths/)
 <!-- REDDIT:END -->
 
 
