@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Google tells employees they&#39;ll lose pay and will eventually be fired if they don&#39;t follow vaccination rules](https://www.reddit.com/r/news/comments/rgkxmb/google_tells_employees_theyll_lose_pay_and_will/)
+- [Massachusetts Medical Society urges masks in all indoor public settings, after Gov. Charlie Baker refuses to reinstate mandate](https://www.reddit.com/r/news/comments/rgkj81/massachusetts_medical_society_urges_masks_in_all/)
+- [Racist remarks captured in video of Lafayette judge’s family cheering footage of foiled burglary](https://www.reddit.com/r/news/comments/rgk3ad/racist_remarks_captured_in_video_of_lafayette/)
+- [Cleveland Clinic nearing capacity due to surge of unvaccinated patients](https://www.reddit.com/r/news/comments/rgjl9g/cleveland_clinic_nearing_capacity_due_to_surge_of/)
+- [Wisconsin attorney general won&#39;t enforce any abortion ban](https://www.reddit.com/r/news/comments/rgjg7i/wisconsin_attorney_general_wont_enforce_any/)
 <!-- REDDIT:END -->
 
 
