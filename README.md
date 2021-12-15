@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pennsylvania revises Confederate markers, recasts forces as “enemy” soldiers](https://www.reddit.com/r/news/comments/rh41ki/pennsylvania_revises_confederate_markers_recasts/)
+- [Paris to make the Seine River swimmable for the Olympics](https://www.reddit.com/r/news/comments/rh2m3n/paris_to_make_the_seine_river_swimmable_for_the/)
+- [Calls for judge to resign over video with racist language](https://www.reddit.com/r/news/comments/rh2ago/calls_for_judge_to_resign_over_video_with_racist/)
+- [Chauvin pleads guilty to federal charges in Floyd’s death](https://www.reddit.com/r/news/comments/rh1imp/chauvin_pleads_guilty_to_federal_charges_in/)
+- [Leader of CAIR in Ohio was fired for spying for anti-Muslim hate group : NPR](https://www.reddit.com/r/news/comments/rh0mef/leader_of_cair_in_ohio_was_fired_for_spying_for/)
 <!-- REDDIT:END -->
 
 
