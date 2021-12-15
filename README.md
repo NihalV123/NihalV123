@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [House votes to hold Mark Meadows in contempt in Jan. 6 probe](https://www.reddit.com/r/news/comments/rgq857/house_votes_to_hold_mark_meadows_in_contempt_in/)
+- [Tesla Employee Arrested in Shooting Death of Co-Worker at Fremont Factory: Police](https://www.reddit.com/r/news/comments/rgnwz7/tesla_employee_arrested_in_shooting_death_of/)
+- [Malta to become first country in Europe to legalize cannabis for recreational use](https://www.reddit.com/r/news/comments/rgnilx/malta_to_become_first_country_in_europe_to/)
+- [Houston truck driver sentenced to 110 years in prison in Colorado crash that killed 4](https://www.reddit.com/r/news/comments/rgms89/houston_truck_driver_sentenced_to_110_years_in/)
+- [Florida substitute teacher arrested after alleged Snapchat video showed her having sex with student](https://www.reddit.com/r/news/comments/rgm1go/florida_substitute_teacher_arrested_after_alleged/)
 <!-- REDDIT:END -->
 
 
