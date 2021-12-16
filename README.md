@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Intense storm spawns tornadoes, including first ever one in Minnesota during December](https://www.reddit.com/r/news/comments/rhih4u/intense_storm_spawns_tornadoes_including_first/)
+- [Santa Clara County sheriff accused of corrupt misconduct by civil grand jury](https://www.reddit.com/r/news/comments/rhhhd0/santa_clara_county_sheriff_accused_of_corrupt/)
+- [Reddit files to go public](https://www.reddit.com/r/news/comments/rhgo5y/reddit_files_to_go_public/)
+- [Henry Orenstein, Holocaust survivor and &#39;father of&#39; Transformers,&#39; dies at 98](https://www.reddit.com/r/news/comments/rhf9zi/henry_orenstein_holocaust_survivor_and_father_of/)
+- [US grand jury charges oil company in California spill](https://www.reddit.com/r/news/comments/rhelkc/us_grand_jury_charges_oil_company_in_california/)
 <!-- REDDIT:END -->
 
 
