@@ -385,7 +385,7 @@ Top 4 most used languages across your repositories:
 - [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
 - [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/)
 - [An Exercise Program for the Fat Web](https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/)
-- [The Cloud Is Just Someone Else's Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
+- [The Cloud Is Just Someone Else&#39;s Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
 <!-- GHOST:END -->
 
 ### STACKEXCHANGE
