@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [T-Mobile announces $20 an hour minimum wage for all employees](https://www.reddit.com/r/news/comments/rhdg86/tmobile_announces_20_an_hour_minimum_wage_for_all/)
+- [5 FBI officials solicited prostitutes overseas while on work trips, DOJ IG says](https://www.reddit.com/r/news/comments/rhd07n/5_fbi_officials_solicited_prostitutes_overseas/)
+- [Judge Rules Hospital Can&#39;t Block Treatment of COVID-19 With Ivermectin](https://www.reddit.com/r/news/comments/rhcrh9/judge_rules_hospital_cant_block_treatment_of/)
+- [Dozens of feral hogs invade Southeast Texas neighborhood](https://www.reddit.com/r/news/comments/rhaliy/dozens_of_feral_hogs_invade_southeast_texas/)
+- [Spacecraft discovers &#39;hidden water&#39; in Mars Grand Canyon](https://www.reddit.com/r/news/comments/rh9w7k/spacecraft_discovers_hidden_water_in_mars_grand/)
 <!-- REDDIT:END -->
 
 
