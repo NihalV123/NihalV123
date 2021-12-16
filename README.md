@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man challenges mask policy on flight by wearing women&#39;s underwear on his face](https://www.reddit.com/r/news/comments/rhumd6/florida_man_challenges_mask_policy_on_flight_by/)
+- [Lawsuit: Factory showed ‘flagrant indifference’ to tornadoes](https://www.reddit.com/r/news/comments/rhtv9t/lawsuit_factory_showed_flagrant_indifference_to/)
+- [60-unit housing complex with rents as low as $465 opens in Southern California](https://www.reddit.com/r/news/comments/rhtjvo/60unit_housing_complex_with_rents_as_low_as_465/)
+- [A Louisiana judge is on unpaid leave and facing pressure to resign after a home video with racist language surfaced](https://www.reddit.com/r/news/comments/rhsxmr/a_louisiana_judge_is_on_unpaid_leave_and_facing/)
+- [Omicron thrives in airways, not lungs; new data on asymptomatic cases](https://www.reddit.com/r/news/comments/rhsne9/omicron_thrives_in_airways_not_lungs_new_data_on/)
 <!-- REDDIT:END -->
 
 
