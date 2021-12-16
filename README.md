@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tesla Sued By 6 Women Workers Over Sexual Harassment Charges](https://www.reddit.com/r/news/comments/rhko8x/tesla_sued_by_6_women_workers_over_sexual/)
+- [Colorado dog that was missing for 2 weeks rescued from ledge](https://www.reddit.com/r/news/comments/rhkc83/colorado_dog_that_was_missing_for_2_weeks_rescued/)
+- [Legislation to Legalize Medical Magic Mushrooms Filed in New York](https://www.reddit.com/r/news/comments/rhk7tz/legislation_to_legalize_medical_magic_mushrooms/)
+- [Intense storm spawns tornadoes, including first ever one in Minnesota during December](https://www.reddit.com/r/news/comments/rhih4u/intense_storm_spawns_tornadoes_including_first/)
+- [Santa Clara County sheriff accused of corrupt misconduct by civil grand jury](https://www.reddit.com/r/news/comments/rhhhd0/santa_clara_county_sheriff_accused_of_corrupt/)
 <!-- REDDIT:END -->
 
 
