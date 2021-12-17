@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [London bars and restaurants are shutting themselves down as Omicron rips through UK](https://www.reddit.com/r/news/comments/riezx2/london_bars_and_restaurants_are_shutting/)
+- [Federal judge rejects Purdue Pharma&#39;s settlement of opioid lawsuits over legal protections for members of Sackler family](https://www.reddit.com/r/news/comments/ri7ndr/federal_judge_rejects_purdue_pharmas_settlement/)
+- [Senate passes ALS bill led by Nebraska congress member, gives ALS community hope](https://www.reddit.com/r/news/comments/ri6viv/senate_passes_als_bill_led_by_nebraska_congress/)
+- [Parents demand rule changes after transgender swimmer smashes records](https://www.reddit.com/r/news/comments/ri53hd/parents_demand_rule_changes_after_transgender/)
+- [Dominion Voting wins key decision in lawsuit against Fox News](https://www.reddit.com/r/news/comments/ri4z90/dominion_voting_wins_key_decision_in_lawsuit/)
 <!-- REDDIT:END -->
 
 
