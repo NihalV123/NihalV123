@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Significant amounts of water&#39; found in Mars&#39; massive version of the Grand Canyon](https://www.reddit.com/r/news/comments/ri8167/significant_amounts_of_water_found_in_mars/)
+- [Federal judge rejects Purdue Pharma&#39;s settlement of opioid lawsuits over legal protections for members of Sackler family](https://www.reddit.com/r/news/comments/ri7ndr/federal_judge_rejects_purdue_pharmas_settlement/)
+- [Parents demand rule changes after transgender swimmer smashes records](https://www.reddit.com/r/news/comments/ri53hd/parents_demand_rule_changes_after_transgender/)
+- [Dominion Voting wins key decision in lawsuit against Fox News](https://www.reddit.com/r/news/comments/ri4z90/dominion_voting_wins_key_decision_in_lawsuit/)
+- [Kellogg reaches another tentative deal with striking workers, union president says](https://www.reddit.com/r/news/comments/ri4ete/kellogg_reaches_another_tentative_deal_with/)
 <!-- REDDIT:END -->
 
 
