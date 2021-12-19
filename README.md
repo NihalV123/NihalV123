@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing suspends vaccine mandate for U S. employees](https://www.reddit.com/r/news/comments/rk079a/boeing_suspends_vaccine_mandate_for_u_s_employees/)
+- [Arizona college students take their hunger strike for voting rights bill to Washington](https://www.reddit.com/r/news/comments/rjz5z7/arizona_college_students_take_their_hunger_strike/)
+- [Rapper Drakeo the Ruler dies at 28 after stabbing at music festival](https://www.reddit.com/r/news/comments/rjyyoi/rapper_drakeo_the_ruler_dies_at_28_after_stabbing/)
+- [UK health minister doesn&#39;t rule out new COVID restrictions before Christmas](https://www.reddit.com/r/news/comments/rjxhp1/uk_health_minister_doesnt_rule_out_new_covid/)
+- [Pakistan: At least 15 dead and 16 injured after explosion in sewer beneath bank in Karachi | World News](https://www.reddit.com/r/news/comments/rjxh5k/pakistan_at_least_15_dead_and_16_injured_after/)
 <!-- REDDIT:END -->
 
 
