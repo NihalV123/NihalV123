@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Food suppliers blame inflation for price hikes. Lawmakers say they&#39;re padding the bill.](https://www.reddit.com/r/news/comments/rjkdc4/food_suppliers_blame_inflation_for_price_hikes/)
+- [Pentagon Documents Reveal &quot;Deeply Flawed&quot; US Air War: Report](https://www.reddit.com/r/news/comments/rjik13/pentagon_documents_reveal_deeply_flawed_us_air/)
+- [The data that shows Boomers are to blame for the labor shortage](https://www.reddit.com/r/news/comments/rjhpfm/the_data_that_shows_boomers_are_to_blame_for_the/)
+- [High school featured on ESPN is investigated, deemed &#39;scam&#39; by Ohio Department of Education](https://www.reddit.com/r/news/comments/rjgojt/high_school_featured_on_espn_is_investigated/)
+- [Russian court accidentally documents Moscow’s military presence in Donbas](https://www.reddit.com/r/news/comments/rjg8c5/russian_court_accidentally_documents_moscows/)
 <!-- REDDIT:END -->
 
 
