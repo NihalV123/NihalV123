@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We need free speech’: protests erupt across Poland over controversial media bill](https://www.reddit.com/r/news/comments/rkkw2q/we_need_free_speech_protests_erupt_across_poland/)
+- [Israel bans travel to U.S. over Omicron concerns](https://www.reddit.com/r/news/comments/rkk8q2/israel_bans_travel_to_us_over_omicron_concerns/)
+- [Moderna Announces their authorized booster &lpar;50 µg of mRNA-1273&rpar; increases Omicron neutralizing antibody levels approximately 37-fold](https://www.reddit.com/r/news/comments/rkk1vg/moderna_announces_their_authorized_booster_50_µg/)
+- [Pfizer CEO says fourth Covid vaccine doses may be needed sooner than expected due to omicron](https://www.reddit.com/r/news/comments/rkgxz3/pfizer_ceo_says_fourth_covid_vaccine_doses_may_be/)
+- [Controversial dog shooting by Winters city employee causes outrage](https://www.reddit.com/r/news/comments/rkgd5h/controversial_dog_shooting_by_winters_city/)
 <!-- REDDIT:END -->
 
 
