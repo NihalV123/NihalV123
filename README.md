@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [48 aboard Royal Caribbean ship that docked at Port Miami test positive for COVID-19](https://www.reddit.com/r/news/comments/rk8k62/48_aboard_royal_caribbean_ship_that_docked_at/)
+- [Leftist Boric wins Chile presidential election after far-right rival Kast concedes defeat](https://www.reddit.com/r/news/comments/rk85k4/leftist_boric_wins_chile_presidential_election/)
+- [U.S. Senator Elizabeth Warren tests positive for COVID-19](https://www.reddit.com/r/news/comments/rk7ttp/us_senator_elizabeth_warren_tests_positive_for/)
+- [Navy unveils maternity uniform pilot program for 2022](https://www.reddit.com/r/news/comments/rk60rl/navy_unveils_maternity_uniform_pilot_program_for/)
+- [Police: Officer fatally shoots man stabbing 13-year-old girl](https://www.reddit.com/r/news/comments/rk5wyu/police_officer_fatally_shoots_man_stabbing/)
 <!-- REDDIT:END -->
 
 
