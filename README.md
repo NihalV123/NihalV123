@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Marjorie Taylor Greene owns stock in 3 vaccine manufacturers](https://www.reddit.com/r/news/comments/rkf8vq/marjorie_taylor_greene_owns_stock_in_3_vaccine/)
+- [Asia stocks, oil prices suffer as Omicron spreads](https://www.reddit.com/r/news/comments/rkcw4b/asia_stocks_oil_prices_suffer_as_omicron_spreads/)
+- [Man, Woman Arrested with Stolen Uhaul Trucks, Debit Cards, Checks, ‘Ghost Gun’ and More](https://www.reddit.com/r/news/comments/rkaj5s/man_woman_arrested_with_stolen_uhaul_trucks_debit/)
+- [48 aboard Royal Caribbean ship that docked at Port Miami test positive for COVID-19](https://www.reddit.com/r/news/comments/rk8k62/48_aboard_royal_caribbean_ship_that_docked_at/)
+- [Leftist Boric wins Chile presidential election after far-right rival Kast concedes defeat](https://www.reddit.com/r/news/comments/rk85k4/leftist_boric_wins_chile_presidential_election/)
 <!-- REDDIT:END -->
 
 
