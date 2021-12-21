@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Authorities in Qatar, host of next year&#39;s football World Cup, have confiscated a line of children&#39;s toys from stores deeming their rainbow colours &quot;contrary to Islamic values&quot;](https://www.reddit.com/r/news/comments/rlco74/authorities_in_qatar_host_of_next_years_football/)
+- [U.S. will deploy troops to help hospitals during omicron wave, distribute free Covid tests starting in January](https://www.reddit.com/r/news/comments/rlceym/us_will_deploy_troops_to_help_hospitals_during/)
+- [Denver man loses $1.6 million in new &quot;Pig Butchering&quot; cryptocurrency scam](https://www.reddit.com/r/news/comments/rl8g6c/denver_man_loses_16_million_in_new_pig_butchering/)
+- [Alex Jones of Infowars to invoke right not to testify to U.S. Capitol riot panel](https://www.reddit.com/r/news/comments/rl7qq1/alex_jones_of_infowars_to_invoke_right_not_to/)
+- [Reports: NHL will shut down early due to COVID rise](https://www.reddit.com/r/news/comments/rl4xhs/reports_nhl_will_shut_down_early_due_to_covid_rise/)
 <!-- REDDIT:END -->
 
 
