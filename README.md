@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutors in Colorado Truck Driver Case with 4.3 Million Calling for Clemency Made Trophy out of Brake Pad and Bragged on Social Media](https://www.reddit.com/r/news/comments/rl5ms3/prosecutors_in_colorado_truck_driver_case_with_43/)
+- [Reports: NHL will shut down early due to COVID rise](https://www.reddit.com/r/news/comments/rl4xhs/reports_nhl_will_shut_down_early_due_to_covid_rise/)
+- [Walmart illegally dumps 1m toxic items in landfills yearly, lawsuit claims](https://www.reddit.com/r/news/comments/rl4atv/walmart_illegally_dumps_1m_toxic_items_in/)
+- [Nanaimo fisherman handed lifetime ban following midnight poaching of hundreds of crabs in Vancouver harbour](https://www.reddit.com/r/news/comments/rl3vdv/nanaimo_fisherman_handed_lifetime_ban_following/)
+- [Texas confirms first known Omicron-related death in the United States](https://www.reddit.com/r/news/comments/rl3li2/texas_confirms_first_known_omicronrelated_death/)
 <!-- REDDIT:END -->
 
 
