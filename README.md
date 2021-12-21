@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Omicron sweeps across nation, now 73% of US COVID-19 cases](https://www.reddit.com/r/news/comments/rkzeoj/omicron_sweeps_across_nation_now_73_of_us_covid19/)
+- [Man who joined Capitol melee gets nearly 4 years in prison](https://www.reddit.com/r/news/comments/rkz5f0/man_who_joined_capitol_melee_gets_nearly_4_years/)
+- [California sues Walmart over disposal of hazardous waste](https://www.reddit.com/r/news/comments/rkyknx/california_sues_walmart_over_disposal_of/)
+- [Prosecutors call Ghislaine Maxwell predator as defence claims sensationalism](https://www.reddit.com/r/news/comments/rkxh44/prosecutors_call_ghislaine_maxwell_predator_as/)
+- [Hubble telescope’s bigger, more powerful successor to soar](https://www.reddit.com/r/news/comments/rkw7m3/hubble_telescopes_bigger_more_powerful_successor/)
 <!-- REDDIT:END -->
 
 
