@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [In an historic vote, Italy to ban fur farming and shut down all mink farms within six months - Humane Society International](https://www.reddit.com/r/news/comments/rly0ao/in_an_historic_vote_italy_to_ban_fur_farming_and/)
+- [110 Year Sentence For Truck Driver Being Reconsidered](https://www.reddit.com/r/news/comments/rlwpy2/110_year_sentence_for_truck_driver_being/)
+- [Police arrest 76-year-old man in cold case of 1978 strangling death of teen in San Francisco](https://www.reddit.com/r/news/comments/rlu8vn/police_arrest_76yearold_man_in_cold_case_of_1978/)
+- [US inmates sent home due to Covid-19 will not be returned to prison](https://www.reddit.com/r/news/comments/rltzln/us_inmates_sent_home_due_to_covid19_will_not_be/)
+- [Secret Service: Nearly $100B stolen in pandemic relief funds](https://www.reddit.com/r/news/comments/rlt9ar/secret_service_nearly_100b_stolen_in_pandemic/)
 <!-- REDDIT:END -->
 
 
