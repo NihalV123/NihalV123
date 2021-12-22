@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Government official swims 12 hours to shore after helicopter crash off Madagascar: &quot;My time to die hasn&#39;t come yet&quot;](https://www.reddit.com/r/news/comments/rlr4kq/government_official_swims_12_hours_to_shore_after/)
+- [Iowa man arraigned on 7 charges for Jan. 6 US Capitol attack](https://www.reddit.com/r/news/comments/rlqz85/iowa_man_arraigned_on_7_charges_for_jan_6_us/)
+- [Utah billionaire leaves Mormon church, donates $600K to LGBTQ group](https://www.reddit.com/r/news/comments/rlqqhk/utah_billionaire_leaves_mormon_church_donates/)
+- [Missing Utah college student Madelyn Allen found alive, &#39;covered in coal&#39; in suspect&#39;s basement](https://www.reddit.com/r/news/comments/rlql9w/missing_utah_college_student_madelyn_allen_found/)
+- [Intel tells unvaccinated employees they face unpaid leave](https://www.reddit.com/r/news/comments/rlps60/intel_tells_unvaccinated_employees_they_face/)
 <!-- REDDIT:END -->
 
 
