@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pause on student loan payments is extended through May 1](https://www.reddit.com/r/news/comments/rmag2d/pause_on_student_loan_payments_is_extended/)
+- [Pfizer pill becomes 1st US-authorized home COVID treatment](https://www.reddit.com/r/news/comments/rma12w/pfizer_pill_becomes_1st_usauthorized_home_covid/)
+- [US probes potential of drivers playing video games in Teslas](https://www.reddit.com/r/news/comments/rm952u/us_probes_potential_of_drivers_playing_video/)
+- [AP sources: NHL to withdraw from Olympics after COVID surge](https://www.reddit.com/r/news/comments/rm94my/ap_sources_nhl_to_withdraw_from_olympics_after/)
+- [Dutch prosecutors demand life sentences in MH17 downing](https://www.reddit.com/r/news/comments/rm944y/dutch_prosecutors_demand_life_sentences_in_mh17/)
 <!-- REDDIT:END -->
 
 
