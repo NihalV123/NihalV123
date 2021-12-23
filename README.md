@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. bans imports from China’s Xinjiang region, citing human rights abuses](https://www.reddit.com/r/news/comments/rn0dh8/us_bans_imports_from_chinas_xinjiang_region/)
+- [Capitol rioters hit with severe sentences and sharp reprimands from judges](https://www.reddit.com/r/news/comments/rmyqad/capitol_rioters_hit_with_severe_sentences_and/)
+- [Victims speak out amid push for governor to commute truck driver&#39;s 110-year sentence](https://www.reddit.com/r/news/comments/rmyhgy/victims_speak_out_amid_push_for_governor_to/)
+- [FDA clears second at-home Covid treatment, from Merck](https://www.reddit.com/r/news/comments/rmy4ds/fda_clears_second_athome_covid_treatment_from/)
+- [Amazon warehouse workers on Staten Island refile union petition](https://www.reddit.com/r/news/comments/rmxgbl/amazon_warehouse_workers_on_staten_island_refile/)
 <!-- REDDIT:END -->
 
 
