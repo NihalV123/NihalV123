@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan diner owner who defied state shutdown dies of COVID-19](https://www.reddit.com/r/news/comments/rmhl2l/michigan_diner_owner_who_defied_state_shutdown/)
+- [Pennsylvania Congresswoman Mary Gay Scanlon Carjacked in South Philly](https://www.reddit.com/r/news/comments/rmgf8e/pennsylvania_congresswoman_mary_gay_scanlon/)
+- [9 days after tornado, cat found in rubble of building](https://www.reddit.com/r/news/comments/rmg58l/9_days_after_tornado_cat_found_in_rubble_of/)
+- [10-year-old PA girl dies after trying dangerous &#39;Blackout Challenge&#39; on social media](https://www.reddit.com/r/news/comments/rmfh4g/10yearold_pa_girl_dies_after_trying_dangerous/)
+- [In milestone deal, Proud Boy pleads guilty in Capitol riot](https://www.reddit.com/r/news/comments/rmfeqe/in_milestone_deal_proud_boy_pleads_guilty_in/)
 <!-- REDDIT:END -->
 
 
