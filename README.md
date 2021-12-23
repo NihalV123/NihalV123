@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [United States is world’s biggest plastic polluter, report finds](https://www.reddit.com/r/news/comments/rmm5dq/united_states_is_worlds_biggest_plastic_polluter/)
+- [Former U.S. sailor sentenced for selling stolen special ops gear to China](https://www.reddit.com/r/news/comments/rmm0aw/former_us_sailor_sentenced_for_selling_stolen/)
+- [Florida pulls pro-vaccination television ads, replacing with spots that don’t mention vaccines](https://www.reddit.com/r/news/comments/rmkgyo/florida_pulls_provaccination_television_ads/)
+- [Michigan diner owner who defied state shutdown dies of COVID-19](https://www.reddit.com/r/news/comments/rmhl2l/michigan_diner_owner_who_defied_state_shutdown/)
+- [Parents charged in Oxford school shooting seek lower bail](https://www.reddit.com/r/news/comments/rmhedi/parents_charged_in_oxford_school_shooting_seek/)
 <!-- REDDIT:END -->
 
 
