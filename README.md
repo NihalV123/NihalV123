@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutor Accuses Ethan Crumbley&#39;s Mom of &#39;Extramarital Affairs&#39; While Son Struggled. Shares many other new details, Ethan tortured animals, they hadn’t paid mortgage in over a year](https://www.reddit.com/r/news/comments/rnq2s2/prosecutor_accuses_ethan_crumbleys_mom_of/)
+- [Former Milwaukee Co. judge sentenced in child pornography case](https://www.reddit.com/r/news/comments/rnpioe/former_milwaukee_co_judge_sentenced_in_child/)
+- [More than 2,000 flights canceled on Christmas Eve](https://www.reddit.com/r/news/comments/rnp9ib/more_than_2000_flights_canceled_on_christmas_eve/)
+- [Satellite images show Russia still building up forces near Ukraine](https://www.reddit.com/r/news/comments/rnp35b/satellite_images_show_russia_still_building_up/)
+- [Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19](https://www.reddit.com/r/news/comments/rnoohv/uncounted_inaccurate_death_certificates_across/)
 <!-- REDDIT:END -->
 
 
