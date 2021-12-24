@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boston College student&#39;s girlfriend pleads guilty over his suicide](https://www.reddit.com/r/news/comments/rn8vlw/boston_college_students_girlfriend_pleads_guilty/)
+- [LA County continues alarming trend in COVID cases with more than 8,600 new cases being reported](https://www.reddit.com/r/news/comments/rn7ef4/la_county_continues_alarming_trend_in_covid_cases/)
+- [Metairie man caught deceiving babysitters into changing his diapers arrested for second time](https://www.reddit.com/r/news/comments/rn6v5p/metairie_man_caught_deceiving_babysitters_into/)
+- [Ford recalls nearly 185,000 F-150s for defect that can cause drivers to lose control of the vehicle](https://www.reddit.com/r/news/comments/rn6svv/ford_recalls_nearly_185000_f150s_for_defect_that/)
+- [Texas board withdraws pardon recommendation for George Floyd](https://www.reddit.com/r/news/comments/rn6gjn/texas_board_withdraws_pardon_recommendation_for/)
 <!-- REDDIT:END -->
 
 
