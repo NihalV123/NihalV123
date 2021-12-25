@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [French zoo closed temporarily after pack of nine wolves escape](https://www.reddit.com/r/news/comments/rnx2mp/french_zoo_closed_temporarily_after_pack_of_nine/)
+- [World’s oldest person ever dies aged 135](https://www.reddit.com/r/news/comments/rnwnyw/worlds_oldest_person_ever_dies_aged_135/)
+- [France&#39;s EDF takes more nuclear reactors offline after faults found](https://www.reddit.com/r/news/comments/rnwit1/frances_edf_takes_more_nuclear_reactors_offline/)
+- [US Marines among 12 apprehended in Okinawa for drug smuggling - The Mainichi](https://www.reddit.com/r/news/comments/rnuvpg/us_marines_among_12_apprehended_in_okinawa_for/)
+- [Uber driver charged with raping passenger during Vegas ride](https://www.reddit.com/r/news/comments/rnsp0s/uber_driver_charged_with_raping_passenger_during/)
 <!-- REDDIT:END -->
 
 
