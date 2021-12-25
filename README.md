@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheriff: ‘Sexual predator’ facing charges after 6-year-old girl tests positive for STD](https://www.reddit.com/r/news/comments/rod7jc/sheriff_sexual_predator_facing_charges_after/)
+- [Flight cancellations drag on as airlines short-staffed | AP News](https://www.reddit.com/r/news/comments/rocvi7/flight_cancellations_drag_on_as_airlines/)
+- [Nurse goes beyond duty and rescues a hospitalized patient&#39;s dog from the shelter](https://www.reddit.com/r/news/comments/rocm4l/nurse_goes_beyond_duty_and_rescues_a_hospitalized/)
+- [More than 10,000 Russian troops returning to bases after drills near Ukraine](https://www.reddit.com/r/news/comments/roc21e/more_than_10000_russian_troops_returning_to_bases/)
+- [Russia blocks website of group that tracks political arrests](https://www.reddit.com/r/news/comments/robggn/russia_blocks_website_of_group_that_tracks/)
 <!-- REDDIT:END -->
 
 
