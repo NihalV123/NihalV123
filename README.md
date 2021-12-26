@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South African anti-apartheid campaigner Archbishop Tutu dies aged 90](https://www.reddit.com/r/news/comments/ros1ju/south_african_antiapartheid_campaigner_archbishop/)
+- [New York City bans natural gas in new buildings](https://www.reddit.com/r/news/comments/rorarj/new_york_city_bans_natural_gas_in_new_buildings/)
+- [6,300 flights cancelled as Omicron hits Christmas weekend travel | Coronavirus pandemic News](https://www.reddit.com/r/news/comments/roqqj1/6300_flights_cancelled_as_omicron_hits_christmas/)
+- [El Salvador frees 3 women convicted under anti-abortion laws : NPR](https://www.reddit.com/r/news/comments/roqjmi/el_salvador_frees_3_women_convicted_under/)
+- [COVID-positive Vermonters with no symptoms clog up ERs](https://www.reddit.com/r/news/comments/rop5l6/covidpositive_vermonters_with_no_symptoms_clog_up/)
 <!-- REDDIT:END -->
 
 
