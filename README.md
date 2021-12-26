@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Women in Perry Stone&#39;s ministry allege sexual misconduct, say FBI is investigating televangelist](https://www.reddit.com/r/news/comments/rp1jlb/women_in_perry_stones_ministry_allege_sexual/)
+- [Man killed in front of his 3 kids, girlfriend in potential Christmas Eve road rage shooting](https://www.reddit.com/r/news/comments/royslg/man_killed_in_front_of_his_3_kids_girlfriend_in/)
+- [Pope prays for end to pandemic in Christmas address](https://www.reddit.com/r/news/comments/row7co/pope_prays_for_end_to_pandemic_in_christmas/)
+- [Covid: Travel misery for tens of thousands with at least 7,000 flights cancelled](https://www.reddit.com/r/news/comments/rovth5/covid_travel_misery_for_tens_of_thousands_with_at/)
+- [Suicide bomber kills at least five at east Congo restaurant](https://www.reddit.com/r/news/comments/rovkob/suicide_bomber_kills_at_least_five_at_east_congo/)
 <!-- REDDIT:END -->
 
 
