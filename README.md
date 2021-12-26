@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [COVID-positive Vermonters with no symptoms clog up ERs](https://www.reddit.com/r/news/comments/rop5l6/covidpositive_vermonters_with_no_symptoms_clog_up/)
+- [Warning against unnecessary circumcision from Australian Medical Association president Mark Duncan-Smith after two-year-old dies and brother almost bleeds out in Western Australia](https://www.reddit.com/r/news/comments/rooh0h/warning_against_unnecessary_circumcision_from/)
+- [Fossil of a giant millipede reveals &#39;the biggest bug that ever lived&#39;](https://www.reddit.com/r/news/comments/rom2af/fossil_of_a_giant_millipede_reveals_the_biggest/)
+- [Missouri boarding school doctor accused of child sex crimes](https://www.reddit.com/r/news/comments/rokou9/missouri_boarding_school_doctor_accused_of_child/)
+- [Son of animal hoarder drops off nearly 500 parakeets at animal shelter before Christmas](https://www.reddit.com/r/news/comments/rok0ra/son_of_animal_hoarder_drops_off_nearly_500/)
 <!-- REDDIT:END -->
 
 
