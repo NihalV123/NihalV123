@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Son of animal hoarder drops off nearly 500 parakeets at animal shelter before Christmas](https://www.reddit.com/r/news/comments/rok0ra/son_of_animal_hoarder_drops_off_nearly_500/)
+- [Tests popular on Christmas as Florida hits new virus record | AP News](https://www.reddit.com/r/news/comments/roimgd/tests_popular_on_christmas_as_florida_hits_new/)
+- [Alex Jones&#39; wife arrested on domestic violence charge](https://www.reddit.com/r/news/comments/roi1a0/alex_jones_wife_arrested_on_domestic_violence/)
+- [Austin police shoot man reportedly waving rifle on highway](https://www.reddit.com/r/news/comments/roi0rc/austin_police_shoot_man_reportedly_waving_rifle/)
+- [Ethiopia to lose access to lucrative US trade program following CNN investigation](https://www.reddit.com/r/news/comments/rof0ra/ethiopia_to_lose_access_to_lucrative_us_trade/)
 <!-- REDDIT:END -->
 
 
