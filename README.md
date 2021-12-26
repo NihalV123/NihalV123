@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [Temporal: a nova forma de se trabalhar com datas em JavaScript](https://dev.to/azure/temporal-a-nova-forma-de-se-trabalhar-com-datas-em-javascript-3mfl)
+- [O que há de novo no TypeScript 4.4](https://dev.to/azure/o-que-ha-de-novo-no-typescript-4-4-14cj)
+- [Conheça o SparkPlug, o novo compilador de JS do V8](https://dev.to/azure/conheca-o-sparkplug-o-novo-compilador-de-js-do-v8-4mk4)
+- [O ES2021 foi aprovado! Confira a lista de novidades no JavaScript](https://dev.to/azure/o-es2021-foi-aprovado-confira-a-lista-de-novidades-no-javascript-e8c)
+- [O Guia Completo do gRPC parte 4: Streams](https://dev.to/azure/o-guia-completo-do-grpc-parte-4-streams-cfc)
 <!-- DEVTO:END -->
 
 ### Medium
