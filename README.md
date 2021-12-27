@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [COVID-19 live updates: 4 cruise ships report virus outbreaks](https://www.reddit.com/r/news/comments/rpruxq/covid19_live_updates_4_cruise_ships_report_virus/)
+- [Girl, 7, killed in shooting while riding in car with her mom in Algiers, NOPD says](https://www.reddit.com/r/news/comments/rpq2lw/girl_7_killed_in_shooting_while_riding_in_car/)
+- [Omicron, weather cause travel chaos as thousands of flights canceled](https://www.reddit.com/r/news/comments/rppr18/omicron_weather_cause_travel_chaos_as_thousands/)
+- [Delta: Flight to Shanghai turned back because of COVID rules](https://www.reddit.com/r/news/comments/rppl5e/delta_flight_to_shanghai_turned_back_because_of/)
+- [China replaces Xinjiang party boss associated with Uyghur crackdown](https://www.reddit.com/r/news/comments/rpolrw/china_replaces_xinjiang_party_boss_associated/)
 <!-- REDDIT:END -->
 
 
