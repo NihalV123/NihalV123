@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sarah Weddington, attorney who won Roe v Wade abortion case, dies aged 76](https://www.reddit.com/r/news/comments/rp9olq/sarah_weddington_attorney_who_won_roe_v_wade/)
+- [Man Shoots 4 at Virginia Rest Stop: Police](https://www.reddit.com/r/news/comments/rp9day/man_shoots_4_at_virginia_rest_stop_police/)
+- [Holland America cruise skips Mexico stop after positive Covid-19 tests](https://www.reddit.com/r/news/comments/rp9cd8/holland_america_cruise_skips_mexico_stop_after/)
+- [Wanda Young, member of Motown&#39;s The Marvelettes, dies at 78](https://www.reddit.com/r/news/comments/rp8xx2/wanda_young_member_of_motowns_the_marvelettes/)
+- [Missouri woman charged with killing boyfriend with a sword](https://www.reddit.com/r/news/comments/rp8tti/missouri_woman_charged_with_killing_boyfriend/)
 <!-- REDDIT:END -->
 
 
