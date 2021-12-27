@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Private jet firms are soaring in popularity after big COVID-19 bailouts. Were they a &#39;handout to the wealthy&#39;?](https://www.reddit.com/r/news/comments/rpever/private_jet_firms_are_soaring_in_popularity_after/)
+- [Fairfax Police Officers Protected Sex Trafficking Ring](https://www.reddit.com/r/news/comments/rpeime/fairfax_police_officers_protected_sex_trafficking/)
+- [Spider-Man: No Way Home becomes first pandemic-era film to top $1bn](https://www.reddit.com/r/news/comments/rpdzlv/spiderman_no_way_home_becomes_first_pandemicera/)
+- [ANOTHER RECORD: Nearly 50,000 new COVID cases in NY](https://www.reddit.com/r/news/comments/rpdhps/another_record_nearly_50000_new_covid_cases_in_ny/)
+- [Sheriff: Southern California man tortures, kills his 24-year-old girlfriend on Christmas Eve](https://www.reddit.com/r/news/comments/rpb539/sheriff_southern_california_man_tortures_kills/)
 <!-- REDDIT:END -->
 
 
