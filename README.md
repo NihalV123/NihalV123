@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Officials: Nearly 25% of Navy warship crew has COVID-19](https://www.reddit.com/r/news/comments/rq5r31/officials_nearly_25_of_navy_warship_crew_has/)
+- [New Omicron variant fills children&#39;s hospitals](https://www.reddit.com/r/news/comments/rq5q2y/new_omicron_variant_fills_childrens_hospitals/)
+- [U.S. reports 472,112 new coronavirus cases as many states dump holiday backlogs](https://www.reddit.com/r/news/comments/rq5g2u/us_reports_472112_new_coronavirus_cases_as_many/)
+- [Crews find second apparent 1887 time capsule under Robert E Lee statue](https://www.reddit.com/r/news/comments/rq3qh5/crews_find_second_apparent_1887_time_capsule/)
+- [China anger after space station forced to move to avoid Elon Musk Starlink satellites](https://www.reddit.com/r/news/comments/rq3j19/china_anger_after_space_station_forced_to_move_to/)
 <!-- REDDIT:END -->
 
 
