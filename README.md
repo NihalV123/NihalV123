@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Omicron is ‘not the same disease’ as earlier Covid waves, says UK scientist | Omicron variant](https://www.reddit.com/r/news/comments/rqdpou/omicron_is_not_the_same_disease_as_earlier_covid/)
+- [Shooting spree in Denver and Lakewood leaves five dead including shooter; officer wounded](https://www.reddit.com/r/news/comments/rq8uyg/shooting_spree_in_denver_and_lakewood_leaves_five/)
+- [Burglar follows Apple customer to steal $18,000 purchase from parked car, police say](https://www.reddit.com/r/news/comments/rq8t6s/burglar_follows_apple_customer_to_steal_18000/)
+- [Los Angeles woman faces federal charge after allegedly punching another passenger on Delta flight](https://www.reddit.com/r/news/comments/rq86xv/los_angeles_woman_faces_federal_charge_after/)
+- [LA police video shows officer shooting that killed bystander](https://www.reddit.com/r/news/comments/rq6l26/la_police_video_shows_officer_shooting_that/)
 <!-- REDDIT:END -->
 
 
