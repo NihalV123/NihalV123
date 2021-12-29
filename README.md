@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [John Madden, football legend, dies at 85](https://www.reddit.com/r/news/comments/rqu2zw/john_madden_football_legend_dies_at_85/)
+- [Man searching for deer antlers in Missouri finds remains of missing MMA fighter](https://www.reddit.com/r/news/comments/rqt9am/man_searching_for_deer_antlers_in_missouri_finds/)
+- [Alexa tells 10-year-old girl to touch live plug with penny](https://www.reddit.com/r/news/comments/rqsdr9/alexa_tells_10yearold_girl_to_touch_live_plug/)
+- [Retired Virginia priest charged with child sex abuse](https://www.reddit.com/r/news/comments/rqs9s3/retired_virginia_priest_charged_with_child_sex/)
+- [Baltimore Police officer who was shot while sitting in her patrol car has died](https://www.reddit.com/r/news/comments/rqq9z5/baltimore_police_officer_who_was_shot_while/)
 <!-- REDDIT:END -->
 
 
