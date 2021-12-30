@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘I’m still in pain’: Amazon employees say climate of fear has led to high rates of injuries](https://www.reddit.com/r/news/comments/rrzzyg/im_still_in_pain_amazon_employees_say_climate_of/)
+- [Tiger shot after biting worker’s arm at Florida zoo, authorities say](https://www.reddit.com/r/news/comments/rrrqem/tiger_shot_after_biting_workers_arm_at_florida/)
+- [Australia&#39;s Old Parliament House set on fire by protestors](https://www.reddit.com/r/news/comments/rrr2xm/australias_old_parliament_house_set_on_fire_by/)
+- [Kazakhstan scraps death penalty after nearly 20-year moratorium](https://www.reddit.com/r/news/comments/rrqsf7/kazakhstan_scraps_death_penalty_after_nearly/)
+- [North Carolina 3-year-old who accidentally shot herself on Christmas Day has died](https://www.reddit.com/r/news/comments/rrq091/north_carolina_3yearold_who_accidentally_shot/)
 <!-- REDDIT:END -->
 
 
