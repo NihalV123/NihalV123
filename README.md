@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia Giuffre&#39;s lawyers demand proof that Prince Andrew can&#39;t sweat](https://www.reddit.com/r/news/comments/rsytxg/virginia_giuffres_lawyers_demand_proof_that/)
+- [Pa. Supreme Court says warrantless searches not justified by cannabis smell alone](https://www.reddit.com/r/news/comments/rsym1f/pa_supreme_court_says_warrantless_searches_not/)
+- [Lafayette judge linked to video featuring racist remarks resigns](https://www.reddit.com/r/news/comments/rsyfdf/lafayette_judge_linked_to_video_featuring_racist/)
+- [Virginia AG sues town where police threatened Black Army lieutenant during stop](https://www.reddit.com/r/news/comments/rsxovk/virginia_ag_sues_town_where_police_threatened/)
+- [1 in 15 people in London likely has COVID-19](https://www.reddit.com/r/news/comments/rswu8t/1_in_15_people_in_london_likely_has_covid19/)
 <!-- REDDIT:END -->
 
 
