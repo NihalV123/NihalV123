@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado Gov. Jared Polis reduces I-70 truck driver Rogel Aguilera-Mederos&#39; sentence to 10 years](https://www.reddit.com/r/news/comments/rsfc8y/colorado_gov_jared_polis_reduces_i70_truck_driver/)
+- [Māori journalist becomes first person with facial markings to present primetime news](https://www.reddit.com/r/news/comments/rsej00/māori_journalist_becomes_first_person_with_facial/)
+- [Colorado town evacuated by wind-driven wildfire](https://www.reddit.com/r/news/comments/rscnqu/colorado_town_evacuated_by_winddriven_wildfire/)
+- [Colorado police officer hailed a hero after she was shot during deadly ‘rampage’ and reportedly took down the suspect while wounded](https://www.reddit.com/r/news/comments/rscfv5/colorado_police_officer_hailed_a_hero_after_she/)
+- [U.S. ends case against Jeffrey Epstein&#39;s jail guards](https://www.reddit.com/r/news/comments/rsbuw5/us_ends_case_against_jeffrey_epsteins_jail_guards/)
 <!-- REDDIT:END -->
 
 
