@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We lost everything’: Colorado wildfire destroys hundreds of homes | Colorado](https://www.reddit.com/r/news/comments/rto8ye/we_lost_everything_colorado_wildfire_destroys/)
+- [Michigan schools hiring hundreds of mental health staffers](https://www.reddit.com/r/news/comments/rtnsno/michigan_schools_hiring_hundreds_of_mental_health/)
+- [China warns Walmart over alleged removal of Xinjiang-sourced products from stores](https://www.reddit.com/r/news/comments/rtnbbw/china_warns_walmart_over_alleged_removal_of/)
+- [French ban on plastic packaging for fruit and vegetables begins](https://www.reddit.com/r/news/comments/rtmkqm/french_ban_on_plastic_packaging_for_fruit_and/)
+- [Israel reports first case of ‘flurona’ – rare double infection of Covid and influenza](https://www.reddit.com/r/news/comments/rtlkuy/israel_reports_first_case_of_flurona_rare_double/)
 <!-- REDDIT:END -->
 
 
