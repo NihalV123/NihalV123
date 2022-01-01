@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US children hospitalized with COVID in record numbers](https://www.reddit.com/r/news/comments/rtcj49/us_children_hospitalized_with_covid_in_record/)
+- [Case dropped against jail guards on duty night Epstein died](https://www.reddit.com/r/news/comments/rtcfq3/case_dropped_against_jail_guards_on_duty_night/)
+- [Sam Jones, Hall of Famer who won 10 NBA titles with Boston Celtics, dies at 88](https://www.reddit.com/r/news/comments/rtbowt/sam_jones_hall_of_famer_who_won_10_nba_titles/)
+- [6 people were injured in a shooting incident outside a southern Los Angeles grocery store, police say](https://www.reddit.com/r/news/comments/rtbix8/6_people_were_injured_in_a_shooting_incident/)
+- [Stolen property, income from illegal activities must be reported on taxes, IRS says](https://www.reddit.com/r/news/comments/rtaljn/stolen_property_income_from_illegal_activities/)
 <!-- REDDIT:END -->
 
 
