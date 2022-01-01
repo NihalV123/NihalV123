@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [24C in Spain, 15C in the Alps: oddly warm end to 2021 in parts of Europe | Spain](https://www.reddit.com/r/news/comments/rth0se/24c_in_spain_15c_in_the_alps_oddly_warm_end_to/)
+- [No documents in Prince Andrew&#39;s possession to prove inability to sweat claim](https://www.reddit.com/r/news/comments/rtf7ft/no_documents_in_prince_andrews_possession_to/)
+- [James Webb Space Telescope unfurls massive sunshield in major deployment milestone](https://www.reddit.com/r/news/comments/rtd5y5/james_webb_space_telescope_unfurls_massive/)
+- [Eric Adams Is Sworn in as NYC Mayor Minutes After Midnight in Times Square](https://www.reddit.com/r/news/comments/rtcmzf/eric_adams_is_sworn_in_as_nyc_mayor_minutes_after/)
+- [US children hospitalized with COVID in record numbers](https://www.reddit.com/r/news/comments/rtcj49/us_children_hospitalized_with_covid_in_record/)
 <!-- REDDIT:END -->
 
 
