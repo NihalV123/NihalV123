@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal judge dismisses reverse discrimination lawsuits filed by 3 White male police officers in Michigan](https://www.reddit.com/r/news/comments/rtvglv/federal_judge_dismisses_reverse_discrimination/)
+- [US shatters its average daily Covid-19 case record again. Experts describe coming weeks as a &#39;tidal wave&#39; and &#39;blizzard&#39;](https://www.reddit.com/r/news/comments/rttked/us_shatters_its_average_daily_covid19_case_record/)
+- [France introduces free birth control for all women under 25](https://www.reddit.com/r/news/comments/rttj8v/france_introduces_free_birth_control_for_all/)
+- [California high school students disciplined over swastika photos, superintendent says](https://www.reddit.com/r/news/comments/rtsrw1/california_high_school_students_disciplined_over/)
+- [2021 ends as Chicago&#39;s deadliest year in a quarter century](https://www.reddit.com/r/news/comments/rtrqui/2021_ends_as_chicagos_deadliest_year_in_a_quarter/)
 <!-- REDDIT:END -->
 
 
