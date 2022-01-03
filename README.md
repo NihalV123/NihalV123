@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World’s oldest person celebrates 119th birthday in Japan nursing home | Japan](https://www.reddit.com/r/news/comments/ruw298/worlds_oldest_person_celebrates_119th_birthday_in/)
+- [Chinese property giant Evergrande shares placed in trading halt after luxury island demolition order](https://www.reddit.com/r/news/comments/ruv5qy/chinese_property_giant_evergrande_shares_placed/)
+- [Man Kidnapped as a Child in China Reunited with Family After Drawing a Map of Home Village from Memory](https://www.reddit.com/r/news/comments/ruudts/man_kidnapped_as_a_child_in_china_reunited_with/)
+- [Milwaukee Public Schools will temporarily transition to virtual learning due to influx of COVID-19 cases among staff members](https://www.reddit.com/r/news/comments/rutmj8/milwaukee_public_schools_will_temporarily/)
+- [Man Dies in NYC Subway Station After Allegedly Trying to Jump Turnstile](https://www.reddit.com/r/news/comments/rusc6r/man_dies_in_nyc_subway_station_after_allegedly/)
 <!-- REDDIT:END -->
 
 
