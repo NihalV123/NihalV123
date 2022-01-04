@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘The governor is an enemy of the people,’ well-known activist says as he’s handcuffed ahead of DeSantis news conference](https://www.reddit.com/r/news/comments/rvxz34/the_governor_is_an_enemy_of_the_people_wellknown/)
+- [A record 4.5 million Americans quit their jobs in November](https://www.reddit.com/r/news/comments/rvxc48/a_record_45_million_americans_quit_their_jobs_in/)
+- [Nirvana Nevermind baby cover artwork lawsuit dismissed](https://www.reddit.com/r/news/comments/rvwk63/nirvana_nevermind_baby_cover_artwork_lawsuit/)
+- [Prince Andrew launches legal gambit to derail sex abuse suit](https://www.reddit.com/r/news/comments/rvwfpl/prince_andrew_launches_legal_gambit_to_derail_sex/)
+- [Arrests after female Muslim activists ‘put up for sale’ in fake auction in India](https://www.reddit.com/r/news/comments/rvv8kb/arrests_after_female_muslim_activists_put_up_for/)
 <!-- REDDIT:END -->
 
 
