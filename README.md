@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Denver, Boulder area King Soopers union workers vote to strike](https://www.reddit.com/r/news/comments/rvku7t/denver_boulder_area_king_soopers_union_workers/)
+- [Mississippi officer discovers son’s body in the road while responding to a call](https://www.reddit.com/r/news/comments/rvj6qa/mississippi_officer_discovers_sons_body_in_the/)
+- [NASA&#39;s new space telescope &#39;hunky-dory&#39; after problems fixed](https://www.reddit.com/r/news/comments/rvi158/nasas_new_space_telescope_hunkydory_after/)
+- [Starbucks to require all U.S. workers get COVID-19 vaccine or tested](https://www.reddit.com/r/news/comments/rvgfdu/starbucks_to_require_all_us_workers_get_covid19/)
+- [Jury convicts Elizabeth Holmes of fraud and conspiracy at her former startup Theranos but acquits on some charges](https://www.reddit.com/r/news/comments/rvgcfd/jury_convicts_elizabeth_holmes_of_fraud_and/)
 <!-- REDDIT:END -->
 
 
