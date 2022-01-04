@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. reports over 1 million new daily Covid cases as omicron surges](https://www.reddit.com/r/news/comments/rvrhvj/us_reports_over_1_million_new_daily_covid_cases/)
+- [Nirvana Nevermind baby cover artwork lawsuit dismissed | Nirvana | The Guardian](https://www.reddit.com/r/news/comments/rvqgur/nirvana_nevermind_baby_cover_artwork_lawsuit/)
+- [96 Michigan children hospitalized with COVID, breaking pandemic record](https://www.reddit.com/r/news/comments/rvq5w8/96_michigan_children_hospitalized_with_covid/)
+- [U.S. judge blocks Pentagon from punishing Navy SEALs who refused COVID-19 vaccine](https://www.reddit.com/r/news/comments/rvo0qs/us_judge_blocks_pentagon_from_punishing_navy/)
+- [Tesla criticised for opening showroom in Xinjiang despite human rights abuses](https://www.reddit.com/r/news/comments/rvn8sn/tesla_criticised_for_opening_showroom_in_xinjiang/)
 <!-- REDDIT:END -->
 
 
