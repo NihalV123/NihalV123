@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Starbucks to require all U.S. workers get COVID-19 vaccine or tested](https://www.reddit.com/r/news/comments/rvgfdu/starbucks_to_require_all_us_workers_get_covid19/)
+- [Jury convicts Elizabeth Holmes of fraud and conspiracy at her former startup Theranos but acquits on some charges](https://www.reddit.com/r/news/comments/rvgcfd/jury_convicts_elizabeth_holmes_of_fraud_and/)
+- [Colorado&#39;s Marshall fire: Climate change and growing population led to disaster, scientists say](https://www.reddit.com/r/news/comments/rve5o6/colorados_marshall_fire_climate_change_and/)
+- [$29,000 for an average used car? Would-be buyers are aghast](https://www.reddit.com/r/news/comments/rvdlf0/29000_for_an_average_used_car_wouldbe_buyers_are/)
+- [Florida governor calls on feds for more COVID antibody doses](https://www.reddit.com/r/news/comments/rvbdfd/florida_governor_calls_on_feds_for_more_covid/)
 <!-- REDDIT:END -->
 
 
