@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [KFC to launch plant-based fried chicken made with Beyond Meat nationwide](https://www.reddit.com/r/news/comments/rw7ev2/kfc_to_launch_plantbased_fried_chicken_made_with/)
+- [Denver City Council votes to outlaw ghost guns, which can be assembled at home and are untraceable](https://www.reddit.com/r/news/comments/rw6tev/denver_city_council_votes_to_outlaw_ghost_guns/)
+- [Judge orders Mississippi city to allow mosque construction](https://www.reddit.com/r/news/comments/rw4v0z/judge_orders_mississippi_city_to_allow_mosque/)
+- [‘Let’s Go Brandon’ merchandise at Alaska exchange crossed AAFES’ line on vulgarity](https://www.reddit.com/r/news/comments/rw4dii/lets_go_brandon_merchandise_at_alaska_exchange/)
+- [Alaska windstorm leaves thousands without power amid below freezing temperatures](https://www.reddit.com/r/news/comments/rw3x9d/alaska_windstorm_leaves_thousands_without_power/)
 <!-- REDDIT:END -->
 
 
