@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas father gunned down in Chuck E. Cheese parking lot while bringing in daughter’s birthday cake](https://www.reddit.com/r/news/comments/rws9sy/texas_father_gunned_down_in_chuck_e_cheese/)
+- [Tech Company Bolt Permanently Enacts 4 Day Workweek](https://www.reddit.com/r/news/comments/rwrnuy/tech_company_bolt_permanently_enacts_4_day/)
+- [James Webb Space Telescope extends secondary mirror](https://www.reddit.com/r/news/comments/rwrn6b/james_webb_space_telescope_extends_secondary/)
+- [Capitol Police intelligence official says she sounded alarm about potential violence days before January 6 riot](https://www.reddit.com/r/news/comments/rwpn89/capitol_police_intelligence_official_says_she/)
+- [Bodycam video shows Houston cop speeding, driving with 1 hand before hitting and killing pedestrian with patrol car](https://www.reddit.com/r/news/comments/rwpekq/bodycam_video_shows_houston_cop_speeding_driving/)
 <!-- REDDIT:END -->
 
 
