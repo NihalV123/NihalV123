@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DeSantis admits to finding 1 million stockpiled COVID-19 tests in warehouse](https://www.reddit.com/r/news/comments/rxjkp0/desantis_admits_to_finding_1_million_stockpiled/)
+- [Thieves Steal Gallery Owner’s Multimillion-Dollar NFT Collection: &#39;All my apes gone&#39;](https://www.reddit.com/r/news/comments/rxhsgn/thieves_steal_gallery_owners_multimilliondollar/)
+- [Crypto scammers took a record $14 billion in 2021](https://www.reddit.com/r/news/comments/rxhetz/crypto_scammers_took_a_record_14_billion_in_2021/)
+- [Pets&#39; welfare will be considered in divorce battles in Spain](https://www.reddit.com/r/news/comments/rxh2ri/pets_welfare_will_be_considered_in_divorce/)
+- [Postal Service requests temporary exemption from Biden&#39;s vaccine rule](https://www.reddit.com/r/news/comments/rxgooj/postal_service_requests_temporary_exemption_from/)
 <!-- REDDIT:END -->
 
 
