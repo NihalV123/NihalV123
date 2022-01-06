@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [France fines Google, Facebook for not allowing users to deny cookies as simply as accepting them.](https://www.reddit.com/r/news/comments/rxa92i/france_fines_google_facebook_for_not_allowing/)
+- [Toddler Shoots Mother, Infant Sibling at Granbury, Texas Walmart](https://www.reddit.com/r/news/comments/rx84uz/toddler_shoots_mother_infant_sibling_at_granbury/)
+- [Passengers who filmed themselves partying maskless aboard a chartered Sunwing Airlines flight from Montreal to Mexico last week have become pariahs and now face being stranded](https://www.reddit.com/r/news/comments/rx4viu/passengers_who_filmed_themselves_partying/)
+- [Chicago schools cancel classes after teachers vote to switch to remote learning](https://www.reddit.com/r/news/comments/rx16p4/chicago_schools_cancel_classes_after_teachers/)
+- [US prisons director resigning after crises-filled tenure](https://www.reddit.com/r/news/comments/rx096x/us_prisons_director_resigning_after_crisesfilled/)
 <!-- REDDIT:END -->
 
 
