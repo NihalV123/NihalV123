@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tim Cook earned over 1,400 times the average Apple worker in 2021](https://www.reddit.com/r/news/comments/rycwgw/tim_cook_earned_over_1400_times_the_average_apple/)
+- [Sidney Poitier, Oscar-winning actor and Hollywood&#39;s first Black movie star, dies at 94](https://www.reddit.com/r/news/comments/rychcs/sidney_poitier_oscarwinning_actor_and_hollywoods/)
+- [The Navy told this military family they were safe from toxic water. Then both their children ended up in the ER](https://www.reddit.com/r/news/comments/rycc8v/the_navy_told_this_military_family_they_were_safe/)
+- [Beijing fines 7-Eleven for calling Taiwan a country](https://www.reddit.com/r/news/comments/rycbjq/beijing_fines_7eleven_for_calling_taiwan_a_country/)
+- [Citigroup to enforce &#39;no-jab, no-job&#39; policy starting Jan. 14 - source](https://www.reddit.com/r/news/comments/ryc9df/citigroup_to_enforce_nojab_nojob_policy_starting/)
 <!-- REDDIT:END -->
 
 
