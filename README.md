@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US had 5 rabies deaths last year, highest total in a decade](https://www.reddit.com/r/news/comments/rxr7ez/us_had_5_rabies_deaths_last_year_highest_total_in/)
+- [Hunters kill 20 Yellowstone wolves that roamed out of park](https://www.reddit.com/r/news/comments/rxr3kx/hunters_kill_20_yellowstone_wolves_that_roamed/)
+- [Moderna CEO says people may need fourth Covid shot as efficacy of boosters likely to decline over time](https://www.reddit.com/r/news/comments/rxqvhs/moderna_ceo_says_people_may_need_fourth_covid/)
+- [NASCAR rejects &#39;Let&#39;s Go Brandon&#39; sponsorship, Brandonbilt Motorsports says](https://www.reddit.com/r/news/comments/rxqdvt/nascar_rejects_lets_go_brandon_sponsorship/)
+- [Man charged with murder after Las Vegas police find a severed head and other body parts in the back of a stolen truck](https://www.reddit.com/r/news/comments/rxq7tq/man_charged_with_murder_after_las_vegas_police/)
 <!-- REDDIT:END -->
 
 
