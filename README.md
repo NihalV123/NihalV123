@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Venmo, PayPal and Zelle must report $600+ in transactions to IRS](https://www.reddit.com/r/news/comments/rxxfyp/venmo_paypal_and_zelle_must_report_600_in/)
+- [U.S. VP Harris was in building when pipe bomb was discovered last Jan 6, official says](https://www.reddit.com/r/news/comments/rxvoh9/us_vp_harris_was_in_building_when_pipe_bomb_was/)
+- [Planned Parenthood fire in Knoxville confirmed to be arson](https://www.reddit.com/r/news/comments/rxu8mz/planned_parenthood_fire_in_knoxville_confirmed_to/)
+- [Judge slams US Capitol rioter&#39;s request to take Jamaican vacation](https://www.reddit.com/r/news/comments/rxtulx/judge_slams_us_capitol_rioters_request_to_take/)
+- [Cherokee Nation in &#39;crisis mode&#39; as omicron spreads](https://www.reddit.com/r/news/comments/rxttne/cherokee_nation_in_crisis_mode_as_omicron_spreads/)
 <!-- REDDIT:END -->
 
 
