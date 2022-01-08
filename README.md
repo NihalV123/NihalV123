@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows cop shoot without warning at man firing into air](https://www.reddit.com/r/news/comments/ryskvm/video_shows_cop_shoot_without_warning_at_man/)
+- [Shoplifting is surging across America with dangerous and costly consequences](https://www.reddit.com/r/news/comments/ryqj72/shoplifting_is_surging_across_america_with/)
+- [North Carolina man charged with murder in alleged road rage shooting of motorcyclist](https://www.reddit.com/r/news/comments/ryoyhu/north_carolina_man_charged_with_murder_in_alleged/)
+- [Business owner paid ex-worker with 91,000 pennies. That&#39;s retaliation, feds claim in lawsuit.](https://www.reddit.com/r/news/comments/rynyaj/business_owner_paid_exworker_with_91000_pennies/)
+- [Lost sea lion that made its way to San Diego freeway gets help from 2 good Samaritans](https://www.reddit.com/r/news/comments/rymi7j/lost_sea_lion_that_made_its_way_to_san_diego/)
 <!-- REDDIT:END -->
 
 
