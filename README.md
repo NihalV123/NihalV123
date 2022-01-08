@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NY reports highest single-day COVID deaths since mass vaccinations began](https://www.reddit.com/r/news/comments/rylaau/ny_reports_highest_singleday_covid_deaths_since/)
+- [Conversion therapy is now illegal in Canada](https://www.reddit.com/r/news/comments/ryjegy/conversion_therapy_is_now_illegal_in_canada/)
+- [New York AG launches investigation as video shows man went up in flames after police fired Taser](https://www.reddit.com/r/news/comments/ryj16n/new_york_ag_launches_investigation_as_video_shows/)
+- [Prosecutor: Ethan Crumbley tortured animals, kept severed bird head in bedroom for six months](https://www.reddit.com/r/news/comments/rygtl3/prosecutor_ethan_crumbley_tortured_animals_kept/)
+- [Three men convicted of murdering Ahmaud Arbery sentenced to life in prison](https://www.reddit.com/r/news/comments/rygmps/three_men_convicted_of_murdering_ahmaud_arbery/)
 <!-- REDDIT:END -->
 
 
