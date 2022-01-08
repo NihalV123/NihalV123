@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Novak Djokovic pictured with young players the day after lawyers say he tested positive for COVID | World News](https://www.reddit.com/r/news/comments/rz55jg/novak_djokovic_pictured_with_young_players_the/)
+- [Omicron explosion spurs nationwide breakdown of services](https://www.reddit.com/r/news/comments/rz548i/omicron_explosion_spurs_nationwide_breakdown_of/)
+- [Snow leopard dies at Illinois zoo after contracting Covid-19](https://www.reddit.com/r/news/comments/rz3zho/snow_leopard_dies_at_illinois_zoo_after/)
+- [Chinese American man attacked in New York last April dies of injuries | Attack on Yao Pan Ma, 61, drew attention amid rise in anti-Asian hate crimes and is now being treated as homicide](https://www.reddit.com/r/news/comments/rz3czr/chinese_american_man_attacked_in_new_york_last/)
+- [Calgary therapists hail &#39;legalization&#39; of medicinal psychedelic drugs](https://www.reddit.com/r/news/comments/rz3ain/calgary_therapists_hail_legalization_of_medicinal/)
 <!-- REDDIT:END -->
 
 
