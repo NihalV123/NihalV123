@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shoplifting is surging across America with dangerous and costly consequences](https://www.reddit.com/r/news/comments/ryqj72/shoplifting_is_surging_across_america_with/)
+- [Business owner paid ex-worker with 91,000 pennies. That&#39;s retaliation, feds claim in lawsuit.](https://www.reddit.com/r/news/comments/rynyaj/business_owner_paid_exworker_with_91000_pennies/)
+- [Lost sea lion that made its way to San Diego freeway gets help from 2 good Samaritans](https://www.reddit.com/r/news/comments/rymi7j/lost_sea_lion_that_made_its_way_to_san_diego/)
+- [NY reports highest single-day COVID deaths since mass vaccinations began](https://www.reddit.com/r/news/comments/rylaau/ny_reports_highest_singleday_covid_deaths_since/)
+- [DA: Teacher fearing exposure to COVID-19 places 13-year-old son in trunk of car while driving to testing site](https://www.reddit.com/r/news/comments/ryl57a/da_teacher_fearing_exposure_to_covid19_places/)
 <!-- REDDIT:END -->
 
 
