@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows man violently attack workers at COVID vaccine clinic in Tustin](https://www.reddit.com/r/news/comments/rzjrzk/video_shows_man_violently_attack_workers_at_covid/)
+- [A good Samaritan died after trying to save a man who fell on the subway tracks in New York City](https://www.reddit.com/r/news/comments/rzj9c0/a_good_samaritan_died_after_trying_to_save_a_man/)
+- [New &#39;Deltacron&#39; coronavirus variant discovered in Cyprus](https://www.reddit.com/r/news/comments/rzhvkx/new_deltacron_coronavirus_variant_discovered_in/)
+- [US hospitals struggle to match Walmart pay as staff flees omicron](https://www.reddit.com/r/news/comments/rzh65k/us_hospitals_struggle_to_match_walmart_pay_as/)
+- [Outbreak reported at Rhode Island hospital after Covid-positive, asymptomatic staff asked to work](https://www.reddit.com/r/news/comments/rzgr83/outbreak_reported_at_rhode_island_hospital_after/)
 <!-- REDDIT:END -->
 
 
