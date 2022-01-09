@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 34 people rescued after they became stranded on a floating chunk of ice in Green Bay](https://www.reddit.com/r/news/comments/rzw20c/at_least_34_people_rescued_after_they_became/)
+- [Michael Lang, Woodstock festival co-creator, dies at 77](https://www.reddit.com/r/news/comments/rzw0lt/michael_lang_woodstock_festival_cocreator_dies_at/)
+- [Massachusetts will change how it reports COVID-19 hospitalizations](https://www.reddit.com/r/news/comments/rzvn38/massachusetts_will_change_how_it_reports_covid19/)
+- [Global spread of autoimmune disease blamed on western diet](https://www.reddit.com/r/news/comments/rzv41l/global_spread_of_autoimmune_disease_blamed_on/)
+- [New York will allow non-citizens to vote under controversial law | New York](https://www.reddit.com/r/news/comments/rzuve4/new_york_will_allow_noncitizens_to_vote_under/)
 <!-- REDDIT:END -->
 
 
