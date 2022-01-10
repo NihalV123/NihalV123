@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US charges New York man with threatening to kill Donald Trump](https://www.reddit.com/r/news/comments/s0oikh/us_charges_new_york_man_with_threatening_to_kill/)
+- [Ikea cuts sick pay for unvaccinated staff forced to self-isolate](https://www.reddit.com/r/news/comments/s0o5f9/ikea_cuts_sick_pay_for_unvaccinated_staff_forced/)
+- [Goldfish can be taught to drive, scientists find](https://www.reddit.com/r/news/comments/s0nck3/goldfish_can_be_taught_to_drive_scientists_find/)
+- [FBI: Cyber criminals are mailing out USB drives that install ransomware](https://www.reddit.com/r/news/comments/s0n5gx/fbi_cyber_criminals_are_mailing_out_usb_drives/)
+- [Brooklynites march against antisemitism after Bay Ridge attack](https://www.reddit.com/r/news/comments/s0mnir/brooklynites_march_against_antisemitism_after_bay/)
 <!-- REDDIT:END -->
 
 
