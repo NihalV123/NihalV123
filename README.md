@@ -357,11 +357,11 @@ Top 4 most used languages across your repositories:
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
-- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
-- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
-- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
-- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
+- [Wassword: wonderful password generator built in Flutter](https://blog.albertobonacina.com/wassword-wonderful-password-generator-built-in-flutter)
+- [Building a Post Scheduling App with HarperDB &amp; Flutter](https://blog.albertobonacina.com/building-a-post-scheduling-app-with-harperdb-and-flutter)
+- [Create a Simple Responsive GridView with Flutter](https://blog.albertobonacina.com/create-a-simple-responsive-gridview-with-flutter)
+- [Create a Simple Contact App with Faker &amp; Flutter](https://blog.albertobonacina.com/create-a-simple-contact-app-with-faker-and-flutter)
+- [Create a Simple Timetable App with JSON &amp; Flutter](https://blog.albertobonacina.com/create-a-simple-timetable-app-with-json-and-flutter)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
