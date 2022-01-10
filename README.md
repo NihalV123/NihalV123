@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alexandria Ocasio-Cortez tests positive for COVID-19](https://www.reddit.com/r/news/comments/s0cd2m/alexandria_ocasiocortez_tests_positive_for_covid19/)
+- [California Issues New Guidance on Quarantine and Isolation for Healthcare Workers, positive and asymptomatic may return to work immediately without isolation and without testing](https://www.reddit.com/r/news/comments/s0bw6c/california_issues_new_guidance_on_quarantine_and/)
+- [Federal officials issue warnings about fake COVID-19 testing kits. Here&#39;s how to spot them](https://www.reddit.com/r/news/comments/s0blau/federal_officials_issue_warnings_about_fake/)
+- [Cyprus reportedly discovers a Covid variant that combines omicron and delta](https://www.reddit.com/r/news/comments/s0as4e/cyprus_reportedly_discovers_a_covid_variant_that/)
+- [106-year-old Philadelphia woman credits longevity to faith, Big Macs](https://www.reddit.com/r/news/comments/s08k9l/106yearold_philadelphia_woman_credits_longevity/)
 <!-- REDDIT:END -->
 
 
