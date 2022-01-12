@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CDC forecast predicts more than 62,000 Covid-19 deaths in the US in the next four weeks](https://www.reddit.com/r/news/comments/s2btjy/cdc_forecast_predicts_more_than_62000_covid19/)
+- [Incarcerated women say some living areas lack heat, hot water amid extreme cold](https://www.reddit.com/r/news/comments/s29f73/incarcerated_women_say_some_living_areas_lack/)
+- [Kim Kardashian and Floyd Mayweather sued by investors over alleged crypto scam](https://www.reddit.com/r/news/comments/s29aev/kim_kardashian_and_floyd_mayweather_sued_by/)
+- [U.S. judge rejects Prince Andrew&#39;s bid to dismiss sex abuse accuser&#39;s lawsuit](https://www.reddit.com/r/news/comments/s27n21/us_judge_rejects_prince_andrews_bid_to_dismiss/)
+- [Japan calls for stricter COVID-19 measures for U.S. military personnel](https://www.reddit.com/r/news/comments/s26kqd/japan_calls_for_stricter_covid19_measures_for_us/)
 <!-- REDDIT:END -->
 
 
