@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon workers in Alabama will vote again on whether to unionize next month](https://www.reddit.com/r/news/comments/s1xp8d/amazon_workers_in_alabama_will_vote_again_on/)
+- [Bank of America reducing overdraft fees from $35 to $10, eliminating insufficient funds fees](https://www.reddit.com/r/news/comments/s1xnsc/bank_of_america_reducing_overdraft_fees_from_35/)
+- [Archeologists struggle to repair vandals’ damage to ancient petroglyphs in Texas](https://www.reddit.com/r/news/comments/s1wlse/archeologists_struggle_to_repair_vandals_damage/)
+- [Workers at a Second Chicago Starbucks Petition For Union Recognition](https://www.reddit.com/r/news/comments/s1um33/workers_at_a_second_chicago_starbucks_petition/)
+- [46% of those currently hospitalized with COVID in Ontario were admitted for other reasons: new data](https://www.reddit.com/r/news/comments/s1u2kj/46_of_those_currently_hospitalized_with_covid_in/)
 <!-- REDDIT:END -->
 
 
