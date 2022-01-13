@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Welcoming immigrants would cool off inflation, US Chamber of Commerce CEO says](https://www.reddit.com/r/news/comments/s2iq1e/welcoming_immigrants_would_cool_off_inflation_us/)
+- [Ronnie Spector, &#39;60s pop icon and &#39;Be My Baby&#39; singer, dies at 78](https://www.reddit.com/r/news/comments/s2ijrg/ronnie_spector_60s_pop_icon_and_be_my_baby_singer/)
+- [Omicron is creating a &#39;crisis, red-tier situation&#39; in health care](https://www.reddit.com/r/news/comments/s2i9y9/omicron_is_creating_a_crisis_redtier_situation_in/)
+- [Anger as energy company advises star jumps and cuddling a pet to keep warm this winter](https://www.reddit.com/r/news/comments/s2hgt7/anger_as_energy_company_advises_star_jumps_and/)
+- [Ohio Supreme Court rejects new state House, Senate district maps](https://www.reddit.com/r/news/comments/s2gqme/ohio_supreme_court_rejects_new_state_house_senate/)
 <!-- REDDIT:END -->
 
 
