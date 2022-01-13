@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prince Andrew&#39;s military affiliations and royal patronages returned to the Queen](https://www.reddit.com/r/news/comments/s34eqv/prince_andrews_military_affiliations_and_royal/)
+- [Biden says his administration will make free high-quality face masks available to all Americans](https://www.reddit.com/r/news/comments/s33zwo/biden_says_his_administration_will_make_free/)
+- [Woman with semi-automatic rifle, other guns in vehicle arrested outside U.S. Capitol Police headquarters](https://www.reddit.com/r/news/comments/s33joa/woman_with_semiautomatic_rifle_other_guns_in/)
+- [Veterans ask Queen to strip Prince Andrew of honorary military titles](https://www.reddit.com/r/news/comments/s32ov6/veterans_ask_queen_to_strip_prince_andrew_of/)
+- [Thousands of federal inmates to be released under 2018 law](https://www.reddit.com/r/news/comments/s324oa/thousands_of_federal_inmates_to_be_released_under/)
 <!-- REDDIT:END -->
 
 
