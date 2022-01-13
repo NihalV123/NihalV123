@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘The economy cannot stay open’: Omicron’s effects ricochet across US](https://www.reddit.com/r/news/comments/s2wbgi/the_economy_cannot_stay_open_omicrons_effects/)
+- [Nearly a million fewer students are now enrolled in U.S. colleges and universities than in Fall 2019](https://www.reddit.com/r/news/comments/s2tozi/nearly_a_million_fewer_students_are_now_enrolled/)
+- [Covid Deaths Begin To Rise In Los Angeles; Believed Tied To Omicron](https://www.reddit.com/r/news/comments/s2qf4o/covid_deaths_begin_to_rise_in_los_angeles/)
+- [China critic Sen. Tommy Tuberville once again bought Alibaba stock and options](https://www.reddit.com/r/news/comments/s2pxew/china_critic_sen_tommy_tuberville_once_again/)
+- [Workers at nearly 80 Kroger&#39;s King Soopers go on strike as talks stall](https://www.reddit.com/r/news/comments/s2p1ey/workers_at_nearly_80_krogers_king_soopers_go_on/)
 <!-- REDDIT:END -->
 
 
