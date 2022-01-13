@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China critic Sen. Tommy Tuberville once again bought Alibaba stock and options](https://www.reddit.com/r/news/comments/s2pxew/china_critic_sen_tommy_tuberville_once_again/)
+- [Workers at nearly 80 Kroger&#39;s King Soopers go on strike as talks stall](https://www.reddit.com/r/news/comments/s2p1ey/workers_at_nearly_80_krogers_king_soopers_go_on/)
+- [Lawsuit aiming to break up Facebook group Meta can go ahead, US court rules | Meta](https://www.reddit.com/r/news/comments/s2n6is/lawsuit_aiming_to_break_up_facebook_group_meta/)
+- [Pipeline spills 300,000 gallons of diesel near New Orleans](https://www.reddit.com/r/news/comments/s2mxfa/pipeline_spills_300000_gallons_of_diesel_near_new/)
+- [Official: Police used fake DNA reports during interrogations.](https://www.reddit.com/r/news/comments/s2mpf6/official_police_used_fake_dna_reports_during/)
 <!-- REDDIT:END -->
 
 
