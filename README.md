@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Murphy signs bill enshrining abortion into NJ state law](https://www.reddit.com/r/news/comments/s3pul5/murphy_signs_bill_enshrining_abortion_into_nj/)
+- [Ukraine hit by ‘massive’ cyber-attack on government websites](https://www.reddit.com/r/news/comments/s3ogmh/ukraine_hit_by_massive_cyberattack_on_government/)
+- [Novak Djokovic: Australia cancels tennis star’s visa ahead of Australian Open | Novak Djokovic](https://www.reddit.com/r/news/comments/s3lzqs/novak_djokovic_australia_cancels_tennis_stars/)
+- [Sandy Hook families who won defamation suit against Alex Jones subpoena Facebook as trial nears](https://www.reddit.com/r/news/comments/s3iuix/sandy_hook_families_who_won_defamation_suit/)
+- [Leaning San Francisco skyscraper is tilting 3 inches per year as engineers rush to fix it](https://www.reddit.com/r/news/comments/s3icem/leaning_san_francisco_skyscraper_is_tilting_3/)
 <!-- REDDIT:END -->
 
 
