@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge bans &#39;Pharma Bro&#39; Martin Shkreli from pharmaceutical industry &#39;for life&#39;](https://www.reddit.com/r/news/comments/s46r8q/judge_bans_pharma_bro_martin_shkreli_from/)
+- [Thieves in LA are looting freight trains filled with packages from UPS, FedEx and Amazon](https://www.reddit.com/r/news/comments/s466tx/thieves_in_la_are_looting_freight_trains_filled/)
+- [13-year-old in grave condition after apparent fentanyl OD at Connecticut school; campus locked down](https://www.reddit.com/r/news/comments/s44q50/13yearold_in_grave_condition_after_apparent/)
+- [Mexico seizes 380,000 boxes of Kellogg&#39;s cereal](https://www.reddit.com/r/news/comments/s44htx/mexico_seizes_380000_boxes_of_kelloggs_cereal/)
+- [Video shows Florida police sergeant grabbing fellow officer by her throat](https://www.reddit.com/r/news/comments/s431sv/video_shows_florida_police_sergeant_grabbing/)
 <!-- REDDIT:END -->
 
 
