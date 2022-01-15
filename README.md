@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge: No reason to charge Texas mom who put son in trunk to avoid COVID exposure](https://www.reddit.com/r/news/comments/s48rcg/judge_no_reason_to_charge_texas_mom_who_put_son/)
+- [DirecTV to sever ties with OAN and drop the right-wing conspiracy channel later this year](https://www.reddit.com/r/news/comments/s48dsv/directv_to_sever_ties_with_oan_and_drop_the/)
+- [FedEx wants to install anti-missile lasers in its cargo jets](https://www.reddit.com/r/news/comments/s47k14/fedex_wants_to_install_antimissile_lasers_in_its/)
+- [India&#39;s richest man is pouring more than $80 billion into green energy](https://www.reddit.com/r/news/comments/s471lp/indias_richest_man_is_pouring_more_than_80/)
+- [Woman killed, children injured in Texas after pursuit of robbery suspect ends in collision](https://www.reddit.com/r/news/comments/s470xg/woman_killed_children_injured_in_texas_after/)
 <!-- REDDIT:END -->
 
 
