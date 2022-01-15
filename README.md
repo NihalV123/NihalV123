@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman Pushed to Her Death in Front of Oncoming Train at Times Square Station](https://www.reddit.com/r/news/comments/s4pmso/woman_pushed_to_her_death_in_front_of_oncoming/)
+- [Alex Jones lists $6.2 million in assets as judge adds new sanctions in Sandy Hook cases](https://www.reddit.com/r/news/comments/s4pb1f/alex_jones_lists_62_million_in_assets_as_judge/)
+- [Man Shoots Teen Who Tried to Carjack Him in Philly, Police Say](https://www.reddit.com/r/news/comments/s4nuvq/man_shoots_teen_who_tried_to_carjack_him_in/)
+- [Texas scientists’ new Covid-19 vaccine is cheaper, easier to make and patent-free](https://www.reddit.com/r/news/comments/s4nkqu/texas_scientists_new_covid19_vaccine_is_cheaper/)
+- [Calls grow for UK PM to resign over lockdown ‘parties’](https://www.reddit.com/r/news/comments/s4n9x5/calls_grow_for_uk_pm_to_resign_over_lockdown/)
 <!-- REDDIT:END -->
 
 
