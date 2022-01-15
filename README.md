@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Sick to my stomach&#39;: Dollar Tree fanatics protest new $1.25 prices](https://www.reddit.com/r/news/comments/s4fp55/sick_to_my_stomach_dollar_tree_fanatics_protest/)
+- [Americans’ political diet harmful to overall health 40% cite politics as a significant stressor in their lives](https://www.reddit.com/r/news/comments/s4egpf/americans_political_diet_harmful_to_overall/)
+- [As Omicron fuels surge, U.S. students stage walkouts to protest in-person classes](https://www.reddit.com/r/news/comments/s4dwe5/as_omicron_fuels_surge_us_students_stage_walkouts/)
+- [Tsunami warning now issued for all of Tonga](https://www.reddit.com/r/news/comments/s4d97j/tsunami_warning_now_issued_for_all_of_tonga/)
+- [Judge: No reason to charge Texas mom who put son in trunk to avoid COVID exposure](https://www.reddit.com/r/news/comments/s48rcg/judge_no_reason_to_charge_texas_mom_who_put_son/)
 <!-- REDDIT:END -->
 
 
