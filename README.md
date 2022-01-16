@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [University of Michigan President Mark Schlissel fired by board after investigation](https://www.reddit.com/r/news/comments/s4y460/university_of_michigan_president_mark_schlissel/)
+- [Hundreds of migrants set off from Honduras toward US border | AP News](https://www.reddit.com/r/news/comments/s4xd6v/hundreds_of_migrants_set_off_from_honduras_toward/)
+- [Get away from shore - US and Japan warn on tsunami](https://www.reddit.com/r/news/comments/s4vtue/get_away_from_shore_us_and_japan_warn_on_tsunami/)
+- [John Kuczwanski killed in Tallahassee road rage incident](https://www.reddit.com/r/news/comments/s4vbuy/john_kuczwanski_killed_in_tallahassee_road_rage/)
+- [Gunman holds hostages at synagogue in Texas](https://www.reddit.com/r/news/comments/s4sjl6/gunman_holds_hostages_at_synagogue_in_texas/)
 <!-- REDDIT:END -->
 
 
