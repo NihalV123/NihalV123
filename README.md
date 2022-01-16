@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scammers are putting fraudulent QR codes on Texas parking meters](https://www.reddit.com/r/news/comments/s5exgt/scammers_are_putting_fraudulent_qr_codes_on_texas/)
+- [Bills become the first team in NFL history to pitch a &#39;perfect&#39; offensive game in playoff win over Patriots](https://www.reddit.com/r/news/comments/s5evr1/bills_become_the_first_team_in_nfl_history_to/)
+- [Fact Check-CDC study found that over 75% of COVID-19 deaths in vaccinated people were among those with at least 4 comorbidities](https://www.reddit.com/r/news/comments/s5et53/fact_checkcdc_study_found_that_over_75_of_covid19/)
+- [Tucson hospitals to allow COVID positive employees to return to work](https://www.reddit.com/r/news/comments/s5eeiu/tucson_hospitals_to_allow_covid_positive/)
+- [Texas synagogue siege: hostage-taker shot dead by FBI believed to be British](https://www.reddit.com/r/news/comments/s5e9el/texas_synagogue_siege_hostagetaker_shot_dead_by/)
 <!-- REDDIT:END -->
 
 
