@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida tornadoes destroy dozens of homes, leave 7,000 customers without power](https://www.reddit.com/r/news/comments/s5pkst/florida_tornadoes_destroy_dozens_of_homes_leave/)
+- [Tallassee mayor arrested in domestic violence investigation](https://www.reddit.com/r/news/comments/s5oydo/tallassee_mayor_arrested_in_domestic_violence/)
+- [A Rhode Island man was arrested for allegedly selling &#39;ghost guns&#39; and trafficking the firearms to the Dominican Republic](https://www.reddit.com/r/news/comments/s5ns02/a_rhode_island_man_was_arrested_for_allegedly/)
+- [Chinese dialects in decline as government enforces Mandarin](https://www.reddit.com/r/news/comments/s5m6sc/chinese_dialects_in_decline_as_government/)
+- [Canada urges avoiding non-essential travel to Ukraine due to &#39;Russian aggression&#39;](https://www.reddit.com/r/news/comments/s5jtx4/canada_urges_avoiding_nonessential_travel_to/)
 <!-- REDDIT:END -->
 
 
