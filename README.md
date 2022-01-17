@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge shames 72 year old cancer patient for overgrown yard](https://www.reddit.com/r/news/comments/s61ezz/judge_shames_72_year_old_cancer_patient_for/)
+- [Beijing locks down office building with workers still inside over single Omicron case](https://www.reddit.com/r/news/comments/s60u9b/beijing_locks_down_office_building_with_workers/)
+- [Lack of air conditioning in Roebourne prison cells could breach human rights, says Aboriginal legal service](https://www.reddit.com/r/news/comments/s5ykza/lack_of_air_conditioning_in_roebourne_prison/)
+- [Unvaccinated to be banned from restaurants and other venues in France under new Covid law](https://www.reddit.com/r/news/comments/s5x2nk/unvaccinated_to_be_banned_from_restaurants_and/)
+- [North Korea fires 2 apparent ballistic missiles eastward from Pyongyang airfield: S. Korean military](https://www.reddit.com/r/news/comments/s5x0l2/north_korea_fires_2_apparent_ballistic_missiles/)
 <!-- REDDIT:END -->
 
 
