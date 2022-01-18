@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘I’m one of the nicer showrunners’: Joss Whedon denies misconduct allegations](https://www.reddit.com/r/news/comments/s6ozcq/im_one_of_the_nicer_showrunners_joss_whedon/)
+- [Abortion clinics challenging Texas law dealt new setback](https://www.reddit.com/r/news/comments/s6o6gy/abortion_clinics_challenging_texas_law_dealt_new/)
+- [Oklahoma received only two unfounded allegations of violations of critical race theory ban law](https://www.reddit.com/r/news/comments/s6mgm3/oklahoma_received_only_two_unfounded_allegations/)
+- [Confirmed: East Wenatchee pharmacist terminated over issuance of fraudulent vaccination cards](https://www.reddit.com/r/news/comments/s6me7y/confirmed_east_wenatchee_pharmacist_terminated/)
+- [The Omicron surge hasn&#39;t peaked nationwide, and &#39;the next few weeks will be tough,&#39; US surgeon general says](https://www.reddit.com/r/news/comments/s6m4ak/the_omicron_surge_hasnt_peaked_nationwide_and_the/)
 <!-- REDDIT:END -->
 
 
