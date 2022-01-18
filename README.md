@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [All houses destroyed on an island devastated by deadly tsunami, Tonga government says in first words since volcano erupted](https://www.reddit.com/r/news/comments/s6v977/all_houses_destroyed_on_an_island_devastated_by/)
+- [A large Russian cargo plane took a lengthy, unexpected, and unexplained route over central and southern Finland on Saturday night, passing over Finland&#39;s Air Force headquarters and a military intelligence unit.](https://www.reddit.com/r/news/comments/s6v116/a_large_russian_cargo_plane_took_a_lengthy/)
+- [Chemical pollution has passed safe limit for humanity, say scientists](https://www.reddit.com/r/news/comments/s6u5ap/chemical_pollution_has_passed_safe_limit_for/)
+- [A Tennessee judge orders Cracker Barrel to pay man $9.4 million after he was served glass filled with a chemical](https://www.reddit.com/r/news/comments/s6sz8t/a_tennessee_judge_orders_cracker_barrel_to_pay/)
+- [Inmates sue jail over ivermectin treatment for Covid as ‘medical experimentation’ | Arkansas](https://www.reddit.com/r/news/comments/s6s6qc/inmates_sue_jail_over_ivermectin_treatment_for/)
 <!-- REDDIT:END -->
 
 
