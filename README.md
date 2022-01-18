@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Representative Matt Gaetz&#39;s ex-girlfriend granted immunity in sex trafficking probe](https://www.reddit.com/r/news/comments/s6jne9/representative_matt_gaetzs_exgirlfriend_granted/)
+- [China records two-year high in Covid cases weeks before Winter Olympics](https://www.reddit.com/r/news/comments/s6icdn/china_records_twoyear_high_in_covid_cases_weeks/)
+- [Michigan city council becomes first all-Muslim led government in US](https://www.reddit.com/r/news/comments/s6h6v4/michigan_city_council_becomes_first_allmuslim_led/)
+- [Dog Lost for 4 Months Is Rescued From the Snow and Reunited With His Human](https://www.reddit.com/r/news/comments/s6gt7x/dog_lost_for_4_months_is_rescued_from_the_snow/)
+- [Parents of worker killed in tornado that hit Amazon facility are suing the company for wrongful death](https://www.reddit.com/r/news/comments/s6geix/parents_of_worker_killed_in_tornado_that_hit/)
 <!-- REDDIT:END -->
 
 
