@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shock in Colombia over murder of 14-year-old indigenous activist](https://www.reddit.com/r/news/comments/s7o4b6/shock_in_colombia_over_murder_of_14yearold/)
+- [Millionaires call on governments worldwide to ‘tax us now’](https://www.reddit.com/r/news/comments/s7nig4/millionaires_call_on_governments_worldwide_to_tax/)
+- [Arrests made after 42,000 Rapid Antigen Tests stolen from Sydney, Australia warehouse.](https://www.reddit.com/r/news/comments/s7mnxu/arrests_made_after_42000_rapid_antigen_tests/)
+- [US basketball player Sonny Weems racially abused by fans in China](https://www.reddit.com/r/news/comments/s7i9bj/us_basketball_player_sonny_weems_racially_abused/)
+- [King Soopers files restraining order against workers’ union and picketers as strike enters week two](https://www.reddit.com/r/news/comments/s7hocs/king_soopers_files_restraining_order_against/)
 <!-- REDDIT:END -->
 
 
