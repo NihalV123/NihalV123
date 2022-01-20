@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;I thought it was a joke&#39;: Canada Post employee sent home for wearing N95 mask instead of company-provided cloth or disposable mask](https://www.reddit.com/r/news/comments/s89yw4/i_thought_it_was_a_joke_canada_post_employee_sent/)
+- [Earth&#39;s sixth mass extinction has begun according to scientists](https://www.reddit.com/r/news/comments/s88q4f/earths_sixth_mass_extinction_has_begun_according/)
+- [Legislator dies using medical suicide law he helped pass](https://www.reddit.com/r/news/comments/s882a3/legislator_dies_using_medical_suicide_law_he/)
+- [A prescribed fire in Central Texas spread beyond its intended boundaries and forced some residents to evacuate, officials say](https://www.reddit.com/r/news/comments/s867v4/a_prescribed_fire_in_central_texas_spread_beyond/)
+- [New Mexico asks Guard to sub for sick teachers amid omicron](https://www.reddit.com/r/news/comments/s84ofu/new_mexico_asks_guard_to_sub_for_sick_teachers/)
 <!-- REDDIT:END -->
 
 
