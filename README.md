@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pope Benedict XVI knew of abusive priests when he ran Munich archdiocese, investigators say](https://www.reddit.com/r/news/comments/s8grjq/pope_benedict_xvi_knew_of_abusive_priests_when_he/)
+- [‘So self-important’: Hamptons airport vote pits wealthy against super-rich](https://www.reddit.com/r/news/comments/s8gb6n/so_selfimportant_hamptons_airport_vote_pits/)
+- [With winter weather approaching, pipeline company threatens to cut off gas supply to Texas’ biggest power generators unless paid $21.6 million](https://www.reddit.com/r/news/comments/s8e9k2/with_winter_weather_approaching_pipeline_company/)
+- [Canadian restaurant ordered to close after accepting dog photos instead of vaccination proof](https://www.reddit.com/r/news/comments/s8bew1/canadian_restaurant_ordered_to_close_after/)
+- [&#39;I thought it was a joke&#39;: Canada Post employee sent home for wearing N95 mask instead of company-provided cloth or disposable mask](https://www.reddit.com/r/news/comments/s89yw4/i_thought_it_was_a_joke_canada_post_employee_sent/)
 <!-- REDDIT:END -->
 
 
