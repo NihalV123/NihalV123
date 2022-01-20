@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas Attorney General Ken Paxton, who has fought vaccine mandates, tests positive for COVID-19](https://www.reddit.com/r/news/comments/s84hdy/texas_attorney_general_ken_paxton_who_has_fought/)
+- [Parts of Texas will go from 80 degrees and sunny to an ice storm in 36 hours](https://www.reddit.com/r/news/comments/s84g1h/parts_of_texas_will_go_from_80_degrees_and_sunny/)
+- [Supreme Court rejects Trump&#39;s request to block release of White House records from January 6 committee](https://www.reddit.com/r/news/comments/s83lys/supreme_court_rejects_trumps_request_to_block/)
+- [Two people fired into a van outside a Pittsburgh school at dismissal time Wednesday afternoon, sending a 15-year-old student to a hospital where he later died, authorities said.](https://www.reddit.com/r/news/comments/s82ylh/two_people_fired_into_a_van_outside_a_pittsburgh/)
+- [&quot;Nocebo effect&quot; accounts for 76% of all adverse events in the COVID-19 vaccine trial group](https://www.reddit.com/r/news/comments/s827ra/nocebo_effect_accounts_for_76_of_all_adverse/)
 <!-- REDDIT:END -->
 
 
