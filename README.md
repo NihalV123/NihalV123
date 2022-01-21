@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. charges Texas man for threatening Georgia election officials](https://www.reddit.com/r/news/comments/s9fi6i/us_charges_texas_man_for_threatening_georgia/)
+- [Mom threatens bringing loaded gun to Va. school over mask policy: &#39;See y&#39;all on Monday&#39;](https://www.reddit.com/r/news/comments/s9fdiq/mom_threatens_bringing_loaded_gun_to_va_school/)
+- [American farmer accused of plotting kidnap and assassination of a Ukrainian government minister](https://www.reddit.com/r/news/comments/s9f0ev/american_farmer_accused_of_plotting_kidnap_and/)
+- [A New York judge dismissed felony convictions against 133 defendants in cases linked to potential tainted testimony from a disgraced former detective, authorities said Thursday.](https://www.reddit.com/r/news/comments/s9e5rq/a_new_york_judge_dismissed_felony_convictions/)
+- [Louie Anderson Dead: Comedian &amp; Emmy Winner Was 68](https://www.reddit.com/r/news/comments/s9d0sk/louie_anderson_dead_comedian_emmy_winner_was_68/)
 <!-- REDDIT:END -->
 
 
