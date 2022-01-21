@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ThedaCare asks court to temporarily stop 7 stroke, trauma employees from moving to Ascension](https://www.reddit.com/r/news/comments/s91bpo/thedacare_asks_court_to_temporarily_stop_7_stroke/)
+- [LGBTQ dating ban at BYU probed in federal investigation](https://www.reddit.com/r/news/comments/s90f2g/lgbtq_dating_ban_at_byu_probed_in_federal/)
+- [Michigan judge apologizes for berating elderly cancer patient over weeds](https://www.reddit.com/r/news/comments/s8yz3o/michigan_judge_apologizes_for_berating_elderly/)
+- [More than 100 former Tesla employees have signed statements alleging that Tesla discriminates against Black people and allows a racist environment in its factories](https://www.reddit.com/r/news/comments/s8y59z/more_than_100_former_tesla_employees_have_signed/)
+- [1 police department loses 2 officers to COVID-19 within days](https://www.reddit.com/r/news/comments/s8w50i/1_police_department_loses_2_officers_to_covid19/)
 <!-- REDDIT:END -->
 
 
