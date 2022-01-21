@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ESPN will not send reporters to Beijing Olympics](https://www.reddit.com/r/news/comments/s8vh2v/espn_will_not_send_reporters_to_beijing_olympics/)
+- [California&#39;s COVID gun store shutdowns ruled illegal](https://www.reddit.com/r/news/comments/s8v8l2/californias_covid_gun_store_shutdowns_ruled/)
+- [Alaska Supreme Court upholds ranked choice voting and top-four primary](https://www.reddit.com/r/news/comments/s8ux1x/alaska_supreme_court_upholds_ranked_choice_voting/)
+- [Judge sides with Britney Spears in ongoing court battle with her father over finances](https://www.reddit.com/r/news/comments/s8t66q/judge_sides_with_britney_spears_in_ongoing_court/)
+- [Mom: 1-year-old was shaken so hard by babysitter her corneas detached in manslaughter case](https://www.reddit.com/r/news/comments/s8syem/mom_1yearold_was_shaken_so_hard_by_babysitter_her/)
 <!-- REDDIT:END -->
 
 
