@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona Democrats censure Sinema for blocking voting bill](https://www.reddit.com/r/news/comments/sa7qm0/arizona_democrats_censure_sinema_for_blocking/)
+- [Ex-athlete vows to maintain U. of Michigan sex abuse protest](https://www.reddit.com/r/news/comments/sa77gk/exathlete_vows_to_maintain_u_of_michigan_sex/)
+- [Before Recent Wave of Train Cargo Thefts, Union Pacific Laid Off Unspecified Number of Its Railroad Police Force](https://www.reddit.com/r/news/comments/sa761l/before_recent_wave_of_train_cargo_thefts_union/)
+- [Argument over BBQ sauce leads to teenage Wendy&#39;s employee being shot in head](https://www.reddit.com/r/news/comments/sa6xjc/argument_over_bbq_sauce_leads_to_teenage_wendys/)
+- [New Yorkers want gun violence to end. A controversial police unit returns to help](https://www.reddit.com/r/news/comments/sa6rsq/new_yorkers_want_gun_violence_to_end_a/)
 <!-- REDDIT:END -->
 
 
