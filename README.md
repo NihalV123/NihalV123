@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Could California&#39;s single-payer proposal reignite debate on health care reform?](https://www.reddit.com/r/news/comments/say7aw/could_californias_singlepayer_proposal_reignite/)
+- [A Tennessee woman allegedly chopped her dad with an ax and punched her grandpa in the face before they disarmed and subdued her, according to authorities.](https://www.reddit.com/r/news/comments/sawins/a_tennessee_woman_allegedly_chopped_her_dad_with/)
+- [Sedef Kabas: Turkish journalist jailed for reciting proverb](https://www.reddit.com/r/news/comments/saw0b2/sedef_kabas_turkish_journalist_jailed_for/)
+- [Lab-grown meat could make strides in 2022 as start-ups push for U.S. approval](https://www.reddit.com/r/news/comments/sav6da/labgrown_meat_could_make_strides_in_2022_as/)
+- [Russian ships, tanks and troops on the move to Ukraine as peace talks stall](https://www.reddit.com/r/news/comments/sauj71/russian_ships_tanks_and_troops_on_the_move_to/)
 <!-- REDDIT:END -->
 
 
