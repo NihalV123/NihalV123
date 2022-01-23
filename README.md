@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vice Admiral Kay-Achim Schönbach stepped down as the head of the German navy after publicly saying Crimea was lost to Ukraine and that Vladimir Putin &quot;probably&quot; deserved respect.](https://www.reddit.com/r/news/comments/sarch3/vice_admiral_kayachim_schönbach_stepped_down_as/)
+- [China’s threat to ‘punish’ Olympic athletes for free speech ‘very concerning’, Australia says](https://www.reddit.com/r/news/comments/saq4ub/chinas_threat_to_punish_olympic_athletes_for_free/)
+- [‘Betty White Challenge’ raises $12.7M for animal shelters via Facebook, Instagram](https://www.reddit.com/r/news/comments/salye2/betty_white_challenge_raises_127m_for_animal/)
+- [Uganda to immunise 8 million children against polio](https://www.reddit.com/r/news/comments/salh15/uganda_to_immunise_8_million_children_against/)
+- [All 100 lab monkeys accounted for after several escape crash](https://www.reddit.com/r/news/comments/sakv3u/all_100_lab_monkeys_accounted_for_after_several/)
 <!-- REDDIT:END -->
 
 
