@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Don’t approach lab monkey missing after crash, people told](https://www.reddit.com/r/news/comments/safbsm/dont_approach_lab_monkey_missing_after_crash/)
+- [4-year-old girl found beaten, mom killed nearly 12 hours after calling 911](https://www.reddit.com/r/news/comments/saf037/4yearold_girl_found_beaten_mom_killed_nearly_12/)
+- [Kremlin plan to install pro-Russian leadership in Ukraine exposed](https://www.reddit.com/r/news/comments/saeckx/kremlin_plan_to_install_prorussian_leadership_in/)
+- [Bitcoin pyramid schemes wreak havoc on Brazil&#39;s &#39;New Egypt&#39;](https://www.reddit.com/r/news/comments/sadubg/bitcoin_pyramid_schemes_wreak_havoc_on_brazils/)
+- [Police: McDonald&#39;s employee shot in argument over discount over french fries](https://www.reddit.com/r/news/comments/sadsp6/police_mcdonalds_employee_shot_in_argument_over/)
 <!-- REDDIT:END -->
 
 
