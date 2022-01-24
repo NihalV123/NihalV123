@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trial begins for cops accused of violating Floyd’s rights](https://www.reddit.com/r/news/comments/sbr3fp/trial_begins_for_cops_accused_of_violating_floyds/)
+- [A Wisconsin judge rules absentee ballot drop boxes are not allowed under state law](https://www.reddit.com/r/news/comments/sbpzb2/a_wisconsin_judge_rules_absentee_ballot_drop/)
+- [NY COVID Hospitalizations Drop Below 10,000 as Numbers Improve Quickly](https://www.reddit.com/r/news/comments/sbpinc/ny_covid_hospitalizations_drop_below_10000_as/)
+- [Florida school district cancels professor’s civil rights lecture over critical race theory concerns](https://www.reddit.com/r/news/comments/sbpi5j/florida_school_district_cancels_professors_civil/)
+- [&#39;Unvaccinated&#39; Sarah Palin tests positive for Covid right before New York Times defamation trial begins, judge says](https://www.reddit.com/r/news/comments/sbpa7q/unvaccinated_sarah_palin_tests_positive_for_covid/)
 <!-- REDDIT:END -->
 
 
