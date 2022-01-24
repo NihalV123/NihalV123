@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LA schools to require students to wear non-cloth face masks](https://www.reddit.com/r/news/comments/sb6nm2/la_schools_to_require_students_to_wear_noncloth/)
+- [Denmark to send additional forces to Baltics in response to Russia’s actions](https://www.reddit.com/r/news/comments/sb69yf/denmark_to_send_additional_forces_to_baltics_in/)
+- [Auschwitz: Dutch tourist fined over Nazi salute at former death camp](https://www.reddit.com/r/news/comments/sb5gdj/auschwitz_dutch_tourist_fined_over_nazi_salute_at/)
+- [Secretary of State Blinken warns of severe response if a single Russian force enters Ukraine in an aggressive way](https://www.reddit.com/r/news/comments/sb4hlb/secretary_of_state_blinken_warns_of_severe/)
+- [No amount of alcohol is good for the heart, new report says, but critics disagree on science](https://www.reddit.com/r/news/comments/sb4ex9/no_amount_of_alcohol_is_good_for_the_heart_new/)
 <!-- REDDIT:END -->
 
 
