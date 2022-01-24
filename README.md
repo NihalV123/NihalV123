@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Harder than concrete but much more ecological: ByFusion turn tons of non-recyclable plastic into building blocks](https://www.reddit.com/r/news/comments/sbe6zj/harder_than_concrete_but_much_more_ecological/)
+- [UAE says it intercepts 2 ballistic missilles over Abu Dhabi](https://www.reddit.com/r/news/comments/sbd2y2/uae_says_it_intercepts_2_ballistic_missilles_over/)
+- [‘I’ve already sold my daughters; now, my kidney’: winter in Afghanistan’s slums](https://www.reddit.com/r/news/comments/sbc2rr/ive_already_sold_my_daughters_now_my_kidney/)
+- [Armenia&#39;s president resigns, says office has no power](https://www.reddit.com/r/news/comments/sbb2gh/armenias_president_resigns_says_office_has_no/)
+- [Taiwan detects 39 Chinese warplanes, scrambles jets](https://www.reddit.com/r/news/comments/sbb024/taiwan_detects_39_chinese_warplanes_scrambles_jets/)
 <!-- REDDIT:END -->
 
 
