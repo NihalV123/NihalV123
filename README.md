@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutor says cops made &#39;conscious choice&#39; not to protect George Floyd](https://www.reddit.com/r/news/comments/sbykjo/prosecutor_says_cops_made_conscious_choice_not_to/)
+- [ThedaCare loses court fight to keep health care staff who resigned](https://www.reddit.com/r/news/comments/sbxjk5/thedacare_loses_court_fight_to_keep_health_care/)
+- [Evan Rachel Wood alleges Marilyn Manson &quot;essentially raped&quot; her on music video shoot](https://www.reddit.com/r/news/comments/sbwkt5/evan_rachel_wood_alleges_marilyn_manson/)
+- [Virginia school districts sue Gov. Youngkin over executive order making mask mandate optional](https://www.reddit.com/r/news/comments/sbwe50/virginia_school_districts_sue_gov_youngkin_over/)
+- [DA for Atlanta area granted special grand jury to probe Trump&#39;s election interference](https://www.reddit.com/r/news/comments/sbw1gl/da_for_atlanta_area_granted_special_grand_jury_to/)
 <!-- REDDIT:END -->
 
 
