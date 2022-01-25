@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China gives &#39;Fight Club&#39; new ending where authorities win](https://www.reddit.com/r/news/comments/scbm0n/china_gives_fight_club_new_ending_where/)
+- [Corruption is on the rise and pummeling human rights: New report](https://www.reddit.com/r/news/comments/sc9zx2/corruption_is_on_the_rise_and_pummeling_human/)
+- [Met apologises to woman for ‘sexist, derogatory’ language in strip-search | Metropolitan police](https://www.reddit.com/r/news/comments/sc773g/met_apologises_to_woman_for_sexist_derogatory/)
+- [Belarus hacktivists target railway in anti-Russia effort](https://www.reddit.com/r/news/comments/sc4xil/belarus_hacktivists_target_railway_in_antirussia/)
+- [Australian Open reverses its ban on ‘Where is Peng Shuai?’ T-shirts](https://www.reddit.com/r/news/comments/sc4erp/australian_open_reverses_its_ban_on_where_is_peng/)
 <!-- REDDIT:END -->
 
 
