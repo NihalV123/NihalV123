@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Peter Robbins: Voice of Charlie Brown found dead](https://www.reddit.com/r/news/comments/scxxwa/peter_robbins_voice_of_charlie_brown_found_dead/)
+- [Out-of-control SpaceX rocket on collision course with the moon](https://www.reddit.com/r/news/comments/scxcut/outofcontrol_spacex_rocket_on_collision_course/)
+- [Ridgeland Mayor Demands LGBTQ+ Book Purge, Threatens Library Funding](https://www.reddit.com/r/news/comments/scwoqc/ridgeland_mayor_demands_lgbtq_book_purge/)
+- [9-month-old revived from fentanyl overdose, 2nd baby in the last week](https://www.reddit.com/r/news/comments/scv4w9/9monthold_revived_from_fentanyl_overdose_2nd_baby/)
+- [Playboy &#39;strongly supports&#39; women accusing Hugh Hefner](https://www.reddit.com/r/news/comments/sctx59/playboy_strongly_supports_women_accusing_hugh/)
 <!-- REDDIT:END -->
 
 
