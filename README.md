@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DeSantis blasts FDA for halting drugs ineffective on omicron](https://www.reddit.com/r/news/comments/scr8og/desantis_blasts_fda_for_halting_drugs_ineffective/)
+- [The next Covid variant will be more contagious than omicron, but the question is whether it will be more deadly, WHO says](https://www.reddit.com/r/news/comments/scr4ej/the_next_covid_variant_will_be_more_contagious/)
+- [Drop bitcoin as legal tender, IMF urges El Salvador](https://www.reddit.com/r/news/comments/scq4vy/drop_bitcoin_as_legal_tender_imf_urges_el_salvador/)
+- [Alex Jones met with 1/6 committee and says he pleaded the Fifth ‘almost 100 times’](https://www.reddit.com/r/news/comments/scoisu/alex_jones_met_with_16_committee_and_says_he/)
+- [3 charged in death of man accused of inappropriately touching child](https://www.reddit.com/r/news/comments/scnrrd/3_charged_in_death_of_man_accused_of/)
 <!-- REDDIT:END -->
 
 
