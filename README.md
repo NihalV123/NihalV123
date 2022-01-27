@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former banking CEO says $280,000 spent at strip clubs a business expense](https://www.reddit.com/r/news/comments/sdpc25/former_banking_ceo_says_280000_spent_at_strip/)
+- [SF police data shows 567% increase in reports of hate crimes against Asian Americans](https://www.reddit.com/r/news/comments/sdoqn8/sf_police_data_shows_567_increase_in_reports_of/)
+- [Popular anti-work subreddit goes private after awkward Fox News interview](https://www.reddit.com/r/news/comments/sdonz8/popular_antiwork_subreddit_goes_private_after/)
+- [QAnon follower from South Carolina who admitted he assaulted officers on January 6 sentenced to 44 months in prison](https://www.reddit.com/r/news/comments/sdm94e/qanon_follower_from_south_carolina_who_admitted/)
+- [Amazon workers eligible to hold union election at New York warehouse - NLRB](https://www.reddit.com/r/news/comments/sdlclo/amazon_workers_eligible_to_hold_union_election_at/)
 <!-- REDDIT:END -->
 
 
