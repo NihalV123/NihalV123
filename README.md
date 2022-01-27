@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea fires two presumed ballistic missiles toward the East Sea: JCS](https://www.reddit.com/r/news/comments/sdvmr0/north_korea_fires_two_presumed_ballistic_missiles/)
+- [More than 200 new species discovered in Mekong region, WWF says](https://www.reddit.com/r/news/comments/sdtkc9/more_than_200_new_species_discovered_in_mekong/)
+- [Prince Andrew denies close friendship with Ghislaine Maxwell, in US court files](https://www.reddit.com/r/news/comments/sds195/prince_andrew_denies_close_friendship_with/)
+- [Black man on camping trip died in modern day lynching, his family says](https://www.reddit.com/r/news/comments/sdrrtv/black_man_on_camping_trip_died_in_modern_day/)
+- [Strip club supporters protest Dallas’ plan to close sexually oriented businesses at 2 a.m.](https://www.reddit.com/r/news/comments/sdpgyo/strip_club_supporters_protest_dallas_plan_to/)
 <!-- REDDIT:END -->
 
 
