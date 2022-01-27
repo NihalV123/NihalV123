@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Moderator fired from anti-work subreddit in fallout from disastrous Fox News interview](https://www.reddit.com/r/news/comments/se3x7a/moderator_fired_from_antiwork_subreddit_in/)
+- [Man charged with groping a flight attendant sentenced to six months in prison](https://www.reddit.com/r/news/comments/se3fqh/man_charged_with_groping_a_flight_attendant/)
+- [US Navy officer &#39;bribed by cash and prostitutes&#39;](https://www.reddit.com/r/news/comments/se2cl7/us_navy_officer_bribed_by_cash_and_prostitutes/)
+- [Man drove without licence for more than 70 years](https://www.reddit.com/r/news/comments/se1w3q/man_drove_without_licence_for_more_than_70_years/)
+- [Sarah Palin went out to eat at a NYC restaurant two days after testing positive for Covid](https://www.reddit.com/r/news/comments/se0mc9/sarah_palin_went_out_to_eat_at_a_nyc_restaurant/)
 <!-- REDDIT:END -->
 
 
