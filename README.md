@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LGBTQ+ Books Quietly Pulled From Washington State Middle School](https://www.reddit.com/r/news/comments/sei01x/lgbtq_books_quietly_pulled_from_washington_state/)
+- [All-Muslim City Council in metro Detroit condemns antisemitism](https://www.reddit.com/r/news/comments/segzug/allmuslim_city_council_in_metro_detroit_condemns/)
+- [Lawrenceville&#39;s first female police captain accuses department chief of sexual harassment](https://www.reddit.com/r/news/comments/segprd/lawrencevilles_first_female_police_captain/)
+- [Holocaust Memorial Day: TikTok launches plan to fight Holocaust denial](https://www.reddit.com/r/news/comments/seg6xb/holocaust_memorial_day_tiktok_launches_plan_to/)
+- [All-time icon Art Spiegelman responds to Maus ban on CNN &lpar;while vaping&rpar;. ‹ Literary Hub](https://www.reddit.com/r/news/comments/sef13g/alltime_icon_art_spiegelman_responds_to_maus_ban/)
 <!-- REDDIT:END -->
 
 
