@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We are desperate for new people’: inside a hate group’s leaked online chats](https://www.reddit.com/r/news/comments/seoksb/we_are_desperate_for_new_people_inside_a_hate/)
+- [Denmark Decides COVID-19 Is No Longer a Threat to General Public](https://www.reddit.com/r/news/comments/seobkz/denmark_decides_covid19_is_no_longer_a_threat_to/)
+- [Lesley Haskell, wife of Spokane County Prosecutor, calls herself &#39;White nationalist,&#39; uses N-word as slur](https://www.reddit.com/r/news/comments/sen7ki/lesley_haskell_wife_of_spokane_county_prosecutor/)
+- [In Los Angeles Jail, Health Workers Say Deputies Discourage Vaccinations And Deface COVID-19 Signs](https://www.reddit.com/r/news/comments/sej797/in_los_angeles_jail_health_workers_say_deputies/)
+- [LGBTQ+ Books Quietly Pulled From Washington State Middle School](https://www.reddit.com/r/news/comments/sei01x/lgbtq_books_quietly_pulled_from_washington_state/)
 <!-- REDDIT:END -->
 
 
