@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man walking on I-65 shot, killed by law enforcement](https://www.reddit.com/r/news/comments/seba8w/man_walking_on_i65_shot_killed_by_law_enforcement/)
+- [Tampa Police chief finalist was once charged with battery on an officer during a DUI stop](https://www.reddit.com/r/news/comments/seb6te/tampa_police_chief_finalist_was_once_charged_with/)
+- [Alabama man accused of keeping meth-fueled &#39;attack squirrel&#39; faces new charges | Mickey Paulk was arrested in 2019 after authorities received a tip about the allegedly drugged squirrel. Aside from the rodent, police found body armor and meth.](https://www.reddit.com/r/news/comments/se8lrd/alabama_man_accused_of_keeping_methfueled_attack/)
+- [Michigan school district says there are no litter boxes in bathrooms for students who &#39;identify as furries&#39;](https://www.reddit.com/r/news/comments/se7u3q/michigan_school_district_says_there_are_no_litter/)
+- [LSD relatives appear to treat depression in mice, without obvious side effects](https://www.reddit.com/r/news/comments/se7s77/lsd_relatives_appear_to_treat_depression_in_mice/)
 <!-- REDDIT:END -->
 
 
