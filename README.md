@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pennsylvania man followed woman home, shot her after she accidentally bumped into him at store](https://www.reddit.com/r/news/comments/sf4bd2/pennsylvania_man_followed_woman_home_shot_her/)
+- [Woman who sexually assaulted 10-year-old girl as teen will serve sentence in juvenile facility](https://www.reddit.com/r/news/comments/sf3ld6/woman_who_sexually_assaulted_10yearold_girl_as/)
+- [Russia loses a million people in historic population fall](https://www.reddit.com/r/news/comments/sf2sgv/russia_loses_a_million_people_in_historic/)
+- [Jury selection starts in lone trial over Breonna Taylor raid](https://www.reddit.com/r/news/comments/sf2pcz/jury_selection_starts_in_lone_trial_over_breonna/)
+- [‘Maus’ is an Amazon bestseller after Tennessee school ban – author Art Spiegelman compares board to Putin](https://www.reddit.com/r/news/comments/sf29vk/maus_is_an_amazon_bestseller_after_tennessee/)
 <!-- REDDIT:END -->
 
 
