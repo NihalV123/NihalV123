@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Joni Mitchell says she will follow Neil Young by removing her music from Spotify due to vaccine misinformation](https://www.reddit.com/r/news/comments/sfghw2/joni_mitchell_says_she_will_follow_neil_young_by/)
+- [Omicron drives US deaths higher than in fall&#39;s delta wave](https://www.reddit.com/r/news/comments/sfgcph/omicron_drives_us_deaths_higher_than_in_falls/)
+- [3 investigations will probe fatal shooting of pedestrian by 9 police officers in Nashville](https://www.reddit.com/r/news/comments/sfc99z/3_investigations_will_probe_fatal_shooting_of/)
+- [Long Island Nurses Make $1.5 Million in Fake Vaccine Card Scam: DA](https://www.reddit.com/r/news/comments/sfblwz/long_island_nurses_make_15_million_in_fake/)
+- [Joni Mitchell Says She’s Removing Her Music From Spotify in Solidarity With Neil Young](https://www.reddit.com/r/news/comments/sf99dg/joni_mitchell_says_shes_removing_her_music_from/)
 <!-- REDDIT:END -->
 
 
