@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Joni Mitchell Says She’s Removing Her Music From Spotify in Solidarity With Neil Young](https://www.reddit.com/r/news/comments/sf99dg/joni_mitchell_says_shes_removing_her_music_from/)
+- [Nashville cop stripped of authority after interstate police killing of Landon Eastep](https://www.reddit.com/r/news/comments/sf9501/nashville_cop_stripped_of_authority_after/)
+- [Alabama town&#39;s traffic ticketing scandal leads to police chief&#39;s resignation](https://www.reddit.com/r/news/comments/sf6tu9/alabama_towns_traffic_ticketing_scandal_leads_to/)
+- [Twitter says it has quit taking action against lies about the 2020 election](https://www.reddit.com/r/news/comments/sf6sgq/twitter_says_it_has_quit_taking_action_against/)
+- [Pennsylvania man followed woman home, shot her after she accidentally bumped into him at store](https://www.reddit.com/r/news/comments/sf4bd2/pennsylvania_man_followed_woman_home_shot_her/)
 <!-- REDDIT:END -->
 
 
