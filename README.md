@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kansas woman who led all-female ISIS battalion faces federal charges, prosecutors say](https://www.reddit.com/r/news/comments/sfvnzc/kansas_woman_who_led_allfemale_isis_battalion/)
+- [Police arrest suspect linked to Washington, DC, swastika graffiti](https://www.reddit.com/r/news/comments/sfuoqd/police_arrest_suspect_linked_to_washington_dc/)
+- [Aurora 6th-Graders Exposed To Teacher Having Sex On Zoom During Math Class](https://www.reddit.com/r/news/comments/sftw0f/aurora_6thgraders_exposed_to_teacher_having_sex/)
+- [Historic Winter Storm Pummels New England, 100,000 Now Without Power](https://www.reddit.com/r/news/comments/sfsnkw/historic_winter_storm_pummels_new_england_100000/)
+- [Irish Fishermen and Russia Reach Agreement Over Military Exercises](https://www.reddit.com/r/news/comments/sfsfqk/irish_fishermen_and_russia_reach_agreement_over/)
 <!-- REDDIT:END -->
 
 
