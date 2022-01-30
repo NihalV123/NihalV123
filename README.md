@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hillsong founder Brian Houston steps down ahead of court hearing over the concealment of alleged child sex offences](https://www.reddit.com/r/news/comments/sg6w0g/hillsong_founder_brian_houston_steps_down_ahead/)
+- [Nine dead in North Las Vegas crash](https://www.reddit.com/r/news/comments/sg4pzt/nine_dead_in_north_las_vegas_crash/)
+- [Hillsong founder Brian Houston steps down as leader of church | Hillsong Church](https://www.reddit.com/r/news/comments/sg4epw/hillsong_founder_brian_houston_steps_down_as/)
+- [&#39;Out of control&#39;: Buyers paying thousands over sticker price for new cars](https://www.reddit.com/r/news/comments/sg15dx/out_of_control_buyers_paying_thousands_over/)
+- [North Korea fires intermediate-range ballistic missile toward East Sea: S. Korean military](https://www.reddit.com/r/news/comments/sg127s/north_korea_fires_intermediaterange_ballistic/)
 <!-- REDDIT:END -->
 
 
