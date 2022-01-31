@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [American woman arrested, allegedly trained women of ISIS](https://www.reddit.com/r/news/comments/sgy389/american_woman_arrested_allegedly_trained_women/)
+- [Joe Rogan pledges to ‘try harder’ after Spotify misinformation controversy | Joe Rogan](https://www.reddit.com/r/news/comments/sgxq7r/joe_rogan_pledges_to_try_harder_after_spotify/)
+- [Police officers shot dead on patrol in western Germany](https://www.reddit.com/r/news/comments/sgwq37/police_officers_shot_dead_on_patrol_in_western/)
+- [Federal prosecutors reach plea agreement with Travis and Gregory McMichael on hate crime charges in Ahmaud Arbery&#39;s death](https://www.reddit.com/r/news/comments/sgvd4k/federal_prosecutors_reach_plea_agreement_with/)
+- [Russia, US, Ukraine to square off at UN Security Council](https://www.reddit.com/r/news/comments/sgu8uu/russia_us_ukraine_to_square_off_at_un_security/)
 <!-- REDDIT:END -->
 
 
