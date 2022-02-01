@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Anti-mask anger forces Colorado children&#39;s museum to close](https://www.reddit.com/r/news/comments/shf61v/antimask_anger_forces_colorado_childrens_museum/)
+- [The New York Times is buying Wordle, the game that exploded in popularity this month](https://www.reddit.com/r/news/comments/shek7f/the_new_york_times_is_buying_wordle_the_game_that/)
+- [Deputy shoots, kills off-duty Vancouver PD officer who fought robbery suspect at his home](https://www.reddit.com/r/news/comments/sheac7/deputy_shoots_kills_offduty_vancouver_pd_officer/)
+- [Starbucks workers petitioning to unionize at 50 US stores](https://www.reddit.com/r/news/comments/she4mr/starbucks_workers_petitioning_to_unionize_at_50/)
+- [Gay dating app Grindr disappears from multiple app stores in China](https://www.reddit.com/r/news/comments/shdday/gay_dating_app_grindr_disappears_from_multiple/)
 <!-- REDDIT:END -->
 
 
