@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Swedish firm deploys crows to pick up cigarette butts](https://www.reddit.com/r/news/comments/shrrhm/swedish_firm_deploys_crows_to_pick_up_cigarette/)
+- [First female chess grandmaster sues Netflix over false claim in Queen’s Gambit | Chess](https://www.reddit.com/r/news/comments/shri49/first_female_chess_grandmaster_sues_netflix_over/)
+- [Tampa teen wins right to abortion without parental consent](https://www.reddit.com/r/news/comments/shoflr/tampa_teen_wins_right_to_abortion_without/)
+- [Russia brings plasma to border — seen as a sign of impending invasion](https://www.reddit.com/r/news/comments/shnt46/russia_brings_plasma_to_border_seen_as_a_sign_of/)
+- [4th journalist killed in Mexico in less than a month](https://www.reddit.com/r/news/comments/shn4gr/4th_journalist_killed_in_mexico_in_less_than_a/)
 <!-- REDDIT:END -->
 
 
