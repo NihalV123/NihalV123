@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Racial slur charge costs Democratic lawmaker committee seat](https://www.reddit.com/r/news/comments/shlk7x/racial_slur_charge_costs_democratic_lawmaker/)
+- [Whoopi Goldberg slammed for saying Holocaust not about race](https://www.reddit.com/r/news/comments/shk3rs/whoopi_goldberg_slammed_for_saying_holocaust_not/)
+- [Peru bans Repsol from unloading oil until further notice after spill](https://www.reddit.com/r/news/comments/shiwqy/peru_bans_repsol_from_unloading_oil_until_further/)
+- [Ottawa soup kitchen donations roll in after truck protesters allegedly harassed staff](https://www.reddit.com/r/news/comments/shi3v8/ottawa_soup_kitchen_donations_roll_in_after_truck/)
+- [Universal health care bill fails to pass in California](https://www.reddit.com/r/news/comments/shi334/universal_health_care_bill_fails_to_pass_in/)
 <!-- REDDIT:END -->
 
 
