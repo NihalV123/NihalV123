@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Book banning in Texas schools: Titles are pulled off library shelves in record numbers](https://www.reddit.com/r/news/comments/si9hyz/book_banning_in_texas_schools_titles_are_pulled/)
+- [Groundhog Day 2022: Milltown Mel, furry forecaster from New Jersey, dies before big day – WFTV](https://www.reddit.com/r/news/comments/si8q3v/groundhog_day_2022_milltown_mel_furry_forecaster/)
+- [&#39;Ghost gun&#39; maker and right-wing extremist fan from East Village gets four years in prison](https://www.reddit.com/r/news/comments/si7deq/ghost_gun_maker_and_rightwing_extremist_fan_from/)
+- [Mysterious boulders in Koreatown appear to block homeless encampments from setting up](https://www.reddit.com/r/news/comments/si65jh/mysterious_boulders_in_koreatown_appear_to_block/)
+- [Kidney successfully transplanted from donor who died of COVID-19 after scientists tested tissue for virus](https://www.reddit.com/r/news/comments/si5kww/kidney_successfully_transplanted_from_donor_who/)
 <!-- REDDIT:END -->
 
 
