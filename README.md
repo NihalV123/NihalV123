@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [National Butterfly Center on Texas border closing indefinitely after attacks from right-wing conspiracy theorists](https://www.reddit.com/r/news/comments/sjgxss/national_butterfly_center_on_texas_border_closing/)
+- [First patients of pioneering CAR T-cell therapy ‘cured of cancer’](https://www.reddit.com/r/news/comments/sjgr4z/first_patients_of_pioneering_car_tcell_therapy/)
+- [Facebook: Daily active users fall for first time in 18-year history](https://www.reddit.com/r/news/comments/sjfz99/facebook_daily_active_users_fall_for_first_time/)
+- [America’s covid job-saving programme gave most of its cash to the rich](https://www.reddit.com/r/news/comments/sjdq2z/americas_covid_jobsaving_programme_gave_most_of/)
+- [Mississippi becomes 37th U.S. state to legalize medical marijuana](https://www.reddit.com/r/news/comments/sjck5r/mississippi_becomes_37th_us_state_to_legalize/)
 <!-- REDDIT:END -->
 
 
