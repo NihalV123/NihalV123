@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A church is suing after a town says it can only give away free meals twice per week](https://www.reddit.com/r/news/comments/sj48k0/a_church_is_suing_after_a_town_says_it_can_only/)
+- [‘SB2095 will become law’: Gov. Reeves announces medical marijuana legalized in Miss.](https://www.reddit.com/r/news/comments/sj38pr/sb2095_will_become_law_gov_reeves_announces/)
+- [Broward Sheriff Gregory Tony lied on past employment applications, investigators say](https://www.reddit.com/r/news/comments/sj2fxn/broward_sheriff_gregory_tony_lied_on_past/)
+- [Ottawa police might need military aid to end downtown occupation, chief says | CBC News](https://www.reddit.com/r/news/comments/sj1pxa/ottawa_police_might_need_military_aid_to_end/)
+- [Two Denver police officers suspended for excessive force for using pepper spray, baton on peaceful protesters](https://www.reddit.com/r/news/comments/sj1fu2/two_denver_police_officers_suspended_for/)
 <!-- REDDIT:END -->
 
 
