@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mark Zuckerberg’s ‘metaverse’ business lost more than $10 billion last year, and the losses keep growing](https://www.reddit.com/r/news/comments/sjb8lr/mark_zuckerbergs_metaverse_business_lost_more/)
+- [International Space Station will plummet to a watery grave in 2030](https://www.reddit.com/r/news/comments/sj99u0/international_space_station_will_plummet_to_a/)
+- [Black Lives Matter &#39;delinquent&#39; on finances, Calif. AG warns BLM risks tax-exempt status](https://www.reddit.com/r/news/comments/sj6qp9/black_lives_matter_delinquent_on_finances_calif/)
+- [Texas woman accused of killing roommate by sitting on her](https://www.reddit.com/r/news/comments/sj6ceb/texas_woman_accused_of_killing_roommate_by/)
+- [Former banking CEO says $280,000 spent at strip clubs a business expense](https://www.reddit.com/r/news/comments/sj5yha/former_banking_ceo_says_280000_spent_at_strip/)
 <!-- REDDIT:END -->
 
 
