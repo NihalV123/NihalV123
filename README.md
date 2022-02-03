@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than 4,000 flights canceled as winter storm slams large part of U.S. with snow, ice](https://www.reddit.com/r/news/comments/sjnrt7/more_than_4000_flights_canceled_as_winter_storm/)
+- [A Fight Over the Right to Repair Cars Turns Ugly](https://www.reddit.com/r/news/comments/sjng1q/a_fight_over_the_right_to_repair_cars_turns_ugly/)
+- [Massachusetts school serves fried chicken for Black History Month lunch](https://www.reddit.com/r/news/comments/sjn6ul/massachusetts_school_serves_fried_chicken_for/)
+- [Texas winter storm: Over 70,000 Texans are without power as arctic cold front hits state](https://www.reddit.com/r/news/comments/sjmgft/texas_winter_storm_over_70000_texans_are_without/)
+- [RAF in second &#39;unidentified aircraft&#39; alert](https://www.reddit.com/r/news/comments/sjlc34/raf_in_second_unidentified_aircraft_alert/)
 <!-- REDDIT:END -->
 
 
