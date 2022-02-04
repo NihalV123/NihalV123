@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Temecula teacher fired over anti-Asian rant captured on video](https://www.reddit.com/r/news/comments/sjy1ig/temecula_teacher_fired_over_antiasian_rant/)
+- [Ex-top drug cop in Bolivia charged with cocaine trafficking](https://www.reddit.com/r/news/comments/sjvq7m/extop_drug_cop_in_bolivia_charged_with_cocaine/)
+- [Facebook&#39;s $237.6 billion fall sets record for largest one-day value drop in stock market history](https://www.reddit.com/r/news/comments/sjvlht/facebooks_2376_billion_fall_sets_record_for/)
+- [Amazon increases the price of Prime nearly 17% to $139 per year](https://www.reddit.com/r/news/comments/sjujiv/amazon_increases_the_price_of_prime_nearly_17_to/)
+- [City of Little Rock declares violent crime a public health emergency amid surge in shootings](https://www.reddit.com/r/news/comments/sjtfjm/city_of_little_rock_declares_violent_crime_a/)
 <!-- REDDIT:END -->
 
 
