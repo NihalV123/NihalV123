@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas butterfly centre closes after QAnon threats](https://www.reddit.com/r/news/comments/sk5bo1/texas_butterfly_centre_closes_after_qanon_threats/)
+- [Police video shows man shot by officer was on couch, had gun | AP News](https://www.reddit.com/r/news/comments/sk40gp/police_video_shows_man_shot_by_officer_was_on/)
+- [Minnesota’s Name-a-Snowplow contest winners announced. ‘Betty Whiteout,&#39; &#39;Ctrl Salt Delete&#39; top the list](https://www.reddit.com/r/news/comments/sk3k9o/minnesotas_nameasnowplow_contest_winners/)
+- [Woman killed and four others injured after man opens fire on bus in California](https://www.reddit.com/r/news/comments/sk0wwq/woman_killed_and_four_others_injured_after_man/)
+- [LGBTQ book ban proponent faces felony child molestation charge in Missouri](https://www.reddit.com/r/news/comments/sk0mv1/lgbtq_book_ban_proponent_faces_felony_child/)
 <!-- REDDIT:END -->
 
 
