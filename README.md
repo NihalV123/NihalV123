@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minneapolis mayor suspends no-knock warrants after police killing of Black man](https://www.reddit.com/r/news/comments/skyj1d/minneapolis_mayor_suspends_noknock_warrants_after/)
+- [Vets call for end to use of flat-faced dogs on greeting cards. Concerns frequent images of ‘cute’ breeds such as pugs maintains their popularity despite animal cruelty warnings](https://www.reddit.com/r/news/comments/skxgft/vets_call_for_end_to_use_of_flatfaced_dogs_on/)
+- [Deputies: 3 arrested following violent outbreak at Neo-Nazi rally in Orlando](https://www.reddit.com/r/news/comments/skx4fy/deputies_3_arrested_following_violent_outbreak_at/)
+- [GoFundMe shuts down funding to &#39;Freedom Convoy&#39;](https://www.reddit.com/r/news/comments/skx231/gofundme_shuts_down_funding_to_freedom_convoy/)
+- [Black FedEx Driver Says White Men Chased, Shot At Him](https://www.reddit.com/r/news/comments/skwxzh/black_fedex_driver_says_white_men_chased_shot_at/)
 <!-- REDDIT:END -->
 
 
