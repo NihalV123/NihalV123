@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NC Supreme Court rules legislative and congressional maps as unconstitutional gerrymanders](https://www.reddit.com/r/news/comments/sks6rm/nc_supreme_court_rules_legislative_and/)
+- [Family sues hospital after they say DNA test indicates daughter isn&#39;t related to dad](https://www.reddit.com/r/news/comments/skrhcs/family_sues_hospital_after_they_say_dna_test/)
+- [US death toll from COVID-19 hits 900,000, sped by omicron](https://www.reddit.com/r/news/comments/skq4jw/us_death_toll_from_covid19_hits_900000_sped_by/)
+- [Judge rules for 7 Va. school boards, temporarily halts Youngkin mask mandate ban](https://www.reddit.com/r/news/comments/skpkqa/judge_rules_for_7_va_school_boards_temporarily/)
+- [Protesters enter southern Alberta school, demand end of mask rules](https://www.reddit.com/r/news/comments/skoqnp/protesters_enter_southern_alberta_school_demand/)
 <!-- REDDIT:END -->
 
 
