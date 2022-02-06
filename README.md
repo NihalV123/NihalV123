@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exiled Russian oligarch Mikhail Khodorkovsky claims Vladimir Putin is putting illegal pressure on Britain&#39;s political system](https://www.reddit.com/r/news/comments/slpq21/exiled_russian_oligarch_mikhail_khodorkovsky/)
+- [COVID hospitalizations in NY at lowest point since Christmas](https://www.reddit.com/r/news/comments/sloe1k/covid_hospitalizations_in_ny_at_lowest_point/)
+- [Dutch reporter cut off on-air by Chinese security called an isolated incident by IOC](https://www.reddit.com/r/news/comments/slnurj/dutch_reporter_cut_off_onair_by_chinese_security/)
+- [Vancouver health authorities warn staff to shelter and hide medical credentials during anti-vaxx convoy](https://www.reddit.com/r/news/comments/sln8yo/vancouver_health_authorities_warn_staff_to/)
+- [Denver County Goes After Teenage Son Of Food Stamp Recipient For Over Payment](https://www.reddit.com/r/news/comments/sln01o/denver_county_goes_after_teenage_son_of_food/)
 <!-- REDDIT:END -->
 
 
