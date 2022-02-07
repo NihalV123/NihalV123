@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [Top VS Code Updates | v1.64 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=0GtjzEI0XmQ)
+- [How to Check Ownership of an NFT in your Collection using MetaMask &amp; Netlify Functions!! 😻](https://www.youtube.com/watch?v=g2h-N_E1up0)
+- [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
+- [How To Google Like A Pro! Top 18 Google Search Tips &amp; Tricks 2022](https://www.youtube.com/watch?v=LrVN52dhRxY)
+- [How to create an NFT website landing page &amp; Deploy for FREE &lpar;Complete tutorial | EASY!&rpar;](https://www.youtube.com/watch?v=WZQSVv67NBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
