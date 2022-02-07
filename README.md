@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Orleans Saints running back Alvin Kamara arrested on battery charge in Las Vegas after playing in Pro Bowl](https://www.reddit.com/r/news/comments/smhxoo/new_orleans_saints_running_back_alvin_kamara/)
+- [Emergency in Ottawa over ‘out of control’ truckers’ protest](https://www.reddit.com/r/news/comments/smhvls/emergency_in_ottawa_over_out_of_control_truckers/)
+- [Spotify CEO condemns Rogan&#39;s use of racial slurs, but says company won&#39;t be &#39;silencing&#39; him](https://www.reddit.com/r/news/comments/smhv2a/spotify_ceo_condemns_rogans_use_of_racial_slurs/)
+- [Community in Ecuador punished for trying to stop alleged palm oil pollution](https://www.reddit.com/r/news/comments/smgj7c/community_in_ecuador_punished_for_trying_to_stop/)
+- [A slot machine in Las Vegas malfunctioned and didn&#39;t tell a tourist they won. The gaming board tracked them down](https://www.reddit.com/r/news/comments/smfwcx/a_slot_machine_in_las_vegas_malfunctioned_and/)
 <!-- REDDIT:END -->
 
 
