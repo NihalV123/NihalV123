@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2nd guilty plea planned in alleged plot to kidnap Whitmer](https://www.reddit.com/r/news/comments/smvbtd/2nd_guilty_plea_planned_in_alleged_plot_to_kidnap/)
+- [First ever free-floating black hole found roaming through interstellar space](https://www.reddit.com/r/news/comments/smuzaz/first_ever_freefloating_black_hole_found_roaming/)
+- [After more than 1,000 years, this English pub is closing its doors](https://www.reddit.com/r/news/comments/smut6b/after_more_than_1000_years_this_english_pub_is/)
+- [Ex-San Diego Deputy Set for Sentencing for Fatally Shooting Fleeing Detainee](https://www.reddit.com/r/news/comments/smuqco/exsan_diego_deputy_set_for_sentencing_for_fatally/)
+- [&quot;There Is A Right To Terminate Pregnancy On Ground Of Rape&quot;: Uttarakhand High Court Allows Termination Of 28 Weeks Foetus&quot;](https://www.reddit.com/r/news/comments/smumn1/there_is_a_right_to_terminate_pregnancy_on_ground/)
 <!-- REDDIT:END -->
 
 
