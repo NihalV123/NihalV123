@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NY couple charged with conspiring to launder $4.5 billion in Bitcoin](https://www.reddit.com/r/news/comments/snp05v/ny_couple_charged_with_conspiring_to_launder_45/)
+- [Winter Olympics hit by deluge of complaints from athletes](https://www.reddit.com/r/news/comments/snnx76/winter_olympics_hit_by_deluge_of_complaints_from/)
+- [More Miami voters report illegitimate party affiliation changes](https://www.reddit.com/r/news/comments/snmlus/more_miami_voters_report_illegitimate_party/)
+- [Drug overdoses are allegedly costing one trillion dollars.](https://www.reddit.com/r/news/comments/snlx2w/drug_overdoses_are_allegedly_costing_one_trillion/)
+- [Suspect in a deadly shooting inside a Washington state grocery store has been arrested, police say](https://www.reddit.com/r/news/comments/snln6h/suspect_in_a_deadly_shooting_inside_a_washington/)
 <!-- REDDIT:END -->
 
 
