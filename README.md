@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Right-wing conspiracies have a new target: a tool that fights actual voter fraud](https://www.reddit.com/r/news/comments/soihe7/rightwing_conspiracies_have_a_new_target_a_tool/)
+- [Minnesota authorities can&#39;t arrest or threaten journalists after judge approves settlement arising from George Floyd protests](https://www.reddit.com/r/news/comments/soigcg/minnesota_authorities_cant_arrest_or_threaten/)
+- [Illinois dentist accused of diverting fentanyl from patient vials for personal use](https://www.reddit.com/r/news/comments/soiflz/illinois_dentist_accused_of_diverting_fentanyl/)
+- [Dollywood offering to pay education tuition for all employees](https://www.reddit.com/r/news/comments/soi6c7/dollywood_offering_to_pay_education_tuition_for/)
+- [Christian revival at school prompts student walkout in W.Va.](https://www.reddit.com/r/news/comments/sog0it/christian_revival_at_school_prompts_student/)
 <!-- REDDIT:END -->
 
 
