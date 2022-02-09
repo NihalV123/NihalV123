@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Free heroin, cocaine and meth will be handed out in Vancouver &lpar;VIDEO&rpar;](https://www.reddit.com/r/news/comments/so58of/free_heroin_cocaine_and_meth_will_be_handed_out/)
+- [A dozen more Revolutionary War-era cannons have been found and lifted from the Savannah River](https://www.reddit.com/r/news/comments/so3fxf/a_dozen_more_revolutionary_warera_cannons_have/)
+- [Lawmakers asking for a federal investigation into travel nurse salaries](https://www.reddit.com/r/news/comments/so37dj/lawmakers_asking_for_a_federal_investigation_into/)
+- [Affidavit: Amir Locke’s cousin arrested in connection to St. Paul homicide, was target of search when Locke was shot](https://www.reddit.com/r/news/comments/so0vm6/affidavit_amir_lockes_cousin_arrested_in/)
+- [Alberta ditches proof-of-vaccine program at midnight, masking for students Monday](https://www.reddit.com/r/news/comments/so0b2u/alberta_ditches_proofofvaccine_program_at/)
 <!-- REDDIT:END -->
 
 
