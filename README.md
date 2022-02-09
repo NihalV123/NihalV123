@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado Springs to pay nearly $3 mln to family of Black man shot dead by police](https://www.reddit.com/r/news/comments/sobaua/colorado_springs_to_pay_nearly_3_mln_to_family_of/)
+- [Discovery of Omicron in New York deer raises concern over possible new variants](https://www.reddit.com/r/news/comments/so9nq0/discovery_of_omicron_in_new_york_deer_raises/)
+- [9-year-old charged with beating brother before his death](https://www.reddit.com/r/news/comments/so7qxb/9yearold_charged_with_beating_brother_before_his/)
+- [Starbucks fires 7 employees involved in Memphis union effort](https://www.reddit.com/r/news/comments/so7hty/starbucks_fires_7_employees_involved_in_memphis/)
+- [Families demand answers after 2 women die in Chicago police custody](https://www.reddit.com/r/news/comments/so6xul/families_demand_answers_after_2_women_die_in/)
 <!-- REDDIT:END -->
 
 
