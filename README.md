@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Korean diplomat attacked, nose broken on New York City street](https://www.reddit.com/r/news/comments/spb1rm/south_korean_diplomat_attacked_nose_broken_on_new/)
+- [Auburn man arrested for leaving flowers at fiancé&#39;s grave](https://www.reddit.com/r/news/comments/sp9x3d/auburn_man_arrested_for_leaving_flowers_at/)
+- [Macron bets on nuclear in carbon-neutrality push, announces new reactors](https://www.reddit.com/r/news/comments/sp9ujn/macron_bets_on_nuclear_in_carbonneutrality_push/)
+- [Truck blockade at U.S.-Canadian border shuts auto plants](https://www.reddit.com/r/news/comments/sp9046/truck_blockade_at_uscanadian_border_shuts_auto/)
+- [Britain&#39;s Prince Charles tests positive for COVID-19 for the 2nd time](https://www.reddit.com/r/news/comments/sp8brq/britains_prince_charles_tests_positive_for/)
 <!-- REDDIT:END -->
 
 
