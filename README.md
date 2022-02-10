@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio village scraps plan with affordable housing after Dave Chappelle threatens to pull his businesses](https://www.reddit.com/r/news/comments/sos36o/ohio_village_scraps_plan_with_affordable_housing/)
+- [Ford says Detroit/Windsor bridge disruption impacting Canadian plants](https://www.reddit.com/r/news/comments/soqn1h/ford_says_detroitwindsor_bridge_disruption/)
+- [Ambassador Bridge blockades will have ‘lasting effect’ on supply chain, experts say](https://www.reddit.com/r/news/comments/soqd2j/ambassador_bridge_blockades_will_have_lasting/)
+- [Bus driver shot in the head while transporting kids in north Minneapolis](https://www.reddit.com/r/news/comments/sood22/bus_driver_shot_in_the_head_while_transporting/)
+- [Mt. Everest&#39;s highest glacier lost 2,000 years worth of ice since the 1990s](https://www.reddit.com/r/news/comments/sommt3/mt_everests_highest_glacier_lost_2000_years_worth/)
 <!-- REDDIT:END -->
 
 
