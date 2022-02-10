@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ford, Toyota halt some output as U.S., Canada warn on trucker protests](https://www.reddit.com/r/news/comments/sow243/ford_toyota_halt_some_output_as_us_canada_warn_on/)
+- [Hudson mayor suggests ice fishing could lead to prostitution in ice shanties](https://www.reddit.com/r/news/comments/sou3it/hudson_mayor_suggests_ice_fishing_could_lead_to/)
+- [Iraq pays last chunk of $52.4 billion Gulf War reparations](https://www.reddit.com/r/news/comments/sotv05/iraq_pays_last_chunk_of_524_billion_gulf_war/)
+- [Bob Saget&#39;s cause of death released](https://www.reddit.com/r/news/comments/sot2xz/bob_sagets_cause_of_death_released/)
+- [CDC to consider increasing time between vaccine doses to lower risk of heart inflammation – Boston 25 News](https://www.reddit.com/r/news/comments/sosvxj/cdc_to_consider_increasing_time_between_vaccine/)
 <!-- REDDIT:END -->
 
 
