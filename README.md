@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California sues Tesla over ‘racial segregation’ claims at factory](https://www.reddit.com/r/news/comments/sp30zc/california_sues_tesla_over_racial_segregation/)
+- [Snoop Dogg now owns Death Row Records](https://www.reddit.com/r/news/comments/sp2y0f/snoop_dogg_now_owns_death_row_records/)
+- [Russian painting vandalised by ‘bored’ gallery guard who drew eyes on it on his first day of work](https://www.reddit.com/r/news/comments/sp05xz/russian_painting_vandalised_by_bored_gallery/)
+- [9-year-old girl in critical condition after apparent road rage shooting: Police](https://www.reddit.com/r/news/comments/sozcx1/9yearold_girl_in_critical_condition_after/)
+- [Hudson mayor suggests ice fishing could lead to prostitution in ice shanties](https://www.reddit.com/r/news/comments/sou3it/hudson_mayor_suggests_ice_fishing_could_lead_to/)
 <!-- REDDIT:END -->
 
 
