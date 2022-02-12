@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California bill would require COVID-19 vaccines for all employees](https://www.reddit.com/r/news/comments/sqnkht/california_bill_would_require_covid19_vaccines/)
+- [4 East Coast Destroyers Deploy to Europe Joining U.S. Naval Buildup - USNI News](https://www.reddit.com/r/news/comments/sqmrpa/4_east_coast_destroyers_deploy_to_europe_joining/)
+- [Ontario declares state of emergency, threatening fines and jail time to end blockade](https://www.reddit.com/r/news/comments/sqk2zr/ontario_declares_state_of_emergency_threatening/)
+- [Tennessee parents, teachers push back against &#39;Maus&#39; removal](https://www.reddit.com/r/news/comments/sqhv37/tennessee_parents_teachers_push_back_against_maus/)
+- [Canadian judge orders an end to blockade at border bridge](https://www.reddit.com/r/news/comments/sqhtfq/canadian_judge_orders_an_end_to_blockade_at/)
 <!-- REDDIT:END -->
 
 
