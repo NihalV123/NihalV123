@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tennessee parents, teachers push back against &#39;Maus&#39; removal](https://www.reddit.com/r/news/comments/sqhv37/tennessee_parents_teachers_push_back_against_maus/)
+- [Canadian judge orders an end to blockade at border bridge](https://www.reddit.com/r/news/comments/sqhtfq/canadian_judge_orders_an_end_to_blockade_at/)
+- [Govt. program does not pay for crack pipes, White House says](https://www.reddit.com/r/news/comments/sqhl66/govt_program_does_not_pay_for_crack_pipes_white/)
+- [As U.S. ‘trucker convoy’ picks up momentum, foreign meddling adds to fray](https://www.reddit.com/r/news/comments/sqgt61/as_us_trucker_convoy_picks_up_momentum_foreign/)
+- [Global stocks slip as U.S. inflation hits 40-year high](https://www.reddit.com/r/news/comments/sqgk51/global_stocks_slip_as_us_inflation_hits_40year/)
 <!-- REDDIT:END -->
 
 
