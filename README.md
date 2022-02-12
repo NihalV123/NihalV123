@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ghislaine Maxwell lawyers cannot keep retrial arguments under seal, judge rules](https://www.reddit.com/r/news/comments/sqcpy5/ghislaine_maxwell_lawyers_cannot_keep_retrial/)
+- [Court grants injunction against Ambassador Bridge blockade](https://www.reddit.com/r/news/comments/sqbe06/court_grants_injunction_against_ambassador_bridge/)
+- [Crowd fundraising site says they will defy Canadian court order to stop disbursing funds to convoy protesters](https://www.reddit.com/r/news/comments/sqb46a/crowd_fundraising_site_says_they_will_defy/)
+- [Fire company suspended after alleged racist remarks, mocking of girl killed in police shooting](https://www.reddit.com/r/news/comments/sqamav/fire_company_suspended_after_alleged_racist/)
+- [Biden orders 3,000 more troops to Poland amid Ukraine crisis](https://www.reddit.com/r/news/comments/sq9nen/biden_orders_3000_more_troops_to_poland_amid/)
 <!-- REDDIT:END -->
 
 
