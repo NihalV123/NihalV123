@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US suspends Mexican avocado imports on eve of Super Bowl](https://www.reddit.com/r/news/comments/sro0q8/us_suspends_mexican_avocado_imports_on_eve_of/)
+- [Amazon deforestation: Record high destruction of trees in January](https://www.reddit.com/r/news/comments/srm0i3/amazon_deforestation_record_high_destruction_of/)
+- [Charleston police: Mother accused of abusing infant while at Women&#39;s and Children&#39;s Hospital](https://www.reddit.com/r/news/comments/srlkh1/charleston_police_mother_accused_of_abusing/)
+- [Man accused of blasphemy stoned to death by mob in Pakistan](https://www.reddit.com/r/news/comments/srl4wd/man_accused_of_blasphemy_stoned_to_death_by_mob/)
+- [Jackson 1st Black woman to win speedskating](https://www.reddit.com/r/news/comments/srl25y/jackson_1st_black_woman_to_win_speedskating/)
 <!-- REDDIT:END -->
 
 
