@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nearly 58 years later, police solve cold case murder of 9-year-old Pennsylvania girl](https://www.reddit.com/r/news/comments/sreu2y/nearly_58_years_later_police_solve_cold_case/)
+- [Four-story high rogue wave breaks records off the coast of Vancouver Island](https://www.reddit.com/r/news/comments/srcnzj/fourstory_high_rogue_wave_breaks_records_off_the/)
+- [Valentine&#39;s Day: Asteroid trio set to swing by Earth on day of romance](https://www.reddit.com/r/news/comments/srboua/valentines_day_asteroid_trio_set_to_swing_by/)
+- [In wake of Astroworld tragedy, Houston, Harris County officials launch joint special events task force](https://www.reddit.com/r/news/comments/sra8si/in_wake_of_astroworld_tragedy_houston_harris/)
+- [Protests grow across Canada as police struggle to reopen key bridge](https://www.reddit.com/r/news/comments/sr9a9i/protests_grow_across_canada_as_police_struggle_to/)
 <!-- REDDIT:END -->
 
 
