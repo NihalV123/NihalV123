@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ivan Reitman, producer, &#39;Ghostbusters&#39; director, dies at 75](https://www.reddit.com/r/news/comments/ss0vyg/ivan_reitman_producer_ghostbusters_director_dies/)
+- [2022 Super Bowl score: Matthew Stafford leads late comeback as Rams edge Bengals in Super Bowl LVI](https://www.reddit.com/r/news/comments/ss0ff4/2022_super_bowl_score_matthew_stafford_leads_late/)
+- [Eminem kneels during Super Bowl LVI halftime show despite reports NFL told him that he couldn’t](https://www.reddit.com/r/news/comments/srzvff/eminem_kneels_during_super_bowl_lvi_halftime_show/)
+- [US says Russia may create pretext to attack Ukraine](https://www.reddit.com/r/news/comments/srzc7z/us_says_russia_may_create_pretext_to_attack/)
+- [The Oconto County Sheriff’s office is investigating allegations that Suring Public Schools officials stripped students down to their underwear while searching for vaping devices.](https://www.reddit.com/r/news/comments/sryytk/the_oconto_county_sheriffs_office_is/)
 <!-- REDDIT:END -->
 
 
