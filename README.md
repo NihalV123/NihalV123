@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. suspends Mexican avocado imports after threat to inspector](https://www.reddit.com/r/news/comments/srwv4i/us_suspends_mexican_avocado_imports_after_threat/)
+- [Musk blames &#39;fun police&#39; for recall of feature that makes fart and goat noises](https://www.reddit.com/r/news/comments/srv22h/musk_blames_fun_police_for_recall_of_feature_that/)
+- [More than 130,000 Russian troops now staged outside Ukraine: U.S. official](https://www.reddit.com/r/news/comments/srtdzc/more_than_130000_russian_troops_now_staged/)
+- [Neo-Nazi march mars Dresden remembrance](https://www.reddit.com/r/news/comments/srtd3f/neonazi_march_mars_dresden_remembrance/)
+- [Second of five whales brought from Canada to US aquarium dies](https://www.reddit.com/r/news/comments/srsl4j/second_of_five_whales_brought_from_canada_to_us/)
 <!-- REDDIT:END -->
 
 
