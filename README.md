@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ontario to remove vaccine passport system on March 1, masking requirements to remain in place](https://www.reddit.com/r/news/comments/ssgr77/ontario_to_remove_vaccine_passport_system_on/)
+- [Las Vegas bartender robbed at gunpoint was forced to repay bosses stolen money, lawsuit says](https://www.reddit.com/r/news/comments/ssfsra/las_vegas_bartender_robbed_at_gunpoint_was_forced/)
+- [Study finds Western megadrought is the worst in 1,200 years](https://www.reddit.com/r/news/comments/ssegr8/study_finds_western_megadrought_is_the_worst_in/)
+- [An Albuquerque stabbing spree leaves 11 people wounded, police say](https://www.reddit.com/r/news/comments/ssed7d/an_albuquerque_stabbing_spree_leaves_11_people/)
+- [Health Ministry formally bans LGBTQ+ conversion therapy](https://www.reddit.com/r/news/comments/ssd0em/health_ministry_formally_bans_lgbtq_conversion/)
 <!-- REDDIT:END -->
 
 
