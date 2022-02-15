@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman stabbed to death in Chinatown apartment](https://www.reddit.com/r/news/comments/sstzki/woman_stabbed_to_death_in_chinatown_apartment/)
+- [DC to Drop Mandates on Masks, Proof of COVID Vaccination](https://www.reddit.com/r/news/comments/sstd9x/dc_to_drop_mandates_on_masks_proof_of_covid/)
+- [U.S. to provide $5 billion to help states build network of EV charging stations](https://www.reddit.com/r/news/comments/sst9sm/us_to_provide_5_billion_to_help_states_build/)
+- [US Catholic priest resigns after performing thousands of invalid baptisms over 20 years](https://www.reddit.com/r/news/comments/ssrf1f/us_catholic_priest_resigns_after_performing/)
+- [Louisiana man is freed after new evidence uncovered in 1977 attempted rape conviction](https://www.reddit.com/r/news/comments/ssqqrk/louisiana_man_is_freed_after_new_evidence/)
 <!-- REDDIT:END -->
 
 
