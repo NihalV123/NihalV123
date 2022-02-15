@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scientists have possibly cured HIV in a woman for the first time](https://www.reddit.com/r/news/comments/st8g41/scientists_have_possibly_cured_hiv_in_a_woman_for/)
+- [Ukraine blames Russia for widespread cyber-attack - BBC News](https://www.reddit.com/r/news/comments/st7ols/ukraine_blames_russia_for_widespread_cyberattack/)
+- [High numbers of mail ballots are being rejected in Texas under a new state law](https://www.reddit.com/r/news/comments/st6yhk/high_numbers_of_mail_ballots_are_being_rejected/)
+- [Prince Andrew and Virginia Giuffre settle out of court over civil sex assault claim | UK News](https://www.reddit.com/r/news/comments/st6imc/prince_andrew_and_virginia_giuffre_settle_out_of/)
+- [Louisville activist charged with attempted murder in shooting at mayoral hopeful&#39;s campaign office](https://www.reddit.com/r/news/comments/st6glk/louisville_activist_charged_with_attempted_murder/)
 <!-- REDDIT:END -->
 
 
