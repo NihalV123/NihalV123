@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia pulls some troops back from Ukraine border](https://www.reddit.com/r/news/comments/st02p3/russia_pulls_some_troops_back_from_ukraine_border/)
+- [Texas sues Meta for collecting facial recognition data](https://www.reddit.com/r/news/comments/sszjih/texas_sues_meta_for_collecting_facial_recognition/)
+- [BBC News - Novak Djokovic: I’m not anti-vax but will sacrifice trophies if told to get jab](https://www.reddit.com/r/news/comments/ssx0ns/bbc_news_novak_djokovic_im_not_antivax_but_will/)
+- [San Francisco Police reportedly link woman to crime using DNA taken from her rape kit San Francisco district attorney says it was possibly a rights violation and could deter sexual assault victims from speaking out](https://www.reddit.com/r/news/comments/ssw4y2/san_francisco_police_reportedly_link_woman_to/)
+- [Moscow refuses Ukraine&#39;s urgent call for a meeting to explain Russia&#39;s military build-up](https://www.reddit.com/r/news/comments/ssur4i/moscow_refuses_ukraines_urgent_call_for_a_meeting/)
 <!-- REDDIT:END -->
 
 
