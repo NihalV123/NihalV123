@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk’s brain chip company, Neuralink, faces animal abuse claims](https://www.reddit.com/r/news/comments/stg9py/elon_musks_brain_chip_company_neuralink_faces/)
+- [P. J. O’Rourke Dead: Satirist, Author &amp; NPR Panelist Was 74](https://www.reddit.com/r/news/comments/stfjvf/p_j_orourke_dead_satirist_author_npr_panelist_was/)
+- [&#39;Battle of Billings Bridge&#39; attracts hundreds of volunteers, traps convoy for hours](https://www.reddit.com/r/news/comments/stfbmg/battle_of_billings_bridge_attracts_hundreds_of/)
+- [Meta agrees to pay $90 million to settle lawsuit over Facebook tracking users&#39; online activity](https://www.reddit.com/r/news/comments/stcu4l/meta_agrees_to_pay_90_million_to_settle_lawsuit/)
+- [Florida deputy accused of framing innocent man in a revenge plot](https://www.reddit.com/r/news/comments/stcquo/florida_deputy_accused_of_framing_innocent_man_in/)
 <!-- REDDIT:END -->
 
 
