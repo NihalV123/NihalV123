@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Anti-mandate protest outside B.C. high school leads to confrontation, protester hurling insults at student](https://www.reddit.com/r/news/comments/stsxs9/antimandate_protest_outside_bc_high_school_leads/)
+- [US casinos won $53 billion in 2021, their best year ever](https://www.reddit.com/r/news/comments/strt24/us_casinos_won_53_billion_in_2021_their_best_year/)
+- [4 Alberta border protesters charged with conspiring to murder RCMP officers](https://www.reddit.com/r/news/comments/stmyfa/4_alberta_border_protesters_charged_with/)
+- [A 9-year-old girl who was shot in the Houston area on Valentine&#39;s Day has died](https://www.reddit.com/r/news/comments/stmnwc/a_9yearold_girl_who_was_shot_in_the_houston_area/)
+- [Woman recovering after being shot four times in Tacoma drive-by](https://www.reddit.com/r/news/comments/stlud7/woman_recovering_after_being_shot_four_times_in/)
 <!-- REDDIT:END -->
 
 
