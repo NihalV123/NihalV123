@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Appeals court overturns conviction of Miami cop who shot at unarmed autistic man](https://www.reddit.com/r/news/comments/sugfy7/appeals_court_overturns_conviction_of_miami_cop/)
+- [Women apply in their thousands to drive trains in Saudi Arabia](https://www.reddit.com/r/news/comments/sudvi5/women_apply_in_their_thousands_to_drive_trains_in/)
+- [Suspected convoy heading to Windsor thwarted by police](https://www.reddit.com/r/news/comments/sudhlj/suspected_convoy_heading_to_windsor_thwarted_by/)
+- [Justice Department sues Missouri over new gun law](https://www.reddit.com/r/news/comments/sucn7n/justice_department_sues_missouri_over_new_gun_law/)
+- [FBI serving search warrant at Houston Health Department](https://www.reddit.com/r/news/comments/suc1mz/fbi_serving_search_warrant_at_houston_health/)
 <!-- REDDIT:END -->
 
 
