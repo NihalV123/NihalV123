@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police Reports Detail Battery Allegations Against Chris Brown in Miami Beach](https://www.reddit.com/r/news/comments/sumvco/police_reports_detail_battery_allegations_against/)
+- [Mom decapitates 6 year old son and dog. Claims devil was speaking to her.](https://www.reddit.com/r/news/comments/suljj9/mom_decapitates_6_year_old_son_and_dog_claims/)
+- [Ukraine says Russian-backed artillery strike hits kindergarten](https://www.reddit.com/r/news/comments/sukhea/ukraine_says_russianbacked_artillery_strike_hits/)
+- [United States&#39; surprise avocado import ban threatens billion-dollar industry](https://www.reddit.com/r/news/comments/sui50b/united_states_surprise_avocado_import_ban/)
+- [Appeals court overturns conviction of Miami cop who shot at unarmed autistic man](https://www.reddit.com/r/news/comments/sugfy7/appeals_court_overturns_conviction_of_miami_cop/)
 <!-- REDDIT:END -->
 
 
