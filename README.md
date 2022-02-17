@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [San Francisco DA drops charges against woman whose rape kit DNA linked her to a property crime](https://www.reddit.com/r/news/comments/sutg7q/san_francisco_da_drops_charges_against_woman/)
+- [US ‘candy bomber’ pilot dead at 101](https://www.reddit.com/r/news/comments/sutck2/us_candy_bomber_pilot_dead_at_101/)
+- [Grieving mum shares footage of moment her son is killed by a single punch to the head | UK News](https://www.reddit.com/r/news/comments/susyq3/grieving_mum_shares_footage_of_moment_her_son_is/)
+- [Mortgage rates jump to nearly 4%](https://www.reddit.com/r/news/comments/sus31w/mortgage_rates_jump_to_nearly_4/)
+- [Florida man arrested after allegedly killing brother, taking person hostage days after prison release](https://www.reddit.com/r/news/comments/suqbn1/florida_man_arrested_after_allegedly_killing/)
 <!-- REDDIT:END -->
 
 
