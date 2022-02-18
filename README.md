@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fed approves rules banning its officials from trading stocks, bonds and also cryptocurrencies](https://www.reddit.com/r/news/comments/svns82/fed_approves_rules_banning_its_officials_from/)
+- [Former Minnesota police officer Kim Potter sentenced to 2 years in prison for the killing of Daunte Wright](https://www.reddit.com/r/news/comments/svmrfz/former_minnesota_police_officer_kim_potter/)
+- [Two students and ACLU sue Missouri school district over removing 8 books from libraries](https://www.reddit.com/r/news/comments/svmjgp/two_students_and_aclu_sue_missouri_school/)
+- [Home prices up 15.4% in January from a year ago](https://www.reddit.com/r/news/comments/svklx0/home_prices_up_154_in_january_from_a_year_ago/)
+- [Coastal GasLink site in B.C. left with millions in damage after violent attack by masked assailants wielding axes](https://www.reddit.com/r/news/comments/svkje8/coastal_gaslink_site_in_bc_left_with_millions_in/)
 <!-- REDDIT:END -->
 
 
