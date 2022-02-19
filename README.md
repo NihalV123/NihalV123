@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Separatists in eastern Ukraine say vehicle blown up near their HQ](https://www.reddit.com/r/news/comments/sw3eac/separatists_in_eastern_ukraine_say_vehicle_blown/)
+- [FDA warns consumers not to use certain Family Dollar products in 6 states after discovering more than 1,000 dead rodents at plant](https://www.reddit.com/r/news/comments/sw23dj/fda_warns_consumers_not_to_use_certain_family/)
+- [Freedom Convoy leader Pat King arrested live on social media.](https://www.reddit.com/r/news/comments/sw0xzv/freedom_convoy_leader_pat_king_arrested_live_on/)
+- [Bullied Black teen was falsely accused of threatening school, wrongly detained for 11 days, lawsuit says](https://www.reddit.com/r/news/comments/svz0ww/bullied_black_teen_was_falsely_accused_of/)
+- [Florida mom finds toddler locked inside day care after workers left for the day](https://www.reddit.com/r/news/comments/svy7jb/florida_mom_finds_toddler_locked_inside_day_care/)
 <!-- REDDIT:END -->
 
 
