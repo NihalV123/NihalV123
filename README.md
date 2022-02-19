@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman gets prison sentence for causing death of elderly man she pushed off a bus](https://www.reddit.com/r/news/comments/swfgbq/woman_gets_prison_sentence_for_causing_death_of/)
+- [Ottawa: police use pepper spray and stun grenades to clear trucker protest](https://www.reddit.com/r/news/comments/swel7m/ottawa_police_use_pepper_spray_and_stun_grenades/)
+- [‘Extremely disappointed’: New 40-ton arches collapse onto bridge in downtown Hickory](https://www.reddit.com/r/news/comments/swduno/extremely_disappointed_new_40ton_arches_collapse/)
+- [Jean-Luc Brunel: Jeffrey Epstein associate is found dead in French prison](https://www.reddit.com/r/news/comments/swa7bv/jeanluc_brunel_jeffrey_epstein_associate_is_found/)
+- [Las Vegas woman who pushed elderly man off bus, leading to his death, gets prison sentence](https://www.reddit.com/r/news/comments/sw9qkj/las_vegas_woman_who_pushed_elderly_man_off_bus/)
 <!-- REDDIT:END -->
 
 
