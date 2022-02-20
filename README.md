@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police helicopter goes down in California&#39;s Newport Bay, 2 pilots hospitalized](https://www.reddit.com/r/news/comments/swtqwd/police_helicopter_goes_down_in_californias/)
+- [Ottawa Police Appeal to End Protesters Hold of Streets Near Canada&#39;s Parliament](https://www.reddit.com/r/news/comments/swrubn/ottawa_police_appeal_to_end_protesters_hold_of/)
+- [Beijing Winter Olympics: Team GB win first gold medal of the Games in women&#39;s curling](https://www.reddit.com/r/news/comments/swrrsh/beijing_winter_olympics_team_gb_win_first_gold/)
+- [Turkmenistan’s despot finds a worthy successor: his son - &quot;A horse-obsessed personality cult becomes a dynasty&quot;](https://www.reddit.com/r/news/comments/swpgbo/turkmenistans_despot_finds_a_worthy_successor_his/)
+- [Pennsylvania man charged in killing of Uber driver who begged for her life](https://www.reddit.com/r/news/comments/swmn83/pennsylvania_man_charged_in_killing_of_uber/)
 <!-- REDDIT:END -->
 
 
