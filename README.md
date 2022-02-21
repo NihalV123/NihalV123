@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [National Guard fills in as nursing assistants amid healthcare worker shortage](https://www.reddit.com/r/news/comments/sxr8um/national_guard_fills_in_as_nursing_assistants/)
+- [Kurdish transgender woman shot by brother had been hiding from family](https://www.reddit.com/r/news/comments/sxmx9i/kurdish_transgender_woman_shot_by_brother_had/)
+- [Canadian authorities freeze financial assets for those involved in ongoing protests in Ottawa | CNN](https://www.reddit.com/r/news/comments/sxlw1p/canadian_authorities_freeze_financial_assets_for/)
+- [Bernie Madoff’s sister and her husband found dead in apparent murder-suicide | US crime](https://www.reddit.com/r/news/comments/sxl6a4/bernie_madoffs_sister_and_her_husband_found_dead/)
+- [U.S. plans to cut ties with targeted Russian banks if Ukraine is invaded - sources](https://www.reddit.com/r/news/comments/sxl3ir/us_plans_to_cut_ties_with_targeted_russian_banks/)
 <!-- REDDIT:END -->
 
 
