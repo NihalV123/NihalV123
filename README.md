@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US claims Russia has ordered final preparations for invasion](https://www.reddit.com/r/news/comments/sxfp9p/us_claims_russia_has_ordered_final_preparations/)
+- [US virus cases, hospitalizations continue steady decline](https://www.reddit.com/r/news/comments/sxdjtj/us_virus_cases_hospitalizations_continue_steady/)
+- [Revealed: Credit Suisse leak unmasks criminals, fraudsters and corrupt politicians](https://www.reddit.com/r/news/comments/sxd3bf/revealed_credit_suisse_leak_unmasks_criminals/)
+- [‘Plain old racist’: teen in New Jersey mall fight condemns arrest of Black youth](https://www.reddit.com/r/news/comments/sxd13o/plain_old_racist_teen_in_new_jersey_mall_fight/)
+- [Russian Journalist Flees Country Following Threats by Chechen Leader](https://www.reddit.com/r/news/comments/sxbwsx/russian_journalist_flees_country_following/)
 <!-- REDDIT:END -->
 
 
