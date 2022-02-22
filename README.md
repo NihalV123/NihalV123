@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox&#39;s Neil Cavuto said a second case of Covid-19 nearly killed him](https://www.reddit.com/r/news/comments/sye46q/foxs_neil_cavuto_said_a_second_case_of_covid19/)
+- [Utah man accused of telling 4-year-old to shoot at police after dispute at McDonald&#39;s](https://www.reddit.com/r/news/comments/sydrmh/utah_man_accused_of_telling_4yearold_to_shoot_at/)
+- [Iran returns donated vaccines because they were made in US](https://www.reddit.com/r/news/comments/sydmer/iran_returns_donated_vaccines_because_they_were/)
+- [Canada parliament backs Trudeau on emergency powers](https://www.reddit.com/r/news/comments/sycxd7/canada_parliament_backs_trudeau_on_emergency/)
+- [Ukraine’s president says Russia&#39;s recognition of breakaway regions &#39;violation of sovereignty&#39;](https://www.reddit.com/r/news/comments/syazqn/ukraines_president_says_russias_recognition_of/)
 <!-- REDDIT:END -->
 
 
