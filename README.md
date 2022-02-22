@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UN Security Council to hold emergency meeting Monday night on Ukraine at request of Kyiv, US, 5 European nations, Mexico](https://www.reddit.com/r/news/comments/sy8n5f/un_security_council_to_hold_emergency_meeting/)
+- [UK to impose sanctions on Russia over ‘attack on Ukraine’s sovereignty’](https://www.reddit.com/r/news/comments/sy7pes/uk_to_impose_sanctions_on_russia_over_attack_on/)
+- [US reveals claims of Russian &#39;kill list&#39; if Moscow occupies Ukraine](https://www.reddit.com/r/news/comments/sy7emj/us_reveals_claims_of_russian_kill_list_if_moscow/)
+- [Colombia decriminalizes abortion in historic ruling](https://www.reddit.com/r/news/comments/sy70s3/colombia_decriminalizes_abortion_in_historic/)
+- [Putin orders Russian peacekeepers to eastern Ukraine&#39;s two breakaway regions](https://www.reddit.com/r/news/comments/sy5bsb/putin_orders_russian_peacekeepers_to_eastern/)
 <!-- REDDIT:END -->
 
 
