@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Parliament grants Putin request to use Russia’s military to back Ukraine separatists](https://www.reddit.com/r/news/comments/sysm0c/parliament_grants_putin_request_to_use_russias/)
+- [Supreme Court rejects Trump&#39;s bid to shield January 6 records, bringing end to legal battle](https://www.reddit.com/r/news/comments/syrhn4/supreme_court_rejects_trumps_bid_to_shield/)
+- [15-year-old boy wrongly charged with shooting store clerk says police offered him McDonald&#39;s in exchange for confession](https://www.reddit.com/r/news/comments/syqcfk/15yearold_boy_wrongly_charged_with_shooting_store/)
+- [Tamara Lich, key organizer of protests in Ottawa, denied bail](https://www.reddit.com/r/news/comments/syq9be/tamara_lich_key_organizer_of_protests_in_ottawa/)
+- [White House calls Russian moves on Ukraine an invasion](https://www.reddit.com/r/news/comments/syp803/white_house_calls_russian_moves_on_ukraine_an/)
 <!-- REDDIT:END -->
 
 
