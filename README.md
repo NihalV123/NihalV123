@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Student loses legs after eating leftover noodles](https://www.reddit.com/r/news/comments/sz26uu/student_loses_legs_after_eating_leftover_noodles/)
+- [Prosecutor: Oxford school shooting suspect asked jail: &#39;How do I get my fan mail?&#39;](https://www.reddit.com/r/news/comments/sz1242/prosecutor_oxford_school_shooting_suspect_asked/)
+- [Minneapolis officers ignored training, lacked &#39;decency&#39; in Floyd arrest, jury hears](https://www.reddit.com/r/news/comments/syyq7c/minneapolis_officers_ignored_training_lacked/)
+- [Putin gets no support from UN Security Council over Ukraine](https://www.reddit.com/r/news/comments/syykj3/putin_gets_no_support_from_un_security_council/)
+- [Tesla hit by another lawsuit over racism by ex-worker](https://www.reddit.com/r/news/comments/syyjcf/tesla_hit_by_another_lawsuit_over_racism_by/)
 <!-- REDDIT:END -->
 
 
