@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ghislaine Maxwell juror to be questioned under oath by judge](https://www.reddit.com/r/news/comments/t0gdw8/ghislaine_maxwell_juror_to_be_questioned_under/)
+- [Uefa to move Champions League final](https://www.reddit.com/r/news/comments/t0fblv/uefa_to_move_champions_league_final/)
+- [Soon only one U.S. state will still have an indoor mask mandate](https://www.reddit.com/r/news/comments/t0fbd7/soon_only_one_us_state_will_still_have_an_indoor/)
+- [Megathread 2: Russia Invades Ukraine](https://www.reddit.com/r/news/comments/t0dplz/megathread_2_russia_invades_ukraine/)
+- [South Lake Tahoe police say calls about massive bear Hank the Tank are disrupting operations](https://www.reddit.com/r/news/comments/t0c8oh/south_lake_tahoe_police_say_calls_about_massive/)
 <!-- REDDIT:END -->
 
 
