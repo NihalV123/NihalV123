@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Megathread: Russia Invades Ukraine](https://www.reddit.com/r/news/comments/t01m8x/megathread_russia_invades_ukraine/)
+- [Oil prices jump as Russia launches attack on Ukraine](https://www.reddit.com/r/news/comments/t00q7w/oil_prices_jump_as_russia_launches_attack_on/)
+- [Russia declares war on Ukraine, reports of shelling at port city](https://www.reddit.com/r/news/comments/t003vl/russia_declares_war_on_ukraine_reports_of/)
+- [Explosions are heard in Ukraine port city of Mariupol: Fears shelling is underway - Public](https://www.reddit.com/r/news/comments/szzigp/explosions_are_heard_in_ukraine_port_city_of/)
+- [ERCOT kept prices high during the blackout per the governor&#39;s instructions, former head says](https://www.reddit.com/r/news/comments/szy6b9/ercot_kept_prices_high_during_the_blackout_per/)
 <!-- REDDIT:END -->
 
 
