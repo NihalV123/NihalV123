@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Amazing Jonathan, 63, dies of congestive heart failure in his home.](https://www.reddit.com/r/news/comments/szvmyj/the_amazing_jonathan_63_dies_of_congestive_heart/)
+- [Missing disabled woman found after 9 days inside a towed vehicle](https://www.reddit.com/r/news/comments/szubny/missing_disabled_woman_found_after_9_days_inside/)
+- [The number of U.S. cities with an average home price of $1 million tripled last year](https://www.reddit.com/r/news/comments/szu0xd/the_number_of_us_cities_with_an_average_home/)
+- [Trudeau ends use of Emergencies Act, says &#39;situation is no longer an emergency&#39; | CBC News](https://www.reddit.com/r/news/comments/szsqc7/trudeau_ends_use_of_emergencies_act_says/)
+- [Kaepernick launching initiative for secondary autopsies](https://www.reddit.com/r/news/comments/szscl7/kaepernick_launching_initiative_for_secondary/)
 <!-- REDDIT:END -->
 
 
