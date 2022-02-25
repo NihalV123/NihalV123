@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House unveils more steps to strengthen U.S. supply chains](https://www.reddit.com/r/news/comments/t0uzux/white_house_unveils_more_steps_to_strengthen_us/)
+- [Patreon suspends donation page for nonprofit giving body armor to Ukrainian army](https://www.reddit.com/r/news/comments/t0ux6c/patreon_suspends_donation_page_for_nonprofit/)
+- [Sally Kellerman, Oscar-nominated actor who starred as Major Houlihan in M*A*S*H film, dies aged 84](https://www.reddit.com/r/news/comments/t0tt2t/sally_kellerman_oscarnominated_actor_who_starred/)
+- [Texas abortion seekers flooded out-of-state clinics after six-week ban went into effect, Planned Parenthood records show](https://www.reddit.com/r/news/comments/t0tke0/texas_abortion_seekers_flooded_outofstate_clinics/)
+- [CDC to significantly ease pandemic mask guidelines Friday](https://www.reddit.com/r/news/comments/t0sx4d/cdc_to_significantly_ease_pandemic_mask/)
 <!-- REDDIT:END -->
 
 
