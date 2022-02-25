@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Retired officer says he had no choice in theater killing](https://www.reddit.com/r/news/comments/t1181m/retired_officer_says_he_had_no_choice_in_theater/)
+- [Florida house passes “don’t say gay” bill](https://www.reddit.com/r/news/comments/t0zcx1/florida_house_passes_dont_say_gay_bill/)
+- [White House unveils more steps to strengthen U.S. supply chains](https://www.reddit.com/r/news/comments/t0uzux/white_house_unveils_more_steps_to_strengthen_us/)
+- [Patreon suspends donation page for nonprofit giving body armor to Ukrainian army](https://www.reddit.com/r/news/comments/t0ux6c/patreon_suspends_donation_page_for_nonprofit/)
+- [Indonesia on alert after magnitude 6.2 quake hits Sumatra](https://www.reddit.com/r/news/comments/t0u2g2/indonesia_on_alert_after_magnitude_62_quake_hits/)
 <!-- REDDIT:END -->
 
 
