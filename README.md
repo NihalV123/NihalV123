@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 officers found guilty on federal charges in George Floyd’s killing](https://www.reddit.com/r/news/comments/t0n0ag/3_officers_found_guilty_on_federal_charges_in/)
+- [Parents of teen charged in school shooting to stand trial](https://www.reddit.com/r/news/comments/t0m7ed/parents_of_teen_charged_in_school_shooting_to/)
+- [Israel rejects Palestinian accusations of &#39;apartheid&#39;](https://www.reddit.com/r/news/comments/t0lvci/israel_rejects_palestinian_accusations_of/)
+- [SEC probes Elon Musk, brother Kimbal over Tesla share sales - WSJ](https://www.reddit.com/r/news/comments/t0l58q/sec_probes_elon_musk_brother_kimbal_over_tesla/)
+- [Twin Cities educators notify districts of possible strikes](https://www.reddit.com/r/news/comments/t0ktry/twin_cities_educators_notify_districts_of/)
 <!-- REDDIT:END -->
 
 
