@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Capitol rioter photographed with Pelosi&#39;s podium on Jan. 6 sentenced to prison](https://www.reddit.com/r/news/comments/t17eya/capitol_rioter_photographed_with_pelosis_podium/)
+- [Turkey&#39;s inflation seen jumping to 53% in February](https://www.reddit.com/r/news/comments/t14r6b/turkeys_inflation_seen_jumping_to_53_in_february/)
+- [Key inflation gauge hit 6.1% in January, highest since 1982](https://www.reddit.com/r/news/comments/t14dk9/key_inflation_gauge_hit_61_in_january_highest/)
+- [J&amp;J, distributors finalize $26B landmark opioid settlement](https://www.reddit.com/r/news/comments/t136nc/jj_distributors_finalize_26b_landmark_opioid/)
+- [Paris replaces St. Petersburg as Champions League final host](https://www.reddit.com/r/news/comments/t12igm/paris_replaces_st_petersburg_as_champions_league/)
 <!-- REDDIT:END -->
 
 
