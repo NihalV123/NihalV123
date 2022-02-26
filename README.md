@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Son of wealthy US family sentenced to death for beheading murder of girlfriend](https://www.reddit.com/r/news/comments/t1mmup/son_of_wealthy_us_family_sentenced_to_death_for/)
+- [Curtis Reeves, retired police captain who fatally shot man in movie theater, acquitted](https://www.reddit.com/r/news/comments/t1mi34/curtis_reeves_retired_police_captain_who_fatally/)
+- [UN Human Rights chief reiterates calls for &#39;targeted sanctions&#39; and prosecutions in new report on Sri Lanka](https://www.reddit.com/r/news/comments/t1m9ww/un_human_rights_chief_reiterates_calls_for/)
+- [Memphis man arrested in Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/t1kfoq/memphis_man_arrested_in_jan_6_capitol_riot/)
+- [Starbucks Workers United wins first store election outside of Buffalo](https://www.reddit.com/r/news/comments/t1i06n/starbucks_workers_united_wins_first_store/)
 <!-- REDDIT:END -->
 
 
