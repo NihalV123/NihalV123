@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Starbucks Workers United wins first store election outside of Buffalo](https://www.reddit.com/r/news/comments/t1i06n/starbucks_workers_united_wins_first_store/)
+- [Affidavits describe Trinity School admins&#39; failure to report after a student reportedly sexually assaulted another student](https://www.reddit.com/r/news/comments/t1gyf9/affidavits_describe_trinity_school_admins_failure/)
+- [Man convicted of threatening to kill Sen. Manchin and Fox News hosts](https://www.reddit.com/r/news/comments/t1gq5u/man_convicted_of_threatening_to_kill_sen_manchin/)
+- [Detroit teen charged with murder in shooting deaths of 5-year-old boy, two other people](https://www.reddit.com/r/news/comments/t1g1qq/detroit_teen_charged_with_murder_in_shooting/)
+- [Judge orders new trial for US woman sentenced to six years for trying to register to vote](https://www.reddit.com/r/news/comments/t1fpla/judge_orders_new_trial_for_us_woman_sentenced_to/)
 <!-- REDDIT:END -->
 
 
