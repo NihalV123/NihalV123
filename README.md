@@ -425,11 +425,11 @@ Top 4 most used languages across your repositories:
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Aplicando Two Factor Authentication no SSH](https://dev.to/azure/aplicando-two-factor-authentication-no-ssh-40im)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://dev.to/azure/tenha-privacidade-total-com-sua-propria-vpn-hospedada-na-cloud-3621)
-- [Que tal aprender AKS com este curso GRATUITO?](https://dev.to/azure/que-tal-aprender-aks-com-este-curso-gratuito-347n)
-- [Tornando o VSCode o seu único ambiente de desenvolvimento com Docker e Kubernetes](https://dev.to/azure/tornando-o-vscode-o-seu-unico-ambiente-de-desenvolvimento-com-docker-e-kubernetes-2236)
-- [Será este o fim da carreira em desenvolvimento de software?](https://dev.to/khaosdoctor/sera-este-o-fim-da-carreira-em-desenvolvimento-de-software-h4b)
+- [As más práticas mais comuns no JavaScript](https://dev.to/khaosdoctor/as-mas-praticas-mais-comuns-no-javascript-2jcm)
+- [Agrupamento com Array.prototype.groupBy](https://dev.to/khaosdoctor/agrupamento-com-arrayprototypegroupby-490c)
+- [Negociação salarial para devs - dicas e truques](https://dev.to/khaosdoctor/negociacao-salarial-para-devs-dicas-e-truques-3p2k)
+- [Por que escrever é importante pra sua carreira?](https://dev.to/khaosdoctor/por-que-escrever-e-importante-pra-sua-carreira-1910)
+- [O que eu aprendi depois de 150 palestras](https://dev.to/khaosdoctor/o-que-eu-aprendi-depois-de-150-palestras-cpp)
 <!-- DEVTO:END -->
 
 ### Medium
