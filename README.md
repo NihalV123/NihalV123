@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At the Ukrainian border, a mother brings a stranger&#39;s kids to safety.](https://www.reddit.com/r/news/comments/t22qnt/at_the_ukrainian_border_a_mother_brings_a/)
+- [Christian Eriksen returns to playing after cardiac arrest](https://www.reddit.com/r/news/comments/t226xx/christian_eriksen_returns_to_playing_after/)
+- [Harry and Meghan to receive civil rights award award from NAACP](https://www.reddit.com/r/news/comments/t20709/harry_and_meghan_to_receive_civil_rights_award/)
+- [Three killed, evacuations ordered as continuing severe weather causes chaos in south-east Queensland](https://www.reddit.com/r/news/comments/t1yaqk/three_killed_evacuations_ordered_as_continuing/)
+- [Megathread 4: Russian Invasion of Ukraine Continues](https://www.reddit.com/r/news/comments/t1y3rs/megathread_4_russian_invasion_of_ukraine_continues/)
 <!-- REDDIT:END -->
 
 
