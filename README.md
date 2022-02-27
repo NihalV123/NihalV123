@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Meta and YouTube block Russian state media from monetizing on its platforms](https://www.reddit.com/r/news/comments/t2amx1/meta_and_youtube_block_russian_state_media_from/)
+- [N. Korea fires unidentified projectile eastward: S. Korean military | Yonhap News Agency](https://www.reddit.com/r/news/comments/t2aeun/n_korea_fires_unidentified_projectile_eastward_s/)
+- [Ukraine in fierce fight against advancing Russian forces](https://www.reddit.com/r/news/comments/t29zxc/ukraine_in_fierce_fight_against_advancing_russian/)
+- [900 bison at Yellowstone to be relocated, slaughtered or shot by hunters this winter](https://www.reddit.com/r/news/comments/t29u2p/900_bison_at_yellowstone_to_be_relocated/)
+- [&#39;Let&#39;s help them get straight to hell&#39;: Ukraine tears down road signs so Russians get lost](https://www.reddit.com/r/news/comments/t29qjj/lets_help_them_get_straight_to_hell_ukraine_tears/)
 <!-- REDDIT:END -->
 
 
