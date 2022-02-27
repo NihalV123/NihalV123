@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia faces heavy losses as it attacks Ukraine on all fronts](https://www.reddit.com/r/news/comments/t2rty7/russia_faces_heavy_losses_as_it_attacks_ukraine/)
+- [Russian planes face near-total airspace ban to west - BBC News](https://www.reddit.com/r/news/comments/t2rq7w/russian_planes_face_neartotal_airspace_ban_to/)
+- [Turkey to implement pact limiting Russian warships to Black Sea](https://www.reddit.com/r/news/comments/t2rgl0/turkey_to_implement_pact_limiting_russian/)
+- [This Texas mom says she&#39;s moving her family to California to protect her transgender daughter](https://www.reddit.com/r/news/comments/t2pf2q/this_texas_mom_says_shes_moving_her_family_to/)
+- [Ukraine and Russia set to hold negotiations at Belarusian-Ukrainian border, says office of President Zelenskyy](https://www.reddit.com/r/news/comments/t2owbi/ukraine_and_russia_set_to_hold_negotiations_at/)
 <!-- REDDIT:END -->
 
 
