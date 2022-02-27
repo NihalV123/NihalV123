@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Germany finally gives Estonia permission to send weapons to Ukraine](https://www.reddit.com/r/news/comments/t2lzum/germany_finally_gives_estonia_permission_to_send/)
+- [Ukraine accuses Russia of &#39;war crimes&#39; targeting civilians](https://www.reddit.com/r/news/comments/t2k5r3/ukraine_accuses_russia_of_war_crimes_targeting/)
+- [Ukraine establishing foreign legion for volunteers from abroad - President](https://www.reddit.com/r/news/comments/t2iim4/ukraine_establishing_foreign_legion_for/)
+- [US inflation is at a 40-year high. Russia’s war will only make it worse](https://www.reddit.com/r/news/comments/t2iesd/us_inflation_is_at_a_40year_high_russias_war_will/)
+- [Australia to provide ‘lethal aid’ to Ukraine as it fights invading Russian troops](https://www.reddit.com/r/news/comments/t2hblc/australia_to_provide_lethal_aid_to_ukraine_as_it/)
 <!-- REDDIT:END -->
 
 
