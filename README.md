@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukrainian president signs formal request to join EU](https://www.reddit.com/r/news/comments/t3kh2m/ukrainian_president_signs_formal_request_to_join/)
+- [Kremlin kicks off new trial against opposition leader Navalny](https://www.reddit.com/r/news/comments/t3jykj/kremlin_kicks_off_new_trial_against_opposition/)
+- [A Ukrainian tried to sink a yacht owned by the head of a Russian state arms firm](https://www.reddit.com/r/news/comments/t3ir6k/a_ukrainian_tried_to_sink_a_yacht_owned_by_the/)
+- [FIFA Suspend Russia form International Competitions](https://www.reddit.com/r/news/comments/t3hmne/fifa_suspend_russia_form_international/)
+- [IOC recommends Russian and Belarusian athletes should be banned from all international competitions](https://www.reddit.com/r/news/comments/t3hhcr/ioc_recommends_russian_and_belarusian_athletes/)
 <!-- REDDIT:END -->
 
 
