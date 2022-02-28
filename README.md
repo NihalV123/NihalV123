@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Fossil fuels are choking humanity’: Major UN report sounds the alarm on climate impacts](https://www.reddit.com/r/news/comments/t3d6ne/fossil_fuels_are_choking_humanity_major_un_report/)
+- [In Kyiv, saboteurs shot dead a family with 3 children](https://www.reddit.com/r/news/comments/t3ao0x/in_kyiv_saboteurs_shot_dead_a_family_with_3/)
+- [Facebook, Twitter remove disinformation accounts targeting Ukrainians](https://www.reddit.com/r/news/comments/t3876n/facebook_twitter_remove_disinformation_accounts/)
+- [Russian central bank scrambles to contain fallout of sanctions](https://www.reddit.com/r/news/comments/t35cyf/russian_central_bank_scrambles_to_contain_fallout/)
+- [Bank of China&#39;s Singapore operation stops financing Russian oil trades- source](https://www.reddit.com/r/news/comments/t357ja/bank_of_chinas_singapore_operation_stops/)
 <!-- REDDIT:END -->
 
 
