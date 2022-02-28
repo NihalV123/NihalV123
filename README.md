@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawmakers approve $10k raises for many New Mexico teachers](https://www.reddit.com/r/news/comments/t3040k/lawmakers_approve_10k_raises_for_many_new_mexico/)
+- [Ukraine’s Volunteer ‘IT Army’ Is Hacking in Uncharted Territory](https://www.reddit.com/r/news/comments/t2y4mu/ukraines_volunteer_it_army_is_hacking_in/)
+- [Moscow braces for market meltdown Monday as new sanctions hit](https://www.reddit.com/r/news/comments/t2xooq/moscow_braces_for_market_meltdown_monday_as_new/)
+- [UPS and FedEx halting shipments to Russia and Ukraine](https://www.reddit.com/r/news/comments/t2xjw9/ups_and_fedex_halting_shipments_to_russia_and/)
+- [Two top Russian billionaires speak out against invasion of Ukraine](https://www.reddit.com/r/news/comments/t2x1s5/two_top_russian_billionaires_speak_out_against/)
 <!-- REDDIT:END -->
 
 
