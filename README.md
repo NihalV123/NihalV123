@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Meta says Russians targeting Ukrainians with misinformation and hacking attempts on Facebook](https://www.reddit.com/r/news/comments/t43vik/meta_says_russians_targeting_ukrainians_with/)
+- [Man kills 3 daughters, 1 other, himself at California church](https://www.reddit.com/r/news/comments/t4038z/man_kills_3_daughters_1_other_himself_at/)
+- [Alleged ‘Proud Boy’ charged over calling woman ‘n-word’ before punching her in the face](https://www.reddit.com/r/news/comments/t3zari/alleged_proud_boy_charged_over_calling_woman/)
+- [Scientists propose Tyrannosaurus had three species, not just &#39;rex&#39;](https://www.reddit.com/r/news/comments/t3yvks/scientists_propose_tyrannosaurus_had_three/)
+- [Sacramento church shooting leaves 5 dead, including 3 children](https://www.reddit.com/r/news/comments/t3xxgp/sacramento_church_shooting_leaves_5_dead/)
 <!-- REDDIT:END -->
 
 
