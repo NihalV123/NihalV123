@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [On-duty police officer accused of selling cocaine from patrol car, DEA says](https://www.reddit.com/r/news/comments/t3qlgq/onduty_police_officer_accused_of_selling_cocaine/)
+- [US expelling 12 Russian diplomats from UN mission](https://www.reddit.com/r/news/comments/t3q59h/us_expelling_12_russian_diplomats_from_un_mission/)
+- [International Ice Hockey Federation bans Russia, Belarus from its competitions &#39;until further notice&#39;](https://www.reddit.com/r/news/comments/t3pwsp/international_ice_hockey_federation_bans_russia/)
+- [SpaceX shipment of Starlink satellite internet dishes arrives in Ukraine, government official says](https://www.reddit.com/r/news/comments/t3ps0q/spacex_shipment_of_starlink_satellite_internet/)
+- [South Florida fraternity suspended for swastika incident amid national wave of campus anti-Semitism](https://www.reddit.com/r/news/comments/t3phze/south_florida_fraternity_suspended_for_swastika/)
 <!-- REDDIT:END -->
 
 
