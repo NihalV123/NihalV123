@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US ‘doomsday plane’ made four-hour flight following Putin’s nuclear weapons threat](https://www.reddit.com/r/news/comments/t54an5/us_doomsday_plane_made_fourhour_flight_following/)
+- [Dow soars over 600 pts on rate hike comments](https://www.reddit.com/r/news/comments/t53zsf/dow_soars_over_600_pts_on_rate_hike_comments/)
+- [Ghislaine Maxwell trial juror to plead fifth amendment at hearing](https://www.reddit.com/r/news/comments/t52yug/ghislaine_maxwell_trial_juror_to_plead_fifth/)
+- [Montana Gov. Gianforte hunts, kills National Park Service-tracked mountain lion](https://www.reddit.com/r/news/comments/t51ibv/montana_gov_gianforte_hunts_kills_national_park/)
+- [$1 million bounty on Putin offered by Russian businessman](https://www.reddit.com/r/news/comments/t51gp3/1_million_bounty_on_putin_offered_by_russian/)
 <!-- REDDIT:END -->
 
 
