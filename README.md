@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Americans should get ready for $5 a gallon gas, analyst warns](https://www.reddit.com/r/news/comments/t5k3g1/americans_should_get_ready_for_5_a_gallon_gas/)
+- [House Jan. 6 panel alleges Trump engaged in &#39;criminal conspiracy&#39;](https://www.reddit.com/r/news/comments/t5iobt/house_jan_6_panel_alleges_trump_engaged_in/)
+- [4th Kansas Rep. charged in a year, Suzi Carlson charged with two counts after DUI arrest last month](https://www.reddit.com/r/news/comments/t5iks6/4th_kansas_rep_charged_in_a_year_suzi_carlson/)
+- [Superintendent charged after students allegedly ordered to take off their clothes during vape search in Wisconsin](https://www.reddit.com/r/news/comments/t5h2tu/superintendent_charged_after_students_allegedly/)
+- [Russian commanders &#39;will be hunted down for war crimes&#39;, justice secretary warns](https://www.reddit.com/r/news/comments/t5ez9t/russian_commanders_will_be_hunted_down_for_war/)
 <!-- REDDIT:END -->
 
 
