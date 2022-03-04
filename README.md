@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Europe&#39;s largest nuclear power plant on fire after Russian attack, says local mayor](https://www.reddit.com/r/news/comments/t65yun/europes_largest_nuclear_power_plant_on_fire_after/)
+- [Tacoma woman sentenced for burning 5 police cars during 2020 Seattle protests](https://www.reddit.com/r/news/comments/t63kll/tacoma_woman_sentenced_for_burning_5_police_cars/)
+- [Ukraine’s Foreign Affairs Minister: Russian troops will launch missiles on Russia](https://www.reddit.com/r/news/comments/t63foe/ukraines_foreign_affairs_minister_russian_troops/)
+- [Russian space chief says Russia will no longer sell rocket engines to the US](https://www.reddit.com/r/news/comments/t62rli/russian_space_chief_says_russia_will_no_longer/)
+- [Case against sheriff accused of pointing gun at church youth group advanced to district court](https://www.reddit.com/r/news/comments/t62mri/case_against_sheriff_accused_of_pointing_gun_at/)
 <!-- REDDIT:END -->
 
 
