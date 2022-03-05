@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. can&#39;t expel migrant families to countries where they could be harmed, court rules](https://www.reddit.com/r/news/comments/t6vuuo/us_cant_expel_migrant_families_to_countries_where/)
+- [Mila Kunis and Ashton Kutcher pledge to match up to $3 million in aid for Ukrainian refugees](https://www.reddit.com/r/news/comments/t6vj0g/mila_kunis_and_ashton_kutcher_pledge_to_match_up/)
+- [On Monday, near Kyiv, chief correspondent Stuart Ramsay and his team were attacked. Camera operator Richie Mockler took two rounds to his body armour, Stuart was wounded.](https://www.reddit.com/r/news/comments/t6vek5/on_monday_near_kyiv_chief_correspondent_stuart/)
+- [CNN to stop broadcasting in Russia after new law](https://www.reddit.com/r/news/comments/t6um4w/cnn_to_stop_broadcasting_in_russia_after_new_law/)
+- [A convoy of truckers protesting Covid-19 measures is expected to arrive in the DC area this weekend. Here&#39;s what we know](https://www.reddit.com/r/news/comments/t6su7q/a_convoy_of_truckers_protesting_covid19_measures/)
 <!-- REDDIT:END -->
 
 
