@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Europe is responsible for selling nearly 50% of shark fins to Asia](https://www.reddit.com/r/news/comments/t77d82/europe_is_responsible_for_selling_nearly_50_of/)
+- [Iceland to end whaling in 2024 as demand dwindles | Whaling | The Guardian](https://www.reddit.com/r/news/comments/t77b9b/iceland_to_end_whaling_in_2024_as_demand_dwindles/)
+- [Over 66,200 Ukrainian men have returned from abroad to fight, says defence minister](https://www.reddit.com/r/news/comments/t7585g/over_66200_ukrainian_men_have_returned_from/)
+- [Gas prices surge overnight -- biggest jump since Hurricane Katrina](https://www.reddit.com/r/news/comments/t747dr/gas_prices_surge_overnight_biggest_jump_since/)
+- [World’s largest green hydrogen project unveiled in Texas, with plan to produce clean rocket fuel for Elon Musk](https://www.reddit.com/r/news/comments/t73gm8/worlds_largest_green_hydrogen_project_unveiled_in/)
 <!-- REDDIT:END -->
 
 
