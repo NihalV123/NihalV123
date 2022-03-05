@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philly becomes the first big U.S. city with a law banning minor traffic stops](https://www.reddit.com/r/news/comments/t71kdj/philly_becomes_the_first_big_us_city_with_a_law/)
+- [Average national gasoline price surges to $3.83 a gallon, the highest since 2012](https://www.reddit.com/r/news/comments/t6zzj8/average_national_gasoline_price_surges_to_383_a/)
+- [Teacher left classroom in stretcher after 5-year-old student’s attack](https://www.reddit.com/r/news/comments/t6zc2m/teacher_left_classroom_in_stretcher_after/)
+- [Judge dismisses suit in fatal Salt Lake City police shooting](https://www.reddit.com/r/news/comments/t6xus4/judge_dismisses_suit_in_fatal_salt_lake_city/)
+- [U.S. can&#39;t expel migrant families to countries where they could be harmed, court rules](https://www.reddit.com/r/news/comments/t6vuuo/us_cant_expel_migrant_families_to_countries_where/)
 <!-- REDDIT:END -->
 
 
