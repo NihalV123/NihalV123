@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Besieged Ukrainian city cancels evacuations, accuses Russia of breaking cease-fire](https://www.reddit.com/r/news/comments/t7mehh/besieged_ukrainian_city_cancels_evacuations/)
+- [Visa, Mastercard suspend operations in Russia over Ukraine invasion](https://www.reddit.com/r/news/comments/t7mbme/visa_mastercard_suspend_operations_in_russia_over/)
+- [Ukrainian paratroopers defeat enemy convoy near Balaklia](https://www.reddit.com/r/news/comments/t7li31/ukrainian_paratroopers_defeat_enemy_convoy_near/)
+- [Disgraced producer Harvey Weinstein caught smuggling Milk Duds in jail](https://www.reddit.com/r/news/comments/t7kv7e/disgraced_producer_harvey_weinstein_caught/)
+- [Transgender woman who fled to US to escape violence in Latin America murdered](https://www.reddit.com/r/news/comments/t7j78n/transgender_woman_who_fled_to_us_to_escape/)
 <!-- REDDIT:END -->
 
 
