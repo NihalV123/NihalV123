@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minister Reznikov: Kremlin not willing to admit its fiasco yet, but this time is almost here](https://www.reddit.com/r/news/comments/t7vs8k/minister_reznikov_kremlin_not_willing_to_admit/)
+- [Swedish and Finnish PMs quiet on Nato plans](https://www.reddit.com/r/news/comments/t7vmbz/swedish_and_finnish_pms_quiet_on_nato_plans/)
+- [North Korea says it conducted second &#39;important&#39; spy satellite test](https://www.reddit.com/r/news/comments/t7u0xk/north_korea_says_it_conducted_second_important/)
+- [Fort Lauderdale police chief fired over minority-first practices in hiring and promotions, report says](https://www.reddit.com/r/news/comments/t7s9no/fort_lauderdale_police_chief_fired_over/)
+- [At least 22 injured in brawl at Mexican soccer match](https://www.reddit.com/r/news/comments/t7s3d7/at_least_22_injured_in_brawl_at_mexican_soccer/)
 <!-- REDDIT:END -->
 
 
