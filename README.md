@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fort Lauderdale police chief fired over minority-first practices in hiring and promotions, report says](https://www.reddit.com/r/news/comments/t7s9no/fort_lauderdale_police_chief_fired_over/)
+- [Young Ukrainian volunteer killed delivering aid to dog shelter near Kyiv: ‘She was a hero’ - National](https://www.reddit.com/r/news/comments/t7qxky/young_ukrainian_volunteer_killed_delivering_aid/)
+- [Besieged Ukrainian city cancels evacuations, accuses Russia of breaking cease-fire](https://www.reddit.com/r/news/comments/t7mehh/besieged_ukrainian_city_cancels_evacuations/)
+- [Visa, Mastercard suspend operations in Russia over Ukraine invasion](https://www.reddit.com/r/news/comments/t7mbme/visa_mastercard_suspend_operations_in_russia_over/)
+- [Disgraced producer Harvey Weinstein caught smuggling Milk Duds in jail](https://www.reddit.com/r/news/comments/t7kv7e/disgraced_producer_harvey_weinstein_caught/)
 <!-- REDDIT:END -->
 
 
