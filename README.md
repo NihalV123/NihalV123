@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Philadelphia Cop Charged In Beating Of Now-Exonerated Man Who Spent 11 Years In Prison](https://www.reddit.com/r/news/comments/t8lgfu/exphiladelphia_cop_charged_in_beating_of/)
+- [4-year-old Israeli child tests positive for polio, first case since 1989](https://www.reddit.com/r/news/comments/t8l4bh/4yearold_israeli_child_tests_positive_for_polio/)
+- [The Philippines raises the age of sexual consent from 12 to 16](https://www.reddit.com/r/news/comments/t8gpgp/the_philippines_raises_the_age_of_sexual_consent/)
+- [Joint Base Andrews locked down in security alert moments after Vice President’s departure](https://www.reddit.com/r/news/comments/t8g4qb/joint_base_andrews_locked_down_in_security_alert/)
+- [The Russian Tea Room in New York City suffers as Ukraine invasion escalates](https://www.reddit.com/r/news/comments/t8eru1/the_russian_tea_room_in_new_york_city_suffers_as/)
 <!-- REDDIT:END -->
 
 
