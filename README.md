@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CoronaVac limits Hong Kong&#39;s protection against Omicron, even if entire population were to be vaccinated](https://www.reddit.com/r/news/comments/t8v3qu/coronavac_limits_hong_kongs_protection_against/)
+- [Google, Apple, Twitter Reveal Return to Office Policies](https://www.reddit.com/r/news/comments/t8tcfx/google_apple_twitter_reveal_return_to_office/)
+- [Even mild Covid is linked to brain damage months after illness, scans show](https://www.reddit.com/r/news/comments/t8t9ho/even_mild_covid_is_linked_to_brain_damage_months/)
+- [French army says senior al Qaeda leader killed in Mali](https://www.reddit.com/r/news/comments/t8slkf/french_army_says_senior_al_qaeda_leader_killed_in/)
+- [Climate crisis: Amazon rainforest tipping point is looming, data shows](https://www.reddit.com/r/news/comments/t8sjf0/climate_crisis_amazon_rainforest_tipping_point_is/)
 <!-- REDDIT:END -->
 
 
