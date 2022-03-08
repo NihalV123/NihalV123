@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man used COVID loan to buy Pokémon card, sentenced to prison.](https://www.reddit.com/r/news/comments/t99vxl/man_used_covid_loan_to_buy_pokémon_card_sentenced/)
+- [Most U.S. workers took an inflation pay cut in 2021](https://www.reddit.com/r/news/comments/t98t8d/most_us_workers_took_an_inflation_pay_cut_in_2021/)
+- [Olathe East student allegedly used ‘ghost gun’ in shooting at school](https://www.reddit.com/r/news/comments/t981gu/olathe_east_student_allegedly_used_ghost_gun_in/)
+- [No Charges for 5-Year-Old Who Left Teacher Hospitalized in Pembroke Pines School Attack](https://www.reddit.com/r/news/comments/t96y35/no_charges_for_5yearold_who_left_teacher/)
+- [NFL star Richard Sherman pleads guilty to two misdemeanors and avoids jail time](https://www.reddit.com/r/news/comments/t968qm/nfl_star_richard_sherman_pleads_guilty_to_two/)
 <!-- REDDIT:END -->
 
 
