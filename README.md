@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [McDonald&#39;s will temporarily close 850 restaurants in Russia, nearly 2 weeks after Putin invaded Ukraine](https://www.reddit.com/r/news/comments/t9mkfj/mcdonalds_will_temporarily_close_850_restaurants/)
+- [New Mexico&#39;s governor just signed a bill to make college tuition-free](https://www.reddit.com/r/news/comments/t9lf2d/new_mexicos_governor_just_signed_a_bill_to_make/)
+- [Former Proud Boys chairman charged with conspiracy.](https://www.reddit.com/r/news/comments/t9l98i/former_proud_boys_chairman_charged_with_conspiracy/)
+- [Married couple found stabbed to death on side of Florida road, police say](https://www.reddit.com/r/news/comments/t9kxui/married_couple_found_stabbed_to_death_on_side_of/)
+- [Prince Andrew case dismissed by stipulation](https://www.reddit.com/r/news/comments/t9ke7n/prince_andrew_case_dismissed_by_stipulation/)
 <!-- REDDIT:END -->
 
 
