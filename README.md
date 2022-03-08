@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge won&#39;t reinstate Michigan prof who made vulgar video](https://www.reddit.com/r/news/comments/t91y5a/judge_wont_reinstate_michigan_prof_who_made/)
+- [WNBA&#39;s Brittney Griner arrested in Russia on drug charges](https://www.reddit.com/r/news/comments/t917d5/wnbas_brittney_griner_arrested_in_russia_on_drug/)
+- [Half of US adults exposed to harmful lead levels as kids](https://www.reddit.com/r/news/comments/t90wcn/half_of_us_adults_exposed_to_harmful_lead_levels/)
+- [Multiple People Shot Outside Des Moines, IA Highschool - ABC](https://www.reddit.com/r/news/comments/t90bdo/multiple_people_shot_outside_des_moines_ia/)
+- [Photos show first work in years at North Korea nuke site, analysts say](https://www.reddit.com/r/news/comments/t9075b/photos_show_first_work_in_years_at_north_korea/)
 <!-- REDDIT:END -->
 
 
