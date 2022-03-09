@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China state-backed hackers compromised networks of at least 6 U.S. state governments, research finds](https://www.reddit.com/r/news/comments/ta5fci/china_statebacked_hackers_compromised_networks_of/)
+- [Endurance is Found](https://www.reddit.com/r/news/comments/ta2e6q/endurance_is_found/)
+- [6 teenagers arrested in drive-by shooting at Iowa high school that left 1 dead, 2 hospitalized](https://www.reddit.com/r/news/comments/ta1j6j/6_teenagers_arrested_in_driveby_shooting_at_iowa/)
+- [Fears for bees as US set to extend use of toxic pesticides that paralyse insects](https://www.reddit.com/r/news/comments/ta1ix0/fears_for_bees_as_us_set_to_extend_use_of_toxic/)
+- [Air alert declared in Kyiv as fighting continues](https://www.reddit.com/r/news/comments/ta0wy6/air_alert_declared_in_kyiv_as_fighting_continues/)
 <!-- REDDIT:END -->
 
 
