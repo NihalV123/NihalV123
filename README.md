@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CT bill banning cops fired for misconduct from being hired elsewhere moves forward](https://www.reddit.com/r/news/comments/tad9o2/ct_bill_banning_cops_fired_for_misconduct_from/)
+- [Florida lawmakers approve bill to restrict rooftop solar incentives](https://www.reddit.com/r/news/comments/taci4u/florida_lawmakers_approve_bill_to_restrict/)
+- [Former Lawrence police officer arrested on suspicion of raping 20-year-old while he was on duty, 24 other counts](https://www.reddit.com/r/news/comments/tac2j7/former_lawrence_police_officer_arrested_on/)
+- [New York City will stop collecting Social Security money from children in foster care](https://www.reddit.com/r/news/comments/tabo7i/new_york_city_will_stop_collecting_social/)
+- [Americans can now order four more free at-home Covid-19 tests](https://www.reddit.com/r/news/comments/taaowb/americans_can_now_order_four_more_free_athome/)
 <!-- REDDIT:END -->
 
 
