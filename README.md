@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Smartmatic can pursue election-rigging claims against Fox News, Giuliani](https://www.reddit.com/r/news/comments/ta0mxb/smartmatic_can_pursue_electionrigging_claims/)
+- [‘COVID started everything:’ Jury set in trial of 4 men accused of plotting Gov. Whitmer’s kidnapping over coronavirus orders](https://www.reddit.com/r/news/comments/t9zhzy/covid_started_everything_jury_set_in_trial_of_4/)
+- [Russian-American charged with acting as illegal Russian agent in the US](https://www.reddit.com/r/news/comments/t9ygq3/russianamerican_charged_with_acting_as_illegal/)
+- [Venezuela frees at least two Americans after talks with U.S. - sources](https://www.reddit.com/r/news/comments/t9xuw2/venezuela_frees_at_least_two_americans_after/)
+- [Philadelphia police commissioner moves to fire officer who shot and killed 12-year-old who was allegedly armed | CNN](https://www.reddit.com/r/news/comments/t9wdws/philadelphia_police_commissioner_moves_to_fire/)
 <!-- REDDIT:END -->
 
 
