@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Idaho lawmakers seek to punish parents who take trans youth to other states for health care](https://www.reddit.com/r/news/comments/taw6t9/idaho_lawmakers_seek_to_punish_parents_who_take/)
+- [Construction crew finds mummified body in wall at old Oakland convention center](https://www.reddit.com/r/news/comments/tavtj1/construction_crew_finds_mummified_body_in_wall_at/)
+- [Roman Abramovich sanctioned by UK](https://www.reddit.com/r/news/comments/tav9zn/roman_abramovich_sanctioned_by_uk/)
+- [Judge overseeing Purdue Pharma&#39;s bankruptcy approved the $6 billion opioid settlement funded by the Sackler family, overruling objections from the Department of Justice and 20 states that opposed the deal](https://www.reddit.com/r/news/comments/tatulz/judge_overseeing_purdue_pharmas_bankruptcy/)
+- [Texas flagged 27,000 mail ballots for rejection in primary](https://www.reddit.com/r/news/comments/taqefx/texas_flagged_27000_mail_ballots_for_rejection_in/)
 <!-- REDDIT:END -->
 
 
