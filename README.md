@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge orders Walmart to rehire worker with Down syndrome, provide more than $50,000 in back pay](https://www.reddit.com/r/news/comments/tb491k/judge_orders_walmart_to_rehire_worker_with_down/)
+- [Denmark opens its arms to Ukrainians, while trying to send Syrian refugees home](https://www.reddit.com/r/news/comments/tb3jom/denmark_opens_its_arms_to_ukrainians_while_trying/)
+- [Goldman Sachs is the 1st major Wall Street bank to pull out of Russia](https://www.reddit.com/r/news/comments/tb2zzp/goldman_sachs_is_the_1st_major_wall_street_bank/)
+- [Ukrainian women fleeing war find welcome, and work, in Eastern Europe](https://www.reddit.com/r/news/comments/tb2zqc/ukrainian_women_fleeing_war_find_welcome_and_work/)
+- [Denmark opens its arms to Ukrainians, while trying to send Syrian refugees home](https://www.reddit.com/r/news/comments/tazbjl/denmark_opens_its_arms_to_ukrainians_while_trying/)
 <!-- REDDIT:END -->
 
 
