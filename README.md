@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia to join US and UK in banning Russian oil imports | Australia news](https://www.reddit.com/r/news/comments/tbu8yd/australia_to_join_us_and_uk_in_banning_russian/)
+- [Biden Administration to cancel $6 billion worth of student loan debt](https://www.reddit.com/r/news/comments/tbtq63/biden_administration_to_cancel_6_billion_worth_of/)
+- [&#39;No light. No nothing.&#39; Inside Louisiana&#39;s harshest juvenile lockup](https://www.reddit.com/r/news/comments/tbsyps/no_light_no_nothing_inside_louisianas_harshest/)
+- [Royal Navy finds uninhabited Henderson Island has been marked on charts in the wrong place for 85 years](https://www.reddit.com/r/news/comments/tbsijd/royal_navy_finds_uninhabited_henderson_island_has/)
+- [Texas confirms 9 investigations of transgender minors receiving gender-affirming health care](https://www.reddit.com/r/news/comments/tbs632/texas_confirms_9_investigations_of_transgender/)
 <!-- REDDIT:END -->
 
 
