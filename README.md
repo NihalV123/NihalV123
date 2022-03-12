@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hollywood Executive To Plead Guilty To Fraudulently Claiming $1.7M In Covid Relief Funds](https://www.reddit.com/r/news/comments/tc85lq/hollywood_executive_to_plead_guilty_to/)
+- [Emilio Delgado, &#39;Sesame Street&#39;s&#39; Luis for more than 40 years, has died](https://www.reddit.com/r/news/comments/tc74d2/emilio_delgado_sesame_streets_luis_for_more_than/)
+- [Ohio officer cleared in shooting of teenager Ma’Khia Bryant](https://www.reddit.com/r/news/comments/tc6uhx/ohio_officer_cleared_in_shooting_of_teenager/)
+- [U.S. boosts missile defense readiness in response to North Korea&#39;s &quot;serious escalation&quot; with recent missile tests](https://www.reddit.com/r/news/comments/tc4n21/us_boosts_missile_defense_readiness_in_response/)
+- [Woman blindfolded, stabbed date in revenge for Iranian military leader’s death, police say](https://www.reddit.com/r/news/comments/tc49cu/woman_blindfolded_stabbed_date_in_revenge_for/)
 <!-- REDDIT:END -->
 
 
