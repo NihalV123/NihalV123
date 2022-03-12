@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chile couples&#39; joy as first same-sex marriages held](https://www.reddit.com/r/news/comments/tce5kq/chile_couples_joy_as_first_samesex_marriages_held/)
+- [Gabby Petito&#39;s parents sue Brian Laundrie&#39;s parents, claiming they knew of her killing and were helping son escape](https://www.reddit.com/r/news/comments/tccoxt/gabby_petitos_parents_sue_brian_laundries_parents/)
+- [6 West Point cadets overdose on fentanyl during spring break, police say](https://www.reddit.com/r/news/comments/tccesg/6_west_point_cadets_overdose_on_fentanyl_during/)
+- [Texas clinics’ lawsuit over abortion ban ‘effectively over’](https://www.reddit.com/r/news/comments/tc9vhb/texas_clinics_lawsuit_over_abortion_ban/)
+- [Hollywood Executive To Plead Guilty To Fraudulently Claiming $1.7M In Covid Relief Funds](https://www.reddit.com/r/news/comments/tc85lq/hollywood_executive_to_plead_guilty_to/)
 <!-- REDDIT:END -->
 
 
