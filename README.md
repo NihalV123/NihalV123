@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [American journalist Brent Renaud shot and killed](https://www.reddit.com/r/news/comments/tdc50q/american_journalist_brent_renaud_shot_and_killed/)
+- [A Kansas teacher is suing school officials for requiring her to address students by their preferred names, saying the policy violates her religious freedom](https://www.reddit.com/r/news/comments/tdb59h/a_kansas_teacher_is_suing_school_officials_for/)
+- [Saskatchewan premier&#39;s vehicle impounded in B.C., police say driver was impaired](https://www.reddit.com/r/news/comments/td9d5b/saskatchewan_premiers_vehicle_impounded_in_bc/)
+- [Gas station drops prices to $2.25 a gallon](https://www.reddit.com/r/news/comments/td6zqi/gas_station_drops_prices_to_225_a_gallon/)
+- [China daily local symptomatic COVID cases more than triple](https://www.reddit.com/r/news/comments/td39ex/china_daily_local_symptomatic_covid_cases_more/)
 <!-- REDDIT:END -->
 
 
