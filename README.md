@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philippines summons Chinese ambassador over navy ship&#39;s &#39;intrusion&#39;](https://www.reddit.com/r/news/comments/te390z/philippines_summons_chinese_ambassador_over_navy/)
+- [Over 100 migrants come ashore in the Florida Keys](https://www.reddit.com/r/news/comments/te2ep8/over_100_migrants_come_ashore_in_the_florida_keys/)
+- [Coroner identifies 7-year-old victim involved in car crash at Clarion-Ledger building; Woman charged with aggravated DUI](https://www.reddit.com/r/news/comments/te0xwf/coroner_identifies_7yearold_victim_involved_in/)
+- [Man ‘playing with gun’ kills pregnant teen, deputies say](https://www.reddit.com/r/news/comments/tdzzuw/man_playing_with_gun_kills_pregnant_teen_deputies/)
+- [Houston gas station claims thieves stole over 1,000 gallons of diesel fuel from underground storage tanks](https://www.reddit.com/r/news/comments/tdym6e/houston_gas_station_claims_thieves_stole_over/)
 <!-- REDDIT:END -->
 
 
