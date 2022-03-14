@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Young mother killed after accidentally shot by toddler playing with gun; father in custody](https://www.reddit.com/r/news/comments/tdvgfj/young_mother_killed_after_accidentally_shot_by/)
+- [Wrestling Legend Scott Hal &lpar;Razor Ramon&rpar; To Be Taken Off Life Support After Suffering Multiple Heart Attacks](https://www.reddit.com/r/news/comments/tdvfpb/wrestling_legend_scott_hal_razor_ramon_to_be/)
+- [COVID-19: Surge in Hong Kong coronavirus cases pushes neighbouring Chinese city of Shenzhen into lockdown](https://www.reddit.com/r/news/comments/tdv8kx/covid19_surge_in_hong_kong_coronavirus_cases/)
+- [Minneapolis teachers strike continues as union and district remain far apart on deal](https://www.reddit.com/r/news/comments/tdv5jq/minneapolis_teachers_strike_continues_as_union/)
+- [Meta narrows guidance to prohibit calls for death of a head of state](https://www.reddit.com/r/news/comments/tdukiw/meta_narrows_guidance_to_prohibit_calls_for_death/)
 <!-- REDDIT:END -->
 
 
