@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida mom, daughter arrested after student’s ‘kill list’ found, sheriff’s office says](https://www.reddit.com/r/news/comments/teb0wy/florida_mom_daughter_arrested_after_students_kill/)
+- [Maryland’s last public Confederate monument removed](https://www.reddit.com/r/news/comments/teal92/marylands_last_public_confederate_monument_removed/)
+- [Ohio Gov. DeWine signs bill into law allowing people to carry concealed weapons without a permit](https://www.reddit.com/r/news/comments/te9dhy/ohio_gov_dewine_signs_bill_into_law_allowing/)
+- [Judge makes ban on Saget autopsy records release permanent](https://www.reddit.com/r/news/comments/te984u/judge_makes_ban_on_saget_autopsy_records_release/)
+- [Ethiopia pledges action after video shows uniformed men burning civilians alive](https://www.reddit.com/r/news/comments/te886z/ethiopia_pledges_action_after_video_shows/)
 <!-- REDDIT:END -->
 
 
