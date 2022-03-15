@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel settler opens fire at Palestine primary school in West Bank](https://www.reddit.com/r/news/comments/tegx2k/israel_settler_opens_fire_at_palestine_primary/)
+- [Ever stuck: Suez container ship’s cousin runs aground in US harbor](https://www.reddit.com/r/news/comments/tefn7p/ever_stuck_suez_container_ships_cousin_runs/)
+- [This war will have no winners, only losers - UN secretary general](https://www.reddit.com/r/news/comments/teffjl/this_war_will_have_no_winners_only_losers_un/)
+- [Tiananmen Square protester killed in his New York law office](https://www.reddit.com/r/news/comments/teeszs/tiananmen_square_protester_killed_in_his_new_york/)
+- [South Florida visitor spends night in stranger’s home thinking it was his Airbnb](https://www.reddit.com/r/news/comments/tedskf/south_florida_visitor_spends_night_in_strangers/)
 <!-- REDDIT:END -->
 
 
