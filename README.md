@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox News cameraman Pierre Zakrzewski and Ukrainian journalist killed in Kyiv](https://www.reddit.com/r/news/comments/teumqn/fox_news_cameraman_pierre_zakrzewski_and/)
+- [Germany to disarm far-right extremists, restricts gun access](https://www.reddit.com/r/news/comments/teufja/germany_to_disarm_farright_extremists_restricts/)
+- [Ukraine war: Joe Biden, Hillary Clinton and senior White House officials banned from entering Russia](https://www.reddit.com/r/news/comments/tet7pz/ukraine_war_joe_biden_hillary_clinton_and_senior/)
+- [White House aims to boost supply chain information sharing](https://www.reddit.com/r/news/comments/test98/white_house_aims_to_boost_supply_chain/)
+- [Puerto Rico formally exits bankruptcy following largest public debt restructuring](https://www.reddit.com/r/news/comments/tesfwv/puerto_rico_formally_exits_bankruptcy_following/)
 <!-- REDDIT:END -->
 
 
