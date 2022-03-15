@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Secret Service report details growing incel terrorism threat](https://www.reddit.com/r/news/comments/tend40/new_secret_service_report_details_growing_incel/)
+- [The U.S. has a C-minus on infrastructure](https://www.reddit.com/r/news/comments/tend2w/the_us_has_a_cminus_on_infrastructure/)
+- [Asian woman stomped on and punched more than 125 times after being called racial slur, police say](https://www.reddit.com/r/news/comments/temhnw/asian_woman_stomped_on_and_punched_more_than_125/)
+- [Suspect Arrested in Killings of Homeless Men in DC, NYC: Police](https://www.reddit.com/r/news/comments/tem39g/suspect_arrested_in_killings_of_homeless_men_in/)
+- [China reports 5,280 new coronavirus cases, the most since the pandemic began.](https://www.reddit.com/r/news/comments/teiinr/china_reports_5280_new_coronavirus_cases_the_most/)
 <!-- REDDIT:END -->
 
 
