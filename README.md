@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘No more switching clocks’: Senate passes act to make daylight saving time permanent](https://www.reddit.com/r/news/comments/tfncpq/no_more_switching_clocks_senate_passes_act_to/)
+- [Theater in Mariupol where hundreds were taking refuge has been bombed, according to city council](https://www.reddit.com/r/news/comments/tfmx0z/theater_in_mariupol_where_hundreds_were_taking/)
+- [National Butterfly Center reopens after being targeted by conspiracy theorists](https://www.reddit.com/r/news/comments/tfmumn/national_butterfly_center_reopens_after_being/)
+- [UN court orders Russia to cease hostilities in Ukraine](https://www.reddit.com/r/news/comments/tfmnxg/un_court_orders_russia_to_cease_hostilities_in/)
+- [Disney workers plan walkout to protest &#39;Don&#39;t Say Gay&#39; bill](https://www.reddit.com/r/news/comments/tfm8hd/disney_workers_plan_walkout_to_protest_dont_say/)
 <!-- REDDIT:END -->
 
 
