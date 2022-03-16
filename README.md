@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Senate votes to make daylight saving time permanent from next year](https://www.reddit.com/r/news/comments/tf9a12/us_senate_votes_to_make_daylight_saving_time/)
+- [EXCLUSIVE: North Korean projectile debris fell near Pyongyang after test failure](https://www.reddit.com/r/news/comments/tf99lw/exclusive_north_korean_projectile_debris_fell/)
+- [Ukrainian President Volodymyr Zelensky has appointed Major General Eduard Moskaliov commander of the Joint Forces Operation](https://www.reddit.com/r/news/comments/tf6908/ukrainian_president_volodymyr_zelensky_has/)
+- [Wall Street stocks rally, oil prices fall ahead of Fed meeting](https://www.reddit.com/r/news/comments/tf6896/wall_street_stocks_rally_oil_prices_fall_ahead_of/)
+- [Seoul: North Korean launch apparently ends in failure](https://www.reddit.com/r/news/comments/tf5xe4/seoul_north_korean_launch_apparently_ends_in/)
 <!-- REDDIT:END -->
 
 
