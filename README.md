@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exxon Mobil loses appeal to stop climate change probes](https://www.reddit.com/r/news/comments/tf3ln2/exxon_mobil_loses_appeal_to_stop_climate_change/)
+- [U.S. Senate approves bill to make daylight saving time permanent](https://www.reddit.com/r/news/comments/tf26d8/us_senate_approves_bill_to_make_daylight_saving/)
+- [Four Houston Police Officers Who Killed Nicolas Chavez Will Be Reinstated](https://www.reddit.com/r/news/comments/tf21je/four_houston_police_officers_who_killed_nicolas/)
+- [Idaho hospital locks down amid far-right call for protest](https://www.reddit.com/r/news/comments/tf1l6f/idaho_hospital_locks_down_amid_farright_call_for/)
+- [UFC Fighter Kevin Holland Helps Stop Gunman In Houston Restaurant Shooting](https://www.reddit.com/r/news/comments/tf13p7/ufc_fighter_kevin_holland_helps_stop_gunman_in/)
 <!-- REDDIT:END -->
 
 
