@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two US military service members arrested in Sweden for buying sex from Ukranian women](https://www.reddit.com/r/news/comments/tg7rhd/two_us_military_service_members_arrested_in/)
+- [Disney employees are staging walkouts over company&#39;s response to the &#39;Don&#39;t Say Gay&#39; bill](https://www.reddit.com/r/news/comments/tg7mnx/disney_employees_are_staging_walkouts_over/)
+- [Chinese plot to smear US Congress hopeful unveiled](https://www.reddit.com/r/news/comments/tg6s37/chinese_plot_to_smear_us_congress_hopeful_unveiled/)
+- [New video details 2020 arrest of man who died in CHP custody: &#39;I can&#39;t breathe&#39;](https://www.reddit.com/r/news/comments/tg2vj9/new_video_details_2020_arrest_of_man_who_died_in/)
+- [Brazil was alleged intended recipient of US couple’s nuclear submarine secrets](https://www.reddit.com/r/news/comments/tg1xdg/brazil_was_alleged_intended_recipient_of_us/)
 <!-- REDDIT:END -->
 
 
