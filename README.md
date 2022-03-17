@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon closes $8.5 billion deal to acquire MGM](https://www.reddit.com/r/news/comments/tgf08g/amazon_closes_85_billion_deal_to_acquire_mgm/)
+- [LMPD Training Materials Portrayed Police As Avengers Who Carry Out God’s Wrath](https://www.reddit.com/r/news/comments/tgeqcz/lmpd_training_materials_portrayed_police_as/)
+- [Texas man accused of fatally shooting 2 dentists at clinic](https://www.reddit.com/r/news/comments/tgdqiz/texas_man_accused_of_fatally_shooting_2_dentists/)
+- [UN establishes formal ties with Taliban-governed Afghanistan](https://www.reddit.com/r/news/comments/tgd9kw/un_establishes_formal_ties_with_talibangoverned/)
+- [Uzbekistan calls for an end to aggression in Ukraine](https://www.reddit.com/r/news/comments/tgcaei/uzbekistan_calls_for_an_end_to_aggression_in/)
 <!-- REDDIT:END -->
 
 
