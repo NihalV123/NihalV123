@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Russian oligarch&#39;s superyacht is stuck in Norway because no one will sell it fuel](https://www.reddit.com/r/news/comments/tfxfox/a_russian_oligarchs_superyacht_is_stuck_in_norway/)
+- [Florida massacre families to get millions for FBI’s inaction](https://www.reddit.com/r/news/comments/tfwvv0/florida_massacre_families_to_get_millions_for/)
+- [Court Orders Jussie Smollett Release From Jail During Appeal](https://www.reddit.com/r/news/comments/tfvm5o/court_orders_jussie_smollett_release_from_jail/)
+- [Netflix Testing New Feature to Combat Password Sharing](https://www.reddit.com/r/news/comments/tfv0sb/netflix_testing_new_feature_to_combat_password/)
+- [&quot;It&#39;s time to show who I am now&quot;: Dog sitter recovering after losing face in horrific dog attack](https://www.reddit.com/r/news/comments/tfueos/its_time_to_show_who_i_am_now_dog_sitter/)
 <!-- REDDIT:END -->
 
 
