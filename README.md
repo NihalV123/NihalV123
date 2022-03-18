@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Long-overdue’: all-Black, female WWII battalion to receive Congressional Gold Medal](https://www.reddit.com/r/news/comments/tgyldx/longoverdue_allblack_female_wwii_battalion_to/)
+- [Putin&#39;s chilling warning to Russian &#39;traitors&#39; and &#39;scum&#39; is a sign things aren&#39;t going to plan](https://www.reddit.com/r/news/comments/tgy1gn/putins_chilling_warning_to_russian_traitors_and/)
+- [Prostitution will not longer be a crime in Belgium](https://www.reddit.com/r/news/comments/tgy100/prostitution_will_not_longer_be_a_crime_in_belgium/)
+- [Russia Today has its licence to broadcast in UK revoked with immediate effect by watchdog Ofcom](https://www.reddit.com/r/news/comments/tgwfdk/russia_today_has_its_licence_to_broadcast_in_uk/)
+- [Texas man pleads guilty to assaulting police at U.S. Capitol riot](https://www.reddit.com/r/news/comments/tgspjx/texas_man_pleads_guilty_to_assaulting_police_at/)
 <!-- REDDIT:END -->
 
 
