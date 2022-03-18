@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [70% of medical collection debt will soon be removed from credit reports](https://www.reddit.com/r/news/comments/th8qy2/70_of_medical_collection_debt_will_soon_be/)
+- [Ukraine: Arnold Schwarzenegger&#39;s anti-war video trends on Russian social media](https://www.reddit.com/r/news/comments/th8999/ukraine_arnold_schwarzeneggers_antiwar_video/)
+- [&#39;I killed a lady on the bridge&#39;: Florida drawbridge tender arrested after 79-year-old woman falls to her death](https://www.reddit.com/r/news/comments/th6j9f/i_killed_a_lady_on_the_bridge_florida_drawbridge/)
+- [Lake Powell hits historic low, raising hydropower concerns](https://www.reddit.com/r/news/comments/th5v0b/lake_powell_hits_historic_low_raising_hydropower/)
+- [Most medical debt to be removed from credit reports](https://www.reddit.com/r/news/comments/th50l5/most_medical_debt_to_be_removed_from_credit/)
 <!-- REDDIT:END -->
 
 
