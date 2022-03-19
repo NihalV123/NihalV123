@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Nostalgic racism is racism’: Disney criticised for Texas students’ performance](https://www.reddit.com/r/news/comments/thzq6l/nostalgic_racism_is_racism_disney_criticised_for/)
+- [Ukraine’s not-so-secret weapon against Russia: an army of volunteers supplying the front - National](https://www.reddit.com/r/news/comments/thzoey/ukraines_notsosecret_weapon_against_russia_an/)
+- [Most medical debt will be wiped from consumer credit reports](https://www.reddit.com/r/news/comments/thyfc9/most_medical_debt_will_be_wiped_from_consumer/)
+- [Russian claims of bat bioweapon labs in Ukraine dismissed by US](https://www.reddit.com/r/news/comments/thxtyr/russian_claims_of_bat_bioweapon_labs_in_ukraine/)
+- [Lebanon faces food crisis with ‘no wheat orders since Ukraine war began’](https://www.reddit.com/r/news/comments/thx4te/lebanon_faces_food_crisis_with_no_wheat_orders/)
 <!-- REDDIT:END -->
 
 
