@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [80 Ukrainian soldiers believed dead after Russian missile strikes hit barracks as they slept](https://www.reddit.com/r/news/comments/ti83z1/80_ukrainian_soldiers_believed_dead_after_russian/)
+- [Arizona House approves ban on close-up videotaping of police officers](https://www.reddit.com/r/news/comments/ti7p0d/arizona_house_approves_ban_on_closeup_videotaping/)
+- [Kanye West Barred From Performing at Grammys, His Rep Confirms](https://www.reddit.com/r/news/comments/ti5xvt/kanye_west_barred_from_performing_at_grammys_his/)
+- [Former British prime ministers are pushing for a new international tribunal to investigate Putin&#39;s actions in Ukraine](https://www.reddit.com/r/news/comments/ti5jvy/former_british_prime_ministers_are_pushing_for_a/)
+- [Kyiv calling: famous Clash anthem reborn as call to arms](https://www.reddit.com/r/news/comments/ti5bbz/kyiv_calling_famous_clash_anthem_reborn_as_call/)
 <!-- REDDIT:END -->
 
 
