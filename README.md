@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [80% of Canadians support unlimited Ukrainian refugees: poll](https://www.reddit.com/r/news/comments/tip4ll/80_of_canadians_support_unlimited_ukrainian/)
+- [Russia is replacing McDonald&#39;s. McDonald&#39;s closed all of it&#39;s 847 restaurants in Russia in opposition to Putin&#39;s invasion of Ukraine. In response, Russia is launching a near identical fast-food chain called Uncle Vanya&#39;s with near-identical branding as McDonald&#39;s.](https://www.reddit.com/r/news/comments/tiokmn/russia_is_replacing_mcdonalds_mcdonalds_closed/)
+- [Nashville firefighter who called council members white supremacists suspended for 16 days](https://www.reddit.com/r/news/comments/tinl6s/nashville_firefighter_who_called_council_members/)
+- [US admiral says China fully militarized isles](https://www.reddit.com/r/news/comments/timu3q/us_admiral_says_china_fully_militarized_isles/)
+- [Six killed after car drives into crowd in Belgium](https://www.reddit.com/r/news/comments/tim1ly/six_killed_after_car_drives_into_crowd_in_belgium/)
 <!-- REDDIT:END -->
 
 
