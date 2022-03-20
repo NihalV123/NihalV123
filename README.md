@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Kentucky clerk Kim Davis violated rights of same-sex couples, judge rules](https://www.reddit.com/r/news/comments/tidcyf/former_kentucky_clerk_kim_davis_violated_rights/)
+- [Afghanistan&#39;s last finance minister, now a DC Uber driver, ponders what went wrong](https://www.reddit.com/r/news/comments/tid8vx/afghanistans_last_finance_minister_now_a_dc_uber/)
+- [Some big name firms are balking at shunning Russia, despite Ukraine invasion](https://www.reddit.com/r/news/comments/tid6rq/some_big_name_firms_are_balking_at_shunning/)
+- [Sri Lanka cancels school exams over paper shortage as financial crisis bites](https://www.reddit.com/r/news/comments/tibg8e/sri_lanka_cancels_school_exams_over_paper/)
+- [Australia bans alumina exports to Russia, sources coal for Ukraine](https://www.reddit.com/r/news/comments/tib28o/australia_bans_alumina_exports_to_russia_sources/)
 <!-- REDDIT:END -->
 
 
