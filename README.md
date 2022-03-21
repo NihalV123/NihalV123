@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wales introduces ban on smacking and slapping children](https://www.reddit.com/r/news/comments/tjgutn/wales_introduces_ban_on_smacking_and_slapping/)
+- [Ukraine war: Russia&#39;s deadline passes with Ukraine refusing to lay down arms and surrender Mariupol](https://www.reddit.com/r/news/comments/tjfe4a/ukraine_war_russias_deadline_passes_with_ukraine/)
+- [US says Myanmar repression of Muslim Rohingya is genocide](https://www.reddit.com/r/news/comments/tjelwq/us_says_myanmar_repression_of_muslim_rohingya_is/)
+- [Russia labels Meta an &quot;Extremist Organization&quot;](https://www.reddit.com/r/news/comments/tjdcxi/russia_labels_meta_an_extremist_organization/)
+- [Workers go on strike at California refinery owned by Chevron](https://www.reddit.com/r/news/comments/tjdcaj/workers_go_on_strike_at_california_refinery_owned/)
 <!-- REDDIT:END -->
 
 
