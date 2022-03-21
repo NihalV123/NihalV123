@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US decries ‘disturbing’ accounts of Ukrainians deported to Russia](https://www.reddit.com/r/news/comments/tj41om/us_decries_disturbing_accounts_of_ukrainians/)
+- [Moscow stock exchange scheduled to reopen | Foreign Brief](https://www.reddit.com/r/news/comments/tj3ica/moscow_stock_exchange_scheduled_to_reopen_foreign/)
+- [Ammonia leak reported at chemicals plant in Ukraine&#39;s besieged Sumy](https://www.reddit.com/r/news/comments/tj2ltq/ammonia_leak_reported_at_chemicals_plant_in/)
+- [Mariupol: Ukraine rejects Russian offer to surrender port city](https://www.reddit.com/r/news/comments/tj138z/mariupol_ukraine_rejects_russian_offer_to/)
+- [Russia demands Mariupol lay down arms but Ukraine says No](https://www.reddit.com/r/news/comments/tj0t5t/russia_demands_mariupol_lay_down_arms_but_ukraine/)
 <!-- REDDIT:END -->
 
 
