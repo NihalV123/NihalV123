@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Clarence Thomas hospitalized with &#39;flu-like symptoms&#39;](https://www.reddit.com/r/news/comments/tixpr4/justice_clarence_thomas_hospitalized_with_flulike/)
+- [David Beckham hands Instagram account to Ukrainian doctor in Kharkiv](https://www.reddit.com/r/news/comments/tix51b/david_beckham_hands_instagram_account_to/)
+- [Putin moves troops to Belarus from the other end of Russian to make up for losses - General Staff](https://www.reddit.com/r/news/comments/tix4ox/putin_moves_troops_to_belarus_from_the_other_end/)
+- [A Tennessee police officer fired his stun gun at a food delivery man who had begun recording his traffic stop for speeding and asked to see the officer&#39;s supervisor, video footage shows.](https://www.reddit.com/r/news/comments/tiwbch/a_tennessee_police_officer_fired_his_stun_gun_at/)
+- [U.S. home sales tumble; higher prices, mortgage rates eroding affordability](https://www.reddit.com/r/news/comments/tiv4xf/us_home_sales_tumble_higher_prices_mortgage_rates/)
 <!-- REDDIT:END -->
 
 
