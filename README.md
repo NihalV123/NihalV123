@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than $17bn of global assets linked to Putin’s friends and cronies.](https://www.reddit.com/r/news/comments/tjy5o2/more_than_17bn_of_global_assets_linked_to_putins/)
+- [&#39;Freedom Convoy&#39; organizer Pat King expresses frustration at courtroom livestreamers](https://www.reddit.com/r/news/comments/tjxqxa/freedom_convoy_organizer_pat_king_expresses/)
+- [Renault resumes car production in Moscow as rivals cut ties with Russia | Renault | The Guardian](https://www.reddit.com/r/news/comments/tjwq9m/renault_resumes_car_production_in_moscow_as/)
+- [There are more than 5,000 worlds beyond our solar system, NASA confirms](https://www.reddit.com/r/news/comments/tjvo1v/there_are_more_than_5000_worlds_beyond_our_solar/)
+- [Colorado lays to rest first legally composted human remains](https://www.reddit.com/r/news/comments/tjvep4/colorado_lays_to_rest_first_legally_composted/)
 <!-- REDDIT:END -->
 
 
