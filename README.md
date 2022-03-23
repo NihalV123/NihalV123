@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hillsong Church founder Brian Houston resigns after misconduct investigation](https://www.reddit.com/r/news/comments/tkk7lh/hillsong_church_founder_brian_houston_resigns/)
+- [Tornado Strikes New Orleans as Storms Move into Deep South](https://www.reddit.com/r/news/comments/tkjfw3/tornado_strikes_new_orleans_as_storms_move_into/)
+- [No survivors found after China&#39;s worst air disaster in more than a decade](https://www.reddit.com/r/news/comments/tkiovy/no_survivors_found_after_chinas_worst_air/)
+- [US brothers freed after 25 years in prison for murder they did not commit](https://www.reddit.com/r/news/comments/tkhwbl/us_brothers_freed_after_25_years_in_prison_for/)
+- [6 high school-aged girls dead after crash with semitruck, Oklahoma Highway Patrol says](https://www.reddit.com/r/news/comments/tkh9my/6_high_schoolaged_girls_dead_after_crash_with/)
 <!-- REDDIT:END -->
 
 
