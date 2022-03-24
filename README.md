@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;I regret going&#39;: Protester says he spent life savings to support Freedom Convoy | CBC News](https://www.reddit.com/r/news/comments/tmp59p/i_regret_going_protester_says_he_spent_life/)
+- [U.S. labor market tightens as weekly jobless claims hit lowest level since 1969](https://www.reddit.com/r/news/comments/tmms6v/us_labor_market_tightens_as_weekly_jobless_claims/)
+- [Double lung transplant saves US man with terminal cancer](https://www.reddit.com/r/news/comments/tmk0bb/double_lung_transplant_saves_us_man_with_terminal/)
+- [Driver, 59, dies after hitting 11-foot alligator on Florida roadway, deputies say](https://www.reddit.com/r/news/comments/tmikkt/driver_59_dies_after_hitting_11foot_alligator_on/)
+- [NATO extends Secretary-General Jens Stoltenberg term for a year due to Russia&#39;s war](https://www.reddit.com/r/news/comments/tmgpee/nato_extends_secretarygeneral_jens_stoltenberg/)
 <!-- REDDIT:END -->
 
 
