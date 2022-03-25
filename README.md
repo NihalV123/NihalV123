@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. unveils charges against 4 Russian officials over 2012-18 hacking campaigns](https://www.reddit.com/r/news/comments/tn749u/us_unveils_charges_against_4_russian_officials/)
+- [Rare Minnesota Zoo Tiger named &quot;Putin&quot; dies during medical procedure.](https://www.reddit.com/r/news/comments/tn65f4/rare_minnesota_zoo_tiger_named_putin_dies_during/)
+- [Ginni Thomas, Justice Clarence Thomas&#39; wife, exchanged texts with Mark Meadows about efforts to overturn the 2020 election](https://www.reddit.com/r/news/comments/tn64zf/ginni_thomas_justice_clarence_thomas_wife/)
+- [Broncos&#39; Mile High Stadium catches fire; heavy smoke and flames seen inside complex, among suite seats](https://www.reddit.com/r/news/comments/tn4uel/broncos_mile_high_stadium_catches_fire_heavy/)
+- [Lithuania allows members of militia and soldiers to purchase and keep automatic guns at home](https://www.reddit.com/r/news/comments/tmxakp/lithuania_allows_members_of_militia_and_soldiers/)
 <!-- REDDIT:END -->
 
 
