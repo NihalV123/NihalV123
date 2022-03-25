@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Los Angeles County is investigating sheriff&#39;s department&#39;s &#39;deputy gangs&#39;](https://www.reddit.com/r/news/comments/tnkk6w/los_angeles_county_is_investigating_sheriffs/)
+- [Kremlin says &quot;nothing terrible will happen&quot; if Russia is expelled from G20](https://www.reddit.com/r/news/comments/tnj681/kremlin_says_nothing_terrible_will_happen_if/)
+- [Missouri ends effort to prosecute journalist who &#39;viewed source&#39; in a web browser](https://www.reddit.com/r/news/comments/tniblv/missouri_ends_effort_to_prosecute_journalist_who/)
+- [Questions swirl over whereabouts of Russia&#39;s defense minister](https://www.reddit.com/r/news/comments/tni0hw/questions_swirl_over_whereabouts_of_russias/)
+- [Ukraine has retaken towns 35km east of Kyiv, UK says](https://www.reddit.com/r/news/comments/tnhq0j/ukraine_has_retaken_towns_35km_east_of_kyiv_uk/)
 <!-- REDDIT:END -->
 
 
