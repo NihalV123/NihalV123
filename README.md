@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rudy Giuliani associate pleads guilty in fraud scheme](https://www.reddit.com/r/news/comments/tnpjfl/rudy_giuliani_associate_pleads_guilty_in_fraud/)
+- [Supreme Court Justice Clarence Thomas discharged from hospital](https://www.reddit.com/r/news/comments/tno40v/supreme_court_justice_clarence_thomas_discharged/)
+- [US, G7 freeze Russian gold amid Ukraine war](https://www.reddit.com/r/news/comments/tnnbyh/us_g7_freeze_russian_gold_amid_ukraine_war/)
+- [Boy, 14, dies after fall from ride at ICON Park in Orlando, Florida](https://www.reddit.com/r/news/comments/tnmrtl/boy_14_dies_after_fall_from_ride_at_icon_park_in/)
+- [Ukrainian troops killed commander of Russia&#39;s 49th Combined Arms Army - Arestovych](https://www.reddit.com/r/news/comments/tnm08k/ukrainian_troops_killed_commander_of_russias_49th/)
 <!-- REDDIT:END -->
 
 
