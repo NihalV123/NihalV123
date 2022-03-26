@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Popular podcasters spread Russian disinformation about Ukraine biolabs](https://www.reddit.com/r/news/comments/toy032/popular_podcasters_spread_russian_disinformation/)
+- [Jury awards $14 million to George Floyd protesters in Denver who alleged police department used excessive force](https://www.reddit.com/r/news/comments/towjnk/jury_awards_14_million_to_george_floyd_protesters/)
+- [Turkey defuses mine after Russia warns of strays from Ukraine ports](https://www.reddit.com/r/news/comments/tou1jc/turkey_defuses_mine_after_russia_warns_of_strays/)
+- [Ex-Russian PM: Ukraine invasion &#39;beginning of the end&#39; for Putin](https://www.reddit.com/r/news/comments/topcwn/exrussian_pm_ukraine_invasion_beginning_of_the/)
+- [Russian general Yakov Rezantsev killed in Ukraine](https://www.reddit.com/r/news/comments/took7s/russian_general_yakov_rezantsev_killed_in_ukraine/)
 <!-- REDDIT:END -->
 
 
