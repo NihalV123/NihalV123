@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. outbreaks of Highly Pathogenic Avian Influenza doubled during past month](https://www.reddit.com/r/news/comments/tph7if/us_outbreaks_of_highly_pathogenic_avian_influenza/)
+- [Washington state plans to ban most non-electric vehicles by 2030](https://www.reddit.com/r/news/comments/tpeic2/washington_state_plans_to_ban_most_nonelectric/)
+- [Ukraine is using Elon Musk’s Starlink for drone strikes](https://www.reddit.com/r/news/comments/tpea2l/ukraine_is_using_elon_musks_starlink_for_drone/)
+- [Ukrainian forces recapture Trostyanets, Poltavka and Malynivka from Russian troopers](https://www.reddit.com/r/news/comments/tpdz8u/ukrainian_forces_recapture_trostyanets_poltavka/)
+- [Tamils fear prison and torture in Sri Lanka, 13 years after civil war ended](https://www.reddit.com/r/news/comments/tpciks/tamils_fear_prison_and_torture_in_sri_lanka_13/)
 <!-- REDDIT:END -->
 
 
