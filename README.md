@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Foo Fighters&#39; Taylor Hawkins had 10 different substances in his system at the time of his death, Colombian official says](https://www.reddit.com/r/news/comments/tp760m/foo_fighters_taylor_hawkins_had_10_different/)
+- [Mayor orders New York’s homeless camps dismantled ‘within two weeks’](https://www.reddit.com/r/news/comments/tp73xu/mayor_orders_new_yorks_homeless_camps_dismantled/)
+- [U.S. Representative Fortenberry, found guilty of lying, to resign](https://www.reddit.com/r/news/comments/tp73qx/us_representative_fortenberry_found_guilty_of/)
+- [Scientists find microplastics in blood for first time](https://www.reddit.com/r/news/comments/tp6vy6/scientists_find_microplastics_in_blood_for_first/)
+- [NCAR fire prompts evacuation of much of south Boulder](https://www.reddit.com/r/news/comments/tp5wks/ncar_fire_prompts_evacuation_of_much_of_south/)
 <!-- REDDIT:END -->
 
 
