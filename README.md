@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Don’t Say Gay’ bill signed by Florida Gov. Ron DeSantis](https://www.reddit.com/r/news/comments/tqeaxb/dont_say_gay_bill_signed_by_florida_gov_ron/)
+- [Judge: &#39;More likely than not&#39; that Trump &#39;corruptly attempted&#39; to block Congress from counting votes on January 6](https://www.reddit.com/r/news/comments/tqd8jj/judge_more_likely_than_not_that_trump_corruptly/)
+- [Ukrainian forces retake town south of Sumy from Russia, U.S. official](https://www.reddit.com/r/news/comments/tqcs37/ukrainian_forces_retake_town_south_of_sumy_from/)
+- [Roman Abramovich and Ukrainian peace negotiators &#39;suffered symptoms of suspected chemical weapons poisoning&#39; after talks in Kyiv](https://www.reddit.com/r/news/comments/tqcj9m/roman_abramovich_and_ukrainian_peace_negotiators/)
+- [Capitol tours resume after 2 years Covid hiatus](https://www.reddit.com/r/news/comments/tqcfw7/capitol_tours_resume_after_2_years_covid_hiatus/)
 <!-- REDDIT:END -->
 
 
