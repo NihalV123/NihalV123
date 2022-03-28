@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Country Music Singer Jeff Carson Dies in Tennessee](https://www.reddit.com/r/news/comments/tpuzl8/country_music_singer_jeff_carson_dies_in_tennessee/)
+- [Canada qualifies for 2022 FIFA World Cup with win over Jamaica](https://www.reddit.com/r/news/comments/tpualz/canada_qualifies_for_2022_fifa_world_cup_with_win/)
+- [NASA to announce mystery Hubble discovery next week](https://www.reddit.com/r/news/comments/tps2zh/nasa_to_announce_mystery_hubble_discovery_next/)
+- [Russian state TV: &quot;No to War&quot; is a Nazi slogan](https://www.reddit.com/r/news/comments/tprpd8/russian_state_tv_no_to_war_is_a_nazi_slogan/)
+- [Iditarod punishes 3 mushers for sheltering dogs in windstorm](https://www.reddit.com/r/news/comments/tpr7zh/iditarod_punishes_3_mushers_for_sheltering_dogs/)
 <!-- REDDIT:END -->
 
 
