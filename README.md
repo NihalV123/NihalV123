@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Las Vegas food truck serves Russian cuisine, but operators stand firmly with Ukraine](https://www.reddit.com/r/news/comments/tq1wq9/las_vegas_food_truck_serves_russian_cuisine_but/)
+- [Murdered Putin rival &#39;tailed&#39; by agent linked to FSB hit squad](https://www.reddit.com/r/news/comments/tq1u2b/murdered_putin_rival_tailed_by_agent_linked_to/)
+- [Will Smith wins best actor Oscar for King Richard](https://www.reddit.com/r/news/comments/tq09gu/will_smith_wins_best_actor_oscar_for_king_richard/)
+- [Will Smith, Chris Rock confrontation shocks Oscar audience](https://www.reddit.com/r/news/comments/tpzdxc/will_smith_chris_rock_confrontation_shocks_oscar/)
+- [Second black box from China Eastern 737 found](https://www.reddit.com/r/news/comments/tpxxd0/second_black_box_from_china_eastern_737_found/)
 <!-- REDDIT:END -->
 
 
