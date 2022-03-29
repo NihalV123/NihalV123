@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Travis Scott accused of violating Astroworld suits gag order](https://www.reddit.com/r/news/comments/tqmvh7/travis_scott_accused_of_violating_astroworld/)
+- [Will Smith Apologizes To Chris Rock After Slapping Him At The Oscars: “I Was Out Of Line And I Was Wrong”](https://www.reddit.com/r/news/comments/tqm87z/will_smith_apologizes_to_chris_rock_after/)
+- [Sheriff: Boy found dead in septic tank in apparent accident](https://www.reddit.com/r/news/comments/tql7ij/sheriff_boy_found_dead_in_septic_tank_in_apparent/)
+- [70-year-old who kidnapped a bus full of children in 1976 has been approved for parole](https://www.reddit.com/r/news/comments/tqjk8q/70yearold_who_kidnapped_a_bus_full_of_children_in/)
+- [Two cousins, 12 and 14, killed while playing with gun on Instagram Live, family says](https://www.reddit.com/r/news/comments/tqigr3/two_cousins_12_and_14_killed_while_playing_with/)
 <!-- REDDIT:END -->
 
 
