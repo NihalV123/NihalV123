@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sun erupts with 17 flares from single sunspot, triggering solar storms | Space](https://www.reddit.com/r/news/comments/trxxkd/sun_erupts_with_17_flares_from_single_sunspot/)
+- [Teen who fell to his death at Florida amusement park was turned away from two other rides, his cousin says](https://www.reddit.com/r/news/comments/trxo8m/teen_who_fell_to_his_death_at_florida_amusement/)
+- [FAA chief wants zero tolerance for unruly air passengers to continue](https://www.reddit.com/r/news/comments/trx29b/faa_chief_wants_zero_tolerance_for_unruly_air/)
+- [Mississippi ‘magician’ and apprentice charged in $10,500 casino roulette table scam](https://www.reddit.com/r/news/comments/trw666/mississippi_magician_and_apprentice_charged_in/)
+- [Sandy Hook families reject Alex Jones settlement offer](https://www.reddit.com/r/news/comments/trvbu3/sandy_hook_families_reject_alex_jones_settlement/)
 <!-- REDDIT:END -->
 
 
