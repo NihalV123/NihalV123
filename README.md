@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan Governor Whitmer Kidnapping Plot Trial: FBI Raids Detroit Home Following Threats Against Judge, Defense Lawyers](https://www.reddit.com/r/news/comments/tsbsgu/michigan_governor_whitmer_kidnapping_plot_trial/)
+- [Bruce Willis is &quot;stepping away&quot; from his acting career due to aphasia diagnosis, family says](https://www.reddit.com/r/news/comments/tsah8y/bruce_willis_is_stepping_away_from_his_acting/)
+- [Russian oil tankers are vanishing off the map – transponders are turned off for hours at a time](https://www.reddit.com/r/news/comments/ts9muy/russian_oil_tankers_are_vanishing_off_the_map/)
+- [US official: &quot;We believe that Putin is being misinformed&quot; about Russian military performance](https://www.reddit.com/r/news/comments/ts92lv/us_official_we_believe_that_putin_is_being/)
+- [Police: 6 killed in Pennsylvania pileup of 80 vehicles](https://www.reddit.com/r/news/comments/ts8y26/police_6_killed_in_pennsylvania_pileup_of_80/)
 <!-- REDDIT:END -->
 
 
