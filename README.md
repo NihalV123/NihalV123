@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police Officer &#39;masturbated in an open park in broad daylight&#39;](https://www.reddit.com/r/news/comments/tt4v87/police_officer_masturbated_in_an_open_park_in/)
+- [Ukrainians in US mobilize to help 100,000 expected refugees](https://www.reddit.com/r/news/comments/tt44bx/ukrainians_in_us_mobilize_to_help_100000_expected/)
+- [&#39;Can we just go set Marsha Blackburn on fire:&#39; Nashville school board member caught on hot mic](https://www.reddit.com/r/news/comments/tt3lom/can_we_just_go_set_marsha_blackburn_on_fire/)
+- [FEC fines Clinton and DNC for misreporting Steele dossier funding](https://www.reddit.com/r/news/comments/tt2hvb/fec_fines_clinton_and_dnc_for_misreporting_steele/)
+- [Florida woman impregnated by doctor’s sperm awarded $5.25M in damages by jury](https://www.reddit.com/r/news/comments/tt20ih/florida_woman_impregnated_by_doctors_sperm/)
 <!-- REDDIT:END -->
 
 
