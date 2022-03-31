@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US to deploy Growler electronic attack aircraft to Germany](https://www.reddit.com/r/news/comments/tsmugy/us_to_deploy_growler_electronic_attack_aircraft/)
+- [&#39;Heroes&#39;: NYC pizzeria owner and his dad stabbed while rushing to aid of Asian woman being robbed](https://www.reddit.com/r/news/comments/tslyde/heroes_nyc_pizzeria_owner_and_his_dad_stabbed/)
+- [Academy initiates &#39;disciplinary proceedings&#39; against Will Smith over Oscars incident](https://www.reddit.com/r/news/comments/tskxuh/academy_initiates_disciplinary_proceedings/)
+- [Feds: 9 charged with blocking DC reproductive health clinic](https://www.reddit.com/r/news/comments/tsk1xd/feds_9_charged_with_blocking_dc_reproductive/)
+- [Alex Jones avoids jail, faces escalating $25K daily fine until he complies with Sandy Hook testimony order](https://www.reddit.com/r/news/comments/tsj9tj/alex_jones_avoids_jail_faces_escalating_25k_daily/)
 <!-- REDDIT:END -->
 
 
