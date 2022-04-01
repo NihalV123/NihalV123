@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Betty Reid Soskin, America’s oldest active ranger, retires at the age of 100](https://www.reddit.com/r/news/comments/ttorea/betty_reid_soskin_americas_oldest_active_ranger/)
+- [Pope begs forgiveness of Indigenous for Canada school abuses](https://www.reddit.com/r/news/comments/tto6hl/pope_begs_forgiveness_of_indigenous_for_canada/)
+- [Ukraine war latest: &#39;Strike&#39; on Russian fuel depot hurts peace talks - Kremlin](https://www.reddit.com/r/news/comments/tto12i/ukraine_war_latest_strike_on_russian_fuel_depot/)
+- [Russian regional governor says Ukraine strikes fuel depot in Russia&#39;s Belgorod](https://www.reddit.com/r/news/comments/ttnamw/russian_regional_governor_says_ukraine_strikes/)
+- [Skippy is recalling 161,692 pounds of peanut butter](https://www.reddit.com/r/news/comments/ttme46/skippy_is_recalling_161692_pounds_of_peanut_butter/)
 <!-- REDDIT:END -->
 
 
