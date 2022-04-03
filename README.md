@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Omicron strain, first detected in UK, appears to be more transmissible than previous strains of Covid-19: WHO](https://www.reddit.com/r/news/comments/tv182u/new_omicron_strain_first_detected_in_uk_appears/)
+- [Estelle Harris Dies: ‘Seinfeld’s Estelle Costanza, ‘Toy Story’ Franchise’s Mrs. Potato Head Was 93](https://www.reddit.com/r/news/comments/tuz3a3/estelle_harris_dies_seinfelds_estelle_costanza/)
+- [Two injured in lightning strike at Yankees spring training game in Florida](https://www.reddit.com/r/news/comments/tuyupr/two_injured_in_lightning_strike_at_yankees_spring/)
+- [Saudi Arabia welcomes UN announcement of ceasefire agreement in Yemen](https://www.reddit.com/r/news/comments/tuy6t9/saudi_arabia_welcomes_un_announcement_of/)
+- [Old Canadian resort brings new life for Ukrainian refugees](https://www.reddit.com/r/news/comments/tuxewm/old_canadian_resort_brings_new_life_for_ukrainian/)
 <!-- REDDIT:END -->
 
 
