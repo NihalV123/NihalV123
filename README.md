@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US seizes yacht owned by oligarch with close ties to Putin](https://www.reddit.com/r/news/comments/tw07kf/us_seizes_yacht_owned_by_oligarch_with_close_ties/)
+- [Elon Musk snaps up $3bn Twitter stake](https://www.reddit.com/r/news/comments/tvzxid/elon_musk_snaps_up_3bn_twitter_stake/)
+- [Twitter shares soar more than 25% after Elon Musk takes 9% stake in social media company](https://www.reddit.com/r/news/comments/tvylp8/twitter_shares_soar_more_than_25_after_elon_musk/)
+- [Rape as a weapon: huge scale of sexual violence endured in Ukraine emerges](https://www.reddit.com/r/news/comments/tvw4ly/rape_as_a_weapon_huge_scale_of_sexual_violence/)
+- [Iowa to kill 52K more hens and turkeys because of bird flu](https://www.reddit.com/r/news/comments/tvs8ud/iowa_to_kill_52k_more_hens_and_turkeys_because_of/)
 <!-- REDDIT:END -->
 
 
