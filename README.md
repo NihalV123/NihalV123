@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect in New York City attacks on Asian women indicted on felony hate charges](https://www.reddit.com/r/news/comments/twgdjl/suspect_in_new_york_city_attacks_on_asian_women/)
+- [Evacuations ordered at Florida building deemed unsafe not far from site of Surfside collapse](https://www.reddit.com/r/news/comments/twfb1p/evacuations_ordered_at_florida_building_deemed/)
+- [A construction project caused damage to 100-million-year-old dinosaur tracks in Utah](https://www.reddit.com/r/news/comments/twdabv/a_construction_project_caused_damage_to/)
+- [Man photographed &#39;chugging wine&#39; in the US Capitol on January 6 sentenced to jail time](https://www.reddit.com/r/news/comments/twc9h0/man_photographed_chugging_wine_in_the_us_capitol/)
+- [Indonesian court sentences teacher to death for raping 13 students](https://www.reddit.com/r/news/comments/twbnbu/indonesian_court_sentences_teacher_to_death_for/)
 <!-- REDDIT:END -->
 
 
