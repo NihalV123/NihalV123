@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Worlds apart: TikTok doesn&#39;t show the war in Ukraine to Russian users](https://www.reddit.com/r/news/comments/twsj61/worlds_apart_tiktok_doesnt_show_the_war_in/)
+- [California corporate diversity law ruled unconstitutional.](https://www.reddit.com/r/news/comments/tws96q/california_corporate_diversity_law_ruled/)
+- [Rare genital defects seen in sons of men taking major diabetes drug](https://www.reddit.com/r/news/comments/twph80/rare_genital_defects_seen_in_sons_of_men_taking/)
+- [DeSantis staff delayed release of Gaetz associate Halsey Beshears’ spending records](https://www.reddit.com/r/news/comments/twnffv/desantis_staff_delayed_release_of_gaetz_associate/)
+- [Treasury Cuts Off Russian Reserves in the U.S.](https://www.reddit.com/r/news/comments/twl1o6/treasury_cuts_off_russian_reserves_in_the_us/)
 <!-- REDDIT:END -->
 
 
