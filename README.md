@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Germany conducts nationwide raids on neo-Nazi groups](https://www.reddit.com/r/news/comments/txkgdp/germany_conducts_nationwide_raids_on_neonazi/)
+- [Euromillions: this winner of the 2nd biggest jackpot in history donates the money to a foundation for the planet](https://www.reddit.com/r/news/comments/txk3y3/euromillions_this_winner_of_the_2nd_biggest/)
+- [Microplastics found deep in lungs of living people for first time](https://www.reddit.com/r/news/comments/txjl16/microplastics_found_deep_in_lungs_of_living/)
+- [Nigeria atheist Mubarak Bala jailed for blaspheming Islam](https://www.reddit.com/r/news/comments/txhgdr/nigeria_atheist_mubarak_bala_jailed_for/)
+- [UAE sentences Israeli woman to death for cocaine possession - CNN](https://www.reddit.com/r/news/comments/txf92h/uae_sentences_israeli_woman_to_death_for_cocaine/)
 <!-- REDDIT:END -->
 
 
