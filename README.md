@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas School District approves 4-day school week to deal with staffing shortages and funding issues](https://www.reddit.com/r/news/comments/txrigv/texas_school_district_approves_4day_school_week/)
+- [Survivalist who faked death to avoid child sex abuse image trial arrested after years on the run](https://www.reddit.com/r/news/comments/txqpza/survivalist_who_faked_death_to_avoid_child_sex/)
+- [Estill County teacher resigns after writing &#39;You are free to be yourself&#39; message on classroom board](https://www.reddit.com/r/news/comments/txpzr6/estill_county_teacher_resigns_after_writing_you/)
+- [No charges for cop who fatally shot Amir Locke](https://www.reddit.com/r/news/comments/txpy8t/no_charges_for_cop_who_fatally_shot_amir_locke/)
+- [Gang steal 1,600 kilos of cheese from Dutch dairy farm](https://www.reddit.com/r/news/comments/txp59p/gang_steal_1600_kilos_of_cheese_from_dutch_dairy/)
 <!-- REDDIT:END -->
 
 
