@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: Sacramento shooting was gunfight among gang rivals](https://www.reddit.com/r/news/comments/txzg0t/police_sacramento_shooting_was_gunfight_among/)
+- [Wisconsin mom with Russian heritage strangled son while ‘amped up’ over Ukraine war, officials say](https://www.reddit.com/r/news/comments/txzbp2/wisconsin_mom_with_russian_heritage_strangled_son/)
+- [Fox caught on U.S. Capitol grounds euthanized; tests positive for rabies](https://www.reddit.com/r/news/comments/txyl8a/fox_caught_on_us_capitol_grounds_euthanized_tests/)
+- [BBC News - Tanis: &#39;First dinosaur fossil linked to asteroid strike&#39;](https://www.reddit.com/r/news/comments/txx5sp/bbc_news_tanis_first_dinosaur_fossil_linked_to/)
+- [N.Y. Supreme Court judge whose home was raided by investigators found dead](https://www.reddit.com/r/news/comments/txx4ue/ny_supreme_court_judge_whose_home_was_raided_by/)
 <!-- REDDIT:END -->
 
 
