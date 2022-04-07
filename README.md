@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [L.A. bans official travel to Florida and Texas over parents&#39; rights bill, LGBTQ+ policies](https://www.reddit.com/r/news/comments/tyi4a4/la_bans_official_travel_to_florida_and_texas_over/)
+- [New York Attorney General asks judge to hold Donald Trump in contempt for refusing to turn over documents](https://www.reddit.com/r/news/comments/tyi0a2/new_york_attorney_general_asks_judge_to_hold/)
+- [UN votes Russia out of human rights council citing Bucha killings - National | Globalnews.ca](https://www.reddit.com/r/news/comments/tyhtnv/un_votes_russia_out_of_human_rights_council/)
+- [Britney Spears asks judge to deny mother&#39;s request she pay more than $600,000 in legal fees](https://www.reddit.com/r/news/comments/tyhn82/britney_spears_asks_judge_to_deny_mothers_request/)
+- [Alex Jones after CT deposition in Sandy Hook defamation case: ‘I could have done a better job’](https://www.reddit.com/r/news/comments/tygg2u/alex_jones_after_ct_deposition_in_sandy_hook/)
 <!-- REDDIT:END -->
 
 
