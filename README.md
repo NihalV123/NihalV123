@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [GEICO cancels Linda Sarsour’s speaking arrangement](https://www.reddit.com/r/news/comments/tyocza/geico_cancels_linda_sarsours_speaking_arrangement/)
+- [California cities spent huge share of federal Covid relief funds on police | US policing](https://www.reddit.com/r/news/comments/tynlcd/california_cities_spent_huge_share_of_federal/)
+- [Texas school plans to oust a teacher who fought for LGBTQ rainbow stickers](https://www.reddit.com/r/news/comments/tymojw/texas_school_plans_to_oust_a_teacher_who_fought/)
+- [Southwest Missouri high school teacher accused of using critical race theory loses job](https://www.reddit.com/r/news/comments/tyjjne/southwest_missouri_high_school_teacher_accused_of/)
+- [Jackson confirmed as first Black female high court justice](https://www.reddit.com/r/news/comments/tyjca2/jackson_confirmed_as_first_black_female_high/)
 <!-- REDDIT:END -->
 
 
