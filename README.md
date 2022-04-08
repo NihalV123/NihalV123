@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Hero&#39; shot by police after appearing to disarm gunman sues California officers, city](https://www.reddit.com/r/news/comments/tyue1w/hero_shot_by_police_after_appearing_to_disarm/)
+- [Man accused of shooting Lady Gaga’s dogwalker released from jail by mistake, sources say](https://www.reddit.com/r/news/comments/tyton5/man_accused_of_shooting_lady_gagas_dogwalker/)
+- [US arrests yakuza leader over alleged drugs for missiles deal](https://www.reddit.com/r/news/comments/tysd8s/us_arrests_yakuza_leader_over_alleged_drugs_for/)
+- [MyPillow CEO Mike Lindell says he gave $800K to Mesa County Clerk Tina Peters&#39; defense fund, a violation of Colorado law](https://www.reddit.com/r/news/comments/tys3vy/mypillow_ceo_mike_lindell_says_he_gave_800k_to/)
+- [‘Russia Is Completely Depoliticized’ A sociologist from Moscow explains how the nation learned to deny reality.](https://www.reddit.com/r/news/comments/tyr8qa/russia_is_completely_depoliticized_a_sociologist/)
 <!-- REDDIT:END -->
 
 
