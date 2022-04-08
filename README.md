@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kentucky governor vetoes bill incorporating &#39;anti-critical race theory,&#39; calling it a step backward](https://www.reddit.com/r/news/comments/tz11j8/kentucky_governor_vetoes_bill_incorporating/)
+- [UN General Assembly suspends Russia from Human Rights Council](https://www.reddit.com/r/news/comments/tz110f/un_general_assembly_suspends_russia_from_human/)
+- [Ukraine says over 30 evacuees killed, 100 wounded in Russian rocket strike](https://www.reddit.com/r/news/comments/tz0fuf/ukraine_says_over_30_evacuees_killed_100_wounded/)
+- [California man pleads guilty to interfering with flight crew](https://www.reddit.com/r/news/comments/tyzx0d/california_man_pleads_guilty_to_interfering_with/)
+- [Nancy Pelosi postpones Asia trip after testing positive for Covid-19](https://www.reddit.com/r/news/comments/tyzpgz/nancy_pelosi_postpones_asia_trip_after_testing/)
 <!-- REDDIT:END -->
 
 
