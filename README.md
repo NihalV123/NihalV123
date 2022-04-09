@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia gun range owner and his family are killed in robbery, police say](https://www.reddit.com/r/news/comments/tzyhtn/georgia_gun_range_owner_and_his_family_are_killed/)
+- [Amazon calls for election re-run after workers voted for first U.S. union](https://www.reddit.com/r/news/comments/tzy3y9/amazon_calls_for_election_rerun_after_workers/)
+- [Disney to help employees, their children obtain &#39;gender-affirming&#39; procedures, per report](https://www.reddit.com/r/news/comments/tzx0jk/disney_to_help_employees_their_children_obtain/)
+- [Chairman of Russian metals company calls for Bucha probe](https://www.reddit.com/r/news/comments/tzw9sb/chairman_of_russian_metals_company_calls_for/)
+- [Dwayne Haskins struck by car and killed - ProFootballTalk](https://www.reddit.com/r/news/comments/tzv8ky/dwayne_haskins_struck_by_car_and_killed/)
 <!-- REDDIT:END -->
 
 
