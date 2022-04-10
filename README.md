@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [S&amp;P downgrade indicates Russia headed for historic default](https://www.reddit.com/r/news/comments/u07f91/sp_downgrade_indicates_russia_headed_for_historic/)
+- [Ukraine war pushes world food prices to record high](https://www.reddit.com/r/news/comments/u07ecy/ukraine_war_pushes_world_food_prices_to_record/)
+- [Florida groups canvass spring breakers to warn of fentanyl](https://www.reddit.com/r/news/comments/u06k2q/florida_groups_canvass_spring_breakers_to_warn_of/)
+- [Former USC water polo coach convicted in college admissions scandal trial](https://www.reddit.com/r/news/comments/u05txl/former_usc_water_polo_coach_convicted_in_college/)
+- [&#39;Stop the Steal&#39; leader cooperating with DOJ&#39;s investigation of Capitol riot](https://www.reddit.com/r/news/comments/u026zz/stop_the_steal_leader_cooperating_with_dojs/)
 <!-- REDDIT:END -->
 
 
