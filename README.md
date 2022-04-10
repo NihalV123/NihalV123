@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man with guns, drugs, baby alligator in truck arrested by deputies](https://www.reddit.com/r/news/comments/u06fvw/florida_man_with_guns_drugs_baby_alligator_in/)
+- [Former USC water polo coach convicted in college admissions scandal trial](https://www.reddit.com/r/news/comments/u05txl/former_usc_water_polo_coach_convicted_in_college/)
+- [&#39;Stop the Steal&#39; leader cooperating with DOJ&#39;s investigation of Capitol riot](https://www.reddit.com/r/news/comments/u026zz/stop_the_steal_leader_cooperating_with_dojs/)
+- [Imran Khan ousted as Pakistan&#39;s PM after key vote](https://www.reddit.com/r/news/comments/u01xhw/imran_khan_ousted_as_pakistans_pm_after_key_vote/)
+- [Georgia gun range owner and his family are killed in robbery, police say](https://www.reddit.com/r/news/comments/tzyhtn/georgia_gun_range_owner_and_his_family_are_killed/)
 <!-- REDDIT:END -->
 
 
