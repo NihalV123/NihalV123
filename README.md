@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Manhole fires in New York&#39;s Times Square sent crowds fleeing. No injuries were reported](https://www.reddit.com/r/news/comments/u14y04/manhole_fires_in_new_yorks_times_square_sent/)
+- [Finland and Sweden set to join NATO as soon as summer, report says](https://www.reddit.com/r/news/comments/u13sie/finland_and_sweden_set_to_join_nato_as_soon_as/)
+- [Austrian chancellor to meet Putin in Moscow](https://www.reddit.com/r/news/comments/u12bk5/austrian_chancellor_to_meet_putin_in_moscow/)
+- [Shanghai to lift lockdown in some areas despite rise in COVID-19 infections](https://www.reddit.com/r/news/comments/u12aqw/shanghai_to_lift_lockdown_in_some_areas_despite/)
+- [China’s prices surge past forecasts amid lockdowns, Ukraine war](https://www.reddit.com/r/news/comments/u0zugm/chinas_prices_surge_past_forecasts_amid_lockdowns/)
 <!-- REDDIT:END -->
 
 
