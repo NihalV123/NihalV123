@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UN: Nearly two-thirds of Ukraine&#39;s children have fled homes](https://www.reddit.com/r/news/comments/u1pgkz/un_nearly_twothirds_of_ukraines_children_have/)
+- [Ukraine&#39;s prosecutor general says office is investigating 5,800 cases of Russian war crimes](https://www.reddit.com/r/news/comments/u1pc19/ukraines_prosecutor_general_says_office_is/)
+- [Area near Little Rock, Arkansas hit by &#39;large, extremely dangerous&#39; tornado](https://www.reddit.com/r/news/comments/u1obdc/area_near_little_rock_arkansas_hit_by_large/)
+- [Mexican truck drivers block major US-Mexico point of entry in protest of Texas border inspections](https://www.reddit.com/r/news/comments/u1ncj7/mexican_truck_drivers_block_major_usmexico_point/)
+- [Invasive jumping worm spreads to 15 states in Midwest](https://www.reddit.com/r/news/comments/u1n8fk/invasive_jumping_worm_spreads_to_15_states_in/)
 <!-- REDDIT:END -->
 
 
