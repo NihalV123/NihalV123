@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia ‘using weapons smuggled by Iran from Iraq against Ukraine’](https://www.reddit.com/r/news/comments/u22uyu/russia_using_weapons_smuggled_by_iran_from_iraq/)
+- [Teen overdose deaths are rapidly rising -- but not because more of them are using drugs](https://www.reddit.com/r/news/comments/u22hfw/teen_overdose_deaths_are_rapidly_rising_but_not/)
+- [Oklahoma governor signs bill to make abortion illegal](https://www.reddit.com/r/news/comments/u20t79/oklahoma_governor_signs_bill_to_make_abortion/)
+- [Plea deal rejected by 3 ex-officers in George Floyd’s death](https://www.reddit.com/r/news/comments/u20644/plea_deal_rejected_by_3_exofficers_in_george/)
+- [U.S. consumer bureau sues TransUnion, executive for continued deceptive marketing](https://www.reddit.com/r/news/comments/u1zyg6/us_consumer_bureau_sues_transunion_executive_for/)
 <!-- REDDIT:END -->
 
 
