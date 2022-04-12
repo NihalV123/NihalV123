@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian war worsens fertilizer crunch, risking food supplies](https://www.reddit.com/r/news/comments/u1wlxd/russian_war_worsens_fertilizer_crunch_risking/)
+- [US imposes &#39;Russia-like&#39; sanctions on senior members of Kinahan international criminal gang](https://www.reddit.com/r/news/comments/u1ulia/us_imposes_russialike_sanctions_on_senior_members/)
+- [Pro-Russian vehicle convoys spark outrage in Germany](https://www.reddit.com/r/news/comments/u1uh0l/prorussian_vehicle_convoys_spark_outrage_in/)
+- [UN: Nearly two-thirds of Ukraine&#39;s children have fled homes](https://www.reddit.com/r/news/comments/u1pgkz/un_nearly_twothirds_of_ukraines_children_have/)
+- [Ukraine&#39;s prosecutor general says office is investigating 5,800 cases of Russian war crimes](https://www.reddit.com/r/news/comments/u1pc19/ukraines_prosecutor_general_says_office_is/)
 <!-- REDDIT:END -->
 
 
