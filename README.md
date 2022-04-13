@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Finland to make decision on NATO entry in coming weeks not months](https://www.reddit.com/r/news/comments/u2orvn/finland_to_make_decision_on_nato_entry_in_coming/)
+- [UK says sanctioning 178 &quot;Russian separatists&quot; in breakaway regions](https://www.reddit.com/r/news/comments/u2o3gt/uk_says_sanctioning_178_russian_separatists_in/)
+- [Oklahoma governor signs near-total abortion ban, threatens prison for providers](https://www.reddit.com/r/news/comments/u2nmtz/oklahoma_governor_signs_neartotal_abortion_ban/)
+- [Russian gas supply halt could cost Germany 220 billion euros, say leading German economic institutes](https://www.reddit.com/r/news/comments/u2mzl7/russian_gas_supply_halt_could_cost_germany_220/)
+- [Boris Johnson will be fined for his lockdown parties at no 10.](https://www.reddit.com/r/news/comments/u2m4oi/boris_johnson_will_be_fined_for_his_lockdown/)
 <!-- REDDIT:END -->
 
 
