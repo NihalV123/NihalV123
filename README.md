@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 former police officers charged in George Floyd&#39;s death reject plea deal](https://www.reddit.com/r/news/comments/u2gqgw/3_former_police_officers_charged_in_george_floyds/)
+- [Sherri Papini, woman who faked 2016 kidnapping, signs plea deal](https://www.reddit.com/r/news/comments/u2fzja/sherri_papini_woman_who_faked_2016_kidnapping/)
+- [Two Illinois men get 14, 16 years in Minnesota mosque bombing](https://www.reddit.com/r/news/comments/u2fu2o/two_illinois_men_get_14_16_years_in_minnesota/)
+- [Harmful chemicals found in toys and canned food at US discount stores](https://www.reddit.com/r/news/comments/u2f4ix/harmful_chemicals_found_in_toys_and_canned_food/)
+- [Self-driving car stopped by San Francisco police](https://www.reddit.com/r/news/comments/u2ecl2/selfdriving_car_stopped_by_san_francisco_police/)
 <!-- REDDIT:END -->
 
 
