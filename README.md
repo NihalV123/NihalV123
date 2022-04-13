@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Person of Interest Named in NYC Subway Shooting](https://www.reddit.com/r/news/comments/u2chdr/person_of_interest_named_in_nyc_subway_shooting/)
+- [Feds sue TransUnion, calling it &quot;unwilling or incapable&quot; of operating lawfully](https://www.reddit.com/r/news/comments/u2bzuh/feds_sue_transunion_calling_it_unwilling_or/)
+- [Disney heir comes out publicly as transgender, condemns anti-LGBTQ bills](https://www.reddit.com/r/news/comments/u2bl27/disney_heir_comes_out_publicly_as_transgender/)
+- [NYPD locates van sought in Brooklyn subway shooting](https://www.reddit.com/r/news/comments/u2a0n9/nypd_locates_van_sought_in_brooklyn_subway/)
+- [South Dakota attorney general Jason Ravnsborg impeached over fatal crash](https://www.reddit.com/r/news/comments/u29vmh/south_dakota_attorney_general_jason_ravnsborg/)
 <!-- REDDIT:END -->
 
 
