@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk accused of breaking law while buying Twitter stock](https://www.reddit.com/r/news/comments/u3luzt/elon_musk_accused_of_breaking_law_while_buying/)
+- [Trump ally Devin Nunes loses CNN defamation appeal](https://www.reddit.com/r/news/comments/u3l1fa/trump_ally_devin_nunes_loses_cnn_defamation_appeal/)
+- [Former Franciscan friar convicted of 1990s child sex abuse](https://www.reddit.com/r/news/comments/u3l0x1/former_franciscan_friar_convicted_of_1990s_child/)
+- [Russia accuses Ukraine of helicopter strike on border town](https://www.reddit.com/r/news/comments/u3ku43/russia_accuses_ukraine_of_helicopter_strike_on/)
+- [DeSantis signs Florida&#39;s 15-week abortion ban into law](https://www.reddit.com/r/news/comments/u3kosv/desantis_signs_floridas_15week_abortion_ban_into/)
 <!-- REDDIT:END -->
 
 
