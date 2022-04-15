@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Soddy-Daisy woman at center of deputy baptism lawsuit found dead in home Wednesday](https://www.reddit.com/r/news/comments/u3vg46/soddydaisy_woman_at_center_of_deputy_baptism/)
+- [Suspect in custody in alleged arson attack on LGBTQ bar in New York City](https://www.reddit.com/r/news/comments/u3ubli/suspect_in_custody_in_alleged_arson_attack_on/)
+- [Legal Weed Sales in New Jersey to Begin April 21](https://www.reddit.com/r/news/comments/u3ssbj/legal_weed_sales_in_new_jersey_to_begin_april_21/)
+- [Ed Buck, wealthy political activist and donor, sentenced to 30 years in prison](https://www.reddit.com/r/news/comments/u3qlmz/ed_buck_wealthy_political_activist_and_donor/)
+- [Jan. 6 rioter who said he wanted Trump&#39;s &#39;approval&#39; found guilty by jury](https://www.reddit.com/r/news/comments/u3qbkt/jan_6_rioter_who_said_he_wanted_trumps_approval/)
 <!-- REDDIT:END -->
 
 
