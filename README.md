@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Expanding drought leaves western US scrambling for water](https://www.reddit.com/r/news/comments/u3z8df/expanding_drought_leaves_western_us_scrambling/)
+- [Musk says U.S. SEC &#39;bastards&#39; forced settlement over Tesla tweets](https://www.reddit.com/r/news/comments/u3yv5d/musk_says_us_sec_bastards_forced_settlement_over/)
+- [Prosecutors Ask to Use Testimony of Domestic Violence Murder Victim](https://www.reddit.com/r/news/comments/u3wzqu/prosecutors_ask_to_use_testimony_of_domestic/)
+- [Twitter CEO tells employees company not &#39;held hostage&#39; by Musk offer -source](https://www.reddit.com/r/news/comments/u3wb54/twitter_ceo_tells_employees_company_not_held/)
+- [Teen offers cash to friends to ‘shoot them in the foot’](https://www.reddit.com/r/news/comments/u3vt52/teen_offers_cash_to_friends_to_shoot_them_in_the/)
 <!-- REDDIT:END -->
 
 
