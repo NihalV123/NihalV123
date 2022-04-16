@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who paid $2.9m for NFT of Jack Dorsey’s first tweet set to lose almost $2.9m](https://www.reddit.com/r/news/comments/u4qmqf/man_who_paid_29m_for_nft_of_jack_dorseys_first/)
+- [Woman Pepper-Sprayed Man Taking Photos of His Own Children in Arlington: Police](https://www.reddit.com/r/news/comments/u4oy1o/woman_peppersprayed_man_taking_photos_of_his_own/)
+- [Lightning strikes Mississippi church during Wednesday storms, causing fire](https://www.reddit.com/r/news/comments/u4mxmk/lightning_strikes_mississippi_church_during/)
+- [Five people to share $50,000 reward for tips on New York subway shooting suspect](https://www.reddit.com/r/news/comments/u4mebg/five_people_to_share_50000_reward_for_tips_on_new/)
+- [Police: More than 900 civilian bodies found in Kyiv region](https://www.reddit.com/r/news/comments/u4llew/police_more_than_900_civilian_bodies_found_in/)
 <!-- REDDIT:END -->
 
 
