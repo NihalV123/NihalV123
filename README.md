@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protests continue in Michigan after deadly police shooting](https://www.reddit.com/r/news/comments/u522ha/protests_continue_in_michigan_after_deadly_police/)
+- [Suspect in road rage shooting calls police on victim, gets arrested for attempted murder](https://www.reddit.com/r/news/comments/u511fu/suspect_in_road_rage_shooting_calls_police_on/)
+- [U.S. arrests 210,000 migrants at Mexico border in March, rivaling record highs](https://www.reddit.com/r/news/comments/u510cx/us_arrests_210000_migrants_at_mexico_border_in/)
+- [Man arrested in killings of couple, grandson at Georgia gun range](https://www.reddit.com/r/news/comments/u50qne/man_arrested_in_killings_of_couple_grandson_at/)
+- [French police fire tear gas as anti far-right protesters march in Paris](https://www.reddit.com/r/news/comments/u4zc3o/french_police_fire_tear_gas_as_anti_farright/)
 <!-- REDDIT:END -->
 
 
