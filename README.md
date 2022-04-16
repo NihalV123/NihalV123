@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: More than 900 civilian bodies found in Kyiv region](https://www.reddit.com/r/news/comments/u4llew/police_more_than_900_civilian_bodies_found_in/)
+- [20-year-old Swiss man admitted to ICU after suffering rare lung injury from masturbating](https://www.reddit.com/r/news/comments/u4l6bo/20yearold_swiss_man_admitted_to_icu_after/)
+- [New Jersey driver accused of running over woman twice after &#39;fender bender&#39;](https://www.reddit.com/r/news/comments/u4k2cu/new_jersey_driver_accused_of_running_over_woman/)
+- [Judge: Colorado shooting suspect incompetent to stand trial](https://www.reddit.com/r/news/comments/u4j4wd/judge_colorado_shooting_suspect_incompetent_to/)
+- [Biden administration announces it will resume onshore oil and gas lease sales with higher royalty rate](https://www.reddit.com/r/news/comments/u4itaj/biden_administration_announces_it_will_resume/)
 <!-- REDDIT:END -->
 
 
