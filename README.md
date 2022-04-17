@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tennessee state senator Frank Niceley cites Adolf Hitler as example of how homeless people can turn lives around](https://www.reddit.com/r/news/comments/u5bfcp/tennessee_state_senator_frank_niceley_cites_adolf/)
+- [FDA investigating Lucky Charms after reports of illness](https://www.reddit.com/r/news/comments/u5b3u2/fda_investigating_lucky_charms_after_reports_of/)
+- [Ukraine&#39;s richest man vows to rebuild besieged Mariupol](https://www.reddit.com/r/news/comments/u5b268/ukraines_richest_man_vows_to_rebuild_besieged/)
+- [Elon Musk ‘funding secured’ tweets ruled false new court filing suggests](https://www.reddit.com/r/news/comments/u58ur0/elon_musk_funding_secured_tweets_ruled_false_new/)
+- [Florida education officials reject 54 math textbooks for ‘attempts to indoctrinate students’](https://www.reddit.com/r/news/comments/u58s2l/florida_education_officials_reject_54_math/)
 <!-- REDDIT:END -->
 
 
