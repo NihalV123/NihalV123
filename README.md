@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine rejects deadline to surrender in Mariupol as Russia threatens to eliminate resistance](https://www.reddit.com/r/news/comments/u5lfvd/ukraine_rejects_deadline_to_surrender_in_mariupol/)
+- [Ukraine&#39;s richest billionaire, Rinat Akhmetov, is committed to assist in the reconstruction of Mariupol](https://www.reddit.com/r/news/comments/u5kpwp/ukraines_richest_billionaire_rinat_akhmetov_is/)
+- [Pittsburgh Mass Shooting: 11 shot, 2 juveniles dead in Easter shooting at Airbnb in East Allegheny](https://www.reddit.com/r/news/comments/u5jmf4/pittsburgh_mass_shooting_11_shot_2_juveniles_dead/)
+- [Third night of unrest in Sweden over far-right anti-Islam rally | Sweden](https://www.reddit.com/r/news/comments/u5j0s1/third_night_of_unrest_in_sweden_over_farright/)
+- [Detroit illegally overtaxed homeowners $600M resulting in 100,000 people losing their homes to foreclosure.](https://www.reddit.com/r/news/comments/u5hvzv/detroit_illegally_overtaxed_homeowners_600m/)
 <!-- REDDIT:END -->
 
 
