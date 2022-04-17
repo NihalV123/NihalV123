@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Knife-wielding 14-year-old Massachusetts girl scares intruder out of her home and helps apprehend him, police say](https://www.reddit.com/r/news/comments/u5en9y/knifewielding_14yearold_massachusetts_girl_scares/)
+- [He went missing 3 years ago. Deputies found him shivering outside a gas station 700 miles away](https://www.reddit.com/r/news/comments/u5en2s/he_went_missing_3_years_ago_deputies_found_him/)
+- [‘Jesus loves me and my boyfriend’: how one gay-friendly town repelled homophobic protesters](https://www.reddit.com/r/news/comments/u5e35c/jesus_loves_me_and_my_boyfriend_how_one/)
+- [Art Rupe, label owner who helped launch Little Richard and Sam Cooke, dies at 104 | Music](https://www.reddit.com/r/news/comments/u5dl9m/art_rupe_label_owner_who_helped_launch_little/)
+- [Hate crimes in New York City are up 76% this year compared to the same period in 2021](https://www.reddit.com/r/news/comments/u5c6vj/hate_crimes_in_new_york_city_are_up_76_this_year/)
 <!-- REDDIT:END -->
 
 
