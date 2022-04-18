@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Far-right InfoWars website files for bankruptcy protection](https://www.reddit.com/r/news/comments/u6bm09/farright_infowars_website_files_for_bankruptcy/)
+- [Alex Jones’ Infowars files for bankruptcy following Sandy Hook lawsuits](https://www.reddit.com/r/news/comments/u6bc1j/alex_jones_infowars_files_for_bankruptcy/)
+- [Cape Coral woman pleads guilty to PPP loan fraud, accused of using money for a pool](https://www.reddit.com/r/news/comments/u6bbwd/cape_coral_woman_pleads_guilty_to_ppp_loan_fraud/)
+- [Tanzania’s first female president wants to bring nation in from the cold](https://www.reddit.com/r/news/comments/u6ag9y/tanzanias_first_female_president_wants_to_bring/)
+- [Alex Jones&#39; Infowars files for bankruptcy in wake of defamation suits over his assertions that the Sandy Hook massacre was a hoax](https://www.reddit.com/r/news/comments/u697vs/alex_jones_infowars_files_for_bankruptcy_in_wake/)
 <!-- REDDIT:END -->
 
 
