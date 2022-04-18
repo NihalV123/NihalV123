@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida judge overturns CDC mask mandate for public transit, planes](https://www.reddit.com/r/news/comments/u6iytz/florida_judge_overturns_cdc_mask_mandate_for/)
+- [Celebrity chef&#39;s Ukraine charity kitchen destroyed by Russian missile](https://www.reddit.com/r/news/comments/u6isn6/celebrity_chefs_ukraine_charity_kitchen_destroyed/)
+- [Verizon raises minimum wage to $20 an hour for U.S employees](https://www.reddit.com/r/news/comments/u6ibf3/verizon_raises_minimum_wage_to_20_an_hour_for_us/)
+- [Russian Orthodox leader backs war in Ukraine, divides faith](https://www.reddit.com/r/news/comments/u6hkh5/russian_orthodox_leader_backs_war_in_ukraine/)
+- [3 sheriff&#39;s deputies shot, suspect killed in central Kansas](https://www.reddit.com/r/news/comments/u6fhj8/3_sheriffs_deputies_shot_suspect_killed_in/)
 <!-- REDDIT:END -->
 
 
