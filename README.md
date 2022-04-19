@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nestlé remains silent on child deaths from contaminated pizzas in France](https://www.reddit.com/r/news/comments/u71dar/nestlé_remains_silent_on_child_deaths_from/)
+- [France supports banning imports of Russian oil, says French Economy Minister](https://www.reddit.com/r/news/comments/u710xl/france_supports_banning_imports_of_russian_oil/)
+- [China and Solomon Islands sign security pact, says Chinese foreign ministry](https://www.reddit.com/r/news/comments/u70psf/china_and_solomon_islands_sign_security_pact_says/)
+- [World Council of Churches faces calls to expel Russian Orthodox Church](https://www.reddit.com/r/news/comments/u6wht8/world_council_of_churches_faces_calls_to_expel/)
+- [Cancer Cluster Probe at NJ HS Underway After 100+ Diagnosed With Brain Tumors](https://www.reddit.com/r/news/comments/u6w8b8/cancer_cluster_probe_at_nj_hs_underway_after_100/)
 <!-- REDDIT:END -->
 
 
