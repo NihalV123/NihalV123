@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Netflix estimates 100 million households are sharing passwords and suggests a global crackdown is coming](https://www.reddit.com/r/news/comments/u7j1j0/netflix_estimates_100_million_households_are/)
+- [After a debate citing Hitler, bill penalizing homelessness passes Tennessee legislature](https://www.reddit.com/r/news/comments/u7iuh4/after_a_debate_citing_hitler_bill_penalizing/)
+- [Joaquin Ciria exonerated after 32 years in prison for wrongful murder conviction](https://www.reddit.com/r/news/comments/u7hh8g/joaquin_ciria_exonerated_after_32_years_in_prison/)
+- [Ford shuts down orders for 2022 Mustang Mach-E due to overwhelming demand](https://www.reddit.com/r/news/comments/u7grox/ford_shuts_down_orders_for_2022_mustang_mache_due/)
+- [‘The Flash’ star Ezra Miller arrested again on Hawaii Island](https://www.reddit.com/r/news/comments/u7f3xj/the_flash_star_ezra_miller_arrested_again_on/)
 <!-- REDDIT:END -->
 
 
