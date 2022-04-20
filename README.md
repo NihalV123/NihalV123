@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. FAA to make zero tolerance unruly passenger policy permanent](https://www.reddit.com/r/news/comments/u826a6/us_faa_to_make_zero_tolerance_unruly_passenger/)
+- [Expert: Cop pressed gun to Patrick Lyoya&#39;s head then fired](https://www.reddit.com/r/news/comments/u81npz/expert_cop_pressed_gun_to_patrick_lyoyas_head/)
+- [New Mexico fines &#39;Rust&#39; for willful gun safety failures](https://www.reddit.com/r/news/comments/u80ar1/new_mexico_fines_rust_for_willful_gun_safety/)
+- [Wimbledon bans Russian, Belarussian players over war in Ukraine](https://www.reddit.com/r/news/comments/u7zqmm/wimbledon_bans_russian_belarussian_players_over/)
+- [Russia tests nuclear-capable ballistic missile that Putin says has no peer](https://www.reddit.com/r/news/comments/u7znso/russia_tests_nuclearcapable_ballistic_missile/)
 <!-- REDDIT:END -->
 
 
