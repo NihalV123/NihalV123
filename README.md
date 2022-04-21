@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Zambian student arrested in Russia on ‘Nazism’ charges for twerking at war memorial](https://www.reddit.com/r/news/comments/u8ls29/zambian_student_arrested_in_russia_on_nazism/)
+- [Florida bride and caterer charged with lacing wedding food with cannabis](https://www.reddit.com/r/news/comments/u8kxn3/florida_bride_and_caterer_charged_with_lacing/)
+- [New Zealand shoppers order groceries from Australia as inflation soars](https://www.reddit.com/r/news/comments/u8jn2c/new_zealand_shoppers_order_groceries_from/)
+- [More Than 50 Billion Tons of Top Soil Have Eroded in the Midwest](https://www.reddit.com/r/news/comments/u8h2zn/more_than_50_billion_tons_of_top_soil_have_eroded/)
+- [Americans often &quot;forced&quot; to pay medical bills they don&#39;t owe, feds say](https://www.reddit.com/r/news/comments/u8g3ny/americans_often_forced_to_pay_medical_bills_they/)
 <!-- REDDIT:END -->
 
 
