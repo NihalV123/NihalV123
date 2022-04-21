@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trump campaign ordered to pay $1.3m settlement to Omarosa in NDA case](https://www.reddit.com/r/news/comments/u8asdu/trump_campaign_ordered_to_pay_13m_settlement_to/)
+- [Netflix closes down 35% wiping more than $50 billion off market cap](https://www.reddit.com/r/news/comments/u8a3sj/netflix_closes_down_35_wiping_more_than_50/)
+- [Justice Dept. to appeal order voiding travel mask mandate](https://www.reddit.com/r/news/comments/u88gk9/justice_dept_to_appeal_order_voiding_travel_mask/)
+- [Judge orders US Bureau of Prisons to find surgeon for transgender inmate&#39;s gender affirming surgery](https://www.reddit.com/r/news/comments/u85z65/judge_orders_us_bureau_of_prisons_to_find_surgeon/)
+- [San Francisco Police Officers Charged with Destroying Evidence](https://www.reddit.com/r/news/comments/u8592b/san_francisco_police_officers_charged_with/)
 <!-- REDDIT:END -->
 
 
