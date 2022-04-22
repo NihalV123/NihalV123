@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida family Makarenkos allegedly beat, blinded gay man after he &#39;made&#39; their son gay](https://www.reddit.com/r/news/comments/u9kefy/florida_family_makarenkos_allegedly_beat_blinded/)
+- [Some travelers, faced with fewer colds, will still mask in flight](https://www.reddit.com/r/news/comments/u9k62h/some_travelers_faced_with_fewer_colds_will_still/)
+- [Gravity Payments CEO Dan Price charged with sexual assault amid ongoing felony rape investigation](https://www.reddit.com/r/news/comments/u9ivur/gravity_payments_ceo_dan_price_charged_with/)
+- [Two plead guilty to pocketing funds raised for ‘We Build the Wall’ project](https://www.reddit.com/r/news/comments/u9hvsa/two_plead_guilty_to_pocketing_funds_raised_for_we/)
+- [Guy Lafleur, five-time Stanley cup winner, dies at 70](https://www.reddit.com/r/news/comments/u9hgns/guy_lafleur_fivetime_stanley_cup_winner_dies_at_70/)
 <!-- REDDIT:END -->
 
 
