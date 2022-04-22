@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian troops use rape as &#39;an instrument of war&#39; in Ukraine, rights groups allege](https://www.reddit.com/r/news/comments/u9cn5u/russian_troops_use_rape_as_an_instrument_of_war/)
+- [India &#39;want the Russians out&#39; of Ukraine, UK PM says](https://www.reddit.com/r/news/comments/u9cm21/india_want_the_russians_out_of_ukraine_uk_pm_says/)
+- [Ontario mom furious Grade 8 assignment requires students to make posters for anti-abortion group&#39;s contest](https://www.reddit.com/r/news/comments/u94kba/ontario_mom_furious_grade_8_assignment_requires/)
+- [Russia imposes travel ban on Kamala Harris, Mark Zuckerberg; Canadians hit too | World News](https://www.reddit.com/r/news/comments/u94iru/russia_imposes_travel_ban_on_kamala_harris_mark/)
+- [Sarasota man pleads guilty to threatening to kill U.S. Rep. Ilhan Omar](https://www.reddit.com/r/news/comments/u936w3/sarasota_man_pleads_guilty_to_threatening_to_kill/)
 <!-- REDDIT:END -->
 
 
