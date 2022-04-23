@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scientists restart Large Hadron Collider in quest for dark matter | CNN](https://www.reddit.com/r/news/comments/ua9vl5/scientists_restart_large_hadron_collider_in_quest/)
+- [Judge blocks Montana&#39;s transgender birth certificate law](https://www.reddit.com/r/news/comments/ua9v72/judge_blocks_montanas_transgender_birth/)
+- [Well, Joe Rogan Says Controversy Actually Boosted His Spotify Subscribers. “During the height of it all, I gained two million subscribers.”](https://www.reddit.com/r/news/comments/ua9pvs/well_joe_rogan_says_controversy_actually_boosted/)
+- [Italy Reports 70,520 Coronavirus Cases Today, 143 deaths](https://www.reddit.com/r/news/comments/ua8fu1/italy_reports_70520_coronavirus_cases_today_143/)
+- [Walmart seeks new trial over firing of worker with Down syndrome](https://www.reddit.com/r/news/comments/ua86lx/walmart_seeks_new_trial_over_firing_of_worker/)
 <!-- REDDIT:END -->
 
 
