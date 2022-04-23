@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge who fired employee for not getting vaccinated did not abuse power - ruling](https://www.reddit.com/r/news/comments/u9rjqz/judge_who_fired_employee_for_not_getting/)
+- [Prosecutor drops all charges against Pamela Moses, jailed over voting error | Tennessee](https://www.reddit.com/r/news/comments/u9prdi/prosecutor_drops_all_charges_against_pamela_moses/)
+- [Convicted German rapist declared prime suspect in disappearance of Maddie McCann](https://www.reddit.com/r/news/comments/u9ov6k/convicted_german_rapist_declared_prime_suspect_in/)
+- [At least 2 shot in &#39;active threat&#39; situation in Washington, DC](https://www.reddit.com/r/news/comments/u9nyh2/at_least_2_shot_in_active_threat_situation_in/)
+- [4/20 holiday prompts record sale of 2.3 tons of marijuana in Michigan](https://www.reddit.com/r/news/comments/u9nxj4/420_holiday_prompts_record_sale_of_23_tons_of/)
 <!-- REDDIT:END -->
 
 
