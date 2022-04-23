@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The US sends 155 mm howitzers and &quot;Phoenix Ghost&quot; drones to Ukraine](https://www.reddit.com/r/news/comments/ua1p1y/the_us_sends_155_mm_howitzers_and_phoenix_ghost/)
+- [Louisiana girl, 4, dies after grandmother allegedly forced her to drink bottle of whiskey](https://www.reddit.com/r/news/comments/u9x3dj/louisiana_girl_4_dies_after_grandmother_allegedly/)
+- [Judge sentences man to life for &#39;evil&#39; sex abuse of kids](https://www.reddit.com/r/news/comments/u9wj08/judge_sentences_man_to_life_for_evil_sex_abuse_of/)
+- [Pet duck helps deputies discover body of NC woman; couple charged](https://www.reddit.com/r/news/comments/u9w6hs/pet_duck_helps_deputies_discover_body_of_nc_woman/)
+- [Law Enforcement &quot;Isn&#39;t a Profession,&quot; Judge Rules In Challenge To Arizona&#39;s Clemency Board](https://www.reddit.com/r/news/comments/u9w0ra/law_enforcement_isnt_a_profession_judge_rules_in/)
 <!-- REDDIT:END -->
 
 
