@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [French election: Macron in pole position, Le Pen racing hard](https://www.reddit.com/r/news/comments/ual655/french_election_macron_in_pole_position_le_pen/)
+- [Tour boat in Mexico hits whale or whale shark, 6 injured](https://www.reddit.com/r/news/comments/ual5zv/tour_boat_in_mexico_hits_whale_or_whale_shark_6/)
+- [Germany to buy 60 heavy transport helicopters from Boeing, Bild am Sonntag reports](https://www.reddit.com/r/news/comments/uak0yx/germany_to_buy_60_heavy_transport_helicopters/)
+- [Former Sen. Orrin Hatch dies at 88](https://www.reddit.com/r/news/comments/uaj3qm/former_sen_orrin_hatch_dies_at_88/)
+- [County grants approval for Amazon&#39;s helix-shaped HQ tower](https://www.reddit.com/r/news/comments/uahx1r/county_grants_approval_for_amazons_helixshaped_hq/)
 <!-- REDDIT:END -->
 
 
