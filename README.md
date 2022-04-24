@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [County grants approval for Amazon&#39;s helix-shaped HQ tower](https://www.reddit.com/r/news/comments/uahx1r/county_grants_approval_for_amazons_helixshaped_hq/)
+- [Netflix is finally going after password sharing. Here’s how it’s likely to work](https://www.reddit.com/r/news/comments/uah2rz/netflix_is_finally_going_after_password_sharing/)
+- [Missing couple, Stephen and Djeswende Reid, found shot to death in wooded area in New Hampshire](https://www.reddit.com/r/news/comments/uafnv3/missing_couple_stephen_and_djeswende_reid_found/)
+- [Nearing Earth is an asteroid the size of two Empire State Buildings.](https://www.reddit.com/r/news/comments/uaff2b/nearing_earth_is_an_asteroid_the_size_of_two/)
+- [Maj. Gen. William Cooley guilty of sexual contact charge in first military trial of an Air Force general](https://www.reddit.com/r/news/comments/uaew4i/maj_gen_william_cooley_guilty_of_sexual_contact/)
 <!-- REDDIT:END -->
 
 
