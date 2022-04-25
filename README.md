@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter set to accept ‘best and final offer’ of Elon Musk](https://www.reddit.com/r/news/comments/ubjass/twitter_set_to_accept_best_and_final_offer_of/)
+- [Israeli restrictions on Holy Fire ceremony in Jerusalem spark Christian outrage](https://www.reddit.com/r/news/comments/ubiq94/israeli_restrictions_on_holy_fire_ceremony_in/)
+- [Brand new tiny house village sits empty in Rainier Beach](https://www.reddit.com/r/news/comments/ubh64m/brand_new_tiny_house_village_sits_empty_in/)
+- [European markets fall sharply as global sell-off, China Covid concerns batter sentiment](https://www.reddit.com/r/news/comments/ubgq6x/european_markets_fall_sharply_as_global_selloff/)
+- [World&#39;s oldest person, Japan&#39;s Kane Tanaka, dies at 119](https://www.reddit.com/r/news/comments/ubgh20/worlds_oldest_person_japans_kane_tanaka_dies_at/)
 <!-- REDDIT:END -->
 
 
