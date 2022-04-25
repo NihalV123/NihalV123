@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Large fire at oil depot in Russia&#39;s Bryansk, near Ukraine](https://www.reddit.com/r/news/comments/ubd711/large_fire_at_oil_depot_in_russias_bryansk_near/)
+- [North Korea appears to delay military parade to show off weapons](https://www.reddit.com/r/news/comments/uba0ja/north_korea_appears_to_delay_military_parade_to/)
+- [2 dead, 4 injured in Indiana block party shooting attended by over 100 people, police say](https://www.reddit.com/r/news/comments/ub96hs/2_dead_4_injured_in_indiana_block_party_shooting/)
+- [Colombia court says 5,733 people killed, disappeared in campaign against left-wing party](https://www.reddit.com/r/news/comments/ub8n4i/colombia_court_says_5733_people_killed/)
+- [Police open fire on vehicle in Paris, killing two people and injuring third - local media](https://www.reddit.com/r/news/comments/ub7gyl/police_open_fire_on_vehicle_in_paris_killing_two/)
 <!-- REDDIT:END -->
 
 
