@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Van Ness Shooter Had 1,000 Rounds, Set Up Camera: DC Police](https://www.reddit.com/r/news/comments/uc1ua5/van_ness_shooter_had_1000_rounds_set_up_camera_dc/)
+- [The Satanic Temple sues elementary school as after-school club rejected](https://www.reddit.com/r/news/comments/uc1g4v/the_satanic_temple_sues_elementary_school_as/)
+- [Disney is refusing to cut LGBTQ scene in Doctor Strange 2, Saudi Arabia says](https://www.reddit.com/r/news/comments/uc12ox/disney_is_refusing_to_cut_lgbtq_scene_in_doctor/)
+- [&#39;Princess Bride&#39; star Cary Elwes hospitalized after rattlesnake bite](https://www.reddit.com/r/news/comments/ubzdf5/princess_bride_star_cary_elwes_hospitalized_after/)
+- [Suspect in crash that killed Seattle pedestrian identified as Auburn police officer](https://www.reddit.com/r/news/comments/uby2e0/suspect_in_crash_that_killed_seattle_pedestrian/)
 <!-- REDDIT:END -->
 
 
