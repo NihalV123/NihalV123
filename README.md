@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texts show Marjorie Taylor Greene asked Meadows about martial law](https://www.reddit.com/r/news/comments/ucanyu/texts_show_marjorie_taylor_greene_asked_meadows/)
+- [Putin gets what he didn&#39;t want: Ukraine army closer to West |](https://www.reddit.com/r/news/comments/uca58r/putin_gets_what_he_didnt_want_ukraine_army_closer/)
+- [UN to debate Security Council permanent member veto power | Russia-Ukraine war News](https://www.reddit.com/r/news/comments/uc8ljl/un_to_debate_security_council_permanent_member/)
+- [Beat it: trucker convoy driven out after being egged by kids in California](https://www.reddit.com/r/news/comments/uc6xwt/beat_it_trucker_convoy_driven_out_after_being/)
+- [Van Ness Shooter Had 1,000 Rounds, Set Up Camera: DC Police](https://www.reddit.com/r/news/comments/uc1ua5/van_ness_shooter_had_1000_rounds_set_up_camera_dc/)
 <!-- REDDIT:END -->
 
 
