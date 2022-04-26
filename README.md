@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Princess Bride&#39; star Cary Elwes hospitalized after rattlesnake bite](https://www.reddit.com/r/news/comments/ubzdf5/princess_bride_star_cary_elwes_hospitalized_after/)
+- [Suspect in crash that killed Seattle pedestrian identified as Auburn police officer](https://www.reddit.com/r/news/comments/uby2e0/suspect_in_crash_that_killed_seattle_pedestrian/)
+- [Hunt for killer underway after 10-year-old girl found dead near walking trail](https://www.reddit.com/r/news/comments/ubx0ao/hunt_for_killer_underway_after_10yearold_girl/)
+- [North Dakota lawmaker quits after child porn suspect texts](https://www.reddit.com/r/news/comments/ubwc0k/north_dakota_lawmaker_quits_after_child_porn/)
+- [Federal judge temporarily blocks Biden administration from ending Title 42](https://www.reddit.com/r/news/comments/ubw7jk/federal_judge_temporarily_blocks_biden/)
 <!-- REDDIT:END -->
 
 
