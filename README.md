@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Korea is building a ‘floating city’ to survive rising sea levels](https://www.reddit.com/r/news/comments/ud1dtj/south_korea_is_building_a_floating_city_to/)
+- [Missouri high school bans LGBTQ support stickers and cards](https://www.reddit.com/r/news/comments/ud19mv/missouri_high_school_bans_lgbtq_support_stickers/)
+- [CT Boy Burned By Bully Outside Bridgeport Home, Family Says](https://www.reddit.com/r/news/comments/ud0gtz/ct_boy_burned_by_bully_outside_bridgeport_home/)
+- [Derek Chauvin appeals his murder conviction in the death of George Floyd](https://www.reddit.com/r/news/comments/uczi20/derek_chauvin_appeals_his_murder_conviction_in/)
+- [China Reports 1st Human Case Of H3N8 Bird Flu, 4-Year-Old Found Infected](https://www.reddit.com/r/news/comments/ucz4oc/china_reports_1st_human_case_of_h3n8_bird_flu/)
 <!-- REDDIT:END -->
 
 
