@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk quest to scrap deal over 2018 tweets is rejected](https://www.reddit.com/r/news/comments/ud9aon/elon_musk_quest_to_scrap_deal_over_2018_tweets_is/)
+- [Connecticut boy, 6, severely burned in bullying attack, his family says](https://www.reddit.com/r/news/comments/ud9aa2/connecticut_boy_6_severely_burned_in_bullying/)
+- [Post-Floyd probe finds discrimination by Minneapolis police](https://www.reddit.com/r/news/comments/ud73sv/postfloyd_probe_finds_discrimination_by/)
+- [‘Monstrous, Monstrous Acts&#39;: Ex-Boston Police Union President Pleads Guilty to Child Rape](https://www.reddit.com/r/news/comments/ud6vr9/monstrous_monstrous_acts_exboston_police_union/)
+- [U.S. no longer in ‘full-blown’ pandemic phase, Fauci says](https://www.reddit.com/r/news/comments/ud51mk/us_no_longer_in_fullblown_pandemic_phase_fauci/)
 <!-- REDDIT:END -->
 
 
