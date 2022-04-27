@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AP News: Housing shortage, soaring rents squeeze US college students](https://www.reddit.com/r/news/comments/ucqrr8/ap_news_housing_shortage_soaring_rents_squeeze_us/)
+- [Home prices jumped nearly 20% in February](https://www.reddit.com/r/news/comments/ucpowd/home_prices_jumped_nearly_20_in_february/)
+- [Doctors who ‘mislead’ on social media could soon face regulatory action](https://www.reddit.com/r/news/comments/ucp94e/doctors_who_mislead_on_social_media_could_soon/)
+- [China reports first human case of H3N8 bird flu](https://www.reddit.com/r/news/comments/ucorau/china_reports_first_human_case_of_h3n8_bird_flu/)
+- [Robinhood cutting about 9% of full-time employees](https://www.reddit.com/r/news/comments/ucomvf/robinhood_cutting_about_9_of_fulltime_employees/)
 <!-- REDDIT:END -->
 
 
