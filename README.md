@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Millions must cut water use in drought-stricken California](https://www.reddit.com/r/news/comments/ucwavg/millions_must_cut_water_use_in_droughtstricken/)
+- [Fort Worth is the first city in the U.S. to mine bitcoin, and will run mining rigs out of city hall](https://www.reddit.com/r/news/comments/ucvloc/fort_worth_is_the_first_city_in_the_us_to_mine/)
+- [FDA to halt McKinsey contracts amid federal probes into opioid work](https://www.reddit.com/r/news/comments/ucu2qb/fda_to_halt_mckinsey_contracts_amid_federal/)
+- [Mississippi mayor arrested after allegedly hitting teen in head during fight over dirt bike](https://www.reddit.com/r/news/comments/uct24w/mississippi_mayor_arrested_after_allegedly/)
+- [Texas residents sue county for removing books on race, sex education](https://www.reddit.com/r/news/comments/ucs7wn/texas_residents_sue_county_for_removing_books_on/)
 <!-- REDDIT:END -->
 
 
