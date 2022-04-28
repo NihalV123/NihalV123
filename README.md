@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [20 dead, thousands flee homes as gangs battle in Haiti](https://www.reddit.com/r/news/comments/udt30i/20_dead_thousands_flee_homes_as_gangs_battle_in/)
+- [David Ware Sentenced To Death For Murder Of Tulsa Police Officer](https://www.reddit.com/r/news/comments/udsxoq/david_ware_sentenced_to_death_for_murder_of_tulsa/)
+- [Climate change may increase risk of new infectious diseases](https://www.reddit.com/r/news/comments/udswo3/climate_change_may_increase_risk_of_new/)
+- [Moderna asks FDA to authorize its COVID vaccine for children ages 5 and under](https://www.reddit.com/r/news/comments/udsn7g/moderna_asks_fda_to_authorize_its_covid_vaccine/)
+- [In NYC, ads for jobs will have to say what they pay](https://www.reddit.com/r/news/comments/udrsjh/in_nyc_ads_for_jobs_will_have_to_say_what_they_pay/)
 <!-- REDDIT:END -->
 
 
