@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shooting with &#39;multiple&#39; victims reported at Kissimmee-area Target](https://www.reddit.com/r/news/comments/udithq/shooting_with_multiple_victims_reported_at/)
+- [Heard a loud boom in Mississippi this morning? It was a meteor.](https://www.reddit.com/r/news/comments/udhgop/heard_a_loud_boom_in_mississippi_this_morning_it/)
+- [Russia&#39;s tanks in Ukraine have a &#39;jack-in-the-box&#39; design flaw. And the West has known about it since the Gulf war](https://www.reddit.com/r/news/comments/udhfo4/russias_tanks_in_ukraine_have_a_jackinthebox/)
+- [Proud Boys member pleads guilty for role in US Capitol attack](https://www.reddit.com/r/news/comments/udgqq9/proud_boys_member_pleads_guilty_for_role_in_us/)
+- [Bitcoin becomes official currency in Central African Republic - BBC News](https://www.reddit.com/r/news/comments/udgbns/bitcoin_becomes_official_currency_in_central/)
 <!-- REDDIT:END -->
 
 
