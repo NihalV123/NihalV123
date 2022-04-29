@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Crucial tropical forests were destroyed at a rate of 10 soccer fields a minute last year](https://www.reddit.com/r/news/comments/uehwf8/crucial_tropical_forests_were_destroyed_at_a_rate/)
+- [Tory MP accused of watching pornography in Commons chamber](https://www.reddit.com/r/news/comments/uehfio/tory_mp_accused_of_watching_pornography_in/)
+- [A 15-year-old boy died by suicide after relentless cyberbullying, and his parents say the Latin School could have done more to stop it](https://www.reddit.com/r/news/comments/uegozh/a_15yearold_boy_died_by_suicide_after_relentless/)
+- [Putin’s Name Covered Up on 9/11 Memorial in New Jersey](https://www.reddit.com/r/news/comments/uefagx/putins_name_covered_up_on_911_memorial_in_new/)
+- [Woman seen coughing on Uber driver now accused of identity theft](https://www.reddit.com/r/news/comments/uee0g6/woman_seen_coughing_on_uber_driver_now_accused_of/)
 <!-- REDDIT:END -->
 
 
