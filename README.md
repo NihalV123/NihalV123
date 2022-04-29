@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sixteen states sue the Postal Service over plan to buy gas-powered vehicles.](https://www.reddit.com/r/news/comments/ue9i36/sixteen_states_sue_the_postal_service_over_plan/)
+- [Jones County corrections officer arrested, fired in killing of Carl the Rooster](https://www.reddit.com/r/news/comments/ue93ga/jones_county_corrections_officer_arrested_fired/)
+- [Teachers in Southlake, Texas, asked to sign ‘non-disparagement’ agreements](https://www.reddit.com/r/news/comments/ue8e47/teachers_in_southlake_texas_asked_to_sign/)
+- [Flint marks eight years since start of the water crisis](https://www.reddit.com/r/news/comments/ue7wuj/flint_marks_eight_years_since_start_of_the_water/)
+- [The James Webb Space Telescope is fully aligned and ready to observe the universe](https://www.reddit.com/r/news/comments/ue76be/the_james_webb_space_telescope_is_fully_aligned/)
 <!-- REDDIT:END -->
 
 
