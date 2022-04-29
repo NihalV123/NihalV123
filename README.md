@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman seen coughing on Uber driver now accused of identity theft](https://www.reddit.com/r/news/comments/uee0g6/woman_seen_coughing_on_uber_driver_now_accused_of/)
+- [Panic at Israeli airport as US family packs unexploded bombshell for flight home](https://www.reddit.com/r/news/comments/uedxn2/panic_at_israeli_airport_as_us_family_packs/)
+- [3 Florida correctional officers charged with murder in &#39;back alley justice&#39; beating of inmate, officials say](https://www.reddit.com/r/news/comments/uecx3f/3_florida_correctional_officers_charged_with/)
+- [Black children over-policed in schools, report says](https://www.reddit.com/r/news/comments/uebo0y/black_children_overpoliced_in_schools_report_says/)
+- [Elon Musk sold around $4 billion worth of Tesla shares](https://www.reddit.com/r/news/comments/ueblq7/elon_musk_sold_around_4_billion_worth_of_tesla/)
 <!-- REDDIT:END -->
 
 
