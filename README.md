@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 Florida corrections officers are charged in the alleged beating death of an inmate](https://www.reddit.com/r/news/comments/ueqgeo/3_florida_corrections_officers_are_charged_in_the/)
+- [Murder case dismissed after Cincinnati police detective finds gun during jury selection](https://www.reddit.com/r/news/comments/ueoh7p/murder_case_dismissed_after_cincinnati_police/)
+- [Chevron’s profit quadruples in the first quarter as higher oil and gas prices boost operations](https://www.reddit.com/r/news/comments/uenyxn/chevrons_profit_quadruples_in_the_first_quarter/)
+- [Man Faces Up To Six Years In Prison After Hitting School Bus While Racing His Ford Mustang](https://www.reddit.com/r/news/comments/uemxkf/man_faces_up_to_six_years_in_prison_after_hitting/)
+- [Workers discover ‘unprecedented’ Phoenician necropolis in southern Spain](https://www.reddit.com/r/news/comments/uem7hm/workers_discover_unprecedented_phoenician/)
 <!-- REDDIT:END -->
 
 
