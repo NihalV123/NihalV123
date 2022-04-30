@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Blast at Kabul mosque kills more than 50 worshippers](https://www.reddit.com/r/news/comments/uffjbh/blast_at_kabul_mosque_kills_more_than_50/)
+- [Researchers keep finding creepy dolls washing up on Texas beaches](https://www.reddit.com/r/news/comments/uff6w7/researchers_keep_finding_creepy_dolls_washing_up/)
+- [&#39;Hands tied, shot in ear and limbs&#39;: Bodies of men tortured, killed by Russian forces found in Bucha grave](https://www.reddit.com/r/news/comments/ufe3r0/hands_tied_shot_in_ear_and_limbs_bodies_of_men/)
+- [Spain&#39;s Queen Gifts Grenade Shipment To Ukraine, Adds Victory Message](https://www.reddit.com/r/news/comments/ufdz1f/spains_queen_gifts_grenade_shipment_to_ukraine/)
+- [Largest U.S. wildfire rages out of control in New Mexico](https://www.reddit.com/r/news/comments/ufd567/largest_us_wildfire_rages_out_of_control_in_new/)
 <!-- REDDIT:END -->
 
 
