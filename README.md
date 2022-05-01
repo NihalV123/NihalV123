@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon Workers Won&#39;t Get Paid for COVID leave anymore](https://www.reddit.com/r/news/comments/ufndn3/amazon_workers_wont_get_paid_for_covid_leave/)
+- [Woman avoids jail for voting dead mom&#39;s ballot in Arizona](https://www.reddit.com/r/news/comments/ufmuk4/woman_avoids_jail_for_voting_dead_moms_ballot_in/)
+- [Three OU meteorology students die in car crash Friday on way home from storm chasing](https://www.reddit.com/r/news/comments/ufm9tf/three_ou_meteorology_students_die_in_car_crash/)
+- [Sri Lanka hikes price of medicines 40% amid economic crisis](https://www.reddit.com/r/news/comments/ufkz6b/sri_lanka_hikes_price_of_medicines_40_amid/)
+- [Lake Powell water officials face an impossible choice amid the West&#39;s megadrought - CNN](https://www.reddit.com/r/news/comments/ufk6bk/lake_powell_water_officials_face_an_impossible/)
 <!-- REDDIT:END -->
 
 
