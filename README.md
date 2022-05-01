@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Young people ask for pay transparency in job postings, saying the deck is stacked against job seekers](https://www.reddit.com/r/news/comments/ug5mj6/young_people_ask_for_pay_transparency_in_job/)
+- [U.S. Marshals offering $10,000 for missing Alabama inmate and officer](https://www.reddit.com/r/news/comments/ug4zpu/us_marshals_offering_10000_for_missing_alabama/)
+- [Russians plunder $5M farm vehicles from Ukraine -- to find they&#39;ve been remotely disabled](https://www.reddit.com/r/news/comments/ug3vmn/russians_plunder_5m_farm_vehicles_from_ukraine_to/)
+- [Equine virus identified in deaths of wild captive horses in Colorado](https://www.reddit.com/r/news/comments/ug133k/equine_virus_identified_in_deaths_of_wild_captive/)
+- [Coastal Panel Staff Advises Against Huntington Beach Desalination Plant](https://www.reddit.com/r/news/comments/ug10vp/coastal_panel_staff_advises_against_huntington/)
 <!-- REDDIT:END -->
 
 
