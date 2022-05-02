@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [45-year-old Yan Zhiwen shot to death delivering food on scooter in Forest Hills, Queens](https://www.reddit.com/r/news/comments/ugipmq/45yearold_yan_zhiwen_shot_to_death_delivering/)
+- [Pet duck leads police to body of missing woman; granddaughter charged with murder](https://www.reddit.com/r/news/comments/ugi63u/pet_duck_leads_police_to_body_of_missing_woman/)
+- [Lavrov claims Zelensky has Jewish blood &#39;just like Hitler&#39;](https://www.reddit.com/r/news/comments/ughs8o/lavrov_claims_zelensky_has_jewish_blood_just_like/)
+- [LAUSD lengthens 2022-23 school year to make up for lost instructional time during COVID](https://www.reddit.com/r/news/comments/ugehcq/lausd_lengthens_202223_school_year_to_make_up_for/)
+- [Aspen Medical was given more than $1 billion in government PPE contracts despite no experience in large-scale procurement](https://www.reddit.com/r/news/comments/ugdzpg/aspen_medical_was_given_more_than_1_billion_in/)
 <!-- REDDIT:END -->
 
 
