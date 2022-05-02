@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Aspen Medical was given more than $1 billion in government PPE contracts despite no experience in large-scale procurement](https://www.reddit.com/r/news/comments/ugdzpg/aspen_medical_was_given_more_than_1_billion_in/)
+- [Amazon to get hearing that could overturn NY union vote, labor board official says](https://www.reddit.com/r/news/comments/ugdujc/amazon_to_get_hearing_that_could_overturn_ny/)
+- [Russia says risks of nuclear war must be kept to minimum -TASS](https://www.reddit.com/r/news/comments/ugbr89/russia_says_risks_of_nuclear_war_must_be_kept_to/)
+- [Saturday night shootout at McDonald’s in Orange County after woman fires gun at deputies](https://www.reddit.com/r/news/comments/ugb0je/saturday_night_shootout_at_mcdonalds_in_orange/)
+- [Alabama woman killed by pack of dogs; owner charged with manslaughter](https://www.reddit.com/r/news/comments/ug8eoy/alabama_woman_killed_by_pack_of_dogs_owner/)
 <!-- REDDIT:END -->
 
 
