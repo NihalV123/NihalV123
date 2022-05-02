@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sex worker gets 30 years for fatally drugging men for ‘a few quick dollars’](https://www.reddit.com/r/news/comments/ugnwmu/sex_worker_gets_30_years_for_fatally_drugging_men/)
+- [Florida Guardsmen heading to Germany to resume training Ukrainian troops](https://www.reddit.com/r/news/comments/ugnu2l/florida_guardsmen_heading_to_germany_to_resume/)
+- [Israel outrage at Sergei Lavrov&#39;s claim that Hitler was part Jewish.](https://www.reddit.com/r/news/comments/ugn0f6/israel_outrage_at_sergei_lavrovs_claim_that/)
+- [Sydney man admits pushing gay American off a cliff in 1988](https://www.reddit.com/r/news/comments/ugml2x/sydney_man_admits_pushing_gay_american_off_a/)
+- [UK says quarter of Russian battalion groups that invaded Ukraine are likely &quot;ineffective&quot;](https://www.reddit.com/r/news/comments/ugmfh7/uk_says_quarter_of_russian_battalion_groups_that/)
 <!-- REDDIT:END -->
 
 
