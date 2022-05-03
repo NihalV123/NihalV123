@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 shot during children&#39;s flag football game at Virginia middle school, police say](https://www.reddit.com/r/news/comments/uh2t1d/2_shot_during_childrens_flag_football_game_at/)
+- [Sandy Hook families drop 3 Alex Jones companies from lawsuit and ask judge to return their case to trial court](https://www.reddit.com/r/news/comments/uh2j39/sandy_hook_families_drop_3_alex_jones_companies/)
+- [Marine intel instructors got caught calling students ‘whore’ and ‘slut&#39; in private chat. No punishment was recommended](https://www.reddit.com/r/news/comments/uh25dk/marine_intel_instructors_got_caught_calling/)
+- [Tulsa race massacre reparations lawsuit survives motion to deny and will move forward, judge rules](https://www.reddit.com/r/news/comments/uh21mn/tulsa_race_massacre_reparations_lawsuit_survives/)
+- [LASD Deputy Shot Off Another Deputy’s Gang Tattoo, Received Promotion](https://www.reddit.com/r/news/comments/uh0qki/lasd_deputy_shot_off_another_deputys_gang_tattoo/)
 <!-- REDDIT:END -->
 
 
