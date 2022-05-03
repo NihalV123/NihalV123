@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&quot;The Russians didn&#39;t let them go&quot;: As Ukrainians flee to Zaporizhzhia, they leave loved ones behind](https://www.reddit.com/r/news/comments/uhdxy6/the_russians_didnt_let_them_go_as_ukrainians_flee/)
+- [Apple store in Maryland becomes third to launch union drive](https://www.reddit.com/r/news/comments/uhdujq/apple_store_in_maryland_becomes_third_to_launch/)
+- [All 5 building blocks of DNA, RNA found in meteorites from Canada, U.S., Australia | CBC News](https://www.reddit.com/r/news/comments/uhc7xu/all_5_building_blocks_of_dna_rna_found_in/)
+- [Putin may soon officially declare war on Ukraine, US and Western officials say](https://www.reddit.com/r/news/comments/uhan11/putin_may_soon_officially_declare_war_on_ukraine/)
+- [U.S. Supreme Court potential shock move on abortion sends protesters onto Washington streets](https://www.reddit.com/r/news/comments/uh8qam/us_supreme_court_potential_shock_move_on_abortion/)
 <!-- REDDIT:END -->
 
 
