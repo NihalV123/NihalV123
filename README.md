@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who assaulted flight attendants, was duct taped on Frontier flight, sentenced to jail](https://www.reddit.com/r/news/comments/uhkgi1/man_who_assaulted_flight_attendants_was_duct/)
+- [Horror in Shanghai as elderly man taken to morgue in body bag while still alive](https://www.reddit.com/r/news/comments/uhk3mx/horror_in_shanghai_as_elderly_man_taken_to_morgue/)
+- [A record 4.5 million Americans quit their jobs in March](https://www.reddit.com/r/news/comments/uhk1kd/a_record_45_million_americans_quit_their_jobs_in/)
+- [U.S. reclassifies WNBA star Brittney Griner as &#39;wrongfully detained&#39; by Russia, sources say](https://www.reddit.com/r/news/comments/uhjohs/us_reclassifies_wnba_star_brittney_griner_as/)
+- [Supreme Court says leaked abortion draft is authentic; Roberts orders investigation into leak](https://www.reddit.com/r/news/comments/uhio5w/supreme_court_says_leaked_abortion_draft_is/)
 <!-- REDDIT:END -->
 
 
