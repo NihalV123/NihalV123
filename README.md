@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Men and boys among alleged rape victims of Russian soldiers in Ukraine](https://www.reddit.com/r/news/comments/ui4p4y/men_and_boys_among_alleged_rape_victims_of/)
+- [Journalists from multiple news outlets test positive after White House Correspondents Dinner weekend](https://www.reddit.com/r/news/comments/ui3dzv/journalists_from_multiple_news_outlets_test/)
+- [Dave Chappelle attacked onstage at L.A.&#39;s Hollywood Bowl](https://www.reddit.com/r/news/comments/ui2eew/dave_chappelle_attacked_onstage_at_las_hollywood/)
+- [Ukraine latest news: EU unveils plan to ban Russian oil imports - BBC News](https://www.reddit.com/r/news/comments/ui0o71/ukraine_latest_news_eu_unveils_plan_to_ban/)
+- [Mystery liver disease kills three more children after &quot;unexpected significant increase&quot; in cases reported](https://www.reddit.com/r/news/comments/uhziw5/mystery_liver_disease_kills_three_more_children/)
 <!-- REDDIT:END -->
 
 
