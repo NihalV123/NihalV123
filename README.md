@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A 13-year-old girl in India told the police she had been gang-raped. Then a police officer allegedly raped her | CTV News](https://www.reddit.com/r/news/comments/uj0sbg/a_13yearold_girl_in_india_told_the_police_she_had/)
+- [Four arrested at daycare accused of dosing children to sleep](https://www.reddit.com/r/news/comments/uj0re2/four_arrested_at_daycare_accused_of_dosing/)
+- [Wealthiest Americans pay just 3.4% of income in taxes, investigation reveals](https://www.reddit.com/r/news/comments/uj0hcd/wealthiest_americans_pay_just_34_of_income_in/)
+- [California declares unprecedented water restrictions amid drought](https://www.reddit.com/r/news/comments/uizbuv/california_declares_unprecedented_water/)
+- [World true pandemic death toll nearly 15 million, says WHO](https://www.reddit.com/r/news/comments/uixdeq/world_true_pandemic_death_toll_nearly_15_million/)
 <!-- REDDIT:END -->
 
 
