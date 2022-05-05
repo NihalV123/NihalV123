@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nashville Public Library debuts limited edition &#39;I read banned books&#39; library cards](https://www.reddit.com/r/news/comments/uil045/nashville_public_library_debuts_limited_edition_i/)
+- [Georgia high school athletic group bans transgender athletes](https://www.reddit.com/r/news/comments/uijukw/georgia_high_school_athletic_group_bans/)
+- [Scientists Discover Soybeans can Block Negative Cardiovascular Effects of THC while Giving You the High](https://www.reddit.com/r/news/comments/uij223/scientists_discover_soybeans_can_block_negative/)
+- [Canada will ensure border officials know Americans can travel for abortion: Mendicino - National | Globalnews.ca](https://www.reddit.com/r/news/comments/uiizku/canada_will_ensure_border_officials_know/)
+- [Donations to U.S. abortion rights groups, clinics surge after Supreme Court leak](https://www.reddit.com/r/news/comments/uiiwlg/donations_to_us_abortion_rights_groups_clinics/)
 <!-- REDDIT:END -->
 
 
