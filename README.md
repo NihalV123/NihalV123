@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who stormed Capitol in caveman costume gets prison](https://www.reddit.com/r/news/comments/ujs85g/man_who_stormed_capitol_in_caveman_costume_gets/)
+- [&#39;Self-described incel&#39; accused of harassing women outside OC bars; wanted for hate crimes](https://www.reddit.com/r/news/comments/ujs62a/selfdescribed_incel_accused_of_harassing_women/)
+- [One of Ahmaud Arbery&#39;s killers had 16 phone calls with DA before arrest, court filings say](https://www.reddit.com/r/news/comments/ujr1dq/one_of_ahmaud_arberys_killers_had_16_phone_calls/)
+- [Germany: Woman sentenced after sabotaging partner&#39;s condoms](https://www.reddit.com/r/news/comments/ujqbh3/germany_woman_sentenced_after_sabotaging_partners/)
+- [San Jose Church Searched After Kidnapping Also Site of Child&#39;s Death in September](https://www.reddit.com/r/news/comments/ujp9v8/san_jose_church_searched_after_kidnapping_also/)
 <!-- REDDIT:END -->
 
 
