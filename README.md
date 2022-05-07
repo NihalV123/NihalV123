@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 US tourists die at Bahamas hotel after falling ill, another airlifted to hospital](https://www.reddit.com/r/news/comments/ukii7t/3_us_tourists_die_at_bahamas_hotel_after_falling/)
+- [‘Potentially historic’ wildfire event threatens New Mexico, Southwest](https://www.reddit.com/r/news/comments/ukhx8b/potentially_historic_wildfire_event_threatens_new/)
+- [All women, children and elderly evacuated from Azovstal, Ukraine&#39;s deputy PM says](https://www.reddit.com/r/news/comments/ukhfam/all_women_children_and_elderly_evacuated_from/)
+- [Deaths of 3 Americans at Sandals resort in the Bahamas are under investigation, officials say](https://www.reddit.com/r/news/comments/ukh5f0/deaths_of_3_americans_at_sandals_resort_in_the/)
+- [Monkeypox case confirmed in England](https://www.reddit.com/r/news/comments/ukfmyp/monkeypox_case_confirmed_in_england/)
 <!-- REDDIT:END -->
 
 
