@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [How a priceless Roman bust ended up in a Texas thrift store](https://www.reddit.com/r/news/comments/uk9hm7/how_a_priceless_roman_bust_ended_up_in_a_texas/)
+- [Afghanistan: Taliban leader orders women to wear all-covering burqa in public: Decree](https://www.reddit.com/r/news/comments/uk8t31/afghanistan_taliban_leader_orders_women_to_wear/)
+- [Tesla will pay travel costs for staff seeking abortion services](https://www.reddit.com/r/news/comments/uk72xi/tesla_will_pay_travel_costs_for_staff_seeking/)
+- [NJ woman who forced daughter she fathered into child porn sentenced to 25 years in prison](https://www.reddit.com/r/news/comments/uk6kiu/nj_woman_who_forced_daughter_she_fathered_into/)
+- [&lpar;VIDEO&rpar; Sri Lankan Police fire tear gas again at #HoruGoGama peaceful protestors; Children among those affected](https://www.reddit.com/r/news/comments/uk60hy/video_sri_lankan_police_fire_tear_gas_again_at/)
 <!-- REDDIT:END -->
 
 
