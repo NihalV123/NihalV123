@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NJ woman who forced daughter she fathered into child porn sentenced to 25 years in prison](https://www.reddit.com/r/news/comments/uk6kiu/nj_woman_who_forced_daughter_she_fathered_into/)
+- [Rewards offered after dolphin &#39;harassed to death&#39; on Texas beach, another impaled in Florida](https://www.reddit.com/r/news/comments/uk5fvx/rewards_offered_after_dolphin_harassed_to_death/)
+- [Nine hospitalized after Texas authorities find dozens of undocumented workers in semi trailer](https://www.reddit.com/r/news/comments/uk4buh/nine_hospitalized_after_texas_authorities_find/)
+- [U.S. offers $15 mln reward for information on Conti ransomware group](https://www.reddit.com/r/news/comments/uk2m2e/us_offers_15_mln_reward_for_information_on_conti/)
+- [Ethiopia war: Evidence of mass killing being burned - witnesses](https://www.reddit.com/r/news/comments/uk0vlo/ethiopia_war_evidence_of_mass_killing_being/)
 <!-- REDDIT:END -->
 
 
