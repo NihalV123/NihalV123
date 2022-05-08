@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [On World War Two anniversary, Zelenskiy says evil has returned](https://www.reddit.com/r/news/comments/ul0da0/on_world_war_two_anniversary_zelenskiy_says_evil/)
+- [Repeated mass emperor penguin chick deaths prompt dire climate change warning](https://www.reddit.com/r/news/comments/ukxipr/repeated_mass_emperor_penguin_chick_deaths_prompt/)
+- [Ukraine war: Dozens feared dead after bomb hits school](https://www.reddit.com/r/news/comments/ukwwzg/ukraine_war_dozens_feared_dead_after_bomb_hits/)
+- [Less immigrant labor in US contributing to price hikes](https://www.reddit.com/r/news/comments/uktthy/less_immigrant_labor_in_us_contributing_to_price/)
+- [Shenandoah National Park growing by hundreds of acres](https://www.reddit.com/r/news/comments/uksv6r/shenandoah_national_park_growing_by_hundreds_of/)
 <!-- REDDIT:END -->
 
 
