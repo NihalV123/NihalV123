@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A $34.99 Goodwill purchase turned out to be an ancient Roman bust that&#39;s nearly 2,000 years old](https://www.reddit.com/r/news/comments/ukq48t/a_3499_goodwill_purchase_turned_out_to_be_an/)
+- [CIA Director: US “sees no practical evidence” that Russia is planning nuclear strikes](https://www.reddit.com/r/news/comments/ukq1be/cia_director_us_sees_no_practical_evidence_that/)
+- [Rich Strike wins the 148th running of the Kentucky Derby in surprise upset](https://www.reddit.com/r/news/comments/ukowd9/rich_strike_wins_the_148th_running_of_the/)
+- [Sinn Fein calls for united Ireland debate after historic Northern Ireland election win: Sinn Fein wins most seats for first time](https://www.reddit.com/r/news/comments/ukot8j/sinn_fein_calls_for_united_ireland_debate_after/)
+- [Yelp, other companies take stance on abortion rights with travel benefit](https://www.reddit.com/r/news/comments/ukophp/yelp_other_companies_take_stance_on_abortion/)
 <!-- REDDIT:END -->
 
 
