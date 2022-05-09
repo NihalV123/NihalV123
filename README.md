@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;A tragedy&#39;: Closure of 150-year-old college underscores toll of ransomware attacks](https://www.reddit.com/r/news/comments/ulwzqf/a_tragedy_closure_of_150yearold_college/)
+- [Majority-Black town reaches agreement with Tennessee to avoid state takeover](https://www.reddit.com/r/news/comments/ulwvj1/majorityblack_town_reaches_agreement_with/)
+- [Putin tries to justify Ukraine invasion; Russian forces continue to storm Mariupol steel plant](https://www.reddit.com/r/news/comments/ulwuow/putin_tries_to_justify_ukraine_invasion_russian/)
+- [Mother arrested after 3 children found dead inside Southern California home](https://www.reddit.com/r/news/comments/ulwsdp/mother_arrested_after_3_children_found_dead/)
+- [Queen hands over to Charles for State Opening of Parliament](https://www.reddit.com/r/news/comments/ulwc14/queen_hands_over_to_charles_for_state_opening_of/)
 <!-- REDDIT:END -->
 
 
