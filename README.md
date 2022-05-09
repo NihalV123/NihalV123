@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Apple&#39;s Director of Machine Learning Resigns Due to Return to Office Work](https://www.reddit.com/r/news/comments/ulphsz/apples_director_of_machine_learning_resigns_due/)
+- [Sri Lankan PM Mahinda Rajapaksa Resigns Amid Massive Clashes, Curfew](https://www.reddit.com/r/news/comments/ulotr4/sri_lankan_pm_mahinda_rajapaksa_resigns_amid/)
+- [Russian ambassador to Poland hit with red paint](https://www.reddit.com/r/news/comments/ulok0g/russian_ambassador_to_poland_hit_with_red_paint/)
+- [Alabama ban on gender-affirming care for transgender youth takes effect](https://www.reddit.com/r/news/comments/ulobum/alabama_ban_on_genderaffirming_care_for/)
+- [Afghan women deplore Taliban’s new order to cover faces in public](https://www.reddit.com/r/news/comments/ulle48/afghan_women_deplore_talibans_new_order_to_cover/)
 <!-- REDDIT:END -->
 
 
