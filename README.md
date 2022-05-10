@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Leader of feces-eating cult arrested after 11 dead bodies discovered during raid](https://www.reddit.com/r/news/comments/um4v6s/leader_of_feceseating_cult_arrested_after_11_dead/)
+- [Another Leak Says Supreme Court Set to Overturn Roe v. Wade](https://www.reddit.com/r/news/comments/um3tik/another_leak_says_supreme_court_set_to_overturn/)
+- [Del. State Univ. president ‘incensed’ over Georgia police drug search of lacrosse team bus](https://www.reddit.com/r/news/comments/um30t2/del_state_univ_president_incensed_over_georgia/)
+- [Casey White manhunt ends in Indiana, accomplice Vicky White hospitalized, police say](https://www.reddit.com/r/news/comments/um2qdd/casey_white_manhunt_ends_in_indiana_accomplice/)
+- [Amazon fires two employees tied to Staten Island union effort](https://www.reddit.com/r/news/comments/um22gy/amazon_fires_two_employees_tied_to_staten_island/)
 <!-- REDDIT:END -->
 
 
