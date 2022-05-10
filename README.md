@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More guns are being stolen out of cars in alarming trend across the nation](https://www.reddit.com/r/news/comments/um9nhg/more_guns_are_being_stolen_out_of_cars_in/)
+- [&#39;Sextortionists&#39; are increasingly targeting young men for money. The outcome can be deadly.](https://www.reddit.com/r/news/comments/um90kp/sextortionists_are_increasingly_targeting_young/)
+- [Lockheed Martin tests new hypersonic weapon concept for DARPA](https://www.reddit.com/r/news/comments/um870t/lockheed_martin_tests_new_hypersonic_weapon/)
+- [Warhol&#39;s Marilyn Monroe painting sold for record-breaking $195m](https://www.reddit.com/r/news/comments/um7mzm/warhols_marilyn_monroe_painting_sold_for/)
+- [CORONER: Vicky White dead after pursuit in Evansville](https://www.reddit.com/r/news/comments/um6b9d/coroner_vicky_white_dead_after_pursuit_in/)
 <!-- REDDIT:END -->
 
 
