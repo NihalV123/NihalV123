@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pussy Riot band member Maria Alyokhina escapes Russia dressed as food courier after criticising Putin](https://www.reddit.com/r/news/comments/un8lds/pussy_riot_band_member_maria_alyokhina_escapes/)
+- [SC man suffers heart attack, dies while burying body of murdered wife: Officials](https://www.reddit.com/r/news/comments/un83lh/sc_man_suffers_heart_attack_dies_while_burying/)
+- [French citizen jailed for a month, not provided interpreter after refusing to get off plane at CVG Airport Later involuntarily committed to state hospital](https://www.reddit.com/r/news/comments/un7ozq/french_citizen_jailed_for_a_month_not_provided/)
+- [Thailand to give away one million free cannabis plants, minister says](https://www.reddit.com/r/news/comments/un7naj/thailand_to_give_away_one_million_free_cannabis/)
+- [Soldier dies after being attacked by bear on base in Alaska](https://www.reddit.com/r/news/comments/un7eva/soldier_dies_after_being_attacked_by_bear_on_base/)
 <!-- REDDIT:END -->
 
 
