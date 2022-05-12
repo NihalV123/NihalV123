@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Greece bans LGBTQ conversion therapy](https://www.reddit.com/r/news/comments/unz862/greece_bans_lgbtq_conversion_therapy/)
+- [Russia vows response as Finland seeks NATO membership](https://www.reddit.com/r/news/comments/unyryi/russia_vows_response_as_finland_seeks_nato/)
+- [IVF treatment faces ‘clear and present danger’ from US anti-abortion effort | US news](https://www.reddit.com/r/news/comments/uny3ty/ivf_treatment_faces_clear_and_present_danger_from/)
+- [North Korea confirms 1st COVID outbreak, Kim orders lockdown](https://www.reddit.com/r/news/comments/uny1y8/north_korea_confirms_1st_covid_outbreak_kim/)
+- [Kyiv: Video shows Russian soldiers killing 2 civilians before they ransack a business](https://www.reddit.com/r/news/comments/unw34h/kyiv_video_shows_russian_soldiers_killing_2/)
 <!-- REDDIT:END -->
 
 
