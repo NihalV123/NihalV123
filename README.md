@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Burial sites found at 53 Native American boarding schools: Interior Dept](https://www.reddit.com/r/news/comments/unlzi8/burial_sites_found_at_53_native_american_boarding/)
+- [‘Devastating’: 91% of reefs surveyed on Great Barrier Reef affected by coral bleaching in 2022](https://www.reddit.com/r/news/comments/unkspq/devastating_91_of_reefs_surveyed_on_great_barrier/)
+- [Court: California&#39;s under-21 gun sales ban unconstitutional](https://www.reddit.com/r/news/comments/unkmd7/court_californias_under21_gun_sales_ban/)
+- [Nearly $1 billion settlement announced in deadly Surfside condo collapse](https://www.reddit.com/r/news/comments/unjya1/nearly_1_billion_settlement_announced_in_deadly/)
+- [Settlement reached in claim Liberty University hid rapes, punished victims](https://www.reddit.com/r/news/comments/unhy39/settlement_reached_in_claim_liberty_university/)
 <!-- REDDIT:END -->
 
 
