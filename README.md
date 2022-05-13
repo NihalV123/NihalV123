@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [City of Ferris will offer free healthcare to all its residents](https://www.reddit.com/r/news/comments/uojt0m/city_of_ferris_will_offer_free_healthcare_to_all/)
+- [&#39;Holy cow ... are you kidding me?&#39; Scientists stunned to see plants grow in soil from the moon](https://www.reddit.com/r/news/comments/uoim7g/holy_cow_are_you_kidding_me_scientists_stunned_to/)
+- [San Jose police officer faces charges for masturbating during disturbance call: D.A.](https://www.reddit.com/r/news/comments/uohv2t/san_jose_police_officer_faces_charges_for/)
+- [An off-duty officer put his knee on a 12-year-old girl’s neck to break up a school fight. The girl is now being charged](https://www.reddit.com/r/news/comments/uoh80p/an_offduty_officer_put_his_knee_on_a_12yearold/)
+- [Golf great Greg Norman says of his Saudi investor: Journalist Jamal Khashoggi&#39;s torture and murder was a &quot;mistake&quot;. Quote: &quot;We&#39;ve all made mistakes&quot;](https://www.reddit.com/r/news/comments/uoh75z/golf_great_greg_norman_says_of_his_saudi_investor/)
 <!-- REDDIT:END -->
 
 
