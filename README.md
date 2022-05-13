@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Siemens to halt operations in Russia](https://www.reddit.com/r/news/comments/uowlw5/siemens_to_halt_operations_in_russia/)
+- [Mom suing TikTok after 10-year-old daughter dies from dangerous &quot;Blackout Challenge&quot;](https://www.reddit.com/r/news/comments/uovl7h/mom_suing_tiktok_after_10yearold_daughter_dies/)
+- [Texas Supreme Court allows state to resume some abuse investigations into gender-confirming care for transgender youth](https://www.reddit.com/r/news/comments/uoujbt/texas_supreme_court_allows_state_to_resume_some/)
+- [Air Force crew disciplined for landing on Martha&#39;s Vineyard to pick up vintage BMW motorcycle](https://www.reddit.com/r/news/comments/uou4ko/air_force_crew_disciplined_for_landing_on_marthas/)
+- [Brittney Griner&#39;s pretrial detention in Russia has been extended by a month, Russian state news reports](https://www.reddit.com/r/news/comments/uotoao/brittney_griners_pretrial_detention_in_russia_has/)
 <!-- REDDIT:END -->
 
 
