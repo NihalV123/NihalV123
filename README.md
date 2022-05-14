@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. abortion rights activists start &#39;summer of rage&#39; with Saturday protests](https://www.reddit.com/r/news/comments/uplu0q/us_abortion_rights_activists_start_summer_of_rage/)
+- [The office spaces transforming into luxury apartments](https://www.reddit.com/r/news/comments/upl2w0/the_office_spaces_transforming_into_luxury/)
+- [Ukraine Chief Of Intellegence Claims PUTIN HAS CANCER [Video]](https://www.reddit.com/r/news/comments/upkofi/ukraine_chief_of_intellegence_claims_putin_has/)
+- [4 Air Force cadets may not graduate due to vaccine refusal](https://www.reddit.com/r/news/comments/upkii7/4_air_force_cadets_may_not_graduate_due_to/)
+- [Birmingham teacher arrested after allegedly sexually assaulting four girls](https://www.reddit.com/r/news/comments/upjs7x/birmingham_teacher_arrested_after_allegedly/)
 <!-- REDDIT:END -->
 
 
