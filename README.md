@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ERCOT Asks Texans to Conserve Power Until 8 P.M., Through the Weekend](https://www.reddit.com/r/news/comments/up9cum/ercot_asks_texans_to_conserve_power_until_8_pm/)
+- [2 face criminal charges over balloon pollution in Biscayne Bay; could face time in prison](https://www.reddit.com/r/news/comments/up81yh/2_face_criminal_charges_over_balloon_pollution_in/)
+- [Delaware State University intends to file a formal DOJ complaint over traffic stop they believe was racially motivated](https://www.reddit.com/r/news/comments/up7rij/delaware_state_university_intends_to_file_a/)
+- [Sexual harassment investigation launched into 3 middle schoolers&#39; wrong use of pronouns](https://www.reddit.com/r/news/comments/up6yuv/sexual_harassment_investigation_launched_into_3/)
+- [Danish far-right leader burns Muslim holy book under police protection in Sweden](https://www.reddit.com/r/news/comments/up6jpj/danish_farright_leader_burns_muslim_holy_book/)
 <!-- REDDIT:END -->
 
 
