@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea&#39;s Explosive Covid Outbreak: 820,620 Cases In 3 Days](https://www.reddit.com/r/news/comments/upziiw/north_koreas_explosive_covid_outbreak_820620/)
+- [Records: 2 people in execution knew drugs hadn’t been tested](https://www.reddit.com/r/news/comments/upywuj/records_2_people_in_execution_knew_drugs_hadnt/)
+- [Alibaba lays off 40% of AliExpress Russia staff amid Ukraine war](https://www.reddit.com/r/news/comments/upyaqc/alibaba_lays_off_40_of_aliexpress_russia_staff/)
+- [Two more confirmed cases of monkeypox in England - BBC News](https://www.reddit.com/r/news/comments/upw5m1/two_more_confirmed_cases_of_monkeypox_in_england/)
+- [Ukraine win Eurovision with UK in second](https://www.reddit.com/r/news/comments/upssnc/ukraine_win_eurovision_with_uk_in_second/)
 <!-- REDDIT:END -->
 
 
