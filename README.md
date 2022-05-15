@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texans asked to turn up thermostats after sweltering heat knocks six power plants offline](https://www.reddit.com/r/news/comments/uptlqo/texans_asked_to_turn_up_thermostats_after/)
+- [Ukraine win Eurovision with UK in second](https://www.reddit.com/r/news/comments/upssnc/ukraine_win_eurovision_with_uk_in_second/)
+- [Meet the 100-year-old man who&#39;s worked at the same company for 84 years - CNN Video](https://www.reddit.com/r/news/comments/uprl6g/meet_the_100yearold_man_whos_worked_at_the_same/)
+- [Reward grows to $22,500 for arrest of escaped inmate serving life for murder](https://www.reddit.com/r/news/comments/upq57z/reward_grows_to_22500_for_arrest_of_escaped/)
+- [Russia denies Ukraine forces damaged navy ship in Black Sea](https://www.reddit.com/r/news/comments/uppxwa/russia_denies_ukraine_forces_damaged_navy_ship_in/)
 <!-- REDDIT:END -->
 
 
