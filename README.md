@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wildlife activists make 11th hour plea to save koalas before Victorian blue gums logged](https://www.reddit.com/r/news/comments/uq4mkp/wildlife_activists_make_11th_hour_plea_to_save/)
+- [Finland to Join NATO, President Niinisto Confirms](https://www.reddit.com/r/news/comments/uq45br/finland_to_join_nato_president_niinisto_confirms/)
+- [Finland will apply to join NATO, ditching decades of neutrality despite Russia&#39;s threats of retaliation](https://www.reddit.com/r/news/comments/uq3jpp/finland_will_apply_to_join_nato_ditching_decades/)
+- [Russian neighbor Finland announces it wants to join NATO](https://www.reddit.com/r/news/comments/uq32rn/russian_neighbor_finland_announces_it_wants_to/)
+- [Terrorists barge inside govt office in J&amp;K and assassinate Kashmiri Pandit](https://www.reddit.com/r/news/comments/uq32b9/terrorists_barge_inside_govt_office_in_jk_and/)
 <!-- REDDIT:END -->
 
 
