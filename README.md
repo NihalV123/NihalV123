@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine war: Sweden and Finland confirm Nato plans in historic shift](https://www.reddit.com/r/news/comments/uqnosy/ukraine_war_sweden_and_finland_confirm_nato_plans/)
+- [7 people injured in shooting in Winston-Salem](https://www.reddit.com/r/news/comments/uqnd4a/7_people_injured_in_shooting_in_winstonsalem/)
+- [Four people shot near Canal Walk in downtown Indianapolis](https://www.reddit.com/r/news/comments/uqna2m/four_people_shot_near_canal_walk_in_downtown/)
+- [Internet troll faces trial after Capitol riot plea fizzles](https://www.reddit.com/r/news/comments/uqmw5a/internet_troll_faces_trial_after_capitol_riot/)
+- [The emergency department at Dr. Helmcken Memorial Hospital in Clearwater, BC will be closed for the second evening in a row due to limited staff availability.](https://www.reddit.com/r/news/comments/uqmpa8/the_emergency_department_at_dr_helmcken_memorial/)
 <!-- REDDIT:END -->
 
 
