@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine: The children&#39;s camp that became an execution ground](https://www.reddit.com/r/news/comments/uqk3be/ukraine_the_childrens_camp_that_became_an/)
+- [Bird flu makes jump to mammals: three baby foxes die in Michigan](https://www.reddit.com/r/news/comments/uqk1s8/bird_flu_makes_jump_to_mammals_three_baby_foxes/)
+- [NATO&#39;s Stoltenberg says Russia&#39;s Ukraine offensive not going to plan](https://www.reddit.com/r/news/comments/uqjnoz/natos_stoltenberg_says_russias_ukraine_offensive/)
+- [Flood saves Ukrainian village from Russian occupation](https://www.reddit.com/r/news/comments/uqjme7/flood_saves_ukrainian_village_from_russian/)
+- [VIDEO: NJ police chief was passed out, pants down, on roadway in DWI arrest](https://www.reddit.com/r/news/comments/uqignt/video_nj_police_chief_was_passed_out_pants_down/)
 <!-- REDDIT:END -->
 
 
