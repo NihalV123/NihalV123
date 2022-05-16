@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Erdogan says Turkey will not approve Sweden and Finland Nato membership](https://www.reddit.com/r/news/comments/ur1bpd/erdogan_says_turkey_will_not_approve_sweden_and/)
+- [Jerusalem clergy: Israeli police &#39;violently intruded&#39; Abu Akleh&#39;s funeral](https://www.reddit.com/r/news/comments/ur0l81/jerusalem_clergy_israeli_police_violently/)
+- [Bear attacks woman heading to check her mail in New Jersey](https://www.reddit.com/r/news/comments/ur01vg/bear_attacks_woman_heading_to_check_her_mail_in/)
+- [Former top Republican lawmaker in Colorado received leak of voting data](https://www.reddit.com/r/news/comments/ur0062/former_top_republican_lawmaker_in_colorado/)
+- [Federal appeals court restores Texas&#39;s social media censorship law](https://www.reddit.com/r/news/comments/uqytw3/federal_appeals_court_restores_texass_social/)
 <!-- REDDIT:END -->
 
 
