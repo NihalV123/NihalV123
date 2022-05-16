@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Factbox: Companies that are selling their businesses in Russia](https://www.reddit.com/r/news/comments/uqtgng/factbox_companies_that_are_selling_their/)
+- [Dinesh Pandey Somap-Saamag CEO Link to Sri Lanka Military](https://www.reddit.com/r/news/comments/uqt6h8/dinesh_pandey_somapsaamag_ceo_link_to_sri_lanka/)
+- [Ukrainian troops reach Russian border near Kharkiv - governor](https://www.reddit.com/r/news/comments/uqt048/ukrainian_troops_reach_russian_border_near/)
+- [McDonald&#39;s to exit Russia after 30 years](https://www.reddit.com/r/news/comments/uqsro5/mcdonalds_to_exit_russia_after_30_years/)
+- [Delhi sizzles at 49C as heatwave sweeps India](https://www.reddit.com/r/news/comments/uqp0sl/delhi_sizzles_at_49c_as_heatwave_sweeps_india/)
 <!-- REDDIT:END -->
 
 
