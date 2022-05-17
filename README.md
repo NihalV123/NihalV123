@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [[Video] 2 Russian BMP-2 Tanks Gets Roasted in Minefield, Caught On Ukrainian drone](https://www.reddit.com/r/news/comments/urklhs/video_2_russian_bmp2_tanks_gets_roasted_in/)
+- [Hezbollah&#39;s coalition loses parliamentary majority in Lebanon&#39;s first vote after uprising, financial collapse](https://www.reddit.com/r/news/comments/urivb0/hezbollahs_coalition_loses_parliamentary_majority/)
+- [Tonga eruption was &#39;record atmospheric explosion&#39;](https://www.reddit.com/r/news/comments/urgan2/tonga_eruption_was_record_atmospheric_explosion/)
+- [Actress Zara Phythian and husband jailed for child sex offences](https://www.reddit.com/r/news/comments/urep48/actress_zara_phythian_and_husband_jailed_for/)
+- [Ukraine declares &#39;combat mission&#39; over in Mariupol amid evacuation](https://www.reddit.com/r/news/comments/urenc0/ukraine_declares_combat_mission_over_in_mariupol/)
 <!-- REDDIT:END -->
 
 
