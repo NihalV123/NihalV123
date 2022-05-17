@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Actress Zara Phythian and husband jailed for child sex offences](https://www.reddit.com/r/news/comments/urep48/actress_zara_phythian_and_husband_jailed_for/)
+- [Ukrainian speaks out after Russian troops buried him alive - CNN Video](https://www.reddit.com/r/news/comments/urdvwd/ukrainian_speaks_out_after_russian_troops_buried/)
+- [Controversy Over Alleged Bullying Incident at Coppell Middle School Campus](https://www.reddit.com/r/news/comments/urdfd1/controversy_over_alleged_bullying_incident_at/)
+- [Broken back leads to cancer discovery for Marine Corps veteran](https://www.reddit.com/r/news/comments/urbphj/broken_back_leads_to_cancer_discovery_for_marine/)
+- [Someone Shot The Johnny Cash Water Tower In Kingsland, Arkansas, And Now It’s Taking A Leak](https://www.reddit.com/r/news/comments/urbhnq/someone_shot_the_johnny_cash_water_tower_in/)
 <!-- REDDIT:END -->
 
 
