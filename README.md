@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tory MP arrested on suspicion of rape and banned from Commons – reports](https://www.reddit.com/r/news/comments/urqrvk/tory_mp_arrested_on_suspicion_of_rape_and_banned/)
+- [Suspect arrested in Dallas salon shooting as FBI opens hate crime investigation](https://www.reddit.com/r/news/comments/urqqfy/suspect_arrested_in_dallas_salon_shooting_as_fbi/)
+- [A teenager in Utah died after a tunnel he was digging in a sand dune collapsed](https://www.reddit.com/r/news/comments/urq1ue/a_teenager_in_utah_died_after_a_tunnel_he_was/)
+- [WATCH: Nebraska boy receives help from neighbor after drop at wrong bus stop](https://www.reddit.com/r/news/comments/urpgjq/watch_nebraska_boy_receives_help_from_neighbor/)
+- [Woman convicted of murdering baby she wanted to adopt](https://www.reddit.com/r/news/comments/urop9j/woman_convicted_of_murdering_baby_she_wanted_to/)
 <!-- REDDIT:END -->
 
 
