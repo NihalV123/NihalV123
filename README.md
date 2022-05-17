@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pentagon officials to testify on UFOs. Congress will hold its first public hearing on unidentified flying objects &lpar;UFOs&rpar; in more than half a century on Tuesday.](https://www.reddit.com/r/news/comments/ura44z/pentagon_officials_to_testify_on_ufos_congress/)
+- [Brittanee Drexel, missing New York teen, found dead after 13 years in South Carolina; man charged with murder](https://www.reddit.com/r/news/comments/ur9u5t/brittanee_drexel_missing_new_york_teen_found_dead/)
+- [Intel shareholders reject executive pay](https://www.reddit.com/r/news/comments/ur9i92/intel_shareholders_reject_executive_pay/)
+- [Hundreds of fighters evacuated from holdout Mariupol steel plant, Ukraine says](https://www.reddit.com/r/news/comments/ur93qg/hundreds_of_fighters_evacuated_from_holdout/)
+- [Ban on protests in front of homes signed by Gov. DeSantis](https://www.reddit.com/r/news/comments/ur7iyi/ban_on_protests_in_front_of_homes_signed_by_gov/)
 <!-- REDDIT:END -->
 
 
