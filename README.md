@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mother facing charges after second grade son brings gun to school, gun discharges](https://www.reddit.com/r/news/comments/usbeil/mother_facing_charges_after_second_grade_son/)
+- [US Soccer equalizes pay in milestone with women, men](https://www.reddit.com/r/news/comments/usb2z5/us_soccer_equalizes_pay_in_milestone_with_women/)
+- [White supremacists are convicted of training for a civil war in Michigan](https://www.reddit.com/r/news/comments/usavnu/white_supremacists_are_convicted_of_training_for/)
+- [Ukraine: The police officer who lost his family in one Russian strike](https://www.reddit.com/r/news/comments/us9c8k/ukraine_the_police_officer_who_lost_his_family_in/)
+- [In Texas Governor&#39;s race, differences emerge over grid reliability](https://www.reddit.com/r/news/comments/us96h8/in_texas_governors_race_differences_emerge_over/)
 <!-- REDDIT:END -->
 
 
