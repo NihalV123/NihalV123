@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DHS prepping for violence and even storming the Supreme Court](https://www.reddit.com/r/news/comments/usif8k/dhs_prepping_for_violence_and_even_storming_the/)
+- [Husband tells Pennsylvania school officials after learning of wife’s sexual involvement with student, reports say](https://www.reddit.com/r/news/comments/usghyt/husband_tells_pennsylvania_school_officials_after/)
+- [36-Year-Old Arrested in Dallas Salon Shooting, Possible Hate Crime](https://www.reddit.com/r/news/comments/usgaqi/36yearold_arrested_in_dallas_salon_shooting/)
+- [Woman charged after gun in son&#39;s backpack goes off at school](https://www.reddit.com/r/news/comments/usg2bo/woman_charged_after_gun_in_sons_backpack_goes_off/)
+- [Pollution responsible for one in six deaths across planet, scientists warn](https://www.reddit.com/r/news/comments/usensk/pollution_responsible_for_one_in_six_deaths/)
 <!-- REDDIT:END -->
 
 
