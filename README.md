@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Marcel Fontaine, falsely accused of being the Parkland shooter by Alex Jones, dies in apartment fire. He sued Jones and Infowars, paving the way for lawsuits by Sandy Hook parents.](https://www.reddit.com/r/news/comments/ut854a/marcel_fontaine_falsely_accused_of_being_the/)
+- [Afghanistan&#39;s female TV presenters must cover their faces, say Taliban - BBC News](https://www.reddit.com/r/news/comments/ut6tyn/afghanistans_female_tv_presenters_must_cover/)
+- [Hate crime charges announced against man accused of plotting shooting in Georgia](https://www.reddit.com/r/news/comments/ut6sxx/hate_crime_charges_announced_against_man_accused/)
+- [Moth species not seen since 1912 found in luggage at Detroit airport](https://www.reddit.com/r/news/comments/ut6bdy/moth_species_not_seen_since_1912_found_in_luggage/)
+- [Kidnapped woman saved after leaving note at KFC asking for help](https://www.reddit.com/r/news/comments/ut62e8/kidnapped_woman_saved_after_leaving_note_at_kfc/)
 <!-- REDDIT:END -->
 
 
