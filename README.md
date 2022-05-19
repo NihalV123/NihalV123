@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wrongly Accused US Man &quot;Cooked Alive&quot; After Being Tasered By Cop At Gas Station: Report](https://www.reddit.com/r/news/comments/usvsca/wrongly_accused_us_man_cooked_alive_after_being/)
+- [Feds Looking for More Insight into Cannabis Efficacy for Cancer Patients](https://www.reddit.com/r/news/comments/usut9d/feds_looking_for_more_insight_into_cannabis/)
+- [Man charged with bestiality after arrest at Sydney agricultural school](https://www.reddit.com/r/news/comments/ust5bw/man_charged_with_bestiality_after_arrest_at/)
+- [Western University LGBTQ poster sparks Muslim community backlash](https://www.reddit.com/r/news/comments/usrjh5/western_university_lgbtq_poster_sparks_muslim/)
+- [Amazon’s Twitch, Discord, 4chan face New York AG probe after Buffalo shooting](https://www.reddit.com/r/news/comments/uspsrr/amazons_twitch_discord_4chan_face_new_york_ag/)
 <!-- REDDIT:END -->
 
 
