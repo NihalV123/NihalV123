@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1st monkeypox case in US this year reported in Massachusetts](https://www.reddit.com/r/news/comments/uspxke/1st_monkeypox_case_in_us_this_year_reported_in/)
+- [Amazon’s Twitch, Discord, 4chan face New York AG probe after Buffalo shooting](https://www.reddit.com/r/news/comments/uspsrr/amazons_twitch_discord_4chan_face_new_york_ag/)
+- [Dow drops 1,100 points for its biggest decline since 2020 as the sell-off this year on Wall Street intensifies](https://www.reddit.com/r/news/comments/usncfo/dow_drops_1100_points_for_its_biggest_decline/)
+- [High schooler runs sub-4 minute mile, breaking record that had stood since 1965](https://www.reddit.com/r/news/comments/usnabn/high_schooler_runs_sub4_minute_mile_breaking/)
+- [Colorado Supreme Court rules in favor of woman who expected to pay $1,337 for surgery but was charged $303,709](https://www.reddit.com/r/news/comments/usminz/colorado_supreme_court_rules_in_favor_of_woman/)
 <!-- REDDIT:END -->
 
 
