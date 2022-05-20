@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. House of Representatives passes bill to limit price gouging on gas by gas companies](https://www.reddit.com/r/news/comments/utrqib/us_house_of_representatives_passes_bill_to_limit/)
+- [FBI failing to address white supremacist violence, warns former special agent](https://www.reddit.com/r/news/comments/utrb7t/fbi_failing_to_address_white_supremacist_violence/)
+- [First batch of infant formula headed to US from Switzerland](https://www.reddit.com/r/news/comments/utrazk/first_batch_of_infant_formula_headed_to_us_from/)
+- [Judge approved up to $31M in bonuses for Purdue employees](https://www.reddit.com/r/news/comments/utohme/judge_approved_up_to_31m_in_bonuses_for_purdue/)
+- [Highland Park to return seized building after asking for new police cars in exchange](https://www.reddit.com/r/news/comments/utm5ug/highland_park_to_return_seized_building_after/)
 <!-- REDDIT:END -->
 
 
