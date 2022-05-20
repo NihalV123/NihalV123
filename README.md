@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Heat wave engulfs East Coast with temperatures approaching 100 degrees](https://www.reddit.com/r/news/comments/uu2jk3/heat_wave_engulfs_east_coast_with_temperatures/)
+- [Dr. Scott Gottlieb says rising monkeypox cases suggest it&#39;s spread &#39;pretty wide&#39;](https://www.reddit.com/r/news/comments/uu2ixl/dr_scott_gottlieb_says_rising_monkeypox_cases/)
+- [Wells Fargo advisors fined $7 million by U.S. SEC for anti-money laundering lapses](https://www.reddit.com/r/news/comments/uu019a/wells_fargo_advisors_fined_7_million_by_us_sec/)
+- [Putin’s daughter flew to Munich ‘more than 50 times’ in two years, leaks reveal | Vladimir Putin | The Guardian](https://www.reddit.com/r/news/comments/utzoa0/putins_daughter_flew_to_munich_more_than_50_times/)
+- [Spain braces for heatwave of ‘extraordinary intensity’ | Spain | The Guardian](https://www.reddit.com/r/news/comments/utzm6h/spain_braces_for_heatwave_of_extraordinary/)
 <!-- REDDIT:END -->
 
 
