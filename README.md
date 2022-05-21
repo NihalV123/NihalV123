@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 1 dead, 44 injured after tornado strikes northern Michigan](https://www.reddit.com/r/news/comments/uug4td/at_least_1_dead_44_injured_after_tornado_strikes/)
+- [Highland Park seized their building; the price to get it back was 2 new police cars](https://www.reddit.com/r/news/comments/uudpsn/highland_park_seized_their_building_the_price_to/)
+- [Alex Jones back on the hook for damages after bankruptcy judge sends Sandy Hook cases to Texas court](https://www.reddit.com/r/news/comments/uucrj0/alex_jones_back_on_the_hook_for_damages_after/)
+- [A 17-year-old boy died by suicide hours after being scammed. The FBI says it&#39;s part of a troubling increase in &#39;sextortion&#39; cases.](https://www.reddit.com/r/news/comments/uuccp5/a_17yearold_boy_died_by_suicide_hours_after_being/)
+- [EXCLUSIVE: SFFD tries to keep firefighter&#39;s arrest, colleague&#39;s brutal beating under wraps](https://www.reddit.com/r/news/comments/uubc5g/exclusive_sffd_tries_to_keep_firefighters_arrest/)
 <!-- REDDIT:END -->
 
 
