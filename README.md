@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Woman Shocked After Being Charged $40 &quot;For Crying&quot; During Doctor&#39;s Visit](https://www.reddit.com/r/news/comments/uub3gx/us_woman_shocked_after_being_charged_40_for/)
+- [Tornado hits Gaylord, extensive damage reported](https://www.reddit.com/r/news/comments/uuaf4v/tornado_hits_gaylord_extensive_damage_reported/)
+- [Judge says CDC can&#39;t end the Title 42 rule that allows for quick expulsion of migrants](https://www.reddit.com/r/news/comments/uu9hhs/judge_says_cdc_cant_end_the_title_42_rule_that/)
+- [World Health Organization confirms 80 cases of monkeypox with outbreaks in 11 countries](https://www.reddit.com/r/news/comments/uu90l1/world_health_organization_confirms_80_cases_of/)
+- [School assignment shows Obama next to primates](https://www.reddit.com/r/news/comments/uu7lm7/school_assignment_shows_obama_next_to_primates/)
 <!-- REDDIT:END -->
 
 
