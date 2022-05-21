@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Historic heatwave poised to hit dozens of US states this weekend](https://www.reddit.com/r/news/comments/uukknb/historic_heatwave_poised_to_hit_dozens_of_us/)
+- [Laws restricting lessons on racism make it hard for teachers to discuss the massacre in Buffalo](https://www.reddit.com/r/news/comments/uuk48g/laws_restricting_lessons_on_racism_make_it_hard/)
+- [Camp cooker placed on stovetop explodes when electricity restored after blackout.](https://www.reddit.com/r/news/comments/uuk2v2/camp_cooker_placed_on_stovetop_explodes_when/)
+- [Monkeypox confirmed in Melbourne and Sydney](https://www.reddit.com/r/news/comments/uuitsn/monkeypox_confirmed_in_melbourne_and_sydney/)
+- [In a major milestone, Boeing&#39;s Starliner docks at International Space Station](https://www.reddit.com/r/news/comments/uugp1c/in_a_major_milestone_boeings_starliner_docks_at/)
 <!-- REDDIT:END -->
 
 
