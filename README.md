@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [57% of Americans want masks on planes and public transportation](https://www.reddit.com/r/news/comments/uvfc96/57_of_americans_want_masks_on_planes_and_public/)
+- [Report: Gunfire injures man in NYC subway; suspect at large](https://www.reddit.com/r/news/comments/uvf7st/report_gunfire_injures_man_in_nyc_subway_suspect/)
+- [1 dead, 8 injured after overnight shooting at California hookah lounge](https://www.reddit.com/r/news/comments/uve78h/1_dead_8_injured_after_overnight_shooting_at/)
+- [Dane sentenced to die in Nigeria for killing wife, daughter](https://www.reddit.com/r/news/comments/uvdjk6/dane_sentenced_to_die_in_nigeria_for_killing_wife/)
+- [First baby formula shipment arrives from Europe on U.S. military plane](https://www.reddit.com/r/news/comments/uvd104/first_baby_formula_shipment_arrives_from_europe/)
 <!-- REDDIT:END -->
 
 
