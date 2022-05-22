@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A father says he put 1,000 miles on his car to find specialty formula for premature infant daughter](https://www.reddit.com/r/news/comments/uv89wm/a_father_says_he_put_1000_miles_on_his_car_to/)
+- [Russia has banned the entry of five dead Americans, including John McCain](https://www.reddit.com/r/news/comments/uv5yiu/russia_has_banned_the_entry_of_five_dead/)
+- [Ukraine launches hotline &quot;2402&quot; for Russian soldiers to surrender after intercepting phone calls from Russian conscripts comparing their service to “slavery”.](https://www.reddit.com/r/news/comments/uv4yua/ukraine_launches_hotline_2402_for_russian/)
+- [2 dead, 3 injured in &#39;targeted&#39; shooting in northern Indiana, police say](https://www.reddit.com/r/news/comments/uv4396/2_dead_3_injured_in_targeted_shooting_in_northern/)
+- [Marijuana violations have taken over 10,000 truck drivers off the road this year, adding more supply chain disruptions](https://www.reddit.com/r/news/comments/uv3ja0/marijuana_violations_have_taken_over_10000_truck/)
 <!-- REDDIT:END -->
 
 
