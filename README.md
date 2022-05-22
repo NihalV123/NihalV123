@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Marijuana violations have taken over 10,000 truck drivers off the road this year, adding more supply chain disruptions](https://www.reddit.com/r/news/comments/uv3ja0/marijuana_violations_have_taken_over_10000_truck/)
+- [Woman Trips Running From Charging Bison, Plays Dead &amp; Misses Getting Ran Over At Yellowstone National Park](https://www.reddit.com/r/news/comments/uv3eyf/woman_trips_running_from_charging_bison_plays/)
+- [Charges dropped against rapper C-Blu accused of shooting NYPD officer](https://www.reddit.com/r/news/comments/uv1pc0/charges_dropped_against_rapper_cblu_accused_of/)
+- [Russia may be running out of crucial targeting drones; brutal siege of Mariupol steel plant ends](https://www.reddit.com/r/news/comments/uv0r04/russia_may_be_running_out_of_crucial_targeting/)
+- [Some Jif peanut butter products linked to salmonella cases](https://www.reddit.com/r/news/comments/uv04l5/some_jif_peanut_butter_products_linked_to/)
 <!-- REDDIT:END -->
 
 
