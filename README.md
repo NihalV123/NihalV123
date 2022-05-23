@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fairfax County teacher arrested, charged with possession of child pornography](https://www.reddit.com/r/news/comments/uvnty0/fairfax_county_teacher_arrested_charged_with/)
+- [More than 100 confirmed or suspected cases of monkeypox have been reported in 12 countries, including the US - CNN](https://www.reddit.com/r/news/comments/uvn2av/more_than_100_confirmed_or_suspected_cases_of/)
+- [Ukraine forces prepare for possible attack on Belarusian border](https://www.reddit.com/r/news/comments/uvmtua/ukraine_forces_prepare_for_possible_attack_on/)
+- [YouTube removes more than 9,000 channels relating to Ukraine war](https://www.reddit.com/r/news/comments/uvmp6v/youtube_removes_more_than_9000_channels_relating/)
+- [48-year-old man fatally shot on New York City subway train](https://www.reddit.com/r/news/comments/uvl3xo/48yearold_man_fatally_shot_on_new_york_city/)
 <!-- REDDIT:END -->
 
 
