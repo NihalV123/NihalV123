@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [HSBC suspends head of responsible investing who called climate warnings ‘shrill’ | The Guardian](https://www.reddit.com/r/news/comments/uvs56j/hsbc_suspends_head_of_responsible_investing_who/)
+- [78,000 pounds of infant formula arrives in US](https://www.reddit.com/r/news/comments/uvrhhd/78000_pounds_of_infant_formula_arrives_in_us/)
+- [Housing market struggles continue throughout Florida](https://www.reddit.com/r/news/comments/uvq6fk/housing_market_struggles_continue_throughout/)
+- [Multiple deadly tornado producing storms ravaged through Germany](https://www.reddit.com/r/news/comments/uvq1zr/multiple_deadly_tornado_producing_storms_ravaged/)
+- [UN denounces ‘homophobic and racist’ reporting on monkeypox spread](https://www.reddit.com/r/news/comments/uvpkwj/un_denounces_homophobic_and_racist_reporting_on/)
 <!-- REDDIT:END -->
 
 
