@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BBC News: Nazanin Zaghari-Ratcliffe says Iran made her confess as a condition of her release](https://www.reddit.com/r/news/comments/uvylgc/bbc_news_nazanin_zaghariratcliffe_says_iran_made/)
+- [Ukraine court jails Russian soldier for life in war crimes trial](https://www.reddit.com/r/news/comments/uvxeuk/ukraine_court_jails_russian_soldier_for_life_in/)
+- [Store employees fight off hammer-swinging thieves during Newport Beach smash-and-grab robbery: video](https://www.reddit.com/r/news/comments/uvvovr/store_employees_fight_off_hammerswinging_thieves/)
+- [Birmingham Children&#39;s Hospital worker held over &#39;poisoning&#39; of child](https://www.reddit.com/r/news/comments/uvuqvw/birmingham_childrens_hospital_worker_held_over/)
+- [Ukraine rules out territorial concessions, as Russia steps up attacks](https://www.reddit.com/r/news/comments/uvswrm/ukraine_rules_out_territorial_concessions_as/)
 <!-- REDDIT:END -->
 
 
