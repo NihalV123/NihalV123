@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Juveniles Crash Stolen Car into White House Security Barrier: Secret Service](https://www.reddit.com/r/news/comments/uwp5i3/juveniles_crash_stolen_car_into_white_house/)
+- [After 3 months, Russia still bogged down in Ukraine war](https://www.reddit.com/r/news/comments/uwo9n2/after_3_months_russia_still_bogged_down_in/)
+- [Kazakhstan to hold constitutional referendum that strips Nazarbayev&#39;s immunity and restricts power of president in the government](https://www.reddit.com/r/news/comments/uwnkpx/kazakhstan_to_hold_constitutional_referendum_that/)
+- [Russia does not respect Irish neutrality, says French ambassador](https://www.reddit.com/r/news/comments/uwjrn6/russia_does_not_respect_irish_neutrality_says/)
+- [Man arrested for hit-and-run death of bicyclist, Buckeye Police say](https://www.reddit.com/r/news/comments/uwjrkn/man_arrested_for_hitandrun_death_of_bicyclist/)
 <!-- REDDIT:END -->
 
 
