@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China&#39;s grand plan to invade Taiwan has been recorded and leaked by a senior member of the Chinese communist party.](https://www.reddit.com/r/news/comments/uwi554/chinas_grand_plan_to_invade_taiwan_has_been/)
+- [Business owner and sons charged for zip-tying, kidnapping and assaulting alleged thief for 45 minutes before law enforcement arrived](https://www.reddit.com/r/news/comments/uwhoqh/business_owner_and_sons_charged_for_ziptying/)
+- [Boris Johnson pictured drinking at No 10 lockdown event](https://www.reddit.com/r/news/comments/uwgzba/boris_johnson_pictured_drinking_at_no_10_lockdown/)
+- [Multiple Cars Damaged in Miami Tesla Dealership Fire Caught on Camera](https://www.reddit.com/r/news/comments/uwgec2/multiple_cars_damaged_in_miami_tesla_dealership/)
+- [Teenage girl traumatised after police strip-search, says mum](https://www.reddit.com/r/news/comments/uwfphu/teenage_girl_traumatised_after_police_stripsearch/)
 <!-- REDDIT:END -->
 
 
