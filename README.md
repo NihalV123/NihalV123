@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bill Gates says Covid risks have ‘dramatically reduced’ but another pandemic is coming](https://www.reddit.com/r/news/comments/uxf4u0/bill_gates_says_covid_risks_have_dramatically/)
+- [Exxon must go to trial over alleged climate crimes, court rules](https://www.reddit.com/r/news/comments/uxf3bx/exxon_must_go_to_trial_over_alleged_climate/)
+- [Russia pushed closer to brink of default after U.S. payment license expires](https://www.reddit.com/r/news/comments/uxdkns/russia_pushed_closer_to_brink_of_default_after_us/)
+- [Walmart apologizes for selling Juneteenth ice cream](https://www.reddit.com/r/news/comments/uxd9gm/walmart_apologizes_for_selling_juneteenth_ice/)
+- [‘Pure joy’: Grandma earns college degree at age 84](https://www.reddit.com/r/news/comments/uxavuw/pure_joy_grandma_earns_college_degree_at_age_84/)
 <!-- REDDIT:END -->
 
 
