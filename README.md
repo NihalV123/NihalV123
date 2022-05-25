@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexico providing consular assistance in wake of school shooting](https://www.reddit.com/r/news/comments/ux9s52/mexico_providing_consular_assistance_in_wake_of/)
+- [Woman arrested after reportedly scamming 70-year-old Tiverton man out of thousands of dollars](https://www.reddit.com/r/news/comments/ux7q7l/woman_arrested_after_reportedly_scamming/)
+- [State Farm drops support of LGBTQ kids books after conservative furor](https://www.reddit.com/r/news/comments/ux7m1s/state_farm_drops_support_of_lgbtq_kids_books/)
+- [Husband shoots and kills his wife because she &#39;startled him,&#39; Tempe Police say](https://www.reddit.com/r/news/comments/ux7io1/husband_shoots_and_kills_his_wife_because_she/)
+- [Man kills wife, teen girls before shooting himself in front of police, Alabama cops say](https://www.reddit.com/r/news/comments/ux7byn/man_kills_wife_teen_girls_before_shooting_himself/)
 <!-- REDDIT:END -->
 
 
