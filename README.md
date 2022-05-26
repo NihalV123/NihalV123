@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oklahoma governor signs the nation’s strictest abortion ban](https://www.reddit.com/r/news/comments/uxvcte/oklahoma_governor_signs_the_nations_strictest/)
+- [Richardson ISD student arrested after gun found in vehicle near Berkner High School, police say](https://www.reddit.com/r/news/comments/uxu1nl/richardson_isd_student_arrested_after_gun_found/)
+- [UK baby milk maker to fly formula to US to help ease shortages](https://www.reddit.com/r/news/comments/uxtsud/uk_baby_milk_maker_to_fly_formula_to_us_to_help/)
+- [&#39;This Old House&#39; legend Norm Abram set to retire](https://www.reddit.com/r/news/comments/uxtgr0/this_old_house_legend_norm_abram_set_to_retire/)
+- [Man arrested for threatening to blow up Tyler Perry Studios](https://www.reddit.com/r/news/comments/uxs6sg/man_arrested_for_threatening_to_blow_up_tyler/)
 <!-- REDDIT:END -->
 
 
