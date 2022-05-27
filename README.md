@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Commander made ‘wrong decision’ not to enter classroom](https://www.reddit.com/r/news/comments/uz3ios/commander_made_wrong_decision_not_to_enter/)
+- [Shooter entered school through propped open door, had over 1,600 rounds of ammunition](https://www.reddit.com/r/news/comments/uz383g/shooter_entered_school_through_propped_open_door/)
+- [Official: Kids to 911 during siege: &#39;Please send the police&#39;](https://www.reddit.com/r/news/comments/uz2hef/official_kids_to_911_during_siege_please_send_the/)
+- [&#39;Good night&#39;: Uvalde school shooting survivors describe gunman&#39;s words before opening fire](https://www.reddit.com/r/news/comments/uz29pa/good_night_uvalde_school_shooting_survivors/)
+- [Judge dismisses Trump federal lawsuit against New York Attorney General Letitia James over her probe of business](https://www.reddit.com/r/news/comments/uz22fh/judge_dismisses_trump_federal_lawsuit_against_new/)
 <!-- REDDIT:END -->
 
 
