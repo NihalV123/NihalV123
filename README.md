@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal agents entered Uvalde school to kill gunman despite local police initially asking them to wait](https://www.reddit.com/r/news/comments/uzbk11/federal_agents_entered_uvalde_school_to_kill/)
+- [Protesters&#39; anguished shouts fail to dampen gun enthusiasm at NRA convention in Houston](https://www.reddit.com/r/news/comments/uzaqq3/protesters_anguished_shouts_fail_to_dampen_gun/)
+- [No state charge for billionaire Sanford in child porn probe](https://www.reddit.com/r/news/comments/uz9sfa/no_state_charge_for_billionaire_sanford_in_child/)
+- [Jury finds alleged Nazi sympathizer guilty of 5 charges ranging from obstruction to disorderly conduct in Jan. 6 case](https://www.reddit.com/r/news/comments/uz9oub/jury_finds_alleged_nazi_sympathizer_guilty_of_5/)
+- [A grisly checklist and a sickening rampage: Inside the Uvalde massacre](https://www.reddit.com/r/news/comments/uz8xdt/a_grisly_checklist_and_a_sickening_rampage_inside/)
 <!-- REDDIT:END -->
 
 
