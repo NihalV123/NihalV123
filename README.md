@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man arrested in connection with &quot;school shooter&quot; signs found in 3 New Hampshire communities](https://www.reddit.com/r/news/comments/uzlhs9/man_arrested_in_connection_with_school_shooter/)
+- [US: Turkey&#39;s NATO issues with Sweden, Finland will be fixed](https://www.reddit.com/r/news/comments/uzkgrk/us_turkeys_nato_issues_with_sweden_finland_will/)
+- [DC Man Pleads Guilty to Assaulting Asian Family](https://www.reddit.com/r/news/comments/uzhq09/dc_man_pleads_guilty_to_assaulting_asian_family/)
+- [Students at Winnipeg school find body during community cleanup: Pembina Trails School Division](https://www.reddit.com/r/news/comments/uzfeug/students_at_winnipeg_school_find_body_during/)
+- [Maker of Uvalde shooter’s rifle posted image of child with gun before massacre](https://www.reddit.com/r/news/comments/uzeqvn/maker_of_uvalde_shooters_rifle_posted_image_of/)
 <!-- REDDIT:END -->
 
 
