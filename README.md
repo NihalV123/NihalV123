@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Taiwan jets scramble as China air force enters air defence zone](https://www.reddit.com/r/news/comments/v14ory/taiwan_jets_scramble_as_china_air_force_enters/)
+- [More than 6,000 flights canceled so far over Memorial Day weekend](https://www.reddit.com/r/news/comments/v1438w/more_than_6000_flights_canceled_so_far_over/)
+- [FDA investigating hepatitis A outbreak possibly linked to fresh strawberries](https://www.reddit.com/r/news/comments/v13sxz/fda_investigating_hepatitis_a_outbreak_possibly/)
+- [250 mummies in coffins among latest discoveries from Egypt&#39;s Saqqara treasure trove](https://www.reddit.com/r/news/comments/v13sto/250_mummies_in_coffins_among_latest_discoveries/)
+- [Man makes it his mission to interview World War II veterans and share their stories](https://www.reddit.com/r/news/comments/v13gqj/man_makes_it_his_mission_to_interview_world_war/)
 <!-- REDDIT:END -->
 
 
