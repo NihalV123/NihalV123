@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Disney+ adds warning label to &#39;Obi-Wan Kenobi&#39; following Uvalde school shooting](https://www.reddit.com/r/news/comments/v0o2ec/disney_adds_warning_label_to_obiwan_kenobi/)
+- [Israeli nationalists chant racist slogans in Jerusalem march](https://www.reddit.com/r/news/comments/v0l9v9/israeli_nationalists_chant_racist_slogans_in/)
+- [Justin Moreira of Hyannis charged with threatening to commit school shooting](https://www.reddit.com/r/news/comments/v0l5vr/justin_moreira_of_hyannis_charged_with/)
+- [Pelosi&#39;s husband arrested for DUI](https://www.reddit.com/r/news/comments/v0kpy3/pelosis_husband_arrested_for_dui/)
+- [1-year-old child shot, killed in downtown Pittsburgh](https://www.reddit.com/r/news/comments/v0kjba/1yearold_child_shot_killed_in_downtown_pittsburgh/)
 <!-- REDDIT:END -->
 
 
