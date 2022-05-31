@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wichita police investigate deadly shooting as possible hate crime](https://www.reddit.com/r/news/comments/v1djp3/wichita_police_investigate_deadly_shooting_as/)
+- [EU agrees on partial ban of Russian oil imports](https://www.reddit.com/r/news/comments/v1d6vc/eu_agrees_on_partial_ban_of_russian_oil_imports/)
+- [Passengers scream as world’s longest cruise ship crashes into Jamaican pier](https://www.reddit.com/r/news/comments/v1c8dl/passengers_scream_as_worlds_longest_cruise_ship/)
+- [Army veteran&#39;s final wish granted, skydives one last time](https://www.reddit.com/r/news/comments/v1bfh8/army_veterans_final_wish_granted_skydives_one/)
+- [Fed Governor Christopher Waller says he’s prepared to take rates past ‘neutral’ to fight inflation](https://www.reddit.com/r/news/comments/v1b4lm/fed_governor_christopher_waller_says_hes_prepared/)
 <!-- REDDIT:END -->
 
 
