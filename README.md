@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gun-brandishing lawyer-couple asks Supreme Court to nix sanctions](https://www.reddit.com/r/news/comments/v1w057/gunbrandishing_lawyercouple_asks_supreme_court_to/)
+- [A doctor claimed he had a ‘miracle cure’ for covid. He’s going to prison.](https://www.reddit.com/r/news/comments/v1v6s6/a_doctor_claimed_he_had_a_miracle_cure_for_covid/)
+- [&#39;Very angry&#39;: Uvalde locals grapple with school chief&#39;s role](https://www.reddit.com/r/news/comments/v1uz7l/very_angry_uvalde_locals_grapple_with_school/)
+- [As pools and beaches open for Memorial Day, experts warn a nationwide lifeguard shortage could prove deadly](https://www.reddit.com/r/news/comments/v1u0hd/as_pools_and_beaches_open_for_memorial_day/)
+- [Police: Drunk driver crashes, heads straight to dealership to try to sell damaged car with missing tire](https://www.reddit.com/r/news/comments/v1tqun/police_drunk_driver_crashes_heads_straight_to/)
 <!-- REDDIT:END -->
 
 
