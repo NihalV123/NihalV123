@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Company to Las Vegas chapels: No more Elvis-themed weddings](https://www.reddit.com/r/news/comments/v25ae8/company_to_las_vegas_chapels_no_more_elvisthemed/)
+- [Phoenix father, son accused of killing man trying to steal catalytic converter](https://www.reddit.com/r/news/comments/v234ym/phoenix_father_son_accused_of_killing_man_trying/)
+- [Teacher Closed Propped-Open Door Before Uvalde School Shooting: Police](https://www.reddit.com/r/news/comments/v215p7/teacher_closed_proppedopen_door_before_uvalde/)
+- [Uvalde police, school district no longer cooperating with Texas probe of shooting](https://www.reddit.com/r/news/comments/v20npc/uvalde_police_school_district_no_longer/)
+- [Falklands &#39;an open wound&#39; says Argentina ambassador - BBC News](https://www.reddit.com/r/news/comments/v1zxba/falklands_an_open_wound_says_argentina_ambassador/)
 <!-- REDDIT:END -->
 
 
