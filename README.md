@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Johnny Depp-Amber Heard trial: Jury reaches verdict](https://www.reddit.com/r/news/comments/v2mmvl/johnny_deppamber_heard_trial_jury_reaches_verdict/)
+- [Hinckley, who shot Reagan in 1981, granted full freedom](https://www.reddit.com/r/news/comments/v2m3g3/hinckley_who_shot_reagan_in_1981_granted_full/)
+- [WHO says there are more than 550 monkeypox cases globally](https://www.reddit.com/r/news/comments/v2lad0/who_says_there_are_more_than_550_monkeypox_cases/)
+- [Dow falls 300 points to start June, as worries mount over economic growth — CNBC](https://www.reddit.com/r/news/comments/v2kof2/dow_falls_300_points_to_start_june_as_worries/)
+- [Elon Musk tells Tesla employees: Return to the office, or else](https://www.reddit.com/r/news/comments/v2klpb/elon_musk_tells_tesla_employees_return_to_the/)
 <!-- REDDIT:END -->
 
 
