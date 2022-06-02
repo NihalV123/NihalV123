@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde school district police chief declines to answer CNN questions in first public comments in a week](https://www.reddit.com/r/news/comments/v2vuxk/uvalde_school_district_police_chief_declines_to/)
+- [Biden to devote $2.1 bln of new funds to strengthen US food supply chain.](https://www.reddit.com/r/news/comments/v2uwit/biden_to_devote_21_bln_of_new_funds_to_strengthen/)
+- [Rival climate groups deflate SUV tyres in Glasgow and Edinburgh: Deflationists and Tyre Extinguishers both say they want to make SUV ownership impossible in urban areas](https://www.reddit.com/r/news/comments/v2to9p/rival_climate_groups_deflate_suv_tyres_in_glasgow/)
+- [Apparent active shooter at medical facility in Tulsa, Oklahoma.](https://www.reddit.com/r/news/comments/v2tbt6/apparent_active_shooter_at_medical_facility_in/)
+- [&#39; I felt like crying.&#39; River Valley alumni&#39;s anti-gay commencement speech sparks outrage](https://www.reddit.com/r/news/comments/v2t47h/i_felt_like_crying_river_valley_alumnis_antigay/)
 <!-- REDDIT:END -->
 
 
