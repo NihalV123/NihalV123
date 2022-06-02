@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dogs can detect Covid with high accuracy, even asymptomatic cases](https://www.reddit.com/r/news/comments/v36zjw/dogs_can_detect_covid_with_high_accuracy_even/)
+- [During the Uvalde shooting, an off-duty federal agent&#39;s wife texted him for help. &quot;I asked my barber if he had a gun,&quot; he said.](https://www.reddit.com/r/news/comments/v36nrw/during_the_uvalde_shooting_an_offduty_federal/)
+- [Florida County schools district announces partnership with company specializing in security doors and glass, “Armoured One”, says it can slow down or prevent a shooter from getting into a classroom.](https://www.reddit.com/r/news/comments/v3661j/florida_county_schools_district_announces/)
+- [Groups urge U.S. to probe &#39;loot box&#39; on Electronic Arts video game](https://www.reddit.com/r/news/comments/v363n3/groups_urge_us_to_probe_loot_box_on_electronic/)
+- [Treasury Secretary Janet Yellen admits she was &#39;wrong&#39; about inflation](https://www.reddit.com/r/news/comments/v32jsy/treasury_secretary_janet_yellen_admits_she_was/)
 <!-- REDDIT:END -->
 
 
