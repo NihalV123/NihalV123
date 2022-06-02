@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boy, 8, on vacation in S. Carolina killed by man shooting at random cars, officials say](https://www.reddit.com/r/news/comments/v30kgu/boy_8_on_vacation_in_s_carolina_killed_by_man/)
+- [Sweeping water restrictions begin in Southern California as drought worsens](https://www.reddit.com/r/news/comments/v2y3yu/sweeping_water_restrictions_begin_in_southern/)
+- [Husband of choir director busts wife for alleged sexual relationship with female student](https://www.reddit.com/r/news/comments/v2xeue/husband_of_choir_director_busts_wife_for_alleged/)
+- [Mother killed, her son and nephew injured after captain cuts parasailing line, officials say — NBC News](https://www.reddit.com/r/news/comments/v2xeq7/mother_killed_her_son_and_nephew_injured_after/)
+- [America&#39;s last Howard Johnson&#39;s restaurant has closed](https://www.reddit.com/r/news/comments/v2xdus/americas_last_howard_johnsons_restaurant_has/)
 <!-- REDDIT:END -->
 
 
