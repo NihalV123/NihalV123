@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [EPA moves to give states, tribes more power to protect water](https://www.reddit.com/r/news/comments/v3dtfg/epa_moves_to_give_states_tribes_more_power_to/)
+- [Harvey Weinstein’s rape conviction upheld by appeals court](https://www.reddit.com/r/news/comments/v3dp5m/harvey_weinsteins_rape_conviction_upheld_by/)
+- [Police Release Photo After Witnesses Claimed ‘Unarmed’ Pregnant Women Was Shot 5 Times During Arrest](https://www.reddit.com/r/news/comments/v3dkr5/police_release_photo_after_witnesses_claimed/)
+- [U.S. lawyer Avenatti sentenced to four years prison for defrauding Stormy Daniels](https://www.reddit.com/r/news/comments/v3box8/us_lawyer_avenatti_sentenced_to_four_years_prison/)
+- [Texas power use to break all-time high next week](https://www.reddit.com/r/news/comments/v3aj3f/texas_power_use_to_break_alltime_high_next_week/)
 <!-- REDDIT:END -->
 
 
