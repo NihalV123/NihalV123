@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: Man in Texas smashes ancient museum artifacts worth millions](https://www.reddit.com/r/news/comments/v3ls0i/police_man_in_texas_smashes_ancient_museum/)
+- [Multiple shots fired, unknown number of victims at Racine&#39;s Graceland Cemetery during funeral for man killed by police](https://www.reddit.com/r/news/comments/v3kion/multiple_shots_fired_unknown_number_of_victims_at/)
+- [The energy in nuclear waste could power the U.S. for 100 years, but the technology was never commercialized](https://www.reddit.com/r/news/comments/v3ke36/the_energy_in_nuclear_waste_could_power_the_us/)
+- [Father and son craft 19 custom caskets for the Uvalde shooting victims](https://www.reddit.com/r/news/comments/v3jvbq/father_and_son_craft_19_custom_caskets_for_the/)
+- [Multiple People Injured in Shooting at Wisconsin Cemetery During Funeral](https://www.reddit.com/r/news/comments/v3jafj/multiple_people_injured_in_shooting_at_wisconsin/)
 <!-- REDDIT:END -->
 
 
