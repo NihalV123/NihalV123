@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hidden Fees On Concert Tickets Will Be Banned Under New York Bill](https://www.reddit.com/r/news/comments/v4t2j8/hidden_fees_on_concert_tickets_will_be_banned/)
+- [Real estate agents got $3.9 billion in Covid relief PPP loans. The housing market boomed, but few repaid the loans.](https://www.reddit.com/r/news/comments/v4syk1/real_estate_agents_got_39_billion_in_covid_relief/)
+- [Another mass shooting today. Woman killed in shooting at Phoenix strip mall, 8 others injured](https://www.reddit.com/r/news/comments/v4sugu/another_mass_shooting_today_woman_killed_in/)
+- [Russia ‘suffering huge casualties’ as troops retreat: Ukraine | Russia-Ukraine war News](https://www.reddit.com/r/news/comments/v4sb4g/russia_suffering_huge_casualties_as_troops/)
+- [Original Gerber baby Ann Turner Cook dies](https://www.reddit.com/r/news/comments/v4s4lu/original_gerber_baby_ann_turner_cook_dies/)
 <!-- REDDIT:END -->
 
 
