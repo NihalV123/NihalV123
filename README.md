@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alleged &#39;boogaloo&#39; extremist sentenced to 41 years in murder of federal officer | The former Air Force staff sergeant pleaded guilty in the May 2020 murder of David Patrick Underwood.](https://www.reddit.com/r/news/comments/v4hyel/alleged_boogaloo_extremist_sentenced_to_41_years/)
+- [Ukraine Claims To Have Recaptured Portion of Sievierodonetsk Amid Continued Donbas Offensive](https://www.reddit.com/r/news/comments/v4gtyx/ukraine_claims_to_have_recaptured_portion_of/)
+- [Grandfather, 4 grandchildren killed by escaped Texas inmate are identified](https://www.reddit.com/r/news/comments/v4gj27/grandfather_4_grandchildren_killed_by_escaped/)
+- [Disney sends custom &#39;Encanto&#39; dress to Uvalde family to honor school shooting victim](https://www.reddit.com/r/news/comments/v4f3ml/disney_sends_custom_encanto_dress_to_uvalde/)
+- [Nearly half of families with kids can no longer afford enough food 5 months after child tax credit ended](https://www.reddit.com/r/news/comments/v4f36w/nearly_half_of_families_with_kids_can_no_longer/)
 <!-- REDDIT:END -->
 
 
