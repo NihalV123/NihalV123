@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China: No Justice 33 Years after Tiananmen Massacre, says Human Rights Watch](https://www.reddit.com/r/news/comments/v522le/china_no_justice_33_years_after_tiananmen/)
+- [5 teens shot, two critical, in ‘targeted’ graduation party shooting in Socorro; police ‘confident’ they’ll find suspect](https://www.reddit.com/r/news/comments/v521s7/5_teens_shot_two_critical_in_targeted_graduation/)
+- [A Canadian hiker has died at the Grand Canyon](https://www.reddit.com/r/news/comments/v4zfsx/a_canadian_hiker_has_died_at_the_grand_canyon/)
+- [Suspected shooter who killed retired Wisconsin judge in ‘targeted’ attack identified](https://www.reddit.com/r/news/comments/v4z3a7/suspected_shooter_who_killed_retired_wisconsin/)
+- [4 killed, 97 injured in Chittagong Container Depot fire](https://www.reddit.com/r/news/comments/v4ykt6/4_killed_97_injured_in_chittagong_container_depot/)
 <!-- REDDIT:END -->
 
 
