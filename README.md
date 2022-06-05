@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 dead, at least 11 wounded in shooting in downtown Philadelphia](https://www.reddit.com/r/news/comments/v5ibvd/3_dead_at_least_11_wounded_in_shooting_in/)
+- [Students of color push back on calls for police in schools](https://www.reddit.com/r/news/comments/v5i5vd/students_of_color_push_back_on_calls_for_police/)
+- [Nadal wins 14th French Open title, 22nd Slam](https://www.reddit.com/r/news/comments/v5h73e/nadal_wins_14th_french_open_title_22nd_slam/)
+- [Marriott to suspend all of its operations in Russia](https://www.reddit.com/r/news/comments/v5g460/marriott_to_suspend_all_of_its_operations_in/)
+- [Gang shooting leaves eight victims at Summerton graduation party](https://www.reddit.com/r/news/comments/v5fbfe/gang_shooting_leaves_eight_victims_at_summerton/)
 <!-- REDDIT:END -->
 
 
