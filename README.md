@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Legal claims shed light on founder of faith group tied to Amy Coney Barrett](https://www.reddit.com/r/news/comments/v617ds/legal_claims_shed_light_on_founder_of_faith_group/)
+- [VIDEO: Taiwan and US sign trade initiative](https://www.reddit.com/r/news/comments/v6121z/video_taiwan_and_us_sign_trade_initiative/)
+- [At least 12 dead in another weekend of mass shootings across America](https://www.reddit.com/r/news/comments/v60rnw/at_least_12_dead_in_another_weekend_of_mass/)
+- [Amino acids found in asteroid samples collected by Hayabusa2 probe](https://www.reddit.com/r/news/comments/v5vz6n/amino_acids_found_in_asteroid_samples_collected/)
+- [Woman performing oral sex on driver causes vehicle to crash into FedEx truck, officials say](https://www.reddit.com/r/news/comments/v5vs77/woman_performing_oral_sex_on_driver_causes/)
 <!-- REDDIT:END -->
 
 
