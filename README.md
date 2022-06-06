@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lakota elders helped a white man preserve their language. Then he tried to sell it back to them.](https://www.reddit.com/r/news/comments/v5v21t/lakota_elders_helped_a_white_man_preserve_their/)
+- [3 dead, 11 injured after shooting on South Street in Philadelphia](https://www.reddit.com/r/news/comments/v5uzbb/3_dead_11_injured_after_shooting_on_south_street/)
+- [Christopher Pratt, legendary Canadian painter, dead at 86](https://www.reddit.com/r/news/comments/v5tm5x/christopher_pratt_legendary_canadian_painter_dead/)
+- [30 dogs, cats found dead in animal rescue CEO&#39;s home](https://www.reddit.com/r/news/comments/v5t4w1/30_dogs_cats_found_dead_in_animal_rescue_ceos_home/)
+- [Pregnant woman gang-raped in Pakistan&#39;s Punjab](https://www.reddit.com/r/news/comments/v5snn9/pregnant_woman_gangraped_in_pakistans_punjab/)
 <!-- REDDIT:END -->
 
 
