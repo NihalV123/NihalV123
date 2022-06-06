@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rectal Cancer Disappears After Experimental Use of Immunotherapy](https://www.reddit.com/r/news/comments/v5py12/rectal_cancer_disappears_after_experimental_use/)
+- [3 people killed in early morning shooting in Michigan](https://www.reddit.com/r/news/comments/v5ps8y/3_people_killed_in_early_morning_shooting_in/)
+- [Victim of hit-and-run in Venice outraged over juvenile suspect&#39;s sentence](https://www.reddit.com/r/news/comments/v5oggu/victim_of_hitandrun_in_venice_outraged_over/)
+- [California teen arrested for allegedly threatening to shoot &#39;up a school,&#39; possession of &#39;ghost gun&#39;](https://www.reddit.com/r/news/comments/v5o6v0/california_teen_arrested_for_allegedly/)
+- [Former Bon Jovi bassist, founding member Alec John Such dies](https://www.reddit.com/r/news/comments/v5nnk7/former_bon_jovi_bassist_founding_member_alec_john/)
 <!-- REDDIT:END -->
 
 
