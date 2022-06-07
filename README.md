@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [EXPLAINER: Hundreds charged with crimes in Capitol attack](https://www.reddit.com/r/news/comments/v6n9n9/explainer_hundreds_charged_with_crimes_in_capitol/)
+- [Mark Cuban aims to lower prescription drug prices with online pharmacy](https://www.reddit.com/r/news/comments/v6lu55/mark_cuban_aims_to_lower_prescription_drug_prices/)
+- [Man Injured in Shooting Inside Library in San Jose: Police](https://www.reddit.com/r/news/comments/v6l9m5/man_injured_in_shooting_inside_library_in_san/)
+- [The U.S. has discarded over 82 million Covid vaccine doses, led by CVS and Walmart](https://www.reddit.com/r/news/comments/v6kx85/the_us_has_discarded_over_82_million_covid/)
+- [Report: The &#39;mind-blowingly enormous&#39; money Tiger Woods declined to join LIV Golf](https://www.reddit.com/r/news/comments/v6k7vs/report_the_mindblowingly_enormous_money_tiger/)
 <!-- REDDIT:END -->
 
 
