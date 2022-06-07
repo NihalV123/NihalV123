@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&quot;First Time In History&quot;: Cancer Vanishes For Every Patient In Drug Trial](https://www.reddit.com/r/news/comments/v6tiu7/first_time_in_history_cancer_vanishes_for_every/)
+- [OnlyFans says it&#39;s not seeing a Netflix-like slowdown in subscribers despite rising inflation](https://www.reddit.com/r/news/comments/v6tbg5/onlyfans_says_its_not_seeing_a_netflixlike/)
+- [Arizona police placed on leave after watching man drown](https://www.reddit.com/r/news/comments/v6p6u6/arizona_police_placed_on_leave_after_watching_man/)
+- [&#39;Act like you&#39;re asleep&#39;: Wounded Uvalde teacher recounts chilling moment he 1st saw gunman](https://www.reddit.com/r/news/comments/v6nswl/act_like_youre_asleep_wounded_uvalde_teacher/)
+- [EXPLAINER: Hundreds charged with crimes in Capitol attack](https://www.reddit.com/r/news/comments/v6n9n9/explainer_hundreds_charged_with_crimes_in_capitol/)
 <!-- REDDIT:END -->
 
 
