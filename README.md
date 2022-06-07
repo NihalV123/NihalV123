@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [USB Type-C will become mandatory for all phones, tablets and cameras sold in the EU](https://www.reddit.com/r/news/comments/v72pru/usb_typec_will_become_mandatory_for_all_phones/)
+- [Illinois found to be routinely housing wards of the state in Chicago’s jail for kids](https://www.reddit.com/r/news/comments/v71mz4/illinois_found_to_be_routinely_housing_wards_of/)
+- [Prisma Health employee dies after mental patient strikes groin](https://www.reddit.com/r/news/comments/v70gho/prisma_health_employee_dies_after_mental_patient/)
+- [Jim Seals of Seals and Crofts dies, aged 80](https://www.reddit.com/r/news/comments/v70a89/jim_seals_of_seals_and_crofts_dies_aged_80/)
+- [2 Suspects Arrested in South Street Mass Shooting](https://www.reddit.com/r/news/comments/v703dz/2_suspects_arrested_in_south_street_mass_shooting/)
 <!-- REDDIT:END -->
 
 
