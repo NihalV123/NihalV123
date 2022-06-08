@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chicago woman says stranger moved into home for sale and refuses to leave](https://www.reddit.com/r/news/comments/v7v002/chicago_woman_says_stranger_moved_into_home_for/)
+- [Justice Dept. names 9 to aid in review of Uvalde shooting](https://www.reddit.com/r/news/comments/v7ulfl/justice_dept_names_9_to_aid_in_review_of_uvalde/)
+- [Grand jury declines criminal charges for Springfield officer who ran over shooting victim last year](https://www.reddit.com/r/news/comments/v7ukt9/grand_jury_declines_criminal_charges_for/)
+- [CDC raises monkeypox alert as global cases surpass 1,000](https://www.reddit.com/r/news/comments/v7u7el/cdc_raises_monkeypox_alert_as_global_cases/)
+- [U.S. SEC chief unveils plan to overhaul Wall Street stock trading](https://www.reddit.com/r/news/comments/v7u1uz/us_sec_chief_unveils_plan_to_overhaul_wall_street/)
 <!-- REDDIT:END -->
 
 
