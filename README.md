@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [High court limits suing officials over rights violations](https://www.reddit.com/r/news/comments/v83gn6/high_court_limits_suing_officials_over_rights/)
+- [Arizona executes Frank Atwood for 1984 killing of young girl](https://www.reddit.com/r/news/comments/v836ob/arizona_executes_frank_atwood_for_1984_killing_of/)
+- [US tourist throws scooter down Rome’s Spanish Steps, causing €25,000 damage](https://www.reddit.com/r/news/comments/v82505/us_tourist_throws_scooter_down_romes_spanish/)
+- [Ron DeSantis&#39; press secretary registers as foreign agent after getting dinged by Department of Justice](https://www.reddit.com/r/news/comments/v81um5/ron_desantis_press_secretary_registers_as_foreign/)
+- [Woman charged with manslaughter after newborn found in garbage bin](https://www.reddit.com/r/news/comments/v8181h/woman_charged_with_manslaughter_after_newborn/)
 <!-- REDDIT:END -->
 
 
