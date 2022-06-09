@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police shoot man &#39;aggressively trying&#39; to get into Alabama elementary school, official say](https://www.reddit.com/r/news/comments/v8lmcq/police_shoot_man_aggressively_trying_to_get_into/)
+- [Woman known as &#39;Baby Holly&#39; found alive 40 years after her parents were killed in Texas](https://www.reddit.com/r/news/comments/v8knqm/woman_known_as_baby_holly_found_alive_40_years/)
+- [Gas prices hit $5 national average after rapid rise](https://www.reddit.com/r/news/comments/v8knl5/gas_prices_hit_5_national_average_after_rapid_rise/)
+- [Justice Department opens probe into Louisiana State Police](https://www.reddit.com/r/news/comments/v8jo66/justice_department_opens_probe_into_louisiana/)
+- [FBI: Gubernatorial candidate Ryan Kelley arrested, home searched](https://www.reddit.com/r/news/comments/v8izov/fbi_gubernatorial_candidate_ryan_kelley_arrested/)
 <!-- REDDIT:END -->
 
 
