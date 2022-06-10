@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 wounded in shooting at North Carolina mall food court](https://www.reddit.com/r/news/comments/v9cuxh/3_wounded_in_shooting_at_north_carolina_mall_food/)
+- [American citizen infected with Monkeypox escapes Puerto Vallarta hospital and flees Mexico](https://www.reddit.com/r/news/comments/v9bwve/american_citizen_infected_with_monkeypox_escapes/)
+- [Uvalde schools police chief defends response to mass shooting in first public comments since massacre](https://www.reddit.com/r/news/comments/v9b9dv/uvalde_schools_police_chief_defends_response_to/)
+- [Ukraine calls for more weapons as it holds off Russians in east](https://www.reddit.com/r/news/comments/v9a99t/ukraine_calls_for_more_weapons_as_it_holds_off/)
+- [U.S. Consumer Sentiment Fell in June to Its Lowest Level Ever — University of Michigan](https://www.reddit.com/r/news/comments/v99udx/us_consumer_sentiment_fell_in_june_to_its_lowest/)
 <!-- REDDIT:END -->
 
 
