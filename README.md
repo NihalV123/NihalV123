@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California&#39;s biggest Mega Millions winner comes forward; bought $426M winning ticket in Woodland Hills](https://www.reddit.com/r/news/comments/v8z8fy/californias_biggest_mega_millions_winner_comes/)
+- [Tesla investigation deepens after more than a dozen US ‘Autopilot’ crashes](https://www.reddit.com/r/news/comments/v8yqxk/tesla_investigation_deepens_after_more_than_a/)
+- [Sriracha lovers burned as maker halts production due to pepper shortage |](https://www.reddit.com/r/news/comments/v8y8wh/sriracha_lovers_burned_as_maker_halts_production/)
+- [Bay Area summer camp abruptly cancels all sessions over swastika controversy](https://www.reddit.com/r/news/comments/v8wkwy/bay_area_summer_camp_abruptly_cancels_all/)
+- [Geico must pay $5.2 million to woman who got HPV from sex in man&#39;s insured car, court rules](https://www.reddit.com/r/news/comments/v8w5e8/geico_must_pay_52_million_to_woman_who_got_hpv/)
 <!-- REDDIT:END -->
 
 
