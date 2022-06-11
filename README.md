@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man pleads guilty to defrauding victims of more than $2.7 million with pesticides alleged to help prevent Covid-19](https://www.reddit.com/r/news/comments/va1or0/man_pleads_guilty_to_defrauding_victims_of_more/)
+- [US Jobs Chain Employees Are Not Allowed to Comment on Black Lives Matter Messages](https://www.reddit.com/r/news/comments/va10om/us_jobs_chain_employees_are_not_allowed_to/)
+- [Ex-NYPD cop who fired gun into Atlantic Ocean gets prison](https://www.reddit.com/r/news/comments/va0ak5/exnypd_cop_who_fired_gun_into_atlantic_ocean_gets/)
+- [Officials investigate fire that damaged an Oregon ‘pregnancy crisis center’](https://www.reddit.com/r/news/comments/va06fn/officials_investigate_fire_that_damaged_an_oregon/)
+- [Leaked food strategy for English schools is paltry, experts say](https://www.reddit.com/r/news/comments/va0370/leaked_food_strategy_for_english_schools_is/)
 <!-- REDDIT:END -->
 
 
