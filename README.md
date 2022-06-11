@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family of Mizzou freshman who nearly died in alleged fraternity hazing incident seeks justice](https://www.reddit.com/r/news/comments/v9qc5d/family_of_mizzou_freshman_who_nearly_died_in/)
+- [Justin Bieber Reveals One Side of His Face Is Paralyzed – Billboard](https://www.reddit.com/r/news/comments/v9p84v/justin_bieber_reveals_one_side_of_his_face_is/)
+- [‘This is a hospital. It is supposed to be clean’: Man upset after visiting sister in hospital](https://www.reddit.com/r/news/comments/v9nwpa/this_is_a_hospital_it_is_supposed_to_be_clean_man/)
+- [Connecticut police exhume wrong body in cold case investigation](https://www.reddit.com/r/news/comments/v9ngls/connecticut_police_exhume_wrong_body_in_cold_case/)
+- [Salvadoran women jailed for abortion warn US of total ban](https://www.reddit.com/r/news/comments/v9myfo/salvadoran_women_jailed_for_abortion_warn_us_of/)
 <!-- REDDIT:END -->
 
 
