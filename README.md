@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Punishing heatwave expected across the US south-west this weekend](https://www.reddit.com/r/news/comments/v9lsat/punishing_heatwave_expected_across_the_us/)
+- [Greek oil tanker seized by Iran holds oil that was headed to the U.S.](https://www.reddit.com/r/news/comments/v9jdwu/greek_oil_tanker_seized_by_iran_holds_oil_that/)
+- [Arkansas man injured during Floyd protest sues troopers](https://www.reddit.com/r/news/comments/v9jc5k/arkansas_man_injured_during_floyd_protest_sues/)
+- [‘This is pretty serious’: Singer Justin Bieber diagnosed with Ramsay Hunt syndrome, says half his face is paralyzed](https://www.reddit.com/r/news/comments/v9gshy/this_is_pretty_serious_singer_justin_bieber/)
+- [Judge blocks Texas investigating families of trans youth](https://www.reddit.com/r/news/comments/v9g2lv/judge_blocks_texas_investigating_families_of/)
 <!-- REDDIT:END -->
 
 
