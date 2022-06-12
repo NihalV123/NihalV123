@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gasoline glitch: California station sells gas for 69 cents per gallon](https://www.reddit.com/r/news/comments/vab4mx/gasoline_glitch_california_station_sells_gas_for/)
+- [The U.S. housing market is heading toward the ‘most significant contraction’ since 2006. Here’s what that means](https://www.reddit.com/r/news/comments/vab206/the_us_housing_market_is_heading_toward_the_most/)
+- [A pedestrian is in critical condition after an 18-wheeler crashed into a hotel pool in Texas](https://www.reddit.com/r/news/comments/vaacb0/a_pedestrian_is_in_critical_condition_after_an/)
+- [Michigan drivers can now purchase digital license plates](https://www.reddit.com/r/news/comments/va9xel/michigan_drivers_can_now_purchase_digital_license/)
+- [Man arrested after starting fire at Satanic Temple in Salem](https://www.reddit.com/r/news/comments/va8vew/man_arrested_after_starting_fire_at_satanic/)
 <!-- REDDIT:END -->
 
 
