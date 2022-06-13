@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hate crime investigation underway after alleged Proud Boys storm Drag Queen Story Hour at Bay Area library](https://www.reddit.com/r/news/comments/vb34hp/hate_crime_investigation_underway_after_alleged/)
+- [Fiji&#39;s biggest security threat is &#39;devastating climate change, not conflict&#39;, the country&#39;s defence minister warns](https://www.reddit.com/r/news/comments/vb1w4p/fijis_biggest_security_threat_is_devastating/)
+- [Maine vet clinic responds to I-Team investigation about surrendered dog](https://www.reddit.com/r/news/comments/vazwos/maine_vet_clinic_responds_to_iteam_investigation/)
+- [Sheriff&#39;s Office releases names of 31 Patriot Front members arrested in Saturday bust](https://www.reddit.com/r/news/comments/vay2eh/sheriffs_office_releases_names_of_31_patriot/)
+- [Country music superstar Toby Keith announces he&#39;s been fighting stomach cancer](https://www.reddit.com/r/news/comments/vavu6c/country_music_superstar_toby_keith_announces_hes/)
 <!-- REDDIT:END -->
 
 
