@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pixar’s ‘Lightyear’ Banned in Saudi Arabia and U.A.E. Over Same-Sex Kiss](https://www.reddit.com/r/news/comments/vb9bcm/pixars_lightyear_banned_in_saudi_arabia_and_uae/)
+- [EU Piracy Rates are the Highest Among Well Educated Youth](https://www.reddit.com/r/news/comments/vb6p3e/eu_piracy_rates_are_the_highest_among_well/)
+- [First lady calls for end to dog meat consumption](https://www.reddit.com/r/news/comments/vb6cgm/first_lady_calls_for_end_to_dog_meat_consumption/)
+- [Ukraine fears western support will fade as media loses interest in the war | Ukraine](https://www.reddit.com/r/news/comments/vb5wx5/ukraine_fears_western_support_will_fade_as_media/)
+- [Elephant Tramples Odisha Woman To Death, Then Attacks Body During Funeral](https://www.reddit.com/r/news/comments/vb5miu/elephant_tramples_odisha_woman_to_death_then/)
 <!-- REDDIT:END -->
 
 
