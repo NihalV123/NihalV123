@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oil Companies Around the World Are Suing to Block Climate Action](https://www.reddit.com/r/news/comments/vbr7tj/oil_companies_around_the_world_are_suing_to_block/)
+- [Single beaver caused mass internet, cell service outages in Northern B.C.](https://www.reddit.com/r/news/comments/vbpfza/single_beaver_caused_mass_internet_cell_service/)
+- [Idaho officers getting death threats after arresting 31 Patriot Front white nationalists near Pride event](https://www.reddit.com/r/news/comments/vbpafc/idaho_officers_getting_death_threats_after/)
+- [7-year-old boy who was lying in bed killed in drive-by shooting](https://www.reddit.com/r/news/comments/vbp1oa/7yearold_boy_who_was_lying_in_bed_killed_in/)
+- [Michael Avenatti will plead guilty to stealing $10 million from five clients, including a paraplegic man: Disgraced lawyer is already serving four years for stealing from Stormy Daniels and Nike](https://www.reddit.com/r/news/comments/vbojtp/michael_avenatti_will_plead_guilty_to_stealing_10/)
 <!-- REDDIT:END -->
 
 
