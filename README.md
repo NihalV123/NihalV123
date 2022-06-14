@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Attorneys in Florida condo collapse seek about $100M in fees](https://www.reddit.com/r/news/comments/vbuh68/attorneys_in_florida_condo_collapse_seek_about/)
+- [Quick-thinking staffers save camp children from suspected gunman in Texas](https://www.reddit.com/r/news/comments/vbufs9/quickthinking_staffers_save_camp_children_from/)
+- [&#39;This is ridiculous. We&#39;re human&#39;: People wait outside social security offices in near-record heat](https://www.reddit.com/r/news/comments/vbt86w/this_is_ridiculous_were_human_people_wait_outside/)
+- [As Phoenix swelters, the nights are even worse than the boiling days](https://www.reddit.com/r/news/comments/vbsy7d/as_phoenix_swelters_the_nights_are_even_worse/)
+- [US Man Arrested Thrice in 3 Weeks For Having Too Many Bird Feeding Trays](https://www.reddit.com/r/news/comments/vbry0k/us_man_arrested_thrice_in_3_weeks_for_having_too/)
 <!-- REDDIT:END -->
 
 
