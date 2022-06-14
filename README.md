@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York governor signs legal protections for abortion providers and patients](https://www.reddit.com/r/news/comments/vc8rh3/new_york_governor_signs_legal_protections_for/)
+- [Thieves disappear with 20 shipping containers full of gold and silver ore and TVs from Mexico seaport](https://www.reddit.com/r/news/comments/vc88eu/thieves_disappear_with_20_shipping_containers/)
+- [A Florida teen was accepted into all eight Ivy League schools — and seven other universities](https://www.reddit.com/r/news/comments/vc7ttr/a_florida_teen_was_accepted_into_all_eight_ivy/)
+- [New Jersey&#39;s Aid in Dying law for terminally ill patients upheld by state appellate court](https://www.reddit.com/r/news/comments/vc7gz2/new_jerseys_aid_in_dying_law_for_terminally_ill/)
+- [Happy the elephant isn’t a person, top New York court rules](https://www.reddit.com/r/news/comments/vc6tsu/happy_the_elephant_isnt_a_person_top_new_york/)
 <!-- REDDIT:END -->
 
 
