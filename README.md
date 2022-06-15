@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dolly Parton gives $1M to infectious disease research, again](https://www.reddit.com/r/news/comments/vd02ze/dolly_parton_gives_1m_to_infectious_disease/)
+- [Lego to invest over $1 billion in U.S. brick plant](https://www.reddit.com/r/news/comments/vczymn/lego_to_invest_over_1_billion_in_us_brick_plant/)
+- [Teslas running Autopilot involved in 273 crashes reported since last year](https://www.reddit.com/r/news/comments/vcymli/teslas_running_autopilot_involved_in_273_crashes/)
+- [Southern Baptists agree to keep list of accused sex abusers](https://www.reddit.com/r/news/comments/vcxqt0/southern_baptists_agree_to_keep_list_of_accused/)
+- [Woman charged with felony after spitting on corpse in casket at funeral home, records show](https://www.reddit.com/r/news/comments/vcxgc5/woman_charged_with_felony_after_spitting_on/)
 <!-- REDDIT:END -->
 
 
