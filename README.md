@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Supreme Court insulates federal agents from accountability](https://www.reddit.com/r/news/comments/vchztq/us_supreme_court_insulates_federal_agents_from/)
+- [Texas parents sue children&#39;s hospital for $500,000 after their four-year-old son was given a VASECTOMY during surgery to treat a hernia in his groin](https://www.reddit.com/r/news/comments/vchxti/texas_parents_sue_childrens_hospital_for_500000/)
+- [Mexico&#39;s President AMLO condemns US blockade of Cuba as &#39;genocide&#39; and &#39;tremendous violation of human rights&#39;](https://www.reddit.com/r/news/comments/vcgsdj/mexicos_president_amlo_condemns_us_blockade_of/)
+- [Police hail &quot;clear-headed actions&quot; of staff who protected young campers from gunman who fired shots at sports complex](https://www.reddit.com/r/news/comments/vcgg11/police_hail_clearheaded_actions_of_staff_who/)
+- [Israeli lawmaker wishes to ‘press button’ and expel Palestinians](https://www.reddit.com/r/news/comments/vcg2iw/israeli_lawmaker_wishes_to_press_button_and_expel/)
 <!-- REDDIT:END -->
 
 
