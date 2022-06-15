@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia gives Ukrainian fighters in Donetsk until Wed. to surrender](https://www.reddit.com/r/news/comments/vcsi3u/russia_gives_ukrainian_fighters_in_donetsk_until/)
+- [China bank protest stopped by health codes turning red, depositors say](https://www.reddit.com/r/news/comments/vcr50m/china_bank_protest_stopped_by_health_codes/)
+- [New Hong Kong textbooks ‘will claim city never was a British colony’](https://www.reddit.com/r/news/comments/vcqgn0/new_hong_kong_textbooks_will_claim_city_never_was/)
+- [More than 20 million farm animals die on way to abattoir in US every year](https://www.reddit.com/r/news/comments/vcoyvv/more_than_20_million_farm_animals_die_on_way_to/)
+- [Russia threatens to strip anti-war protester of citizenship](https://www.reddit.com/r/news/comments/vcmez8/russia_threatens_to_strip_antiwar_protester_of/)
 <!-- REDDIT:END -->
 
 
