@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Saudi Seizes Rainbow Toys, Says Colours Send &quot;Poisoned Message&quot; To Children](https://www.reddit.com/r/news/comments/vddeck/saudi_seizes_rainbow_toys_says_colours_send/)
+- [‘Not my dad. Please help me’: Florida church members credited with stopping child abduction](https://www.reddit.com/r/news/comments/vdbsqn/not_my_dad_please_help_me_florida_church_members/)
+- [Thousands of Cattle Reported Dead: Heat Stress Kills Estimated 10,000 Head of Kansas Feedlot Cattle](https://www.reddit.com/r/news/comments/vdbltp/thousands_of_cattle_reported_dead_heat_stress/)
+- [Monthly car payments hit record high of $712 in May](https://www.reddit.com/r/news/comments/vdarov/monthly_car_payments_hit_record_high_of_712_in_may/)
+- [US military ground raid in Syria captures top ISIS leader](https://www.reddit.com/r/news/comments/vda41m/us_military_ground_raid_in_syria_captures_top/)
 <!-- REDDIT:END -->
 
 
