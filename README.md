@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Massachusetts school can no longer be called Catholic after flying Black Lives Matter and pride flags, bishop says](https://www.reddit.com/r/news/comments/vebbgu/massachusetts_school_can_no_longer_be_called/)
+- [‘Gonna lose my gun again,’ Idaho deputy said minutes after fatally shooting man in mental health crisis](https://www.reddit.com/r/news/comments/veb4o6/gonna_lose_my_gun_again_idaho_deputy_said_minutes/)
+- [Around 20 juveniles attempted to take over a youth correctional facility in Louisiana, police say | CNN](https://www.reddit.com/r/news/comments/veajvz/around_20_juveniles_attempted_to_take_over_a/)
+- [VP Harris launches task force on online harassment, abuse](https://www.reddit.com/r/news/comments/vea7uz/vp_harris_launches_task_force_on_online/)
+- [Feral hogs in Italy sniff out &amp; destroy $22K worth of cocaine](https://www.reddit.com/r/news/comments/ve955d/feral_hogs_in_italy_sniff_out_destroy_22k_worth/)
 <!-- REDDIT:END -->
 
 
