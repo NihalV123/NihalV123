@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Multiple people shot at Alabama church, police say](https://www.reddit.com/r/news/comments/ve0f4w/multiple_people_shot_at_alabama_church_police_say/)
+- [Google worker says he was fired for blowing whistle on cult](https://www.reddit.com/r/news/comments/vdzwbz/google_worker_says_he_was_fired_for_blowing/)
+- [Convicted scammer Anna Sorokin says she is now selling NFTs](https://www.reddit.com/r/news/comments/vdzggw/convicted_scammer_anna_sorokin_says_she_is_now/)
+- [US Customs and Border Protection investigating an unofficial challenge coin depicting Haitian migrant incident](https://www.reddit.com/r/news/comments/vdyl75/us_customs_and_border_protection_investigating_an/)
+- [5 former fraternity members sentenced in hazing death](https://www.reddit.com/r/news/comments/vdxw5t/5_former_fraternity_members_sentenced_in_hazing/)
 <!-- REDDIT:END -->
 
 
