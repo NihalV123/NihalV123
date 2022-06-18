@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Production crew for Stephen Colbert&#39;s &quot;Late Show&quot; detained in congressional building near U.S. Capitol](https://www.reddit.com/r/news/comments/vexdjg/production_crew_for_stephen_colberts_late_show/)
+- [Deputy: 2 officers had chance to shoot Uvalde school gunman](https://www.reddit.com/r/news/comments/vex27p/deputy_2_officers_had_chance_to_shoot_uvalde/)
+- [Gas prices are poised for first weekly drop since April](https://www.reddit.com/r/news/comments/veww9n/gas_prices_are_poised_for_first_weekly_drop_since/)
+- [Former head of Russian-state arms company found dead](https://www.reddit.com/r/news/comments/vewgcq/former_head_of_russianstate_arms_company_found/)
+- [&quot;Hero&quot; at Alabama church shooting subdued gunman, police say; death toll rises to 3](https://www.reddit.com/r/news/comments/vevpl6/hero_at_alabama_church_shooting_subdued_gunman/)
 <!-- REDDIT:END -->
 
 
