@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Ukraine will definitely win’ says president on visit to Mykolaiv | Ukraine](https://www.reddit.com/r/news/comments/vfappk/ukraine_will_definitely_win_says_president_on/)
+- [Florida men face federal hate crime charges for ax handle attack on Black man](https://www.reddit.com/r/news/comments/vf8lum/florida_men_face_federal_hate_crime_charges_for/)
+- [20 Oxford High School students to file federal lawsuit against school district months after shooting](https://www.reddit.com/r/news/comments/vf8jmc/20_oxford_high_school_students_to_file_federal/)
+- [Man accused of school threat over drag queen shows](https://www.reddit.com/r/news/comments/vf8g97/man_accused_of_school_threat_over_drag_queen_shows/)
+- [Coca-Cola is discontinuing Honest Tea](https://www.reddit.com/r/news/comments/vf84kl/cocacola_is_discontinuing_honest_tea/)
 <!-- REDDIT:END -->
 
 
