@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [What&#39;s behind threats to LGBTQ events? &#39;A very orchestrated attack machine&#39;](https://www.reddit.com/r/news/comments/vfo1wo/whats_behind_threats_to_lgbtq_events_a_very/)
+- [Florida man in cow pajamas among 6 arrested on drug charges](https://www.reddit.com/r/news/comments/vfltq7/florida_man_in_cow_pajamas_among_6_arrested_on/)
+- [Ecuadoran president declares state of emergency on day five of anti-govt protests](https://www.reddit.com/r/news/comments/vflktv/ecuadoran_president_declares_state_of_emergency/)
+- [Ukraine moves closer to EU membership as Putin again slams &#39;insane&#39; Western sanctions | CBC News](https://www.reddit.com/r/news/comments/vflh52/ukraine_moves_closer_to_eu_membership_as_putin/)
+- [Political commentator and columnist Mark Shields dies at 85](https://www.reddit.com/r/news/comments/vfk01i/political_commentator_and_columnist_mark_shields/)
 <!-- REDDIT:END -->
 
 
