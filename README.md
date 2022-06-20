@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Heat waves and high energy costs are hitting some communities hard](https://www.reddit.com/r/news/comments/vg9a6i/heat_waves_and_high_energy_costs_are_hitting_some/)
+- [‘Just give us an answer’: Family of U.S. veteran missing in Ukraine hope he is alive](https://www.reddit.com/r/news/comments/vg98ne/just_give_us_an_answer_family_of_us_veteran/)
+- [Gustavo Petro wins Colombian presidential race](https://www.reddit.com/r/news/comments/vg6vqo/gustavo_petro_wins_colombian_presidential_race/)
+- [$100M Contract awarded to ship nuclear waste to repository near Carlsbad](https://www.reddit.com/r/news/comments/vg49ox/100m_contract_awarded_to_ship_nuclear_waste_to/)
+- [Special education teacher sues Loudoun school board following sexual assault claims](https://www.reddit.com/r/news/comments/vg3pom/special_education_teacher_sues_loudoun_school/)
 <!-- REDDIT:END -->
 
 
