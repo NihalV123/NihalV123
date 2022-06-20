@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘The situation is serious’: Germany plans to fire up coal plants as Russia throttles gas supplies](https://www.reddit.com/r/news/comments/vgk11w/the_situation_is_serious_germany_plans_to_fire_up/)
+- [Russia blockading Ukrainian grain is a &amp;#x27;real war crime&amp;#x27; - EU](https://www.reddit.com/r/news/comments/vgisbi/russia_blockading_ukrainian_grain_is_a_x27real/)
+- [Belgium hit by protests over cost of living spike](https://www.reddit.com/r/news/comments/vghdbs/belgium_hit_by_protests_over_cost_of_living_spike/)
+- [US mulls over travel ban status for Taliban members](https://www.reddit.com/r/news/comments/vgdv70/us_mulls_over_travel_ban_status_for_taliban/)
+- [Rocket man fights Russian demand to send him back](https://www.reddit.com/r/news/comments/vgcn47/rocket_man_fights_russian_demand_to_send_him_back/)
 <!-- REDDIT:END -->
 
 
