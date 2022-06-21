@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde mass shooting: Photos show armed police waiting in school hallway](https://www.reddit.com/r/news/comments/vhbotf/uvalde_mass_shooting_photos_show_armed_police/)
+- [Nobel sold for Ukrainian kids shatters record at $103.5 million](https://www.reddit.com/r/news/comments/vhbcyz/nobel_sold_for_ukrainian_kids_shatters_record_at/)
+- [Kellogg to split into three independent companies](https://www.reddit.com/r/news/comments/vhb6m4/kellogg_to_split_into_three_independent_companies/)
+- [After person used &#39;R&#39;-word, Bradley County teacher charged with assault in Hamilton County](https://www.reddit.com/r/news/comments/vhahme/after_person_used_rword_bradley_county_teacher/)
+- [More reports cast doubt on police response to Uvalde school shooting](https://www.reddit.com/r/news/comments/vha9oh/more_reports_cast_doubt_on_police_response_to/)
 <!-- REDDIT:END -->
 
 
