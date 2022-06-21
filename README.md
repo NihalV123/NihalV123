@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Severely hypothermic hiker dies after rescue in &#39;treacherous&#39; conditions near Mt. Washington](https://www.reddit.com/r/news/comments/vh3eoz/severely_hypothermic_hiker_dies_after_rescue_in/)
+- [Tesla sued by former employees over &#39;mass layoff&#39;](https://www.reddit.com/r/news/comments/vh3902/tesla_sued_by_former_employees_over_mass_layoff/)
+- [Uvalde parents, community members call for chief&#39;s resignation at emotional school board meeting](https://www.reddit.com/r/news/comments/vh2qeb/uvalde_parents_community_members_call_for_chiefs/)
+- [Uvalde Victim’s Family, Chaplin &amp; Reporters Asked To Leave City Hall Before Police Testify About School Massacre](https://www.reddit.com/r/news/comments/vh1n1u/uvalde_victims_family_chaplin_reporters_asked_to/)
+- [Elon Musk&#39;s child seeks name change to sever ties with father](https://www.reddit.com/r/news/comments/vh13qb/elon_musks_child_seeks_name_change_to_sever_ties/)
 <!-- REDDIT:END -->
 
 
