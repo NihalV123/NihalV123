@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5-year-old boy died after being left in a car for hours while his mother prepared for a birthday party, report says](https://www.reddit.com/r/news/comments/vhiinc/5yearold_boy_died_after_being_left_in_a_car_for/)
+- [An eagle snatched a baby hawk for dinner, then ended up adopting it](https://www.reddit.com/r/news/comments/vhhsmk/an_eagle_snatched_a_baby_hawk_for_dinner_then/)
+- [‘This is how you guys get killed out here,’ Florida cop tells Black driver questioning traffic stop](https://www.reddit.com/r/news/comments/vhhb7c/this_is_how_you_guys_get_killed_out_here_florida/)
+- [U.S. Supreme Court backs public money for religious schools](https://www.reddit.com/r/news/comments/vhgw92/us_supreme_court_backs_public_money_for_religious/)
+- [Tesla Model S catches fire three weeks after going to a junkyard](https://www.reddit.com/r/news/comments/vhg4b6/tesla_model_s_catches_fire_three_weeks_after/)
 <!-- REDDIT:END -->
 
 
