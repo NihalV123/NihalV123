@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk&#39;s child seeks name change to sever ties with father](https://www.reddit.com/r/news/comments/vh13qb/elon_musks_child_seeks_name_change_to_sever_ties/)
+- [Russian Nobel Peace laureate Muratov sells medal for $104 mln to aid Ukraine children](https://www.reddit.com/r/news/comments/vh11ze/russian_nobel_peace_laureate_muratov_sells_medal/)
+- [Investor Sues Tesla, And CEO Elon Musk Over Allegations Of Toxic Workplace](https://www.reddit.com/r/news/comments/vh0pv0/investor_sues_tesla_and_ceo_elon_musk_over/)
+- [US ban on imports from China&#39;s Xinjiang to take effect on Tuesday](https://www.reddit.com/r/news/comments/vh08c9/us_ban_on_imports_from_chinas_xinjiang_to_take/)
+- [Local woman bit in face by snake that was cooling off on her door](https://www.reddit.com/r/news/comments/vgzk10/local_woman_bit_in_face_by_snake_that_was_cooling/)
 <!-- REDDIT:END -->
 
 
