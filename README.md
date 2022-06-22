@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than 1,300 Southwest Airlines pilots march on picket line, say they&#39;re overworked and underpaid](https://www.reddit.com/r/news/comments/vhwv0m/more_than_1300_southwest_airlines_pilots_march_on/)
+- [Classroom door in Uvalde school shooting was not locked, official says](https://www.reddit.com/r/news/comments/vhvdrl/classroom_door_in_uvalde_school_shooting_was_not/)
+- [Tesla worker rejects $15 million payout in race bias lawsuit](https://www.reddit.com/r/news/comments/vhv6kd/tesla_worker_rejects_15_million_payout_in_race/)
+- [Katie Britt is projected to beat Mo Brooks in Alabama GOP Senate race](https://www.reddit.com/r/news/comments/vhtowm/katie_britt_is_projected_to_beat_mo_brooks_in/)
+- [Texas shooting: School where 19 pupils and two teachers were shot dead is to be demolished](https://www.reddit.com/r/news/comments/vhtgtc/texas_shooting_school_where_19_pupils_and_two/)
 <!-- REDDIT:END -->
 
 
