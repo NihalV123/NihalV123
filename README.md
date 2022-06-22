@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: Teens broke into $8M Florida mansion, held boxing matches during house party](https://www.reddit.com/r/news/comments/via7dx/police_teens_broke_into_8m_florida_mansion_held/)
+- [Russia may resort to provocations as its army is run by &quot;morons&quot; – Lithuanian defmin](https://www.reddit.com/r/news/comments/vi959r/russia_may_resort_to_provocations_as_its_army_is/)
+- [Former candidate for Florida governor facing federal charges](https://www.reddit.com/r/news/comments/vi8fuo/former_candidate_for_florida_governor_facing/)
+- [German sex abuse lawsuit targets former Pope Benedict](https://www.reddit.com/r/news/comments/vi878w/german_sex_abuse_lawsuit_targets_former_pope/)
+- [Uvalde mayor accuses state police head of lying, leaking and misleading as new timeline of police response reveals excruciating missteps | CNN](https://www.reddit.com/r/news/comments/vi7yms/uvalde_mayor_accuses_state_police_head_of_lying/)
 <!-- REDDIT:END -->
 
 
