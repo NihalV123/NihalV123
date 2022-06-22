@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police shoot and kill bear that wandered into suburbs after being told by wildlife authorities to leave it alone. They then lie in the police report stating wildlife authorities told them otherwise.](https://www.reddit.com/r/news/comments/vi39r9/police_shoot_and_kill_bear_that_wandered_into/)
+- [Uvalde City Council denies Pete Arredondo&#39;s leave of absence request](https://www.reddit.com/r/news/comments/vi34vk/uvalde_city_council_denies_pete_arredondos_leave/)
+- [Finland is ready to fight Russia if attacked - defence chief](https://www.reddit.com/r/news/comments/vi20fa/finland_is_ready_to_fight_russia_if_attacked/)
+- [Chicago police are no longer allowed to chase people on foot just for running away](https://www.reddit.com/r/news/comments/vi0zuc/chicago_police_are_no_longer_allowed_to_chase/)
+- [World&#39;s biggest cruise ship has no buyer, 1st Voyage may be to scrapyard](https://www.reddit.com/r/news/comments/vi0uu0/worlds_biggest_cruise_ship_has_no_buyer_1st/)
 <!-- REDDIT:END -->
 
 
