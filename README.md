@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio State University officially wins trademark for the word &#39;THE&#39; from federal government](https://www.reddit.com/r/news/comments/viij1t/ohio_state_university_officially_wins_trademark/)
+- [Feds want 25 years for Chauvin for violating Floyd&#39;s rights](https://www.reddit.com/r/news/comments/viib7y/feds_want_25_years_for_chauvin_for_violating/)
+- [Uvalde school district places Chief Pete Arrendondo on administrative leave](https://www.reddit.com/r/news/comments/vii4wg/uvalde_school_district_places_chief_pete/)
+- [Richard Rojas, accused in deadly Times Square crash, found not responsible due to mental illness](https://www.reddit.com/r/news/comments/vihoid/richard_rojas_accused_in_deadly_times_square/)
+- [Mendocino Chevron sells the nation&#39;s most expensive gas: $9.63 a gallon](https://www.reddit.com/r/news/comments/vihfhk/mendocino_chevron_sells_the_nations_most/)
 <!-- REDDIT:END -->
 
 
