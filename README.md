@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [City contractor goes out for drinks after work, loses memory stick containing personal data on nearly half a million residents](https://www.reddit.com/r/news/comments/vj14yg/city_contractor_goes_out_for_drinks_after_work/)
+- [Ghislaine Maxwell deserves at least 30 years in prison, prosecutors say](https://www.reddit.com/r/news/comments/vj0g81/ghislaine_maxwell_deserves_at_least_30_years_in/)
+- [A road in Texas partially melted as state scorched by heat wave](https://www.reddit.com/r/news/comments/vj0ba1/a_road_in_texas_partially_melted_as_state/)
+- [New dress code outlaws dresses and skirts in Texas school district](https://www.reddit.com/r/news/comments/vj03fo/new_dress_code_outlaws_dresses_and_skirts_in/)
+- [Iranian kidnapping of Israeli diplomats and tourists in Istanbul foiled](https://www.reddit.com/r/news/comments/vizpb4/iranian_kidnapping_of_israeli_diplomats_and/)
 <!-- REDDIT:END -->
 
 
