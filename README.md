@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The swimmer&#39;s coach jumps into the pool to save her life after she faints in the water](https://www.reddit.com/r/news/comments/vioj1v/the_swimmers_coach_jumps_into_the_pool_to_save/)
+- [Feds arrest ex-Florida gubernatorial candidate Andrew Gillum and adviser](https://www.reddit.com/r/news/comments/vimzx0/feds_arrest_exflorida_gubernatorial_candidate/)
+- [Jan. 6 probe expands with fresh subpoenas in multiple states](https://www.reddit.com/r/news/comments/vilv2k/jan_6_probe_expands_with_fresh_subpoenas_in/)
+- [Daily Harvest meal delivery service recalls lentil crumbles after customers report gastrointestinal emergencies](https://www.reddit.com/r/news/comments/vikqp6/daily_harvest_meal_delivery_service_recalls/)
+- [DOJ subpoenas Georgia Republican Party chairman as it expands Trump fake elector probe](https://www.reddit.com/r/news/comments/vikne6/doj_subpoenas_georgia_republican_party_chairman/)
 <!-- REDDIT:END -->
 
 
