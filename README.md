@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UN: Israelis fired shots that killed journalist Shireen Abu Akleh | News](https://www.reddit.com/r/news/comments/vjmddh/un_israelis_fired_shots_that_killed_journalist/)
+- [Japanese city worker loses USB containing personal details of every resident](https://www.reddit.com/r/news/comments/vjlwu2/japanese_city_worker_loses_usb_containing/)
+- [Germany now allows doctors to advertise abortion](https://www.reddit.com/r/news/comments/vjjvju/germany_now_allows_doctors_to_advertise_abortion/)
+- [New studies: Light at night in older age is associated with obesity, diabetes, and hypertension | SLEEP](https://www.reddit.com/r/news/comments/vjhib5/new_studies_light_at_night_in_older_age_is/)
+- [US Senate passes first gun control bill in decades](https://www.reddit.com/r/news/comments/vjg4dl/us_senate_passes_first_gun_control_bill_in_decades/)
 <!-- REDDIT:END -->
 
 
