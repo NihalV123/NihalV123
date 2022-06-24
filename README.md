@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Senate passes first gun control bill in decades](https://www.reddit.com/r/news/comments/vjg4dl/us_senate_passes_first_gun_control_bill_in_decades/)
+- [Netflix lays off 300 employees as bad year continues to hit company](https://www.reddit.com/r/news/comments/vjdsaf/netflix_lays_off_300_employees_as_bad_year/)
+- [FBI raids Georgia churches near military bases, sources say church was targeting soldiers](https://www.reddit.com/r/news/comments/vjcbeh/fbi_raids_georgia_churches_near_military_bases/)
+- [Ukraine and Moldova accepted as candidates to join European Union](https://www.reddit.com/r/news/comments/vjc7jx/ukraine_and_moldova_accepted_as_candidates_to/)
+- [Chicago police will no longer be allowed to chase people on foot simply for running away &lpar;with some caveats&rpar;](https://www.reddit.com/r/news/comments/vjal10/chicago_police_will_no_longer_be_allowed_to_chase/)
 <!-- REDDIT:END -->
 
 
