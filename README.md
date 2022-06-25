@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Army private admits plotting attack on military unit](https://www.reddit.com/r/news/comments/vkcy74/us_army_private_admits_plotting_attack_on/)
+- [Army Guard troops risk dismissal as vaccine deadline looms](https://www.reddit.com/r/news/comments/vkb7si/army_guard_troops_risk_dismissal_as_vaccine/)
+- [15-year-old in critical condition after hitting head while surfing on top of NYC train](https://www.reddit.com/r/news/comments/vka5bz/15yearold_in_critical_condition_after_hitting/)
+- [Mysterious Group of Companies Tied to Bank Rossiya Unites Billions of Dollars in Assets Connected to Vladimir Putin - OCCRP](https://www.reddit.com/r/news/comments/vk5e6w/mysterious_group_of_companies_tied_to_bank/)
+- [Shooting at Oslo gay bar leaves at least two people dead](https://www.reddit.com/r/news/comments/vk4dt3/shooting_at_oslo_gay_bar_leaves_at_least_two/)
 <!-- REDDIT:END -->
 
 
