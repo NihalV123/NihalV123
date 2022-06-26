@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Santa Monica judge approves name, gender change for child of Elon Musk](https://www.reddit.com/r/news/comments/vksmy7/santa_monica_judge_approves_name_gender_change/)
+- [Frustration grows in Ukraine as casualties spike and Russia takes more territory](https://www.reddit.com/r/news/comments/vksj2d/frustration_grows_in_ukraine_as_casualties_spike/)
+- [Mark Fleischman, Former Studio 54 Owner, Planning Assisted Suicide](https://www.reddit.com/r/news/comments/vkrx8e/mark_fleischman_former_studio_54_owner_planning/)
+- [John Williams, 90, steps away from film, but not music](https://www.reddit.com/r/news/comments/vkrs6d/john_williams_90_steps_away_from_film_but_not/)
+- [Uganda says exploration results show it has 31 million tonnes of gold ore](https://www.reddit.com/r/news/comments/vkrpn9/uganda_says_exploration_results_show_it_has_31/)
 <!-- REDDIT:END -->
 
 
