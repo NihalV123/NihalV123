@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Group aims to strip Fox News of ad revenue over ‘fueling next insurrection’](https://www.reddit.com/r/news/comments/vla2sg/group_aims_to_strip_fox_news_of_ad_revenue_over/)
+- [Prince Charles &#39;accepted a suitcase with 1m euros&#39;, report claims](https://www.reddit.com/r/news/comments/vl92cv/prince_charles_accepted_a_suitcase_with_1m_euros/)
+- [U.S. aims to raise $200 billion as part of G7 rival to China&#39;s Belt &amp; Road](https://www.reddit.com/r/news/comments/vl8274/us_aims_to_raise_200_billion_as_part_of_g7_rival/)
+- [Taliban say they will not interfere with Afghanistan earthquake aid.](https://www.reddit.com/r/news/comments/vl80ra/taliban_say_they_will_not_interfere_with/)
+- [At least 8 people shot at rave dance party in Tacoma, Washington](https://www.reddit.com/r/news/comments/vl6h6p/at_least_8_people_shot_at_rave_dance_party_in/)
 <!-- REDDIT:END -->
 
 
