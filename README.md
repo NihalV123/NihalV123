@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 dead, 2 injured after Amtrak train collides with car in California](https://www.reddit.com/r/news/comments/vlo355/3_dead_2_injured_after_amtrak_train_collides_with/)
+- [U.S. likely to announce this week purchase of advanced missile defense system for Ukraine](https://www.reddit.com/r/news/comments/vlkthb/us_likely_to_announce_this_week_purchase_of/)
+- [Driver gets stuck trying to avoid parking fee](https://www.reddit.com/r/news/comments/vlkjvt/driver_gets_stuck_trying_to_avoid_parking_fee/)
+- [3 Juveniles Shot in South Carolina](https://www.reddit.com/r/news/comments/vlkbz4/3_juveniles_shot_in_south_carolina/)
+- [Defense Department to keep access to reproductive health care to personnel after Roe v. Wade&#39;s end](https://www.reddit.com/r/news/comments/vlizzn/defense_department_to_keep_access_to_reproductive/)
 <!-- REDDIT:END -->
 
 
