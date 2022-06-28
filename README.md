@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Milan turns off fountains as Italy warns of more water rationing to fight drought](https://www.reddit.com/r/news/comments/vms26q/milan_turns_off_fountains_as_italy_warns_of_more/)
+- [Texas judge blocks enforcement of pre-Roe v. Wade abortion ban: clinics&#39; lawyers](https://www.reddit.com/r/news/comments/vmr9cu/texas_judge_blocks_enforcement_of_preroe_v_wade/)
+- [Texas official: Death count in San Antonio migrant tragedy climbs to 50.](https://www.reddit.com/r/news/comments/vmq8ek/texas_official_death_count_in_san_antonio_migrant/)
+- [New Florida Law Makes Blasting Music in Car A Punishable Offense](https://www.reddit.com/r/news/comments/vmpr33/new_florida_law_makes_blasting_music_in_car_a/)
+- [Man acquitted of murder with insanity defense escapes Texas mental hospital](https://www.reddit.com/r/news/comments/vmpoql/man_acquitted_of_murder_with_insanity_defense/)
 <!-- REDDIT:END -->
 
 
