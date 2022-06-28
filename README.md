@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fears of violence against pro-choice protests intensify amid wave of attacks](https://www.reddit.com/r/news/comments/vmlg54/fears_of_violence_against_prochoice_protests/)
+- [Chlorine gas leak kills 12, injures 251 at Jordan port](https://www.reddit.com/r/news/comments/vmkq1o/chlorine_gas_leak_kills_12_injures_251_at_jordan/)
+- [Fetal Heartbeat Law now in effect in South Carolina](https://www.reddit.com/r/news/comments/vmdylc/fetal_heartbeat_law_now_in_effect_in_south/)
+- [Ottawa convoy organizer Tamara Lich arrested in Alberta for alleged breach of bail conditions](https://www.reddit.com/r/news/comments/vmcrie/ottawa_convoy_organizer_tamara_lich_arrested_in/)
+- [Senate sergeant-at-arms in charge of security during Jan 6 riot dies](https://www.reddit.com/r/news/comments/vmclqm/senate_sergeantatarms_in_charge_of_security/)
 <!-- REDDIT:END -->
 
 
