@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ernst &amp; Young fined $100 million after employees cheated on CPA exams](https://www.reddit.com/r/news/comments/vn2r1x/ernst_young_fined_100_million_after_employees/)
+- [Attorney: Officer shot man 5 times, paused, shot him again](https://www.reddit.com/r/news/comments/vn20j7/attorney_officer_shot_man_5_times_paused_shot_him/)
+- [Ghislaine Maxwell reported jail staff threatened her safety, prompting suicide watch](https://www.reddit.com/r/news/comments/vn1v1f/ghislaine_maxwell_reported_jail_staff_threatened/)
+- [US to offer monkeypox vaccines in states with high case rates](https://www.reddit.com/r/news/comments/vn15by/us_to_offer_monkeypox_vaccines_in_states_with/)
+- [Amazon and Rite Aid limiting purchases of emergency contraception](https://www.reddit.com/r/news/comments/vn0uv3/amazon_and_rite_aid_limiting_purchases_of/)
 <!-- REDDIT:END -->
 
 
