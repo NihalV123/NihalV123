@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LA County approves transfer of Bruce&#39;s Beach to descendants of original Black owners](https://www.reddit.com/r/news/comments/vnlmgi/la_county_approves_transfer_of_bruces_beach_to/)
+- [The billionaire blocking off Montana’s wildlife: ‘Like fencing people out of Walmart’](https://www.reddit.com/r/news/comments/vnlk6n/the_billionaire_blocking_off_montanas_wildlife/)
+- [U.S. Supreme Court expands state power over Native American tribes](https://www.reddit.com/r/news/comments/vnkz0q/us_supreme_court_expands_state_power_over_native/)
+- [Qatar fails to offer World Cup safety guarantees to LGBTQ+ fans | World Cup 2022](https://www.reddit.com/r/news/comments/vniety/qatar_fails_to_offer_world_cup_safety_guarantees/)
+- [FBI opens sweeping probe of clergy sex abuse in New Orleans](https://www.reddit.com/r/news/comments/vnhl0a/fbi_opens_sweeping_probe_of_clergy_sex_abuse_in/)
 <!-- REDDIT:END -->
 
 
