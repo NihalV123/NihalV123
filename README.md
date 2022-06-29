@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bison gores man near Old Faithful in Yellowstone National Park](https://www.reddit.com/r/news/comments/vn55uo/bison_gores_man_near_old_faithful_in_yellowstone/)
+- [Travis Barker Reportedly Hospitalized in LA](https://www.reddit.com/r/news/comments/vn4lv1/travis_barker_reportedly_hospitalized_in_la/)
+- [US accuses five firms in China of supporting Russia&#39;s military.](https://www.reddit.com/r/news/comments/vn365r/us_accuses_five_firms_in_china_of_supporting/)
+- [A toddler died after being left in a car – hours later, his father took his own life, police say](https://www.reddit.com/r/news/comments/vn360s/a_toddler_died_after_being_left_in_a_car_hours/)
+- [Ernst &amp; Young fined $100 million after employees cheated on CPA exams](https://www.reddit.com/r/news/comments/vn2r1x/ernst_young_fined_100_million_after_employees/)
 <!-- REDDIT:END -->
 
 
