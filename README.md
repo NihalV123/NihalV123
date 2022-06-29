@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A &quot;coin flip&quot;: Nearly half of U.S. murders go unsolved as cases rise](https://www.reddit.com/r/news/comments/vndhsf/a_coin_flip_nearly_half_of_us_murders_go_unsolved/)
+- [3 Americans found dead at a Sandals in the Bahamas last month died due to carbon monoxide poisoning, police say](https://www.reddit.com/r/news/comments/vncxpg/3_americans_found_dead_at_a_sandals_in_the/)
+- [Harvard Lawyers Don&#39;t Think That Piracy is Theft, Research Finds](https://www.reddit.com/r/news/comments/vncjpe/harvard_lawyers_dont_think_that_piracy_is_theft/)
+- [LAWSUIT: Female inmates were assaulted, raped in Clark County jail](https://www.reddit.com/r/news/comments/vnb5d1/lawsuit_female_inmates_were_assaulted_raped_in/)
+- [Hershey, Nestle, Cargill win dismissal in U.S. of child slavery lawsuit](https://www.reddit.com/r/news/comments/vn8yzi/hershey_nestle_cargill_win_dismissal_in_us_of/)
 <!-- REDDIT:END -->
 
 
