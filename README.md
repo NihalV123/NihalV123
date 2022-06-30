@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After ‘threats,’ drag queen event moved at West Hartford Pride festival, organizer says](https://www.reddit.com/r/news/comments/vnt2u3/after_threats_drag_queen_event_moved_at_west/)
+- [George Washington University will retain Clarence Thomas as a professor amid protest](https://www.reddit.com/r/news/comments/vnt15p/george_washington_university_will_retain_clarence/)
+- [The pandemic may have forever altered the economy, Fed Chair Powell says](https://www.reddit.com/r/news/comments/vnrwc3/the_pandemic_may_have_forever_altered_the_economy/)
+- [Far-right Proud Boys disrupt Pride Month children’s storytime event at South Bend’s Tutt Library](https://www.reddit.com/r/news/comments/vnrpnl/farright_proud_boys_disrupt_pride_month_childrens/)
+- [Personal information of people granted, denied concealed carry permits leaked by California&#39;s Attorney General&#39;s Office](https://www.reddit.com/r/news/comments/vnr9sd/personal_information_of_people_granted_denied/)
 <!-- REDDIT:END -->
 
 
