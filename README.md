@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Clarence Thomas claims Covid vaccines are derived from the cells of ‘aborted children’](https://www.reddit.com/r/news/comments/voetka/clarence_thomas_claims_covid_vaccines_are_derived/)
+- [U.S. Supreme Court throws out rulings upholding gun restrictions](https://www.reddit.com/r/news/comments/voeaxb/us_supreme_court_throws_out_rulings_upholding_gun/)
+- [U.S. doctors see spike in vasectomies following end of Roe v. Wade: report](https://www.reddit.com/r/news/comments/vodyc2/us_doctors_see_spike_in_vasectomies_following_end/)
+- [Abortions may resume in Kentucky after judge grants temporary suspension of &#39;trigger&#39; law](https://www.reddit.com/r/news/comments/voc999/abortions_may_resume_in_kentucky_after_judge/)
+- [Jackson sworn in, becomes 1st Black woman on Supreme Court](https://www.reddit.com/r/news/comments/voc7yw/jackson_sworn_in_becomes_1st_black_woman_on/)
 <!-- REDDIT:END -->
 
 
