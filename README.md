@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Special Report: Dozens of Russian weapons tycoons have faced no Western sanctions](https://www.reddit.com/r/news/comments/voy3m5/special_report_dozens_of_russian_weapons_tycoons/)
+- [Florida judge allows lawsuit filed by Gabby Petito&#39;s parents against Brian Laundrie&#39;s parents to proceed](https://www.reddit.com/r/news/comments/voy2sx/florida_judge_allows_lawsuit_filed_by_gabby/)
+- [A closer look at disparities in NYPD&#39;s homicide clearance rates: &quot;It made me feel like they didn&#39;t care&quot;](https://www.reddit.com/r/news/comments/voxqvr/a_closer_look_at_disparities_in_nypds_homicide/)
+- [BBC - US stocks see worst first half drop in more than 50 years](https://www.reddit.com/r/news/comments/voxeie/bbc_us_stocks_see_worst_first_half_drop_in_more/)
+- [Uber releases safety data: 998 sexual assault incidents including 141 rape reports in 2020](https://www.reddit.com/r/news/comments/vos5g6/uber_releases_safety_data_998_sexual_assault/)
 <!-- REDDIT:END -->
 
 
