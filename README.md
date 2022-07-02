@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde schools’ police Chief Pete Arredondo resigns from City Council](https://www.reddit.com/r/news/comments/vpxkcn/uvalde_schools_police_chief_pete_arredondo/)
+- [UM pediatrician removed from state board after publicly criticizing delayed access to COVID-19 vaccine for children under 5](https://www.reddit.com/r/news/comments/vpwaf5/um_pediatrician_removed_from_state_board_after/)
+- [Keanu Reeves’ Vintage 911 Was Stolen, so Porsche Built Him a Custom Car](https://www.reddit.com/r/news/comments/vpw86y/keanu_reeves_vintage_911_was_stolen_so_porsche/)
+- [Bodies of 2 of 3 missing kids found in Minnesota lake](https://www.reddit.com/r/news/comments/vpw2v0/bodies_of_2_of_3_missing_kids_found_in_minnesota/)
+- [A rare orchid thought to be extinct in Vermont was rediscovered after 120 years](https://www.reddit.com/r/news/comments/vpvepg/a_rare_orchid_thought_to_be_extinct_in_vermont/)
 <!-- REDDIT:END -->
 
 
