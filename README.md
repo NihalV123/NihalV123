@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NFT sales hit 12-month low after cryptocurrency crash](https://www.reddit.com/r/news/comments/vppvbe/nft_sales_hit_12month_low_after_cryptocurrency/)
+- [Indigenous leader who opposed illegal mining killed in Venezuela -NGO](https://www.reddit.com/r/news/comments/vpps97/indigenous_leader_who_opposed_illegal_mining/)
+- [Three police die in Kentucky shooting while serving domestic violence warrant |](https://www.reddit.com/r/news/comments/vppa3f/three_police_die_in_kentucky_shooting_while/)
+- [Ex-boyfriend arrested in killing of mother pushing baby in stroller in NYC](https://www.reddit.com/r/news/comments/vpoqmw/exboyfriend_arrested_in_killing_of_mother_pushing/)
+- [Ukraine says Russia dropped phosphorus bombs on Snake Island | News](https://www.reddit.com/r/news/comments/vpnwdx/ukraine_says_russia_dropped_phosphorus_bombs_on/)
 <!-- REDDIT:END -->
 
 
