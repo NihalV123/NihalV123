@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two dead, three officers injured in Haltom City, Texas, shooting](https://www.reddit.com/r/news/comments/vr5ol8/two_dead_three_officers_injured_in_haltom_city/)
+- [A Michigan police chief has apologized after it emerged that the department used images of Black men during target practice](https://www.reddit.com/r/news/comments/vr3mq5/a_michigan_police_chief_has_apologized_after_it/)
+- [California governor pardons woman sentenced to life as a teen in 90s for fatally shooting abuser](https://www.reddit.com/r/news/comments/vr2i3u/california_governor_pardons_woman_sentenced_to/)
+- [Fox and friends confront billion-dollar US lawsuits over election fraud claims](https://www.reddit.com/r/news/comments/vr2a97/fox_and_friends_confront_billiondollar_us/)
+- [TikTok tells U.S. lawmakers it’s working to stop user data from being accessible to Chinese employees](https://www.reddit.com/r/news/comments/vr21o0/tiktok_tells_us_lawmakers_its_working_to_stop/)
 <!-- REDDIT:END -->
 
 
