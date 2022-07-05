@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Robert Crimo III is in custody. Police have been monitoring him for a while now due to his social media posts](https://www.reddit.com/r/news/comments/vrm8q3/robert_crimo_iii_is_in_custody_police_have_been/)
+- [Inflation soars to nearly 80% in Turkey as food prices double](https://www.reddit.com/r/news/comments/vrkhzq/inflation_soars_to_nearly_80_in_turkey_as_food/)
+- [NASA satellite breaks from orbit around Earth, heads to moon](https://www.reddit.com/r/news/comments/vrjvc6/nasa_satellite_breaks_from_orbit_around_earth/)
+- [Clifford Alexander Jr., first Black secretary of Army, dies at 88](https://www.reddit.com/r/news/comments/vritd2/clifford_alexander_jr_first_black_secretary_of/)
+- [Robert Crimo: Person of interest identified in Highland Park July 4th mass shooting](https://www.reddit.com/r/news/comments/vrijsv/robert_crimo_person_of_interest_identified_in/)
 <!-- REDDIT:END -->
 
 
