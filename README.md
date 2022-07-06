@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Highland Park shooting: Robert Crimo’s father liked tweet about Second Amendment after Uvalde school massacre](https://www.reddit.com/r/news/comments/vsv9ll/highland_park_shooting_robert_crimos_father_liked/)
+- [Wisconsin Supreme Court rules in favor of Chrystul Kizer, allows sex trafficking defense in homicide trial](https://www.reddit.com/r/news/comments/vsv1fv/wisconsin_supreme_court_rules_in_favor_of/)
+- [NY judge holds Trump appraiser in contempt, fines it $10,000 a day](https://www.reddit.com/r/news/comments/vstri1/ny_judge_holds_trump_appraiser_in_contempt_fines/)
+- [Police: Suspect in mass shooting at July 4 parade fled to Madison, Wisconsin, and contemplated shooting there](https://www.reddit.com/r/news/comments/vstg5p/police_suspect_in_mass_shooting_at_july_4_parade/)
+- [Sen. Lindsey Graham will challenge Georgia grand jury subpoena in Trump election interference probe](https://www.reddit.com/r/news/comments/vssopz/sen_lindsey_graham_will_challenge_georgia_grand/)
 <!-- REDDIT:END -->
 
 
