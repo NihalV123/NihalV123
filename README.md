@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [July 4 parade shooting suspect slipped past Illinois &quot;red flag&quot; safeguards](https://www.reddit.com/r/news/comments/vsnb55/july_4_parade_shooting_suspect_slipped_past/)
+- [Xi&#39;an shuts back down as China finds first cases of new Omicron subvariant](https://www.reddit.com/r/news/comments/vsml0t/xian_shuts_back_down_as_china_finds_first_cases/)
+- [Listeria outbreak linked to Florida ice cream brand, CDC finds](https://www.reddit.com/r/news/comments/vslidz/listeria_outbreak_linked_to_florida_ice_cream/)
+- [Doctors to overhaul car wreck rescue techniques amid new evidence | UK news](https://www.reddit.com/r/news/comments/vskz8k/doctors_to_overhaul_car_wreck_rescue_techniques/)
+- [Parade shooting suspect bought 5 weapons despite threats](https://www.reddit.com/r/news/comments/vsj2ru/parade_shooting_suspect_bought_5_weapons_despite/)
 <!-- REDDIT:END -->
 
 
