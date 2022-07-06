@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police in Portland, Oregon charged 34-year-old Dylan J. Kesterson with two counts of bias crime after they say he assaulted a 5-year-old girl and her father of Japanese descent after making comments about their race](https://www.reddit.com/r/news/comments/vsgxt2/police_in_portland_oregon_charged_34yearold_dylan/)
+- [Carlos Santana, 74, collapses during concert](https://www.reddit.com/r/news/comments/vsg5j2/carlos_santana_74_collapses_during_concert/)
+- [More than 220 shot and killed in U.S. gun violence over July 4 holiday weekend](https://www.reddit.com/r/news/comments/vsdtrs/more_than_220_shot_and_killed_in_us_gun_violence/)
+- [Monkeypox Cases Spike in DC increasing from 7 last week to 58 on Tuesday](https://www.reddit.com/r/news/comments/vsdk55/monkeypox_cases_spike_in_dc_increasing_from_7/)
+- [Covid-19 reinfections may increase the likelihood of new health problems](https://www.reddit.com/r/news/comments/vsdg7n/covid19_reinfections_may_increase_the_likelihood/)
 <!-- REDDIT:END -->
 
 
