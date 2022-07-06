@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Utah’s Great Salt Lake hits new historic low amid drought in western US](https://www.reddit.com/r/news/comments/vsd5u3/utahs_great_salt_lake_hits_new_historic_low_amid/)
+- [Suspect charged with murder over 4 July shooting](https://www.reddit.com/r/news/comments/vsagjb/suspect_charged_with_murder_over_4_july_shooting/)
+- [Turkey seizes Russian ship carrying ‘stolen’ Ukrainian grain](https://www.reddit.com/r/news/comments/vs8qlk/turkey_seizes_russian_ship_carrying_stolen/)
+- [Uvalde mayor says he fears a cover-up of investigation into school massacre](https://www.reddit.com/r/news/comments/vs8mur/uvalde_mayor_says_he_fears_a_coverup_of/)
+- [Sanctions prompted Finland to seize 800+ Russian freight cars](https://www.reddit.com/r/news/comments/vs8k2x/sanctions_prompted_finland_to_seize_800_russian/)
 <!-- REDDIT:END -->
 
 
