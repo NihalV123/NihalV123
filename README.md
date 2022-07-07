@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [City of Houston sues to shut down corner store for not addressing crime in their area](https://www.reddit.com/r/news/comments/vtnzlk/city_of_houston_sues_to_shut_down_corner_store/)
+- [James Caan, &#39;The Godfather&#39; and &#39;Misery&#39; Star, Dead at 82](https://www.reddit.com/r/news/comments/vtnnab/james_caan_the_godfather_and_misery_star_dead_at/)
+- [Video: Florida beachgoers confront man standing on top of protected sea turtle eggs in nesting area](https://www.reddit.com/r/news/comments/vtm19z/video_florida_beachgoers_confront_man_standing_on/)
+- [Polis signs executive order stating Colorado won&#39;t cooperate with other states&#39; abortion investigations](https://www.reddit.com/r/news/comments/vtlujf/polis_signs_executive_order_stating_colorado_wont/)
+- [Ukraine prosecutors uncover sex trafficking ring preying on women fleeing country](https://www.reddit.com/r/news/comments/vtl2yt/ukraine_prosecutors_uncover_sex_trafficking_ring/)
 <!-- REDDIT:END -->
 
 
