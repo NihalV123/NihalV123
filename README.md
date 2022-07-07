@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boris Johnson set to resign, say reports](https://www.reddit.com/r/news/comments/vtdhb8/boris_johnson_set_to_resign_say_reports/)
+- [Author of manga &#39;Yu-Gi-Oh&#39; Kazuki Takahashi found dead in ocean](https://www.reddit.com/r/news/comments/vtd8ia/author_of_manga_yugioh_kazuki_takahashi_found/)
+- [Nevada’s Nye County first in nation to offer voting in Shoshone language](https://www.reddit.com/r/news/comments/vt9exk/nevadas_nye_county_first_in_nation_to_offer/)
+- [US ‘hero’ teen saves three girls and police officer after car plunges into river in Mississippi](https://www.reddit.com/r/news/comments/vt8zsp/us_hero_teen_saves_three_girls_and_police_officer/)
+- [Georgia Guidestones torn down after bombing](https://www.reddit.com/r/news/comments/vt7z5w/georgia_guidestones_torn_down_after_bombing/)
 <!-- REDDIT:END -->
 
 
