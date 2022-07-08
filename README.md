@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dutch doctor Dr. Rebecca Gomperts and the internet are making sure Americans have access to abortion pills through her online service Aid Access](https://www.reddit.com/r/news/comments/vu70jx/dutch_doctor_dr_rebecca_gomperts_and_the_internet/)
+- [After hitting all-time highs, gas prices are finally coming back down](https://www.reddit.com/r/news/comments/vu6zog/after_hitting_alltime_highs_gas_prices_are/)
+- [The FBI didn’t finish over 1 million gun background checks in time to stop a sale in 2020 and 2021](https://www.reddit.com/r/news/comments/vu6yut/the_fbi_didnt_finish_over_1_million_gun/)
+- [Shinzo Abe, former Japanese prime minister, dies after being shot while giving speech, state broadcaster says](https://www.reddit.com/r/news/comments/vu675r/shinzo_abe_former_japanese_prime_minister_dies/)
+- [Microplastics detected in meat, milk and blood of farm animals](https://www.reddit.com/r/news/comments/vu572w/microplastics_detected_in_meat_milk_and_blood_of/)
 <!-- REDDIT:END -->
 
 
