@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Putin dares West as Zelensky pays tribute to Johnson.](https://www.reddit.com/r/news/comments/vu1urp/putin_dares_west_as_zelensky_pays_tribute_to/)
+- [Japan ex-prime minister Abe may have been shot, taken to hospital - NHK](https://www.reddit.com/r/news/comments/vu0f8i/japan_exprime_minister_abe_may_have_been_shot/)
+- [Georgia prosecutor calls explosion at &#39;America&#39;s Stonehenge&#39; an act of domestic terrorism](https://www.reddit.com/r/news/comments/vu0brs/georgia_prosecutor_calls_explosion_at_americas/)
+- [Connecticut officials announce reforms after Randy Cox was partially paralyzed in a police van](https://www.reddit.com/r/news/comments/vtyc56/connecticut_officials_announce_reforms_after/)
+- [Texas governor authorizes state forces to return migrants to border](https://www.reddit.com/r/news/comments/vtwsyp/texas_governor_authorizes_state_forces_to_return/)
 <!-- REDDIT:END -->
 
 
