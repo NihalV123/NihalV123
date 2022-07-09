@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Marshals apprehend 13 sex offenders in Iowa wanted for crimes against children](https://www.reddit.com/r/news/comments/vv6zw8/us_marshals_apprehend_13_sex_offenders_in_iowa/)
+- [Arizona says &quot;personhood&quot; abortion law can&#39;t lead to charges](https://www.reddit.com/r/news/comments/vv6ma4/arizona_says_personhood_abortion_law_cant_lead_to/)
+- [Brazil’s Supreme Court first to declare Paris Climate Agreement a human rights treaty](https://www.reddit.com/r/news/comments/vv5kph/brazils_supreme_court_first_to_declare_paris/)
+- [Protesters break into home of Sri Lankan PM, set it on fire](https://www.reddit.com/r/news/comments/vv59bt/protesters_break_into_home_of_sri_lankan_pm_set/)
+- [NHTSA to investigate Florida Tesla crash that killed 2](https://www.reddit.com/r/news/comments/vv4gzh/nhtsa_to_investigate_florida_tesla_crash_that/)
 <!-- REDDIT:END -->
 
 
