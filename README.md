@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4-year-old girl was killed in a shooting in Akron, Ohio](https://www.reddit.com/r/news/comments/vuzb8x/4yearold_girl_was_killed_in_a_shooting_in_akron/)
+- [Thousands of Ukrainian &#39;battle casualty replacements&#39; are being trained in England](https://www.reddit.com/r/news/comments/vuyxk0/thousands_of_ukrainian_battle_casualty/)
+- [Sri Lanka protesters break into President&#39;s House as thousands rally - CNN](https://www.reddit.com/r/news/comments/vuyg6r/sri_lanka_protesters_break_into_presidents_house/)
+- [Wildfire burning in Yosemite National Park threatening massive sequoia trees](https://www.reddit.com/r/news/comments/vuxk0h/wildfire_burning_in_yosemite_national_park/)
+- [Two suspected cases of Marburg virus disease reported in Ghana](https://www.reddit.com/r/news/comments/vutq16/two_suspected_cases_of_marburg_virus_disease/)
 <!-- REDDIT:END -->
 
 
