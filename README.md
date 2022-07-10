@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [14-year-old boy fatally stabbed on NYC subway platform](https://www.reddit.com/r/news/comments/vvf9dj/14yearold_boy_fatally_stabbed_on_nyc_subway/)
+- [US Homeland Security Officers Face &#39;Chinese Spying&#39; Charges](https://www.reddit.com/r/news/comments/vvf1s3/us_homeland_security_officers_face_chinese_spying/)
+- [Bay Area climate activists target SUVs, deflate tires](https://www.reddit.com/r/news/comments/vvdgac/bay_area_climate_activists_target_suvs_deflate/)
+- [Thousands turn out for Women’s March in D.C. to pressure Biden on abortion rights](https://www.reddit.com/r/news/comments/vvb7ch/thousands_turn_out_for_womens_march_in_dc_to/)
+- [Security alert issued for the Jewish community in San Antonio, TX](https://www.reddit.com/r/news/comments/vv914u/security_alert_issued_for_the_jewish_community_in/)
 <!-- REDDIT:END -->
 
 
