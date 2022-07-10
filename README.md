@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A couple fed nearby ducks. Now, their HOA is threatening to foreclose.](https://www.reddit.com/r/news/comments/vvpeso/a_couple_fed_nearby_ducks_now_their_hoa_is/)
+- [Vladimir Putin ‘to become dad again’ at 69 years old](https://www.reddit.com/r/news/comments/vvo5q6/vladimir_putin_to_become_dad_again_at_69_years_old/)
+- [Fire at Oklahoma natural gas facility prompts evacuations](https://www.reddit.com/r/news/comments/vvml7g/fire_at_oklahoma_natural_gas_facility_prompts/)
+- [Flagstaff PD officers fully naked, fondled during massage investigation](https://www.reddit.com/r/news/comments/vvldtd/flagstaff_pd_officers_fully_naked_fondled_during/)
+- [Reno, Nevada, man&#39;s DNA linked to 1982 murder of California girl, 5, DA says](https://www.reddit.com/r/news/comments/vvl9ph/reno_nevada_mans_dna_linked_to_1982_murder_of/)
 <!-- REDDIT:END -->
 
 
