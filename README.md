@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man locks daughter’s 3 dogs in hot car for days, leaving them to die, deputies say](https://www.reddit.com/r/news/comments/vvwmqv/florida_man_locks_daughters_3_dogs_in_hot_car_for/)
+- [Uber deliberately dodged authorities, ignored rules in early years, leaked documents show | CBC News](https://www.reddit.com/r/news/comments/vvw862/uber_deliberately_dodged_authorities_ignored/)
+- [A Ukraine priest splits Sundays between church and the front lines](https://www.reddit.com/r/news/comments/vvvhst/a_ukraine_priest_splits_sundays_between_church/)
+- [Uber Files: Massive leak reveals how top politicians secretly helped Uber - BBC News](https://www.reddit.com/r/news/comments/vvupje/uber_files_massive_leak_reveals_how_top/)
+- [Indiana’s teacher shortage has some schools scrambling](https://www.reddit.com/r/news/comments/vvupa1/indianas_teacher_shortage_has_some_schools/)
 <!-- REDDIT:END -->
 
 
