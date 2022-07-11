@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Costco CEO’s one-word answer to whether he would raise the price of hot dogs: ‘No’](https://www.reddit.com/r/news/comments/vwmvqf/costco_ceos_oneword_answer_to_whether_he_would/)
+- [FDA to review first ever over-the-counter birth control pill](https://www.reddit.com/r/news/comments/vwlm1b/fda_to_review_first_ever_overthecounter_birth/)
+- [At least 1 dead, 5 hurt in shooting outside Kansas City bar where off-duty officers were working](https://www.reddit.com/r/news/comments/vwljjz/at_least_1_dead_5_hurt_in_shooting_outside_kansas/)
+- [Lockheed delivers airborne laser LANCE to Air Force Research Lab - Breaking Defense](https://www.reddit.com/r/news/comments/vwlgam/lockheed_delivers_airborne_laser_lance_to_air/)
+- [Charging Sea Lions Chase Away Beachgoers at San Diego&#39;s La Jolla Cove](https://www.reddit.com/r/news/comments/vwlbr0/charging_sea_lions_chase_away_beachgoers_at_san/)
 <!-- REDDIT:END -->
 
 
