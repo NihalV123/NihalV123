@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A swimmer was infected with a brain-eating amoeba after visiting at an Iowa beach](https://www.reddit.com/r/news/comments/vw2myu/a_swimmer_was_infected_with_a_braineating_amoeba/)
+- [Floating abortion clinic proposed in Gulf to bypass bans](https://www.reddit.com/r/news/comments/vw2hdg/floating_abortion_clinic_proposed_in_gulf_to/)
+- [Emmanuel Macron secretly aided Uber lobbying drive in France, leak reveals | Emmanuel Macron](https://www.reddit.com/r/news/comments/vw0sc7/emmanuel_macron_secretly_aided_uber_lobbying/)
+- [French women push to cement abortion rights after United States ruling](https://www.reddit.com/r/news/comments/vw0bza/french_women_push_to_cement_abortion_rights_after/)
+- [Illinois governor notes signs of ‘white supremacy symbol’ in parade suspect’s background](https://www.reddit.com/r/news/comments/vvzksi/illinois_governor_notes_signs_of_white_supremacy/)
 <!-- REDDIT:END -->
 
 
