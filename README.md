@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Only seven percent of adults have good cardiometabolic health](https://www.reddit.com/r/news/comments/vwg4u4/only_seven_percent_of_adults_have_good/)
+- [The school year is coming with a shortage of teachers and new rules on what and how they may teach](https://www.reddit.com/r/news/comments/vwfyny/the_school_year_is_coming_with_a_shortage_of/)
+- [Exclusive: Binance served crypto traders in Iran for years despite U.S. sanctions, clients say](https://www.reddit.com/r/news/comments/vwf6ag/exclusive_binance_served_crypto_traders_in_iran/)
+- [Florida woman kills fish by pouring hot sauce in tank during a fight, deputies say](https://www.reddit.com/r/news/comments/vwdyjr/florida_woman_kills_fish_by_pouring_hot_sauce_in/)
+- [Sri Lanka: President confirms resignation, PM&#39;s office says](https://www.reddit.com/r/news/comments/vwbauo/sri_lanka_president_confirms_resignation_pms/)
 <!-- REDDIT:END -->
 
 
