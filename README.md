@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cat saved with animal oxygen mask after Paddington fire](https://www.reddit.com/r/news/comments/vxgrl8/cat_saved_with_animal_oxygen_mask_after/)
+- [Attorney Alex Murdaugh expected to face charges in SC killings of wife, son](https://www.reddit.com/r/news/comments/vxggw7/attorney_alex_murdaugh_expected_to_face_charges/)
+- [New Video Shows Woman Stab NYC Bodega Worker After Confrontation Turned Deadly](https://www.reddit.com/r/news/comments/vxfpqw/new_video_shows_woman_stab_nyc_bodega_worker/)
+- [1,000 children groomed but unease about race meant Telford sexual exploitation ignored, inquiry finds](https://www.reddit.com/r/news/comments/vxfeix/1000_children_groomed_but_unease_about_race_meant/)
+- [University of Cambridge launches inquiry after five suspected suicides since March](https://www.reddit.com/r/news/comments/vxexpn/university_of_cambridge_launches_inquiry_after/)
 <!-- REDDIT:END -->
 
 
