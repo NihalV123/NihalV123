@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK heatwave: COBRA meeting called as national heatwave emergency could be declared](https://www.reddit.com/r/news/comments/vx7sv6/uk_heatwave_cobra_meeting_called_as_national/)
+- [Sri Lanka’s Gotabaya Rajapaksa fails in effort to flee country](https://www.reddit.com/r/news/comments/vx6o8c/sri_lankas_gotabaya_rajapaksa_fails_in_effort_to/)
+- [SAS unit repeatedly killed Afghan detainees, BBC finds.](https://www.reddit.com/r/news/comments/vx3xxl/sas_unit_repeatedly_killed_afghan_detainees_bbc/)
+- [DNA testing leads to US man being charged with five-year-old girl&#39;s 1982 murder - ABC News](https://www.reddit.com/r/news/comments/vx3mra/dna_testing_leads_to_us_man_being_charged_with/)
+- [Amazon delivery driver accused of defecating in the street during route in Millvale](https://www.reddit.com/r/news/comments/vx30e7/amazon_delivery_driver_accused_of_defecating_in/)
 <!-- REDDIT:END -->
 
 
