@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Louisiana&#39;s abortion ban is blocked again after another judge issues temporary restraining order](https://www.reddit.com/r/news/comments/vxpmfv/louisianas_abortion_ban_is_blocked_again_after/)
+- [U.S. Justice Dept launches task force to protect women&#39;s reproductive rights](https://www.reddit.com/r/news/comments/vxplaj/us_justice_dept_launches_task_force_to_protect/)
+- [4,000 beagles to be rescued from Virginia breeding facility](https://www.reddit.com/r/news/comments/vxp4bo/4000_beagles_to_be_rescued_from_virginia_breeding/)
+- [Madison to weigh tougher penalties for harassing election workers](https://www.reddit.com/r/news/comments/vxnoew/madison_to_weigh_tougher_penalties_for_harassing/)
+- [Drunken Flagler County school bus driver who also showed up to court drunk gets prison](https://www.reddit.com/r/news/comments/vxlqsa/drunken_flagler_county_school_bus_driver_who_also/)
 <!-- REDDIT:END -->
 
 
