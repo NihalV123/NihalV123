@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mark Fleischman, Studio 54 owner, dies by assisted suicide at 82](https://www.reddit.com/r/news/comments/vytgff/mark_fleischman_studio_54_owner_dies_by_assisted/)
+- [1.9m patient records exposed in healthcare debt collector ransomware attack](https://www.reddit.com/r/news/comments/vyrt4u/19m_patient_records_exposed_in_healthcare_debt/)
+- [With abortions illegal at home, Wisconsin doctor buys Illinois sites so he can offer services](https://www.reddit.com/r/news/comments/vyrkwy/with_abortions_illegal_at_home_wisconsin_doctor/)
+- [Amber Heard loses bid to throw out Johnny Depp verdict over wrong juror](https://www.reddit.com/r/news/comments/vyrj5d/amber_heard_loses_bid_to_throw_out_johnny_depp/)
+- [Bill Gates is giving his foundation a fresh $20 billion to address global challenges](https://www.reddit.com/r/news/comments/vyrikl/bill_gates_is_giving_his_foundation_a_fresh_20/)
 <!-- REDDIT:END -->
 
 
