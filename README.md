@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde police officer who drew outrage for checking his phone was waiting to hear from his dying wife during shooting](https://www.reddit.com/r/news/comments/vz0ygr/uvalde_police_officer_who_drew_outrage_for/)
+- [American Airlines changes family&#39;s flight to another country, asks them to pay $30K, passenger says](https://www.reddit.com/r/news/comments/vz0dix/american_airlines_changes_familys_flight_to/)
+- [Alex Murdaugh indicted on two counts of murder for deaths of wife, son](https://www.reddit.com/r/news/comments/vyz0xz/alex_murdaugh_indicted_on_two_counts_of_murder/)
+- [JPMorgan Chase earnings fell 28% after building reserves for bad loans, bank suspends buybacks](https://www.reddit.com/r/news/comments/vyyrnr/jpmorgan_chase_earnings_fell_28_after_building/)
+- [Amazon&#39;s Ring has provided doorbell footage to police without owners&#39; consent 11 times so far this year](https://www.reddit.com/r/news/comments/vyxi8w/amazons_ring_has_provided_doorbell_footage_to/)
 <!-- REDDIT:END -->
 
 
