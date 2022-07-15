@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Todd Rokita says he is looking into Indiana doctor who performed abortion for Ohio 10-year-old](https://www.reddit.com/r/news/comments/vz9fuz/todd_rokita_says_he_is_looking_into_indiana/)
+- [Tampa police made DUI arrests below the legal alcohol limit, officer alleges arrest quotas](https://www.reddit.com/r/news/comments/vz99yr/tampa_police_made_dui_arrests_below_the_legal/)
+- [Judge orders arrest of Mesa County Clerk Tina Peters for violating bond](https://www.reddit.com/r/news/comments/vz77ma/judge_orders_arrest_of_mesa_county_clerk_tina/)
+- [Indiana asks Supreme Court to speed process so state can put its strict abortion law into effect](https://www.reddit.com/r/news/comments/vz6lg8/indiana_asks_supreme_court_to_speed_process_so/)
+- [Secret Service erased text messages from January 5 and 6, 2021 -- after oversight officials asked for them, watchdog says](https://www.reddit.com/r/news/comments/vz65x2/secret_service_erased_text_messages_from_january/)
 <!-- REDDIT:END -->
 
 
