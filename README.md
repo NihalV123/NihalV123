@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mega Millions jackpot tops half a billion dollars after Friday night&#39;s drawing](https://www.reddit.com/r/news/comments/w0lcux/mega_millions_jackpot_tops_half_a_billion_dollars/)
+- [US agencies temporarily barred from enforcing LGBTQ guidance](https://www.reddit.com/r/news/comments/w0l9vb/us_agencies_temporarily_barred_from_enforcing/)
+- [The omicron subvariant dominating U.S. COVID-19 cases is more vaccine-resistant](https://www.reddit.com/r/news/comments/w0kytj/the_omicron_subvariant_dominating_us_covid19/)
+- [United States Launches 988 Mental Health Hotline](https://www.reddit.com/r/news/comments/w0jkci/united_states_launches_988_mental_health_hotline/)
+- [Saudi Arabia: no additional capacity to increase oil production beyond 13 million bpd](https://www.reddit.com/r/news/comments/w0jhts/saudi_arabia_no_additional_capacity_to_increase/)
 <!-- REDDIT:END -->
 
 
