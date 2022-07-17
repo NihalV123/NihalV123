@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Life or death for Parkland shooter? Trial will take months](https://www.reddit.com/r/news/comments/w0t69v/life_or_death_for_parkland_shooter_trial_will/)
+- [New Mexico judge drops charges against former police officer accused of killing man in custody](https://www.reddit.com/r/news/comments/w0su34/new_mexico_judge_drops_charges_against_former/)
+- [Ukraine&#39;s harvest becomes the new battlefield, as fires blacken its arable heartlands](https://www.reddit.com/r/news/comments/w0sp78/ukraines_harvest_becomes_the_new_battlefield_as/)
+- [6-year-old girl killed in police pursuit of murder suspect near Minneapolis](https://www.reddit.com/r/news/comments/w0six7/6yearold_girl_killed_in_police_pursuit_of_murder/)
+- [Man survives 19 hours at sea by clinging to a volleyball](https://www.reddit.com/r/news/comments/w0sepr/man_survives_19_hours_at_sea_by_clinging_to_a/)
 <!-- REDDIT:END -->
 
 
