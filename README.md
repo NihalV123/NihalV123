@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After two years in a coma, West Virginia woman wakes to name brother in attack](https://www.reddit.com/r/news/comments/w1d5f4/after_two_years_in_a_coma_west_virginia_woman/)
+- [Texas House investigative committee&#39;s preliminary report on Uvalde school massacre outlines multiple failures by several entities](https://www.reddit.com/r/news/comments/w1c59s/texas_house_investigative_committees_preliminary/)
+- [Greece plane crash: Cargo aircraft was carrying weapons to Bangladesh - minister](https://www.reddit.com/r/news/comments/w1c47p/greece_plane_crash_cargo_aircraft_was_carrying/)
+- [UAE sentences ex-lawyer of Jamal Khashoggi to three years in prison](https://www.reddit.com/r/news/comments/w1b93g/uae_sentences_exlawyer_of_jamal_khashoggi_to/)
+- [Our empty oceans: Scots team&#39;s research finds Atlantic plankton all but wiped out in catastrophic loss of life](https://www.reddit.com/r/news/comments/w1b5p1/our_empty_oceans_scots_teams_research_finds/)
 <!-- REDDIT:END -->
 
 
