@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Damning report, new footage show chaos of Uvalde response](https://www.reddit.com/r/news/comments/w1x1xn/damning_report_new_footage_show_chaos_of_uvalde/)
+- [Women denied abortion rarely choose adoption.](https://www.reddit.com/r/news/comments/w1ww4k/women_denied_abortion_rarely_choose_adoption/)
+- [Black man awaiting kidney transplant beaten by hospital security](https://www.reddit.com/r/news/comments/w1wsx1/black_man_awaiting_kidney_transplant_beaten_by/)
+- [US disputes UAE&#39;s explanation of Khashoggi lawyer arrest](https://www.reddit.com/r/news/comments/w1vosi/us_disputes_uaes_explanation_of_khashoggi_lawyer/)
+- [Union calls for heat limit law in workplaces](https://www.reddit.com/r/news/comments/w1uwqq/union_calls_for_heat_limit_law_in_workplaces/)
 <!-- REDDIT:END -->
 
 
