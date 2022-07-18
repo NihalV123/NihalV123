@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde body camera shows officer who had been grazed by shot saying &#39;we’ve got to get in there, he just keeps shooting&#39;](https://www.reddit.com/r/news/comments/w1osid/uvalde_body_camera_shows_officer_who_had_been/)
+- [Ukraine central bank has sold over $12 billion of its gold reserves during the war, its deputy head says](https://www.reddit.com/r/news/comments/w1n1jp/ukraine_central_bank_has_sold_over_12_billion_of/)
+- [Chinese project will bounce signals off asteroids to see how dangerous they are to Earth](https://www.reddit.com/r/news/comments/w1myj1/chinese_project_will_bounce_signals_off_asteroids/)
+- [Ghana confirms first cases of deadly Marburg virus](https://www.reddit.com/r/news/comments/w1mcao/ghana_confirms_first_cases_of_deadly_marburg_virus/)
+- [Russian journalist who staged TV protest over Ukraine invasion arrested again](https://www.reddit.com/r/news/comments/w1l97v/russian_journalist_who_staged_tv_protest_over/)
 <!-- REDDIT:END -->
 
 
