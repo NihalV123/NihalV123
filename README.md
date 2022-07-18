@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chief: 3 dead in Indiana mall shooting; witness kills gunman](https://www.reddit.com/r/news/comments/w1mnz4/chief_3_dead_in_indiana_mall_shooting_witness/)
+- [An elderly woman died after falling into pond and being &#39;grabbed&#39; by two alligators, authorities say | CNN](https://www.reddit.com/r/news/comments/w1l6ij/an_elderly_woman_died_after_falling_into_pond_and/)
+- [Patient from Missouri dies after contracting brain-eating amoeba while swimming in now-closed Iowa lake](https://www.reddit.com/r/news/comments/w1klap/patient_from_missouri_dies_after_contracting/)
+- [Millions in jewels stolen from armored truck in California](https://www.reddit.com/r/news/comments/w1k66y/millions_in_jewels_stolen_from_armored_truck_in/)
+- [4 dead after small planes collide at North Las Vegas Airport](https://www.reddit.com/r/news/comments/w1k5bn/4_dead_after_small_planes_collide_at_north_las/)
 <!-- REDDIT:END -->
 
 
