@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas state police launch internal review of Uvalde response](https://www.reddit.com/r/news/comments/w2ka08/texas_state_police_launch_internal_review_of/)
+- [DOJ won’t prosecute group linked to Colbert’s ‘The Late Show’ after unlawful entry arrests, Capitol police say](https://www.reddit.com/r/news/comments/w2if8u/doj_wont_prosecute_group_linked_to_colberts_the/)
+- [Angry and heartbroken Uvalde parents flood school board meeting with demands for new leadership](https://www.reddit.com/r/news/comments/w2hc19/angry_and_heartbroken_uvalde_parents_flood_school/)
+- [Jury finds former Pocono cop not guilty of raping woman in custody](https://www.reddit.com/r/news/comments/w2gy9q/jury_finds_former_pocono_cop_not_guilty_of_raping/)
+- [Pulitzer board rejects Trump’s calls to revoke prizes for reporting on Russian election meddling](https://www.reddit.com/r/news/comments/w2gmdl/pulitzer_board_rejects_trumps_calls_to_revoke/)
 <!-- REDDIT:END -->
 
 
