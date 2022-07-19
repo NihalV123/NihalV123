@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5 shot, hurt in Washington state Walmart amid altercation](https://www.reddit.com/r/news/comments/w2fr87/5_shot_hurt_in_washington_state_walmart_amid/)
+- [Dallas joins other Texas school districts in requiring clear or mesh backpacks after Uvalde massacre](https://www.reddit.com/r/news/comments/w2drmd/dallas_joins_other_texas_school_districts_in/)
+- [CDC stops reporting coronavirus cases on cruise ships](https://www.reddit.com/r/news/comments/w2cmvq/cdc_stops_reporting_coronavirus_cases_on_cruise/)
+- [Amazon warehouses under investigation from federal prosecutors, Department of Labor](https://www.reddit.com/r/news/comments/w2c7gq/amazon_warehouses_under_investigation_from/)
+- [US tourist falls into Mount Vesuvius after taking selfie](https://www.reddit.com/r/news/comments/w2byku/us_tourist_falls_into_mount_vesuvius_after_taking/)
 <!-- REDDIT:END -->
 
 
