@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [How COVID-19 symptoms are changing: A sore throat and hoarse voice became top symptoms with newer variant](https://www.reddit.com/r/news/comments/w3s8rh/how_covid19_symptoms_are_changing_a_sore_throat/)
+- [Woman held on $1 million bail after allegedly dressing as nurse to steal baby from hospital](https://www.reddit.com/r/news/comments/w3rukg/woman_held_on_1_million_bail_after_allegedly/)
+- [Magnus Carlsen Will Not Defend World Championship Title](https://www.reddit.com/r/news/comments/w3owx4/magnus_carlsen_will_not_defend_world_championship/)
+- [Medals of Honor for soldiers who perpetrated Wounded Knee massacre may be rescinded](https://www.reddit.com/r/news/comments/w3opqz/medals_of_honor_for_soldiers_who_perpetrated/)
+- [Toddler and her father killed in Montana after a man drove into a family and started shooting, officials say](https://www.reddit.com/r/news/comments/w3ndyr/toddler_and_her_father_killed_in_montana_after_a/)
 <!-- REDDIT:END -->
 
 
