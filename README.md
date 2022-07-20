@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;We need them desperately&#39;: US police departments struggle with critical staffing shortages](https://www.reddit.com/r/news/comments/w38f9b/we_need_them_desperately_us_police_departments/)
+- [For The Second Time, Carvana is Banned From Selling Cars in Illinois](https://www.reddit.com/r/news/comments/w36ye6/for_the_second_time_carvana_is_banned_from/)
+- [A Seattle man faces a hate crime charge after allegedly punching an Asian woman](https://www.reddit.com/r/news/comments/w35q3q/a_seattle_man_faces_a_hate_crime_charge_after/)
+- [Two decades of shooter response strategy ignored in Uvalde](https://www.reddit.com/r/news/comments/w35by1/two_decades_of_shooter_response_strategy_ignored/)
+- [N.J. trans prisoner who impregnated 2 inmates transferred to men&#39;s facility](https://www.reddit.com/r/news/comments/w34nnt/nj_trans_prisoner_who_impregnated_2_inmates/)
 <!-- REDDIT:END -->
 
 
