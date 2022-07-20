@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pro-Israel hardliners spend millions to transform Democratic primaries | US politics](https://www.reddit.com/r/news/comments/w3k484/proisrael_hardliners_spend_millions_to_transform/)
+- [Meteoroid hit has caused &#39;significant uncorrectable&#39; damage to James Webb Space Telescope](https://www.reddit.com/r/news/comments/w3ir4m/meteoroid_hit_has_caused_significant/)
+- [Furniture store makes bulletproof desks to protect teachers and students in US mass shootings](https://www.reddit.com/r/news/comments/w3in19/furniture_store_makes_bulletproof_desks_to/)
+- [‘They’re burning our crops on purpose’: Ukraine says Russia deliberately torching grain fields](https://www.reddit.com/r/news/comments/w3f8yj/theyre_burning_our_crops_on_purpose_ukraine_says/)
+- [Judge finds sufficient evidence to continue Elijah McClain case](https://www.reddit.com/r/news/comments/w3c9zz/judge_finds_sufficient_evidence_to_continue/)
 <!-- REDDIT:END -->
 
 
