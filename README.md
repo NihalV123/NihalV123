@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge finds sufficient evidence to continue Elijah McClain case](https://www.reddit.com/r/news/comments/w3c9zz/judge_finds_sufficient_evidence_to_continue/)
+- [Secret Service turned over just one text message to January 6 panel, sources say](https://www.reddit.com/r/news/comments/w3c9n1/secret_service_turned_over_just_one_text_message/)
+- [Man charged in 3 sexual assaults in a week, including an attack on a woman who escaped through her Grubhub order](https://www.reddit.com/r/news/comments/w3bnx4/man_charged_in_3_sexual_assaults_in_a_week/)
+- [China warns of &quot;forceful measures&quot; if U.S. House Speaker Pelosi visits Taiwan](https://www.reddit.com/r/news/comments/w3blxf/china_warns_of_forceful_measures_if_us_house/)
+- [More US stations selling gas for less than $4 a gallon](https://www.reddit.com/r/news/comments/w3aypu/more_us_stations_selling_gas_for_less_than_4_a/)
 <!-- REDDIT:END -->
 
 
