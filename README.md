@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Revealed: oil sector’s ‘staggering’ $3bn-a-day profits for last 50 years](https://www.reddit.com/r/news/comments/w4edjs/revealed_oil_sectors_staggering_3bnaday_profits/)
+- [Los Angeles County returns seized beachfront property to Black family&#39;s heirs](https://www.reddit.com/r/news/comments/w4dtlo/los_angeles_county_returns_seized_beachfront/)
+- [An An, world’s oldest male giant panda in captivity, dies at 35](https://www.reddit.com/r/news/comments/w4d7rp/an_an_worlds_oldest_male_giant_panda_in_captivity/)
+- [Quidditch changes name to quadball after JK Rowling’s trans statements](https://www.reddit.com/r/news/comments/w4c3ea/quidditch_changes_name_to_quadball_after_jk/)
+- [Spanish bull run: Three dead in 24 hours in Valencia hospitals](https://www.reddit.com/r/news/comments/w4bga8/spanish_bull_run_three_dead_in_24_hours_in/)
 <!-- REDDIT:END -->
 
 
