@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pesticide made us sterile, banana workers say](https://www.reddit.com/r/news/comments/w488wu/pesticide_made_us_sterile_banana_workers_say/)
+- [Ukraine war: CIA chief says no intelligence that Putin is in bad health](https://www.reddit.com/r/news/comments/w47ozh/ukraine_war_cia_chief_says_no_intelligence_that/)
+- [Mississippi police chief linked to racist recording. In a recording obtained by MCIR, a Mississippi law enforcement officer can be heard bragging about killing 13 people in the line of duty, saying, “I shot that n----- 119 times, OK?”](https://www.reddit.com/r/news/comments/w464kk/mississippi_police_chief_linked_to_racist/)
+- [Secret Service watchdog knew in February that texts had been purged](https://www.reddit.com/r/news/comments/w4459u/secret_service_watchdog_knew_in_february_that/)
+- [Federal appeals court allows Georgia abortion law to take effect immediately](https://www.reddit.com/r/news/comments/w43v87/federal_appeals_court_allows_georgia_abortion_law/)
 <!-- REDDIT:END -->
 
 
