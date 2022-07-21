@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Walgreens employee refused to sell condoms to a couple on religious grounds](https://www.reddit.com/r/news/comments/w4mniz/a_walgreens_employee_refused_to_sell_condoms_to_a/)
+- [Alan Grant, “Judge Dredd” and “Batman” Writer, Dead at 73](https://www.reddit.com/r/news/comments/w4m5nh/alan_grant_judge_dredd_and_batman_writer_dead_at/)
+- [Buzz Aldrin is auctioning off the NASA jacket he wore to the moon, other items from time in space](https://www.reddit.com/r/news/comments/w4lsk8/buzz_aldrin_is_auctioning_off_the_nasa_jacket_he/)
+- [Florida schools turning to vets to fill teaching vacancies](https://www.reddit.com/r/news/comments/w4lld2/florida_schools_turning_to_vets_to_fill_teaching/)
+- [Little evidence that chemical imbalance causes depression, UCL scientists find](https://www.reddit.com/r/news/comments/w4kjaa/little_evidence_that_chemical_imbalance_causes/)
 <!-- REDDIT:END -->
 
 
