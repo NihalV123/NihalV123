@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Watchdog launches criminal probe over missing Secret Service messages](https://www.reddit.com/r/news/comments/w4v902/watchdog_launches_criminal_probe_over_missing/)
+- [Black man beaten, left bloodied after alleged stop sign violation in Tennessee](https://www.reddit.com/r/news/comments/w4uuhd/black_man_beaten_left_bloodied_after_alleged_stop/)
+- [Bystanders shot by Denver police want answers as department defends officers’ actions opening fire in a crowd in LoDo early Sunday morning](https://www.reddit.com/r/news/comments/w4t0a2/bystanders_shot_by_denver_police_want_answers_as/)
+- [Woman in $400K GoFundMe scam gets 1 year in federal case](https://www.reddit.com/r/news/comments/w4smle/woman_in_400k_gofundme_scam_gets_1_year_in/)
+- [Workers in hazmat suits haul 8 tonnes of spoiled meat from North Bay, Ont., butcher shop](https://www.reddit.com/r/news/comments/w4sg9k/workers_in_hazmat_suits_haul_8_tonnes_of_spoiled/)
 <!-- REDDIT:END -->
 
 
