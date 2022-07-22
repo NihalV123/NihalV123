@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man killed as sink hole opens under swimming pool in Israel](https://www.reddit.com/r/news/comments/w58g5v/man_killed_as_sink_hole_opens_under_swimming_pool/)
+- [Italy Political Crisis: Right-wing populist party Brothers of Italy &#39;becoming most prominent party&#39; - France 24](https://www.reddit.com/r/news/comments/w5882f/italy_political_crisis_rightwing_populist_party/)
+- [Texas cities are directing police to not enforce state abortion laws. Will it work?](https://www.reddit.com/r/news/comments/w56s7u/texas_cities_are_directing_police_to_not_enforce/)
+- [Officials: Sergeant charged with grabbing officer by throat](https://www.reddit.com/r/news/comments/w54njg/officials_sergeant_charged_with_grabbing_officer/)
+- [Carnival Cruise Line to pay over $10M in damages after jury finds crew member sexually assaulted a passenger](https://www.reddit.com/r/news/comments/w50vb1/carnival_cruise_line_to_pay_over_10m_in_damages/)
 <!-- REDDIT:END -->
 
 
