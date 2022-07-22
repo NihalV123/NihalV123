@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arlington youth pastor charged with child rape](https://www.reddit.com/r/news/comments/w5gwp0/arlington_youth_pastor_charged_with_child_rape/)
+- [Police: Gunman kills 3 at Iowa state park; shooter also dead](https://www.reddit.com/r/news/comments/w5frwa/police_gunman_kills_3_at_iowa_state_park_shooter/)
+- [Veteran Rochester police officer killed, partner shot &#39;in a cowardly ambush,&#39; officials say](https://www.reddit.com/r/news/comments/w5ebp6/veteran_rochester_police_officer_killed_partner/)
+- [Ancient artifacts seized from US billionaire among 142 looted items returned to Italy](https://www.reddit.com/r/news/comments/w5eab3/ancient_artifacts_seized_from_us_billionaire/)
+- [Brexit: UK’s divorce bill from EU could rise to £42.5bn](https://www.reddit.com/r/news/comments/w5e9be/brexit_uks_divorce_bill_from_eu_could_rise_to/)
 <!-- REDDIT:END -->
 
 
