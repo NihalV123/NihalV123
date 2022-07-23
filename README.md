@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-husband allegedly kills Chicago woman in murder-suicide after she opens up about divorce journey on TikTok](https://www.reddit.com/r/news/comments/w6927y/exhusband_allegedly_kills_chicago_woman_in/)
+- [Ticket prices for Bruce Springsteen&#39;s shows are angering some fans](https://www.reddit.com/r/news/comments/w68p4y/ticket_prices_for_bruce_springsteens_shows_are/)
+- [A year on, LGBT Afghans are trapped in refugee camps, facing violence and sexual assault](https://www.reddit.com/r/news/comments/w67pif/a_year_on_lgbt_afghans_are_trapped_in_refugee/)
+- [Mega Millions jackpot swells to $790 million after no lottery ticket drew all 6 winning numbers](https://www.reddit.com/r/news/comments/w66rn1/mega_millions_jackpot_swells_to_790_million_after/)
+- [Canada has worst loss of bee colonies in 20 years | CP24.com](https://www.reddit.com/r/news/comments/w66c93/canada_has_worst_loss_of_bee_colonies_in_20_years/)
 <!-- REDDIT:END -->
 
 
