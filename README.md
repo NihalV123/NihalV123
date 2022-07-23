@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FIRED: Lexington police chief out of a job after racist, expletive-laced recording is leaked](https://www.reddit.com/r/news/comments/w5tkt1/fired_lexington_police_chief_out_of_a_job_after/)
+- [Bo Jackson covered all funeral expenses for Uvalde victims&#39; families, governor says | CNN](https://www.reddit.com/r/news/comments/w5tbz9/bo_jackson_covered_all_funeral_expenses_for/)
+- [The FCC is cracking down on &#39;auto warranty&#39; robocalls](https://www.reddit.com/r/news/comments/w5syns/the_fcc_is_cracking_down_on_auto_warranty/)
+- [Man accused of threats to shoot Buffalo grocery customers](https://www.reddit.com/r/news/comments/w5s7f4/man_accused_of_threats_to_shoot_buffalo_grocery/)
+- [The amount of Greenland ice that melted last weekend could cover West Virginia in a foot of water](https://www.reddit.com/r/news/comments/w5riqt/the_amount_of_greenland_ice_that_melted_last/)
 <!-- REDDIT:END -->
 
 
