@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Why is insulin still so expensive for diabetes patients in the U.S.?](https://www.reddit.com/r/news/comments/w6tq4t/why_is_insulin_still_so_expensive_for_diabetes/)
+- [Woman found dead in her flat after 2 years even though residents reported horrible smell](https://www.reddit.com/r/news/comments/w6siuz/woman_found_dead_in_her_flat_after_2_years_even/)
+- [Governor declares emergency over wildfire near Yosemite](https://www.reddit.com/r/news/comments/w6s1h6/governor_declares_emergency_over_wildfire_near/)
+- [‘I literally screamed out loud in pain’: my two weeks of monkeypox hell | Monkeypox](https://www.reddit.com/r/news/comments/w6qoa2/i_literally_screamed_out_loud_in_pain_my_two/)
+- [Canceled special board meeting to consider firing Uvalde schools police chief Pete Arredondo to be rescheduled in &#39;very near future,&#39; superintendent says](https://www.reddit.com/r/news/comments/w6mw67/canceled_special_board_meeting_to_consider_firing/)
 <!-- REDDIT:END -->
 
 
