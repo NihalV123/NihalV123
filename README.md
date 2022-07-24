@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canceled special board meeting to consider firing Uvalde schools police chief Pete Arredondo to be rescheduled in &#39;very near future,&#39; superintendent says](https://www.reddit.com/r/news/comments/w6mw67/canceled_special_board_meeting_to_consider_firing/)
+- [Ottawa police receive 20 reports from &#39;grandparent&#39; scam victims over the past week | CTV News](https://www.reddit.com/r/news/comments/w6lkqr/ottawa_police_receive_20_reports_from_grandparent/)
+- [Shell chief executive warns Europe may have to ration energy](https://www.reddit.com/r/news/comments/w6k831/shell_chief_executive_warns_europe_may_have_to/)
+- [Missouri City police officer shot following chase near Beltway 9 - 24Talker](https://www.reddit.com/r/news/comments/w6jtlx/missouri_city_police_officer_shot_following_chase/)
+- [Ukraine gets ammo, drones, rockets](https://www.reddit.com/r/news/comments/w6jm0i/ukraine_gets_ammo_drones_rockets/)
 <!-- REDDIT:END -->
 
 
