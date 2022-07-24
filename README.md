@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California Oak fire remains uncontained as Al Gore warns ‘civilization at stake’ | California](https://www.reddit.com/r/news/comments/w7143f/california_oak_fire_remains_uncontained_as_al/)
+- [Why is insulin still so expensive for diabetes patients in the U.S.?](https://www.reddit.com/r/news/comments/w70rcp/why_is_insulin_still_so_expensive_for_diabetes/)
+- [Record-breaking temperatures forecast as heat wave blasts across U.S.](https://www.reddit.com/r/news/comments/w70csn/recordbreaking_temperatures_forecast_as_heat_wave/)
+- [Wildfire near Yosemite National Park explodes in size, forces thousands of evacuations](https://www.reddit.com/r/news/comments/w70c7b/wildfire_near_yosemite_national_park_explodes_in/)
+- [Pope Francis leaves Rome for Indigenous reconciliation visit in Canada](https://www.reddit.com/r/news/comments/w6yrcd/pope_francis_leaves_rome_for_indigenous/)
 <!-- REDDIT:END -->
 
 
