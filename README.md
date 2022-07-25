@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California&#39;s fast-moving Oak Fire burns 14,000 acres and forces thousands to evacuate outside Yosemite National Park.](https://www.reddit.com/r/news/comments/w7nh3n/californias_fastmoving_oak_fire_burns_14000_acres/)
+- [Eurovision: UK to host next year’s Song Contest](https://www.reddit.com/r/news/comments/w7mdfz/eurovision_uk_to_host_next_years_song_contest/)
+- [China confirms warnings to U.S. on Pelosi&#39;s possible Taiwan visit](https://www.reddit.com/r/news/comments/w7lp1n/china_confirms_warnings_to_us_on_pelosis_possible/)
+- [Man who raped 2 girls sought child pornography because the &#39;stories were well-written&#39;](https://www.reddit.com/r/news/comments/w7jj1f/man_who_raped_2_girls_sought_child_pornography/)
+- [Pennsylvania State Trooper charged with felony animal cruelty after hitting horse with patrol vehicle](https://www.reddit.com/r/news/comments/w7i7b7/pennsylvania_state_trooper_charged_with_felony/)
 <!-- REDDIT:END -->
 
 
