@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk denies affair with Google co-founder&#39;s wife](https://www.reddit.com/r/news/comments/w7gf0a/elon_musk_denies_affair_with_google_cofounders/)
+- [Florida man in apparent medical distress crashes car through beach crowd before hitting the water](https://www.reddit.com/r/news/comments/w7fefg/florida_man_in_apparent_medical_distress_crashes/)
+- [Myanmar military executes four democracy activists](https://www.reddit.com/r/news/comments/w7egnd/myanmar_military_executes_four_democracy_activists/)
+- [Firefighters work to build containment around Oak Fire - 24Talker](https://www.reddit.com/r/news/comments/w7ac9n/firefighters_work_to_build_containment_around_oak/)
+- [About 2,500 Boeing workers to strike after rejecting deal](https://www.reddit.com/r/news/comments/w79bcq/about_2500_boeing_workers_to_strike_after/)
 <!-- REDDIT:END -->
 
 
