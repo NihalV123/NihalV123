@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [People woken up by alert about fatal B.C. shooting called 911 to complain](https://www.reddit.com/r/news/comments/w894u8/people_woken_up_by_alert_about_fatal_bc_shooting/)
+- [Company called META that claims Facebook stole its name is suing for infringement](https://www.reddit.com/r/news/comments/w88tf8/company_called_meta_that_claims_facebook_stole/)
+- [Students walk out of Michigan Medicine event keynoted by anti-abortion speaker](https://www.reddit.com/r/news/comments/w87ru0/students_walk_out_of_michigan_medicine_event/)
+- [Rents spike as big-pocketed investors buy mobile home parks](https://www.reddit.com/r/news/comments/w85alf/rents_spike_as_bigpocketed_investors_buy_mobile/)
+- [Man was being strangled by his 4.5-metre pet snake before police shot it in the head](https://www.reddit.com/r/news/comments/w850l6/man_was_being_strangled_by_his_45metre_pet_snake/)
 <!-- REDDIT:END -->
 
 
