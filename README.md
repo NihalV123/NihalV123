@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine wants JPMorgan, Citi, HSBC prosecuted for war crimes: Zelenskyy aide](https://www.reddit.com/r/news/comments/w8gsun/ukraine_wants_jpmorgan_citi_hsbc_prosecuted_for/)
+- [Major blow for One America News as Verizon Fios drops far-right network](https://www.reddit.com/r/news/comments/w8br5t/major_blow_for_one_america_news_as_verizon_fios/)
+- [“Disloyal” Palestinians can be stripped of Citizenship and made stateless rules Israel supreme court.](https://www.reddit.com/r/news/comments/w8bj0q/disloyal_palestinians_can_be_stripped_of/)
+- [Jury awards Chicago police whistleblower Beth Svec more than $4M in suit against city](https://www.reddit.com/r/news/comments/w8bbfz/jury_awards_chicago_police_whistleblower_beth/)
+- [U.S. charges Indian man over $10 mln computer fraud scheme targeting elderly](https://www.reddit.com/r/news/comments/w8b5xh/us_charges_indian_man_over_10_mln_computer_fraud/)
 <!-- REDDIT:END -->
 
 
