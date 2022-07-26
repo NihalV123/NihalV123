@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alex Jones defamation trial begins over Sandy Hook shooting](https://www.reddit.com/r/news/comments/w8ol92/alex_jones_defamation_trial_begins_over_sandy/)
+- [Video shows teens beating officers in confrontation over subway fare evasion, NYPD says](https://www.reddit.com/r/news/comments/w8nxzw/video_shows_teens_beating_officers_in/)
+- [Third set of human remains found at Lake Mead amid drought, National Park Service says](https://www.reddit.com/r/news/comments/w8mpbf/third_set_of_human_remains_found_at_lake_mead/)
+- [Ice Age human footprints discovered in Utah desert](https://www.reddit.com/r/news/comments/w8m8lj/ice_age_human_footprints_discovered_in_utah_desert/)
+- [28 people dead, 60 sick in India from drinking spiked liquor](https://www.reddit.com/r/news/comments/w8l85o/28_people_dead_60_sick_in_india_from_drinking/)
 <!-- REDDIT:END -->
 
 
