@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde City Council to investigate every city officer who responded to school massacre](https://www.reddit.com/r/news/comments/w93xjo/uvalde_city_council_to_investigate_every_city/)
+- [Residents tie man accused of starting wildfires in Oregon to a tree while waiting for police](https://www.reddit.com/r/news/comments/w93sxt/residents_tie_man_accused_of_starting_wildfires/)
+- [Community urges Uvalde council to suspend all city cops who reported to school massacre](https://www.reddit.com/r/news/comments/w932s9/community_urges_uvalde_council_to_suspend_all/)
+- [7.0-magnitude earthquake strikes northern Philippines](https://www.reddit.com/r/news/comments/w92rr0/70magnitude_earthquake_strikes_northern/)
+- [Centuries-old shipwreck thought to have inspired &#39;The Goonies&#39; has been discovered off Oregon coast](https://www.reddit.com/r/news/comments/w91l7y/centuriesold_shipwreck_thought_to_have_inspired/)
 <!-- REDDIT:END -->
 
 
