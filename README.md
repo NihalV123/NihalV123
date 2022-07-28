@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Hunted’: one in three people killed by US police were fleeing, data reveals](https://www.reddit.com/r/news/comments/wa7otj/hunted_one_in_three_people_killed_by_us_police/)
+- [Ukraine steps up drive to retake Russian-controlled south with air strikes](https://www.reddit.com/r/news/comments/wa79q7/ukraine_steps_up_drive_to_retake/)
+- [Shell again smashes record with $11.5 billion profit](https://www.reddit.com/r/news/comments/wa2ibb/shell_again_smashes_record_with_115_billion_profit/)
+- [Millions still without sense of smell or taste after Covid-19](https://www.reddit.com/r/news/comments/wa1q8d/millions_still_without_sense_of_smell_or_taste/)
+- [U.S. offers convicted arms trafficker in prisoner swap with Russia for WNBA star Brittney Griner, per report](https://www.reddit.com/r/news/comments/wa07u6/us_offers_convicted_arms_trafficker_in_prisoner/)
 <!-- REDDIT:END -->
 
 
