@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Bank opened fake accounts for unsuspecting clients — CBS News](https://www.reddit.com/r/news/comments/wafygd/us_bank_opened_fake_accounts_for_unsuspecting/)
+- [U.S. defense contractor and wife who were photographed in KGB uniforms charged with stealing identities of dead children in Texas](https://www.reddit.com/r/news/comments/waelbx/us_defense_contractor_and_wife_who_were/)
+- [The DHS Bought a ‘Shocking Amount’ of Phone-Tracking Data](https://www.reddit.com/r/news/comments/wadol2/the_dhs_bought_a_shocking_amount_of_phonetracking/)
+- [‘Catastrophic’ flash flooding turns deadly, leaves Kentucky towns underwater](https://www.reddit.com/r/news/comments/wadj9x/catastrophic_flash_flooding_turns_deadly_leaves/)
+- [Police: Mom killed 3 kids before dying by suicide in Danbury](https://www.reddit.com/r/news/comments/wadfbk/police_mom_killed_3_kids_before_dying_by_suicide/)
 <!-- REDDIT:END -->
 
 
