@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Clarence Thomas won&#39;t teach GWU course this fall](https://www.reddit.com/r/news/comments/w9uju8/justice_clarence_thomas_wont_teach_gwu_course/)
+- [Baltimore Bombshell: Federal Court Rules Private School’s Nonprofit Status Leads to Title IX Coverage](https://www.reddit.com/r/news/comments/w9srus/baltimore_bombshell_federal_court_rules_private/)
+- [Brookville, Indiana, police accused of arresting man they did not want running for office](https://www.reddit.com/r/news/comments/w9qxwr/brookville_indiana_police_accused_of_arresting/)
+- [Gunmakers made over $1 billion in assault weapon sales in the past decade, congressional report finds](https://www.reddit.com/r/news/comments/w9qc98/gunmakers_made_over_1_billion_in_assault_weapon/)
+- [Gun CEOs call shootings &#39;local problems&#39; and defend &#39;inanimate&#39; weapons](https://www.reddit.com/r/news/comments/w9q6io/gun_ceos_call_shootings_local_problems_and_defend/)
 <!-- REDDIT:END -->
 
 
