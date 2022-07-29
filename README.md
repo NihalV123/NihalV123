@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CNN: Hershey says it won&#39;t be able to meet Halloween demand this year.](https://www.reddit.com/r/news/comments/waq1g5/cnn_hershey_says_it_wont_be_able_to_meet/)
+- [Man serving 39-year sentence to be freed after officer who testified against him is charged with lying](https://www.reddit.com/r/news/comments/wapxyj/man_serving_39year_sentence_to_be_freed_after/)
+- [Infowars star at Alex Jones trial admits he failed to verify story that defamed Sandy Hook dad](https://www.reddit.com/r/news/comments/waputz/infowars_star_at_alex_jones_trial_admits_he/)
+- [Trader Joe&#39;s Workers Vote To Unionize For The First Time](https://www.reddit.com/r/news/comments/waooo6/trader_joes_workers_vote_to_unionize_for_the/)
+- [Concerns grow over gun industry’s accountability after CEOs tell Congress they bear no blame in mass shootings](https://www.reddit.com/r/news/comments/wao2bg/concerns_grow_over_gun_industrys_accountability/)
 <!-- REDDIT:END -->
 
 
