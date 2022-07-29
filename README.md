@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US supreme court justice mocks Prince Harry and Boris Johnson’s criticism of Roe v Wade ruling](https://www.reddit.com/r/news/comments/wavly1/us_supreme_court_justice_mocks_prince_harry_and/)
+- [Kentucky floods kill 8, more deaths expected, governor says](https://www.reddit.com/r/news/comments/watt8i/kentucky_floods_kill_8_more_deaths_expected/)
+- [Polish museum asks visitors to stop having sex on its premises](https://www.reddit.com/r/news/comments/warz25/polish_museum_asks_visitors_to_stop_having_sex_on/)
+- [Horror at Hong Kong boyband concert as huge video screen falls on to performers](https://www.reddit.com/r/news/comments/warqkz/horror_at_hong_kong_boyband_concert_as_huge_video/)
+- [CNN: Hershey says it won&#39;t be able to meet Halloween demand this year.](https://www.reddit.com/r/news/comments/waq1g5/cnn_hershey_says_it_wont_be_able_to_meet/)
 <!-- REDDIT:END -->
 
 
