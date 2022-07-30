@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [In rare move for Supreme Court justice, Samuel Alito mocks foreign critics of abortion reversal](https://www.reddit.com/r/news/comments/wbvoi5/in_rare_move_for_supreme_court_justice_samuel/)
+- [Federal officials are investigating the death of a co-pilot who exited a plane in mid-air in North Carolina](https://www.reddit.com/r/news/comments/wbufro/federal_officials_are_investigating_the_death_of/)
+- [Oglala Sioux Tribe Temporarily Suspends All Christian Missionary Work](https://www.reddit.com/r/news/comments/wbt1z1/oglala_sioux_tribe_temporarily_suspends_all/)
+- [Northern California sheriff orders raid on Indiana Batmobile garage, allegedly as favor for friend](https://www.reddit.com/r/news/comments/wbrpag/northern_california_sheriff_orders_raid_on/)
+- [Family demands answers after Fredericton ER sends man home hours after he broke neck](https://www.reddit.com/r/news/comments/wbq7og/family_demands_answers_after_fredericton_er_sends/)
 <!-- REDDIT:END -->
 
 
