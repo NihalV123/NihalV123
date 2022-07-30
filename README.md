@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Carolina Courage soccer player Jaelene Daniels refuses to play in Pride jersey](https://www.reddit.com/r/news/comments/wbjp6o/north_carolina_courage_soccer_player_jaelene/)
+- [New Jersey city councilwoman caught on video hitting a cyclist with her SUV and driving away](https://www.reddit.com/r/news/comments/wbisg4/new_jersey_city_councilwoman_caught_on_video/)
+- [Unwanted child is no grounds to sue mom for lying about taking the pill: court | CBC News](https://www.reddit.com/r/news/comments/wbiglk/unwanted_child_is_no_grounds_to_sue_mom_for_lying/)
+- [House passes semi-automatic gun ban after 18-year lapse](https://www.reddit.com/r/news/comments/wbhsrc/house_passes_semiautomatic_gun_ban_after_18year/)
+- [Las Vegas police release video of husky puppy rescued from locked car with mouth taped shut](https://www.reddit.com/r/news/comments/wbgurx/las_vegas_police_release_video_of_husky_puppy/)
 <!-- REDDIT:END -->
 
 
