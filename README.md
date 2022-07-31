@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California aims to make its own insulin brand to lower price](https://www.reddit.com/r/news/comments/wcg3qi/california_aims_to_make_its_own_insulin_brand_to/)
+- [Chinese rocket falls to Earth, NASA says Beijing did not share information](https://www.reddit.com/r/news/comments/wcf0cf/chinese_rocket_falls_to_earth_nasa_says_beijing/)
+- [Kansas: The state where abortion is on the ballot](https://www.reddit.com/r/news/comments/wcepx5/kansas_the_state_where_abortion_is_on_the_ballot/)
+- [A Russian national is charged with interfering in St. Petersburg elections](https://www.reddit.com/r/news/comments/wcdoux/a_russian_national_is_charged_with_interfering_in/)
+- [Oklahoma&#39;s board of education downgrades school district&#39;s accreditation over complaint that training shamed White people](https://www.reddit.com/r/news/comments/wccl84/oklahomas_board_of_education_downgrades_school/)
 <!-- REDDIT:END -->
 
 
