@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vladimir Putin ‘preparing plans for evacuation’ if Ukraine overcomes his troops in war that has lasted 162 days so far](https://www.reddit.com/r/news/comments/wcmrkv/vladimir_putin_preparing_plans_for_evacuation_if/)
+- [Pelosi stops in Hawaii and reveals her Asia plans. But no mention of Taiwan](https://www.reddit.com/r/news/comments/wcjqgz/pelosi_stops_in_hawaii_and_reveals_her_asia_plans/)
+- [FBI Raids St. Louis Black Liberation Group Alleging Russian Ties](https://www.reddit.com/r/news/comments/wchr8f/fbi_raids_st_louis_black_liberation_group/)
+- [2 cyclists killed and 3 injured by an SUV that crossed over the center line, authorities say](https://www.reddit.com/r/news/comments/wcgnmy/2_cyclists_killed_and_3_injured_by_an_suv_that/)
+- [California aims to make its own insulin brand to lower price](https://www.reddit.com/r/news/comments/wcg3qi/california_aims_to_make_its_own_insulin_brand_to/)
 <!-- REDDIT:END -->
 
 
