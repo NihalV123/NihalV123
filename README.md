@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prince Charles accepted £1m from family of Osama bin Laden, report claims](https://www.reddit.com/r/news/comments/wcc27w/prince_charles_accepted_1m_from_family_of_osama/)
+- [Sheriff: Man stabbed as he fights off other man trying to perform sex act on him](https://www.reddit.com/r/news/comments/wcc0yt/sheriff_man_stabbed_as_he_fights_off_other_man/)
+- [5 people stabbed on Wisconsin river, suspect in custody: Sheriff&#39;s office](https://www.reddit.com/r/news/comments/wcarz7/5_people_stabbed_on_wisconsin_river_suspect_in/)
+- [2 fatally shot at W.Va. nail salon; gunman killed by police](https://www.reddit.com/r/news/comments/wc9m59/2_fatally_shot_at_wva_nail_salon_gunman_killed_by/)
+- [Ukraine&#39;s Zelenskiy announces mandatory evacuation of Donetsk region](https://www.reddit.com/r/news/comments/wc7ck7/ukraines_zelenskiy_announces_mandatory_evacuation/)
 <!-- REDDIT:END -->
 
 
