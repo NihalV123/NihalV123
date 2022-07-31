@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Celtics great Russell, 11-time champ, dies at 88](https://www.reddit.com/r/news/comments/wcu1vs/celtics_great_russell_11time_champ_dies_at_88/)
+- [6 Oregon deaths may be heat-related as 13 million people in the Northwest swelter under heat alerts](https://www.reddit.com/r/news/comments/wctxkx/6_oregon_deaths_may_be_heatrelated_as_13_million/)
+- [Google CEO tells employees productivity and focus must improve, launches &#39;Simplicity Sprint&#39; to gather employee feedback on efficiency](https://www.reddit.com/r/news/comments/wcsdtq/google_ceo_tells_employees_productivity_and_focus/)
+- [Unidentified man saves grandmother and her relatives as their home is nearly swallowed by Kentucky floodwaters](https://www.reddit.com/r/news/comments/wcsadt/unidentified_man_saves_grandmother_and_her/)
+- [Drone explosion hits Russia&#39;s Black Sea Fleet headquarters](https://www.reddit.com/r/news/comments/wcs8r0/drone_explosion_hits_russias_black_sea_fleet/)
 <!-- REDDIT:END -->
 
 
