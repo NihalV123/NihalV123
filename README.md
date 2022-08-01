@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [In just 3 days, the McKinney Fire in Northern California has exploded to become the state&#39;s largest blaze this year](https://www.reddit.com/r/news/comments/wdejpn/in_just_3_days_the_mckinney_fire_in_northern/)
+- [Australian senator calls the Queen a coloniser while being sworn in to parliament | Australian politics](https://www.reddit.com/r/news/comments/wdcziq/australian_senator_calls_the_queen_a_coloniser/)
+- [China warns its military will &#39;not sit idly by&#39; if Pelosi visits Taiwan](https://www.reddit.com/r/news/comments/wdccx1/china_warns_its_military_will_not_sit_idly_by_if/)
+- [1st grain shipment leaves Ukraine after months of Russian blockade](https://www.reddit.com/r/news/comments/wdax83/1st_grain_shipment_leaves_ukraine_after_months_of/)
+- [New Zealand pornography producer pleads guilty to sex trafficking in US](https://www.reddit.com/r/news/comments/wda45g/new_zealand_pornography_producer_pleads_guilty_to/)
 <!-- REDDIT:END -->
 
 
