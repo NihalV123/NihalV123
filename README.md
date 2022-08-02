@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California declares state of emergency over monkeypox outbreak](https://www.reddit.com/r/news/comments/wdx6d0/california_declares_state_of_emergency_over/)
+- [Driver charged in deaths of 2 bicyclists on charity ride](https://www.reddit.com/r/news/comments/wdwvp3/driver_charged_in_deaths_of_2_bicyclists_on/)
+- [Polio found in New York wastewater as state urges vaccinations](https://www.reddit.com/r/news/comments/wdwg1a/polio_found_in_new_york_wastewater_as_state_urges/)
+- [Education Department Planning for Student Debt Forgiveness](https://www.reddit.com/r/news/comments/wdvqml/education_department_planning_for_student_debt/)
+- [Family slams heavily redacted report on fatal police shooting of 8-year-old girl](https://www.reddit.com/r/news/comments/wduih8/family_slams_heavily_redacted_report_on_fatal/)
 <!-- REDDIT:END -->
 
 
