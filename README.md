@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Polio found in New York wastewater month before confirmed case emerged | New York](https://www.reddit.com/r/news/comments/we93xs/polio_found_in_new_york_wastewater_month_before/)
+- [Female journalist told skirt too short when reporting on Alabama execution | US news](https://www.reddit.com/r/news/comments/we8hal/female_journalist_told_skirt_too_short_when/)
+- [BP reports profits of £7bn as oil prices surge because of Ukraine war](https://www.reddit.com/r/news/comments/we4qsx/bp_reports_profits_of_7bn_as_oil_prices_surge/)
+- [US VP Harris to announce $1bn to states for floods, extreme heat](https://www.reddit.com/r/news/comments/we4pzb/us_vp_harris_to_announce_1bn_to_states_for_floods/)
+- [6 shot, 1 killed in DC shooting: Police](https://www.reddit.com/r/news/comments/we0oia/6_shot_1_killed_in_dc_shooting_police/)
 <!-- REDDIT:END -->
 
 
