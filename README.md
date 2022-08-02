@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sources: McDonald&#39;s employee shot in neck after argument about cold fries in Brooklyn](https://www.reddit.com/r/news/comments/wehlr5/sources_mcdonalds_employee_shot_in_neck_after/)
+- [NFL suspends Dolphins owner, strips team of 2023 first-rounder for Tom Brady, Sean Payton tampering](https://www.reddit.com/r/news/comments/wehftr/nfl_suspends_dolphins_owner_strips_team_of_2023/)
+- [&#39;Forever chemicals&#39; over safe levels in rainwater - BBC News](https://www.reddit.com/r/news/comments/wehah8/forever_chemicals_over_safe_levels_in_rainwater/)
+- [China to launch &#39;targeted military operations&#39; due to Pelosi visit](https://www.reddit.com/r/news/comments/wegklc/china_to_launch_targeted_military_operations_due/)
+- [Georgia residents can now claim embryos as dependents on state taxes](https://www.reddit.com/r/news/comments/weeu5s/georgia_residents_can_now_claim_embryos_as/)
 <!-- REDDIT:END -->
 
 
