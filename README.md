@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Special prosecutor says Virginia police officer who pepper-sprayed Army lieutenant should not face state charges](https://www.reddit.com/r/news/comments/wersp8/special_prosecutor_says_virginia_police_officer/)
+- [A Galapagos island is teeming with baby iguanas, more than a century after they disappeared](https://www.reddit.com/r/news/comments/wepyug/a_galapagos_island_is_teeming_with_baby_iguanas/)
+- [Florida man arrested on DUI charge after driving scooter into Walmart shelves, police say](https://www.reddit.com/r/news/comments/wepczy/florida_man_arrested_on_dui_charge_after_driving/)
+- [U.S. sanctions more Russian oligarchs; Senate moves toward vote to admit Sweden and Finland into NATO](https://www.reddit.com/r/news/comments/weocih/us_sanctions_more_russian_oligarchs_senate_moves/)
+- [Robinhood&#39;s crypto arm fined $30 mln by New York State&#39;s financial regulator](https://www.reddit.com/r/news/comments/weluaw/robinhoods_crypto_arm_fined_30_mln_by_new_york/)
 <!-- REDDIT:END -->
 
 
