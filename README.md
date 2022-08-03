@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man arrested for allegedly sparking wildfire while trying to burn a spider](https://www.reddit.com/r/news/comments/wewbrp/man_arrested_for_allegedly_sparking_wildfire/)
+- [Vin Scully, legendary Dodgers broadcaster, dies at 94](https://www.reddit.com/r/news/comments/wevkow/vin_scully_legendary_dodgers_broadcaster_dies_at/)
+- [Kansas voters reject effort to eliminate state abortion protections](https://www.reddit.com/r/news/comments/weu7k7/kansas_voters_reject_effort_to_eliminate_state/)
+- [Senate passes burn pit legislation to expand veteran health care](https://www.reddit.com/r/news/comments/weu5q2/senate_passes_burn_pit_legislation_to_expand/)
+- [Florida clergy lawsuits say abortion ban violates religious freedom](https://www.reddit.com/r/news/comments/wetv12/florida_clergy_lawsuits_say_abortion_ban_violates/)
 <!-- REDDIT:END -->
 
 
