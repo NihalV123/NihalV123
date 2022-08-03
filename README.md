@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [GirlsDoPorn operator pleads guilty to sex trafficking](https://www.reddit.com/r/news/comments/wf3y42/girlsdoporn_operator_pleads_guilty_to_sex/)
+- [Pelosi says US will not abandon Taiwan as China protests](https://www.reddit.com/r/news/comments/wf34fr/pelosi_says_us_will_not_abandon_taiwan_as_china/)
+- [Zawahiri appeared on his balcony. The CIA was watching — and ready to kill him.](https://www.reddit.com/r/news/comments/wf2fi6/zawahiri_appeared_on_his_balcony_the_cia_was/)
+- [An NRA charity planned to raffle an AR-15 at a Texas event. Then Uvalde families protested and the group lost its site](https://www.reddit.com/r/news/comments/weyxsw/an_nra_charity_planned_to_raffle_an_ar15_at_a/)
+- [Parents of a 6-year-old Sandy Hook victim say Alex Jones has made life a &#39;living hell&#39;](https://www.reddit.com/r/news/comments/wey009/parents_of_a_6yearold_sandy_hook_victim_say_alex/)
 <!-- REDDIT:END -->
 
 
