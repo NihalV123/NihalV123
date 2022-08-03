@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alex Jones claims defamation trial rigged, jurors don&#39;t know what &quot;planet they&#39;re on&quot;](https://www.reddit.com/r/news/comments/wfd674/alex_jones_claims_defamation_trial_rigged_jurors/)
+- [Alex Jones concedes Sandy Hook attack was &#39;100% real&#39;](https://www.reddit.com/r/news/comments/wfbfza/alex_jones_concedes_sandy_hook_attack_was_100_real/)
+- [Shell to give staff 8% bonus after record profits](https://www.reddit.com/r/news/comments/wfannb/shell_to_give_staff_8_bonus_after_record_profits/)
+- [Some lab techs refuse to take blood from possible monkeypox patients, raising concerns about stigma and testing delays](https://www.reddit.com/r/news/comments/wf9f6e/some_lab_techs_refuse_to_take_blood_from_possible/)
+- [Record amount of seaweed is choking shores in the Caribbean](https://www.reddit.com/r/news/comments/wf964t/record_amount_of_seaweed_is_choking_shores_in_the/)
 <!-- REDDIT:END -->
 
 
