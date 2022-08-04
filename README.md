@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nearly a dozen pups born to California wolf families](https://www.reddit.com/r/news/comments/wg5m02/nearly_a_dozen_pups_born_to_california_wolf/)
+- [Alex Jones’ cellphone records include ‘intimate messages with Roger Stone,’ Sandy Hook attorney says](https://www.reddit.com/r/news/comments/wg4y64/alex_jones_cellphone_records_include_intimate/)
+- [Former Missouri teacher gets 30 years in prison for coercing children to send images](https://www.reddit.com/r/news/comments/wg4mgz/former_missouri_teacher_gets_30_years_in_prison/)
+- [WNBA star Brittney Griner sentenced to nine years in prison by Russian court](https://www.reddit.com/r/news/comments/wg43sv/wnba_star_brittney_griner_sentenced_to_nine_years/)
+- [US police charged over death of Breonna Taylor](https://www.reddit.com/r/news/comments/wg40ev/us_police_charged_over_death_of_breonna_taylor/)
 <!-- REDDIT:END -->
 
 
