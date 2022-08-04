@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [City Council votes to set $25 minimum wage for health care workers in Long Beach](https://www.reddit.com/r/news/comments/wfs6lf/city_council_votes_to_set_25_minimum_wage_for/)
+- [Pearson plans to sell its textbooks as NFTs](https://www.reddit.com/r/news/comments/wfrchg/pearson_plans_to_sell_its_textbooks_as_nfts/)
+- [‘Never seen it this bad’: America faces catastrophic teacher shortage](https://www.reddit.com/r/news/comments/wfqn15/never_seen_it_this_bad_america_faces_catastrophic/)
+- [Lollapalooza Security Guard Faked Mass Shooting Threat To Leave Work Early, Prosecutors Say](https://www.reddit.com/r/news/comments/wfpc1m/lollapalooza_security_guard_faked_mass_shooting/)
+- [American west faces water and power shortages due to climate crisis: UN environment agency](https://www.reddit.com/r/news/comments/wfnehk/american_west_faces_water_and_power_shortages_due/)
 <!-- REDDIT:END -->
 
 
