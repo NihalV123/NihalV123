@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China sanctions US House Speaker Nancy Pelosi](https://www.reddit.com/r/news/comments/wgq7p7/china_sanctions_us_house_speaker_nancy_pelosi/)
+- [Kevin Spacey ordered to pay $31m over House Of Cards axing](https://www.reddit.com/r/news/comments/wgp71k/kevin_spacey_ordered_to_pay_31m_over_house_of/)
+- [Postal Employees Voice Major Concerns as USPS Begins Implementing Its Delivery Consolidation Plan](https://www.reddit.com/r/news/comments/wgm6nn/postal_employees_voice_major_concerns_as_usps/)
+- [CDC estimates 1.7 million gay and bisexual men face highest risk from monkeypox](https://www.reddit.com/r/news/comments/wgk2y1/cdc_estimates_17_million_gay_and_bisexual_men/)
+- [Polio fears rise in New York amid possible community spread](https://www.reddit.com/r/news/comments/wgjtez/polio_fears_rise_in_new_york_amid_possible/)
 <!-- REDDIT:END -->
 
 
