@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CDC estimates 1.7 million gay and bisexual men face highest risk from monkeypox](https://www.reddit.com/r/news/comments/wgk2y1/cdc_estimates_17_million_gay_and_bisexual_men/)
+- [Polio fears rise in New York amid possible community spread](https://www.reddit.com/r/news/comments/wgjtez/polio_fears_rise_in_new_york_amid_possible/)
+- [5 killed, 9 injured in fiery crash as car runs light, slams into cross traffic in Windsor Hills](https://www.reddit.com/r/news/comments/wgj4v3/5_killed_9_injured_in_fiery_crash_as_car_runs/)
+- [Brittney Griner: US urges Russia to accept deal to free jailed basketball star](https://www.reddit.com/r/news/comments/wghx0h/brittney_griner_us_urges_russia_to_accept_deal_to/)
+- [Albert Woodfox, former Black Panther who spent 43 years in solitary confinement, dies at age 75](https://www.reddit.com/r/news/comments/wggxbk/albert_woodfox_former_black_panther_who_spent_43/)
 <!-- REDDIT:END -->
 
 
