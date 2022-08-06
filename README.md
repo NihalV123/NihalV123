@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The iRobot Deal Would Give Amazon Maps Inside Millions of Homes Why is the Roomba company worth $1.7 billion to Amazon? It’s not the dust, it’s the data.](https://www.reddit.com/r/news/comments/whtxcx/the_irobot_deal_would_give_amazon_maps_inside/)
+- [New Jersey man gets 5 years in prison for role in $400K GoFundMe scam with fake story about homeless man](https://www.reddit.com/r/news/comments/whtmwo/new_jersey_man_gets_5_years_in_prison_for_role_in/)
+- [One of Ahmaud Arbery&#39;s killers fears being slain in a Georgia state prison, court document says](https://www.reddit.com/r/news/comments/whs9y5/one_of_ahmaud_arberys_killers_fears_being_slain/)
+- [SF commissioner-at-large calls for change after brutal assault outside SOMA home](https://www.reddit.com/r/news/comments/whs2ph/sf_commissioneratlarge_calls_for_change_after/)
+- [New York Health Department says hundreds of people may be infected with polio virus - CBS News](https://www.reddit.com/r/news/comments/whrglt/new_york_health_department_says_hundreds_of/)
 <!-- REDDIT:END -->
 
 
