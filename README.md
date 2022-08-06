@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China severs ties with US over Taiwan tension | news.com.au](https://www.reddit.com/r/news/comments/whfhz2/china_severs_ties_with_us_over_taiwan_tension/)
+- [Indiana becomes 1st state to approve abortion ban post Roe](https://www.reddit.com/r/news/comments/whf75c/indiana_becomes_1st_state_to_approve_abortion_ban/)
+- [Minnesota jury: Woman wasn&#39;t entitled to morning-after pill](https://www.reddit.com/r/news/comments/whek46/minnesota_jury_woman_wasnt_entitled_to/)
+- [US fireman finds 10 dead in house blaze are his family](https://www.reddit.com/r/news/comments/whebuv/us_fireman_finds_10_dead_in_house_blaze_are_his/)
+- [NYC mayor asking for pictures of city job applicants in suspected push for more diversity](https://www.reddit.com/r/news/comments/whe8tf/nyc_mayor_asking_for_pictures_of_city_job/)
 <!-- REDDIT:END -->
 
 
