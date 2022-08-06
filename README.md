@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Not her body, not her choice:’ Indiana lawmakers on abortion ban](https://www.reddit.com/r/news/comments/whmdy1/not_her_body_not_her_choice_indiana_lawmakers_on/)
+- [Taiwan accuses Beijing of simulating invasion as US-China relations nosedive | news.com.au](https://www.reddit.com/r/news/comments/whlfxd/taiwan_accuses_beijing_of_simulating_invasion_as/)
+- [Busted noses, broken devices: Texas police department routinely rough with the medically vulnerable, lawsuit alleges](https://www.reddit.com/r/news/comments/whice7/busted_noses_broken_devices_texas_police/)
+- [Muslim men likely targeted and killed in New Mexico, police say](https://www.reddit.com/r/news/comments/whhcdq/muslim_men_likely_targeted_and_killed_in_new/)
+- [Indiana becomes 1st state to approve abortion ban post Roe](https://www.reddit.com/r/news/comments/whf75c/indiana_becomes_1st_state_to_approve_abortion_ban/)
 <!-- REDDIT:END -->
 
 
