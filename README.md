@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DNA links two men in prison to cold case from 1983 that originally sent the wrong man to prison for 37 years.](https://www.reddit.com/r/news/comments/wi2hki/dna_links_two_men_in_prison_to_cold_case_from/)
+- [Cancer-causing chemical found in Michigan pond](https://www.reddit.com/r/news/comments/wi20qz/cancercausing_chemical_found_in_michigan_pond/)
+- [11-year-old girl dies after going missing in lake at Windsor water park](https://www.reddit.com/r/news/comments/wi1m27/11yearold_girl_dies_after_going_missing_in_lake/)
+- [Dutch man Aydin Coban convicted of sexually extorting B.C. teen Amanda Todd | CBC News](https://www.reddit.com/r/news/comments/whzmem/dutch_man_aydin_coban_convicted_of_sexually/)
+- [School document appears to contradict Agape Boarding School&#39;s claims they did not restrain a student](https://www.reddit.com/r/news/comments/whzm8d/school_document_appears_to_contradict_agape/)
 <!-- REDDIT:END -->
 
 
