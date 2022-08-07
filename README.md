@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nepal has nearly tripled its wild tiger population since 2009](https://www.reddit.com/r/news/comments/wi7imd/nepal_has_nearly_tripled_its_wild_tiger/)
+- [St. Paul officer saves 4 young girls from burning home](https://www.reddit.com/r/news/comments/wi7gr6/st_paul_officer_saves_4_young_girls_from_burning/)
+- [Albuquerque police investigate murder of fourth Muslim man](https://www.reddit.com/r/news/comments/wi5jo4/albuquerque_police_investigate_murder_of_fourth/)
+- [Uganda LGBT rights: Government shuts down key advocacy group](https://www.reddit.com/r/news/comments/wi2rmq/uganda_lgbt_rights_government_shuts_down_key/)
+- [17 missing, 121 hurt as fire rages in Cuban oil tank farm](https://www.reddit.com/r/news/comments/wi2ki8/17_missing_121_hurt_as_fire_rages_in_cuban_oil/)
 <!-- REDDIT:END -->
 
 
