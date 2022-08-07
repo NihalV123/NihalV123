@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UPDATE: At least 9 people hurt in mass shooting near bar in Cincinnati](https://www.reddit.com/r/news/comments/widdqr/update_at_least_9_people_hurt_in_mass_shooting/)
+- [Ex-officer sentenced in rough arrest of woman with dementia](https://www.reddit.com/r/news/comments/widbwz/exofficer_sentenced_in_rough_arrest_of_woman_with/)
+- [Multiple injuries in shooting in downtown Cincinnati](https://www.reddit.com/r/news/comments/wic0kk/multiple_injuries_in_shooting_in_downtown/)
+- [Gen. Michael Langley becomes the Marine Corps&#39; first Black four-star general](https://www.reddit.com/r/news/comments/wia1jo/gen_michael_langley_becomes_the_marine_corps/)
+- [Tribe: California wildfire near Oregon causes fish deaths](https://www.reddit.com/r/news/comments/wi9jr5/tribe_california_wildfire_near_oregon_causes_fish/)
 <!-- REDDIT:END -->
 
 
