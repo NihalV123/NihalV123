@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Utah-based Lions Not Sheep apparel company fined for swapping ‘Made in China’ tags for ‘Made in USA’](https://www.reddit.com/r/news/comments/wildrt/utahbased_lions_not_sheep_apparel_company_fined/)
+- [Brazil Increased Environmental Damage - &quot;Man who destroyed vast forest wins demise of park&quot;](https://www.reddit.com/r/news/comments/wikhfg/brazil_increased_environmental_damage_man_who/)
+- [Texas teacher sentenced to 60 days for sexual abuse of former student when he was 13](https://www.reddit.com/r/news/comments/wijifp/texas_teacher_sentenced_to_60_days_for_sexual/)
+- [Chaos after heat crashes computers at leading London hospitals](https://www.reddit.com/r/news/comments/wiinjc/chaos_after_heat_crashes_computers_at_leading/)
+- [6-Year-Old NYC Girl Punched in Chest, Robbed of $30 Scooter in Broad Daylight](https://www.reddit.com/r/news/comments/wiijrg/6yearold_nyc_girl_punched_in_chest_robbed_of_30/)
 <!-- REDDIT:END -->
 
 
