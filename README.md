@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gregory and Travis McMichael get second life sentences for federal hate crime convictions in Ahmaud Arbery&#39;s killing](https://www.reddit.com/r/news/comments/wjfi9a/gregory_and_travis_mcmichael_get_second_life/)
+- [Zoonotic Langya virus found in China, CDC says - Taipei Times](https://www.reddit.com/r/news/comments/wjd6qv/zoonotic_langya_virus_found_in_china_cdc_says/)
+- [US sanctions cryptocurrency service allegedly used by North Korea for money laundering](https://www.reddit.com/r/news/comments/wjcyxc/us_sanctions_cryptocurrency_service_allegedly/)
+- [Travis McMichael sentenced to life in prison for federal hate crimes in killing of Ahmaud Arbery](https://www.reddit.com/r/news/comments/wjbc9s/travis_mcmichael_sentenced_to_life_in_prison_for/)
+- [At least 19 rescued from flash flooding in Denver as Kentucky faces possibility of further floods](https://www.reddit.com/r/news/comments/wj9pzj/at_least_19_rescued_from_flash_flooding_in_denver/)
 <!-- REDDIT:END -->
 
 
