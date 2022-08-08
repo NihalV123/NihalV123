@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1st sea turtle nest found on Mississippi beach since 2018](https://www.reddit.com/r/news/comments/wj56vg/1st_sea_turtle_nest_found_on_mississippi_beach/)
+- [7 boys, ages 12-15, arrested after police chase in Lake Elmo](https://www.reddit.com/r/news/comments/wj3chj/7_boys_ages_1215_arrested_after_police_chase_in/)
+- [Qantas asks executives to work as baggage handlers for three months](https://www.reddit.com/r/news/comments/wj34wa/qantas_asks_executives_to_work_as_baggage/)
+- [Arkansas judge found dead in lake after he went missing on a family trip](https://www.reddit.com/r/news/comments/wj1hus/arkansas_judge_found_dead_in_lake_after_he_went/)
+- [More than 900 US flights canceled, and 6,300 US flights delayed on Sunday](https://www.reddit.com/r/news/comments/wj16o9/more_than_900_us_flights_canceled_and_6300_us/)
 <!-- REDDIT:END -->
 
 
