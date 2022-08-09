@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [PGA Tour says players knew consequences of joining LIV Golf](https://www.reddit.com/r/news/comments/wjv78w/pga_tour_says_players_knew_consequences_of/)
+- [Ezra Miller charged with felony burglary days after Warner Bros Discovery CEO Zaslav praises ‘Flash’ movie](https://www.reddit.com/r/news/comments/wjs75i/ezra_miller_charged_with_felony_burglary_days/)
+- [Three people in critical condition after Google data center &#39;electrical incident&#39;](https://www.reddit.com/r/news/comments/wjraw5/three_people_in_critical_condition_after_google/)
+- [Two Muslim men file federal discrimination suit against Alaska Airlines after they say they were removed for texting in Arabic](https://www.reddit.com/r/news/comments/wjp5jm/two_muslim_men_file_federal_discrimination_suit/)
+- [Major test of first possible Lyme vaccine in 20 years begins](https://www.reddit.com/r/news/comments/wjoxnz/major_test_of_first_possible_lyme_vaccine_in_20/)
 <!-- REDDIT:END -->
 
 
