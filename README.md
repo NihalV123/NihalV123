@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pelosi says U.S. cannot allow China to isolate Taiwan](https://www.reddit.com/r/news/comments/wk1qfm/pelosi_says_us_cannot_allow_china_to_isolate/)
+- [US pledges $1 billion more rockets, other arms for Ukraine | AP News](https://www.reddit.com/r/news/comments/wk0es1/us_pledges_1_billion_more_rockets_other_arms_for/)
+- [US returns to Cambodia dozens of antiquities looted from historic sites](https://www.reddit.com/r/news/comments/wjzanj/us_returns_to_cambodia_dozens_of_antiquities/)
+- [New Zealand&#39;s endangered kakapo parrot gets a big population boost](https://www.reddit.com/r/news/comments/wjz3a9/new_zealands_endangered_kakapo_parrot_gets_a_big/)
+- [Rescuers plan how to extract beluga whale from River Seine](https://www.reddit.com/r/news/comments/wjy88s/rescuers_plan_how_to_extract_beluga_whale_from/)
 <!-- REDDIT:END -->
 
 
