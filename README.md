@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two Muslim men file federal discrimination suit against Alaska Airlines after they say they were removed for texting in Arabic](https://www.reddit.com/r/news/comments/wjp5jm/two_muslim_men_file_federal_discrimination_suit/)
+- [Major test of first possible Lyme vaccine in 20 years begins](https://www.reddit.com/r/news/comments/wjoxnz/major_test_of_first_possible_lyme_vaccine_in_20/)
+- [Paraplegic shooting suspect can avoid trial and end his life, Spanish court says](https://www.reddit.com/r/news/comments/wjnbj5/paraplegic_shooting_suspect_can_avoid_trial_and/)
+- [FBI executes search warrant at Trump&#39;s Mar-a-Lago](https://www.reddit.com/r/news/comments/wjmxvt/fbi_executes_search_warrant_at_trumps_maralago/)
+- [U.S. Navy Recovers F/A-18E from Mediterranean Sea](https://www.reddit.com/r/news/comments/wjmths/us_navy_recovers_fa18e_from_mediterranean_sea/)
 <!-- REDDIT:END -->
 
 
