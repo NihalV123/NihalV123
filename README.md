@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russians buy last goods from H&amp;M, IKEA as stores begin exit](https://www.reddit.com/r/news/comments/wl2fmb/russians_buy_last_goods_from_hm_ikea_as_stores/)
+- [An Iranian national is charged in a plot to murder John Bolton](https://www.reddit.com/r/news/comments/wl0oog/an_iranian_national_is_charged_in_a_plot_to/)
+- [American tourist raped in public toilet in central Paris | France](https://www.reddit.com/r/news/comments/wl0g73/american_tourist_raped_in_public_toilet_in/)
+- [Body Found on Fire, Hanging From Griffith Park Tree](https://www.reddit.com/r/news/comments/wkzapk/body_found_on_fire_hanging_from_griffith_park_tree/)
+- [Intruder who broke into monkey enclosure in Tasmania at risk of ‘potentially fatal’ herpes](https://www.reddit.com/r/news/comments/wkzaig/intruder_who_broke_into_monkey_enclosure_in/)
 <!-- REDDIT:END -->
 
 
