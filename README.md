@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trans woman, Twitch streamer Keffals doxxed, arrested at gunpoint by London, Ont. police](https://www.reddit.com/r/news/comments/wkteyq/trans_woman_twitch_streamer_keffals_doxxed/)
+- [Thomson-Upson County Schools: &#39;Massager&#39; was mistaken as firearm, prompting lockdown](https://www.reddit.com/r/news/comments/wktbsf/thomsonupson_county_schools_massager_was_mistaken/)
+- [Lost dog wearing Gilroy license tags found 5,600 miles away in small German village](https://www.reddit.com/r/news/comments/wksyns/lost_dog_wearing_gilroy_license_tags_found_5600/)
+- [Newly identified Langya virus tracked after China reports dozens of cases | Infectious diseases](https://www.reddit.com/r/news/comments/wkpaq3/newly_identified_langya_virus_tracked_after_china/)
+- [Richer people are eating more at Applebee&#39;s and IHOP](https://www.reddit.com/r/news/comments/wko0ay/richer_people_are_eating_more_at_applebees_and/)
 <!-- REDDIT:END -->
 
 
