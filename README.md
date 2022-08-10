@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richer people are eating more at Applebee&#39;s and IHOP](https://www.reddit.com/r/news/comments/wko0ay/richer_people_are_eating_more_at_applebees_and/)
+- [Elon Musk sells 7.92 million Tesla shares worth $6.88 billion](https://www.reddit.com/r/news/comments/wkmsvx/elon_musk_sells_792_million_tesla_shares_worth/)
+- [Homes needed for 4,000 beagles rescued from breeder in US](https://www.reddit.com/r/news/comments/wkmpum/homes_needed_for_4000_beagles_rescued_from/)
+- [Gate to Temple of Zeus Unearthed in Magnesia, Asia Minor](https://www.reddit.com/r/news/comments/wkmo27/gate_to_temple_of_zeus_unearthed_in_magnesia_asia/)
+- [Growing calls for &#39;civil war&#39; in far-right groups after FBI search](https://www.reddit.com/r/news/comments/wklhtl/growing_calls_for_civil_war_in_farright_groups/)
 <!-- REDDIT:END -->
 
 
