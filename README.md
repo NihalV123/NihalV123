@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal judge denies LIV golfers bid for PGA Tour postseason](https://www.reddit.com/r/news/comments/wkidu5/federal_judge_denies_liv_golfers_bid_for_pga_tour/)
+- [Nebraska mother, teenager face charges in teen&#39;s abortion after police obtain their Facebook DMs](https://www.reddit.com/r/news/comments/wkhrjr/nebraska_mother_teenager_face_charges_in_teens/)
+- [Anchorage Health Department Director Resigns Amid Investigation Into Fabricated Resume](https://www.reddit.com/r/news/comments/wkha6x/anchorage_health_department_director_resigns_amid/)
+- [An Ohio man is in custody after being accused of sending about three-dozen feces-filled letters to lawmakers around the country](https://www.reddit.com/r/news/comments/wkgs1d/an_ohio_man_is_in_custody_after_being_accused_of/)
+- [Chipotle to pay NYC workers $20M for violating labor laws](https://www.reddit.com/r/news/comments/wkglt1/chipotle_to_pay_nyc_workers_20m_for_violating/)
 <!-- REDDIT:END -->
 
 
