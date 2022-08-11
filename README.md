@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Venetians fear ‘museum relic’ status as population drops below 50,000](https://www.reddit.com/r/news/comments/wlhjdc/venetians_fear_museum_relic_status_as_population/)
+- [Colorado to stop sales tax on diapers and menstrual products](https://www.reddit.com/r/news/comments/wlftb6/colorado_to_stop_sales_tax_on_diapers_and/)
+- [Meta&#39;s chatbot says the company &#39;exploits people&#39; - BBC News](https://www.reddit.com/r/news/comments/wlff5v/metas_chatbot_says_the_company_exploits_people/)
+- [Fear turns to shock among Albuquerque Muslims as police say the shooter is a Muslim](https://www.reddit.com/r/news/comments/wlfaiu/fear_turns_to_shock_among_albuquerque_muslims_as/)
+- [Study finds spiders likely sleep and dream a lot like people](https://www.reddit.com/r/news/comments/wleu93/study_finds_spiders_likely_sleep_and_dream_a_lot/)
 <!-- REDDIT:END -->
 
 
