@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI delivers subpoenas to several Pa. Republican lawmakers: sources say](https://www.reddit.com/r/news/comments/wlcglp/fbi_delivers_subpoenas_to_several_pa_republican/)
+- [Irvine doctor allegedly caught on camera poisoning her husband with Drano](https://www.reddit.com/r/news/comments/wlbnly/irvine_doctor_allegedly_caught_on_camera/)
+- [Two Ind. officers suspended after arresting man thought to be anti-police](https://www.reddit.com/r/news/comments/wlamdy/two_ind_officers_suspended_after_arresting_man/)
+- [3 people dead after house explosion in Indiana, authorities confirmed](https://www.reddit.com/r/news/comments/wlaec8/3_people_dead_after_house_explosion_in_indiana/)
+- [Tens of thousands of fish dead after California wildfire washes debris into river](https://www.reddit.com/r/news/comments/wl9bt9/tens_of_thousands_of_fish_dead_after_california/)
 <!-- REDDIT:END -->
 
 
