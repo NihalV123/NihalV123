@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Anne Heche “Not Expected To Survive” After Severe Brain Injury, Will Be Taken Off Life Support](https://www.reddit.com/r/news/comments/wmb08u/anne_heche_not_expected_to_survive_after_severe/)
+- [Over 900,000 Brazilians sign letter in defense of democracy](https://www.reddit.com/r/news/comments/wm9m7n/over_900000_brazilians_sign_letter_in_defense_of/)
+- [FBI: Data from mall gunman&#39;s laptop cannot be recovered](https://www.reddit.com/r/news/comments/wm8sop/fbi_data_from_mall_gunmans_laptop_cannot_be/)
+- [Massachusetts just passed a massive climate and clean energy bill](https://www.reddit.com/r/news/comments/wm7yly/massachusetts_just_passed_a_massive_climate_and/)
+- [FBI searched Trump’s home to look for nuclear documents and other items, sources say](https://www.reddit.com/r/news/comments/wm78eg/fbi_searched_trumps_home_to_look_for_nuclear/)
 <!-- REDDIT:END -->
 
 
