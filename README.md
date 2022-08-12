@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Meta injecting code into websites to track its users, research says | Meta](https://www.reddit.com/r/news/comments/wmjaa7/meta_injecting_code_into_websites_to_track_its/)
+- [Drought declared across eight areas of England](https://www.reddit.com/r/news/comments/wmikb0/drought_declared_across_eight_areas_of_england/)
+- [Union launches court case seeking up to $250m from McDonald’s Australia for alleged unpaid wages](https://www.reddit.com/r/news/comments/wmfp3k/union_launches_court_case_seeking_up_to_250m_from/)
+- [California to become 1st state to offer free school lunches for all students](https://www.reddit.com/r/news/comments/wme0xc/california_to_become_1st_state_to_offer_free/)
+- [Anne Heche “Not Expected To Survive” After Severe Brain Injury, Will Be Taken Off Life Support](https://www.reddit.com/r/news/comments/wmb08u/anne_heche_not_expected_to_survive_after_severe/)
 <!-- REDDIT:END -->
 
 
