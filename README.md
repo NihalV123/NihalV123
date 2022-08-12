@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Armed man shot dead after trying to breach Ohio FBI office](https://www.reddit.com/r/news/comments/wm74gt/armed_man_shot_dead_after_trying_to_breach_ohio/)
+- [Dallas salon shooting suspect indicted on hate crime charge for allegedly shooting 3 Korean women](https://www.reddit.com/r/news/comments/wm5k0o/dallas_salon_shooting_suspect_indicted_on_hate/)
+- [Ferrari Is Recalling Nearly Every Car It&#39;s Sold Since 2005](https://www.reddit.com/r/news/comments/wm5c5h/ferrari_is_recalling_nearly_every_car_its_sold/)
+- [Amber Alert suspect found working campground security at South Dakota biker rally](https://www.reddit.com/r/news/comments/wm4p2z/amber_alert_suspect_found_working_campground/)
+- [CDC ends recommendations for social distancing and quarantine for Covid-19 control, no longer recommends test-to-stay in schools](https://www.reddit.com/r/news/comments/wm4fde/cdc_ends_recommendations_for_social_distancing/)
 <!-- REDDIT:END -->
 
 
