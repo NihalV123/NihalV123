@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Salman Rushdie alive, NY governor says. Assailant in custody](https://www.reddit.com/r/news/comments/wmrv9e/salman_rushdie_alive_ny_governor_says_assailant/)
+- [Actor Anne Heche dies a week after car crash, aged 53](https://www.reddit.com/r/news/comments/wmre0s/actor_anne_heche_dies_a_week_after_car_crash_aged/)
+- [New York judge rules criminal case against the Trump Organization and former CFO Allen Weisselberg can proceed](https://www.reddit.com/r/news/comments/wmqz63/new_york_judge_rules_criminal_case_against_the/)
+- [FBI shooter was prolific contributor to Trump’s Truth Social website](https://www.reddit.com/r/news/comments/wmqn31/fbi_shooter_was_prolific_contributor_to_trumps/)
+- [Germany and Poland search for cause of mass fish die-off in river Oder](https://www.reddit.com/r/news/comments/wmpugq/germany_and_poland_search_for_cause_of_mass_fish/)
 <!-- REDDIT:END -->
 
 
