@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Female Teacher Gets 60 Days in Jail for Raping a 13-Year-Old Student](https://www.reddit.com/r/news/comments/wn66xd/female_teacher_gets_60_days_in_jail_for_raping_a/)
+- [Elderly woman murdered during home invasion in Woodland Hills: LAPD](https://www.reddit.com/r/news/comments/wn4qaa/elderly_woman_murdered_during_home_invasion_in/)
+- [Gun in &#39;Rust&#39; shooting could not have been fired without pulling trigger: FBI report](https://www.reddit.com/r/news/comments/wn3hrb/gun_in_rust_shooting_could_not_have_been_fired/)
+- [Author Salman Rushdie will ‘likely’ lose an eye after being stabbed in New York](https://www.reddit.com/r/news/comments/wn1vsf/author_salman_rushdie_will_likely_lose_an_eye/)
+- [Southern Baptists say they face U.S. federal probe after sex abuse claims](https://www.reddit.com/r/news/comments/wmzzdy/southern_baptists_say_they_face_us_federal_probe/)
 <!-- REDDIT:END -->
 
 
