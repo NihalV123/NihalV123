@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beaverton Police Nab $22 Million Catalytic Converter Trafficking Ring](https://www.reddit.com/r/news/comments/wnigmz/beaverton_police_nab_22_million_catalytic/)
+- [Taliban break up rare protest by Afghan women in Kabul](https://www.reddit.com/r/news/comments/wniaxo/taliban_break_up_rare_protest_by_afghan_women_in/)
+- [Vancouver man accused of sexually assaulting children in Cambodia](https://www.reddit.com/r/news/comments/wni8rr/vancouver_man_accused_of_sexually_assaulting/)
+- [Salman Rushdie attack suspect charged with attempted murder](https://www.reddit.com/r/news/comments/wnhlhb/salman_rushdie_attack_suspect_charged_with/)
+- [2 juveniles arrested for killing gas station employee in Prince George&#39;s County](https://www.reddit.com/r/news/comments/wng03k/2_juveniles_arrested_for_killing_gas_station/)
 <!-- REDDIT:END -->
 
 
