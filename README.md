@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 person dead, 5 children are critically injured at Mass Casualty Incident in Berwick PA; one person reportedly beaten to death with hammer](https://www.reddit.com/r/news/comments/wntiud/1_person_dead_5_children_are_critically_injured/)
+- [US paedophile dies after drinking mystery liquid during guilty verdict](https://www.reddit.com/r/news/comments/wnt7ts/us_paedophile_dies_after_drinking_mystery_liquid/)
+- [Agent: Rushdie off ventilator and talking, day after attack](https://www.reddit.com/r/news/comments/wnt1ag/agent_rushdie_off_ventilator_and_talking_day/)
+- [A missing dog was finally found -- 500 feet underground in an intricate cave system | CNN](https://www.reddit.com/r/news/comments/wnra9e/a_missing_dog_was_finally_found_500_feet/)
+- [Police: Man slashed 3 with machete after trying to buy guns](https://www.reddit.com/r/news/comments/wnqz7k/police_man_slashed_3_with_machete_after_trying_to/)
 <!-- REDDIT:END -->
 
 
