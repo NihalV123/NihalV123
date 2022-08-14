@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lachlan Murdoch sends legal threat to Crikey over January 6 article](https://www.reddit.com/r/news/comments/wobomv/lachlan_murdoch_sends_legal_threat_to_crikey_over/)
+- [Meteor boom heard across northern Utah](https://www.reddit.com/r/news/comments/wo9sga/meteor_boom_heard_across_northern_utah/)
+- [Idaho Supreme Court rules that abortion restrictions can take effect amid legal challenges](https://www.reddit.com/r/news/comments/wo9jtq/idaho_supreme_court_rules_that_abortion/)
+- [Walrus Freya who became attraction in Norway&#39;s Oslo Fjord put down](https://www.reddit.com/r/news/comments/wo8suv/walrus_freya_who_became_attraction_in_norways/)
+- [Some Capitol rioters try to profit from their Jan. 6 crimes](https://www.reddit.com/r/news/comments/wo7noh/some_capitol_rioters_try_to_profit_from_their_jan/)
 <!-- REDDIT:END -->
 
 
