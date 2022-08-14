@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona parents arrested trying to get in locked-down school](https://www.reddit.com/r/news/comments/wnxecy/arizona_parents_arrested_trying_to_get_in/)
+- [Clemency Denied for South Phoenix Man Serving 16-Year Pot Sentence](https://www.reddit.com/r/news/comments/wnxdja/clemency_denied_for_south_phoenix_man_serving/)
+- [Long Covid clinic wait times blow out as Australia’s health experts call for national approach](https://www.reddit.com/r/news/comments/wnw4ka/long_covid_clinic_wait_times_blow_out_as/)
+- [Western Wall: Several injured in Jerusalem shooting](https://www.reddit.com/r/news/comments/wnw1vx/western_wall_several_injured_in_jerusalem_shooting/)
+- [At least 13 people hospitalized after car crashes into crowd at fundraiser for Nescopeck fire victims](https://www.reddit.com/r/news/comments/wnuwna/at_least_13_people_hospitalized_after_car_crashes/)
 <!-- REDDIT:END -->
 
 
