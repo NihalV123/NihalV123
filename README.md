@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sarasota Schools freezes library book donations, purchases, book fairs](https://www.reddit.com/r/news/comments/wp4wl1/sarasota_schools_freezes_library_book_donations/)
+- [Arrests made in second beating of Broward LGBTQ teen](https://www.reddit.com/r/news/comments/wp4sya/arrests_made_in_second_beating_of_broward_lgbtq/)
+- [2 former cops awaiting trial in George Floyd case reject plea deal](https://www.reddit.com/r/news/comments/wp3919/2_former_cops_awaiting_trial_in_george_floyd_case/)
+- [More than 13,000 pounds of frozen pizza, perhaps tainted with metal, recalled](https://www.reddit.com/r/news/comments/wp2i0s/more_than_13000_pounds_of_frozen_pizza_perhaps/)
+- [Driver crashes SUV into North Carolina restaurant, killing 2 brothers](https://www.reddit.com/r/news/comments/wp2fq0/driver_crashes_suv_into_north_carolina_restaurant/)
 <!-- REDDIT:END -->
 
 
