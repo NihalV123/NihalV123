@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wall Street revives Russian bond trading after U.S. go-ahead](https://www.reddit.com/r/news/comments/wox0mr/wall_street_revives_russian_bond_trading_after_us/)
+- [UK is first to approve COVID vaccine targeting both original strain and Omicron variant](https://www.reddit.com/r/news/comments/wowt66/uk_is_first_to_approve_covid_vaccine_targeting/)
+- [First bivalent COVID-19 booster vaccine approved by UK medicines regulator](https://www.reddit.com/r/news/comments/wowd5n/first_bivalent_covid19_booster_vaccine_approved/)
+- [Shanghai Covid: Ikea shoppers flee attempt to lock down store](https://www.reddit.com/r/news/comments/wow7p3/shanghai_covid_ikea_shoppers_flee_attempt_to_lock/)
+- [Cash-strapped Britons give up pets as living costs soar](https://www.reddit.com/r/news/comments/wouwqc/cashstrapped_britons_give_up_pets_as_living_costs/)
 <!-- REDDIT:END -->
 
 
