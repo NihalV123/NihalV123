@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man fined and gets suspended sentence over ‘hateful and racist’ post after Euros final](https://www.reddit.com/r/news/comments/wpdlzd/man_fined_and_gets_suspended_sentence_over/)
+- [Iran denies involvement but justifies Salman Rushdie attack](https://www.reddit.com/r/news/comments/wpd85f/iran_denies_involvement_but_justifies_salman/)
+- [Oder river: mystery of mass die-off of fish lingers as no toxic substances found](https://www.reddit.com/r/news/comments/wpbgdt/oder_river_mystery_of_mass_dieoff_of_fish_lingers/)
+- [Thousands of Capri Sun pouches recalled after possible contamination with cleaning solution](https://www.reddit.com/r/news/comments/wpaybn/thousands_of_capri_sun_pouches_recalled_after/)
+- [Homebuilders say U.S. is in a &#39;housing recession&#39; as sentiment turns negative](https://www.reddit.com/r/news/comments/wpajp2/homebuilders_say_us_is_in_a_housing_recession_as/)
 <!-- REDDIT:END -->
 
 
