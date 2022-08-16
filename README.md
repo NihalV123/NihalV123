@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4,000 abused beagles rescued from a mass breeding operation](https://www.reddit.com/r/news/comments/wpzgcg/4000_abused_beagles_rescued_from_a_mass_breeding/)
+- [Judge rules against Alex Jones, says Sandy Hook defamation case can proceed in Connecticut](https://www.reddit.com/r/news/comments/wpze6n/judge_rules_against_alex_jones_says_sandy_hook/)
+- [&quot;One-in-2 million&quot; bright blue lobster captured by father and son in Maine](https://www.reddit.com/r/news/comments/wpytb5/onein2_million_bright_blue_lobster_captured_by/)
+- [Finland limits tourist visas for Russians](https://www.reddit.com/r/news/comments/wpxeiu/finland_limits_tourist_visas_for_russians/)
+- [School district will lay off white teachers before minority teachers, per new union contract](https://www.reddit.com/r/news/comments/wpx5j3/school_district_will_lay_off_white_teachers/)
 <!-- REDDIT:END -->
 
 
