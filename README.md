@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trump legal adviser Jenna Ellis ordered to testify in Georgia election probe](https://www.reddit.com/r/news/comments/wqetza/trump_legal_adviser_jenna_ellis_ordered_to/)
+- [Rep. Liz Cheney loses GOP primary to Trump-backed challenger, NBC projects](https://www.reddit.com/r/news/comments/wqd7dt/rep_liz_cheney_loses_gop_primary_to_trumpbacked/)
+- [&quot;We&#39;ve been to hell and back&quot;: Employees walk out as job unhappiness soars](https://www.reddit.com/r/news/comments/wqcquz/weve_been_to_hell_and_back_employees_walk_out_as/)
+- [Black firefighter claims he was forced by his supervisor to attend racist party](https://www.reddit.com/r/news/comments/wqc209/black_firefighter_claims_he_was_forced_by_his/)
+- [Scientists plan the resurrection of an animal that&#39;s been extinct since 1936](https://www.reddit.com/r/news/comments/wqaxb6/scientists_plan_the_resurrection_of_an_animal/)
 <!-- REDDIT:END -->
 
 
