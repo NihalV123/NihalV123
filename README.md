@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boston Children’s Hospital warns employees over far-right online harassment campaign](https://www.reddit.com/r/news/comments/wqatar/boston_childrens_hospital_warns_employees_over/)
+- [Woman, 80, banned from Port Townsend YMCA pool after clash over trans woman in locker room](https://www.reddit.com/r/news/comments/wqa08c/woman_80_banned_from_port_townsend_ymca_pool/)
+- [Six weeks after getting shot at a Fourth of July parade, an 8-year-old left paralyzed feels &#39;hopeless&#39; and angry as new reality sets in](https://www.reddit.com/r/news/comments/wq95hz/six_weeks_after_getting_shot_at_a_fourth_of_july/)
+- [Biden administration cancels $3.9 billion in student debt for 208,000 borrowers defrauded by ITT Tech](https://www.reddit.com/r/news/comments/wq8sxs/biden_administration_cancels_39_billion_in/)
+- [‘You’re in Canada now’: B.C. man berates women for not speaking English - BC | Globalnews.ca](https://www.reddit.com/r/news/comments/wq7ddo/youre_in_canada_now_bc_man_berates_women_for_not/)
 <!-- REDDIT:END -->
 
 
