@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [American farmers are killing their own crops and selling cows because of extreme drought](https://www.reddit.com/r/news/comments/wr5rqf/american_farmers_are_killing_their_own_crops_and/)
+- [Louisiana hospital denies abortion for fetus without a skull](https://www.reddit.com/r/news/comments/wr5jm3/louisiana_hospital_denies_abortion_for_fetus/)
+- [Rudy Giuliani set to testify in Georgia 2020 election probe](https://www.reddit.com/r/news/comments/wr5823/rudy_giuliani_set_to_testify_in_georgia_2020/)
+- [Teachers at Missouri&#39;s largest school district told to remove Pride Flags](https://www.reddit.com/r/news/comments/wr4yn2/teachers_at_missouris_largest_school_district/)
+- [A senior Russian official has met the commander of the Palestinian Authority &lpar;PA&rpar; security forces to discuss military and intelligence cooperation, Moscow’s defence ministry said.](https://www.reddit.com/r/news/comments/wr4chf/a_senior_russian_official_has_met_the_commander/)
 <!-- REDDIT:END -->
 
 
