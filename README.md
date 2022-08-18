@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ACLU files lawsuit challenging Florida&#39;s &#39;Stop WOKE Act&#39;](https://www.reddit.com/r/news/comments/wrpfpa/aclu_files_lawsuit_challenging_floridas_stop_woke/)
+- [After their daughters were beat by a girl in sports, Utah parents triggered investigation into whether she was transgender](https://www.reddit.com/r/news/comments/wrmx7w/after_their_daughters_were_beat_by_a_girl_in/)
+- [Bodies of two young children found in suitcases won by New Zealand family at storage unit auction](https://www.reddit.com/r/news/comments/wrmv9l/bodies_of_two_young_children_found_in_suitcases/)
+- [8-year-old girl chats with ISS astronaut using ham radio](https://www.reddit.com/r/news/comments/wrm4p8/8yearold_girl_chats_with_iss_astronaut_using_ham/)
+- [Trump CFO Allen Weisselberg pleads guilty in tax scheme](https://www.reddit.com/r/news/comments/wrlnb6/trump_cfo_allen_weisselberg_pleads_guilty_in_tax/)
 <!-- REDDIT:END -->
 
 
