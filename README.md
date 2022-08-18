@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man arrested in 3 highway shootings in Alabama, Georgia](https://www.reddit.com/r/news/comments/wr8t2e/man_arrested_in_3_highway_shootings_in_alabama/)
+- [Jordan’s Crown Prince Al Hussein engaged to Saudi national Rajwa al-Saif, the future Queen of Jordan](https://www.reddit.com/r/news/comments/wr8n01/jordans_crown_prince_al_hussein_engaged_to_saudi/)
+- [Haruyuki Takahashi: Tokyo 2020 Olympic official accused of taking bribes](https://www.reddit.com/r/news/comments/wr88xn/haruyuki_takahashi_tokyo_2020_olympic_official/)
+- [Teachers at Springfield&#39;s largest high school, Kickapoo, told to remove Pride flags](https://www.reddit.com/r/news/comments/wr881l/teachers_at_springfields_largest_high_school/)
+- [Scientists discover a 5-mile wide undersea crater created as the dinosaurs disappeared](https://www.reddit.com/r/news/comments/wr6uph/scientists_discover_a_5mile_wide_undersea_crater/)
 <!-- REDDIT:END -->
 
 
