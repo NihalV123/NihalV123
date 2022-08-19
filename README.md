@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NASA astronaut Nicole Aunapu Mann will be the first Native American woman to travel to space](https://www.reddit.com/r/news/comments/wsc3ff/nasa_astronaut_nicole_aunapu_mann_will_be_the/)
+- [Russia warns radioactive waste could hit Germany if accident occurs at damaged nuclear power plant](https://www.reddit.com/r/news/comments/wsaz12/russia_warns_radioactive_waste_could_hit_germany/)
+- [No Tube: London subway hit by strike, day after rail walkout](https://www.reddit.com/r/news/comments/wsag74/no_tube_london_subway_hit_by_strike_day_after/)
+- [Lawsuit: Man dies after being left unattended at Yale-New Haven Hospital for 7 hours](https://www.reddit.com/r/news/comments/wsa85f/lawsuit_man_dies_after_being_left_unattended_at/)
+- [Fifa 23: EA honours 99% discount price error on football game&#39;s new edition](https://www.reddit.com/r/news/comments/ws82pk/fifa_23_ea_honours_99_discount_price_error_on/)
 <!-- REDDIT:END -->
 
 
