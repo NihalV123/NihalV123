@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Student, 20, makes $110 million trading meme stock Bed Bath &amp; Beyond](https://www.reddit.com/r/news/comments/wrzf6m/student_20_makes_110_million_trading_meme_stock/)
+- [&#39;Multiple fatalities&#39; reported after 2 planes collide mid-air at California airport, city officials say](https://www.reddit.com/r/news/comments/wrxxcr/multiple_fatalities_reported_after_2_planes/)
+- [Florida Gov. Ron DeSantis&#39; election police force announces arrests of 20 for voter fraud](https://www.reddit.com/r/news/comments/wrxskf/florida_gov_ron_desantis_election_police_force/)
+- [Mississippi cops sued over alleged civil rights violations against Black residents](https://www.reddit.com/r/news/comments/wrx3iy/mississippi_cops_sued_over_alleged_civil_rights/)
+- [Justice Department: 3 Men Charged In Whitey Bulger’s Killing](https://www.reddit.com/r/news/comments/wrw03y/justice_department_3_men_charged_in_whitey/)
 <!-- REDDIT:END -->
 
 
