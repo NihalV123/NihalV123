@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge: Prosecutors cannot enforce Michigan&#39;s abortion ban](https://www.reddit.com/r/news/comments/wsjx4q/judge_prosecutors_cannot_enforce_michigans/)
+- [Walmart expands abortion coverage for its employees in the wake of Roe v Wade decision](https://www.reddit.com/r/news/comments/wsj1eh/walmart_expands_abortion_coverage_for_its/)
+- [New Texas law requires schools to display &#39;In God We Trust&#39; signs](https://www.reddit.com/r/news/comments/wsi2zo/new_texas_law_requires_schools_to_display_in_god/)
+- [College student is slain in a national park by woman pretending to be stranded motorist, police say](https://www.reddit.com/r/news/comments/wshvzm/college_student_is_slain_in_a_national_park_by/)
+- [Judge blocks Florida&#39;s &#39;Stop WOKE Act&#39; pushed by Gov. DeSantis](https://www.reddit.com/r/news/comments/wshk3k/judge_blocks_floridas_stop_woke_act_pushed_by_gov/)
 <!-- REDDIT:END -->
 
 
