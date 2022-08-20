@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Treasury official warns Russia trying to bypass Western sanctions via Turkey](https://www.reddit.com/r/news/comments/wtcd4h/us_treasury_official_warns_russia_trying_to/)
+- [UN: US buying big Ukraine grain shipment for hungry regions](https://www.reddit.com/r/news/comments/wtbr19/un_us_buying_big_ukraine_grain_shipment_for/)
+- [Five HKers still missing in Southeast Asia after Cambodia trafficking put under spotlight](https://www.reddit.com/r/news/comments/wtaojl/five_hkers_still_missing_in_southeast_asia_after/)
+- [Black couple sues after they say home valuation rises nearly $300,000 when shown by White colleague](https://www.reddit.com/r/news/comments/wt9m7z/black_couple_sues_after_they_say_home_valuation/)
+- [An Elderly Woman Accidentally Drives into Second Floor of a Mall](https://www.reddit.com/r/news/comments/wt90qs/an_elderly_woman_accidentally_drives_into_second/)
 <!-- REDDIT:END -->
 
 
