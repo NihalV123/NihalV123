@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman travelling to Canada with 5 kilos of heroin arrested in Poland](https://www.reddit.com/r/news/comments/wst3j5/woman_travelling_to_canada_with_5_kilos_of_heroin/)
+- [Landlord gets $50K after deputies use Taser in false arrest](https://www.reddit.com/r/news/comments/wsrhwi/landlord_gets_50k_after_deputies_use_taser_in/)
+- [2 Ohio fraternity members sentenced in hazing death of Bowling Green State University student](https://www.reddit.com/r/news/comments/wsrh62/2_ohio_fraternity_members_sentenced_in_hazing/)
+- [Foot found in Yellowstone hot spring linked to July death | The Star](https://www.reddit.com/r/news/comments/wspyui/foot_found_in_yellowstone_hot_spring_linked_to/)
+- [Mexico sees army role in 2014 case of missing 43 students](https://www.reddit.com/r/news/comments/wsor96/mexico_sees_army_role_in_2014_case_of_missing_43/)
 <!-- REDDIT:END -->
 
 
