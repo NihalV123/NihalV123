@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Daughter of Putin ally Alexander Dugin killed in car bomb in Moscow | Russia](https://www.reddit.com/r/news/comments/wtxr79/daughter_of_putin_ally_alexander_dugin_killed_in/)
+- [Woman slips handcuffs and shoots at police](https://www.reddit.com/r/news/comments/wtvy37/woman_slips_handcuffs_and_shoots_at_police/)
+- [Low water levels on Danube reveal sunken WW2 German warships](https://www.reddit.com/r/news/comments/wtvbhu/low_water_levels_on_danube_reveal_sunken_ww2/)
+- [Hiker dies after falling 100 feet at Oregon&#39;s Multnomah Falls](https://www.reddit.com/r/news/comments/wtus7z/hiker_dies_after_falling_100_feet_at_oregons/)
+- [As the FBI comes under threat, its leader tries to stay out of fray](https://www.reddit.com/r/news/comments/wtqo1r/as_the_fbi_comes_under_threat_its_leader_tries_to/)
 <!-- REDDIT:END -->
 
 
