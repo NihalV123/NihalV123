@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [People are now testing Tesla&#39;s &#39;full self-driving&#39; on real kids](https://www.reddit.com/r/news/comments/wuky1d/people_are_now_testing_teslas_full_selfdriving_on/)
+- [California pig welfare rule delays frustrate small farmers](https://www.reddit.com/r/news/comments/wukknd/california_pig_welfare_rule_delays_frustrate/)
+- [Chipotle debuts a &#39;water cup&#39; candle. It smells like lemonade](https://www.reddit.com/r/news/comments/wujv1n/chipotle_debuts_a_water_cup_candle_it_smells_like/)
+- [Kiely Rodni&#39;s Body Found in Car Under Water: Diving Team](https://www.reddit.com/r/news/comments/wujlss/kiely_rodnis_body_found_in_car_under_water_diving/)
+- [2 Arkansas deputies suspended and 1 officer on administrative leave after video posted of violent encounter with man outside store](https://www.reddit.com/r/news/comments/wuivly/2_arkansas_deputies_suspended_and_1_officer_on/)
 <!-- REDDIT:END -->
 
 
