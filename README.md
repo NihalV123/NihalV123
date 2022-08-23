@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Victims and survivors of Uvalde shooting to file $27 billion lawsuit](https://www.reddit.com/r/news/comments/wvmorv/victims_and_survivors_of_uvalde_shooting_to_file/)
+- [Lachlan Murdoch sues Crikey for defamation over article about January 6 riots](https://www.reddit.com/r/news/comments/wvmdwt/lachlan_murdoch_sues_crikey_for_defamation_over/)
+- [Former Louisville officer to plead guilty to Breonna Taylor cover-up](https://www.reddit.com/r/news/comments/wvlw8o/former_louisville_officer_to_plead_guilty_to/)
+- [Not so Despicable: China changes ending of Minions movie](https://www.reddit.com/r/news/comments/wvkxsf/not_so_despicable_china_changes_ending_of_minions/)
+- [Sue us: Australian news site challenges Lachlan Murdoch to sue it](https://www.reddit.com/r/news/comments/wvjvkt/sue_us_australian_news_site_challenges_lachlan/)
 <!-- REDDIT:END -->
 
 
