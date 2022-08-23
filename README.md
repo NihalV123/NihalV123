@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US to send $3 billion in aid to Ukraine as war hits 6 months](https://www.reddit.com/r/news/comments/wvtwk1/us_to_send_3_billion_in_aid_to_ukraine_as_war/)
+- [2 men guilty of conspiring to kidnap Gov. Gretchen Whitmer](https://www.reddit.com/r/news/comments/wvsy1i/2_men_guilty_of_conspiring_to_kidnap_gov_gretchen/)
+- [5-year-old-boy dies after accidentally shooting himself with an unsecured gun in Detroit](https://www.reddit.com/r/news/comments/wvsoum/5yearoldboy_dies_after_accidentally_shooting/)
+- [Lawsuits mounting against unlicensed Missouri boarding schools accused of abuse](https://www.reddit.com/r/news/comments/wvsmpz/lawsuits_mounting_against_unlicensed_missouri/)
+- [Artemis I is go for launch to the moon and back, NASA says](https://www.reddit.com/r/news/comments/wvr837/artemis_i_is_go_for_launch_to_the_moon_and_back/)
 <!-- REDDIT:END -->
 
 
