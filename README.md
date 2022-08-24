@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dinosaur tracks from 113M years ago have become visible amid drought](https://www.reddit.com/r/news/comments/ww9gcp/dinosaur_tracks_from_113m_years_ago_have_become/)
+- [US business activity falls at its fastest rate since May 2020](https://www.reddit.com/r/news/comments/ww6jvz/us_business_activity_falls_at_its_fastest_rate/)
+- [Dinosaur tracks from 113m years ago exposed by severe drought](https://www.reddit.com/r/news/comments/ww54n5/dinosaur_tracks_from_113m_years_ago_exposed_by/)
+- [We&#39;re in a &#39;housing recession,&#39; experts say. Here&#39;s what that means for homeowners, sellers and buyers](https://www.reddit.com/r/news/comments/ww4qkt/were_in_a_housing_recession_experts_say_heres/)
+- [Zelenskyy vows &#39;powerful response&#39; if Russia attacks Kyiv during Ukraine&#39;s Independence Day](https://www.reddit.com/r/news/comments/ww42p3/zelenskyy_vows_powerful_response_if_russia/)
 <!-- REDDIT:END -->
 
 
