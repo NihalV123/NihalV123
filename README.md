@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dinosaur tracks from 113m years ago exposed by severe drought](https://www.reddit.com/r/news/comments/ww54n5/dinosaur_tracks_from_113m_years_ago_exposed_by/)
+- [Zelenskyy vows &#39;powerful response&#39; if Russia attacks Kyiv during Ukraine&#39;s Independence Day](https://www.reddit.com/r/news/comments/ww42p3/zelenskyy_vows_powerful_response_if_russia/)
+- [U.S. to announce $3 billion in new military aid for Ukraine -official](https://www.reddit.com/r/news/comments/ww3456/us_to_announce_3_billion_in_new_military_aid_for/)
+- [Kenosha police officer fired, accused of sexually assaulting woman in custody](https://www.reddit.com/r/news/comments/ww33cn/kenosha_police_officer_fired_accused_of_sexually/)
+- [Couple accused by firefighter say their party wasn’t racist](https://www.reddit.com/r/news/comments/ww1z1n/couple_accused_by_firefighter_say_their_party/)
 <!-- REDDIT:END -->
 
 
