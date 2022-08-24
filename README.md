@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Marjorie Taylor Greene was victim of &#39;swatting&#39; at Rome residence, police confirm](https://www.reddit.com/r/news/comments/wwqf9e/marjorie_taylor_greene_was_victim_of_swatting_at/)
+- [Police: Teen charged after shooting, killing twin brother while playing with gun](https://www.reddit.com/r/news/comments/wwp0qp/police_teen_charged_after_shooting_killing_twin/)
+- [Arrests made, investigation ongoing in Cypress Arrow K9 Academy dog abuse allegations.](https://www.reddit.com/r/news/comments/wwoa8t/arrests_made_investigation_ongoing_in_cypress/)
+- [Nearly 50,000 people held in solitary confinement in US, report says](https://www.reddit.com/r/news/comments/wwnws0/nearly_50000_people_held_in_solitary_confinement/)
+- [Teachers on strike in Columbus, Ohio over a miserable classroom environment](https://www.reddit.com/r/news/comments/wwnuco/teachers_on_strike_in_columbus_ohio_over_a/)
 <!-- REDDIT:END -->
 
 
