@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Unvaccinated Novak Djokovic withdraws from US Open as he can&#39;t travel to United States — ESPN](https://www.reddit.com/r/news/comments/wxjny3/unvaccinated_novak_djokovic_withdraws_from_us/)
+- [Floating clinic provides abortions in federal waters](https://www.reddit.com/r/news/comments/wxj35y/floating_clinic_provides_abortions_in_federal/)
+- [Norman English teacher resigns after sharing link to banned book resource with students](https://www.reddit.com/r/news/comments/wxip4s/norman_english_teacher_resigns_after_sharing_link/)
+- [Rep. Marjorie Taylor Greene ‘swatted’ for second time in two days, police say](https://www.reddit.com/r/news/comments/wxhxbb/rep_marjorie_taylor_greene_swatted_for_second/)
+- [$480,000 awarded to inmate who suffered miscarriage after sheriff&#39;s deputies stopped at Starbucks while driving her to hospital](https://www.reddit.com/r/news/comments/wxhj3v/480000_awarded_to_inmate_who_suffered_miscarriage/)
 <!-- REDDIT:END -->
 
 
