@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Luciano Pavarotti honored posthumously with star on Hollywood Walk of Fame](https://www.reddit.com/r/news/comments/wxb1i2/luciano_pavarotti_honored_posthumously_with_star/)
+- [Researchers discover sprawling pro-U.S. social media influence campaign](https://www.reddit.com/r/news/comments/wxaxz2/researchers_discover_sprawling_prous_social_media/)
+- [S.Korea signs $2.25 billion deal with Russia nuclear company](https://www.reddit.com/r/news/comments/wxasnt/skorea_signs_225_billion_deal_with_russia_nuclear/)
+- [School district reinstates corporal punishment as discipline option for students](https://www.reddit.com/r/news/comments/wxaqdv/school_district_reinstates_corporal_punishment_as/)
+- [Sewage in sea: French appeal to EU over UK discharges of waste - BBC News](https://www.reddit.com/r/news/comments/wx8mvq/sewage_in_sea_french_appeal_to_eu_over_uk/)
 <!-- REDDIT:END -->
 
 
