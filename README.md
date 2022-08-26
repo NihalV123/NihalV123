@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australian police seize record 2 tons of meth hidden in marble tiles: &quot;Staggering&quot;](https://www.reddit.com/r/news/comments/wy76qa/australian_police_seize_record_2_tons_of_meth/)
+- [Texas judge overturns state ban on young adults carrying guns](https://www.reddit.com/r/news/comments/wy5n0s/texas_judge_overturns_state_ban_on_young_adults/)
+- [Former ITT Tech students get $3.9B in debt cancellation](https://www.reddit.com/r/news/comments/wy5erq/former_itt_tech_students_get_39b_in_debt/)
+- [Shooting at Kentucky homeless shelter leaves two dead, two more wounded](https://www.reddit.com/r/news/comments/wy598k/shooting_at_kentucky_homeless_shelter_leaves_two/)
+- [UK energy bills to rise by 80% in October as regulator announces hike](https://www.reddit.com/r/news/comments/wy1h4j/uk_energy_bills_to_rise_by_80_in_october_as/)
 <!-- REDDIT:END -->
 
 
