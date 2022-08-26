@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chauvin moved to Arizona federal pen in George Floyd killing](https://www.reddit.com/r/news/comments/wxyxgm/chauvin_moved_to_arizona_federal_pen_in_george/)
+- [Convicted at 17, prisoner, now 53, exonerated in rape](https://www.reddit.com/r/news/comments/wxvnty/convicted_at_17_prisoner_now_53_exonerated_in_rape/)
+- [Tmobile announces planetary coverage with SpaceX partnership. “Works with existing phones, at no additional cost”](https://www.reddit.com/r/news/comments/wxun9l/tmobile_announces_planetary_coverage_with_spacex/)
+- [Ukrainian nuclear plant disconnected from power grid after shelling](https://www.reddit.com/r/news/comments/wxuc4k/ukrainian_nuclear_plant_disconnected_from_power/)
+- [CNN: Florida political activist plans to donate Arabic &quot;In God We Trust&quot; signs to Texas school districts](https://www.reddit.com/r/news/comments/wxtsqx/cnn_florida_political_activist_plans_to_donate/)
 <!-- REDDIT:END -->
 
 
