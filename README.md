@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gang of turkeys attacks B.C. man, breaking both his hips and a finger](https://www.reddit.com/r/news/comments/wyt3ik/gang_of_turkeys_attacks_bc_man_breaking_both_his/)
+- [Veterans Affairs processors in recent years mishandled more than one-third of all disability claims related to water contamination issues at Camp Lejeune in North Carolina, potentially cheating as many as 21,000 veterans out of financial compensation](https://www.reddit.com/r/news/comments/wyry2t/veterans_affairs_processors_in_recent_years/)
+- [People buying whipped cream in New York are being asked to show I.D.](https://www.reddit.com/r/news/comments/wyqg81/people_buying_whipped_cream_in_new_york_are_being/)
+- [Florida governor suspends school board quartet over Parkland shooting report](https://www.reddit.com/r/news/comments/wyprl0/florida_governor_suspends_school_board_quartet/)
+- [Vermont sheriff&#39;s captain fired after video appears to show him kicking handcuffed detainee](https://www.reddit.com/r/news/comments/wypb4a/vermont_sheriffs_captain_fired_after_video/)
 <!-- REDDIT:END -->
 
 
