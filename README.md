@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vermont sheriff&#39;s captain fired after video appears to show him kicking handcuffed detainee](https://www.reddit.com/r/news/comments/wypb4a/vermont_sheriffs_captain_fired_after_video/)
+- [BSO deputy arrested for stealing cash from purse in airport sting operation](https://www.reddit.com/r/news/comments/wyogna/bso_deputy_arrested_for_stealing_cash_from_purse/)
+- [Officials confirm death of Jeffrey Epstein mentor Hoffenberg](https://www.reddit.com/r/news/comments/wym4ra/officials_confirm_death_of_jeffrey_epstein_mentor/)
+- [Former Anti-Abortion Texas Right to Life political director charged with soliciting sex from minor](https://www.reddit.com/r/news/comments/wylfr9/former_antiabortion_texas_right_to_life_political/)
+- [Colorado mom guilty of Qanon kidnapping conspiracy](https://www.reddit.com/r/news/comments/wyl34r/colorado_mom_guilty_of_qanon_kidnapping_conspiracy/)
 <!-- REDDIT:END -->
 
 
