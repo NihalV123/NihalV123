@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bills release punter Matt Araiza after gang rape allegation](https://www.reddit.com/r/news/comments/wzip8p/bills_release_punter_matt_araiza_after_gang_rape/)
+- [Justice Dept. to seek longest sentence in any Jan. 6 Capitol riot case so far - CBS News](https://www.reddit.com/r/news/comments/wzg1il/justice_dept_to_seek_longest_sentence_in_any_jan/)
+- [Duke volleyball game in Utah moved after racism incident](https://www.reddit.com/r/news/comments/wzfltn/duke_volleyball_game_in_utah_moved_after_racism/)
+- [Huntington Beach man who allegedly bragged about breaching the Capitol is arrested, charged](https://www.reddit.com/r/news/comments/wzeolw/huntington_beach_man_who_allegedly_bragged_about/)
+- [Pfizer&#39;s RSV vaccine protects against severe illness in older adults](https://www.reddit.com/r/news/comments/wzbkt3/pfizers_rsv_vaccine_protects_against_severe/)
 <!-- REDDIT:END -->
 
 
