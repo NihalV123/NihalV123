@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Winner of $1.34bn Mega Millions lottery hasn’t claimed prize after a month | Illinois](https://www.reddit.com/r/news/comments/wzncvo/winner_of_134bn_mega_millions_lottery_hasnt/)
+- [A Chipotle in Michigan becomes the first to unionize](https://www.reddit.com/r/news/comments/wzmjo0/a_chipotle_in_michigan_becomes_the_first_to/)
+- [US sends two warships through Taiwan Strait, in first transit since Pelosi trip](https://www.reddit.com/r/news/comments/wzmjl4/us_sends_two_warships_through_taiwan_strait_in/)
+- [Hiker falls to his death at the Grand Canyon](https://www.reddit.com/r/news/comments/wzmffg/hiker_falls_to_his_death_at_the_grand_canyon/)
+- [US sends two warships through Taiwan Strait, in first transit since Pelosi trip](https://www.reddit.com/r/news/comments/wzlue2/us_sends_two_warships_through_taiwan_strait_in/)
 <!-- REDDIT:END -->
 
 
