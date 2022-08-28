@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three off-duty Dutch commandos shot outside hotel in Indianapolis](https://www.reddit.com/r/news/comments/wzsz3v/three_offduty_dutch_commandos_shot_outside_hotel/)
+- [Tule River Tribe relying on bottle water as drought dries up wells on reservation](https://www.reddit.com/r/news/comments/wzsvis/tule_river_tribe_relying_on_bottle_water_as/)
+- [Brigham Young University apologizes, bans fan over racist slurs during volleyball match](https://www.reddit.com/r/news/comments/wzsrr9/brigham_young_university_apologizes_bans_fan_over/)
+- [US sails warships through Taiwan Strait in 1st since Pelosi](https://www.reddit.com/r/news/comments/wzsoth/us_sails_warships_through_taiwan_strait_in_1st/)
+- [Police say upsetting critics over Pride dance was &#39;worth it&#39;](https://www.reddit.com/r/news/comments/wzs5bd/police_say_upsetting_critics_over_pride_dance_was/)
 <!-- REDDIT:END -->
 
 
