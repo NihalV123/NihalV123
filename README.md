@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House calls for demilitarized zone around Ukraine nuclear plant](https://www.reddit.com/r/news/comments/x0uhkn/white_house_calls_for_demilitarized_zone_around/)
+- [Proud Boys recruit sentenced to 4.5 years for role in U.S. Capitol riot](https://www.reddit.com/r/news/comments/x0uh5j/proud_boys_recruit_sentenced_to_45_years_for_role/)
+- [Germanys saves 1.8m tonnes of CO2 with cheap public transit event](https://www.reddit.com/r/news/comments/x0tf47/germanys_saves_18m_tonnes_of_co2_with_cheap/)
+- [MLBPA Launches Campaign to Unionize Minor League Players](https://www.reddit.com/r/news/comments/x0tdhg/mlbpa_launches_campaign_to_unionize_minor_league/)
+- [Estonia has banned Russian tourists. Now its lobbying the European Union to do the same](https://www.reddit.com/r/news/comments/x0smxx/estonia_has_banned_russian_tourists_now_its/)
 <!-- REDDIT:END -->
 
 
