@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine says long-anticipated southern offensive has begun](https://www.reddit.com/r/news/comments/x0n25t/ukraine_says_longanticipated_southern_offensive/)
+- [Leaks and possible crack threaten to delay NASA moon launch](https://www.reddit.com/r/news/comments/x0lxmt/leaks_and_possible_crack_threaten_to_delay_nasa/)
+- [Dutch soldier shot in Indianapolis dies of his injuries](https://www.reddit.com/r/news/comments/x0im3f/dutch_soldier_shot_in_indianapolis_dies_of_his/)
+- [3 people dead in shooting in Bend, Oregon](https://www.reddit.com/r/news/comments/x0g70k/3_people_dead_in_shooting_in_bend_oregon/)
+- [Last member of indigenous tribe dies in Brazil after resisting contact for decades](https://www.reddit.com/r/news/comments/x0fabf/last_member_of_indigenous_tribe_dies_in_brazil/)
 <!-- REDDIT:END -->
 
 
