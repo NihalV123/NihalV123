@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 people dead in shooting in Bend, Oregon](https://www.reddit.com/r/news/comments/x0g70k/3_people_dead_in_shooting_in_bend_oregon/)
+- [Last member of indigenous tribe dies in Brazil after resisting contact for decades](https://www.reddit.com/r/news/comments/x0fabf/last_member_of_indigenous_tribe_dies_in_brazil/)
+- [California phasing out gas vehicles in climate change fight](https://www.reddit.com/r/news/comments/x0ehf4/california_phasing_out_gas_vehicles_in_climate/)
+- [Washington Commanders running back Brian Robinson Jr. was shot in possible attempted robbery or carjacking, police say](https://www.reddit.com/r/news/comments/x0dyc4/washington_commanders_running_back_brian_robinson/)
+- [DC sniper Lee Boyd Malvo must be resentenced, Maryland high court says](https://www.reddit.com/r/news/comments/x0dogh/dc_sniper_lee_boyd_malvo_must_be_resentenced/)
 <!-- REDDIT:END -->
 
 
