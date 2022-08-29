@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Get out now&#39;: Mayor urges residents to flee ahead of rising river waters in Mississippi](https://www.reddit.com/r/news/comments/x0aw6j/get_out_now_mayor_urges_residents_to_flee_ahead/)
+- [Protesters march in Belgrade against planned gay Pride event](https://www.reddit.com/r/news/comments/x0aip4/protesters_march_in_belgrade_against_planned_gay/)
+- [Two Minors Dead, One Injured After Fort Worth Shooting](https://www.reddit.com/r/news/comments/x09kya/two_minors_dead_one_injured_after_fort_worth/)
+- [‘An existential dilemma’: Florida homeowners scramble as another major insurer exits One asks: ‘How are we going to live in Florida?’](https://www.reddit.com/r/news/comments/x09j8c/an_existential_dilemma_florida_homeowners/)
+- [Montana brothers plead guilty in Jan. 6 US Capitol attack](https://www.reddit.com/r/news/comments/x08z5t/montana_brothers_plead_guilty_in_jan_6_us_capitol/)
 <!-- REDDIT:END -->
 
 
