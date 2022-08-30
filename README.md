@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas reports what may be the first U.S. death from monkeypox](https://www.reddit.com/r/news/comments/x1pevd/texas_reports_what_may_be_the_first_us_death_from/)
+- [&#39;Do not drink the water&#39;: Mississippi National Guard will hand out water as Jackson&#39;s main water facility fails](https://www.reddit.com/r/news/comments/x1pen6/do_not_drink_the_water_mississippi_national_guard/)
+- [11-year-old boy dies after being swept into a storm drain during flash flood](https://www.reddit.com/r/news/comments/x1osjb/11yearold_boy_dies_after_being_swept_into_a_storm/)
+- [Illinois man gets 55 years for killing deputy US marshal](https://www.reddit.com/r/news/comments/x1ngz0/illinois_man_gets_55_years_for_killing_deputy_us/)
+- [Millions in new COVID lockdown as China keeps strict policy](https://www.reddit.com/r/news/comments/x1n53g/millions_in_new_covid_lockdown_as_china_keeps/)
 <!-- REDDIT:END -->
 
 
