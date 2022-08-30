@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A man paddled 38 miles down the Missouri River in a hollowed-out pumpkin](https://www.reddit.com/r/news/comments/x1amsv/a_man_paddled_38_miles_down_the_missouri_river_in/)
+- [Texas man breaks into animal shelter and frees 150 dogs inside, officials say](https://www.reddit.com/r/news/comments/x17x50/texas_man_breaks_into_animal_shelter_and_frees/)
+- [Jury begins deliberations in trial of former Spokane Police officer charged with rape](https://www.reddit.com/r/news/comments/x179j7/jury_begins_deliberations_in_trial_of_former/)
+- [Jackson, Mississippi, water system is failing, city to be with no or little drinking water indefinitely](https://www.reddit.com/r/news/comments/x15wm1/jackson_mississippi_water_system_is_failing_city/)
+- [Man gets 3 years in federal prison for fraudulently obtaining and selling Super Bowl rings with &#39;Brady&#39; engraved on them](https://www.reddit.com/r/news/comments/x14go9/man_gets_3_years_in_federal_prison_for/)
 <!-- REDDIT:END -->
 
 
