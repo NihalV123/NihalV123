@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jackson, Mississippi, water system is failing, city to be with no or little drinking water indefinitely](https://www.reddit.com/r/news/comments/x15wm1/jackson_mississippi_water_system_is_failing_city/)
+- [Florida Cop Stops Pregnant Woman In Pain From Going To ER For Honking After He Blocked Entrance](https://www.reddit.com/r/news/comments/x15tfx/florida_cop_stops_pregnant_woman_in_pain_from/)
+- [Man gets 3 years in federal prison for fraudulently obtaining and selling Super Bowl rings with &#39;Brady&#39; engraved on them](https://www.reddit.com/r/news/comments/x14go9/man_gets_3_years_in_federal_prison_for/)
+- [Alex Jones&#39; 2nd defamation trial over Sandy Hook massacre to move forward](https://www.reddit.com/r/news/comments/x13xrk/alex_jones_2nd_defamation_trial_over_sandy_hook/)
+- [Legalizing recreational cannabis increases its use, research shows](https://www.reddit.com/r/news/comments/x11v7h/legalizing_recreational_cannabis_increases_its/)
 <!-- REDDIT:END -->
 
 
