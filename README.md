@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 dead, 2 hospitalized after seniors given dishwashing soap instead of juice](https://www.reddit.com/r/news/comments/x1ftn7/1_dead_2_hospitalized_after_seniors_given/)
+- [Student killed, 2 injured after &#39;pillar&#39; apparently collapses at Lewis &amp; Clark College campus](https://www.reddit.com/r/news/comments/x1fnpr/student_killed_2_injured_after_pillar_apparently/)
+- [California lawmakers approve landmark fast food workers bill](https://www.reddit.com/r/news/comments/x1dfie/california_lawmakers_approve_landmark_fast_food/)
+- [Parents cling to screaming kids 20ft in air as rollercoaster breaks down](https://www.reddit.com/r/news/comments/x1c6yi/parents_cling_to_screaming_kids_20ft_in_air_as/)
+- [Teen hospitalized, student arrested following shooting at Oakland school](https://www.reddit.com/r/news/comments/x1asbj/teen_hospitalized_student_arrested_following/)
 <!-- REDDIT:END -->
 
 
