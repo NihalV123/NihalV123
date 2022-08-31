@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boston Children&#39;s Hospital receives bomb threat following harassment over transgender care](https://www.reddit.com/r/news/comments/x2jps2/boston_childrens_hospital_receives_bomb_threat/)
+- [Ohio police release bodycam video after officer fatally shoots Black man possibly holding a &#39;vape pen&#39;](https://www.reddit.com/r/news/comments/x2ib32/ohio_police_release_bodycam_video_after_officer/)
+- [Texas child welfare agency told staff to stay quiet about investigations of families with trans kids](https://www.reddit.com/r/news/comments/x2i6l1/texas_child_welfare_agency_told_staff_to_stay/)
+- [Officers seize a shipment of baby wipes that turned out to be $11.8 million worth of cocaine](https://www.reddit.com/r/news/comments/x2gmws/officers_seize_a_shipment_of_baby_wipes_that/)
+- [After felony charges, Missouri doctor for Cedar County boarding school now faces civil lawsuit over sex abuse allegations](https://www.reddit.com/r/news/comments/x2fdbv/after_felony_charges_missouri_doctor_for_cedar/)
 <!-- REDDIT:END -->
 
 
