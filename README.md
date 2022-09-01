@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Mary Peltola: First Alaskan Native elected to Congress as Sarah Palin loses](https://www.reddit.com/r/news/comments/x34sxd/mary_peltola_first_alaskan_native_elected_to/)
-- [Head of Russian oil giant Lukoil dies after falling from hospital window, reports state media](https://www.reddit.com/r/news/comments/x34l2h/head_of_russian_oil_giant_lukoil_dies_after/)
-- [The first bus carrying migrants from the US-Mexico border in Texas arrives in Chicago, officials say](https://www.reddit.com/r/news/comments/x34a4y/the_first_bus_carrying_migrants_from_the_usmexico/)
-- [Former Idaho state lawmaker convicted of raping legislative intern sentenced to 20 years in prison](https://www.reddit.com/r/news/comments/x33i1y/former_idaho_state_lawmaker_convicted_of_raping/)
-- [&#39;Killed literally as road kill&#39;: California&#39;s best-known whale dies from ship strike](https://www.reddit.com/r/news/comments/x32j9p/killed_literally_as_road_kill_californias/)
+- [Video: Brutal bat attack in Brooklyn](https://www.reddit.com/r/news/comments/x3d6nx/video_brutal_bat_attack_in_brooklyn/)
+- [Missouri prosecutors seek to vacate murder conviction of man in prison for over 27 years](https://www.reddit.com/r/news/comments/x3bera/missouri_prosecutors_seek_to_vacate_murder/)
+- [West Point Responds to KKK Plaque Uproar](https://www.reddit.com/r/news/comments/x3avyu/west_point_responds_to_kkk_plaque_uproar/)
+- [U.S. charges Oath Keepers lawyer with Jan. 6 conspiracy, obstruction](https://www.reddit.com/r/news/comments/x3asp7/us_charges_oath_keepers_lawyer_with_jan_6/)
+- [Putin denies Gorbachev a state funeral and will stay away](https://www.reddit.com/r/news/comments/x39sye/putin_denies_gorbachev_a_state_funeral_and_will/)
 <!-- REDDIT:END -->
 
 
