@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [As heat wave grips the West, millions in California are urged to set thermostats to 78 degrees to conserve electricity today](https://www.reddit.com/r/news/comments/x3yg3p/as_heat_wave_grips_the_west_millions_in/)
+- [‘Tragic outcomes’: Mentally ill face fatal risk with police](https://www.reddit.com/r/news/comments/x3xtyy/tragic_outcomes_mentally_ill_face_fatal_risk_with/)
+- [EPA head: Advanced nuke tech key to mitigate climate change](https://www.reddit.com/r/news/comments/x3x1nj/epa_head_advanced_nuke_tech_key_to_mitigate/)
+- [Nebraska nurses build barricade after patient reportedly threatened to kill them](https://www.reddit.com/r/news/comments/x3s2ys/nebraska_nurses_build_barricade_after_patient/)
+- [After large pool of human blood found in Cumberland Co., police and community seek answers](https://www.reddit.com/r/news/comments/x3pvtv/after_large_pool_of_human_blood_found_in/)
 <!-- REDDIT:END -->
 
 
