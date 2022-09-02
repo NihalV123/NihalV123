@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nebraska nurses build barricade after patient reportedly threatened to kill them](https://www.reddit.com/r/news/comments/x3s2ys/nebraska_nurses_build_barricade_after_patient/)
+- [After large pool of human blood found in Cumberland Co., police and community seek answers](https://www.reddit.com/r/news/comments/x3pvtv/after_large_pool_of_human_blood_found_in/)
+- [NYC police officer caught on video hitting woman, 19, in the face](https://www.reddit.com/r/news/comments/x3po0n/nyc_police_officer_caught_on_video_hitting_woman/)
+- [Group Disrupts Drag Queen Story Hour Event in Campbell &lpar;California&rpar;](https://www.reddit.com/r/news/comments/x3p35q/group_disrupts_drag_queen_story_hour_event_in/)
+- [Baggage handler dies when her hair became stuck in belt loader at New Orleans airport](https://www.reddit.com/r/news/comments/x3nskl/baggage_handler_dies_when_her_hair_became_stuck/)
 <!-- REDDIT:END -->
 
 
