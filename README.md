@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teacher punished for not using student’s pronouns gets $95K settlement](https://www.reddit.com/r/news/comments/x3nnvb/teacher_punished_for_not_using_students_pronouns/)
+- [The nation&#39;s poorest state used welfare money to pay Brett Favre for speeches he never made](https://www.reddit.com/r/news/comments/x3n1ke/the_nations_poorest_state_used_welfare_money_to/)
+- [Jury finds Seminole GOP chair guilty in ‘ghost’ candidate case](https://www.reddit.com/r/news/comments/x3mi2n/jury_finds_seminole_gop_chair_guilty_in_ghost/)
+- [Bed Bath &amp; Beyond closing 150 stores, laying off 20% of staff](https://www.reddit.com/r/news/comments/x3mbb0/bed_bath_beyond_closing_150_stores_laying_off_20/)
+- [More evidence links highly processed food to a greater risk of cancer and death](https://www.reddit.com/r/news/comments/x3jyvr/more_evidence_links_highly_processed_food_to_a/)
 <!-- REDDIT:END -->
 
 
