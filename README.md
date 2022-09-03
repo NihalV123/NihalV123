@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An E. coli outbreak associated with Wendy&#39;s restaurants has now sickened 97 people in 6 states | CNN](https://www.reddit.com/r/news/comments/x4ztc2/an_e_coli_outbreak_associated_with_wendys/)
+- [Bayer to pay $40 million to resolve U.S. whistleblower claims over three drugs](https://www.reddit.com/r/news/comments/x4yib0/bayer_to_pay_40_million_to_resolve_us/)
+- [Hawaii shuts down its last coal-fired power plant in bid to fight climate change](https://www.reddit.com/r/news/comments/x4yg26/hawaii_shuts_down_its_last_coalfired_power_plant/)
+- [Reeves: Plane threatening to crash in Mississippi lands](https://www.reddit.com/r/news/comments/x4xti0/reeves_plane_threatening_to_crash_in_mississippi/)
+- [Father charged with murder after intentionally leaving his 1-year-old son in hot car for hours, Ohio police say](https://www.reddit.com/r/news/comments/x4xdt9/father_charged_with_murder_after_intentionally/)
 <!-- REDDIT:END -->
 
 
