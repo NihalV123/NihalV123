@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Border Patrol: 8 migrants found dead in Rio Grande at Texas](https://www.reddit.com/r/news/comments/x4k402/border_patrol_8_migrants_found_dead_in_rio_grande/)
+- [Serena Williams&#39; 2022 US Open run ends with three-set loss to Ajla Tomljanovic](https://www.reddit.com/r/news/comments/x4ja31/serena_williams_2022_us_open_run_ends_with/)
+- [Woman abducted while on jog in Memphis, Tennessee, officials say](https://www.reddit.com/r/news/comments/x4i5gj/woman_abducted_while_on_jog_in_memphis_tennessee/)
+- [Woman on beach finds fossil from unknown animal likely older than dinosaurs](https://www.reddit.com/r/news/comments/x4gs9l/woman_on_beach_finds_fossil_from_unknown_animal/)
+- [Death Valley hits 127 degrees, setting record for hottest September day on the planet](https://www.reddit.com/r/news/comments/x4elzs/death_valley_hits_127_degrees_setting_record_for/)
 <!-- REDDIT:END -->
 
 
