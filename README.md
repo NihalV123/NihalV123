@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Knock, knock: Jehovah&#39;s Witnesses resume door-to-door work](https://www.reddit.com/r/news/comments/x4rmbz/knock_knock_jehovahs_witnesses_resume_doortodoor/)
+- [Transgender man dies after Pride parade assault in Germany](https://www.reddit.com/r/news/comments/x4r6pd/transgender_man_dies_after_pride_parade_assault/)
+- [California school district tries new way to retain teachers: Low-cost apartments on school property](https://www.reddit.com/r/news/comments/x4q37n/california_school_district_tries_new_way_to/)
+- [Thousands evacuate, several homes destroyed after large fire erupts in Northern California](https://www.reddit.com/r/news/comments/x4pckq/thousands_evacuate_several_homes_destroyed_after/)
+- [A girl wanted to keep the goat she raised for a county fair. They chose to kill it.](https://www.reddit.com/r/news/comments/x4nwxi/a_girl_wanted_to_keep_the_goat_she_raised_for_a/)
 <!-- REDDIT:END -->
 
 
