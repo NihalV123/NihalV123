@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World food prices drop for fifth consecutive month: FAO](https://www.reddit.com/r/news/comments/x597do/world_food_prices_drop_for_fifth_consecutive/)
+- [Nuclear plant loses power line as Moscow, West energy row escalates](https://www.reddit.com/r/news/comments/x58tz6/nuclear_plant_loses_power_line_as_moscow_west/)
+- [The gold rush for travel nurses is over. Now what will they do?](https://www.reddit.com/r/news/comments/x58kbc/the_gold_rush_for_travel_nurses_is_over_now_what/)
+- [Brazilian man survives 11 days in ocean floating alone in a freezer](https://www.reddit.com/r/news/comments/x5863m/brazilian_man_survives_11_days_in_ocean_floating/)
+- [Under pressure, security firm Cloudflare drops KiwiFarms website where stalkers organize](https://www.reddit.com/r/news/comments/x56mzk/under_pressure_security_firm_cloudflare_drops/)
 <!-- REDDIT:END -->
 
 
