@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter account Libs of TikTok blamed for harassment of children’s hospitals](https://www.reddit.com/r/news/comments/x66l3p/twitter_account_libs_of_tiktok_blamed_for/)
+- [1 dead, 8 missing after float plane crashes in Puget Sound](https://www.reddit.com/r/news/comments/x63wos/1_dead_8_missing_after_float_plane_crashes_in/)
+- [Chilean voters overwhelmingly reject proposed progressive constitution in national referendum](https://www.reddit.com/r/news/comments/x62kjy/chilean_voters_overwhelmingly_reject_proposed/)
+- [Battle over books rages in North Texas school district amid outcry over new policy](https://www.reddit.com/r/news/comments/x62j06/battle_over_books_rages_in_north_texas_school/)
+- [Ohio sees surge in women registering to vote after abortion access restricted](https://www.reddit.com/r/news/comments/x61op6/ohio_sees_surge_in_women_registering_to_vote/)
 <!-- REDDIT:END -->
 
 
