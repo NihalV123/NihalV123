@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bed Bath &amp; Beyond CFO Gustavo Arnal died by suicide, medical examiner says — CNBC](https://www.reddit.com/r/news/comments/x6ec6x/bed_bath_beyond_cfo_gustavo_arnal_died_by_suicide/)
+- [Afghanistan: Russian embassy staff killed in Kabul bombing](https://www.reddit.com/r/news/comments/x6dyg0/afghanistan_russian_embassy_staff_killed_in_kabul/)
+- [Nirvana win lawsuit over 1991 Nevermind album cover](https://www.reddit.com/r/news/comments/x6cl0y/nirvana_win_lawsuit_over_1991_nevermind_album/)
+- [Two Russian embassy staff dead, 11 hurt in suicide bomb blast in Kabul](https://www.reddit.com/r/news/comments/x6cje0/two_russian_embassy_staff_dead_11_hurt_in_suicide/)
+- [Black Lives Matter executive accused of &#39;syphoning&#39; $10M from BLM donors, suit says](https://www.reddit.com/r/news/comments/x6cfl7/black_lives_matter_executive_accused_of_syphoning/)
 <!-- REDDIT:END -->
 
 
