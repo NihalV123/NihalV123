@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chilean voters overwhelmingly reject proposed progressive constitution in national referendum](https://www.reddit.com/r/news/comments/x62kjy/chilean_voters_overwhelmingly_reject_proposed/)
+- [Ohio sees surge in women registering to vote after abortion access restricted](https://www.reddit.com/r/news/comments/x61op6/ohio_sees_surge_in_women_registering_to_vote/)
+- [Record hot labor market has Minnesota scrambling for workers](https://www.reddit.com/r/news/comments/x60fxu/record_hot_labor_market_has_minnesota_scrambling/)
+- [At least 10 dead in stabbings acrossAt Saskatchewan as Canadian authorities search for 2 suspects | CNN](https://www.reddit.com/r/news/comments/x608id/at_least_10_dead_in_stabbings_acrossat/)
+- [Australian teen strip-searched and held in US jail for 10 days after being denied common visa waiver.](https://www.reddit.com/r/news/comments/x5zm33/australian_teen_stripsearched_and_held_in_us_jail/)
 <!-- REDDIT:END -->
 
 
