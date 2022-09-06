@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia reaps 158 billion euros from energy exports, despite sanctions](https://www.reddit.com/r/news/comments/x77sym/russia_reaps_158_billion_euros_from_energy/)
+- [US: Russia to buy rockets, artillery shells from North Korea](https://www.reddit.com/r/news/comments/x7754x/us_russia_to_buy_rockets_artillery_shells_from/)
+- [55-year-old Florida man charged with stalking 6-year-old girl](https://www.reddit.com/r/news/comments/x75hnr/55yearold_florida_man_charged_with_stalking/)
+- [Earthquake death toll rises to 65 in Sichuan, China as aftershocks rattle province](https://www.reddit.com/r/news/comments/x73mw0/earthquake_death_toll_rises_to_65_in_sichuan/)
+- [Apple is gaining on Facebook and Google in online ads after iOS privacy change, report shows](https://www.reddit.com/r/news/comments/x71fcv/apple_is_gaining_on_facebook_and_google_in_online/)
 <!-- REDDIT:END -->
 
 
