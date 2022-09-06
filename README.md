@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [77-year-old woman hospitalized after being bitten by 7&#39;10&quot; alligator in gated community in Florida](https://www.reddit.com/r/news/comments/x6vnye/77yearold_woman_hospitalized_after_being_bitten/)
+- [Flood threat continues in Georgia, other states](https://www.reddit.com/r/news/comments/x6tkyv/flood_threat_continues_in_georgia_other_states/)
+- [One suspect found dead, one still on the run after stabbings that killed 10 dead in Canada: &quot;No one in this town is ever going to sleep again&quot;](https://www.reddit.com/r/news/comments/x6tkfv/one_suspect_found_dead_one_still_on_the_run_after/)
+- [Update: Coast Guard suspends search for nine people missing after float plane crashes off Whidbey Island.](https://www.reddit.com/r/news/comments/x6tj2g/update_coast_guard_suspends_search_for_nine/)
+- [Putin approves new foreign policy doctrine based on &#39;Russian World&#39;](https://www.reddit.com/r/news/comments/x6rvuq/putin_approves_new_foreign_policy_doctrine_based/)
 <!-- REDDIT:END -->
 
 
