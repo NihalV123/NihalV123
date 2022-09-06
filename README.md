@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California fast-food workers could see their wages reach $22 an hour next year](https://www.reddit.com/r/news/comments/x7ffud/california_fastfood_workers_could_see_their_wages/)
+- [Uvalde children return to school after 21 students and teachers were slaughtered. But some kids refuse to go back to classrooms](https://www.reddit.com/r/news/comments/x7eayt/uvalde_children_return_to_school_after_21/)
+- [New Mexico bars commissioner from office for insurrection](https://www.reddit.com/r/news/comments/x7e417/new_mexico_bars_commissioner_from_office_for/)
+- [Parents indicted for raping their daughter for 13 years](https://www.reddit.com/r/news/comments/x7dp2j/parents_indicted_for_raping_their_daughter_for_13/)
+- [Bed Bath &amp; Beyond shares are down sharply after CFO jumps to his death](https://www.reddit.com/r/news/comments/x7d21e/bed_bath_beyond_shares_are_down_sharply_after_cfo/)
 <!-- REDDIT:END -->
 
 
