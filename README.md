@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US bars &#39;advanced tech&#39; firms from building China factories for 10 years](https://www.reddit.com/r/news/comments/x7vhy5/us_bars_advanced_tech_firms_from_building_china/)
+- [Steve Bannon expected to surrender Thursday on New York state charges related to border wall effort | CNN Politics](https://www.reddit.com/r/news/comments/x7u2ay/steve_bannon_expected_to_surrender_thursday_on/)
+- [Woman killed in shark attack while snorkeling in Bahamas, cruise officials confirm](https://www.reddit.com/r/news/comments/x7sudc/woman_killed_in_shark_attack_while_snorkeling_in/)
+- [Material on foreign nation’s nuclear capabilities seized at Trump’s Mar-a-Lago](https://www.reddit.com/r/news/comments/x7ro4c/material_on_foreign_nations_nuclear_capabilities/)
+- [California ISO declares Energy Emergency Alert Level 3; Rotating outages possible.](https://www.reddit.com/r/news/comments/x7r9be/california_iso_declares_energy_emergency_alert/)
 <!-- REDDIT:END -->
 
 
