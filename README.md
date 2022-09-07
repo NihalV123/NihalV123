@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gulf States Demand Netflix Pull Content Deemed Offensive](https://www.reddit.com/r/news/comments/x7q9d0/gulf_states_demand_netflix_pull_content_deemed/)
+- [Politico Owner Asked Execs to Pray for Trump&#39;s Re-election](https://www.reddit.com/r/news/comments/x7psua/politico_owner_asked_execs_to_pray_for_trumps/)
+- [Texas ‘Most Wanted’ child sex offender captured, state officials say](https://www.reddit.com/r/news/comments/x7ojuv/texas_most_wanted_child_sex_offender_captured/)
+- [Des Moines teen sex trafficking victim who killed alleged rapist to be sentenced Wednesday](https://www.reddit.com/r/news/comments/x7ntcn/des_moines_teen_sex_trafficking_victim_who_killed/)
+- [Son of Lori Vallow, the Idaho mom accused of killing 2 of her children, is charged with sexual assault](https://www.reddit.com/r/news/comments/x7mz34/son_of_lori_vallow_the_idaho_mom_accused_of/)
 <!-- REDDIT:END -->
 
 
