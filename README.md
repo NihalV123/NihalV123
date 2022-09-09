@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Electrical fault recorded in PG&amp;E equipment around same time as start of Mosquito Fire](https://www.reddit.com/r/news/comments/x9hhnf/electrical_fault_recorded_in_pge_equipment_around/)
+- [More Americans tapping buy now, pay later services for groceries ‘shows the height of personal desperation,’ Harvard researcher says](https://www.reddit.com/r/news/comments/x9h9f5/more_americans_tapping_buy_now_pay_later_services/)
+- [Uvalde police investigating shooting with &#39;injured victims&#39; at memorial park](https://www.reddit.com/r/news/comments/x9ftep/uvalde_police_investigating_shooting_with_injured/)
+- [U.S. reveals more classified records may be missing in Trump probe](https://www.reddit.com/r/news/comments/x9fmij/us_reveals_more_classified_records_may_be_missing/)
+- [A former Utah city mayor and bishop with The Church of Jesus Christ of Latter-day Saints has been arrested on accusations he sexually abused at least three children decades ago.](https://www.reddit.com/r/news/comments/x9dvyw/a_former_utah_city_mayor_and_bishop_with_the/)
 <!-- REDDIT:END -->
 
 
