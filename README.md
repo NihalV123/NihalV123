@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Men convicted of plotting to kidnap Michigan governor sent private investigator to juror&#39;s workplace](https://www.reddit.com/r/news/comments/xa1pg3/men_convicted_of_plotting_to_kidnap_michigan/)
+- [NY Polio Outbreak Spreads to Nassau County; State of Emergency Declared](https://www.reddit.com/r/news/comments/xa1cdi/ny_polio_outbreak_spreads_to_nassau_county_state/)
+- [The slain Memphis teacher was abducted before she could finish her morning run. Hundreds of people finished it for her Friday morning](https://www.reddit.com/r/news/comments/xa05ae/the_slain_memphis_teacher_was_abducted_before_she/)
+- [DC declares public emergency on migrant crisis, establishes Office of Migrant Services](https://www.reddit.com/r/news/comments/x9zvde/dc_declares_public_emergency_on_migrant_crisis/)
+- [BYU: No evidence to corroborate volleyball slur](https://www.reddit.com/r/news/comments/x9zlry/byu_no_evidence_to_corroborate_volleyball_slur/)
 <!-- REDDIT:END -->
 
 
