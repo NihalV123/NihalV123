@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine counterattack takes Russia – and everyone else – by surprise | Ukraine](https://www.reddit.com/r/news/comments/x9ta8y/ukraine_counterattack_takes_russia_and_everyone/)
+- [TikTok challenge spurs rise in thefts of Kia, Hyundai cars](https://www.reddit.com/r/news/comments/x9t7l4/tiktok_challenge_spurs_rise_in_thefts_of_kia/)
+- [Elon Musk $258 billion Dogecoin lawsuit expands](https://www.reddit.com/r/news/comments/x9rcrb/elon_musk_258_billion_dogecoin_lawsuit_expands/)
+- [San Francisco Parking Spot Goes on Sale for $90,000](https://www.reddit.com/r/news/comments/x9oijc/san_francisco_parking_spot_goes_on_sale_for_90000/)
+- [Washington mayor declares public emergency over migrant arrivals from Texas, Arizona](https://www.reddit.com/r/news/comments/x9o06z/washington_mayor_declares_public_emergency_over/)
 <!-- REDDIT:END -->
 
 
