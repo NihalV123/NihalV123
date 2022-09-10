@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Volcano-like plumes spread above intense Northern California fire](https://www.reddit.com/r/news/comments/xag4qn/volcanolike_plumes_spread_above_intense_northern/)
+- [Young California mother beheaded on street identified, new info released on man arrested in attack](https://www.reddit.com/r/news/comments/xafug5/young_california_mother_beheaded_on_street/)
+- [Police Responding to Another Threat at Boston Children&#39;s Hospital](https://www.reddit.com/r/news/comments/xafod8/police_responding_to_another_threat_at_boston/)
+- [Fla. Scammer Claims CEO Status, Steals 21 Properties](https://www.reddit.com/r/news/comments/xadnpe/fla_scammer_claims_ceo_status_steals_21_properties/)
+- [Supreme Court temporarily blocks ruling that required Jewish university to recognize LGBTQ group](https://www.reddit.com/r/news/comments/xabdy8/supreme_court_temporarily_blocks_ruling_that/)
 <!-- REDDIT:END -->
 
 
