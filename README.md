@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Black preacher arrested while watering flowers sues police](https://www.reddit.com/r/news/comments/xavfsj/black_preacher_arrested_while_watering_flowers/)
+- [U.S. freight railroads prepare for potential strike disruption](https://www.reddit.com/r/news/comments/xauyk7/us_freight_railroads_prepare_for_potential_strike/)
+- [Russia withdraws from key areas in Ukraine&#39;s east after surprise offensive](https://www.reddit.com/r/news/comments/xaux5k/russia_withdraws_from_key_areas_in_ukraines_east/)
+- [‘Y’all just coming to get a story’: Local organizers say media neglects Jackson until crisis](https://www.reddit.com/r/news/comments/xauvhm/yall_just_coming_to_get_a_story_local_organizers/)
+- [Russia announces troop pullback from Ukraine&#39;s Kharkiv area](https://www.reddit.com/r/news/comments/xat7gl/russia_announces_troop_pullback_from_ukraines/)
 <!-- REDDIT:END -->
 
 
