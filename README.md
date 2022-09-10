@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court temporarily blocks ruling that required Jewish university to recognize LGBTQ group](https://www.reddit.com/r/news/comments/xabdy8/supreme_court_temporarily_blocks_ruling_that/)
+- [Phone call led to California deputy&#39;s surrender in slayings](https://www.reddit.com/r/news/comments/xa92ad/phone_call_led_to_california_deputys_surrender_in/)
+- [Ukraine Makes Gains Against Russia](https://www.reddit.com/r/news/comments/xa8nhx/ukraine_makes_gains_against_russia/)
+- [Russian officials who called for Putin&#39;s &#39;impeachment&#39; face fines](https://www.reddit.com/r/news/comments/xa8akd/russian_officials_who_called_for_putins/)
+- [US counts millionth organ transplant while pushing for more](https://www.reddit.com/r/news/comments/xa5amw/us_counts_millionth_organ_transplant_while/)
 <!-- REDDIT:END -->
 
 
