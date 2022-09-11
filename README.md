@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [India&#39;s Vande Bharat breaks bullet train record, goes from 0 to 100 kmph in 52 seconds.](https://www.reddit.com/r/news/comments/xb9ciq/indias_vande_bharat_breaks_bullet_train_record/)
+- [Suspect in Wisconsin parade attack withdraws insanity plea](https://www.reddit.com/r/news/comments/xb8qfq/suspect_in_wisconsin_parade_attack_withdraws/)
+- [India, China to withdraw from disputed border area by Monday](https://www.reddit.com/r/news/comments/xb8dwb/india_china_to_withdraw_from_disputed_border_area/)
+- [Earthquake of magnitude 7.6 strikes Eastern New Guinea region in Papua New Guinea](https://www.reddit.com/r/news/comments/xb4zfd/earthquake_of_magnitude_76_strikes_eastern_new/)
+- [Ukrainian forces enter key city of Izium in a sign Kyiv&#39;s new offensive is working](https://www.reddit.com/r/news/comments/xb4anq/ukrainian_forces_enter_key_city_of_izium_in_a/)
 <!-- REDDIT:END -->
 
 
