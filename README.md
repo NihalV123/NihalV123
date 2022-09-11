@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Earthquake of magnitude 7.6 strikes Eastern New Guinea region in Papua New Guinea](https://www.reddit.com/r/news/comments/xb4zfd/earthquake_of_magnitude_76_strikes_eastern_new/)
+- [Ukrainian forces enter key city of Izium in a sign Kyiv&#39;s new offensive is working](https://www.reddit.com/r/news/comments/xb4anq/ukrainian_forces_enter_key_city_of_izium_in_a/)
+- [Jailed Navalny&#39;s Situation is Getting Dangerous](https://www.reddit.com/r/news/comments/xb4abw/jailed_navalnys_situation_is_getting_dangerous/)
+- [Navalny Put in Solitary Confinement for Fourth Time in Month](https://www.reddit.com/r/news/comments/xb47nu/navalny_put_in_solitary_confinement_for_fourth/)
+- [Scientists Discover 4,000-Feet Coral Reef In Australian Desert: Report](https://www.reddit.com/r/news/comments/xb40nt/scientists_discover_4000feet_coral_reef_in/)
 <!-- REDDIT:END -->
 
 
