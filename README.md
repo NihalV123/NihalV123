@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas teacher on administrative leave after telling students to call pedophiles &#39;minor attracted persons&#39;](https://www.reddit.com/r/news/comments/xbz9th/texas_teacher_on_administrative_leave_after/)
+- [Second Hiker This Week Plunges to Her Death from Colorado Mountaintop](https://www.reddit.com/r/news/comments/xbyk01/second_hiker_this_week_plunges_to_her_death_from/)
+- [Carlos Alcaraz Wins US Open, Becomes Youngest #1 in ATP History](https://www.reddit.com/r/news/comments/xbxql2/carlos_alcaraz_wins_us_open_becomes_youngest_1_in/)
+- [A Black retiree won money at a casino and is suing bank after she says she was turned away while trying to deposit a check](https://www.reddit.com/r/news/comments/xbw8s5/a_black_retiree_won_money_at_a_casino_and_is/)
+- [CBP officers announce the largest ever meth seizure at Del Rio Port of Entry](https://www.reddit.com/r/news/comments/xbw7l6/cbp_officers_announce_the_largest_ever_meth/)
 <!-- REDDIT:END -->
 
 
