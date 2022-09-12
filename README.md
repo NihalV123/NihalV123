@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Trial set to begin for Alex Jones in Sandy Hook hoax case](https://www.reddit.com/r/news/comments/xc50x0/trial_set_to_begin_for_alex_jones_in_sandy_hook/)
+- [Cedar Creek Fire blows up to nearly 87,000 acres, again 0% contained; more than 1,200 firefighters on the lines](https://www.reddit.com/r/news/comments/xc3wpw/cedar_creek_fire_blows_up_to_nearly_87000_acres/)
+- [Second possible U.S. death from monkeypox reported in California](https://www.reddit.com/r/news/comments/xc3lo3/second_possible_us_death_from_monkeypox_reported/)
+- [82-year-old grandma&#39;s bank account wiped out and in the negatives after loan scam](https://www.reddit.com/r/news/comments/xc0z50/82yearold_grandmas_bank_account_wiped_out_and_in/)
+- [Amid Ukraine’s startling gains, liberated villages describe Russian troops dropping rifles and fleeing](https://www.reddit.com/r/news/comments/xc0caa/amid_ukraines_startling_gains_liberated_villages/)
 <!-- REDDIT:END -->
 
 
