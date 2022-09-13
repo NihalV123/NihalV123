@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan man fatally shot by police after he killed his wife; his daughter blames incident on QAnon conspiracy theory](https://www.reddit.com/r/news/comments/xcz5mm/michigan_man_fatally_shot_by_police_after_he/)
+- [Exxon Valdez Capt. Joseph Hazelwood dies at 75](https://www.reddit.com/r/news/comments/xcy2aj/exxon_valdez_capt_joseph_hazelwood_dies_at_75/)
+- [Australian man killed by kangaroo in rare fatal attack](https://www.reddit.com/r/news/comments/xcx31w/australian_man_killed_by_kangaroo_in_rare_fatal/)
+- [Starbucks announces new student loan repayment tools and a savings account program for all U.S. employees who are not union members](https://www.reddit.com/r/news/comments/xcuucx/starbucks_announces_new_student_loan_repayment/)
+- [Woman whose rape kit DNA was used against her in separate crime sues San Francisco](https://www.reddit.com/r/news/comments/xctkiu/woman_whose_rape_kit_dna_was_used_against_her_in/)
 <!-- REDDIT:END -->
 
 
