@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [John Lennon&#39;s killer Mark David Chapman denied parole again, for 12th time](https://www.reddit.com/r/news/comments/xd5hub/john_lennons_killer_mark_david_chapman_denied/)
+- [Minnesota man sentenced to life in prison for selling fentanyl in 11 fatal overdoses: &quot;Your disregard for human life is terrifying&quot;](https://www.reddit.com/r/news/comments/xd5dd4/minnesota_man_sentenced_to_life_in_prison_for/)
+- [Seoul warns North Korea that using nuclear weapons would be ‘self-destruction’](https://www.reddit.com/r/news/comments/xd3shm/seoul_warns_north_korea_that_using_nuclear/)
+- [[CNN] Deputies from 18 municipal districts have called for Putin’s resignation](https://www.reddit.com/r/news/comments/xd2xxr/cnn_deputies_from_18_municipal_districts_have/)
+- [Jean-Luc Godard, giant of the French new wave, dies at 91](https://www.reddit.com/r/news/comments/xd2nz9/jeanluc_godard_giant_of_the_french_new_wave_dies/)
 <!-- REDDIT:END -->
 
 
