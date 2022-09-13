@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine war: We&#39;ve retaken 6,000 sq km from Russia, says Zelensky](https://www.reddit.com/r/news/comments/xddqef/ukraine_war_weve_retaken_6000_sq_km_from_russia/)
+- [Suns owner Sarver suspended 1 year, fined $10M after probe](https://www.reddit.com/r/news/comments/xddou7/suns_owner_sarver_suspended_1_year_fined_10m/)
+- [UN warns world is entering ‘uncharted territories of destruction’ from climate crisis](https://www.reddit.com/r/news/comments/xddkws/un_warns_world_is_entering_uncharted_territories/)
+- [Live updates: Twitter shareholders approve Elon Musk’s takeover deal](https://www.reddit.com/r/news/comments/xdd72n/live_updates_twitter_shareholders_approve_elon/)
+- [Pa. man wearing rainbow wig, ‘working to restore Trump to President King,’ arrested after carrying loaded gun into a Dairy Queen](https://www.reddit.com/r/news/comments/xdce67/pa_man_wearing_rainbow_wig_working_to_restore/)
 <!-- REDDIT:END -->
 
 
