@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oregon confirms new wolves in northern Cascade Mountains](https://www.reddit.com/r/news/comments/xe7edn/oregon_confirms_new_wolves_in_northern_cascade/)
+- [Defense lawyers in Parkland school shooting trial unexpectedly rest their case, sparking heated exchange with judge](https://www.reddit.com/r/news/comments/xe73fa/defense_lawyers_in_parkland_school_shooting_trial/)
+- [Insurers force change on police departments long resistant to it](https://www.reddit.com/r/news/comments/xe70oa/insurers_force_change_on_police_departments_long/)
+- [Hundreds of yoga teachers call out lululemon over coal-powered factories | Climate crisis](https://www.reddit.com/r/news/comments/xe6bir/hundreds_of_yoga_teachers_call_out_lululemon_over/)
+- [Employees at Pacific Northwest timber company Weyerhaeuser strike over wages, health care](https://www.reddit.com/r/news/comments/xe6bfy/employees_at_pacific_northwest_timber_company/)
 <!-- REDDIT:END -->
 
 
