@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iowa teen who killed rapist sentenced, ordered to pay $150K](https://www.reddit.com/r/news/comments/xdnr9y/iowa_teen_who_killed_rapist_sentenced_ordered_to/)
+- [Suns owner banned for one year, fined $10 mln over workplace conduct](https://www.reddit.com/r/news/comments/xdmhgp/suns_owner_banned_for_one_year_fined_10_mln_over/)
+- [Rensselaer County&#39;s Republican elections commissioner arrested by FBI](https://www.reddit.com/r/news/comments/xdm916/rensselaer_countys_republican_elections/)
+- [Artists hopeful €105m basic income pilot will lead to sector-wide rollout](https://www.reddit.com/r/news/comments/xdli8c/artists_hopeful_105m_basic_income_pilot_will_lead/)
+- [U.S. government makes contingency plans for rail shutdown](https://www.reddit.com/r/news/comments/xdjzub/us_government_makes_contingency_plans_for_rail/)
 <!-- REDDIT:END -->
 
 
