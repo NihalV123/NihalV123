@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman kidnaps man, ties him up with ball gag, beats him with frying pan, forces him to sell property, robs him.](https://www.reddit.com/r/news/comments/xeiez8/woman_kidnaps_man_ties_him_up_with_ball_gag_beats/)
+- [Los Angeles Sheriff&#39;s Department Raids Homes of Civilian Oversight Commissioner Patty Giggin and LA County Supervisor Sheila Kuehl](https://www.reddit.com/r/news/comments/xei14w/los_angeles_sheriffs_department_raids_homes_of/)
+- [Minor leaguers form union, 17 days after organizing began](https://www.reddit.com/r/news/comments/xehe9k/minor_leaguers_form_union_17_days_after/)
+- [Chick-Fil-A employee stops carjacking outside restaurant in Fort Walton Beach](https://www.reddit.com/r/news/comments/xegb0z/chickfila_employee_stops_carjacking_outside/)
+- [Patagonia founder just donated the entire company, worth $3 billion, to fight climate change](https://www.reddit.com/r/news/comments/xef6k0/patagonia_founder_just_donated_the_entire_company/)
 <!-- REDDIT:END -->
 
 
