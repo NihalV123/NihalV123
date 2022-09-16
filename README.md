@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Customs officials have copied Americans’ phone data at massive scale](https://www.reddit.com/r/news/comments/xfc4og/customs_officials_have_copied_americans_phone/)
+- [FBI arrests ex-Kansas police detective long accused of sexually preying on Black women](https://www.reddit.com/r/news/comments/xfbrrt/fbi_arrests_exkansas_police_detective_long/)
+- [Special master appointed to review documents from Mar-a-Lago search; DOJ request to revive criminal probe rejected](https://www.reddit.com/r/news/comments/xfbnaf/special_master_appointed_to_review_documents_from/)
+- [Montana ban on changing gender on birth certificate blocked by judge](https://www.reddit.com/r/news/comments/xfbi55/montana_ban_on_changing_gender_on_birth/)
+- [Dallas anesthesiologist tampered with IV bags, killing another doctor, prosecutors say](https://www.reddit.com/r/news/comments/xfbcah/dallas_anesthesiologist_tampered_with_iv_bags/)
 <!-- REDDIT:END -->
 
 
