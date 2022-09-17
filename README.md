@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Episcopal church on Martha’s Vineyard takes in migrants flown in by surprise](https://www.reddit.com/r/news/comments/xg8anm/episcopal_church_on_marthas_vineyard_takes_in/)
+- [Columbia ranking falls to 18th place after whistleblower exposed school&#39;s falsified and misrepresented stats](https://www.reddit.com/r/news/comments/xg73no/columbia_ranking_falls_to_18th_place_after/)
+- [Sheriff releases final report on crash that killed Rep. Jackie Walorski and 3 others](https://www.reddit.com/r/news/comments/xg6jkj/sheriff_releases_final_report_on_crash_that/)
+- [Migrants flown to Martha’s Vineyard moving to US military base](https://www.reddit.com/r/news/comments/xg5noo/migrants_flown_to_marthas_vineyard_moving_to_us/)
+- [Arizona Legislature won’t defend law limiting police filming](https://www.reddit.com/r/news/comments/xg5j2k/arizona_legislature_wont_defend_law_limiting/)
 <!-- REDDIT:END -->
 
 
