@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New images show intriguing Perseverance discovery on Mars](https://www.reddit.com/r/news/comments/xgropk/new_images_show_intriguing_perseverance_discovery/)
+- [A new, genetically modified purple tomato may hit the grocery market stands](https://www.reddit.com/r/news/comments/xgrm42/a_new_genetically_modified_purple_tomato_may_hit/)
+- [Book ban efforts surging in 2022, library association says](https://www.reddit.com/r/news/comments/xgpkzo/book_ban_efforts_surging_in_2022_library/)
+- [Iranian police fire tear gas at rally after woman&#39;s funeral](https://www.reddit.com/r/news/comments/xgooka/iranian_police_fire_tear_gas_at_rally_after/)
+- [Man who threatened Merriam Webster dictionary over updated gender pronouns pleads guilty](https://www.reddit.com/r/news/comments/xgogbn/man_who_threatened_merriam_webster_dictionary/)
 <!-- REDDIT:END -->
 
 
