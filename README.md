@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli airstrike on Damascus airport kills five Syrian troops – reports](https://www.reddit.com/r/news/comments/xgizvd/israeli_airstrike_on_damascus_airport_kills_five/)
+- [Casino company Hard Rock to spend $100 million to raise employee wages](https://www.reddit.com/r/news/comments/xgho9x/casino_company_hard_rock_to_spend_100_million_to/)
+- [Russia bans 41 Australians from entering](https://www.reddit.com/r/news/comments/xgheyk/russia_bans_41_australians_from_entering/)
+- [India reintroduces cheetahs to wild after big cats airlifted from Namibia |The Guardian](https://www.reddit.com/r/news/comments/xgfx5z/india_reintroduces_cheetahs_to_wild_after_big/)
+- [Ukraine says some bodies recovered at newly discovered mass burial site show signs of torture](https://www.reddit.com/r/news/comments/xgdznf/ukraine_says_some_bodies_recovered_at_newly/)
 <!-- REDDIT:END -->
 
 
