@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine war: Grave sites prompt calls for tribunal over Russian killings](https://www.reddit.com/r/news/comments/xhdzmu/ukraine_war_grave_sites_prompt_calls_for_tribunal/)
+- [On trip to Armenia, Pelosi condemns Azerbaijan&#39;s &#39;illegal&#39; attacks](https://www.reddit.com/r/news/comments/xhc97s/on_trip_to_armenia_pelosi_condemns_azerbaijans/)
+- [Hurricane threat as Tropical Storm Fiona aims at Puerto Rico](https://www.reddit.com/r/news/comments/xh7wrx/hurricane_threat_as_tropical_storm_fiona_aims_at/)
+- [Three reported dead in mid-air collision in Boulder County](https://www.reddit.com/r/news/comments/xh7pq7/three_reported_dead_in_midair_collision_in/)
+- [&#39;Werewolf killer&#39; ordered to stay off social media after dating profile is found 4 years following slaying](https://www.reddit.com/r/news/comments/xh6p2k/werewolf_killer_ordered_to_stay_off_social_media/)
 <!-- REDDIT:END -->
 
 
