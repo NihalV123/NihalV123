@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canadian dollar falls to lowest level in nearly 2 years amid possible global recession](https://www.reddit.com/r/news/comments/xhlx90/canadian_dollar_falls_to_lowest_level_in_nearly_2/)
+- [Disturbing video shows man with an axe ‘menacing’ customers at New York McDonald’s](https://www.reddit.com/r/news/comments/xhlab9/disturbing_video_shows_man_with_an_axe_menacing/)
+- [Fiona becomes a hurricane, aims at Puerto Rico](https://www.reddit.com/r/news/comments/xhkg6p/fiona_becomes_a_hurricane_aims_at_puerto_rico/)
+- [Germany seizes Russian oil firm Rosneft’s refineries](https://www.reddit.com/r/news/comments/xhkblz/germany_seizes_russian_oil_firm_rosnefts/)
+- [Protesters shut down Tomi Lahren event at UNM](https://www.reddit.com/r/news/comments/xhjw70/protesters_shut_down_tomi_lahren_event_at_unm/)
 <!-- REDDIT:END -->
 
 
