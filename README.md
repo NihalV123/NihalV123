@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fury grows in Iran over woman who died after hijab arrest | Protests persisted on Sunday and #MahsaAmini became one of the top hashtags ever on Persian-language Twitter as Iranians fumed over the death of a young woman in the custody of morality police enforcing strict hijab rules.](https://www.reddit.com/r/news/comments/xhxx0q/fury_grows_in_iran_over_woman_who_died_after/)
+- [Video shows people fleeing as gymnasium collapses during Taiwan earthquake - CNN Video](https://www.reddit.com/r/news/comments/xhxt15/video_shows_people_fleeing_as_gymnasium_collapses/)
+- [Motorcyclist dies after hitting cow - Mid North Coast](https://www.reddit.com/r/news/comments/xhvzli/motorcyclist_dies_after_hitting_cow_mid_north/)
+- [Driver of Alabama bus with 40 kids aboard faces DUI charge](https://www.reddit.com/r/news/comments/xhs3on/driver_of_alabama_bus_with_40_kids_aboard_faces/)
+- [Louisiana boater arrested after firing at Coast Guard helicopter](https://www.reddit.com/r/news/comments/xhpmry/louisiana_boater_arrested_after_firing_at_coast/)
 <!-- REDDIT:END -->
 
 
