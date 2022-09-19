@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No agreement reached yet as Kaiser mental health worker strike reaches one month](https://www.reddit.com/r/news/comments/xik5oy/no_agreement_reached_yet_as_kaiser_mental_health/)
+- [Pentagon opens sweeping review of clandestine psychological operations](https://www.reddit.com/r/news/comments/xik1xe/pentagon_opens_sweeping_review_of_clandestine/)
+- [Celtic fans sing anti-monarchy song throughout minute&#39;s applause for the Queen](https://www.reddit.com/r/news/comments/xijl9i/celtic_fans_sing_antimonarchy_song_throughout/)
+- [Top Congo presidential adviser resigns after allegedly requesting bribe on tape](https://www.reddit.com/r/news/comments/xijba9/top_congo_presidential_adviser_resigns_after/)
+- [California woman who faked her own kidnapping set to be sentenced today](https://www.reddit.com/r/news/comments/xiikgf/california_woman_who_faked_her_own_kidnapping_set/)
 <!-- REDDIT:END -->
 
 
