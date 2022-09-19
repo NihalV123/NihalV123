@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Finnish entrepreneur pulled the plug, and the most notorious Neo-Nazi websites in the US, 8kun and Daily Stormer, crashed](https://www.reddit.com/r/news/comments/xiamp5/a_finnish_entrepreneur_pulled_the_plug_and_the/)
+- [Iran police slams ‘cowardly accusations’: Mahsa Amini ‘dressed inappropriately’](https://www.reddit.com/r/news/comments/xiab01/iran_police_slams_cowardly_accusations_mahsa/)
+- [Taliban release American engineer Frerichs in prisoner swap](https://www.reddit.com/r/news/comments/xia4y2/taliban_release_american_engineer_frerichs_in/)
+- [Los Angeles county is home to more than 69,000 unhoused people, count finds](https://www.reddit.com/r/news/comments/xia35y/los_angeles_county_is_home_to_more_than_69000/)
+- [Tom Hardy wins martial arts tournament in England](https://www.reddit.com/r/news/comments/xi8z0r/tom_hardy_wins_martial_arts_tournament_in_england/)
 <!-- REDDIT:END -->
 
 
