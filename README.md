@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. OKs new American Airlines, JetBlue flights to Havana](https://www.reddit.com/r/news/comments/xizize/us_oks_new_american_airlines_jetblue_flights_to/)
+- [Jewish Queer Youth to Financially Support Undergraduate Club Costs While Freeze Lasts](https://www.reddit.com/r/news/comments/xiyldg/jewish_queer_youth_to_financially_support/)
+- [Bexar County Sheriff announces investigation into how migrants went from Texas to Martha’s Vineyard](https://www.reddit.com/r/news/comments/xiwemy/bexar_county_sheriff_announces_investigation_into/)
+- [Ukraine marches farther into liberated lands, separatist calls for urgent referendum](https://www.reddit.com/r/news/comments/xiumsy/ukraine_marches_farther_into_liberated_lands/)
+- [Five killed in Iran during protests over death in custody - rights group](https://www.reddit.com/r/news/comments/xitblm/five_killed_in_iran_during_protests_over_death_in/)
 <!-- REDDIT:END -->
 
 
