@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FAMILY: Alabama veterans, being held captive in Ukraine, have been freed](https://www.reddit.com/r/news/comments/xkb4t9/family_alabama_veterans_being_held_captive_in/)
+- [Iran restricts access to Instagram as protests intensify - NetBlocks](https://www.reddit.com/r/news/comments/xkakjn/iran_restricts_access_to_instagram_as_protests/)
+- [2 claim Mega Millions prize; 3rd-largest US lottery jackpot](https://www.reddit.com/r/news/comments/xkahtc/2_claim_mega_millions_prize_3rdlargest_us_lottery/)
+- [World Cup captains want to wear rainbow armbands in Qatar](https://www.reddit.com/r/news/comments/xk8lmz/world_cup_captains_want_to_wear_rainbow_armbands/)
+- [New York sues Donald Trump, company and family members over widespread fraud claims, seeks at least $250 million in penalties](https://www.reddit.com/r/news/comments/xk8420/new_york_sues_donald_trump_company_and_family/)
 <!-- REDDIT:END -->
 
 
