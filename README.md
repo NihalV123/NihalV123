@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [PepsiCo ends Pepsi, 7UP production in Russia months after promising halt over Ukraine](https://www.reddit.com/r/news/comments/xjqngb/pepsico_ends_pepsi_7up_production_in_russia/)
+- [Mark Zuckerberg&#39;s net worth has dropped $71 billion this year](https://www.reddit.com/r/news/comments/xjpxvx/mark_zuckerbergs_net_worth_has_dropped_71_billion/)
+- [1 killed, 1 other wounded in shooting near Oakland City Hall, police say](https://www.reddit.com/r/news/comments/xjotfm/1_killed_1_other_wounded_in_shooting_near_oakland/)
+- [Kansas man sentenced to nearly 6 years in prison for illegal autopsy scheme](https://www.reddit.com/r/news/comments/xjnury/kansas_man_sentenced_to_nearly_6_years_in_prison/)
+- [Black students sue Denver Public Schools in &quot;Know Justice, Know Peace&quot; trademark fight](https://www.reddit.com/r/news/comments/xjmeuh/black_students_sue_denver_public_schools_in_know/)
 <!-- REDDIT:END -->
 
 
