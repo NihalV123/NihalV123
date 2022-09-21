@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gap is laying off 500 corporate employees as challenges mount](https://www.reddit.com/r/news/comments/xjwcj5/gap_is_laying_off_500_corporate_employees_as/)
+- [San Diego to pay $600K to woman who was severely injured in police dog attack](https://www.reddit.com/r/news/comments/xjupy1/san_diego_to_pay_600k_to_woman_who_was_severely/)
+- [Iran: UN calls for probe into death of Mahsa Amini in police custody](https://www.reddit.com/r/news/comments/xju6xo/iran_un_calls_for_probe_into_death_of_mahsa_amini/)
+- [Beyond Meat suspends executive after he was arrested on suspicion of biting a man&#39;s nose](https://www.reddit.com/r/news/comments/xjtpub/beyond_meat_suspends_executive_after_he_was/)
+- [Aaron Judge hits 60th homer, within 1 of Maris&#39; AL record](https://www.reddit.com/r/news/comments/xjso3j/aaron_judge_hits_60th_homer_within_1_of_maris_al/)
 <!-- REDDIT:END -->
 
 
