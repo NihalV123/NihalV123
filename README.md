@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ginni Thomas to meet with House committee investigating Jan. 6 riot](https://www.reddit.com/r/news/comments/xkmcqs/ginni_thomas_to_meet_with_house_committee/)
+- [Ukraine war: Foreign secretary to confront Russia over atrocities at UN meeting](https://www.reddit.com/r/news/comments/xklrb2/ukraine_war_foreign_secretary_to_confront_russia/)
+- [DOJ can resume criminal probe of classified documents from Mar-a-Lago, appeals court says](https://www.reddit.com/r/news/comments/xkkucg/doj_can_resume_criminal_probe_of_classified/)
+- [Missouri judge once again delays decision on closing Agape Boarding School](https://www.reddit.com/r/news/comments/xkj2o7/missouri_judge_once_again_delays_decision_on/)
+- [9-year-old boy seriously injured in bear attack while hunting in Alaska; bear shot dead by family member](https://www.reddit.com/r/news/comments/xkgl6t/9yearold_boy_seriously_injured_in_bear_attack/)
 <!-- REDDIT:END -->
 
 
