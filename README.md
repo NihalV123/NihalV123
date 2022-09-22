@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Worker was dead at Belk store bathroom for four days before being found](https://www.reddit.com/r/news/comments/xksuda/worker_was_dead_at_belk_store_bathroom_for_four/)
+- [Congress now has full U.S. Indigenous representation for the first time in 230 years](https://www.reddit.com/r/news/comments/xkrs49/congress_now_has_full_us_indigenous/)
+- [Officer convicted of manslaughter in Black motorist’s death](https://www.reddit.com/r/news/comments/xkq8f1/officer_convicted_of_manslaughter_in_black/)
+- [Former Moscow Aviation Institute head Gerashchenko dies in fall](https://www.reddit.com/r/news/comments/xkq0lv/former_moscow_aviation_institute_head/)
+- [Driver of stolen Mustang dies on San Mateo Bridge after running out of gas: CHP](https://www.reddit.com/r/news/comments/xkpg82/driver_of_stolen_mustang_dies_on_san_mateo_bridge/)
 <!-- REDDIT:END -->
 
 
