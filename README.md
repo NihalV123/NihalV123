@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. drops charges against Massachusetts judge accused of obstructing immigration arrest](https://www.reddit.com/r/news/comments/xl6g7b/us_drops_charges_against_massachusetts_judge/)
+- [‘Authorities are involved’: Portage County school district reacts to racist homecoming sign](https://www.reddit.com/r/news/comments/xl5p51/authorities_are_involved_portage_county_school/)
+- [At least two dead in Mexico after second earthquake strikes within a week | Mexico](https://www.reddit.com/r/news/comments/xl4hio/at_least_two_dead_in_mexico_after_second/)
+- [Toddler fatally shoots South Carolina mom with &#39;unsecured firearm,&#39; sheriff says](https://www.reddit.com/r/news/comments/xl3azw/toddler_fatally_shoots_south_carolina_mom_with/)
+- [Judge blocks Indiana abortion ban week after it took effect](https://www.reddit.com/r/news/comments/xl2d82/judge_blocks_indiana_abortion_ban_week_after_it/)
 <!-- REDDIT:END -->
 
 
