@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Project Veritas loses jury verdict to Democratic consulting firm](https://www.reddit.com/r/news/comments/xm42s0/project_veritas_loses_jury_verdict_to_democratic/)
+- [N.Y. man accused of sexually assaulting 5 people a week before he was scheduled to be sentenced in prior rape](https://www.reddit.com/r/news/comments/xm404q/ny_man_accused_of_sexually_assaulting_5_people_a/)
+- [3 Stoughton officers had inappropriate relationships with girl who later died by suicide, chief says](https://www.reddit.com/r/news/comments/xm401e/3_stoughton_officers_had_inappropriate/)
+- [Police respond to active shooter report at Licking Valley Ohio high school](https://www.reddit.com/r/news/comments/xm1toh/police_respond_to_active_shooter_report_at/)
+- [Federal judge says court can&#39;t block House January 6 subpoena for GOP state chair](https://www.reddit.com/r/news/comments/xm0x0i/federal_judge_says_court_cant_block_house_january/)
 <!-- REDDIT:END -->
 
 
