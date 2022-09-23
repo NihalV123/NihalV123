@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cancer-killing virus shows promise in patients](https://www.reddit.com/r/news/comments/xlp8sh/cancerkilling_virus_shows_promise_in_patients/)
+- [Meta showed bias when moderating Israel-Palestine conflict, says new report](https://www.reddit.com/r/news/comments/xlnv8v/meta_showed_bias_when_moderating_israelpalestine/)
+- [Emmanuel Mignot wins Breakthrough Prize for discovering cause of narcolepsy](https://www.reddit.com/r/news/comments/xlnl7v/emmanuel_mignot_wins_breakthrough_prize_for/)
+- [Profiting from poison: how the US lead industry knowingly created a water crisis](https://www.reddit.com/r/news/comments/xlnksh/profiting_from_poison_how_the_us_lead_industry/)
+- [COVID raises risk of long-term brain injury, large U.S. study finds](https://www.reddit.com/r/news/comments/xlm94w/covid_raises_risk_of_longterm_brain_injury_large/)
 <!-- REDDIT:END -->
 
 
