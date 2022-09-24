@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three baby chimps were kidnapped from a sanctuary, their abductors are demanding a ransom](https://www.reddit.com/r/news/comments/xmm7rs/three_baby_chimps_were_kidnapped_from_a_sanctuary/)
+- [John Cena breaks Make-A-Wish record after granting hundreds of wishes](https://www.reddit.com/r/news/comments/xmkvs1/john_cena_breaks_makeawish_record_after_granting/)
+- [Albert Pujols, in the midst of a magical final season, hits home run No. 700](https://www.reddit.com/r/news/comments/xmi0up/albert_pujols_in_the_midst_of_a_magical_final/)
+- [Louise Fletcher Dead: ‘One Flew Over the Cuckoo’s Nest’ Actor Was 88 &lpar;Nurse Ratched&rpar;](https://www.reddit.com/r/news/comments/xmhlw5/louise_fletcher_dead_one_flew_over_the_cuckoos/)
+- [Macon County SRO slams his patrol car into a speeding car to save spectators at homecoming parade](https://www.reddit.com/r/news/comments/xmgg7f/macon_county_sro_slams_his_patrol_car_into_a/)
 <!-- REDDIT:END -->
 
 
