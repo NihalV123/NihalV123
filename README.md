@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arkansas Supreme Court puts marijuana amendment back on the November ballot.](https://www.reddit.com/r/news/comments/xme91c/arkansas_supreme_court_puts_marijuana_amendment/)
+- [Riggleman: White House switchboard called a Capitol rioter on January 6](https://www.reddit.com/r/news/comments/xmd59y/riggleman_white_house_switchboard_called_a/)
+- [UN told Myanmar has gone from ‘bad to worse to horrific’ | Human Rights News](https://www.reddit.com/r/news/comments/xmd4iw/un_told_myanmar_has_gone_from_bad_to_worse_to/)
+- [Arizona judge: State can enforce near-total abortion ban](https://www.reddit.com/r/news/comments/xmcs5l/arizona_judge_state_can_enforce_neartotal/)
+- [Rescuer of bar-going raccoon arrested for unlawful possession of furbearer | Animals](https://www.reddit.com/r/news/comments/xm790p/rescuer_of_bargoing_raccoon_arrested_for_unlawful/)
 <!-- REDDIT:END -->
 
 
