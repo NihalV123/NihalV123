@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A New Jersey high school football player dies nearly two weeks after he was &#39;critically injured&#39; in a game, school district says](https://www.reddit.com/r/news/comments/xn8e1n/a_new_jersey_high_school_football_player_dies/)
+- [Judge dismisses lawsuit over DOJ memo on school board threats](https://www.reddit.com/r/news/comments/xn7rq8/judge_dismisses_lawsuit_over_doj_memo_on_school/)
+- [Apple swapped the SIM tray in US iPhone 14 models with a plastic block](https://www.reddit.com/r/news/comments/xn7r70/apple_swapped_the_sim_tray_in_us_iphone_14_models/)
+- [Fiona sweeps away houses, knocks out power in eastern Canada](https://www.reddit.com/r/news/comments/xn7gxn/fiona_sweeps_away_houses_knocks_out_power_in/)
+- [North Korea fires ballistic missile ahead of U.S. VP Harris visit](https://www.reddit.com/r/news/comments/xn6u4w/north_korea_fires_ballistic_missile_ahead_of_us/)
 <!-- REDDIT:END -->
 
 
