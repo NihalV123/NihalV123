@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas vow to &#39;eliminate all rapists&#39; rings hollow at clinics](https://www.reddit.com/r/news/comments/xntxri/texas_vow_to_eliminate_all_rapists_rings_hollow/)
+- [What is rainbow fentanyl? Colorful pills drive new warnings about deadliest drug in the US](https://www.reddit.com/r/news/comments/xnrews/what_is_rainbow_fentanyl_colorful_pills_drive_new/)
+- [Shots fired in Chuck E. Cheese parking lot during altercation in Florida](https://www.reddit.com/r/news/comments/xnqsac/shots_fired_in_chuck_e_cheese_parking_lot_during/)
+- [Indiana abortion clinics see patients amid legal changes](https://www.reddit.com/r/news/comments/xnp6sf/indiana_abortion_clinics_see_patients_amid_legal/)
+- [As more info on lead in Jackson&#39;s water comes to light, parents left in the dark on children&#39;s health](https://www.reddit.com/r/news/comments/xnp2fa/as_more_info_on_lead_in_jacksons_water_comes_to/)
 <!-- REDDIT:END -->
 
 
