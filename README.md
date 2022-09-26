@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pennsylvania school district bans Girls Who Code book series](https://www.reddit.com/r/news/comments/xoqwat/pennsylvania_school_district_bans_girls_who_code/)
+- [‘Anonymous’ Releases Data Of All MPs, Urges Iranians Not To Stop ‘Revolution’](https://www.reddit.com/r/news/comments/xoqrtr/anonymous_releases_data_of_all_mps_urges_iranians/)
+- [Video: Northeast Philly Wawa Ransacked by Group of ‘100 Juveniles’](https://www.reddit.com/r/news/comments/xopm6w/video_northeast_philly_wawa_ransacked_by_group_of/)
+- [Russia&#39;s FSB detains and expels Japanese consul for alleged spying - agencies](https://www.reddit.com/r/news/comments/xoozmf/russias_fsb_detains_and_expels_japanese_consul/)
+- [11-year-old dolphin dies at Mirage on Las Vegas Strip; 3rd since April](https://www.reddit.com/r/news/comments/xoo85a/11yearold_dolphin_dies_at_mirage_on_las_vegas/)
 <!-- REDDIT:END -->
 
 
