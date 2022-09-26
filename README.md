@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World Bank pledges $2 billion for flood-ravaged Pakistan](https://www.reddit.com/r/news/comments/xob5ni/world_bank_pledges_2_billion_for_floodravaged/)
+- [Renewed militia clashes rock western Libya; child killed](https://www.reddit.com/r/news/comments/xoaz79/renewed_militia_clashes_rock_western_libya_child/)
+- [Pound slumps to all-time low against dollar](https://www.reddit.com/r/news/comments/xo672z/pound_slumps_to_alltime_low_against_dollar/)
+- [Hundreds of thousands without power in Atlantic Canada after Fiona rumbles north](https://www.reddit.com/r/news/comments/xo66vm/hundreds_of_thousands_without_power_in_atlantic/)
+- [India stays neutral on Ukraine war, previews G-20 term at UN](https://www.reddit.com/r/news/comments/xo5lq3/india_stays_neutral_on_ukraine_war_previews_g20/)
 <!-- REDDIT:END -->
 
 
