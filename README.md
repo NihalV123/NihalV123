@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NASA&#39;s DART spacecraft hits target asteroid in test of planetary defense system](https://www.reddit.com/r/news/comments/xp128n/nasas_dart_spacecraft_hits_target_asteroid_in/)
+- [NASA&#39;s DART spacecraft successfully slams into asteroid in historic test of planetary defense](https://www.reddit.com/r/news/comments/xozh34/nasas_dart_spacecraft_successfully_slams_into/)
+- [The UAE is scrapping its Covid mask requirements after 2½ years](https://www.reddit.com/r/news/comments/xoz0jj/the_uae_is_scrapping_its_covid_mask_requirements/)
+- [Man climbs five stories of Chicago police facility and is shot by officers in SWAT training after grabbing two guns](https://www.reddit.com/r/news/comments/xoyylp/man_climbs_five_stories_of_chicago_police/)
+- [&#39;No sign of coup in China&#39;: Experts confident Xi Jinping still in control, dismiss social media rumours](https://www.reddit.com/r/news/comments/xoxlk9/no_sign_of_coup_in_china_experts_confident_xi/)
 <!-- REDDIT:END -->
 
 
