@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan protests Russia&#39;s expulsion of official, denies spying](https://www.reddit.com/r/news/comments/xp705n/japan_protests_russias_expulsion_of_official/)
+- [University of Idaho releases memo warning employees that promoting abortion is against state law](https://www.reddit.com/r/news/comments/xp44fl/university_of_idaho_releases_memo_warning/)
+- [7K attend funeral for Hell&#39;s Angel&#39;s President of Oakland chapter in Stockton, CA](https://www.reddit.com/r/news/comments/xp3wzy/7k_attend_funeral_for_hells_angels_president_of/)
+- [47 Alameda County Sheriff deputies get &#39;unsatisfactory&#39; on psych evaluations; relieved of duties](https://www.reddit.com/r/news/comments/xp3syq/47_alameda_county_sheriff_deputies_get/)
+- [Top Missouri lawmaker urges federal prosecutors to intervene in Agape abuse case • Missouri I](https://www.reddit.com/r/news/comments/xp2gsh/top_missouri_lawmaker_urges_federal_prosecutors/)
 <!-- REDDIT:END -->
 
 
