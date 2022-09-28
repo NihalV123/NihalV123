@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Millions in Florida urged to evacuate as Hurricane Ian nears](https://www.reddit.com/r/news/comments/xpyuig/millions_in_florida_urged_to_evacuate_as/)
+- [Capitol rioter a ‘one man wrecking ball,’ gets 7 year term](https://www.reddit.com/r/news/comments/xpxp0e/capitol_rioter_a_one_man_wrecking_ball_gets_7/)
+- [5 Students Shot, 1 Killed, at Roxborough High School Football Scrimmage](https://www.reddit.com/r/news/comments/xpxe0b/5_students_shot_1_killed_at_roxborough_high/)
+- [Teen Girl at Center of Fontana Amber Alert Killed in Shootout With Police After Pursuit](https://www.reddit.com/r/news/comments/xpx4ut/teen_girl_at_center_of_fontana_amber_alert_killed/)
+- [Hundreds in Russia arrested for protesting Putin&#39;s reserve call-up as others rush to flee country](https://www.reddit.com/r/news/comments/xpum8u/hundreds_in_russia_arrested_for_protesting_putins/)
 <!-- REDDIT:END -->
 
 
