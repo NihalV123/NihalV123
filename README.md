@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Affidavits: 2 more pregnant minors who were raped were denied Ohio abortions](https://www.reddit.com/r/news/comments/xqakpy/affidavits_2_more_pregnant_minors_who_were_raped/)
+- [Teen interest in long-lasting birth control soars after Roe](https://www.reddit.com/r/news/comments/xqa9rs/teen_interest_in_longlasting_birth_control_soars/)
+- [Nord Stream leaks: Sabotage to blame, says EU](https://www.reddit.com/r/news/comments/xq9u9b/nord_stream_leaks_sabotage_to_blame_says_eu/)
+- [Hurricane Ian Strengthens Into Category 4 Before Catastrophic Florida Landfall Today](https://www.reddit.com/r/news/comments/xq8dyo/hurricane_ian_strengthens_into_category_4_before/)
+- [Turkey bows to US pressure, cuts Russian bank ties](https://www.reddit.com/r/news/comments/xq8cvh/turkey_bows_to_us_pressure_cuts_russian_bank_ties/)
 <!-- REDDIT:END -->
 
 
