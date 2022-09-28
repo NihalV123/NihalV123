@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police in Arkansas responding to reports of active shooter at hospital | CNN](https://www.reddit.com/r/news/comments/xqifkk/police_in_arkansas_responding_to_reports_of/)
+- [Hurricane Ian nears Florida with nearly Category 5 power](https://www.reddit.com/r/news/comments/xqifca/hurricane_ian_nears_florida_with_nearly_category/)
+- [Self-proclaimed ‘incel’ who targeted women, posted videos of his attacks on YouTube, arrested](https://www.reddit.com/r/news/comments/xqhkl6/selfproclaimed_incel_who_targeted_women_posted/)
+- [Man accused of punching 67-year-old Asian woman 125 times in NY pleads guilty to hate crime](https://www.reddit.com/r/news/comments/xqhkaj/man_accused_of_punching_67yearold_asian_woman_125/)
+- [Shakira will face a tax-fraud trial in Spain](https://www.reddit.com/r/news/comments/xqgj2x/shakira_will_face_a_taxfraud_trial_in_spain/)
 <!-- REDDIT:END -->
 
 
