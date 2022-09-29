@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Myanmar court sentences Aung San Suu Kyi and Australian economist to 3 years in prison](https://www.reddit.com/r/news/comments/xr5hhj/myanmar_court_sentences_aung_san_suu_kyi_and/)
+- [Four Ukrainian regions that held &#39;referendums&#39; to be incorporated into Russia on Friday, says Kremlin](https://www.reddit.com/r/news/comments/xr42q2/four_ukrainian_regions_that_held_referendums_to/)
+- [People trapped, 2M without power after Ian swamps SW Florida](https://www.reddit.com/r/news/comments/xr3dd3/people_trapped_2m_without_power_after_ian_swamps/)
+- [San Francisco police can access private surveillance cameras without search warrants, new law says](https://www.reddit.com/r/news/comments/xr0k5g/san_francisco_police_can_access_private/)
+- [Judge tosses Sidney Powell&#39;s counterclaims in Dominion defamation case](https://www.reddit.com/r/news/comments/xqwpng/judge_tosses_sidney_powells_counterclaims_in/)
 <!-- REDDIT:END -->
 
 
