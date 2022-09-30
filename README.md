@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 19 dead after suicide bomb blast at educational center in Kabul](https://www.reddit.com/r/news/comments/xrtlog/at_least_19_dead_after_suicide_bomb_blast_at/)
+- [Trevor Noah to step down as host of The Daily Show](https://www.reddit.com/r/news/comments/xrrus3/trevor_noah_to_step_down_as_host_of_the_daily_show/)
+- [Autopsy says Tennessee teacher Eliza Fletcher died of gunshot wound to head](https://www.reddit.com/r/news/comments/xrrl3a/autopsy_says_tennessee_teacher_eliza_fletcher/)
+- [Victims of the Highland Park July 4 mass shooting sue gun manufacturer, two gun stores, the accused shooter and his father](https://www.reddit.com/r/news/comments/xrqji6/victims_of_the_highland_park_july_4_mass_shooting/)
+- [Body found in dumpster at Galveston&#39;s Austin Middle School](https://www.reddit.com/r/news/comments/xrpgfx/body_found_in_dumpster_at_galvestons_austin/)
 <!-- REDDIT:END -->
 
 
