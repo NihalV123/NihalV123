@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man Pays $75 for Medieval Text That Could Be Worth $10,000](https://www.reddit.com/r/news/comments/xs7upg/man_pays_75_for_medieval_text_that_could_be_worth/)
+- [Man with gun arrested outside of Deer Park Elementary School was walking his dog, attorney says - KTVZ](https://www.reddit.com/r/news/comments/xs76a1/man_with_gun_arrested_outside_of_deer_park/)
+- [Hurricane Ian looms off Carolinas after 21 deaths reported in Florida](https://www.reddit.com/r/news/comments/xs5z61/hurricane_ian_looms_off_carolinas_after_21_deaths/)
+- [US outlines plan for long-term baby formula imports](https://www.reddit.com/r/news/comments/xs5rdq/us_outlines_plan_for_longterm_baby_formula_imports/)
+- [Elon Musk’s texts reveal what led to Twitter bid, before deal fell apart](https://www.reddit.com/r/news/comments/xs59vy/elon_musks_texts_reveal_what_led_to_twitter_bid/)
 <!-- REDDIT:END -->
 
 
