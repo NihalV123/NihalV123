@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ron DeSantis changes with the wind as Hurricane Ian prompts flip-flop on aid | Ron DeSantis](https://www.reddit.com/r/news/comments/xstd6h/ron_desantis_changes_with_the_wind_as_hurricane/)
+- [‘Our entire community is wiped out’: low-income Americans likely to be hit hardest by Hurricane Ian](https://www.reddit.com/r/news/comments/xsrykl/our_entire_community_is_wiped_out_lowincome/)
+- [Delaware County man walks free after 41 years in prison](https://www.reddit.com/r/news/comments/xsrowq/delaware_county_man_walks_free_after_41_years_in/)
+- [Disney pulls ESPN, FX, Disney Channel from Dish Network, Sling TV](https://www.reddit.com/r/news/comments/xspv3z/disney_pulls_espn_fx_disney_channel_from_dish/)
+- [House passes bill to give $2.7 billion to families of 9/11 victims](https://www.reddit.com/r/news/comments/xso48y/house_passes_bill_to_give_27_billion_to_families/)
 <!-- REDDIT:END -->
 
 
