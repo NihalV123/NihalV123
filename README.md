@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [German government approves arms exports to Saudi Arabia: The decision defies a 2018 ban over Saudi Arabia&#39;s involvement in the Yemen war.](https://www.reddit.com/r/news/comments/xsm19s/german_government_approves_arms_exports_to_saudi/)
+- [NFL&#39;s handling of concussions questioned after Tua&#39;s injury](https://www.reddit.com/r/news/comments/xskv4p/nfls_handling_of_concussions_questioned_after/)
+- [The Blackstone rebellion: how one country took on the world’s biggest commercial landlord | Private equity](https://www.reddit.com/r/news/comments/xsjcld/the_blackstone_rebellion_how_one_country_took_on/)
+- [Australian woman deported from US says border agency told her questions about abortion were policy](https://www.reddit.com/r/news/comments/xsj8yc/australian_woman_deported_from_us_says_border/)
+- [FBI investigating menacing calls to ex-D.C. police officer Michael Fanone](https://www.reddit.com/r/news/comments/xsgnpb/fbi_investigating_menacing_calls_to_exdc_police/)
 <!-- REDDIT:END -->
 
 
