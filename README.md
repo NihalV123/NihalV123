@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [La. man accused of targeting gay men to dismember them and use body parts pleads guilty](https://www.reddit.com/r/news/comments/xt1t1f/la_man_accused_of_targeting_gay_men_to_dismember/)
+- [Palestinian deaths toll in West Bank hits 100 this year](https://www.reddit.com/r/news/comments/xszu7o/palestinian_deaths_toll_in_west_bank_hits_100/)
+- [Suicide bomb attack kills and wounds dozens of students taking exam](https://www.reddit.com/r/news/comments/xszohl/suicide_bomb_attack_kills_and_wounds_dozens_of/)
+- [Russia blindfolds, detains Ukraine nuclear plant chief](https://www.reddit.com/r/news/comments/xsz00s/russia_blindfolds_detains_ukraine_nuclear_plant/)
+- [7 DC police officers under investigation for misconduct](https://www.reddit.com/r/news/comments/xsynpr/7_dc_police_officers_under_investigation_for/)
 <!-- REDDIT:END -->
 
 
