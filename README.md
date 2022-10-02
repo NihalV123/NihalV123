@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 127 football fans died on derby in Indonesia](https://www.reddit.com/r/news/comments/xtmy9i/at_least_127_football_fans_died_on_derby_in/)
+- [Ukraine presses counteroffensive after Russian setback](https://www.reddit.com/r/news/comments/xtmmg1/ukraine_presses_counteroffensive_after_russian/)
+- [Ukraine war: Putin&#39;s annexation will fail, say Ukrainians at eastern front](https://www.reddit.com/r/news/comments/xtm0n0/ukraine_war_putins_annexation_will_fail_say/)
+- [Russian forces retreat from strategic Donetsk city a day after Moscow&#39;s annexation of the region | CNN](https://www.reddit.com/r/news/comments/xtk62v/russian_forces_retreat_from_strategic_donetsk/)
+- [Iran: UN experts demand stay of execution for two women LGBT rights activists](https://www.reddit.com/r/news/comments/xth9ik/iran_un_experts_demand_stay_of_execution_for_two/)
 <!-- REDDIT:END -->
 
 
