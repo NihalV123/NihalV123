@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [26 killed as tractor trailer carrying pilgrims crashes in India](https://www.reddit.com/r/news/comments/xttgff/26_killed_as_tractor_trailer_carrying_pilgrims/)
+- [Defendant to represent himself in Wisconsin parade trial](https://www.reddit.com/r/news/comments/xtry27/defendant_to_represent_himself_in_wisconsin/)
+- [This 100% solar community endured Hurricane Ian with no loss of power and minimal damage](https://www.reddit.com/r/news/comments/xtrizu/this_100_solar_community_endured_hurricane_ian/)
+- [Denmark says Nord Stream 1 pipelines stop leaking](https://www.reddit.com/r/news/comments/xtrbxx/denmark_says_nord_stream_1_pipelines_stop_leaking/)
+- [Russian Consulate in New York vandalized with red paint](https://www.reddit.com/r/news/comments/xtq4wl/russian_consulate_in_new_york_vandalized_with_red/)
 <!-- REDDIT:END -->
 
 
