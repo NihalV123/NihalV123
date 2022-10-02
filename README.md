@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Women, life, liberty’: Iranian civil rights protests spread worldwide in more than 150 cities](https://www.reddit.com/r/news/comments/xtb2pg/women_life_liberty_iranian_civil_rights_protests/)
+- [Biden announces release of ‘CITGO 6’ US executives held prisoner in Venezuela](https://www.reddit.com/r/news/comments/xtanjs/biden_announces_release_of_citgo_6_us_executives/)
+- [Moose back on the loose after rescuers free it from fence](https://www.reddit.com/r/news/comments/xta89f/moose_back_on_the_loose_after_rescuers_free_it/)
+- [[Indonesia] More than 100 people dead, league suspended as football riot ends in disaster](https://www.reddit.com/r/news/comments/xt9qso/indonesia_more_than_100_people_dead_league/)
+- [Migrant-death suspect ran detention center accused of abuse](https://www.reddit.com/r/news/comments/xt9jla/migrantdeath_suspect_ran_detention_center_accused/)
 <!-- REDDIT:END -->
 
 
