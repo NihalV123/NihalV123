@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pakistani hospital overwhelmed as water-borne illnesses spread](https://www.reddit.com/r/news/comments/xu5f5v/pakistani_hospital_overwhelmed_as_waterborne/)
+- [Army misses recruiting goal by 15,000 soldiers](https://www.reddit.com/r/news/comments/xu5c3s/army_misses_recruiting_goal_by_15000_soldiers/)
+- [Suspect charged with murder after fatally hitting minor 3 times on Leawood, documents show](https://www.reddit.com/r/news/comments/xu5714/suspect_charged_with_murder_after_fatally_hitting/)
+- [Brazil election: Lula and Bolsonaro head to runoff](https://www.reddit.com/r/news/comments/xu4p0z/brazil_election_lula_and_bolsonaro_head_to_runoff/)
+- [Iran protests: Reports of students trapped amid clashes in Tehran](https://www.reddit.com/r/news/comments/xu4ks3/iran_protests_reports_of_students_trapped_amid/)
 <!-- REDDIT:END -->
 
 
