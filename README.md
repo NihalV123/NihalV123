@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kim Kardashian pays over $1 million to settle SEC charges linked to a crypto promo on her Instagram](https://www.reddit.com/r/news/comments/xuhit8/kim_kardashian_pays_over_1_million_to_settle_sec/)
+- [Drax: UK power station owner cuts down primary forests in Canada](https://www.reddit.com/r/news/comments/xuh5va/drax_uk_power_station_owner_cuts_down_primary/)
+- [Iran&#39;s supreme leader breaks silence on protests, blames US](https://www.reddit.com/r/news/comments/xuh299/irans_supreme_leader_breaks_silence_on_protests/)
+- [Nobel prize in medicine awarded for research on evolution](https://www.reddit.com/r/news/comments/xuh1sh/nobel_prize_in_medicine_awarded_for_research_on/)
+- [Black representation in Alabama tested before Supreme Court](https://www.reddit.com/r/news/comments/xugez5/black_representation_in_alabama_tested_before/)
 <!-- REDDIT:END -->
 
 
