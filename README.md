@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US announces new $625M security package for Ukraine](https://www.reddit.com/r/news/comments/xvljnh/us_announces_new_625m_security_package_for_ukraine/)
+- [Trudeau vows to punish ‘bloodthirsty regime’ in Iran amid Mahsa Amini death](https://www.reddit.com/r/news/comments/xvli5l/trudeau_vows_to_punish_bloodthirsty_regime_in/)
+- [Northeastern University package explosion was a hoax carried out by employee, complaint states](https://www.reddit.com/r/news/comments/xvla6f/northeastern_university_package_explosion_was_a/)
+- [German energy company RWE to end coal use by 2030](https://www.reddit.com/r/news/comments/xviwi8/german_energy_company_rwe_to_end_coal_use_by_2030/)
+- [A family of 4 is missing after being &#39;taken against their will&#39; in central California, officials say](https://www.reddit.com/r/news/comments/xvigeq/a_family_of_4_is_missing_after_being_taken/)
 <!-- REDDIT:END -->
 
 
