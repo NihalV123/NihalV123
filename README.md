@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman who allegedly helped arrange migrant flights to Martha&#39;s Vineyard identified as former counterintelligence agent](https://www.reddit.com/r/news/comments/xvd6e6/woman_who_allegedly_helped_arrange_migrant/)
+- [Sleuths of &#39;spooky&#39; quantum science win Nobel physics prize](https://www.reddit.com/r/news/comments/xvcd76/sleuths_of_spooky_quantum_science_win_nobel/)
+- [Long-awaited common charger for mobile devices will be a reality in 2024 | News | European Parliament](https://www.reddit.com/r/news/comments/xvc60t/longawaited_common_charger_for_mobile_devices/)
+- [In Ian&#39;s wake, Florida residents brave a slow wait for power](https://www.reddit.com/r/news/comments/xvad2u/in_ians_wake_florida_residents_brave_a_slow_wait/)
+- [The Onion defends right to parody in very real supreme court brief supporting local satirist](https://www.reddit.com/r/news/comments/xv71jq/the_onion_defends_right_to_parody_in_very_real/)
 <!-- REDDIT:END -->
 
 
