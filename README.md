@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kremlin says annexation and retreat are not a contradiction amid Ukrainian successes](https://www.reddit.com/r/news/comments/xw8cw9/kremlin_says_annexation_and_retreat_are_not_a/)
+- [Three scientists win Nobel Prize for chemistry for ‘ingenious’ molecule-building tool](https://www.reddit.com/r/news/comments/xw6xss/three_scientists_win_nobel_prize_for_chemistry/)
+- [Super squash: 2,554-pound pumpkin carves out new US record](https://www.reddit.com/r/news/comments/xw64ft/super_squash_2554pound_pumpkin_carves_out_new_us/)
+- [Jury finds Texas woman guilty of killing pregnant woman to take her unborn child](https://www.reddit.com/r/news/comments/xw5u8q/jury_finds_texas_woman_guilty_of_killing_pregnant/)
+- [Putin signs laws annexing 4 Ukrainian regions](https://www.reddit.com/r/news/comments/xw5ov7/putin_signs_laws_annexing_4_ukrainian_regions/)
 <!-- REDDIT:END -->
 
 
