@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawyer claims LAPD officer was targeted for being a potential whistleblower](https://www.reddit.com/r/news/comments/xvwdzj/lawyer_claims_lapd_officer_was_targeted_for_being/)
+- [UK to seek asylum ban on refugees crossing the English Channel](https://www.reddit.com/r/news/comments/xvvwtx/uk_to_seek_asylum_ban_on_refugees_crossing_the/)
+- [Aaron Judge breaks single-season American League home run record with No. 62 | CNN](https://www.reddit.com/r/news/comments/xvva9y/aaron_judge_breaks_singleseason_american_league/)
+- [In A Surprise Twist, Elon Musk Is Set To Proceed With $44bn Twitter Buyout](https://www.reddit.com/r/news/comments/xvv8f2/in_a_surprise_twist_elon_musk_is_set_to_proceed/)
+- [Rare video shows Russia moving equipment belonging to a nuclear weapons unit](https://www.reddit.com/r/news/comments/xvup8g/rare_video_shows_russia_moving_equipment/)
 <!-- REDDIT:END -->
 
 
