@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [France: Oscar winners cut off their hair for Iran protesters](https://www.reddit.com/r/news/comments/xwfx0q/france_oscar_winners_cut_off_their_hair_for_iran/)
+- [NYU Professor Says He Was Fired After 80+ Students Complain Class Was Too Hard](https://www.reddit.com/r/news/comments/xwfrxm/nyu_professor_says_he_was_fired_after_80_students/)
+- [Acclaimed Artist Kim Jung Gi Passes Away at 47](https://www.reddit.com/r/news/comments/xwfe0r/acclaimed_artist_kim_jung_gi_passes_away_at_47/)
+- [Couple engages in sex act while waiting in line at Cedar Point, police say](https://www.reddit.com/r/news/comments/xwd8ip/couple_engages_in_sex_act_while_waiting_in_line/)
+- [OPEC announces big cut in oil production despite US pressure](https://www.reddit.com/r/news/comments/xwcmh1/opec_announces_big_cut_in_oil_production_despite/)
 <!-- REDDIT:END -->
 
 
