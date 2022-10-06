@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 family members kidnapped from California business found dead, sheriff says](https://www.reddit.com/r/news/comments/xwvylm/4_family_members_kidnapped_from_california/)
+- [Marc Fogel, jailed in Russia, being moved to hard-labor colony](https://www.reddit.com/r/news/comments/xwuzqj/marc_fogel_jailed_in_russia_being_moved_to/)
+- [Merced kidnapping: All 4 bodies found, sheriff confirms](https://www.reddit.com/r/news/comments/xwum2s/merced_kidnapping_all_4_bodies_found_sheriff/)
+- [Colorado baker fighting ruling over gender transition cake](https://www.reddit.com/r/news/comments/xwtyja/colorado_baker_fighting_ruling_over_gender/)
+- [Pilots union opposes granting Boeing 737 MAX 7, 10 cockpit alerting extension](https://www.reddit.com/r/news/comments/xwt02z/pilots_union_opposes_granting_boeing_737_max_7_10/)
 <!-- REDDIT:END -->
 
 
