@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. delivers angry rebuke of massive OPEC+ production cut — and it could backfire for Saudi Arabia](https://www.reddit.com/r/news/comments/xx3m4v/us_delivers_angry_rebuke_of_massive_opec/)
+- [Alabama prisoners strike over ‘horrendous’ conditions](https://www.reddit.com/r/news/comments/xx2dvb/alabama_prisoners_strike_over_horrendous/)
+- [Court declares DACA program illegal, but leaves policy intact for nearly 600,000 immigrant &quot;Dreamers&quot;](https://www.reddit.com/r/news/comments/xx23sy/court_declares_daca_program_illegal_but_leaves/)
+- [Canada: Supreme Court to hear if US is ‘safe’ for migrants](https://www.reddit.com/r/news/comments/xx23rg/canada_supreme_court_to_hear_if_us_is_safe_for/)
+- [Cost-of-living crisis: Nurses leaving for better-paid jobs in shops because &#39;they can&#39;t afford to work for NHS&#39;](https://www.reddit.com/r/news/comments/xx0chd/costofliving_crisis_nurses_leaving_for_betterpaid/)
 <!-- REDDIT:END -->
 
 
