@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.N. body rejects debate on China&#39;s treatment of Uyghur Muslims in blow to West](https://www.reddit.com/r/news/comments/xx9ihz/un_body_rejects_debate_on_chinas_treatment_of/)
+- [Nika Shakarami: Iran protesters family forced to lie about death - source](https://www.reddit.com/r/news/comments/xx8kxx/nika_shakarami_iran_protesters_family_forced_to/)
+- [‘First known’ US raid in government-held area of Syria kills one](https://www.reddit.com/r/news/comments/xx7m17/first_known_us_raid_in_governmentheld_area_of/)
+- [Former trooper being investigated over response to Uvalde school massacre was hired to protect city’s children](https://www.reddit.com/r/news/comments/xx6upq/former_trooper_being_investigated_over_response/)
+- [Man falls, dies after attempting to do handstand on Myrtle Beach hotel balcony](https://www.reddit.com/r/news/comments/xx4x9q/man_falls_dies_after_attempting_to_do_handstand/)
 <!-- REDDIT:END -->
 
 
