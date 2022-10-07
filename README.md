@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Local teacher reinstated after refusing to use preferred pronouns, district policy suspended](https://www.reddit.com/r/news/comments/xxlnwn/local_teacher_reinstated_after_refusing_to_use/)
+- [Man charged with smuggling pythons in his pants at US border](https://www.reddit.com/r/news/comments/xxkbpb/man_charged_with_smuggling_pythons_in_his_pants/)
+- [San Antonio police officer fired after shooting teen suspect in McDonald&#39;s parking lot](https://www.reddit.com/r/news/comments/xxk6dx/san_antonio_police_officer_fired_after_shooting/)
+- [26-year-old man sentenced to life for the killing of retired St. Louis police captain during George Floyd protests](https://www.reddit.com/r/news/comments/xxjm4n/26yearold_man_sentenced_to_life_for_the_killing/)
+- [Video from Hamilton, MS Daycare showing staff scaring children with “Scream” mask on multiple occasions.](https://www.reddit.com/r/news/comments/xxh46g/video_from_hamilton_ms_daycare_showing_staff/)
 <!-- REDDIT:END -->
 
 
