@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uvalde School District Suspends Entire Police Force](https://www.reddit.com/r/news/comments/xy4eqq/uvalde_school_district_suspends_entire_police/)
+- [Philadelphia apologizes for experiments on Black inmates](https://www.reddit.com/r/news/comments/xy3zg1/philadelphia_apologizes_for_experiments_on_black/)
+- [NYC Mayor Eric Adams declares state of emergency over influx of migrants | CNN](https://www.reddit.com/r/news/comments/xy2eql/nyc_mayor_eric_adams_declares_state_of_emergency/)
+- [Where&#39;s the beef? Rancher sentenced to 11 years for ripping off Tyson Foods of nearly $250 million in &#39;ghost cattle&#39; scam.](https://www.reddit.com/r/news/comments/xy236h/wheres_the_beef_rancher_sentenced_to_11_years_for/)
+- [Gay Palestinian Ahmad Abu Marhia beheaded in West Bank](https://www.reddit.com/r/news/comments/xy0d86/gay_palestinian_ahmad_abu_marhia_beheaded_in_west/)
 <!-- REDDIT:END -->
 
 
