@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man charged with killing 22 Texas women gets 2nd conviction](https://www.reddit.com/r/news/comments/xyerwo/man_charged_with_killing_22_texas_women_gets_2nd/)
+- [New state laws allowing universal voting by mail and Election Day registration are unconstitutional, Delaware’s Supreme Court ruled Friday.](https://www.reddit.com/r/news/comments/xye0xg/new_state_laws_allowing_universal_voting_by_mail/)
+- [AZ Appeals Court blocks enforcement of abortion ban](https://www.reddit.com/r/news/comments/xydw1g/az_appeals_court_blocks_enforcement_of_abortion/)
+- [Ohio court blocks six-week abortion ban indefinitely](https://www.reddit.com/r/news/comments/xydafp/ohio_court_blocks_sixweek_abortion_ban/)
+- [[Ohio] State abortion bans are preventing cancer patients from getting chemotherapy](https://www.reddit.com/r/news/comments/xyaf3i/ohio_state_abortion_bans_are_preventing_cancer/)
 <!-- REDDIT:END -->
 
 
