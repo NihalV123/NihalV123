@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man with Down syndrome fired from Wendy&#39;s after 20 years](https://www.reddit.com/r/news/comments/xz8yuf/man_with_down_syndrome_fired_from_wendys_after_20/)
+- [Breonna Taylor warrant details deepen mistrust in police](https://www.reddit.com/r/news/comments/xz6m4x/breonna_taylor_warrant_details_deepen_mistrust_in/)
+- [US to strengthen penalties for joining Arab League&#39;s Israel boycott: Companies boycotting Israel to face increased enforcement](https://www.reddit.com/r/news/comments/xz3j8d/us_to_strengthen_penalties_for_joining_arab/)
+- [Starbucks employee was fired illegally, labor board judge rules](https://www.reddit.com/r/news/comments/xz34r4/starbucks_employee_was_fired_illegally_labor/)
+- [Harvey Weinstein goes on trial in LA, where he once reigned](https://www.reddit.com/r/news/comments/xz2zcj/harvey_weinstein_goes_on_trial_in_la_where_he/)
 <!-- REDDIT:END -->
 
 
