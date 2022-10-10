@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bank of England announces liquidity measures to help ease pension fund issues](https://www.reddit.com/r/news/comments/y07emm/bank_of_england_announces_liquidity_measures_to/)
+- [Latino L.A. City Council members apologize after racist remarks leak](https://www.reddit.com/r/news/comments/y072qt/latino_la_city_council_members_apologize_after/)
+- [Large explosions heard in Kyiv following sound of incoming missiles](https://www.reddit.com/r/news/comments/y06so4/large_explosions_heard_in_kyiv_following_sound_of/)
+- [New York Times sacks Gaza journalist for expressing support for Palestinian resistance](https://www.reddit.com/r/news/comments/y03a5p/new_york_times_sacks_gaza_journalist_for/)
+- [Iran protests: Germany calls for sanctions over violent crackdown](https://www.reddit.com/r/news/comments/xzz9um/iran_protests_germany_calls_for_sanctions_over/)
 <!-- REDDIT:END -->
 
 
