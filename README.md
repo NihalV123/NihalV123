@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nury Martinez resigns as president of LA City Council following leaked audio of racist remarks](https://www.reddit.com/r/news/comments/y0ld7j/nury_martinez_resigns_as_president_of_la_city/)
+- [Uvalde schools superintendent announces retirement after new details following the Robb Elementary massacre](https://www.reddit.com/r/news/comments/y0l22n/uvalde_schools_superintendent_announces/)
+- [This won&#39;t hurt a bit: The anesthesiologist who is putting you under may work for a private-equity firm](https://www.reddit.com/r/news/comments/y0jwjl/this_wont_hurt_a_bit_the_anesthesiologist_who_is/)
+- [Los Angeles City Council president issues apology after making racist remarks in leaked audio](https://www.reddit.com/r/news/comments/y0jlgj/los_angeles_city_council_president_issues_apology/)
+- [Fame no shield from &#39;frightening&#39; Iran arrest wave](https://www.reddit.com/r/news/comments/y0htbc/fame_no_shield_from_frightening_iran_arrest_wave/)
 <!-- REDDIT:END -->
 
 
