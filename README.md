@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran protests: Germany calls for sanctions over violent crackdown](https://www.reddit.com/r/news/comments/xzz9um/iran_protests_germany_calls_for_sanctions_over/)
+- [Kanye West Locked Out of Twitter Following Anti-Semitic Tweet](https://www.reddit.com/r/news/comments/xzxf9x/kanye_west_locked_out_of_twitter_following/)
+- [Russian draft dodgers pour into Kazakhstan to escape Putin&#39;s war | CNN](https://www.reddit.com/r/news/comments/xzxcdi/russian_draft_dodgers_pour_into_kazakhstan_to/)
+- [Oregon police warn public of multiple ‘explosive’ hand grenades washing up on the beach shore in Newport area](https://www.reddit.com/r/news/comments/xzuthk/oregon_police_warn_public_of_multiple_explosive/)
+- [Lack of flood insurance in hard-hit Central Florida leaves families struggling after Hurricane Ian](https://www.reddit.com/r/news/comments/xzuj7a/lack_of_flood_insurance_in_hardhit_central/)
 <!-- REDDIT:END -->
 
 
