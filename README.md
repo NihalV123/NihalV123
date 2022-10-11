@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mississippi police shoot Black teenager in the head outside store](https://www.reddit.com/r/news/comments/y10ftc/mississippi_police_shoot_black_teenager_in_the/)
+- [Search for victims done, Florida coast aims for Ian recovery - ABC News](https://www.reddit.com/r/news/comments/y0zvq2/search_for_victims_done_florida_coast_aims_for/)
+- [Ukraine to demand step-change in western aid after Russian missile blitz](https://www.reddit.com/r/news/comments/y0xyi0/ukraine_to_demand_stepchange_in_western_aid_after/)
+- [Billionaire investor Yuri Milner relinquishes Russian citizenship](https://www.reddit.com/r/news/comments/y0xn7z/billionaire_investor_yuri_milner_relinquishes/)
+- [Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth](https://www.reddit.com/r/news/comments/y0xdlw/microbes_that_cause_cavities_can_form/)
 <!-- REDDIT:END -->
 
 
