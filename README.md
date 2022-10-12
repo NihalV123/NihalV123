@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former San Antonio officer who shot teen in McDonald’s parking lot is arrested](https://www.reddit.com/r/news/comments/y1s3hi/former_san_antonio_officer_who_shot_teen_in/)
+- [Ukraine war: Zelensky calls for more sanctions after &#39;new wave of terror&#39;](https://www.reddit.com/r/news/comments/y1rmff/ukraine_war_zelensky_calls_for_more_sanctions/)
+- [Federal Officials Trade Stock in Companies Their Agencies Oversee](https://www.reddit.com/r/news/comments/y1rf50/federal_officials_trade_stock_in_companies_their/)
+- [Texas woman dead after teens allegedly fired 100 rounds and &#39;hit the wrong house&#39; in drive-by shooting, sheriff says](https://www.reddit.com/r/news/comments/y1r4pj/texas_woman_dead_after_teens_allegedly_fired_100/)
+- [Charges filed against former San Antonio officer who shot 17-year-old at McDonald’s parking lot](https://www.reddit.com/r/news/comments/y1q2f8/charges_filed_against_former_san_antonio_officer/)
 <!-- REDDIT:END -->
 
 
