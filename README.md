@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Accused Waukesha Christmas parade killer questions victims while defending himself in trial](https://www.reddit.com/r/news/comments/y21yxn/accused_waukesha_christmas_parade_killer/)
+- [Deadline Approaches to Submit Claim in Multi-Million Dollar Illinois Snapchat Settlement](https://www.reddit.com/r/news/comments/y20m4u/deadline_approaches_to_submit_claim_in/)
+- [California Man Dies After Falling Into Wood Chipper](https://www.reddit.com/r/news/comments/y1vpzy/california_man_dies_after_falling_into_wood/)
+- [Chinese &#39;flying car&#39; makes first public flight in Dubai](https://www.reddit.com/r/news/comments/y1v8ii/chinese_flying_car_makes_first_public_flight_in/)
+- [Former San Antonio officer who shot teen in McDonald’s parking lot is arrested](https://www.reddit.com/r/news/comments/y1s3hi/former_san_antonio_officer_who_shot_teen_in/)
 <!-- REDDIT:END -->
 
 
