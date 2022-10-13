@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Feds: Ex Louisville Police Officer Used Law Enforcement Tech To Help Hack Sexually Explicit Photos From Women](https://www.reddit.com/r/news/comments/y35d32/feds_ex_louisville_police_officer_used_law/)
+- [US opts to not rebuild renowned Puerto Rico telescope](https://www.reddit.com/r/news/comments/y350hq/us_opts_to_not_rebuild_renowned_puerto_rico/)
+- [Mexico replaces Canada as No. 1 US trade partner in August](https://www.reddit.com/r/news/comments/y32phy/mexico_replaces_canada_as_no_1_us_trade_partner/)
+- [Albertsons merger with Kroger could be announced this week](https://www.reddit.com/r/news/comments/y32eis/albertsons_merger_with_kroger_could_be_announced/)
+- [Police Swarm Multiple Bay Area Schools After ‘Swatting&#39; Incidents](https://www.reddit.com/r/news/comments/y325vd/police_swarm_multiple_bay_area_schools_after/)
 <!-- REDDIT:END -->
 
 
