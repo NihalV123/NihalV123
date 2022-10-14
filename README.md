@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alaska snow crab season canceled as officials investigate disappearance of an estimated 1 billion crabs](https://www.reddit.com/r/news/comments/y3sihs/alaska_snow_crab_season_canceled_as_officials/)
+- [Musk indicates SpaceX will stop funding Starlink terminals in Ukraine; Russia starts evacuating civilians from Kherson](https://www.reddit.com/r/news/comments/y3s001/musk_indicates_spacex_will_stop_funding_starlink/)
+- [Ukraine thanks Saudi Arabia for UN vote against Russia annexations](https://www.reddit.com/r/news/comments/y3rwam/ukraine_thanks_saudi_arabia_for_un_vote_against/)
+- [Drone footage reveals an early Mesopotamian city constructed of marsh islands.](https://www.reddit.com/r/news/comments/y3r9al/drone_footage_reveals_an_early_mesopotamian_city/)
+- [Just Stop Oil activists throw tomato soup at iconic Vincent van Gogh painting](https://www.reddit.com/r/news/comments/y3qngo/just_stop_oil_activists_throw_tomato_soup_at/)
 <!-- REDDIT:END -->
 
 
