@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Robbie Coltrane: Harry Potter and Cracker actor has died aged 72](https://www.reddit.com/r/news/comments/y3z3sj/robbie_coltrane_harry_potter_and_cracker_actor/)
+- [Putin has &#39;no regrets&#39; over missile barrage in Ukraine, but says no need for more &#39;massive&#39; strikes for now](https://www.reddit.com/r/news/comments/y3ysas/putin_has_no_regrets_over_missile_barrage_in/)
+- [Sidney Powell’s nonprofit raised $16 million as she spread election falsehoods](https://www.reddit.com/r/news/comments/y3xm25/sidney_powells_nonprofit_raised_16_million_as_she/)
+- [Atlanta Medical Center shutters emergency department; local emergency response times soar](https://www.reddit.com/r/news/comments/y3xg41/atlanta_medical_center_shutters_emergency/)
+- [Turkey&#39;s parliament adopts media law jailing those spreading &#39;disinformation&#39;](https://www.reddit.com/r/news/comments/y3x3yr/turkeys_parliament_adopts_media_law_jailing_those/)
 <!-- REDDIT:END -->
 
 
