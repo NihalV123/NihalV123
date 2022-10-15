@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Qatar World Cup imposes ‘chilling’ restrictions on media](https://www.reddit.com/r/news/comments/y4tuxv/qatar_world_cup_imposes_chilling_restrictions_on/)
+- [KCPD Said Missing Black Women Reports In KC Were &quot;Completely Unfounded.&quot; Less Than A Month Later, One Escaped After Being Kidnapped From Prospect &amp; Tortured in a Basement For Over A Month](https://www.reddit.com/r/news/comments/y4tlpn/kcpd_said_missing_black_women_reports_in_kc_were/)
+- [BBC identifies young people killed in Iran’s protests](https://www.reddit.com/r/news/comments/y4rsqf/bbc_identifies_young_people_killed_in_irans/)
+- [The mighty Mississippi is so low, people are walking to a unique rock formation rarely accessible by foot](https://www.reddit.com/r/news/comments/y4p1ek/the_mighty_mississippi_is_so_low_people_are/)
+- [Eclipse, the Seattle dog who rides the bus by herself, dies](https://www.reddit.com/r/news/comments/y4omoa/eclipse_the_seattle_dog_who_rides_the_bus_by/)
 <!-- REDDIT:END -->
 
 
