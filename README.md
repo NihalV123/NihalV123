@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Digital license plates are now legal in California](https://www.reddit.com/r/news/comments/y4a9li/digital_license_plates_are_now_legal_in_california/)
+- [&quot;Pretty troublesome&quot;: New COVID variant BQ.1 now makes up 1 in 10 cases nationwide, CDC estimates](https://www.reddit.com/r/news/comments/y4a7kk/pretty_troublesome_new_covid_variant_bq1_now/)
+- [Justice Dept. Asks Appeals Court to End Mar-A-Lago Special Master](https://www.reddit.com/r/news/comments/y48yds/justice_dept_asks_appeals_court_to_end_maralago/)
+- [U.S. grants Philippines $100 million in foreign military financing](https://www.reddit.com/r/news/comments/y48546/us_grants_philippines_100_million_in_foreign/)
+- [Chicago woman facing eviction allegedly killed her landlord and hid the remains in a freezer, police say](https://www.reddit.com/r/news/comments/y4777f/chicago_woman_facing_eviction_allegedly_killed/)
 <!-- REDDIT:END -->
 
 
