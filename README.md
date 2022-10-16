@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [12-meter floods to inundate thousands of properties, Australian emergency services warn | CNN](https://www.reddit.com/r/news/comments/y5ews1/12meter_floods_to_inundate_thousands_of/)
+- [Wisconsin deputy placed on administrative assignment after incident at a Super 8 hotel](https://www.reddit.com/r/news/comments/y5epvs/wisconsin_deputy_placed_on_administrative/)
+- [Missing Texas teen found driving in Nebraska with mother’s dead body in trunk](https://www.reddit.com/r/news/comments/y5d7ye/missing_texas_teen_found_driving_in_nebraska_with/)
+- [Environmental crime, where profit margins can be higher than the drug trade](https://www.reddit.com/r/news/comments/y5cuay/environmental_crime_where_profit_margins_can_be/)
+- [3 people dead, 1 wounded after shooting in Pittsburgh](https://www.reddit.com/r/news/comments/y57x1r/3_people_dead_1_wounded_after_shooting_in/)
 <!-- REDDIT:END -->
 
 
