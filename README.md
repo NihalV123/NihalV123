@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 friends killed in &#39;violent&#39; shooting, dismembered, thrown in Oklahoma river; person of interest named](https://www.reddit.com/r/news/comments/y6htmq/4_friends_killed_in_violent_shooting_dismembered/)
+- [One of two winning Mega Millions lottery tickets was sold in an area hard hit by Hurricane Ian](https://www.reddit.com/r/news/comments/y6hfl9/one_of_two_winning_mega_millions_lottery_tickets/)
+- [Russian tower block in flames as aircraft crashes](https://www.reddit.com/r/news/comments/y6hejt/russian_tower_block_in_flames_as_aircraft_crashes/)
+- [Russian warplane crashes in Sea of Azov port](https://www.reddit.com/r/news/comments/y6fezp/russian_warplane_crashes_in_sea_of_azov_port/)
+- [China delays release of key economic data amid party congress](https://www.reddit.com/r/news/comments/y6f5pv/china_delays_release_of_key_economic_data_amid/)
 <!-- REDDIT:END -->
 
 
