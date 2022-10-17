@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oil bounces higher as U.S. dollar&#39;s strength eases](https://www.reddit.com/r/news/comments/y5xfqq/oil_bounces_higher_as_us_dollars_strength_eases/)
+- [Gates Foundation pledges $1.2B to eradicate polio globally](https://www.reddit.com/r/news/comments/y5w4mb/gates_foundation_pledges_12b_to_eradicate_polio/)
+- [Russian troops kill Ukrainian musician for refusing role in Kherson concert](https://www.reddit.com/r/news/comments/y5t3vw/russian_troops_kill_ukrainian_musician_for/)
+- [Prisoner sentenced 24 years for killing leader of international child porn ring in Michigan prison](https://www.reddit.com/r/news/comments/y5t3fx/prisoner_sentenced_24_years_for_killing_leader_of/)
+- [Musk has a &#39;super app&#39; plan for Twitter. It&#39;s super vague](https://www.reddit.com/r/news/comments/y5s3wk/musk_has_a_super_app_plan_for_twitter_its_super/)
 <!-- REDDIT:END -->
 
 
