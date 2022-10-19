@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheriffs Offered Caribbean Cruises and Florida Retreats as Part of Jail Telecom Contracts](https://www.reddit.com/r/news/comments/y80vgo/sheriffs_offered_caribbean_cruises_and_florida/)
+- [Berlusconi says Russia&#39;s Putin gifted him vodka, sweet note](https://www.reddit.com/r/news/comments/y7zhiz/berlusconi_says_russias_putin_gifted_him_vodka/)
+- [Ukraine war: Russia begins evacuation from Kherson in south - BBC News](https://www.reddit.com/r/news/comments/y7ydn1/ukraine_war_russia_begins_evacuation_from_kherson/)
+- [Man Convicted of killing Texas agency&#39;s 1st Sikh deputy](https://www.reddit.com/r/news/comments/y7s5q6/man_convicted_of_killing_texas_agencys_1st_sikh/)
+- [Apollo, Gemini astronaut James McDivitt dies at age 93](https://www.reddit.com/r/news/comments/y7rksx/apollo_gemini_astronaut_james_mcdivitt_dies_at/)
 <!-- REDDIT:END -->
 
 
