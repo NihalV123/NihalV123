@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Missouri school to close after radioactive waste report](https://www.reddit.com/r/news/comments/y87n2w/missouri_school_to_close_after_radioactive_waste/)
+- [Woman released bees on deputies serving eviction notice: police](https://www.reddit.com/r/news/comments/y87102/woman_released_bees_on_deputies_serving_eviction/)
+- [Updated Moderna Covid booster gives even better protection than earlier jab](https://www.reddit.com/r/news/comments/y86xll/updated_moderna_covid_booster_gives_even_better/)
+- [Texas schools send parents DNA kits to identify their kids’ bodies in emergencies](https://www.reddit.com/r/news/comments/y868os/texas_schools_send_parents_dna_kits_to_identify/)
+- [Finland’s main parties back plans to build Russia border fence | Finland](https://www.reddit.com/r/news/comments/y85xkj/finlands_main_parties_back_plans_to_build_russia/)
 <!-- REDDIT:END -->
 
 
