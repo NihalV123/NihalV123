@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Birds Aren’t Real protest flocks to Washington Square Park](https://www.reddit.com/r/news/comments/y7tj1f/birds_arent_real_protest_flocks_to_washington/)
+- [Man Convicted of killing Texas agency&#39;s 1st Sikh deputy](https://www.reddit.com/r/news/comments/y7s5q6/man_convicted_of_killing_texas_agencys_1st_sikh/)
+- [Netflix recovers from subscriber slump, projects gains from advertising option](https://www.reddit.com/r/news/comments/y7r265/netflix_recovers_from_subscriber_slump_projects/)
+- [Iranian rock climber Elnaz Rekabi says hijab &#39;inadvertently&#39; fell off during competition in South Korea](https://www.reddit.com/r/news/comments/y7qoy4/iranian_rock_climber_elnaz_rekabi_says_hijab/)
+- [U.S. Astronaut James McDivitt, commander of Apollo 9, dies at age 93](https://www.reddit.com/r/news/comments/y7q5ig/us_astronaut_james_mcdivitt_commander_of_apollo_9/)
 <!-- REDDIT:END -->
 
 
