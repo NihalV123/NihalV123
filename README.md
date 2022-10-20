@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US citizen Anne Sacoolas pleads guilty to causing Harry Dunn&#39;s death](https://www.reddit.com/r/news/comments/y93e8u/us_citizen_anne_sacoolas_pleads_guilty_to_causing/)
+- [New Jersey joins states suing fossil fuel companies over climate change damage](https://www.reddit.com/r/news/comments/y92dzq/new_jersey_joins_states_suing_fossil_fuel/)
+- [Warming waters cited as &quot;key culprit&quot; in mass die-off of Alaska snow crabs](https://www.reddit.com/r/news/comments/y925qg/warming_waters_cited_as_key_culprit_in_mass/)
+- [Texas sues Google for allegedly capturing biometric data of millions without consent](https://www.reddit.com/r/news/comments/y91cq5/texas_sues_google_for_allegedly_capturing/)
+- [Former Hedley frontman Jacob Hoggard sentenced to 5 years in prison for sexual assault](https://www.reddit.com/r/news/comments/y8z8qd/former_hedley_frontman_jacob_hoggard_sentenced_to/)
 <!-- REDDIT:END -->
 
 
