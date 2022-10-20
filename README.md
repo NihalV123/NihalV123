@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philadelphia SVU investigates after video allegedly catches woman stun gunning child in car](https://www.reddit.com/r/news/comments/y8ut0q/philadelphia_svu_investigates_after_video/)
+- [Multiple foreign nationals charged in alleged schemes to send military technology to Russia](https://www.reddit.com/r/news/comments/y8usks/multiple_foreign_nationals_charged_in_alleged/)
+- [WHO: &#39;Concerned&#39; about Ebola spread as latest eight cases not contacts of others infected](https://www.reddit.com/r/news/comments/y8ud78/who_concerned_about_ebola_spread_as_latest_eight/)
+- [US fighter jets scrambled to intercept two Russian bombers near Alaska](https://www.reddit.com/r/news/comments/y8u7nd/us_fighter_jets_scrambled_to_intercept_two/)
+- [Afghan couple accuse US Marine of abducting their baby](https://www.reddit.com/r/news/comments/y8r81a/afghan_couple_accuse_us_marine_of_abducting_their/)
 <!-- REDDIT:END -->
 
 
