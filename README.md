@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Facebook and TikTok are approving ads with &#39;blatant&#39; misinformation about voting in midterms, researchers say](https://www.reddit.com/r/news/comments/y9zdtt/facebook_and_tiktok_are_approving_ads_with/)
+- [Brain-eating amoeba kills boy after trip to Lake Mead](https://www.reddit.com/r/news/comments/y9zbwj/braineating_amoeba_kills_boy_after_trip_to_lake/)
+- [U.S. budget deficit cut in half for biggest decrease ever amid Covid spending declines](https://www.reddit.com/r/news/comments/y9yn9w/us_budget_deficit_cut_in_half_for_biggest/)
+- [A Michigan family of 4 has been missing for 4 days in &#39;abnormal&#39; disappearance, police say](https://www.reddit.com/r/news/comments/y9wxo4/a_michigan_family_of_4_has_been_missing_for_4/)
+- [Mar-a-Lago classified papers held U.S. secrets about Iran and China](https://www.reddit.com/r/news/comments/y9wctv/maralago_classified_papers_held_us_secrets_about/)
 <!-- REDDIT:END -->
 
 
