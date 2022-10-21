@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Warming waters cited as &quot;key culprit&quot; in mass die-off of Alaska snow crabs](https://www.reddit.com/r/news/comments/y9f86p/warming_waters_cited_as_key_culprit_in_mass/)
+- [Oklahoma executes Benjamin Cole for the murder of his 9-month-old daughter. His attorneys said he had schizophrenia and was mentally ill](https://www.reddit.com/r/news/comments/y9dq43/oklahoma_executes_benjamin_cole_for_the_murder_of/)
+- [Railroads reject sick time demands, raising chance of strike](https://www.reddit.com/r/news/comments/y9djio/railroads_reject_sick_time_demands_raising_chance/)
+- [Documents detail plans to gut Twitter&#39;s workforce](https://www.reddit.com/r/news/comments/y9d1qt/documents_detail_plans_to_gut_twitters_workforce/)
+- [Judge dismisses GOP states’ challenge to Biden student debt relief program](https://www.reddit.com/r/news/comments/y9crcn/judge_dismisses_gop_states_challenge_to_biden/)
 <!-- REDDIT:END -->
 
 
