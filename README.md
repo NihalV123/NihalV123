@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Deepfaked: ‘They put my face on a porn video’](https://www.reddit.com/r/news/comments/y9rjck/deepfaked_they_put_my_face_on_a_porn_video/)
+- [Newsmax bans Lara Logan after QAnon-style rant, condemns her words in &#39;the strongest terms&#39; | CNN Business](https://www.reddit.com/r/news/comments/y9pm8e/newsmax_bans_lara_logan_after_qanonstyle_rant/)
+- [A car found buried in a California backyard is being checked for possible human remains, police say | CNN](https://www.reddit.com/r/news/comments/y9nxtx/a_car_found_buried_in_a_california_backyard_is/)
+- [Video shows an adult at a Mississippi daycare wearing a mask and terrifying young children. Child abuse charges have now been filed](https://www.reddit.com/r/news/comments/y9mduw/video_shows_an_adult_at_a_mississippi_daycare/)
+- [Berlusconi leaked audio blames Ukraine for Russia´s invasion](https://www.reddit.com/r/news/comments/y9lnre/berlusconi_leaked_audio_blames_ukraine_for/)
 <!-- REDDIT:END -->
 
 
