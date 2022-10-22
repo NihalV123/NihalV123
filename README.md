@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US blasts Russia&#39;s &#39;contempt&#39; for UN as body mulls probe into Iran drones in Ukraine](https://www.reddit.com/r/news/comments/ya8h28/us_blasts_russias_contempt_for_un_as_body_mulls/)
+- [Russian, US troops in Syria share &#39;rare moment&#39; of congeniality](https://www.reddit.com/r/news/comments/ya8dsz/russian_us_troops_in_syria_share_rare_moment_of/)
+- [Expert identifies what caused a massive die-off of Alaska’s snow crabs](https://www.reddit.com/r/news/comments/ya73hs/expert_identifies_what_caused_a_massive_dieoff_of/)
+- [Maine doctor&#39;s license suspended over COVID-19 claims](https://www.reddit.com/r/news/comments/ya5ce1/maine_doctors_license_suspended_over_covid19/)
+- [Moody&#39;s cuts UK outlook to &#39;negative&#39; on policy uncertainty](https://www.reddit.com/r/news/comments/ya4kne/moodys_cuts_uk_outlook_to_negative_on_policy/)
 <!-- REDDIT:END -->
 
 
