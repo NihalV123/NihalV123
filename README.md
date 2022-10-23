@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A multimillion-dollar war against mosquitoes is underway in Florida after Hurricane Ian](https://www.reddit.com/r/news/comments/ybfyec/a_multimilliondollar_war_against_mosquitoes_is/)
+- [Experts warn of severe upcoming flu season as pediatric hospitals already feel the crush](https://www.reddit.com/r/news/comments/ybffdc/experts_warn_of_severe_upcoming_flu_season_as/)
+- [Man fatally shot after California high school football game](https://www.reddit.com/r/news/comments/ybed72/man_fatally_shot_after_california_high_school/)
+- [Woman mauled by bear while walking dog: Police](https://www.reddit.com/r/news/comments/ybdx22/woman_mauled_by_bear_while_walking_dog_police/)
+- [Iranian Hacker Group Releases Confidential Nuclear Files in Retaliation to the Islamic Republic’s Crackdown on Protesters](https://www.reddit.com/r/news/comments/ybd5pl/iranian_hacker_group_releases_confidential/)
 <!-- REDDIT:END -->
 
 
