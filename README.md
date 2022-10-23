@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian fighter jet crashes into building in Siberia, killing two](https://www.reddit.com/r/news/comments/ybnifj/russian_fighter_jet_crashes_into_building_in/)
+- [Passengers in fatal Boeing 737 MAX crashes are &#39;crime victims,&#39; US judge says](https://www.reddit.com/r/news/comments/ybneaa/passengers_in_fatal_boeing_737_max_crashes_are/)
+- [Missing Fremont family found safe in Wisconsin](https://www.reddit.com/r/news/comments/ybn7cy/missing_fremont_family_found_safe_in_wisconsin/)
+- [Convertible reported stolen in &#39;92 found buried in yard of $15 million California mansion](https://www.reddit.com/r/news/comments/ybmor2/convertible_reported_stolen_in_92_found_buried_in/)
+- [Salman Rushdie has lost sight in one eye and use of one hand, says agent](https://www.reddit.com/r/news/comments/ybm0co/salman_rushdie_has_lost_sight_in_one_eye_and_use/)
 <!-- REDDIT:END -->
 
 
