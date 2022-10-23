@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US businesses propose hiding trade data used to trace abuse](https://www.reddit.com/r/news/comments/yb2ppj/us_businesses_propose_hiding_trade_data_used_to/)
+- [2 hospital employees killed in shooting at Methodist Hospital in Dallas, suspect in custody](https://www.reddit.com/r/news/comments/yb0vpy/2_hospital_employees_killed_in_shooting_at/)
+- [&#39;Change has come&#39;: Mississippi unveils Emmett Till statue](https://www.reddit.com/r/news/comments/yb0ev7/change_has_come_mississippi_unveils_emmett_till/)
+- [Dietrich Matescchitz: Influential Red Bull founder and owner dies aged 78](https://www.reddit.com/r/news/comments/yazki0/dietrich_matescchitz_influential_red_bull_founder/)
+- [Criminal charges dropped against man left with paralysis in US police custody | US news](https://www.reddit.com/r/news/comments/yawgg1/criminal_charges_dropped_against_man_left_with/)
 <!-- REDDIT:END -->
 
 
