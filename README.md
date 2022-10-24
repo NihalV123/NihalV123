@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan family of 4 who went missing for a week has been found](https://www.reddit.com/r/news/comments/yc94zy/michigan_family_of_4_who_went_missing_for_a_week/)
+- [Burgess Yachts accused of financing the war in Ukraine by helping sanctioned Russian magnates hide their super yachts](https://www.reddit.com/r/news/comments/yc7bmu/burgess_yachts_accused_of_financing_the_war_in/)
+- [After a UPS worker’s suicide, employees disclose ‘tragic’ conditions at largest facility](https://www.reddit.com/r/news/comments/yc50dn/after_a_ups_workers_suicide_employees_disclose/)
+- [Brazil politician throws grenades at police in Rio de Janeiro state](https://www.reddit.com/r/news/comments/yc343i/brazil_politician_throws_grenades_at_police_in/)
+- [Three high school hockey players suspended after 16-year-old takes her own life, parents say](https://www.reddit.com/r/news/comments/ybzr9k/three_high_school_hockey_players_suspended_after/)
 <!-- REDDIT:END -->
 
 
