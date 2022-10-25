@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Software biz accused of colluding with &#39;cartel&#39; of landlords](https://www.reddit.com/r/news/comments/ycvihx/software_biz_accused_of_colluding_with_cartel_of/)
+- [Police search for suspect who tried to grab 10-year-old girl in Fort Lauderdale](https://www.reddit.com/r/news/comments/ycv1rw/police_search_for_suspect_who_tried_to_grab/)
+- [Right-wing operatives plead guilty to 2020 election robocall scheme](https://www.reddit.com/r/news/comments/ycuwsx/rightwing_operatives_plead_guilty_to_2020/)
+- [Ivermectin — a drug once touted as a Covid treatment by conservatives — doesn&#39;t improve recovery much, clinical trial finds](https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid/)
+- [18-month-old in critical condition after North Carolina shooting that injured 6](https://www.reddit.com/r/news/comments/ycs42c/18monthold_in_critical_condition_after_north/)
 <!-- REDDIT:END -->
 
 
