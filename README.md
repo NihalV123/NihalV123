@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia early voting numbers continue shattering records](https://www.reddit.com/r/news/comments/yd221s/georgia_early_voting_numbers_continue_shattering/)
+- [Endangered whale’s decline slows, but population falls again](https://www.reddit.com/r/news/comments/yd1oal/endangered_whales_decline_slows_but_population/)
+- [Schools got $122 billion to reopen last year. Most has not been used.](https://www.reddit.com/r/news/comments/yd0ao6/schools_got_122_billion_to_reopen_last_year_most/)
+- [Adidas plans to end Kanye West partnership after controversies - Bloomberg News](https://www.reddit.com/r/news/comments/ycztm2/adidas_plans_to_end_kanye_west_partnership_after/)
+- [Powerball lottery jackpot estimated at $680M after no winners in Monday&#39;s drawing](https://www.reddit.com/r/news/comments/ycxi58/powerball_lottery_jackpot_estimated_at_680m_after/)
 <!-- REDDIT:END -->
 
 
