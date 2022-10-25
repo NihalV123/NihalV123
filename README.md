@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Native Americans, white farmers join forces to oppose pipeline in Dakotas](https://www.reddit.com/r/news/comments/yd8u2j/native_americans_white_farmers_join_forces_to/)
+- [Ukraine alleges Russian dirty bomb deception at nuke plant](https://www.reddit.com/r/news/comments/yd7858/ukraine_alleges_russian_dirty_bomb_deception_at/)
+- [Loo-dicrous: San Franciscans flushed with anger over $1.7m public toilet](https://www.reddit.com/r/news/comments/yd6cg5/loodicrous_san_franciscans_flushed_with_anger/)
+- [Investigation underway into daughter&#39;s allegation Iowa man was prolific serial killer](https://www.reddit.com/r/news/comments/yd5thv/investigation_underway_into_daughters_allegation/)
+- [‘World’s dirtiest man’ dies in Iran at 94 a few months after first wash](https://www.reddit.com/r/news/comments/yd5n6a/worlds_dirtiest_man_dies_in_iran_at_94_a_few/)
 <!-- REDDIT:END -->
 
 
