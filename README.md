@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ivermectin — a drug once touted as a Covid treatment by conservatives — doesn&#39;t improve recovery much, clinical trial finds](https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid/)
+- [Talent agency CAA drops Kanye West after antisemitic posts](https://www.reddit.com/r/news/comments/ycr197/talent_agency_caa_drops_kanye_west_after/)
+- [Quebec man dies after waiting 16 hours in emergency room: doctor | CTV News](https://www.reddit.com/r/news/comments/ycqy7p/quebec_man_dies_after_waiting_16_hours_in/)
+- [Gonzales police officer arrested after years of alleged abuse](https://www.reddit.com/r/news/comments/ycpcgq/gonzales_police_officer_arrested_after_years_of/)
+- [US health body rules collision sports cause CTE in landmark change](https://www.reddit.com/r/news/comments/ycpal7/us_health_body_rules_collision_sports_cause_cte/)
 <!-- REDDIT:END -->
 
 
