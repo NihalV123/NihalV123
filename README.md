@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [School gunman had AR-15-style weapon, 600 rounds of ammo](https://www.reddit.com/r/news/comments/ydkomx/school_gunman_had_ar15style_weapon_600_rounds_of/)
+- [Benzene behind latest shampoo recall is a big problem, scientist says](https://www.reddit.com/r/news/comments/ydjyzg/benzene_behind_latest_shampoo_recall_is_a_big/)
+- [Thousands mourn Palestinians killed by Israel in Nablus](https://www.reddit.com/r/news/comments/ydjgbm/thousands_mourn_palestinians_killed_by_israel_in/)
+- [Patient billed $12,903 after he was nearly killed with an allegedly tainted IV bag](https://www.reddit.com/r/news/comments/ydii1i/patient_billed_12903_after_he_was_nearly_killed/)
+- [MRNA technology that saved millions from covid complications, Can cure cancer. Possible Cancer vaccine in a few years.](https://www.reddit.com/r/news/comments/ydii0f/mrna_technology_that_saved_millions_from_covid/)
 <!-- REDDIT:END -->
 
 
