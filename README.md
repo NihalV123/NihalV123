@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jan. 6 rioter who dragged Mike Fanone into crowd sentenced to 7.5 years in prison](https://www.reddit.com/r/news/comments/yeyp13/jan_6_rioter_who_dragged_mike_fanone_into_crowd/)
+- [Central Oregon school district pulls students from camp minutes after learning of nonbinary counselors](https://www.reddit.com/r/news/comments/yewl0b/central_oregon_school_district_pulls_students/)
+- [New York Post website hacked, with racist, violent and sexist headlines targeting politicians](https://www.reddit.com/r/news/comments/yewa3l/new_york_post_website_hacked_with_racist_violent/)
+- [Richmond can remove its last remaining Confederate statue, judge rules | CNN](https://www.reddit.com/r/news/comments/yeujmn/richmond_can_remove_its_last_remaining/)
+- [GOP Rep. Scott Perry drops lawsuit for the return of phone data seized by the FBI](https://www.reddit.com/r/news/comments/yet27p/gop_rep_scott_perry_drops_lawsuit_for_the_return/)
 <!-- REDDIT:END -->
 
 
