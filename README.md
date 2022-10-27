@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Same-sex marriage is now legal in all of Mexico&#39;s states](https://www.reddit.com/r/news/comments/yeigj3/samesex_marriage_is_now_legal_in_all_of_mexicos/)
+- [Salinas police: Off-duty officer cleaning gun mistakenly shoots self, kills bystander](https://www.reddit.com/r/news/comments/yegu13/salinas_police_offduty_officer_cleaning_gun/)
+- [A Florida attorney who opposed the state’s helmet law dies in a motorcycle crash. He wasn’t wearing a helmet.](https://www.reddit.com/r/news/comments/yeg2hb/a_florida_attorney_who_opposed_the_states_helmet/)
+- [Wisconsin judge rules partial addresses won&#39;t be allowed on mail-in ballots](https://www.reddit.com/r/news/comments/yefued/wisconsin_judge_rules_partial_addresses_wont_be/)
+- [Skittles, Reese&#39;s and other popular Halloween candies see price hike](https://www.reddit.com/r/news/comments/yeftmw/skittles_reeses_and_other_popular_halloween/)
 <!-- REDDIT:END -->
 
 
