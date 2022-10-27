@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine updates: Russia threatens West&#39;s satellites](https://www.reddit.com/r/news/comments/yep2yx/ukraine_updates_russia_threatens_wests_satellites/)
+- [Man who livestreamed King Soopers mass shooting found not guilty in obstruction case](https://www.reddit.com/r/news/comments/yeom61/man_who_livestreamed_king_soopers_mass_shooting/)
+- [Trial over death at Colorado strip club delayed after key lawyer dies there too](https://www.reddit.com/r/news/comments/yenqlv/trial_over_death_at_colorado_strip_club_delayed/)
+- [3 Florida men arrested in multimillion-dollar theft ring of stolen meat across Midwest, authorities say](https://www.reddit.com/r/news/comments/yeni9z/3_florida_men_arrested_in_multimilliondollar/)
+- [Shell reports $9.5 bln profit, plans to boost dividend](https://www.reddit.com/r/news/comments/yekod0/shell_reports_95_bln_profit_plans_to_boost/)
 <!-- REDDIT:END -->
 
 
