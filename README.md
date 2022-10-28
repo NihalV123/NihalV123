@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chinese embassy issues trade threat to UK over Manchester consulate beating | Politics News](https://www.reddit.com/r/news/comments/yfk8ej/chinese_embassy_issues_trade_threat_to_uk_over/)
+- [In the grips of war, Ukraine faces bleak demographic future](https://www.reddit.com/r/news/comments/yfjq2d/in_the_grips_of_war_ukraine_faces_bleak/)
+- [EU approves ban on new combustion-engine cars from 2035](https://www.reddit.com/r/news/comments/yfj2a4/eu_approves_ban_on_new_combustionengine_cars_from/)
+- [Russian journalist and Putin’s rumoured goddaughter flees to Lithuania](https://www.reddit.com/r/news/comments/yfdfy3/russian_journalist_and_putins_rumoured/)
+- [FBI background check blocked gun sale to St. Louis shooter](https://www.reddit.com/r/news/comments/yfdc36/fbi_background_check_blocked_gun_sale_to_st_louis/)
 <!-- REDDIT:END -->
 
 
