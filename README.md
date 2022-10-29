@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona woman sues city after arrest for feeding homeless: &quot;Criminalized kindness&quot;](https://www.reddit.com/r/news/comments/yg9qv1/arizona_woman_sues_city_after_arrest_for_feeding/)
+- [Residents evacuate from Miami high-rise near site of Surfside collapse](https://www.reddit.com/r/news/comments/yg8nef/residents_evacuate_from_miami_highrise_near_site/)
+- [6 kids killed in apparent murder-suicide at Oklahoma home, 2 adult suspects dead](https://www.reddit.com/r/news/comments/yg7rde/6_kids_killed_in_apparent_murdersuicide_at/)
+- [DNA evidence frees California man imprisoned for decades](https://www.reddit.com/r/news/comments/yg78ql/dna_evidence_frees_california_man_imprisoned_for/)
+- [Second &quot;We Build The Wall&quot; fraud trial ends in conviction](https://www.reddit.com/r/news/comments/yg5zv5/second_we_build_the_wall_fraud_trial_ends_in/)
 <!-- REDDIT:END -->
 
 
