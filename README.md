@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mormon church invests billions of dollars while grossly overstating its charitable giving](https://www.reddit.com/r/news/comments/yg4rqd/mormon_church_invests_billions_of_dollars_while/)
+- [Saudis ‘second largest investors’ in Twitter after Musk takeover](https://www.reddit.com/r/news/comments/yg41e1/saudis_second_largest_investors_in_twitter_after/)
+- [Group can monitor Arizona ballot drop boxes, US judge rules](https://www.reddit.com/r/news/comments/yg3d8m/group_can_monitor_arizona_ballot_drop_boxes_us/)
+- [Pelosi&#39;s husband underwent successful surgery to repair skull fracture -statement](https://www.reddit.com/r/news/comments/yg2cdc/pelosis_husband_underwent_successful_surgery_to/)
+- [Musk took over Twitter. Then some users began testing chaos](https://www.reddit.com/r/news/comments/yg1afh/musk_took_over_twitter_then_some_users_began/)
 <!-- REDDIT:END -->
 
 
