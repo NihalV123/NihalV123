@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida medical board votes to ban gender-affirming care for transgender minors](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/)
+- [Dozens injured in stampede during Halloween festivities in South Korea&#39;s capital Seoul](https://www.reddit.com/r/news/comments/ygmpki/dozens_injured_in_stampede_during_halloween/)
+- [Russia says it will suspend UN-brokered Ukraine export deal](https://www.reddit.com/r/news/comments/ygmev2/russia_says_it_will_suspend_unbrokered_ukraine/)
+- [Wisconsin man charged after allegedly grabbing Black man by the neck in video](https://www.reddit.com/r/news/comments/ygl18b/wisconsin_man_charged_after_allegedly_grabbing/)
+- [Profits at world’s seven biggest oil firms soar to almost £150bn this year](https://www.reddit.com/r/news/comments/yghbb2/profits_at_worlds_seven_biggest_oil_firms_soar_to/)
 <!-- REDDIT:END -->
 
 
