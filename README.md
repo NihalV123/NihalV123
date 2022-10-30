@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World leaders express sadness after Seoul stampede kills 151](https://www.reddit.com/r/news/comments/yhakkv/world_leaders_express_sadness_after_seoul/)
+- [At least 100 killed, 300 hurt in ‘heinous’ Mogadishu car bombings](https://www.reddit.com/r/news/comments/yh8a8w/at_least_100_killed_300_hurt_in_heinous_mogadishu/)
+- [‘It’s got nasty’: the battle to build the US’s biggest solar power farm](https://www.reddit.com/r/news/comments/yh85is/its_got_nasty_the_battle_to_build_the_uss_biggest/)
+- [No one hit Powerball jackpot, new drawing now an estimated $1 billion](https://www.reddit.com/r/news/comments/yh5qsz/no_one_hit_powerball_jackpot_new_drawing_now_an/)
+- [Mental Health Resources Assist First Responders Following Broken Arrow Murder-Suicide](https://www.reddit.com/r/news/comments/yh52on/mental_health_resources_assist_first_responders/)
 <!-- REDDIT:END -->
 
 
