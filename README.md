@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. diesel shortage increasingly likely until economy slows](https://www.reddit.com/r/news/comments/yhkvz5/us_diesel_shortage_increasingly_likely_until/)
+- [Elon Musk, new owner of Twitter, tweets unfounded conspiracy theory about Paul Pelosi attack](https://www.reddit.com/r/news/comments/yhjin1/elon_musk_new_owner_of_twitter_tweets_unfounded/)
+- [Over 350 fall into river after a suspension bridge collapses in India](https://www.reddit.com/r/news/comments/yhgqat/over_350_fall_into_river_after_a_suspension/)
+- [Gunmen attack major Shiite holy site in Iran, killing 15](https://www.reddit.com/r/news/comments/yhgl0e/gunmen_attack_major_shiite_holy_site_in_iran/)
+- [Global food concerns rise as Russia halts Ukraine grain deal](https://www.reddit.com/r/news/comments/yhgaxh/global_food_concerns_rise_as_russia_halts_ukraine/)
 <!-- REDDIT:END -->
 
 
