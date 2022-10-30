@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Guantanamo’s oldest inmate released after 19 years without trial](https://www.reddit.com/r/news/comments/yh0ws2/guantanamos_oldest_inmate_released_after_19_years/)
+- [Skimpy latte: victory for bikini baristas as federal court rejects city’s dress code](https://www.reddit.com/r/news/comments/ygztgm/skimpy_latte_victory_for_bikini_baristas_as/)
+- [Iran accuses journalists who reported Mahsa Amini’s death of spying for CIA | Iran](https://www.reddit.com/r/news/comments/ygzisz/iran_accuses_journalists_who_reported_mahsa/)
+- [Iran regime forces crack down on student protesters after IRGC threat](https://www.reddit.com/r/news/comments/ygyhas/iran_regime_forces_crack_down_on_student/)
+- [Man was shot at multiple times for not driving &#39;fast enough&#39; during a road rage incident](https://www.reddit.com/r/news/comments/ygxyqe/man_was_shot_at_multiple_times_for_not_driving/)
 <!-- REDDIT:END -->
 
 
