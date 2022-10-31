@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richard Branson declines invitation to debate death penalty with Shanmugam, says TV format &#39;turns serious debate into spectacle&#39;](https://www.reddit.com/r/news/comments/yhweb6/richard_branson_declines_invitation_to_debate/)
+- [Long Covid Patients Report Vibrations, Tremors](https://www.reddit.com/r/news/comments/yhu0y8/long_covid_patients_report_vibrations_tremors/)
+- [Sheriff: 14-year-old boy shot, killed in Northern California](https://www.reddit.com/r/news/comments/yhtieo/sheriff_14yearold_boy_shot_killed_in_northern/)
+- [Lula defeats Bolsonaro in Brazil&#39;s runoff election, pollster Datafolha says](https://www.reddit.com/r/news/comments/yhshts/lula_defeats_bolsonaro_in_brazils_runoff_election/)
+- [US Air Force to deploy nuclear capable B-52 bombers to Australia as tensions with China grow](https://www.reddit.com/r/news/comments/yhresw/us_air_force_to_deploy_nuclear_capable_b52/)
 <!-- REDDIT:END -->
 
 
