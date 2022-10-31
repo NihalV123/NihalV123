@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [As Elon Musk Logs on As Twitter’s New Boss, Many Are Logging Off for Good](https://www.reddit.com/r/news/comments/yij17r/as_elon_musk_logs_on_as_twitters_new_boss_many/)
+- [Paul Pelosi Speaks to Investigators From SF Hospital Bed Days After Attack](https://www.reddit.com/r/news/comments/yiisdh/paul_pelosi_speaks_to_investigators_from_sf/)
+- [Trump asks Supreme Court to stop IRS from turning over his tax returns to the House](https://www.reddit.com/r/news/comments/yiis9d/trump_asks_supreme_court_to_stop_irs_from_turning/)
+- [Human burial grounds and bullets from Spanish guns uncovered at site of last Mayan stronghold in Guatemala](https://www.reddit.com/r/news/comments/yihvar/human_burial_grounds_and_bullets_from_spanish/)
+- [Heavy Russian barrage on Ukraine, no water for most of Kyiv](https://www.reddit.com/r/news/comments/yigubx/heavy_russian_barrage_on_ukraine_no_water_for/)
 <!-- REDDIT:END -->
 
 
