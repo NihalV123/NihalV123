@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Halloween night shootings kill one, injure about 20](https://www.reddit.com/r/news/comments/yj62eq/us_halloween_night_shootings_kill_one_injure/)
+- [&#39;Absolutely no evidence:&#39; Police, FBI affidavit debunk salacious conspiracy about Pelosi attack pushed by conservatives | CNN Politics](https://www.reddit.com/r/news/comments/yj582e/absolutely_no_evidence_police_fbi_affidavit/)
+- [More than 100 people dead after tropical storm hits Philippines](https://www.reddit.com/r/news/comments/yj4vqg/more_than_100_people_dead_after_tropical_storm/)
+- [S. Korea police admit responsibility for Halloween tragedy](https://www.reddit.com/r/news/comments/yj3riz/s_korea_police_admit_responsibility_for_halloween/)
+- [Little-known pīwauwau rock wren named as New Zealand’s 2022 bird of the year](https://www.reddit.com/r/news/comments/yj2lzl/littleknown_pīwauwau_rock_wren_named_as_new/)
 <!-- REDDIT:END -->
 
 
