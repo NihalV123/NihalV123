@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Report: Elon Musk wants to charge $20 a month for Twitter verified status](https://www.reddit.com/r/news/comments/yiz3po/report_elon_musk_wants_to_charge_20_a_month_for/)
+- [Powerball jackpot races past $1 billion mark to estimated $1.2 billion for Wednesday night&#39;s drawing](https://www.reddit.com/r/news/comments/yiz1wl/powerball_jackpot_races_past_1_billion_mark_to/)
+- [Fans wear ‘Fight antisemitism’ shirts directed at Kyrie Irving amid furor](https://www.reddit.com/r/news/comments/yiyybq/fans_wear_fight_antisemitism_shirts_directed_at/)
+- [AS MANY AS 14 SHOT IN GARFIELD PARK ON HALLOWEEN NIGHT, CHICAGO POLICE SAY Victims include 3-year-old, 11-year-old and teenager, CPD says](https://www.reddit.com/r/news/comments/yiyxeg/as_many_as_14_shot_in_garfield_park_on_halloween/)
+- [Twitter to lay off 25% of workforce in first round of job cuts - Washington Post](https://www.reddit.com/r/news/comments/yiwpdt/twitter_to_lay_off_25_of_workforce_in_first_round/)
 <!-- REDDIT:END -->
 
 
