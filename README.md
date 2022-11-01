@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World jobs boom halted by Ukraine war and recession risk, says ILO | Global economy](https://www.reddit.com/r/news/comments/yitiu9/world_jobs_boom_halted_by_ukraine_war_and/)
+- [Number of Indigenous Australians in prisons more than doubles, despite drop in crime rates](https://www.reddit.com/r/news/comments/yirr97/number_of_indigenous_australians_in_prisons_more/)
+- [Elon Musk has pulled more than 50 Tesla employees into his Twitter takeover](https://www.reddit.com/r/news/comments/yiqq07/elon_musk_has_pulled_more_than_50_tesla_employees/)
+- [4 people sickened, including 1 in grave condition, after apparent carbon dioxide leak at LAX](https://www.reddit.com/r/news/comments/yipkiv/4_people_sickened_including_1_in_grave_condition/)
+- [Pentagon attributes UFO sightings to spies or airborne trash](https://www.reddit.com/r/news/comments/yip92d/pentagon_attributes_ufo_sightings_to_spies_or/)
 <!-- REDDIT:END -->
 
 
