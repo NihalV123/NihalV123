@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Obama warns &#39;more people are going to get hurt&#39; if political climate persists](https://www.reddit.com/r/news/comments/yk392n/obama_warns_more_people_are_going_to_get_hurt_if/)
+- [16-year-old girl mauled by six dogs in Southern California](https://www.reddit.com/r/news/comments/yk0pft/16yearold_girl_mauled_by_six_dogs_in_southern/)
+- [US Says Will Not Hesitate To Act If Iran Attacks Saudi Arabia](https://www.reddit.com/r/news/comments/yjxxtf/us_says_will_not_hesitate_to_act_if_iran_attacks/)
+- [North Korea missile lands off South Korean coast for first time; South responds with own launches](https://www.reddit.com/r/news/comments/yjv2xq/north_korea_missile_lands_off_south_korean_coast/)
+- [Elon Musk says $8 monthly fee for Twitter blue tick](https://www.reddit.com/r/news/comments/yju7ec/elon_musk_says_8_monthly_fee_for_twitter_blue_tick/)
 <!-- REDDIT:END -->
 
 
