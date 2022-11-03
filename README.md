@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jeff Bezos sued by former housekeeper over working conditions, discrimination by other staff](https://www.reddit.com/r/news/comments/yl9ihk/jeff_bezos_sued_by_former_housekeeper_over/)
+- [&#39;#TrumpIsDead&#39; trends on Twitter as users test Elon Musk&#39;s approach to fake news](https://www.reddit.com/r/news/comments/yl8xmt/trumpisdead_trends_on_twitter_as_users_test_elon/)
+- [Dr. Caitlin Bernard, who provided abortion to 10-year-old rape victim, sues Indiana attorney general](https://www.reddit.com/r/news/comments/yl6u8k/dr_caitlin_bernard_who_provided_abortion_to/)
+- [The 1st ever Election Day Blood Moon lunar eclipse is coming on Nov. 8](https://www.reddit.com/r/news/comments/yl68pi/the_1st_ever_election_day_blood_moon_lunar/)
+- [Kanye West can’t sell ‘White Lives Matter’ shirts because two Black men own the trademark](https://www.reddit.com/r/news/comments/yl5yqy/kanye_west_cant_sell_white_lives_matter_shirts/)
 <!-- REDDIT:END -->
 
 
