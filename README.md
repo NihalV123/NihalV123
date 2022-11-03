@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Powerball jackpot grows to estimated $1.5B after no winner Wednesday](https://www.reddit.com/r/news/comments/ykssrt/powerball_jackpot_grows_to_estimated_15b_after_no/)
+- [Severe depression eased by single dose of synthetic &#39;magic mushroom&#39; | CNN](https://www.reddit.com/r/news/comments/ykrlo0/severe_depression_eased_by_single_dose_of/)
+- [CBS, Moonves must pay $30.5 million for insider trading](https://www.reddit.com/r/news/comments/ykr8ln/cbs_moonves_must_pay_305_million_for_insider/)
+- [Life imprisonment for &#39;stealthing&#39; as SA outlaws non-consensual removal of condom](https://www.reddit.com/r/news/comments/ykpshe/life_imprisonment_for_stealthing_as_sa_outlaws/)
+- [Trump Aide, Granted Immunity, Set to Testify at Grand Jury Probing Mar-a-Lago Documents](https://www.reddit.com/r/news/comments/yknvtb/trump_aide_granted_immunity_set_to_testify_at/)
 <!-- REDDIT:END -->
 
 
