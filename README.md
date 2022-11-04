@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk starts Twitter layoffs - and offices are closed](https://www.reddit.com/r/news/comments/ylx2ol/elon_musk_starts_twitter_layoffs_and_offices_are/)
+- [South Korea scrambles fighter jets after detecting 180 North Korean warplanes, military says](https://www.reddit.com/r/news/comments/yluxc8/south_korea_scrambles_fighter_jets_after/)
+- [Middle School Teacher Arrested for Having Relationship With Student in East Hartford](https://www.reddit.com/r/news/comments/yltvmj/middle_school_teacher_arrested_for_having/)
+- [Former US Marines pilot arrested in Australia after returning from China will fight extradition](https://www.reddit.com/r/news/comments/ylr4bx/former_us_marines_pilot_arrested_in_australia/)
+- [Alex Jones trial moves to punitive damages phase](https://www.reddit.com/r/news/comments/ylqiyx/alex_jones_trial_moves_to_punitive_damages_phase/)
 <!-- REDDIT:END -->
 
 
