@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kanye West Claims He’s Been ‘Beat To A Pulp’ After Losing $1 Billion In Deals](https://www.reddit.com/r/news/comments/ylpdf0/kanye_west_claims_hes_been_beat_to_a_pulp_after/)
+- [Man attempted car attack outside Pentagon and said &quot;I hate America,&quot; court documents say](https://www.reddit.com/r/news/comments/yloat2/man_attempted_car_attack_outside_pentagon_and/)
+- [Couple who bought home metres from 70mph road win battle with council](https://www.reddit.com/r/news/comments/ylnksc/couple_who_bought_home_metres_from_70mph_road_win/)
+- [Twitter to begin layoffs Friday, days after Elon Musk&#39;s $44 billion takeover](https://www.reddit.com/r/news/comments/ylkmtz/twitter_to_begin_layoffs_friday_days_after_elon/)
+- [&#39;They defamed her&#39;: Uvalde educator falsely accused of leaving school door open seeks answers](https://www.reddit.com/r/news/comments/yljr4n/they_defamed_her_uvalde_educator_falsely_accused/)
 <!-- REDDIT:END -->
 
 
