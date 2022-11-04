@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Official: Man who made synagogue threat has been identified](https://www.reddit.com/r/news/comments/ym2aal/official_man_who_made_synagogue_threat_has_been/)
+- [Colorado man arrested for tampering with voting machine](https://www.reddit.com/r/news/comments/ym2a3p/colorado_man_arrested_for_tampering_with_voting/)
+- [A US Air Force flight spent 2 hours drawing a phallic pattern in the air near Russian military facilities](https://www.reddit.com/r/news/comments/ym1skb/a_us_air_force_flight_spent_2_hours_drawing_a/)
+- [Crypto exchange Binance helped Iranian firms trade $8 billion despite sanctions](https://www.reddit.com/r/news/comments/ym1of2/crypto_exchange_binance_helped_iranian_firms/)
+- [Colorado road conditions: 100-car pileup has 6th Avenue closed in both directions](https://www.reddit.com/r/news/comments/ym1lal/colorado_road_conditions_100car_pileup_has_6th/)
 <!-- REDDIT:END -->
 
 
