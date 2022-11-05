@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three men arrested for their roles in multimillion-dollar Midwest meat heist ring](https://www.reddit.com/r/news/comments/ymlgq8/three_men_arrested_for_their_roles_in/)
+- [Antisemitic book from Kyrie Irving scandal a bestseller on Amazon](https://www.reddit.com/r/news/comments/ymhxqm/antisemitic_book_from_kyrie_irving_scandal_a/)
+- [Proud Boys plan to crash ‘fem fest’ ahead of election](https://www.reddit.com/r/news/comments/ymhooz/proud_boys_plan_to_crash_fem_fest_ahead_of/)
+- [Backlash after 500 drones light up New York City sky to celebrate Candy Crush | New York](https://www.reddit.com/r/news/comments/ymh84x/backlash_after_500_drones_light_up_new_york_city/)
+- [A fugitive from New York was arrested after a federal inspector spotted him while on vacation at Walt Disney World](https://www.reddit.com/r/news/comments/ymgup1/a_fugitive_from_new_york_was_arrested_after_a/)
 <!-- REDDIT:END -->
 
 
