@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk Says Twitter is Losing Over $4 Million a Day](https://www.reddit.com/r/news/comments/yn189p/elon_musk_says_twitter_is_losing_over_4_million_a/)
+- [New Orleans priest accused of child rape now under scrutiny for financial crimes](https://www.reddit.com/r/news/comments/yn0olx/new_orleans_priest_accused_of_child_rape_now/)
+- [Climate activists block private jet runway at Schiphol Airport in Amsterdam | CNN](https://www.reddit.com/r/news/comments/yn0e81/climate_activists_block_private_jet_runway_at/)
+- [Terrorist mayor of Hebron offers reward for killing of stray dogs](https://www.reddit.com/r/news/comments/ymywic/terrorist_mayor_of_hebron_offers_reward_for/)
+- [Wells are running dry in drought-weary Southwest as foreign-owned farms guzzle water to feed cattle overseas | CNN](https://www.reddit.com/r/news/comments/ymyrjj/wells_are_running_dry_in_droughtweary_southwest/)
 <!-- REDDIT:END -->
 
 
