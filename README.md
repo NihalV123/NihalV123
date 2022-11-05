@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [N. Korea fires more missiles as US flies bombers over South](https://www.reddit.com/r/news/comments/ymrbhc/n_korea_fires_more_missiles_as_us_flies_bombers/)
+- [U.S. To deploy B-1B strategic bomber to U.S.-South Korea drill Saturday -Yonhap](https://www.reddit.com/r/news/comments/ymo5n5/us_to_deploy_b1b_strategic_bomber_to_ussouth/)
+- [15 killed in Russia cafe blaze after flare gun discharged](https://www.reddit.com/r/news/comments/ymo4nr/15_killed_in_russia_cafe_blaze_after_flare_gun/)
+- [Three men arrested for their roles in multimillion-dollar Midwest meat heist ring](https://www.reddit.com/r/news/comments/ymlgq8/three_men_arrested_for_their_roles_in/)
+- [Antisemitic book from Kyrie Irving scandal a bestseller on Amazon](https://www.reddit.com/r/news/comments/ymhxqm/antisemitic_book_from_kyrie_irving_scandal_a/)
 <!-- REDDIT:END -->
 
 
