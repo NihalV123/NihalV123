@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Activists glue themselves to Goya paintings in Spanish climate protest](https://www.reddit.com/r/news/comments/ynbp3b/activists_glue_themselves_to_goya_paintings_in/)
+- [Four teenagers killed doing ‘TikTok challenge’ before horror car crash](https://www.reddit.com/r/news/comments/ynagl6/four_teenagers_killed_doing_tiktok_challenge/)
+- [Serbs Stage Mass Resignation from Kosovo State Institutions](https://www.reddit.com/r/news/comments/yn9se7/serbs_stage_mass_resignation_from_kosovo_state/)
+- [U.S. privately asks Ukraine to show it’s open to negotiate with Russia](https://www.reddit.com/r/news/comments/yn9qc0/us_privately_asks_ukraine_to_show_its_open_to/)
+- [Climate activists block private jets at Amsterdam&#39;s Schiphol Airport](https://www.reddit.com/r/news/comments/yn997n/climate_activists_block_private_jets_at/)
 <!-- REDDIT:END -->
 
 
