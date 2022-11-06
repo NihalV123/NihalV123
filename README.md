@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Heavy rain in Florida could impact election week as a tropical system heads toward the US](https://www.reddit.com/r/news/comments/ynx2lk/heavy_rain_in_florida_could_impact_election_week/)
+- [Women managers have improved Vatican more than men, pope says](https://www.reddit.com/r/news/comments/ynwz7f/women_managers_have_improved_vatican_more_than/)
+- [Tanzania plane crash death toll jumps to 19: PM](https://www.reddit.com/r/news/comments/ynwveh/tanzania_plane_crash_death_toll_jumps_to_19_pm/)
+- [Commissioner guilty of lying to enter detention facility](https://www.reddit.com/r/news/comments/ynru26/commissioner_guilty_of_lying_to_enter_detention/)
+- [Philadelphia Home Depot workers vote against unionizing, organizers file complaint](https://www.reddit.com/r/news/comments/ynrrky/philadelphia_home_depot_workers_vote_against/)
 <!-- REDDIT:END -->
 
 
