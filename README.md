@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Milwaukee elections worker fired over false ballot requests](https://www.reddit.com/r/news/comments/yo8wj8/milwaukee_elections_worker_fired_over_false/)
+- [Twitter delays $8 &#39;blue check&#39; verification plan until after the midterms | CNN Business](https://www.reddit.com/r/news/comments/yo7i8a/twitter_delays_8_blue_check_verification_plan/)
+- [Twitter asks some laid off workers to come back, Bloomberg reports](https://www.reddit.com/r/news/comments/yo5rlx/twitter_asks_some_laid_off_workers_to_come_back/)
+- [Facebook parent Meta is preparing large-scale layoffs this week, Wall Street Journal reports](https://www.reddit.com/r/news/comments/yo4rhs/facebook_parent_meta_is_preparing_largescale/)
+- [Iran: Fresh protests erupt after death of Kurdish student](https://www.reddit.com/r/news/comments/yo3r90/iran_fresh_protests_erupt_after_death_of_kurdish/)
 <!-- REDDIT:END -->
 
 
