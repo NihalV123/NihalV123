@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado police officers charged with leaving handcuffed woman in car struck by train](https://www.reddit.com/r/news/comments/ypb68p/colorado_police_officers_charged_with_leaving/)
+- [Monday Night’s Historic $1.9 Billion Powerball Drawing Delayed Due to Technical Difficulties](https://www.reddit.com/r/news/comments/ypaxbi/monday_nights_historic_19_billion_powerball/)
+- [AP sources: Justice Dept. watchdog probing US Attorney Rachael Rollins](https://www.reddit.com/r/news/comments/yp9qar/ap_sources_justice_dept_watchdog_probing_us/)
+- [Prosecutors Decide Portland Man Committed No Crime by Killing His Landlord With a Sword](https://www.reddit.com/r/news/comments/yp89t8/prosecutors_decide_portland_man_committed_no/)
+- [After latest failure involving infant&#39;s overdose death, DCFS boss still has no plans to step down](https://www.reddit.com/r/news/comments/yp6xwf/after_latest_failure_involving_infants_overdose/)
 <!-- REDDIT:END -->
 
 
