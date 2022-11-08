@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Billionaires emit a million times more greenhouse gases than the average person: Oxfam](https://www.reddit.com/r/news/comments/ypjaaz/billionaires_emit_a_million_times_more_greenhouse/)
+- [2022 Midterm Elections Megathread &lpar;plus important information&rpar;](https://www.reddit.com/r/news/comments/ypivkd/2022_midterm_elections_megathread_plus_important/)
+- [Full moon will turn an eerie red during the total lunar eclipse | CNN](https://www.reddit.com/r/news/comments/ypindm/full_moon_will_turn_an_eerie_red_during_the_total/)
+- [Theranos founder Holmes denied request for new trial, court filings show](https://www.reddit.com/r/news/comments/ypi5rb/theranos_founder_holmes_denied_request_for_new/)
+- [Denver Archdiocese’s guidance to Catholic schools: Don’t enroll transgender students. Treat gay parents differently.](https://www.reddit.com/r/news/comments/ypcd5r/denver_archdioceses_guidance_to_catholic_schools/)
 <!-- REDDIT:END -->
 
 
