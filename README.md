@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 winner claims record $2.04 billion Powerball jackpot](https://www.reddit.com/r/news/comments/yptv00/1_winner_claims_record_204_billion_powerball/)
+- [Twitter engineer says he was fired for helping coworkers who faced layoffs](https://www.reddit.com/r/news/comments/ypsznc/twitter_engineer_says_he_was_fired_for_helping/)
+- [Russia flew €140m in cash and captured Western weapons to Iran in return for deadly drones, source claims](https://www.reddit.com/r/news/comments/ypseyw/russia_flew_140m_in_cash_and_captured_western/)
+- [State police investigating death at shooting scene outside Beaver County Walmart](https://www.reddit.com/r/news/comments/yps1gi/state_police_investigating_death_at_shooting/)
+- [JetBlue passenger exposes himself mid-flight](https://www.reddit.com/r/news/comments/ypqxfg/jetblue_passenger_exposes_himself_midflight/)
 <!-- REDDIT:END -->
 
 
