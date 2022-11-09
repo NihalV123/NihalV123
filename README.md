@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Blood links parolee, ex-Michigan House candidate with ‘cranking’ fetish to break-in of auto dealership](https://www.reddit.com/r/news/comments/yq34ro/blood_links_parolee_exmichigan_house_candidate/)
+- [Boyfriend arrested in death of 22-year-old woman found dismembered in suitcases at NYC apartment](https://www.reddit.com/r/news/comments/yq24hq/boyfriend_arrested_in_death_of_22yearold_woman/)
+- [A man who flaunted private jets and luxury cars on Instagram gets 11 years in prison for money laundering](https://www.reddit.com/r/news/comments/yq1umn/a_man_who_flaunted_private_jets_and_luxury_cars/)
+- [Tropical Storm Nicole To Strike Florida As A Hurricane With Storm Surge, Winds, Flooding Rain](https://www.reddit.com/r/news/comments/yq1d9u/tropical_storm_nicole_to_strike_florida_as_a/)
+- [Archaeologists Unearth Trove of Viking Age Jewelry in Sweden](https://www.reddit.com/r/news/comments/yq0yf5/archaeologists_unearth_trove_of_viking_age/)
 <!-- REDDIT:END -->
 
 
