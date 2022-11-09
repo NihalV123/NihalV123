@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vermont becomes the 1st state to enshrine abortion rights in its constitution](https://www.reddit.com/r/news/comments/yqhdsa/vermont_becomes_the_1st_state_to_enshrine/)
+- [Facebook and Instagram owner Meta to let more than 11,000 staff go](https://www.reddit.com/r/news/comments/yqg54v/facebook_and_instagram_owner_meta_to_let_more/)
+- [US woman detained by Saudi officials after saying she has been trapped there since 2019](https://www.reddit.com/r/news/comments/yqbwyi/us_woman_detained_by_saudi_officials_after_saying/)
+- [Proposal 3 passes in Michigan, legalizing abortion, ABC News projects](https://www.reddit.com/r/news/comments/yqb97c/proposal_3_passes_in_michigan_legalizing_abortion/)
+- [John Fetterman wins Pennsylvania Senate race, defeating TV doctor Mehmet Oz and flipping key state for Democrats](https://www.reddit.com/r/news/comments/yqa4k8/john_fetterman_wins_pennsylvania_senate_race/)
 <!-- REDDIT:END -->
 
 
