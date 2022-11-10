@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Britain says it has frozen 18 billion pounds worth of Russian assets](https://www.reddit.com/r/news/comments/yrb6dr/britain_says_it_has_frozen_18_billion_pounds/)
+- [Hungary blocks EU plan for €18 billion Ukraine package](https://www.reddit.com/r/news/comments/yr9694/hungary_blocks_eu_plan_for_18_billion_ukraine/)
+- [One dead, others sickened in listeria outbreak linked to deli meat and cheese](https://www.reddit.com/r/news/comments/yr83ox/one_dead_others_sickened_in_listeria_outbreak/)
+- [Twitter battles wave of impersonators after launching new paid verification system](https://www.reddit.com/r/news/comments/yr69kp/twitter_battles_wave_of_impersonators_after/)
+- [Tesla stock hits 2-year low after Musk sells $4 bln worth of shares](https://www.reddit.com/r/news/comments/yr5u26/tesla_stock_hits_2year_low_after_musk_sells_4_bln/)
 <!-- REDDIT:END -->
 
 
