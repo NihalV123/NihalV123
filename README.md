@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prominent Iranian actor removes mandatory headscarf in defiant protest](https://www.reddit.com/r/news/comments/yqytj1/prominent_iranian_actor_removes_mandatory/)
+- [Florida buckles down for direct hit from rare November hurricane](https://www.reddit.com/r/news/comments/yqyod6/florida_buckles_down_for_direct_hit_from_rare/)
+- [Judge rejects Walmart’s request for new trial after firing of employee with Down syndrome](https://www.reddit.com/r/news/comments/yqxfhk/judge_rejects_walmarts_request_for_new_trial/)
+- [University of Kentucky student who repeatedly hurled racist slur at Black student permanently banned from campus | CNN](https://www.reddit.com/r/news/comments/yqwcsn/university_of_kentucky_student_who_repeatedly/)
+- [Sheriff apologizes after legally blind man is arrested when cane is mistaken for a gun](https://www.reddit.com/r/news/comments/yqvgx1/sheriff_apologizes_after_legally_blind_man_is/)
 <!-- REDDIT:END -->
 
 
