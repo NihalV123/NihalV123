@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BBC News - Twitter boss Elon Musk &#39;not above the law&#39;, warns US regulator](https://www.reddit.com/r/news/comments/ys84lo/bbc_news_twitter_boss_elon_musk_not_above_the_law/)
+- [Musk tells Twitter staff remote working will end](https://www.reddit.com/r/news/comments/ys7u6q/musk_tells_twitter_staff_remote_working_will_end/)
+- [More confusion at Twitter as Blue subscription vanishes one day after launch](https://www.reddit.com/r/news/comments/ys7or3/more_confusion_at_twitter_as_blue_subscription/)
+- [Fake Eli Lilly Twitter account falsely claimed insulin &#39;free&#39;](https://www.reddit.com/r/news/comments/ys6pag/fake_eli_lilly_twitter_account_falsely_claimed/)
+- [UK economy shrinks at start of feared long recession](https://www.reddit.com/r/news/comments/ys50z0/uk_economy_shrinks_at_start_of_feared_long/)
 <!-- REDDIT:END -->
 
 
