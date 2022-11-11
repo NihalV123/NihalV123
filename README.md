@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal judge in Texas blocks Biden’s student loan forgiveness plan](https://www.reddit.com/r/news/comments/yrwdm7/federal_judge_in_texas_blocks_bidens_student_loan/)
+- [Ukrainian troops approach outskirts of Kherson after taking key town | Ukraine](https://www.reddit.com/r/news/comments/yru1pk/ukrainian_troops_approach_outskirts_of_kherson/)
+- [Submarine spy couple receives harsher prison sentences after judge rejected plea deals](https://www.reddit.com/r/news/comments/yrs45a/submarine_spy_couple_receives_harsher_prison/)
+- [Vaping company Juul cuts 400 jobs amid growing setbacks](https://www.reddit.com/r/news/comments/yrr3nb/vaping_company_juul_cuts_400_jobs_amid_growing/)
+- [South Carolina Law Enforcement Division reports highest murder rate in state in three decades](https://www.reddit.com/r/news/comments/yrqizi/south_carolina_law_enforcement_division_reports/)
 <!-- REDDIT:END -->
 
 
