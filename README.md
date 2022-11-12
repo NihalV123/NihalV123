@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Food sanitation company accused of employing at least 31 children on graveyard shifts in slaughterhouses](https://www.reddit.com/r/news/comments/ytdxb9/food_sanitation_company_accused_of_employing_at/)
+- [The biggest drop in the number of homeless veterans in over half a decade teeters on pandemic-era as](https://www.reddit.com/r/news/comments/ytavsv/the_biggest_drop_in_the_number_of_homeless/)
+- [LGBTQ-friendly votes signal progressive shift for Methodists](https://www.reddit.com/r/news/comments/yt9b6c/lgbtqfriendly_votes_signal_progressive_shift_for/)
+- [Major ad firm Omnicom recommends clients pause Twitter ad spend](https://www.reddit.com/r/news/comments/yt6fxs/major_ad_firm_omnicom_recommends_clients_pause/)
+- [U.S. seeks 15 years for Elizabeth Holmes over Theranos fraud](https://www.reddit.com/r/news/comments/yt59ku/us_seeks_15_years_for_elizabeth_holmes_over/)
 <!-- REDDIT:END -->
 
 
