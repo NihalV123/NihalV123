@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. seeks 15 years for Elizabeth Holmes over Theranos fraud](https://www.reddit.com/r/news/comments/yt59ku/us_seeks_15_years_for_elizabeth_holmes_over/)
+- [No water, power or internet -- only euphoria in newly liberated Kherson | CNN](https://www.reddit.com/r/news/comments/yt3t2d/no_water_power_or_internet_only_euphoria_in_newly/)
+- [At least $1 billion of client funds missing at failed crypto firm FTX](https://www.reddit.com/r/news/comments/yt1n3x/at_least_1_billion_of_client_funds_missing_at/)
+- [A passenger with a box cutter prompted a Frontier Airlines flight to make an emergency landing in Atlanta, airline says](https://www.reddit.com/r/news/comments/ysy3fw/a_passenger_with_a_box_cutter_prompted_a_frontier/)
+- [Democrat Mark Kelly defeats Trump-backed Blake Masters in Arizona](https://www.reddit.com/r/news/comments/ysv5s3/democrat_mark_kelly_defeats_trumpbacked_blake/)
 <!-- REDDIT:END -->
 
 
