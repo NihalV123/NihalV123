@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 former Pennsylvania officers plead guilty in the shooting of an 8-year-old girl](https://www.reddit.com/r/news/comments/ytzyse/3_former_pennsylvania_officers_plead_guilty_in/)
+- [Nasa’s rocket launch to the moon next week aims to close 50-year-long gap | Nasa](https://www.reddit.com/r/news/comments/ytzo2j/nasas_rocket_launch_to_the_moon_next_week_aims_to/)
+- [Cruise ship with 800 Covid-positive passengers docks in Sydney](https://www.reddit.com/r/news/comments/ytxtkp/cruise_ship_with_800_covidpositive_passengers/)
+- [Man repatriates 19 antiquities after reading Guardian article | Heritage](https://www.reddit.com/r/news/comments/ytx8dz/man_repatriates_19_antiquities_after_reading/)
+- [Cortez Masto defeats Laxalt in Nevada, handing Democrats control of the Senate](https://www.reddit.com/r/news/comments/ytp8wo/cortez_masto_defeats_laxalt_in_nevada_handing/)
 <!-- REDDIT:END -->
 
 
