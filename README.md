@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Baltimore police will be back under local control in the new year](https://www.reddit.com/r/news/comments/yu8tym/baltimore_police_will_be_back_under_local_control/)
+- [6 people injured after driver crashes through street carnival in South Los Angeles, police say](https://www.reddit.com/r/news/comments/yu8cj8/6_people_injured_after_driver_crashes_through/)
+- [Sandy Hook memorial opens nearly 10 years after 26 killed](https://www.reddit.com/r/news/comments/yu7jok/sandy_hook_memorial_opens_nearly_10_years_after/)
+- [Explosion on major Istanbul avenue kills 4; cause unclear](https://www.reddit.com/r/news/comments/yu3xbp/explosion_on_major_istanbul_avenue_kills_4_cause/)
+- [Uncrewed, solar-powered US space plane back after 908 days in orbit](https://www.reddit.com/r/news/comments/yu1x8w/uncrewed_solarpowered_us_space_plane_back_after/)
 <!-- REDDIT:END -->
 
 
