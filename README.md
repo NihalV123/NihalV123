@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A manhunt is underway for a student after 3 people shot dead and 2 wounded at the University of Virginia](https://www.reddit.com/r/news/comments/yuxqiz/a_manhunt_is_underway_for_a_student_after_3/)
+- [Exclusive: Russian software disguised as American finds its way into U.S. Army, CDC apps](https://www.reddit.com/r/news/comments/yux5b3/exclusive_russian_software_disguised_as_american/)
+- [Shooting at University of Virginia leaves 3 dead, 2 wounded](https://www.reddit.com/r/news/comments/yuww0x/shooting_at_university_of_virginia_leaves_3_dead/)
+- [Exclusive: Jeff Bezos says he will give most of his money to charity | CNN Business](https://www.reddit.com/r/news/comments/yuwhmc/exclusive_jeff_bezos_says_he_will_give_most_of/)
+- [Hundreds of thousands protest in Madrid against cuts to public health](https://www.reddit.com/r/news/comments/yuw3fw/hundreds_of_thousands_protest_in_madrid_against/)
 <!-- REDDIT:END -->
 
 
