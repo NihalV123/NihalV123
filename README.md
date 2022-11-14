@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Crude emails reveal nasty side of a California beach city’s crusade to halt growth](https://www.reddit.com/r/news/comments/yv71s2/crude_emails_reveal_nasty_side_of_a_california/)
+- [“Female prisoners who are virgins must be raped before execution, to prevent them from entering heaven.”](https://www.reddit.com/r/news/comments/yv714j/female_prisoners_who_are_virgins_must_be_raped/)
+- [Farmington duo face charges after dog having seizures turned in to shelter: Investigators say they wanted to avoid vet bills](https://www.reddit.com/r/news/comments/yv4ylv/farmington_duo_face_charges_after_dog_having/)
+- [In largest strike of 2022, California academic workers walk off job](https://www.reddit.com/r/news/comments/yv4yac/in_largest_strike_of_2022_california_academic/)
+- [Amazon reportedly plans to lay off about 10,000 employees starting this week](https://www.reddit.com/r/news/comments/yv4k1q/amazon_reportedly_plans_to_lay_off_about_10000/)
 <!-- REDDIT:END -->
 
 
