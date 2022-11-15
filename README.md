@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Zelenskyy: Battle for Kherson was D-Day-like watershed](https://www.reddit.com/r/news/comments/yvudpa/zelenskyy_battle_for_kherson_was_ddaylike/)
+- [G-20 to hold tough on Russia, urge end to Ukraine war](https://www.reddit.com/r/news/comments/yvti93/g20_to_hold_tough_on_russia_urge_end_to_ukraine/)
+- [Navy, Coast Guard stop ship with 180 tons of Iranian explosive materials](https://www.reddit.com/r/news/comments/yvsp9x/navy_coast_guard_stop_ship_with_180_tons_of/)
+- [Lost dog Rosie hands herself into police station | ITV News](https://www.reddit.com/r/news/comments/yvsfx1/lost_dog_rosie_hands_herself_into_police_station/)
+- [Ukrainian soldier tearfully reunites with grandmother after Kherson is liberated](https://www.reddit.com/r/news/comments/yvrmlz/ukrainian_soldier_tearfully_reunites_with/)
 <!-- REDDIT:END -->
 
 
