@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Today, the world’s population reaches 8 billion.](https://www.reddit.com/r/news/comments/yvo1kd/today_the_worlds_population_reaches_8_billion/)
+- [Grand Jury Declines to Indict Rudy Giuliani re Ukraine](https://www.reddit.com/r/news/comments/yvmkrc/grand_jury_declines_to_indict_rudy_giuliani_re/)
+- [Family of 10-year-old accused of groping school employee wants apology, counselor fired](https://www.reddit.com/r/news/comments/yvm5cq/family_of_10yearold_accused_of_groping_school/)
+- [Exclusive: New audio of phone call shows for the first time that a senior Uvalde officer was told children needed to be rescued from inside a classroom | CNN](https://www.reddit.com/r/news/comments/yvltu5/exclusive_new_audio_of_phone_call_shows_for_the/)
+- [Germany in secret talks to buy Iranian oil amid sanctions](https://www.reddit.com/r/news/comments/yvkz20/germany_in_secret_talks_to_buy_iranian_oil_amid/)
 <!-- REDDIT:END -->
 
 
