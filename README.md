@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vandalism leads to 40,000 escaped mink in Van Wert Co.](https://www.reddit.com/r/news/comments/yw4527/vandalism_leads_to_40000_escaped_mink_in_van_wert/)
+- [Voters in Oregon pass health care measure](https://www.reddit.com/r/news/comments/yw428a/voters_in_oregon_pass_health_care_measure/)
+- [Halifax woman waits nearly 3 hours for ambulance after rock climbing fall - Halifax | Globalnews.ca](https://www.reddit.com/r/news/comments/yw26uu/halifax_woman_waits_nearly_3_hours_for_ambulance/)
+- [Inflation is cooling, and Wall Street loves it](https://www.reddit.com/r/news/comments/yw1vyy/inflation_is_cooling_and_wall_street_loves_it/)
+- [World population reaches 8 billion](https://www.reddit.com/r/news/comments/yw0hf8/world_population_reaches_8_billion/)
 <!-- REDDIT:END -->
 
 
