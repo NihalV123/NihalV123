@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Balances on Credit Cards, Personal Loans Hit Record Highs](https://www.reddit.com/r/news/comments/yvi9nb/balances_on_credit_cards_personal_loans_hit/)
+- [Arrest made in Conection with Missing Idaho Boy Micheal Joseph Vaughan](https://www.reddit.com/r/news/comments/yvi7e0/arrest_made_in_conection_with_missing_idaho_boy/)
+- [Retired detective and Kansas City drug kingpin charged with conspiring to run an underage sex-trafficking operation](https://www.reddit.com/r/news/comments/yvhoyw/retired_detective_and_kansas_city_drug_kingpin/)
+- [Israel will not cooperate with FBI inquiry into killing of Palestinian American journalist | Israel](https://www.reddit.com/r/news/comments/yvfich/israel_will_not_cooperate_with_fbi_inquiry_into/)
+- [Banksy confirms seven new murals in Ukraine](https://www.reddit.com/r/news/comments/yveq2b/banksy_confirms_seven_new_murals_in_ukraine/)
 <!-- REDDIT:END -->
 
 
