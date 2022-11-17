@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fentanyl shortage causing EMS to use other pain management drugs](https://www.reddit.com/r/news/comments/yxmhff/fentanyl_shortage_causing_ems_to_use_other_pain/)
+- [Moms for Liberty-backed school board members fire superintendent, ban critical race theory](https://www.reddit.com/r/news/comments/yxjier/moms_for_libertybacked_school_board_members_fire/)
+- [Kevin Spacey facing seven new sex charges](https://www.reddit.com/r/news/comments/yxiafb/kevin_spacey_facing_seven_new_sex_charges/)
+- [Tesla board member says Elon Musk identified potential successor as CEO](https://www.reddit.com/r/news/comments/yxd7ov/tesla_board_member_says_elon_musk_identified/)
+- [Toddler starved at home after father, 59, died in New York apartment, officials say](https://www.reddit.com/r/news/comments/yxd1u6/toddler_starved_at_home_after_father_59_died_in/)
 <!-- REDDIT:END -->
 
 
