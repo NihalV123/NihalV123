@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutors: HOA board members stole millions from residents](https://www.reddit.com/r/news/comments/yyhjdn/prosecutors_hoa_board_members_stole_millions_from/)
+- [World Cup organizers to ban alcoholic beer sales at stadiums](https://www.reddit.com/r/news/comments/yygulm/world_cup_organizers_to_ban_alcoholic_beer_sales/)
+- [US declares lab-grown meat safe to eat in ‘groundbreaking’ move](https://www.reddit.com/r/news/comments/yyeit6/us_declares_labgrown_meat_safe_to_eat_in/)
+- [Game-changing type 1 diabetes drug approved in US](https://www.reddit.com/r/news/comments/yydflh/gamechanging_type_1_diabetes_drug_approved_in_us/)
+- [North Korea test-fires ICBM with range to strike entire US](https://www.reddit.com/r/news/comments/yyd5ms/north_korea_testfires_icbm_with_range_to_strike/)
 <!-- REDDIT:END -->
 
 
