@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter Closes All Of Its Office Buildings as Employees Resign En Masse](https://www.reddit.com/r/news/comments/yy6jgl/twitter_closes_all_of_its_office_buildings_as/)
+- [Texas laws allow teachers to carry guns on school grounds with little regulation](https://www.reddit.com/r/news/comments/yy4tix/texas_laws_allow_teachers_to_carry_guns_on_school/)
+- [Amazon CEO Andy Jassy says layoffs will continue into next year](https://www.reddit.com/r/news/comments/yy3ip8/amazon_ceo_andy_jassy_says_layoffs_will_continue/)
+- [&quot;Positively Dystopian&quot;: Federal Judge Blocks Florida Stop WOKE Act](https://www.reddit.com/r/news/comments/yy2jr9/positively_dystopian_federal_judge_blocks_florida/)
+- [Worst fall in UK living standards since records began, says OBR.](https://www.reddit.com/r/news/comments/yy1oe7/worst_fall_in_uk_living_standards_since_records/)
 <!-- REDDIT:END -->
 
 
