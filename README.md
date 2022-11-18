@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vaccine shown to prolong life of patients with aggressive brain cancer](https://www.reddit.com/r/news/comments/yya7h4/vaccine_shown_to_prolong_life_of_patients_with/)
+- [Woman loses eye defending special needs teen from bullying](https://www.reddit.com/r/news/comments/yy9web/woman_loses_eye_defending_special_needs_teen_from/)
+- [FBI director ‘very concerned’ by reports of secret Chinese police stations in US](https://www.reddit.com/r/news/comments/yy8eer/fbi_director_very_concerned_by_reports_of_secret/)
+- [Twitter closes offices until Monday as employees quit in droves](https://www.reddit.com/r/news/comments/yy7y2a/twitter_closes_offices_until_monday_as_employees/)
+- [FTX suggests Sam Bankman-Fried transferred assets to Bahamas government custody after bankruptcy: Filing](https://www.reddit.com/r/news/comments/yy7eot/ftx_suggests_sam_bankmanfried_transferred_assets/)
 <!-- REDDIT:END -->
 
 
