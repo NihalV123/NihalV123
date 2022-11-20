@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Black-naped pheasant-pigeon sighted in PNG for first time in 140 years](https://www.reddit.com/r/news/comments/yztc9x/blacknaped_pheasantpigeon_sighted_in_png_for/)
+- [Visa backlogs force Canadians to cancel trips to India](https://www.reddit.com/r/news/comments/yztc26/visa_backlogs_force_canadians_to_cancel_trips_to/)
+- [Musk reinstates Trump&#39;s suspended Twitter account following poll](https://www.reddit.com/r/news/comments/yzryfm/musk_reinstates_trumps_suspended_twitter_account/)
+- [Driver suspected of injuring Los Angeles area police recruits released from jail as sheriff says investigators believe he acted intentionally | CNN](https://www.reddit.com/r/news/comments/yzrjdl/driver_suspected_of_injuring_los_angeles_area/)
+- [Massive sinkhole threatens to swallow West Virginia police department | CNN](https://www.reddit.com/r/news/comments/yzqu36/massive_sinkhole_threatens_to_swallow_west/)
 <!-- REDDIT:END -->
 
 
