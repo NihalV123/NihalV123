@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jason David Frank, The White Power Ranger, dead at 49.](https://www.reddit.com/r/news/comments/z09ztw/jason_david_frank_the_white_power_ranger_dead_at/)
+- [Club Q Colorado shooting: Suspect named after five killed in attack at nightclub](https://www.reddit.com/r/news/comments/z09p5v/club_q_colorado_shooting_suspect_named_after_five/)
+- [Latest search for Tulsa Race Massacre victims comes to end](https://www.reddit.com/r/news/comments/z042vg/latest_search_for_tulsa_race_massacre_victims/)
+- [BMW Recalls X5 and X7 Due to Short Circuit Risk](https://www.reddit.com/r/news/comments/z03swk/bmw_recalls_x5_and_x7_due_to_short_circuit_risk/)
+- [Prosecutors: Reduced sentence, prison time for Gaetz friend](https://www.reddit.com/r/news/comments/z03mgr/prosecutors_reduced_sentence_prison_time_for/)
 <!-- REDDIT:END -->
 
 
