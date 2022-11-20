@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rival parties warn North Korea&#39;s continued provocations could lead to regime&#39;s collapse](https://www.reddit.com/r/news/comments/z01o2v/rival_parties_warn_north_koreas_continued/)
+- [Multiple people shot overnight near Colorado Springs nightclub](https://www.reddit.com/r/news/comments/z00ghs/multiple_people_shot_overnight_near_colorado/)
+- [China announces 1st COVID-19 death in almost 6 months](https://www.reddit.com/r/news/comments/yzzhcq/china_announces_1st_covid19_death_in_almost_6/)
+- [Law School Accrediting Panel Votes to Make LSAT Optional](https://www.reddit.com/r/news/comments/yzydu3/law_school_accrediting_panel_votes_to_make_lsat/)
+- [Potomac River Rapist suspect found dead in DC jail cell](https://www.reddit.com/r/news/comments/yzxkx2/potomac_river_rapist_suspect_found_dead_in_dc/)
 <!-- REDDIT:END -->
 
 
