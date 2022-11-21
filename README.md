@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supernatural Star Nicki Aycox Dies at 47](https://www.reddit.com/r/news/comments/z0koem/supernatural_star_nicki_aycox_dies_at_47/)
+- [Former Miami city manager testifies that the city was &#39;targeting&#39; certain Little Havana businesses](https://www.reddit.com/r/news/comments/z0i7zh/former_miami_city_manager_testifies_that_the_city/)
+- [Reality TV stars Todd and Julie Chrisley to be sentenced](https://www.reddit.com/r/news/comments/z0hrg5/reality_tv_stars_todd_and_julie_chrisley_to_be/)
+- [Area 51 blogger Joerg Arnu accuses authorities of sending &#39;a message to silence&#39; as his homes are raided by FBI and air force agents](https://www.reddit.com/r/news/comments/z0hfnt/area_51_blogger_joerg_arnu_accuses_authorities_of/)
+- [Charges dropped against deputy after 2 died in flooded van](https://www.reddit.com/r/news/comments/z0gn03/charges_dropped_against_deputy_after_2_died_in/)
 <!-- REDDIT:END -->
 
 
