@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk says Twitter is &#39;holding off&#39; restarting paid verification over impersonation concerns](https://www.reddit.com/r/news/comments/z1rase/elon_musk_says_twitter_is_holding_off_restarting/)
+- [Exclusive: Bankman-Fried&#39;s FTX, parents bought Bahamas property worth $121 million](https://www.reddit.com/r/news/comments/z1r3po/exclusive_bankmanfrieds_ftx_parents_bought/)
+- [Club Q shooting suspect’s troubled past was obscured by a name change, records show](https://www.reddit.com/r/news/comments/z1nt1b/club_q_shooting_suspects_troubled_past_was/)
+- [Brett Favre helped an experimental drug maker get $2M in welfare money. Experts doubt the drug can work.](https://www.reddit.com/r/news/comments/z1mxa8/brett_favre_helped_an_experimental_drug_maker_get/)
+- [Jay Leno: Comedian released from hospital after being burned in fire](https://www.reddit.com/r/news/comments/z1kize/jay_leno_comedian_released_from_hospital_after/)
 <!-- REDDIT:END -->
 
 
