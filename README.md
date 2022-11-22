@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NY approves first 36 cannabis dispensary licenses.](https://www.reddit.com/r/news/comments/z1fcgh/ny_approves_first_36_cannabis_dispensary_licenses/)
+- [Reality TV star Todd Chrisley sentenced to 12 years for bank fraud and tax evasion](https://www.reddit.com/r/news/comments/z1ezmv/reality_tv_star_todd_chrisley_sentenced_to_12/)
+- [Iran Protests: Covert testimonies reveal sexual assaults on male and female activists as a women-led uprising spreads](https://www.reddit.com/r/news/comments/z1e14u/iran_protests_covert_testimonies_reveal_sexual/)
+- [Families of migrant workers who died in Qatar are waiting for answers](https://www.reddit.com/r/news/comments/z1dxl9/families_of_migrant_workers_who_died_in_qatar_are/)
+- [4 dead, 1 injured after a reported hostage situation, Oklahoma officials say](https://www.reddit.com/r/news/comments/z1di9q/4_dead_1_injured_after_a_reported_hostage/)
 <!-- REDDIT:END -->
 
 
