@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Army combat Vet takes down Colorado shooter](https://www.reddit.com/r/news/comments/z1l79y/army_combat_vet_takes_down_colorado_shooter/)
+- [Jay Leno: Comedian released from hospital after being burned in fire](https://www.reddit.com/r/news/comments/z1kize/jay_leno_comedian_released_from_hospital_after/)
+- [Magnitude 7.3 earthquake hits Solomon Islands - USGS](https://www.reddit.com/r/news/comments/z1icrm/magnitude_73_earthquake_hits_solomon_islands_usgs/)
+- [Village in French Alps demolishes its ski lift because there&#39;s no snow left](https://www.reddit.com/r/news/comments/z1hao9/village_in_french_alps_demolishes_its_ski_lift/)
+- [Expect more fungal infections as their ranges expand, experts warn](https://www.reddit.com/r/news/comments/z1fvm7/expect_more_fungal_infections_as_their_ranges/)
 <!-- REDDIT:END -->
 
 
