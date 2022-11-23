@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Huge Foxconn iPhone plant in China rocked by fresh worker unrest](https://www.reddit.com/r/news/comments/z2n03j/huge_foxconn_iphone_plant_in_china_rocked_by/)
+- [Bolsonaro contests Brazil election loss, wants votes voided](https://www.reddit.com/r/news/comments/z2itdj/bolsonaro_contests_brazil_election_loss_wants/)
+- [Man arrested after 4 Chinese nationals were &#39;executed&#39; at Oklahoma pot farm, officials say](https://www.reddit.com/r/news/comments/z2g087/man_arrested_after_4_chinese_nationals_were/)
+- [Multiple fatalities and injuries reported in shooting at a Virginia Walmart](https://www.reddit.com/r/news/comments/z2freb/multiple_fatalities_and_injuries_reported_in/)
+- [6 shot, 11-year-old killed during Wisconsin&#39;s gun-deer season opening weekend](https://www.reddit.com/r/news/comments/z2fpwx/6_shot_11yearold_killed_during_wisconsins_gundeer/)
 <!-- REDDIT:END -->
 
 
