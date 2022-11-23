@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 White Georgia jail guards arrested in violent assault of Black inmate](https://www.reddit.com/r/news/comments/z2aiyk/3_white_georgia_jail_guards_arrested_in_violent/)
+- [Maryland AG’s investigation of ‘pervasive’ Catholic Church abuse documents 158 priests, more than 600 victims](https://www.reddit.com/r/news/comments/z29x1x/maryland_ags_investigation_of_pervasive_catholic/)
+- [Fauci gives final briefing after 50 years in government](https://www.reddit.com/r/news/comments/z28hr4/fauci_gives_final_briefing_after_50_years_in/)
+- [Argument over social media post leads to woman shooting at car with kids inside](https://www.reddit.com/r/news/comments/z28bqi/argument_over_social_media_post_leads_to_woman/)
+- [Iran starts enriching uranium to 60% purity at Fordow plant](https://www.reddit.com/r/news/comments/z27dl8/iran_starts_enriching_uranium_to_60_purity_at/)
 <!-- REDDIT:END -->
 
 
