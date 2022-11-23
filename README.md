@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York governor signs first-of-its-kind law cracking down on bitcoin mining — here’s everything that’s in it](https://www.reddit.com/r/news/comments/z2tovg/new_york_governor_signs_firstofitskind_law/)
+- [U.S. Renewable Energy Will Surge Past Coal and Nuclear by Year&#39;s End. Wind, solar and hydropower will generate more than 20 percent of the power supply](https://www.reddit.com/r/news/comments/z2tj5i/us_renewable_energy_will_surge_past_coal_and/)
+- [Germany cover mouths and wear rainbows on kit in World Cup protest](https://www.reddit.com/r/news/comments/z2t8mb/germany_cover_mouths_and_wear_rainbows_on_kit_in/)
+- [European Parliament declares Russia a state sponsor of terrorism](https://www.reddit.com/r/news/comments/z2rhfo/european_parliament_declares_russia_a_state/)
+- [Elon Musk Loses $100 Billion in Net Worth as Tesla Stock Prices Plummet](https://www.reddit.com/r/news/comments/z2r5oi/elon_musk_loses_100_billion_in_net_worth_as_tesla/)
 <!-- REDDIT:END -->
 
 
