@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shanquella Robinson death: Arrest warrant issued for femicide, prosecutor says](https://www.reddit.com/r/news/comments/z3alqk/shanquella_robinson_death_arrest_warrant_issued/)
+- [$740 million in crypto assets recovered in FTX bankruptcy](https://www.reddit.com/r/news/comments/z39n1a/740_million_in_crypto_assets_recovered_in_ftx/)
+- [&#39;It&#39;s a disaster.&#39; Drought dramatically shrinking California farmland, costing $1.7 billion](https://www.reddit.com/r/news/comments/z39mzz/its_a_disaster_drought_dramatically_shrinking/)
+- [Democrat Mary Peltola defeats Sarah Palin in race for Alaska&#39;s at-large House seat](https://www.reddit.com/r/news/comments/z38ive/democrat_mary_peltola_defeats_sarah_palin_in_race/)
+- [Police say 4 shot, including 3 teenagers, in Maryland strip mall parking lot](https://www.reddit.com/r/news/comments/z3830h/police_say_4_shot_including_3_teenagers_in/)
 <!-- REDDIT:END -->
 
 
