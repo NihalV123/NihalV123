@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China regulator says Tesla recalls more than 80,000 cars](https://www.reddit.com/r/news/comments/z44wlx/china_regulator_says_tesla_recalls_more_than/)
+- [San Francisco police propose using robots capable of ‘deadly force’](https://www.reddit.com/r/news/comments/z449bz/san_francisco_police_propose_using_robots_capable/)
+- [Mercedes-Benz to introduce acceleration subscription fee](https://www.reddit.com/r/news/comments/z42je1/mercedesbenz_to_introduce_acceleration/)
+- [Ghana plans to buy oil with gold instead of U.S. dollars](https://www.reddit.com/r/news/comments/z41z6t/ghana_plans_to_buy_oil_with_gold_instead_of_us/)
+- [Adidas launches probe into misconduct allegations against Kanye West](https://www.reddit.com/r/news/comments/z41t3n/adidas_launches_probe_into_misconduct_allegations/)
 <!-- REDDIT:END -->
 
 
