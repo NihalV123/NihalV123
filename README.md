@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After decades as a nuclear powerhouse, France makes its play in offshore wind](https://www.reddit.com/r/news/comments/z5cjn9/after_decades_as_a_nuclear_powerhouse_france/)
+- [Maryland AG investigation identifies over 150 priests accused of abuse in Baltimore Archdiocese](https://www.reddit.com/r/news/comments/z5cd9e/maryland_ag_investigation_identifies_over_150/)
+- [Missouri 19-year-old can&#39;t watch her father&#39;s execution, judge rules](https://www.reddit.com/r/news/comments/z5c7ci/missouri_19yearold_cant_watch_her_fathers/)
+- [Irene Cara, &#39;80s pop star behind &#39;Fame&#39; and &#39;Flashdance&#39; theme songs, dies at 63 | CNN](https://www.reddit.com/r/news/comments/z5b899/irene_cara_80s_pop_star_behind_fame_and/)
+- [New state voter fraud units finding few cases from midterms](https://www.reddit.com/r/news/comments/z5b5iv/new_state_voter_fraud_units_finding_few_cases/)
 <!-- REDDIT:END -->
 
 
