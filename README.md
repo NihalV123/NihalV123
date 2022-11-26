@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Emperor Charles V&#39;s secret code cracked after five centuries | Spain](https://www.reddit.com/r/news/comments/z4y9e1/emperor_charles_vs_secret_code_cracked_after_five/)
+- [Man yells antisemitic statements, does Nazi salute at Seattle airport](https://www.reddit.com/r/news/comments/z4xvfj/man_yells_antisemitic_statements_does_nazi_salute/)
+- [Mohammed bin Salman gifts each Saudi Arabia player a Rolls-Royce for the win over Argentina](https://www.reddit.com/r/news/comments/z4x893/mohammed_bin_salman_gifts_each_saudi_arabia/)
+- [Hiking trip turns fatal in Utah national park as woman dies and her husband is rescued with symptoms of hypothermia, officials say](https://www.reddit.com/r/news/comments/z4uz30/hiking_trip_turns_fatal_in_utah_national_park_as/)
+- [French President Emmanuel Macron to visit New Orleans Dec. 2, a first since 1976](https://www.reddit.com/r/news/comments/z4tmnr/french_president_emmanuel_macron_to_visit_new/)
 <!-- REDDIT:END -->
 
 
