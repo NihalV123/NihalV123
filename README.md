@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beijing grinds to a near halt as China’s capital city battles Covid with more lockdowns - CNBC](https://www.reddit.com/r/news/comments/z4rwyd/beijing_grinds_to_a_near_halt_as_chinas_capital/)
+- [Anti-Haitian Decree Goes into Effect in Dominican Republic](https://www.reddit.com/r/news/comments/z4rt90/antihaitian_decree_goes_into_effect_in_dominican/)
+- [Abandoned Greek airport to be transformed into a 600-acre coastal park](https://www.reddit.com/r/news/comments/z4rb7w/abandoned_greek_airport_to_be_transformed_into_a/)
+- [Report provides more detailed account of a Myanmar junta helicopter attack on school that left at least six children dead](https://www.reddit.com/r/news/comments/z4qdzc/report_provides_more_detailed_account_of_a/)
+- [Twitter has lost 50 of its top 100 advertisers since Elon Musk took over, report says](https://www.reddit.com/r/news/comments/z4q5oi/twitter_has_lost_50_of_its_top_100_advertisers/)
 <!-- REDDIT:END -->
 
 
