@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New state voter fraud units finding few cases from midterms](https://www.reddit.com/r/news/comments/z5ymti/new_state_voter_fraud_units_finding_few_cases/)
+- [Russia-Ukraine war live: civilians flee russian shelling of Kherson; Belarus foreign minister dies ‘suddenly’ | Ukraine](https://www.reddit.com/r/news/comments/z5xozi/russiaukraine_war_live_civilians_flee_russian/)
+- [2 injured in a drive-by shooting after a funeral service at a Nashville church](https://www.reddit.com/r/news/comments/z5x9z5/2_injured_in_a_driveby_shooting_after_a_funeral/)
+- [1 dead, 5 injured in shooting near popular Atlanta shopping center](https://www.reddit.com/r/news/comments/z5vm3b/1_dead_5_injured_in_shooting_near_popular_atlanta/)
+- [S.Korea&#39;s new COVID-19 cases in 50,000 range amid winter resurgence worries](https://www.reddit.com/r/news/comments/z5srnc/skoreas_new_covid19_cases_in_50000_range_amid/)
 <!-- REDDIT:END -->
 
 
