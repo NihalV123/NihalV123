@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kim Jong Un says North Korea aims to have the world&amp;#x27;s strongest nuclear force](https://www.reddit.com/r/news/comments/z65f8j/kim_jong_un_says_north_korea_aims_to_have_the/)
+- [Niece of Iran&#39;s Supreme Leader urges world to cut ties with Tehran over unrest](https://www.reddit.com/r/news/comments/z6537z/niece_of_irans_supreme_leader_urges_world_to_cut/)
+- [Army veteran who took down the Colorado nightclub shooter thanks the community for its support a week after the attack](https://www.reddit.com/r/news/comments/z63kv2/army_veteran_who_took_down_the_colorado_nightclub/)
+- [Workers at Amazon’s largest air hub in the world push to form a union](https://www.reddit.com/r/news/comments/z62s59/workers_at_amazons_largest_air_hub_in_the_world/)
+- [At World Cup, US soccer scrubs Islamic emblem from Iran flag](https://www.reddit.com/r/news/comments/z5z7mq/at_world_cup_us_soccer_scrubs_islamic_emblem_from/)
 <!-- REDDIT:END -->
 
 
