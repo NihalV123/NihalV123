@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [S.Korea&#39;s new COVID-19 cases in 50,000 range amid winter resurgence worries](https://www.reddit.com/r/news/comments/z5srnc/skoreas_new_covid19_cases_in_50000_range_amid/)
+- [Shanghai hit by COVID protests as anger spreads across China - Reuters](https://www.reddit.com/r/news/comments/z5pq2g/shanghai_hit_by_covid_protests_as_anger_spreads/)
+- [Drive-by shooting injures 2 at funeral at Nashville church | AP News](https://www.reddit.com/r/news/comments/z5o8y0/driveby_shooting_injures_2_at_funeral_at/)
+- [U.S. issues expanded license to allow Chevron to import Venezuelan oil - CNBC](https://www.reddit.com/r/news/comments/z5o19f/us_issues_expanded_license_to_allow_chevron_to/)
+- [‘Outrageous’: Hawaii man files suit over alleged wrongful eviction during pandemic](https://www.reddit.com/r/news/comments/z5nwzt/outrageous_hawaii_man_files_suit_over_alleged/)
 <!-- REDDIT:END -->
 
 
