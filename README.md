@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran complain to Fifa over flag change post by US](https://www.reddit.com/r/news/comments/z6o8xs/iran_complain_to_fifa_over_flag_change_post_by_us/)
+- [Yandex plans to break up with its Russian motherland](https://www.reddit.com/r/news/comments/z6n3ut/yandex_plans_to_break_up_with_its_russian/)
+- [Another tech bubble bursts: 2022 has been brutal for Silicon Valley workers](https://www.reddit.com/r/news/comments/z6k5nr/another_tech_bubble_bursts_2022_has_been_brutal/)
+- [McDonald’s employees help deliver baby in restaurant bathroom](https://www.reddit.com/r/news/comments/z6iyax/mcdonalds_employees_help_deliver_baby_in/)
+- [Small plane caught in power lines after crash, passengers OK](https://www.reddit.com/r/news/comments/z6in25/small_plane_caught_in_power_lines_after_crash/)
 <!-- REDDIT:END -->
 
 
