@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Puerto Rican towns sue Big Oil under RICO alleging collusion on climate denial](https://www.reddit.com/r/news/comments/z7j3ja/puerto_rican_towns_sue_big_oil_under_rico/)
+- [A Florida woman is suing Kraft for $5 million, saying Velveeta microwave mac and cheese takes longer to make than advertised | CNN Business](https://www.reddit.com/r/news/comments/z7j3ih/a_florida_woman_is_suing_kraft_for_5_million/)
+- [China appears to be censoring maskless fans in World Cup broadcasts](https://www.reddit.com/r/news/comments/z7hhqu/china_appears_to_be_censoring_maskless_fans_in/)
+- [Kentucky man dies in wood chipper accident](https://www.reddit.com/r/news/comments/z7gx6a/kentucky_man_dies_in_wood_chipper_accident/)
+- [Lawsuit alleges billionaire investor Leon Black raped a woman inside Jeffrey Epstein&#39;s home | CNN Business](https://www.reddit.com/r/news/comments/z7fnmr/lawsuit_alleges_billionaire_investor_leon_black/)
 <!-- REDDIT:END -->
 
 
