@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Mind control&#39; by parasites influences wolf-pack dynamics in Yellowstone National Park | CNN](https://www.reddit.com/r/news/comments/z8wrei/mind_control_by_parasites_influences_wolfpack/)
+- [Pastors say Johnny Hunt, former SBC president accused of abuse, can return to ministry](https://www.reddit.com/r/news/comments/z8w78o/pastors_say_johnny_hunt_former_sbc_president/)
+- [Connecticut socialite sentenced to year in jail for secretly filming 3 people, including a minor](https://www.reddit.com/r/news/comments/z8u067/connecticut_socialite_sentenced_to_year_in_jail/)
+- [Reports of active shooter at Savannah High determined to be a hoax: Here&#39;s what we know](https://www.reddit.com/r/news/comments/z8ttva/reports_of_active_shooter_at_savannah_high/)
+- [Eric Adams: New York City to begin hospitalizing mentally ill people involuntarily](https://www.reddit.com/r/news/comments/z8svce/eric_adams_new_york_city_to_begin_hospitalizing/)
 <!-- REDDIT:END -->
 
 
