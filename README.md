@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [University of Idaho student slayings may not have been a targeted attack, police say, walking back their prior statement](https://www.reddit.com/r/news/comments/z9tdas/university_of_idaho_student_slayings_may_not_have/)
+- [Officials fear ‘complete doomsday scenario’ for drought-stricken Colorado River](https://www.reddit.com/r/news/comments/z9ry1b/officials_fear_complete_doomsday_scenario_for/)
+- [Fox CEO Lachlan Murdoch to face questioning as part of Dominion Voting’s $1.6 billion lawsuit](https://www.reddit.com/r/news/comments/z9ru5s/fox_ceo_lachlan_murdoch_to_face_questioning_as/)
+- [&quot;I didn&#39;t ever try to commit fraud on anyone&quot; FTX founder Sam Bankman-Fried says](https://www.reddit.com/r/news/comments/z9r38p/i_didnt_ever_try_to_commit_fraud_on_anyone_ftx/)
+- [Whereabouts of notorious drug lord nicknamed &quot;La Barbie&quot; unknown as Mexico presses U.S. for answers](https://www.reddit.com/r/news/comments/z9q9nc/whereabouts_of_notorious_drug_lord_nicknamed_la/)
 <!-- REDDIT:END -->
 
 
