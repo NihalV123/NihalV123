@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter has &#39;huge work ahead&#39;, EU&#39;s Breton tells Musk](https://www.reddit.com/r/news/comments/z9et47/twitter_has_huge_work_ahead_eus_breton_tells_musk/)
+- [TikTok to ban videos that encourage sunburn and tanning after alarm from medical experts](https://www.reddit.com/r/news/comments/z9do16/tiktok_to_ban_videos_that_encourage_sunburn_and/)
+- [Man who punched Asian woman more than 100 times sentenced to 17.5 years in prison](https://www.reddit.com/r/news/comments/z9a5kx/man_who_punched_asian_woman_more_than_100_times/)
+- [Homeland Security warns about domestic extremists praising Colorado Springs suspect](https://www.reddit.com/r/news/comments/z99pxb/homeland_security_warns_about_domestic_extremists/)
+- [FDA clears 1st fecal transplant treatment for gut infection](https://www.reddit.com/r/news/comments/z98k90/fda_clears_1st_fecal_transplant_treatment_for_gut/)
 <!-- REDDIT:END -->
 
 
