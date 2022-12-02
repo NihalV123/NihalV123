@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rapper Ye is no longer buying right-wing social app Parler](https://www.reddit.com/r/news/comments/za4t45/rapper_ye_is_no_longer_buying_rightwing_social/)
+- [Appeals court strikes down special master in Trump Mar-a-Lago documents case](https://www.reddit.com/r/news/comments/za2ogn/appeals_court_strikes_down_special_master_in/)
+- [Gaetz friend gets 11 years for sex crime, other counts](https://www.reddit.com/r/news/comments/za13hk/gaetz_friend_gets_11_years_for_sex_crime_other/)
+- [Judge to arraign ex-DA charged in Arbery killing&#39;s aftermath](https://www.reddit.com/r/news/comments/za0wi8/judge_to_arraign_exda_charged_in_arbery_killings/)
+- [Valley police arrest 82-year-old woman for failure to pay trash services](https://www.reddit.com/r/news/comments/za0g48/valley_police_arrest_82yearold_woman_for_failure/)
 <!-- REDDIT:END -->
 
 
