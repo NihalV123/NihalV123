@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hate speech dramatically surges on Twitter following Elon Musk takeover, new research shows](https://www.reddit.com/r/news/comments/zasg9e/hate_speech_dramatically_surges_on_twitter/)
+- [Record bust of liquid fentanyl in South Texas](https://www.reddit.com/r/news/comments/zarlyu/record_bust_of_liquid_fentanyl_in_south_texas/)
+- [Groups Sue Florida Officials Over Migrant Relocation Program](https://www.reddit.com/r/news/comments/zar7v5/groups_sue_florida_officials_over_migrant/)
+- [US hiring stays strong, complicating Fed&#39;s inflation fight](https://www.reddit.com/r/news/comments/zaqg4x/us_hiring_stays_strong_complicating_feds/)
+- [Pentagon debuts its new stealth bomber, the B-21 Raider](https://www.reddit.com/r/news/comments/zaqf3e/pentagon_debuts_its_new_stealth_bomber_the_b21/)
 <!-- REDDIT:END -->
 
 
