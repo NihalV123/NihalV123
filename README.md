@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Musk says Twitter will suspend Kanye West&#39;s account](https://www.reddit.com/r/news/comments/zaczvf/musk_says_twitter_will_suspend_kanye_wests_account/)
+- [Uvalde shooting victims file $27 billion class-action suit](https://www.reddit.com/r/news/comments/zabfee/uvalde_shooting_victims_file_27_billion/)
+- [Former San Antonio police officer who shot unarmed teen in a McDonald&#39;s parking lot has been indicted for attempted murder, prosecutor says](https://www.reddit.com/r/news/comments/zabb35/former_san_antonio_police_officer_who_shot/)
+- [Omicron variant BQ.1.1 found to be resistant to all monoclonal antibody treatments](https://www.reddit.com/r/news/comments/zaawoe/omicron_variant_bq11_found_to_be_resistant_to_all/)
+- [Atlanta school under federal investigation after allegations principal assigned Black students to classes based on race](https://www.reddit.com/r/news/comments/za9fr5/atlanta_school_under_federal_investigation_after/)
 <!-- REDDIT:END -->
 
 
