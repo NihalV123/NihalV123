@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK arrests wealthy Russian as police target Putin enablers](https://www.reddit.com/r/news/comments/zblilt/uk_arrests_wealthy_russian_as_police_target_putin/)
+- [Netherlands eliminates US in round of 16 at World Cup](https://www.reddit.com/r/news/comments/zbktmc/netherlands_eliminates_us_in_round_of_16_at_world/)
+- [Update: Shooting closes I-95; suspect in 2 carjackings deceased](https://www.reddit.com/r/news/comments/zbkcrv/update_shooting_closes_i95_suspect_in_2/)
+- [Calgary pediatric hospice discharging all respite patients, redeploying staff to children&#39;s hospital](https://www.reddit.com/r/news/comments/zbjjdp/calgary_pediatric_hospice_discharging_all_respite/)
+- [Kingston NY reduces rent by 15 percent](https://www.reddit.com/r/news/comments/zbjhkf/kingston_ny_reduces_rent_by_15_percent/)
 <!-- REDDIT:END -->
 
 
