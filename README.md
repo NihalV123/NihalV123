@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police arrest elderly Alabama woman over unpaid $77 trash bill](https://www.reddit.com/r/news/comments/zb8de9/police_arrest_elderly_alabama_woman_over_unpaid/)
+- [Evidence found that man was not the first being to master fire](https://www.reddit.com/r/news/comments/zb7tsk/evidence_found_that_man_was_not_the_first_being/)
+- [Body of missing Texas girl Athena Strand found; girl abducted and killed by Fed Ex driver, sheriff says](https://www.reddit.com/r/news/comments/zb7si6/body_of_missing_texas_girl_athena_strand_found/)
+- [Delta offers 34% pay raise to pilots in new contract](https://www.reddit.com/r/news/comments/zb7fp5/delta_offers_34_pay_raise_to_pilots_in_new/)
+- [Exclusive: Twitter exec says moving fast on moderation, as harmful content surges](https://www.reddit.com/r/news/comments/zb75j4/exclusive_twitter_exec_says_moving_fast_on/)
 <!-- REDDIT:END -->
 
 
