@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jonathan the tortoise, world&#39;s oldest land animal, celebrates his 190th birthday | CNN](https://www.reddit.com/r/news/comments/zbcxq3/jonathan_the_tortoise_worlds_oldest_land_animal/)
+- [FBI director raises national security concerns about TikTok](https://www.reddit.com/r/news/comments/zbct5a/fbi_director_raises_national_security_concerns/)
+- [Judge blocks Indiana abortion ban on religious freedom grounds](https://www.reddit.com/r/news/comments/zbcnh2/judge_blocks_indiana_abortion_ban_on_religious/)
+- [Ex-warden who allegedly ran California prison ‘rape club’ goes on trial](https://www.reddit.com/r/news/comments/zbckw6/exwarden_who_allegedly_ran_california_prison_rape/)
+- [Indonesia set to penalise sex outside marriage in overhaul of criminal code](https://www.reddit.com/r/news/comments/zb9pf9/indonesia_set_to_penalise_sex_outside_marriage_in/)
 <!-- REDDIT:END -->
 
 
