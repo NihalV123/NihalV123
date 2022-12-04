@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A mass power outage in North Carolina is being investigated as a &#39;criminal occurrence,&#39; authorities say | CNN](https://www.reddit.com/r/news/comments/zc87ij/a_mass_power_outage_in_north_carolina_is_being/)
+- [Elon Musk says Apple is Twitter&#39;s largest ad client; has now &#39;fully resumed&#39; advertising on the platform](https://www.reddit.com/r/news/comments/zc7iaj/elon_musk_says_apple_is_twitters_largest_ad/)
+- [Iran prosecutor general signals ‘morality police’ suspended](https://www.reddit.com/r/news/comments/zc6neh/iran_prosecutor_general_signals_morality_police/)
+- [Exclusive: China operating over 100 police stations across the world with the help of some host nations, report claims](https://www.reddit.com/r/news/comments/zc67tv/exclusive_china_operating_over_100_police/)
+- [Rail workers say quality-of-life concerns not resolved under deal imposed by Congress](https://www.reddit.com/r/news/comments/zc5ewn/rail_workers_say_qualityoflife_concerns_not/)
 <!-- REDDIT:END -->
 
 
