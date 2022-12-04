@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Expedites Hypersonic Deployment As China Equips It Nuke Submarines With Missiles That Can Strike USA](https://www.reddit.com/r/news/comments/zcds0n/us_expedites_hypersonic_deployment_as_china/)
+- [Ex-children’s hospital doctor charged with sex crimes](https://www.reddit.com/r/news/comments/zcdit8/exchildrens_hospital_doctor_charged_with_sex/)
+- [Protesters storm governor&#39;s office in the city of Al Suwayda, southern Syrian city, gunfire heard](https://www.reddit.com/r/news/comments/zcd3t4/protesters_storm_governors_office_in_the_city_of/)
+- [Why Hawaii probably won&#39;t stop lava from Mauna Loa from reaching the highway | CNN](https://www.reddit.com/r/news/comments/zccrqf/why_hawaii_probably_wont_stop_lava_from_mauna_loa/)
+- [&#39;Holi-Drag Storytime&#39; for children canceled because of right-wing protesters](https://www.reddit.com/r/news/comments/zcbqc0/holidrag_storytime_for_children_canceled_because/)
 <!-- REDDIT:END -->
 
 
