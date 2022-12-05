@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No more airplane mode? EU to allow calls on flights](https://www.reddit.com/r/news/comments/zcxknh/no_more_airplane_mode_eu_to_allow_calls_on_flights/)
+- [FDA: Lab-Grown Meat Is Safe to Eat](https://www.reddit.com/r/news/comments/zcx7b2/fda_labgrown_meat_is_safe_to_eat/)
+- [Shootings at power substations cause North Carolina outages](https://www.reddit.com/r/news/comments/zcv7id/shootings_at_power_substations_cause_north/)
+- [New Zealand plans law to require Facebook, Google to pay for news](https://www.reddit.com/r/news/comments/zcv479/new_zealand_plans_law_to_require_facebook_google/)
+- [Accused Arizona cult leader has 20 wives as young as age 9, possibly married own daughter, FBI alleges](https://www.reddit.com/r/news/comments/zcskwo/accused_arizona_cult_leader_has_20_wives_as_young/)
 <!-- REDDIT:END -->
 
 
