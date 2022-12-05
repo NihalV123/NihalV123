@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FX swap debt a $80 trillion &#39;blind spot&#39; global regulator says](https://www.reddit.com/r/news/comments/zdcl77/fx_swap_debt_a_80_trillion_blind_spot_global/)
+- [Feds To Allow HIV-Positive People To Serve In Public Health Roles](https://www.reddit.com/r/news/comments/zdc10z/feds_to_allow_hivpositive_people_to_serve_in/)
+- [Family says Amazon shipped fake product, refuses refund until &#39;correct&#39; item returned](https://www.reddit.com/r/news/comments/zdbi8j/family_says_amazon_shipped_fake_product_refuses/)
+- [Department of Homeland Security delays REAL ID deadline to 2025](https://www.reddit.com/r/news/comments/zdaoer/department_of_homeland_security_delays_real_id/)
+- [Florida deputy killed after officer roommate &#39;jokingly&#39; fires gun he thought was unloaded, officials say](https://www.reddit.com/r/news/comments/zdaei7/florida_deputy_killed_after_officer_roommate/)
 <!-- REDDIT:END -->
 
 
