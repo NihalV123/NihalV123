@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [N.C. resident&#39;s death may have resulted from power grid attack](https://www.reddit.com/r/news/comments/zf5qp5/nc_residents_death_may_have_resulted_from_power/)
+- [FBI: Polygamous leader had 20 wives, many of them minors](https://www.reddit.com/r/news/comments/zf5k32/fbi_polygamous_leader_had_20_wives_many_of_them/)
+- [Bodybuilders dying as coaches and judges encourage extreme measures](https://www.reddit.com/r/news/comments/zf59ss/bodybuilders_dying_as_coaches_and_judges/)
+- [Retail theft at Walmart may lead to raised prices and store closures, CEO says](https://www.reddit.com/r/news/comments/zf54gb/retail_theft_at_walmart_may_lead_to_raised_prices/)
+- [Family of Elderly Home Depot Worker Killed After Being Shoved by Thief Pleads With Suspect to Turn Himself In](https://www.reddit.com/r/news/comments/zf2qyg/family_of_elderly_home_depot_worker_killed_after/)
 <!-- REDDIT:END -->
 
 
