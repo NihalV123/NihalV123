@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Catfishing Virginia cop accused of killing California family was detained in 2016 after violent threats](https://www.reddit.com/r/news/comments/zemsd7/catfishing_virginia_cop_accused_of_killing/)
+- [F.B.I. asking about videos and racist website in connection with Colorado shooting](https://www.reddit.com/r/news/comments/zemhum/fbi_asking_about_videos_and_racist_website_in/)
+- [5 Women File Sex Abuse Lawsuit Against Bill Cosby, NBC and Studio](https://www.reddit.com/r/news/comments/zeksj3/5_women_file_sex_abuse_lawsuit_against_bill_cosby/)
+- [Queensland graziers unearth 100m-year-old plesiosaur remains likened to Rosetta Stone | Dinosaurs](https://www.reddit.com/r/news/comments/zekne2/queensland_graziers_unearth_100myearold/)
+- [US judge dismisses case against Saudi crown prince over Khashoggi killing](https://www.reddit.com/r/news/comments/zeiyit/us_judge_dismisses_case_against_saudi_crown/)
 <!-- REDDIT:END -->
 
 
