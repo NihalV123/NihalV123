@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richmond restaurant refuses service to anti-LGBTQ group](https://www.reddit.com/r/news/comments/zezdkg/richmond_restaurant_refuses_service_to_antilgbtq/)
+- [Woman who watched boyfriend kill 6 of his family members in Chicago robbery sentenced to 25 years in prison](https://www.reddit.com/r/news/comments/zeya3r/woman_who_watched_boyfriend_kill_6_of_his_family/)
+- [TGI Friday&#39;s &#39;mozzarella sticks&#39; contain no mozzarella, lawsuit against manufacturer claims](https://www.reddit.com/r/news/comments/zey503/tgi_fridays_mozzarella_sticks_contain_no/)
+- [Germany arrests 25 accused of plotting coup](https://www.reddit.com/r/news/comments/zewyyp/germany_arrests_25_accused_of_plotting_coup/)
+- [Violent White Supremacy on the Rise: White Kansas HS Students Threaten to Hang Black Players, Taunt w/ Blackface Babydoll &amp; Attempt to Raid Players Locker Room After Game](https://www.reddit.com/r/news/comments/zevqxl/violent_white_supremacy_on_the_rise_white_kansas/)
 <!-- REDDIT:END -->
 
 
