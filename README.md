@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police called to Houston home of Sen. Ted Cruz](https://www.reddit.com/r/news/comments/zera05/police_called_to_houston_home_of_sen_ted_cruz/)
+- [Hertz will pay $168 million to customers it falsely accused of stealing its cars](https://www.reddit.com/r/news/comments/zeqx8g/hertz_will_pay_168_million_to_customers_it/)
+- [Raphael Warnock beats Trump pick Herschel Walker in Georgia Senate runoff, NBC projects](https://www.reddit.com/r/news/comments/zeqq3a/raphael_warnock_beats_trump_pick_herschel_walker/)
+- [Trump Pac reportedly paid legal bills of Mar-a-Lago witnesses](https://www.reddit.com/r/news/comments/zeqmhx/trump_pac_reportedly_paid_legal_bills_of_maralago/)
+- [Kanye West Calls on Jewish People to ‘Forgive Hitler’ in Interview With Proud Boys Founder](https://www.reddit.com/r/news/comments/zepvjk/kanye_west_calls_on_jewish_people_to_forgive/)
 <!-- REDDIT:END -->
 
 
