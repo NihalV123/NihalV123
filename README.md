@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK royals brace as Harry-Meghan doc promises &#39;full truth&#39;](https://www.reddit.com/r/news/comments/zfuxjl/uk_royals_brace_as_harrymeghan_doc_promises_full/)
+- [DC attorney general sues Amazon for allegedly misusing driver tips](https://www.reddit.com/r/news/comments/zftp87/dc_attorney_general_sues_amazon_for_allegedly/)
+- [Restaurant denies Christian group service over its anti-abortion and LGBTQ stances](https://www.reddit.com/r/news/comments/zfs3ou/restaurant_denies_christian_group_service_over/)
+- [Ex-Border Patrol agent convicted of killing 4 women in Texas](https://www.reddit.com/r/news/comments/zfpmh5/exborder_patrol_agent_convicted_of_killing_4/)
+- [Elon Musk turns Twitter into &#39;hotel&#39; for staff](https://www.reddit.com/r/news/comments/zfokhk/elon_musk_turns_twitter_into_hotel_for_staff/)
 <!-- REDDIT:END -->
 
 
