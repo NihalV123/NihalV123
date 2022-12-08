@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The New York Times is bracing for a historic mass walkout as union negotiations go down to the wire](https://www.reddit.com/r/news/comments/zfiop0/the_new_york_times_is_bracing_for_a_historic_mass/)
+- [Apple announces plans to encrypt iCloud data on its servers, including full backups, photos and notes.](https://www.reddit.com/r/news/comments/zfi3cq/apple_announces_plans_to_encrypt_icloud_data_on/)
+- [Ex-Theranos executive Sunny Balwani sentenced to nearly 13 years in prison for fraud](https://www.reddit.com/r/news/comments/zfgpyj/extheranos_executive_sunny_balwani_sentenced_to/)
+- [Putin: Nuclear risk is rising, but we are not mad](https://www.reddit.com/r/news/comments/zfgfnk/putin_nuclear_risk_is_rising_but_we_are_not_mad/)
+- [End of an era as final Boeing 747 rolls off assembly line](https://www.reddit.com/r/news/comments/zffaeg/end_of_an_era_as_final_boeing_747_rolls_off/)
 <!-- REDDIT:END -->
 
 
