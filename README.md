@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Border Patrol agent convicted of killing 4 women in Texas](https://www.reddit.com/r/news/comments/zfpmh5/exborder_patrol_agent_convicted_of_killing_4/)
+- [Elon Musk turns Twitter into &#39;hotel&#39; for staff](https://www.reddit.com/r/news/comments/zfokhk/elon_musk_turns_twitter_into_hotel_for_staff/)
+- [Alex Jones says he can pay less than 1% of Sandy Hook verdicts](https://www.reddit.com/r/news/comments/zfn5ju/alex_jones_says_he_can_pay_less_than_1_of_sandy/)
+- [Indiana sues TikTok, citing safety and security concerns](https://www.reddit.com/r/news/comments/zfmix1/indiana_sues_tiktok_citing_safety_and_security/)
+- [Investigators are zeroing in on two possible motives centered around extremist behavior in NC power stations attacks, sources say](https://www.reddit.com/r/news/comments/zfkbqm/investigators_are_zeroing_in_on_two_possible/)
 <!-- REDDIT:END -->
 
 
