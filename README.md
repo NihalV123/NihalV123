@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Club Q suspect&#39;s bomb threat dismissed; victims refused to testify, DA says](https://www.reddit.com/r/news/comments/zgfmq1/club_q_suspects_bomb_threat_dismissed_victims/)
+- [Christian advocate tells Congress of 2014 U.S. Supreme Court leak](https://www.reddit.com/r/news/comments/zgfb09/christian_advocate_tells_congress_of_2014_us/)
+- [As more in North Carolina regain power, investigators probe domestic terrorism and threats against power infrastructure across the US | CNN](https://www.reddit.com/r/news/comments/zged4w/as_more_in_north_carolina_regain_power/)
+- [FedEx driver charged in 7-year-old Athena Strand’s death delivered her Christmas present before abducting her, mother says](https://www.reddit.com/r/news/comments/zgdxy5/fedex_driver_charged_in_7yearold_athena_strands/)
+- [Police: Missing Newtown man Robert Hoagland found dead in NY after living under new name for years](https://www.reddit.com/r/news/comments/zgdku0/police_missing_newtown_man_robert_hoagland_found/)
 <!-- REDDIT:END -->
 
 
