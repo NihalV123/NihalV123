@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kanye West&#39;s honorary doctorate rescinded by prestigious Chicago art college](https://www.reddit.com/r/news/comments/zh1mqs/kanye_wests_honorary_doctorate_rescinded_by/)
+- [&#39;Shock&#39;: Mountain lion enters Bay Area home, drags dog outside](https://www.reddit.com/r/news/comments/zh1e8p/shock_mountain_lion_enters_bay_area_home_drags/)
+- [Colorado shooter’s 2021 case dropped for lack of cooperation](https://www.reddit.com/r/news/comments/zgzhid/colorado_shooters_2021_case_dropped_for_lack_of/)
+- [France makes condoms free for 18 to 25 year olds](https://www.reddit.com/r/news/comments/zgza31/france_makes_condoms_free_for_18_to_25_year_olds/)
+- [Woman shoots and kills suspect in attempted North Las Vegas carjacking, 1 person arrested](https://www.reddit.com/r/news/comments/zgyoqe/woman_shoots_and_kills_suspect_in_attempted_north/)
 <!-- REDDIT:END -->
 
 
