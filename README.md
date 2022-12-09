@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘It’s the First Time I’ve Seen This in China’: On the ground in Shanghai, where young people are fed up and fighting back against the CCP.](https://www.reddit.com/r/news/comments/zgmwug/its_the_first_time_ive_seen_this_in_china_on_the/)
+- [State Rep. Joe Harding resigns after DOJ indictment](https://www.reddit.com/r/news/comments/zgmn2v/state_rep_joe_harding_resigns_after_doj_indictment/)
+- [India Could Soon Experience Heat Waves Beyond Human Survival Limit: World Bank](https://www.reddit.com/r/news/comments/zgl88u/india_could_soon_experience_heat_waves_beyond/)
+- [Piqua man accused of vandalizing cell phone towers arrested](https://www.reddit.com/r/news/comments/zgl0me/piqua_man_accused_of_vandalizing_cell_phone/)
+- [Japanese billionaire unveils the 8 artists he&#39;ll fly to the moon on SpaceX&#39;s Starship dearMoon flight](https://www.reddit.com/r/news/comments/zghczs/japanese_billionaire_unveils_the_8_artists_hell/)
 <!-- REDDIT:END -->
 
 
