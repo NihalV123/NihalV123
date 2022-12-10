@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Morocco becomes first ever African team to reach World Cup semifinals with historic victory over Portugal](https://www.reddit.com/r/news/comments/zhxf6m/morocco_becomes_first_ever_african_team_to_reach/)
+- [3 men who fought police and lit up during Jan. 6 riot sentenced](https://www.reddit.com/r/news/comments/zhx7av/3_men_who_fought_police_and_lit_up_during_jan_6/)
+- [Postal worker fatally shot while on duty in Milwaukee](https://www.reddit.com/r/news/comments/zhwy72/postal_worker_fatally_shot_while_on_duty_in/)
+- [Kentucky remembers tornado victims as rebuilding continues](https://www.reddit.com/r/news/comments/zhw81v/kentucky_remembers_tornado_victims_as_rebuilding/)
+- [Airlines are lobbying for a change to federal regulations that could put one pilot in the cockpit](https://www.reddit.com/r/news/comments/zhvimb/airlines_are_lobbying_for_a_change_to_federal/)
 <!-- REDDIT:END -->
 
 
