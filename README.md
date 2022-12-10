@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. sportswriter Grant Wahl dies in Qatar during World Cup - family, U.S. Soccer](https://www.reddit.com/r/news/comments/zhjqv3/us_sportswriter_grant_wahl_dies_in_qatar_during/)
+- [Elon Musk could lose world’s richest person title as Tesla value almost halves](https://www.reddit.com/r/news/comments/zhjls0/elon_musk_could_lose_worlds_richest_person_title/)
+- [Putin says more US-Russian prisoner exchanges are possible](https://www.reddit.com/r/news/comments/zhivrm/putin_says_more_usrussian_prisoner_exchanges_are/)
+- [Oil firms have internally dismissed swift climate action, House panel says | Oil and gas companies](https://www.reddit.com/r/news/comments/zhibww/oil_firms_have_internally_dismissed_swift_climate/)
+- [Prominent Soccer Journalist Grant Wahl, 48, Dies While Covering World Cup in Qatar](https://www.reddit.com/r/news/comments/zhgoru/prominent_soccer_journalist_grant_wahl_48_dies/)
 <!-- REDDIT:END -->
 
 
