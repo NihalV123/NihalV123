@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Co-workers of cop who killed 3 in California removed items from his property prior to official search](https://www.reddit.com/r/news/comments/zhd0yp/coworkers_of_cop_who_killed_3_in_california/)
+- [After 25 years in prison, 2 Georgia men released after podcast uncovers manufactured evidence in murder case](https://www.reddit.com/r/news/comments/zhc96e/after_25_years_in_prison_2_georgia_men_released/)
+- [FTX founder Sam Bankman-Fried agrees to testify at U.S. House hearing on Tuesday](https://www.reddit.com/r/news/comments/zhc78d/ftx_founder_sam_bankmanfried_agrees_to_testify_at/)
+- [Afghan interpreter rescued by Marine officer denied visa to stay in US](https://www.reddit.com/r/news/comments/zhbp5h/afghan_interpreter_rescued_by_marine_officer/)
+- [Keystone pipeline shut after 14,000-barrel oil spill in Kansas](https://www.reddit.com/r/news/comments/zhb8tv/keystone_pipeline_shut_after_14000barrel_oil/)
 <!-- REDDIT:END -->
 
 
