@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.reddit.com/r/news/comments/zimchy/base_editing_revolutionary_therapy_clears_girls/)
+- [NASA’s Orion due to splash down after historic Moon mission](https://www.reddit.com/r/news/comments/zij4cd/nasas_orion_due_to_splash_down_after_historic/)
+- [Biden Official Sam Brinton’s 2nd Alleged Theft Included $1,700 In Jewelry](https://www.reddit.com/r/news/comments/zig7p8/biden_official_sam_brintons_2nd_alleged_theft/)
+- [Chile volcano: Alert issued after Lascar rumbles to life](https://www.reddit.com/r/news/comments/zif4ey/chile_volcano_alert_issued_after_lascar_rumbles/)
+- [Three dead, dozen missing after explosion at apartment block on Channel island of Jersey](https://www.reddit.com/r/news/comments/zie76v/three_dead_dozen_missing_after_explosion_at/)
 <!-- REDDIT:END -->
 
 
