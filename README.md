@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police units responding to active shooter at Greenbrier Mall in Chesapeake, Virginia](https://www.reddit.com/r/news/comments/zichie/police_units_responding_to_active_shooter_at/)
+- [Revealed: group shaping US nutrition receives millions from big food industry — Academy of Nutrition and Dietetics has a record of quid pro quos with a range of food giants, documents show](https://www.reddit.com/r/news/comments/zicd7q/revealed_group_shaping_us_nutrition_receives/)
+- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.reddit.com/r/news/comments/zibzak/base_editing_revolutionary_therapy_clears_girls/)
+- [Election denier Kari Lake sues Arizona elections officials](https://www.reddit.com/r/news/comments/zibt1k/election_denier_kari_lake_sues_arizona_elections/)
+- [Kansas residents hold their noses as crews mop up massive U.S. oil spill](https://www.reddit.com/r/news/comments/zibm7z/kansas_residents_hold_their_noses_as_crews_mop_up/)
 <!-- REDDIT:END -->
 
 
