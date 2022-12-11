@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [71 years after starting college, a 90-year-old woman is graduating | CNN](https://www.reddit.com/r/news/comments/ziy0md/71_years_after_starting_college_a_90yearold_woman/)
+- [Twitter relaunches blue tick service with higher price for iPhone users](https://www.reddit.com/r/news/comments/zixyyx/twitter_relaunches_blue_tick_service_with_higher/)
+- [Georgia man accused of killing wife’s divorce lawyer and setting office on fire](https://www.reddit.com/r/news/comments/zixpvq/georgia_man_accused_of_killing_wifes_divorce/)
+- [Hospitalizations signal rising COVID-19 risk for US seniors](https://www.reddit.com/r/news/comments/zix6hs/hospitalizations_signal_rising_covid19_risk_for/)
+- [Bomb threat forces evacuation of Pattie LaBelle concert in Milwaukee](https://www.reddit.com/r/news/comments/zit0ey/bomb_threat_forces_evacuation_of_pattie_labelle/)
 <!-- REDDIT:END -->
 
 
