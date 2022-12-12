@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida Gov. Ron DeSantis ally found dead amid sexual misconduct investigation](https://www.reddit.com/r/news/comments/zk5g3o/florida_gov_ron_desantis_ally_found_dead_amid/)
+- [Elon Musk uses QAnon tactic in criticizing former Twitter safety chief](https://www.reddit.com/r/news/comments/zk4wc7/elon_musk_uses_qanon_tactic_in_criticizing_former/)
+- [Base editing: Revolutionary therapy clears girl&#39;s incurable cancer](https://www.reddit.com/r/news/comments/zk4vc6/base_editing_revolutionary_therapy_clears_girls/)
+- [Ukraine war: Odesa port reopens after energy network hit](https://www.reddit.com/r/news/comments/zk45pl/ukraine_war_odesa_port_reopens_after_energy/)
+- [Mexico&#39;s president likely to leave big projects unfinished](https://www.reddit.com/r/news/comments/zk3b4u/mexicos_president_likely_to_leave_big_projects/)
 <!-- REDDIT:END -->
 
 
