@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran execution: Man hung from crane in public amid protests](https://www.reddit.com/r/news/comments/zjwszi/iran_execution_man_hung_from_crane_in_public_amid/)
+- [Japan moves to shed pacifist ways with major defense buildup](https://www.reddit.com/r/news/comments/zjux74/japan_moves_to_shed_pacifist_ways_with_major/)
+- [In a Future Filled With Electric Cars, AM Radio May Be Left Behind](https://www.reddit.com/r/news/comments/zjujli/in_a_future_filled_with_electric_cars_am_radio/)
+- [Kosovo calls for NATO intervention after weekend of violence amid rising ethnic tensions](https://www.reddit.com/r/news/comments/zjtbdf/kosovo_calls_for_nato_intervention_after_weekend/)
+- [The Islamic Republic of Iran just executed a young man named #Majidreza_Rahnavard for participating in protest and defending women rights and freedom in country](https://www.reddit.com/r/news/comments/zjt5np/the_islamic_republic_of_iran_just_executed_a/)
 <!-- REDDIT:END -->
 
 
