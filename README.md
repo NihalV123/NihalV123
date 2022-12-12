@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hundreds of items to be auctioned off from Twitter&#39;s SF HQ](https://www.reddit.com/r/news/comments/zjgmg9/hundreds_of_items_to_be_auctioned_off_from/)
+- [China&#39;s rules for &quot;deepfakes&quot; to take effect from Jan. 10](https://www.reddit.com/r/news/comments/zjfw33/chinas_rules_for_deepfakes_to_take_effect_from/)
+- [Church bus carrying up to 25, most of them children, flips over in Houston](https://www.reddit.com/r/news/comments/zjcji9/church_bus_carrying_up_to_25_most_of_them/)
+- [Paul Silas, 3-time NBA champion, longtime coach, dies at 79](https://www.reddit.com/r/news/comments/zj7u5r/paul_silas_3time_nba_champion_longtime_coach_dies/)
+- [Amazon accused of stealing tips from delivery drivers](https://www.reddit.com/r/news/comments/zj60u3/amazon_accused_of_stealing_tips_from_delivery/)
 <!-- REDDIT:END -->
 
 
