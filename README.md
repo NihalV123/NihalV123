@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Confederate monument set to be removed from Virginia capital](https://www.reddit.com/r/news/comments/zjom09/confederate_monument_set_to_be_removed_from/)
+- [Physicians Group Files State Lawsuit and Federal Complaint Against UC Davis Regarding Deadly Monkey Experiments at Elon Musk-Funded Lab](https://www.reddit.com/r/news/comments/zjmlwm/physicians_group_files_state_lawsuit_and_federal/)
+- [Dorothy Pitman Hughes, co-founder of Ms. Magazine, dies at 84 | CNN Business](https://www.reddit.com/r/news/comments/zjl7z9/dorothy_pitman_hughes_cofounder_of_ms_magazine/)
+- [Survivors of mass shootings are left with lifelong wounds -- and mounting bills](https://www.reddit.com/r/news/comments/zjij44/survivors_of_mass_shootings_are_left_with/)
+- [Police find decomposing body of pregnant woman while arresting man in separate murder case](https://www.reddit.com/r/news/comments/zjieao/police_find_decomposing_body_of_pregnant_woman/)
 <!-- REDDIT:END -->
 
 
