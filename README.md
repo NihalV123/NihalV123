@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter ‘to lose 32m users in two years after Elon Musk takeover’](https://www.reddit.com/r/news/comments/zktuwr/twitter_to_lose_32m_users_in_two_years_after_elon/)
+- [Sam Bankman-Fried: FTX founder charged with defrauding investors](https://www.reddit.com/r/news/comments/zktqwr/sam_bankmanfried_ftx_founder_charged_with/)
+- [Most small SUVs fail insurance industry&#39;s revamped frontal crash tests](https://www.reddit.com/r/news/comments/zkt2t8/most_small_suvs_fail_insurance_industrys_revamped/)
+- [US city removes last public Confederate statue | Slavery News](https://www.reddit.com/r/news/comments/zkspoe/us_city_removes_last_public_confederate_statue/)
+- [New Zealand imposes lifetime ban on youth buying cigarettes](https://www.reddit.com/r/news/comments/zksdnq/new_zealand_imposes_lifetime_ban_on_youth_buying/)
 <!-- REDDIT:END -->
 
 
