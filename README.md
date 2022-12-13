@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A month after 4 students were killed, police have yet to name a suspect as University of Idaho enters final exam week](https://www.reddit.com/r/news/comments/zl1b7m/a_month_after_4_students_were_killed_police_have/)
+- [Detroit school board votes to remove Dr. Ben Carson&#39;s name from public high school](https://www.reddit.com/r/news/comments/zl0ns3/detroit_school_board_votes_to_remove_dr_ben/)
+- [Angelo Badalamenti, David Lynch’s composer on Twin Peaks, Blue Velvet and more, dies aged 85](https://www.reddit.com/r/news/comments/zl0asz/angelo_badalamenti_david_lynchs_composer_on_twin/)
+- [Cancer mRNA vaccine completes pivotal trial](https://www.reddit.com/r/news/comments/zl07pc/cancer_mrna_vaccine_completes_pivotal_trial/)
+- [Hillcrest High School Active Shooter; Lockdown, shooting at Hillcrest High in Tuscaloosa, Al](https://www.reddit.com/r/news/comments/zl04ks/hillcrest_high_school_active_shooter_lockdown/)
 <!-- REDDIT:END -->
 
 
