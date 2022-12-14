@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Armed protestors gather outside San Antonio&#39;s Aztec Theatre during Christmas-themed drag show](https://www.reddit.com/r/news/comments/zlwzqw/armed_protestors_gather_outside_san_antonios/)
+- [30 years worth of evidence, including DNA, possibly destroyed in NYPD storage facility blaze](https://www.reddit.com/r/news/comments/zlwosx/30_years_worth_of_evidence_including_dna_possibly/)
+- [SEC says social media influencers used Twitter and Discord to manipulate stocks](https://www.reddit.com/r/news/comments/zlwehi/sec_says_social_media_influencers_used_twitter/)
+- [Stephen ‘tWitch’ Boss, DJ for ‘Ellen DeGeneres Show,’ dead at 40](https://www.reddit.com/r/news/comments/zlulaa/stephen_twitch_boss_dj_for_ellen_degeneres_show/)
+- [Top Energy Department official no longer employed after luggage theft accusations](https://www.reddit.com/r/news/comments/zlt80j/top_energy_department_official_no_longer_employed/)
 <!-- REDDIT:END -->
 
 
