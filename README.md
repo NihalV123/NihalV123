@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pentagon preparing to send Patriot missiles to Ukraine](https://www.reddit.com/r/news/comments/zlbn6a/pentagon_preparing_to_send_patriot_missiles_to/)
+- [Remains of Confederate general removed from under monument](https://www.reddit.com/r/news/comments/zlbmgv/remains_of_confederate_general_removed_from_under/)
+- [Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs](https://www.reddit.com/r/news/comments/zl9nua/musk_shakes_up_twitters_legal_team_as_he_looks_to/)
+- [Two Americans and five Russians charged with running a smuggling network to obtain military technology and ammunition for Russia](https://www.reddit.com/r/news/comments/zl97yu/two_americans_and_five_russians_charged_with/)
+- [Soccer union &#39;sickened&#39; by reports Iranian player faces possible execution](https://www.reddit.com/r/news/comments/zl8vof/soccer_union_sickened_by_reports_iranian_player/)
 <!-- REDDIT:END -->
 
 
