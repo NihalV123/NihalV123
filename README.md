@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden signs gay marriage law, calls it &#39;a blow against hate&#39;](https://www.reddit.com/r/news/comments/zlifx0/biden_signs_gay_marriage_law_calls_it_a_blow/)
+- [Oregon governor calls death penalty &#39;immoral,&#39; commutes sentences for all 17 inmates on death row](https://www.reddit.com/r/news/comments/zlg2r1/oregon_governor_calls_death_penalty_immoral/)
+- [Protesters block construction of Arizona border wall made of shipping containers](https://www.reddit.com/r/news/comments/zle6uh/protesters_block_construction_of_arizona_border/)
+- [NYPD Warehouse for DNA, Troves of Criminal Evidence Destroyed in Brooklyn Inferno](https://www.reddit.com/r/news/comments/zld8xw/nypd_warehouse_for_dna_troves_of_criminal/)
+- [A trifecta of respiratory viruses -- Covid, RSV and flu -- is taxing hospitals across the nation](https://www.reddit.com/r/news/comments/zlco4v/a_trifecta_of_respiratory_viruses_covid_rsv_and/)
 <!-- REDDIT:END -->
 
 
