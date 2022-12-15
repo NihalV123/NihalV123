@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Airport security 100ml liquid rule to be scrapped](https://www.reddit.com/r/news/comments/zmpxbo/airport_security_100ml_liquid_rule_to_be_scrapped/)
+- [D.C. Bar panel tentatively finds Giuliani likely committed ethics violation with false election claims](https://www.reddit.com/r/news/comments/zmph0c/dc_bar_panel_tentatively_finds_giuliani_likely/)
+- [Man bitten by K-9 during end of chase in Downey had nothing to do with pursuit, witnesses say](https://www.reddit.com/r/news/comments/zmpekq/man_bitten_by_k9_during_end_of_chase_in_downey/)
+- [2 get prison time for assisting Gov. Whitmer kidnap plotter](https://www.reddit.com/r/news/comments/zmp6id/2_get_prison_time_for_assisting_gov_whitmer/)
+- [Five down in Apt. 307: Mass fentanyl deaths test a Colorado prosecutor](https://www.reddit.com/r/news/comments/zmox8h/five_down_in_apt_307_mass_fentanyl_deaths_test_a/)
 <!-- REDDIT:END -->
 
 
