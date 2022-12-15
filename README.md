@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Army investigating soldiers who posed in dog bondage masks](https://www.reddit.com/r/news/comments/zmbrmd/army_investigating_soldiers_who_posed_in_dog/)
+- [Elon Musk sells another huge chunk of Tesla shares](https://www.reddit.com/r/news/comments/zmal7u/elon_musk_sells_another_huge_chunk_of_tesla_shares/)
+- [Elon Musk taking legal action over Twitter account that tracks his private jet](https://www.reddit.com/r/news/comments/zm9f2l/elon_musk_taking_legal_action_over_twitter/)
+- [Russia faces ‘critical shortage’ of artillery shells, says UK defence chief | Russia](https://www.reddit.com/r/news/comments/zm8a6b/russia_faces_critical_shortage_of_artillery/)
+- [Parents accused of spiking daughter&#39;s milkshake to sexually abuse her, sheriff says | WOAI](https://www.reddit.com/r/news/comments/zm77y6/parents_accused_of_spiking_daughters_milkshake_to/)
 <!-- REDDIT:END -->
 
 
