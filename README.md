@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Veterinarian identified as shooter of 2 officers killed in Mississippi](https://www.reddit.com/r/news/comments/zmx3jh/veterinarian_identified_as_shooter_of_2_officers/)
+- [Former Texas police officer found guilty of manslaughter for the shooting death of Atatiana Jefferson at her home](https://www.reddit.com/r/news/comments/zmw5c5/former_texas_police_officer_found_guilty_of/)
+- [SBF denied bail, and U.S. senators take aim at FTX and crypto industry: CNBC Crypto World,](https://www.reddit.com/r/news/comments/zmw1uz/sbf_denied_bail_and_us_senators_take_aim_at_ftx/)
+- [In Europe, Companies Will Have to Disclose Gender Pay Gap in Bid to End Pay Inequality](https://www.reddit.com/r/news/comments/zmvznk/in_europe_companies_will_have_to_disclose_gender/)
+- [Police officer Aaron Dean found guilty of manslaughter in killing of Atatiana Jefferson](https://www.reddit.com/r/news/comments/zmvqzd/police_officer_aaron_dean_found_guilty_of/)
 <!-- REDDIT:END -->
 
 
