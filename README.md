@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Students with disabilities win dispute over masks in Va. public schools](https://www.reddit.com/r/news/comments/znjzkp/students_with_disabilities_win_dispute_over_masks/)
+- [63-year-old hurt in antisemitic attack in Central Park, police searching for suspect](https://www.reddit.com/r/news/comments/znio9v/63yearold_hurt_in_antisemitic_attack_in_central/)
+- [Missing college student Kenny DeLand Jr. is alive, his father says | CNN](https://www.reddit.com/r/news/comments/zngxrk/missing_college_student_kenny_deland_jr_is_alive/)
+- [Russian linked to Wagner badly hurt in assassination attempt in Central African Republic](https://www.reddit.com/r/news/comments/zngji3/russian_linked_to_wagner_badly_hurt_in/)
+- [US religious conspiracist linked to Queensland police killers Gareth and Stacey Train | Wieambilla shooting](https://www.reddit.com/r/news/comments/znfkfp/us_religious_conspiracist_linked_to_queensland/)
 <!-- REDDIT:END -->
 
 
