@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Records: Capitol rioter plotted to kill federal agents in Tennessee](https://www.reddit.com/r/news/comments/znym2v/records_capitol_rioter_plotted_to_kill_federal/)
+- [Elon Musk Seeks Additional Funds for Twitter](https://www.reddit.com/r/news/comments/znxsy3/elon_musk_seeks_additional_funds_for_twitter/)
+- [Angelina Jolie bows out as envoy for U.N. refugee agency](https://www.reddit.com/r/news/comments/znwkfz/angelina_jolie_bows_out_as_envoy_for_un_refugee/)
+- [Police officer fired again after initially leaving for giving feces sandwich to homeless man](https://www.reddit.com/r/news/comments/znv394/police_officer_fired_again_after_initially/)
+- [Growing fears of &#39;dead pool&#39; on Colorado River as drought threatens Hoover Dam water](https://www.reddit.com/r/news/comments/znthnw/growing_fears_of_dead_pool_on_colorado_river_as/)
 <!-- REDDIT:END -->
 
 
