@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 students shot outside Chicago high school](https://www.reddit.com/r/news/comments/znrh6y/4_students_shot_outside_chicago_high_school/)
+- [Father of July 4 parade shooting suspect charged with felony](https://www.reddit.com/r/news/comments/znqcgm/father_of_july_4_parade_shooting_suspect_charged/)
+- [Todd and Julie Chrisley ordered to report to Florida prisons in mid-January | CNN](https://www.reddit.com/r/news/comments/znpvvy/todd_and_julie_chrisley_ordered_to_report_to/)
+- [Oregon city drops fight to keep Google water use private](https://www.reddit.com/r/news/comments/znpapk/oregon_city_drops_fight_to_keep_google_water_use/)
+- [Germany strikes against child sex abuse &#39;darknet&#39; forums – DW – 12/16/2022](https://www.reddit.com/r/news/comments/znp8ah/germany_strikes_against_child_sex_abuse_darknet/)
 <!-- REDDIT:END -->
 
 
