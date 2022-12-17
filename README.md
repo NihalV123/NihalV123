@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kidnapped Mount Vernon 5-year-old found in Vietnam, flown back to Seattle](https://www.reddit.com/r/news/comments/zo4byc/kidnapped_mount_vernon_5yearold_found_in_vietnam/)
+- [Five years ago, a billionaire couple were found strangled by their swimming pool. Their family is offering $35 million to help catch their killer](https://www.reddit.com/r/news/comments/zo2zy4/five_years_ago_a_billionaire_couple_were_found/)
+- [Elon Musk reinstates Twitter accounts of suspended journalists | Twitter](https://www.reddit.com/r/news/comments/zo1l9g/elon_musk_reinstates_twitter_accounts_of/)
+- [Aaron Dean Trial: Psychologist said Dean was &#39;clearly not suitable&#39; to be an officer before FWPD hire](https://www.reddit.com/r/news/comments/zo125t/aaron_dean_trial_psychologist_said_dean_was/)
+- [Records: Capitol rioter plotted to kill federal agents in Tennessee](https://www.reddit.com/r/news/comments/znym2v/records_capitol_rioter_plotted_to_kill_federal/)
 <!-- REDDIT:END -->
 
 
