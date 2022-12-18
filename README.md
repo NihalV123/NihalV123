@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Argentina beat France on penalties after thrilling World Cup final – live reaction](https://www.reddit.com/r/news/comments/zp46ao/argentina_beat_france_on_penalties_after/)
+- [Argentina win the 2022 World Cup, defeating France on penalties.](https://www.reddit.com/r/news/comments/zp43vj/argentina_win_the_2022_world_cup_defeating_france/)
+- [Attacker yells ‘Kanye 2024’ during antisemitic assault, police say](https://www.reddit.com/r/news/comments/zp3sc3/attacker_yells_kanye_2024_during_antisemitic/)
+- [Putin’s Genocide: Nobody Can Claim They Did Not Know](https://www.reddit.com/r/news/comments/zp3alr/putins_genocide_nobody_can_claim_they_did_not_know/)
+- [Mandatory military instruction affects Black and Latino high school students most frequently, report says](https://www.reddit.com/r/news/comments/zp2n2c/mandatory_military_instruction_affects_black_and/)
 <!-- REDDIT:END -->
 
 
