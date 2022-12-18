@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Hampshire and New Jersey men accused of smuggling military equipment to Russia](https://www.reddit.com/r/news/comments/zoihse/new_hampshire_and_new_jersey_men_accused_of/)
+- [Some workers could see as much as 66% raise as University of California and striking union reach agreement](https://www.reddit.com/r/news/comments/zohpoo/some_workers_could_see_as_much_as_66_raise_as/)
+- [Philadelphia Schools to Require Masks After Winter Break](https://www.reddit.com/r/news/comments/zohn9m/philadelphia_schools_to_require_masks_after/)
+- [Average rent in Canada hit over $2K last month – and there’s no signs of slowing](https://www.reddit.com/r/news/comments/zofma0/average_rent_in_canada_hit_over_2k_last_month_and/)
+- [Ohio teacher told principal using students&#39; preferred pronouns violated her religion. She was forced to resign, lawsuit says](https://www.reddit.com/r/news/comments/zofm40/ohio_teacher_told_principal_using_students/)
 <!-- REDDIT:END -->
 
 
