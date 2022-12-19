@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [11 people seriously injured amid turbulence on Hawaii flight](https://www.reddit.com/r/news/comments/zpbysb/11_people_seriously_injured_amid_turbulence_on/)
+- [Destroying Maya treasures to build a tourist train](https://www.reddit.com/r/news/comments/zpbhg9/destroying_maya_treasures_to_build_a_tourist_train/)
+- [Faculty: Purdue Northwest CEO must resign for racist remarks](https://www.reddit.com/r/news/comments/zpb087/faculty_purdue_northwest_ceo_must_resign_for/)
+- [Ex-NBA player Amar’e Stoudemire arrested after allegedly punching, slapping daughter](https://www.reddit.com/r/news/comments/zpah8i/exnba_player_amare_stoudemire_arrested_after/)
+- [Family of alligators greet police serving Detroit eviction notice](https://www.reddit.com/r/news/comments/zpa2go/family_of_alligators_greet_police_serving_detroit/)
 <!-- REDDIT:END -->
 
 
