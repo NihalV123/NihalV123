@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter deletes controversial new policy banning links to other social platforms](https://www.reddit.com/r/news/comments/zpizsp/twitter_deletes_controversial_new_policy_banning/)
+- [2 Men Running Ghost Kitchen Advertised 76 Different Restaurants](https://www.reddit.com/r/news/comments/zphwyg/2_men_running_ghost_kitchen_advertised_76/)
+- [65 girls raped in 11 months by teachers, 2022](https://www.reddit.com/r/news/comments/zpgewj/65_girls_raped_in_11_months_by_teachers_2022/)
+- [Elon Musk blamed a Twitter account for a stalker. Police see no link.](https://www.reddit.com/r/news/comments/zpeokg/elon_musk_blamed_a_twitter_account_for_a_stalker/)
+- [Iguana causes power outage in Florida town for third time this year | CNN](https://www.reddit.com/r/news/comments/zpeglb/iguana_causes_power_outage_in_florida_town_for/)
 <!-- REDDIT:END -->
 
 
