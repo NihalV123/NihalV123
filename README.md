@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Harvey Weinstein found guilty of rape, sexual assault in Los Angeles trial](https://www.reddit.com/r/news/comments/zqek8v/harvey_weinstein_found_guilty_of_rape_sexual/)
+- [Gay couples in India ask Supreme Court to legalise same-sex marriage](https://www.reddit.com/r/news/comments/zqdmia/gay_couples_in_india_ask_supreme_court_to/)
+- [Nurses to strike as ambulance crews plan walkouts.](https://www.reddit.com/r/news/comments/zqd39q/nurses_to_strike_as_ambulance_crews_plan_walkouts/)
+- [Central Park entry gate commemorates the &#39;Exonerated Five&#39;](https://www.reddit.com/r/news/comments/zqago3/central_park_entry_gate_commemorates_the/)
+- [Jury find Harvey Weinstein guilty of rape at Los Angeles trial - ABC News](https://www.reddit.com/r/news/comments/zq82bv/jury_find_harvey_weinstein_guilty_of_rape_at_los/)
 <!-- REDDIT:END -->
 
 
