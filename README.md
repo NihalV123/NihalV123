@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Finland blocks sale of property near army garrison to Russian citizens.](https://www.reddit.com/r/news/comments/zrul0q/finland_blocks_sale_of_property_near_army/)
+- [Trump&#39;s tax returns show he paid no taxes in 2020](https://www.reddit.com/r/news/comments/zrubsc/trumps_tax_returns_show_he_paid_no_taxes_in_2020/)
+- [Planned Parenthood awarded $110K after Spokane clinic protests](https://www.reddit.com/r/news/comments/zrtwnd/planned_parenthood_awarded_110k_after_spokane/)
+- [City of Buffalo sues gun manufacturers, calling them a threat to public health in lawsuit](https://www.reddit.com/r/news/comments/zrt3bp/city_of_buffalo_sues_gun_manufacturers_calling/)
+- [Exclusive: 2020 intel warned Trudeau government that China’s interference in Canadian elections will likely be ‘pervasive’ | Globalnews.ca](https://www.reddit.com/r/news/comments/zrs3zs/exclusive_2020_intel_warned_trudeau_government/)
 <!-- REDDIT:END -->
 
 
