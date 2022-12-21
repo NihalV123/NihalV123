@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mass. Doctor Arrested, Accused of Punching Officer During Jan. 6 Capitol Riot](https://www.reddit.com/r/news/comments/zr3eac/mass_doctor_arrested_accused_of_punching_officer/)
+- [Elon Musk&#39;s Twitter lays off engineers days before Christmas.](https://www.reddit.com/r/news/comments/zr2g2t/elon_musks_twitter_lays_off_engineers_days_before/)
+- [Ukrainian President Zelenskyy to travel to US in first foreign visit since invasion](https://www.reddit.com/r/news/comments/zr25wd/ukrainian_president_zelenskyy_to_travel_to_us_in/)
+- [As Twitter backlash grows, rival Mastodon reaches 2.5 million monthly users](https://www.reddit.com/r/news/comments/zr1yn9/as_twitter_backlash_grows_rival_mastodon_reaches/)
+- [California police say member of Elon Musk&#39;s security team is a suspect following stalker claim](https://www.reddit.com/r/news/comments/zr1xxv/california_police_say_member_of_elon_musks/)
 <!-- REDDIT:END -->
 
 
