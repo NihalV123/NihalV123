@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Germany returns 20 Benin bronzes to Nigeria, noting ‘dark past’](https://www.reddit.com/r/news/comments/zrhqk9/germany_returns_20_benin_bronzes_to_nigeria/)
+- [Court ruling: High earners can&#39;t prevent media accessing their tax data.](https://www.reddit.com/r/news/comments/zrh5fp/court_ruling_high_earners_cant_prevent_media/)
+- [&#39;Twitter is like a plane...with its engines on fire&#39;: Musk reveals company has just $1 billion in cash](https://www.reddit.com/r/news/comments/zrgac7/twitter_is_like_a_planewith_its_engines_on_fire/)
+- [Ancient Aboriginal rock art destroyed by vandals in ‘tragic loss’ at sacred South Australian site | Indigenous art](https://www.reddit.com/r/news/comments/zrckvb/ancient_aboriginal_rock_art_destroyed_by_vandals/)
+- [Enough fentanyl to kill every single American seized in 2022](https://www.reddit.com/r/news/comments/zrcgsw/enough_fentanyl_to_kill_every_single_american/)
 <!-- REDDIT:END -->
 
 
