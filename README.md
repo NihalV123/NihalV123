@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California woman convicted of murdering stepfather after she found nude photos of herself on his computer](https://www.reddit.com/r/news/comments/zsroof/california_woman_convicted_of_murdering/)
+- [Arizona to remove makeshift border wall as part of a lawsuit, court filing says](https://www.reddit.com/r/news/comments/zsrf8c/arizona_to_remove_makeshift_border_wall_as_part/)
+- [Super Bowl winner Ronnie Hillman dies aged 31 after cancer battle](https://www.reddit.com/r/news/comments/zsr7ne/super_bowl_winner_ronnie_hillman_dies_aged_31/)
+- [Media outlets push fears of officers overdosing from fentanyl exposures. Doctors say it doesn&#39;t add up. | CNN Business](https://www.reddit.com/r/news/comments/zspu61/media_outlets_push_fears_of_officers_overdosing/)
+- [Final tally: Nearly 107,000 US overdose deaths last year](https://www.reddit.com/r/news/comments/zspsj4/final_tally_nearly_107000_us_overdose_deaths_last/)
 <!-- REDDIT:END -->
 
 
