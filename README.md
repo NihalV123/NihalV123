@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia says Patriot missiles for Kyiv won&#39;t help settle Ukraine conflict](https://www.reddit.com/r/news/comments/zsj8p8/russia_says_patriot_missiles_for_kyiv_wont_help/)
+- [Chick-fil-A fined over &quot;volunteer&quot; program that paid people in meals, not cash](https://www.reddit.com/r/news/comments/zsj0ey/chickfila_fined_over_volunteer_program_that_paid/)
+- [Vandals destroy 30,000-year-old Aboriginal art - BBC News](https://www.reddit.com/r/news/comments/zsfzj2/vandals_destroy_30000yearold_aboriginal_art_bbc/)
+- [Native Hawaiian women and girls experience sex trafficking and violence at alarming rates, report says](https://www.reddit.com/r/news/comments/zsfnpm/native_hawaiian_women_and_girls_experience_sex/)
+- [U.S. life expectancy continued to fall in 2021 as covid, drug deaths surged](https://www.reddit.com/r/news/comments/zsflum/us_life_expectancy_continued_to_fall_in_2021_as/)
 <!-- REDDIT:END -->
 
 
