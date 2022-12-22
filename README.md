@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [21 students, teachers injured after dog attack at school playground](https://www.reddit.com/r/news/comments/zs63la/21_students_teachers_injured_after_dog_attack_at/)
+- [A man who murdered his pregnant partner, her two children, and another child has been sentenced to a whole-life prison term.](https://www.reddit.com/r/news/comments/zs5zl1/a_man_who_murdered_his_pregnant_partner_her_two/)
+- [DC Police Officers Found Guilty in Karon Hylton-Brown’s Death](https://www.reddit.com/r/news/comments/zs3im5/dc_police_officers_found_guilty_in_karon/)
+- [Ali Ahmed Aslam, inventor of chicken tikka masala, dies at 77](https://www.reddit.com/r/news/comments/zs3boa/ali_ahmed_aslam_inventor_of_chicken_tikka_masala/)
+- [A &#39;once in a generation&#39; winter storm will impact nearly every state and cripple Christmas travel](https://www.reddit.com/r/news/comments/zs37tj/a_once_in_a_generation_winter_storm_will_impact/)
 <!-- REDDIT:END -->
 
 
