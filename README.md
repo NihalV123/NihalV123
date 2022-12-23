@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China estimates COVID surge is infecting 37 million people a day](https://www.reddit.com/r/news/comments/ztlbg9/china_estimates_covid_surge_is_infecting_37/)
+- [&#39;Cousin Eddie&#39; display in Kentucky leads to police response](https://www.reddit.com/r/news/comments/ztipqp/cousin_eddie_display_in_kentucky_leads_to_police/)
+- [Serial killer The Serpent, Charles Sobhraj, deported from Nepal](https://www.reddit.com/r/news/comments/zthdhm/serial_killer_the_serpent_charles_sobhraj/)
+- [Boy Scout buys over $11,000 in Christmas gifts for kids in foster care, shelters](https://www.reddit.com/r/news/comments/ztfo9x/boy_scout_buys_over_11000_in_christmas_gifts_for/)
+- [Factbox: Over 300,000 without power on U.S. East Coast, in Texas, due to winter storms](https://www.reddit.com/r/news/comments/ztf7fd/factbox_over_300000_without_power_on_us_east/)
 <!-- REDDIT:END -->
 
 
