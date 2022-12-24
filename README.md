@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 9 dead as massive winter storm leaves more than a million without power and bitter cold across much of US | CNN](https://www.reddit.com/r/news/comments/zu666l/at_least_9_dead_as_massive_winter_storm_leaves/)
+- [An inflation measure watched by the Fed eases to 5.5%](https://www.reddit.com/r/news/comments/zu2i0t/an_inflation_measure_watched_by_the_fed_eases_to/)
+- [The $52 billion plan to save New York’s low-lying areas from sea level rise and storm surges](https://www.reddit.com/r/news/comments/zu1goo/the_52_billion_plan_to_save_new_yorks_lowlying/)
+- [US Marines must allow Sikh recruits with beards, court rules](https://www.reddit.com/r/news/comments/zu071c/us_marines_must_allow_sikh_recruits_with_beards/)
+- [Mall of America on lockdown due to active shooter.](https://www.reddit.com/r/news/comments/ztzzag/mall_of_america_on_lockdown_due_to_active_shooter/)
 <!-- REDDIT:END -->
 
 
