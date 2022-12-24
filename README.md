@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Marines must allow Sikh recruits with beards, court rules](https://www.reddit.com/r/news/comments/zu071c/us_marines_must_allow_sikh_recruits_with_beards/)
+- [Mall of America on lockdown due to active shooter.](https://www.reddit.com/r/news/comments/ztzzag/mall_of_america_on_lockdown_due_to_active_shooter/)
+- [4 dead in pileup with at least 46 vehicles in Ohio, authorities say](https://www.reddit.com/r/news/comments/ztzvqq/4_dead_in_pileup_with_at_least_46_vehicles_in/)
+- [Factbox: About 1.2 million without power in United States from winter storms](https://www.reddit.com/r/news/comments/ztyfk4/factbox_about_12_million_without_power_in_united/)
+- [Police hold active shooter training for LGBTQ+ venues after Club Q massacre](https://www.reddit.com/r/news/comments/ztyf8g/police_hold_active_shooter_training_for_lgbtq/)
 <!-- REDDIT:END -->
 
 
