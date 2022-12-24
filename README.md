@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter restores suicide-prevention hotline feature after outcry](https://www.reddit.com/r/news/comments/zuea3w/twitter_restores_suicideprevention_hotline/)
+- [Roads cleared after multiple pileups on I-94, drivers warned](https://www.reddit.com/r/news/comments/zudi8k/roads_cleared_after_multiple_pileups_on_i94/)
+- [Faithless singer Maxi Jazz dies aged 65](https://www.reddit.com/r/news/comments/zud93l/faithless_singer_maxi_jazz_dies_aged_65/)
+- [Airlines cancel 10,000 flights during severe winter storms and scramble to rebook holiday travelers](https://www.reddit.com/r/news/comments/zucwcx/airlines_cancel_10000_flights_during_severe/)
+- [Russia-Ukraine war: Strikes on Kherson kill seven](https://www.reddit.com/r/news/comments/zucaq1/russiaukraine_war_strikes_on_kherson_kill_seven/)
 <!-- REDDIT:END -->
 
 
