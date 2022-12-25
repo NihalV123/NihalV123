@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minnesota police arrest five after fatal Mall of America Shooting](https://www.reddit.com/r/news/comments/zumapv/minnesota_police_arrest_five_after_fatal_mall_of/)
+- [U.S. Declares Texas Grid Emergency in Arctic Blast](https://www.reddit.com/r/news/comments/zum75c/us_declares_texas_grid_emergency_in_arctic_blast/)
+- [Leaked notes from Chinese health officials estimate 250 million Covid-19 infections in December](https://www.reddit.com/r/news/comments/zuhsxc/leaked_notes_from_chinese_health_officials/)
+- [BioNTech starts human trial to test malaria vaccine based on its mRNA technology](https://www.reddit.com/r/news/comments/zuhb1x/biontech_starts_human_trial_to_test_malaria/)
+- [Lake loses suit over her defeat in Arizona governor’s race](https://www.reddit.com/r/news/comments/zuh2c9/lake_loses_suit_over_her_defeat_in_arizona/)
 <!-- REDDIT:END -->
 
 
