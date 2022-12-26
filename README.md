@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hardliner Clerics In Iran Demand More Executions, Amputations](https://www.reddit.com/r/news/comments/zvrjot/hardliner_clerics_in_iran_demand_more_executions/)
+- [US warns of possible attack in Islamabad amid security fears](https://www.reddit.com/r/news/comments/zvqnub/us_warns_of_possible_attack_in_islamabad_amid/)
+- [South Korea launches jets, fires shots after North flies drones](https://www.reddit.com/r/news/comments/zvqmii/south_korea_launches_jets_fires_shots_after_north/)
+- [City of Jackson, Mississippi, issues boil water notice as cold weather likely caused breaks in the troubled system](https://www.reddit.com/r/news/comments/zvqegw/city_of_jackson_mississippi_issues_boil_water/)
+- [Insect protein maker to build second US facility](https://www.reddit.com/r/news/comments/zvq7mo/insect_protein_maker_to_build_second_us_facility/)
 <!-- REDDIT:END -->
 
 
