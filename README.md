@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Uber driver hospitalized after attack on Christmas Eve](https://www.reddit.com/r/news/comments/zvejhj/uber_driver_hospitalized_after_attack_on/)
+- [Dozens of Chinese warplanes cross Taiwan median line](https://www.reddit.com/r/news/comments/zvdwus/dozens_of_chinese_warplanes_cross_taiwan_median/)
+- [China&#39;s COVID-19 surge raises odds of new coronavirus variants](https://www.reddit.com/r/news/comments/zvdq7h/chinas_covid19_surge_raises_odds_of_new/)
+- [New York continues to lead nation in population loss as Florida, Texas gain](https://www.reddit.com/r/news/comments/zvaw66/new_york_continues_to_lead_nation_in_population/)
+- [Frigid monster storm across US claims at least 34 lives](https://www.reddit.com/r/news/comments/zv9x3h/frigid_monster_storm_across_us_claims_at_least_34/)
 <!-- REDDIT:END -->
 
 
