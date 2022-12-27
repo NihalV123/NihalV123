@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Convicted ringleader in Michigan governor kidnapping plot faces sentencing](https://www.reddit.com/r/news/comments/zwdgvr/convicted_ringleader_in_michigan_governor/)
+- [UFC Hall of Famer Stephan Bonnar dead at age 45](https://www.reddit.com/r/news/comments/zw9f5x/ufc_hall_of_famer_stephan_bonnar_dead_at_age_45/)
+- [China ends Covid quarantine for travellers in January](https://www.reddit.com/r/news/comments/zw8w0a/china_ends_covid_quarantine_for_travellers_in/)
+- [Grand Prairie maintenance worker checking pipes killed by person who thought he was a burglar, police say.](https://www.reddit.com/r/news/comments/zw8q2m/grand_prairie_maintenance_worker_checking_pipes/)
+- [Russian meat magnate who criticised Putin’s war dies after hotel fall](https://www.reddit.com/r/news/comments/zw7beq/russian_meat_magnate_who_criticised_putins_war/)
 <!-- REDDIT:END -->
 
 
