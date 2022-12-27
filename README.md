@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian meat magnate who criticised Putin’s war dies after hotel fall](https://www.reddit.com/r/news/comments/zw7beq/russian_meat_magnate_who_criticised_putins_war/)
+- [Polar bears dying at a rapid rate near Canada&#39;s &quot;Polar Bear Capital&quot; as Arctic sea ice disappears](https://www.reddit.com/r/news/comments/zw5v7x/polar_bears_dying_at_a_rapid_rate_near_canadas/)
+- [Kosovo: Serbia puts troops on high alert over rising tensions](https://www.reddit.com/r/news/comments/zw36zv/kosovo_serbia_puts_troops_on_high_alert_over/)
+- [4th Washington state electrical substation vandalized](https://www.reddit.com/r/news/comments/zw2vcd/4th_washington_state_electrical_substation/)
+- [Rohingya refugees reach Indonesia after month at sea](https://www.reddit.com/r/news/comments/zw2jxa/rohingya_refugees_reach_indonesia_after_month_at/)
 <!-- REDDIT:END -->
 
 
