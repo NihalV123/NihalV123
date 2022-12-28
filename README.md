@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Pope Benedict is &#39;very sick&#39;, Pope Francis says](https://www.reddit.com/r/news/comments/zx6zbg/former_pope_benedict_is_very_sick_pope_francis/)
+- [Ship insurers to cancel war cover for Russia, Ukraine from Jan 1](https://www.reddit.com/r/news/comments/zx6z6j/ship_insurers_to_cancel_war_cover_for_russia/)
+- [Russia&#39;s war on Ukraine latest: Russia fires rockets into Kherson](https://www.reddit.com/r/news/comments/zx6ntv/russias_war_on_ukraine_latest_russia_fires/)
+- [New sanctions starting to bite Russia’s economy as Moscow admits deficit impact](https://www.reddit.com/r/news/comments/zx3t5j/new_sanctions_starting_to_bite_russias_economy_as/)
+- [Cybersecurity firm links Piers Morgan Twitter hack to leak of 400m records](https://www.reddit.com/r/news/comments/zx3cxj/cybersecurity_firm_links_piers_morgan_twitter/)
 <!-- REDDIT:END -->
 
 
