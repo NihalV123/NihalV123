@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Buffalo woman saves man with severe frostbite after getting him out of the storm and pleading for help in a Facebook livestream](https://www.reddit.com/r/news/comments/zx024x/buffalo_woman_saves_man_with_severe_frostbite/)
+- [BioNTech doses first patient in herpes vaccine candidate clinical trial](https://www.reddit.com/r/news/comments/zwzk8a/biontech_doses_first_patient_in_herpes_vaccine/)
+- [Egg prices have doubled over the last year](https://www.reddit.com/r/news/comments/zwzbsg/egg_prices_have_doubled_over_the_last_year/)
+- [Noah Galle, Parents, Sued Again After Crash Leaves Six Dead in Delray Beach](https://www.reddit.com/r/news/comments/zwxzbq/noah_galle_parents_sued_again_after_crash_leaves/)
+- [Driving ban remains in effect in Buffalo as storm&#39;s death toll rises](https://www.reddit.com/r/news/comments/zwx776/driving_ban_remains_in_effect_in_buffalo_as/)
 <!-- REDDIT:END -->
 
 
