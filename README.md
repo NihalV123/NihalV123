@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One of eight teen girls charged in Toronto stabbing death granted bail](https://www.reddit.com/r/news/comments/zya7qh/one_of_eight_teen_girls_charged_in_toronto/)
+- [At least 82 children in Ohio infected with measles, more than half of whom are unvaccinated babies and toddlers](https://www.reddit.com/r/news/comments/zy8u3m/at_least_82_children_in_ohio_infected_with/)
+- [Homeland Security warns of potential domestic extremist-fueled violence related to Title 42](https://www.reddit.com/r/news/comments/zy8prw/homeland_security_warns_of_potential_domestic/)
+- [Christmas Day dust up at Waffle House ends in arrests](https://www.reddit.com/r/news/comments/zy8nnk/christmas_day_dust_up_at_waffle_house_ends_in/)
+- [N.Y. mom who works with abuse victims struck by SUV driven by estranged husband, who then stabbed her in front of kids, officials say](https://www.reddit.com/r/news/comments/zy8kuz/ny_mom_who_works_with_abuse_victims_struck_by_suv/)
 <!-- REDDIT:END -->
 
 
