@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter outage hits thousands of users globally](https://www.reddit.com/r/news/comments/zxv4iv/twitter_outage_hits_thousands_of_users_globally/)
+- [U.S. Virgin Islands Sues JPMorgan Over Epstein Sex-Trafficking Scheme](https://www.reddit.com/r/news/comments/zxty0a/us_virgin_islands_sues_jpmorgan_over_epstein/)
+- [Column: Southwest&#39;s meltdown was born in America&#39;s cheapskate corporate culture](https://www.reddit.com/r/news/comments/zxtseu/column_southwests_meltdown_was_born_in_americas/)
+- [US House bans TikTok from official devices](https://www.reddit.com/r/news/comments/zxtopy/us_house_bans_tiktok_from_official_devices/)
+- [Professor sues TikToker who accused her in University of Idaho murders](https://www.reddit.com/r/news/comments/zxrqzq/professor_sues_tiktoker_who_accused_her_in/)
 <!-- REDDIT:END -->
 
 
