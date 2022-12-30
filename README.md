@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man Arrested in Miami for Role in January 6 Insurrection at U.S. Capitol](https://www.reddit.com/r/news/comments/zyikk5/man_arrested_in_miami_for_role_in_january_6/)
+- [Luxury villa of influencer Andrew Tate and his brother Tristan raided by Romanian police](https://www.reddit.com/r/news/comments/zyhqu4/luxury_villa_of_influencer_andrew_tate_and_his/)
+- [Seattle tech worker charged for theft inspired by the movie &#39;Office Space&#39;](https://www.reddit.com/r/news/comments/zyh2sg/seattle_tech_worker_charged_for_theft_inspired_by/)
+- [New York’s first legal dispensary for recreational marijuana opens doors](https://www.reddit.com/r/news/comments/zygvqx/new_yorks_first_legal_dispensary_for_recreational/)
+- [Wilson man sentenced to life in prison for shooting 5-year-old neighbor in the head](https://www.reddit.com/r/news/comments/zyg1z5/wilson_man_sentenced_to_life_in_prison_for/)
 <!-- REDDIT:END -->
 
 
