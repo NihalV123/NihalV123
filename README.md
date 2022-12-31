@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter Employees Bring Their Own Toilet Paper After Elon Musk Fired Janitors: Report](https://www.reddit.com/r/news/comments/zzrhny/twitter_employees_bring_their_own_toilet_paper/)
+- [Authorities tracked the Idaho student killings suspect as he drove cross-country to Pennsylvania, sources say](https://www.reddit.com/r/news/comments/zzowgb/authorities_tracked_the_idaho_student_killings/)
+- [Court: Abortion doctors can’t be charged under Arizona law](https://www.reddit.com/r/news/comments/zzmx2a/court_abortion_doctors_cant_be_charged_under/)
+- [Aerosmith’s Steven Tyler sued for 1970s sexual battery and assault of minor](https://www.reddit.com/r/news/comments/zzmao7/aerosmiths_steven_tyler_sued_for_1970s_sexual/)
+- [MGM Resorts Sells Land That Was Site of Las Vegas Massacre](https://www.reddit.com/r/news/comments/zzkpyh/mgm_resorts_sells_land_that_was_site_of_las_vegas/)
 <!-- REDDIT:END -->
 
 
