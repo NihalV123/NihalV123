@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect in Idaho killings had made &#39;creepy&#39; comments to brewery staff, customers, owner says](https://www.reddit.com/r/news/comments/100oc5l/suspect_in_idaho_killings_had_made_creepy/)
+- [Twitter Sued For Failing To Pay Rent Of San Francisco Office](https://www.reddit.com/r/news/comments/100o55f/twitter_sued_for_failing_to_pay_rent_of_san/)
+- [Iran police detain top-tier football players in raid at party](https://www.reddit.com/r/news/comments/100mmwj/iran_police_detain_toptier_football_players_in/)
+- [Lula to be sworn in as Brazil president as Bolsonaro flies to US](https://www.reddit.com/r/news/comments/100lboh/lula_to_be_sworn_in_as_brazil_president_as/)
+- [IL Supreme Court halts Pre Trial Fairness Act, preventing no cash bail provision from taking effect](https://www.reddit.com/r/news/comments/100l2ke/il_supreme_court_halts_pre_trial_fairness_act/)
 <!-- REDDIT:END -->
 
 
