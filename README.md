@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [11-year-old Texas girl shot and killed by Celebratory Gunfire on New Years](https://www.reddit.com/r/news/comments/100ye1b/11yearold_texas_girl_shot_and_killed_by/)
+- [Russia’s astonishing losses during invasion of Ukraine revealed | news.com.au](https://www.reddit.com/r/news/comments/100xxsn/russias_astonishing_losses_during_invasion_of/)
+- [More social media regulation is coming in 2023, members of Congress say](https://www.reddit.com/r/news/comments/100xvkl/more_social_media_regulation_is_coming_in_2023/)
+- [Police chief in Alaska charged with assaulting man at resort](https://www.reddit.com/r/news/comments/100x1fz/police_chief_in_alaska_charged_with_assaulting/)
+- [Machete-wielding man attacks New York City police at New Year’s Eve event](https://www.reddit.com/r/news/comments/100wsph/machetewielding_man_attacks_new_york_city_police/)
 <!-- REDDIT:END -->
 
 
