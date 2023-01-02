@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mother sues school district after 8th-grade daughter allegedly strip searched](https://www.reddit.com/r/news/comments/1014est/mother_sues_school_district_after_8thgrade/)
+- [Third of world in recession this year, IMF head warns](https://www.reddit.com/r/news/comments/1012xsm/third_of_world_in_recession_this_year_imf_head/)
+- [Jeremy Renner critical but stable condition after snow plow accident](https://www.reddit.com/r/news/comments/1012jcs/jeremy_renner_critical_but_stable_condition_after/)
+- [Suspect in New Year’s Eve machete attack on New York police officers expressed desire in diary to join Taliban, die a martyr, sources say](https://www.reddit.com/r/news/comments/1012j4p/suspect_in_new_years_eve_machete_attack_on_new/)
+- [New law: Seniors on medicare kick off New Year with $35 insulin](https://www.reddit.com/r/news/comments/10120xu/new_law_seniors_on_medicare_kick_off_new_year/)
 <!-- REDDIT:END -->
 
 
