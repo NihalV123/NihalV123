@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada bans most foreigners from buying homes](https://www.reddit.com/r/news/comments/101rg7g/canada_bans_most_foreigners_from_buying_homes/)
+- [Idaho murders: Suspect was identified through DNA using genealogy databases, police say](https://www.reddit.com/r/news/comments/101rfrm/idaho_murders_suspect_was_identified_through_dna/)
+- [Canada is banning some foreigners from buying property after home prices surged | CNN Business](https://www.reddit.com/r/news/comments/101qu97/canada_is_banning_some_foreigners_from_buying/)
+- [Sources: Brackenridge Police Chief Justin McIntire killed, another officer injured in shootout with suspect](https://www.reddit.com/r/news/comments/101qu7r/sources_brackenridge_police_chief_justin_mcintire/)
+- [These states are raising their minimum wages in 2023. Chart shows where workers can expect higher pay](https://www.reddit.com/r/news/comments/101qofy/these_states_are_raising_their_minimum_wages_in/)
 <!-- REDDIT:END -->
 
 
