@@ -357,11 +357,11 @@ Top 4 most used languages across your repositories:
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
-- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
-- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
-- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
-- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
+- [Change window size on Flutter programmatically](https://blog.albertobonacina.com/change-window-size-on-flutter-programmatically)
+- [The biggest lesson learned this year for the Dev Retro 2022](https://blog.albertobonacina.com/the-biggest-lesson-learned-this-year-for-the-dev-retro-2022)
+- [Save Bookmarks to Notion Database with Telegram and Quarkus](https://blog.albertobonacina.com/save-bookmarks-to-notion-database-with-telegram-and-quarkus)
+- [Wassword: wonderful password generator built in Flutter](https://blog.albertobonacina.com/wassword-wonderful-password-generator-built-in-flutter)
+- [Building a Post Scheduling App with HarperDB &amp; Flutter](https://blog.albertobonacina.com/building-a-post-scheduling-app-with-harperdb-and-flutter)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
