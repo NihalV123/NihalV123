@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The UK recession will be almost as deep as that of Russia, economists predict](https://www.reddit.com/r/news/comments/102z1z8/the_uk_recession_will_be_almost_as_deep_as_that/)
+- [Abortion Pills to Be Available More Widely Under New FDA Rules - WSJ](https://www.reddit.com/r/news/comments/102ufd8/abortion_pills_to_be_available_more_widely_under/)
+- [Teenage pilot makes emergency landing near two-lane highway in California](https://www.reddit.com/r/news/comments/102sqsv/teenage_pilot_makes_emergency_landing_near/)
+- [Apollo 7 astronaut Walter Cunningham dead at 90 - The Washington Post](https://www.reddit.com/r/news/comments/102qu3j/apollo_7_astronaut_walter_cunningham_dead_at_90/)
+- [Amber McLaughlin, the first openly transgender person to be executed in the U.S., dies by lethal injection](https://www.reddit.com/r/news/comments/102qc4u/amber_mclaughlin_the_first_openly_transgender/)
 <!-- REDDIT:END -->
 
 
