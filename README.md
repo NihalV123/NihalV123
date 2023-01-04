@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. FDA says abortion pills can be sold at retail pharmacies](https://www.reddit.com/r/news/comments/102oo9t/us_fda_says_abortion_pills_can_be_sold_at_retail/)
+- [Jeremy Renner shares first photo since snow plowing accident | CNN](https://www.reddit.com/r/news/comments/102nsdd/jeremy_renner_shares_first_photo_since_snow/)
+- [2 cruise ships rescue more migrants off Florida coast](https://www.reddit.com/r/news/comments/102m622/2_cruise_ships_rescue_more_migrants_off_florida/)
+- [Tesla shares tumble more than 12% following deliveries report](https://www.reddit.com/r/news/comments/102m52c/tesla_shares_tumble_more_than_12_following/)
+- [Most EU countries back COVID pre-departure testing for flights from China](https://www.reddit.com/r/news/comments/102j5ex/most_eu_countries_back_covid_predeparture_testing/)
 <!-- REDDIT:END -->
 
 
