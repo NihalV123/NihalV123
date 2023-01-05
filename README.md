@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [8 found fatally shot in Utah home, including 5 children](https://www.reddit.com/r/news/comments/103wnpw/8_found_fatally_shot_in_utah_home_including_5/)
+- [Delta workers accuse airline of ‘culture of fear’ amid attempts to unionize](https://www.reddit.com/r/news/comments/103wgz5/delta_workers_accuse_airline_of_culture_of_fear/)
+- [Army general investigated for defending female troops online retires honorably](https://www.reddit.com/r/news/comments/103tjtn/army_general_investigated_for_defending_female/)
+- [Stars of 1968&#39;s &#39;Romeo and Juliet&#39; sue Paramount over nude scenes filmed when they were minors](https://www.reddit.com/r/news/comments/103rvga/stars_of_1968s_romeo_and_juliet_sue_paramount/)
+- [Bessie Hendricks, oldest person in US, dies at 115 in Lake City.](https://www.reddit.com/r/news/comments/103pnlc/bessie_hendricks_oldest_person_in_us_dies_at_115/)
 <!-- REDDIT:END -->
 
 
