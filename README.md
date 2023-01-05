@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina Supreme Court strikes down anti-abortion law](https://www.reddit.com/r/news/comments/1044q7j/south_carolina_supreme_court_strikes_down/)
+- [American Airlines retaliated against employees who reported toxic fumes, OSHA says](https://www.reddit.com/r/news/comments/10443x4/american_airlines_retaliated_against_employees/)
+- [Damar Hamlin awake and holding hands with family, his agency tells CNN, following his cardiac arrest during NFL game](https://www.reddit.com/r/news/comments/1042rc1/damar_hamlin_awake_and_holding_hands_with_family/)
+- [Parents Seek Answers After Gun Found in Waxahachie, TX School Bathroom](https://www.reddit.com/r/news/comments/10429ry/parents_seek_answers_after_gun_found_in/)
+- [US government moves to seize $450 million Robinhood stake linked to Sam Bankman-Fried | CNN Business](https://www.reddit.com/r/news/comments/1041ly8/us_government_moves_to_seize_450_million/)
 <!-- REDDIT:END -->
 
 
