@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bessie Hendricks, oldest person in US, dies at 115 in Lake City.](https://www.reddit.com/r/news/comments/103pnlc/bessie_hendricks_oldest_person_in_us_dies_at_115/)
+- [US government approves use of world’s first vaccine for honeybees](https://www.reddit.com/r/news/comments/103odee/us_government_approves_use_of_worlds_first/)
+- [Cancer Vaccine to Simultaneously Kill and Prevent Brain Cancer Developed](https://www.reddit.com/r/news/comments/103o14q/cancer_vaccine_to_simultaneously_kill_and_prevent/)
+- [Eight people found shot dead in Utah home](https://www.reddit.com/r/news/comments/103nllk/eight_people_found_shot_dead_in_utah_home/)
+- [Iran warns France over ‘insulting’ cartoons depicting supreme leader Ali Khamenei](https://www.reddit.com/r/news/comments/103m1bu/iran_warns_france_over_insulting_cartoons/)
 <!-- REDDIT:END -->
 
 
