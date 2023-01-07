@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Holy grail’ wheat gene discovery could feed our overheated world | Climate crisis](https://www.reddit.com/r/news/comments/105u1xt/holy_grail_wheat_gene_discovery_could_feed_our/)
+- [Pittsburgh Steelers players deliver toys, books, and supplies to daycare Damar Hamlin supports](https://www.reddit.com/r/news/comments/105tzn3/pittsburgh_steelers_players_deliver_toys_books/)
+- [West Virginia journalist let go after reporting on abuse allegations](https://www.reddit.com/r/news/comments/105tvaj/west_virginia_journalist_let_go_after_reporting/)
+- [Huge boa constrictor snake found in carry-on baggage](https://www.reddit.com/r/news/comments/105ryfp/huge_boa_constrictor_snake_found_in_carryon/)
+- [U.S. appeals court strikes down ban on bump stocks](https://www.reddit.com/r/news/comments/105raxd/us_appeals_court_strikes_down_ban_on_bump_stocks/)
 <!-- REDDIT:END -->
 
 
