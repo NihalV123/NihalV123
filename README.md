@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jen Shah, &quot;Real Housewives of Salt Lake City&quot; star, sentenced to 6.5 years in prison](https://www.reddit.com/r/news/comments/105mifr/jen_shah_real_housewives_of_salt_lake_city_star/)
+- [Iran executes 2 more men detained amid nationwide protests](https://www.reddit.com/r/news/comments/105lhy7/iran_executes_2_more_men_detained_amid_nationwide/)
+- [Texas woman kidnapped by Bumble date and repeatedly assaulted for nearly a week after she denied his sexual advances, police say](https://www.reddit.com/r/news/comments/105l8ej/texas_woman_kidnapped_by_bumble_date_and/)
+- [Man arrested after urinating on 71-year-old passenger on Air India flight from JFK](https://www.reddit.com/r/news/comments/105l3i3/man_arrested_after_urinating_on_71yearold/)
+- [Kevin McCarthy elected House speaker on 15th round after fight nearly breaks out](https://www.reddit.com/r/news/comments/105h2uv/kevin_mccarthy_elected_house_speaker_on_15th/)
 <!-- REDDIT:END -->
 
 
