@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hundreds of thousands left without power in California as forecasters warn of &#39;relentless&#39; cyclones](https://www.reddit.com/r/news/comments/106p41g/hundreds_of_thousands_left_without_power_in/)
+- [UK: Schools developing lessons to re-educate teens brainwashed by Andrew Tate&#39;s misogynistic content](https://www.reddit.com/r/news/comments/106ogkq/uk_schools_developing_lessons_to_reeducate_teens/)
+- [Single-use plastic cutlery and plates to be banned in England](https://www.reddit.com/r/news/comments/106nm4a/singleuse_plastic_cutlery_and_plates_to_be_banned/)
+- [2 men hospitalized after small plane crashes into storage unit in Kent, WA](https://www.reddit.com/r/news/comments/106nlp1/2_men_hospitalized_after_small_plane_crashes_into/)
+- [NATO declines Serbia&#39;s request to deploy its troops in Kosovo](https://www.reddit.com/r/news/comments/106laen/nato_declines_serbias_request_to_deploy_its/)
 <!-- REDDIT:END -->
 
 
