@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Some 7,000 nurses at two of NYC&#39;s largest hospitals poised to go on strike](https://www.reddit.com/r/news/comments/107b03m/some_7000_nurses_at_two_of_nycs_largest_hospitals/)
+- [Fashion brands paid Bangladesh factories less than cost - report](https://www.reddit.com/r/news/comments/1079z0t/fashion_brands_paid_bangladesh_factories_less/)
+- [US Farmers win right to repair John Deere equipment](https://www.reddit.com/r/news/comments/1075xqa/us_farmers_win_right_to_repair_john_deere/)
+- [Ben Sasse officially resigns from Senate to become University of Florida president](https://www.reddit.com/r/news/comments/1074bqm/ben_sasse_officially_resigns_from_senate_to/)
+- [Bernard Kalb, longtime foreign affairs newsman, dies at 100](https://www.reddit.com/r/news/comments/1073my0/bernard_kalb_longtime_foreign_affairs_newsman/)
 <!-- REDDIT:END -->
 
 
