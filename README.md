@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bob Iger tells Disney employees they must return to the office four days a week](https://www.reddit.com/r/news/comments/107kelw/bob_iger_tells_disney_employees_they_must_return/)
+- [Woman sentenced to three years in state prison for collecting $400,000 in viral GoFundMe scam](https://www.reddit.com/r/news/comments/107k2jw/woman_sentenced_to_three_years_in_state_prison/)
+- [Goldman Sachs to start cutting thousands of jobs midweek](https://www.reddit.com/r/news/comments/107j47j/goldman_sachs_to_start_cutting_thousands_of_jobs/)
+- [Georgia special grand jury finishes probe of 2020 election](https://www.reddit.com/r/news/comments/107im3q/georgia_special_grand_jury_finishes_probe_of_2020/)
+- [UN says ozone layer slowly healing, hole to mend by 2066](https://www.reddit.com/r/news/comments/107iayc/un_says_ozone_layer_slowly_healing_hole_to_mend/)
 <!-- REDDIT:END -->
 
 
