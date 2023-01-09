@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protesters rally across North America on the third anniversary of Iran&#39;s downing of Flight PS752 | CNN](https://www.reddit.com/r/news/comments/106y8mp/protesters_rally_across_north_america_on_the/)
+- [31-year-old Arkansas man arrested after hammering open an altar at a preparatory school church, police say](https://www.reddit.com/r/news/comments/106xrpo/31yearold_arkansas_man_arrested_after_hammering/)
+- [Police arrest husband of missing Massachusetts mom of 3 for allegedly misleading investigators](https://www.reddit.com/r/news/comments/106xqf1/police_arrest_husband_of_missing_massachusetts/)
+- [Elementary student describes lockdown horror at Virginia school where police say a 6-year-old shot a teacher | CNN](https://www.reddit.com/r/news/comments/106wv2c/elementary_student_describes_lockdown_horror_at/)
+- [Alabama woman who joined IS hopes to return from Syria camp](https://www.reddit.com/r/news/comments/106vd5q/alabama_woman_who_joined_is_hopes_to_return_from/)
 <!-- REDDIT:END -->
 
 
