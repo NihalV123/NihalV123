@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Outrage mounts in D.C. after man fatally shoots boy, 13, he suspected was breaking into cars](https://www.reddit.com/r/news/comments/108fjp7/outrage_mounts_in_dc_after_man_fatally_shoots_boy/)
+- [Belarus legalizes pirated movies, music and software from “unfriendly countries”](https://www.reddit.com/r/news/comments/108euxc/belarus_legalizes_pirated_movies_music_and/)
+- [Extreme weather left 474 people dead and cost $165bn in the US last year | Climate crisis](https://www.reddit.com/r/news/comments/108e316/extreme_weather_left_474_people_dead_and_cost/)
+- [NJ&#39;s list of &#39;sensitive places&#39; restricting guns is temporarily halted by judge](https://www.reddit.com/r/news/comments/108dgd6/njs_list_of_sensitive_places_restricting_guns_is/)
+- [Pro-Trump entertainer Diamond of Diamond and Silk dies at 51](https://www.reddit.com/r/news/comments/108devo/protrump_entertainer_diamond_of_diamond_and_silk/)
 <!-- REDDIT:END -->
 
 
