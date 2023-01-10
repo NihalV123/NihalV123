@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [6-year-old who shot teacher took the gun from his mother, police say](https://www.reddit.com/r/news/comments/107s7bf/6yearold_who_shot_teacher_took_the_gun_from_his/)
+- [More than 1,000 people detained in connection with attack on Brazil&#39;s capital](https://www.reddit.com/r/news/comments/107qy02/more_than_1000_people_detained_in_connection_with/)
+- [Supreme Court declines to hear another longshot 2020 election fraud challenge](https://www.reddit.com/r/news/comments/107qlcr/supreme_court_declines_to_hear_another_longshot/)
+- [Woman dies at a mall in Finland, 4 security guards suspected of manslaughter.](https://www.reddit.com/r/news/comments/107qh0k/woman_dies_at_a_mall_in_finland_4_security_guards/)
+- [Supreme Court seeks U.S. government view on charter school&#39;s skirt requirement](https://www.reddit.com/r/news/comments/107pp03/supreme_court_seeks_us_government_view_on_charter/)
 <!-- REDDIT:END -->
 
 
