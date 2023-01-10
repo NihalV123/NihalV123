@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Report: Brian Walshe&#39;s internet history includes searches for how to dispose of a women&#39;s body](https://www.reddit.com/r/news/comments/107yxde/report_brian_walshes_internet_history_includes/)
+- [12-year-old in custody in Oklahoma for fatally stabbing 9-year-old brother while parent slept upstairs, police say](https://www.reddit.com/r/news/comments/107xhqm/12yearold_in_custody_in_oklahoma_for_fatally/)
+- [Grand jury will decide fate of customer who shot and killed robber at taqueria, Houston PD says](https://www.reddit.com/r/news/comments/107wo7r/grand_jury_will_decide_fate_of_customer_who_shot/)
+- [Rolls-Royce sees record sales in 2022, no slowdown in spending by the wealthy](https://www.reddit.com/r/news/comments/107vwvy/rollsroyce_sees_record_sales_in_2022_no_slowdown/)
+- [Rising MMA star Victoria Lee dies at 18](https://www.reddit.com/r/news/comments/107v1pk/rising_mma_star_victoria_lee_dies_at_18/)
 <!-- REDDIT:END -->
 
 
