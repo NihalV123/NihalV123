@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas set to execute former cop for hiring 2 people to kill his wife during custody battle nearly 30 years ago](https://www.reddit.com/r/news/comments/108pfyr/texas_set_to_execute_former_cop_for_hiring_2/)
+- [Andrew Tate loses legal appeal to end detention in Romania](https://www.reddit.com/r/news/comments/108odt5/andrew_tate_loses_legal_appeal_to_end_detention/)
+- [Retired Missouri priest sentenced for possessing child porn](https://www.reddit.com/r/news/comments/108ng5r/retired_missouri_priest_sentenced_for_possessing/)
+- [U.S. Supreme Court considers narrowing federal protections for unions](https://www.reddit.com/r/news/comments/108mu5y/us_supreme_court_considers_narrowing_federal/)
+- [Dr Dre forces Taylor Greene to remove promo video - BBC News](https://www.reddit.com/r/news/comments/108mfb0/dr_dre_forces_taylor_greene_to_remove_promo_video/)
 <!-- REDDIT:END -->
 
 
