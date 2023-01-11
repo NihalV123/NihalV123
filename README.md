@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [All flights across US grounded due to FAA computer system glitch](https://www.reddit.com/r/news/comments/1092grc/all_flights_across_us_grounded_due_to_faa/)
+- [All flights across US grounded due to FAA computer system glitch](https://www.reddit.com/r/news/comments/10926hh/all_flights_across_us_grounded_due_to_faa/)
+- [Musk&#39;s Twitter sued yet again, this time by Bay Area company &lpar;alleging non-payment of services&rpar;](https://www.reddit.com/r/news/comments/108yi1o/musks_twitter_sued_yet_again_this_time_by_bay/)
+- [NASA satellite discovers second Earth-sized planet in habitable zone](https://www.reddit.com/r/news/comments/108ydmq/nasa_satellite_discovers_second_earthsized_planet/)
+- [In-N-Out to open restaurants in Tennessee by 2026, company says](https://www.reddit.com/r/news/comments/108wuzv/innout_to_open_restaurants_in_tennessee_by_2026/)
 <!-- REDDIT:END -->
 
 
