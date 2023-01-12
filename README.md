@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Navy veteran Taylor Dudley released from Russian custody](https://www.reddit.com/r/news/comments/10a4no7/us_navy_veteran_taylor_dudley_released_from/)
+- [CVS sued by a fired nurse practitioner who refused to prescribe birth control due to religious beliefs](https://www.reddit.com/r/news/comments/10a4a7u/cvs_sued_by_a_fired_nurse_practitioner_who/)
+- [Inflation eases to 6.5 percent according to December report](https://www.reddit.com/r/news/comments/10a0frm/inflation_eases_to_65_percent_according_to/)
+- [Archaeologists believe they found the temple of Poseidon in Greece](https://www.reddit.com/r/news/comments/10a06mh/archaeologists_believe_they_found_the_temple_of/)
+- [U.S. consumer prices fall in December; weekly jobless claims edge down](https://www.reddit.com/r/news/comments/10a00tr/us_consumer_prices_fall_in_december_weekly/)
 <!-- REDDIT:END -->
 
 
