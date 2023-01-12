@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Home Depot to change pay policy for hourly employees](https://www.reddit.com/r/news/comments/109jj53/home_depot_to_change_pay_policy_for_hourly/)
+- [Jeff Beck: British guitar legend dies aged 78](https://www.reddit.com/r/news/comments/109hso6/jeff_beck_british_guitar_legend_dies_aged_78/)
+- [Killer whale dies after grounding itself on Florida beach](https://www.reddit.com/r/news/comments/109fpo3/killer_whale_dies_after_grounding_itself_on/)
+- [Biden aides find second batch of classified documents at new location](https://www.reddit.com/r/news/comments/109fpc1/biden_aides_find_second_batch_of_classified/)
+- [Dirt, Internet Famous Railroad Shop Cat, dies at age 15](https://www.reddit.com/r/news/comments/109fahp/dirt_internet_famous_railroad_shop_cat_dies_at/)
 <!-- REDDIT:END -->
 
 
