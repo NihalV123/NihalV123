@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Reward up to $15,000 for information leading to grey wolf OR103 poacher](https://www.reddit.com/r/news/comments/10adn3w/reward_up_to_15000_for_information_leading_to/)
+- [US official warns of risks posed by heavy electric vehicles](https://www.reddit.com/r/news/comments/10acnjh/us_official_warns_of_risks_posed_by_heavy/)
+- [Apple&#39;s first US labor union reaches new milestone for tech industry](https://www.reddit.com/r/news/comments/10acjwa/apples_first_us_labor_union_reaches_new_milestone/)
+- [Nearly all of California exits the worst drought categories in U.S. Drought Monitor](https://www.reddit.com/r/news/comments/10acjk3/nearly_all_of_california_exits_the_worst_drought/)
+- [Report: Lisa Marie Presley, daughter of Elvis, taken to hospital after cardiac arrest](https://www.reddit.com/r/news/comments/10aampt/report_lisa_marie_presley_daughter_of_elvis_taken/)
 <!-- REDDIT:END -->
 
 
