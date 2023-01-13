@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Yellen tells Congress US expected to hit debt limit Thursday](https://www.reddit.com/r/news/comments/10b0fq1/yellen_tells_congress_us_expected_to_hit_debt/)
+- [Michigan mom accused of catfishing teen daughter bound over for trial](https://www.reddit.com/r/news/comments/10b0f7j/michigan_mom_accused_of_catfishing_teen_daughter/)
+- [US renames five places that used racist slur for Native Americans](https://www.reddit.com/r/news/comments/10azeo2/us_renames_five_places_that_used_racist_slur_for/)
+- [‘People are leaving the game’: Dungeons &amp; Dragons fans revolt against new restrictions Wizards of the Coast, which owns the game, is preparing to change longstanding licensing rules.](https://www.reddit.com/r/news/comments/10ayvbk/people_are_leaving_the_game_dungeons_dragons_fans/)
+- [School head: Some knew boy had gun before teacher shot](https://www.reddit.com/r/news/comments/10aylp1/school_head_some_knew_boy_had_gun_before_teacher/)
 <!-- REDDIT:END -->
 
 
