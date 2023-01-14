@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Plume-like cloud ‘shot’ in front of Hawaiian Airlines flight seconds before turbulence injured 25, pilot says](https://www.reddit.com/r/news/comments/10bf9jk/plumelike_cloud_shot_in_front_of_hawaiian/)
+- [JPMorgan paid $175 million for a hot startup. Now it claims its CEO faked 4 million clients.](https://www.reddit.com/r/news/comments/10befty/jpmorgan_paid_175_million_for_a_hot_startup_now/)
+- [Philly Woman Wrongfully Charged With Texas Crime Due to Mistaken Identity](https://www.reddit.com/r/news/comments/10bdswu/philly_woman_wrongfully_charged_with_texas_crime/)
+- [Dogs and cats at Detroit’s animal shelter have no veterinarians, prompting plea for help](https://www.reddit.com/r/news/comments/10bdca4/dogs_and_cats_at_detroits_animal_shelter_have_no/)
+- [Indiana University says student was targeted in bus stabbing for being Asian](https://www.reddit.com/r/news/comments/10bcmuv/indiana_university_says_student_was_targeted_in/)
 <!-- REDDIT:END -->
 
 
