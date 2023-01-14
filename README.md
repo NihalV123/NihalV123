@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Toronto lawyer faces discipline charge for arguing 14-year-old girl is a ‘sexually mature young woman,’ not a child](https://www.reddit.com/r/news/comments/10b9wxb/toronto_lawyer_faces_discipline_charge_for/)
+- [Brazil prepares to seek extradition of Bolsonaro ally from US](https://www.reddit.com/r/news/comments/10b9e4d/brazil_prepares_to_seek_extradition_of_bolsonaro/)
+- [U.S. FDA, CDC see early signal of Pfizer bivalent COVID shot&#39;s link to stroke](https://www.reddit.com/r/news/comments/10b9625/us_fda_cdc_see_early_signal_of_pfizer_bivalent/)
+- [Elon Musk-funded nonprofit run by MIT professor offered to finance Swedish pro-nazi group](https://www.reddit.com/r/news/comments/10b8vim/elon_muskfunded_nonprofit_run_by_mit_professor/)
+- [Paramedics in Illinois charged with murder after patient dies](https://www.reddit.com/r/news/comments/10b86kw/paramedics_in_illinois_charged_with_murder_after/)
 <!-- REDDIT:END -->
 
 
