@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WSJ News Exclusive | George Santos Raised Money for Company the SEC Says Was a Ponzi Scheme](https://www.reddit.com/r/news/comments/10bruhw/wsj_news_exclusive_george_santos_raised_money_for/)
+- [‘Wings like cracked eggshells’: Richard Branson faces turbulence over safety of space flights](https://www.reddit.com/r/news/comments/10br7k2/wings_like_cracked_eggshells_richard_branson/)
+- [China reports huge rise in COVID-related deaths after data criticism](https://www.reddit.com/r/news/comments/10bpkn3/china_reports_huge_rise_in_covidrelated_deaths/)
+- [Rishi Sunak offers tanks to Ukraine to help ‘push Russian troops back’](https://www.reddit.com/r/news/comments/10boyxs/rishi_sunak_offers_tanks_to_ukraine_to_help_push/)
+- [UK condemns barbaric execution of British-Iranian national](https://www.reddit.com/r/news/comments/10bospn/uk_condemns_barbaric_execution_of_britishiranian/)
 <!-- REDDIT:END -->
 
 
