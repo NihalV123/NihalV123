@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran hangs former defence ministry official for spying for UK](https://www.reddit.com/r/news/comments/10c9u43/iran_hangs_former_defence_ministry_official_for/)
+- [David Onley, former lieutenant-governor of Ontario, dead at 72](https://www.reddit.com/r/news/comments/10c8xi1/david_onley_former_lieutenantgovernor_of_ontario/)
+- [UK to supply tanks; Russian missiles hit across Ukraine](https://www.reddit.com/r/news/comments/10c8fs5/uk_to_supply_tanks_russian_missiles_hit_across/)
+- [University: Student stabbed on bus because she is Asian](https://www.reddit.com/r/news/comments/10c8bog/university_student_stabbed_on_bus_because_she_is/)
+- [U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke](https://www.reddit.com/r/news/comments/10c711x/us_fda_cdc_see_early_signal_of_possible_pfizer/)
 <!-- REDDIT:END -->
 
 
