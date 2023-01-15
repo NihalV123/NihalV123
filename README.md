@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sums of money, 15 cars, and 14 luxury watches worth a total of USD 3.8 million, were seized from the Tate brothers following the seizure by Romanian Directorate for Investigating Organized Crime and Terrorism](https://www.reddit.com/r/news/comments/10cgy3b/sums_of_money_15_cars_and_14_luxury_watches_worth/)
+- [LAPD faces scrutiny after death of Black man who was repeatedly shocked with Taser](https://www.reddit.com/r/news/comments/10cfu14/lapd_faces_scrutiny_after_death_of_black_man_who/)
+- [Plane crashes during landing in Nepal resort town; 32 dead](https://www.reddit.com/r/news/comments/10cfl28/plane_crashes_during_landing_in_nepal_resort_town/)
+- [WHO appeals to China to release more COVID-19 information](https://www.reddit.com/r/news/comments/10cfkoz/who_appeals_to_china_to_release_more_covid19/)
+- [Woman raped in unmonitored drug sting sues police handlers](https://www.reddit.com/r/news/comments/10cdzj2/woman_raped_in_unmonitored_drug_sting_sues_police/)
 <!-- REDDIT:END -->
 
 
