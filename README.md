@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [University of Alabama basketball player Darius Miles is removed from the team after being charged with murder | CNN](https://www.reddit.com/r/news/comments/10d6m3b/university_of_alabama_basketball_player_darius/)
+- [Incomes are rising in America, especially for the poorest](https://www.reddit.com/r/news/comments/10d5u8e/incomes_are_rising_in_america_especially_for_the/)
+- [Why an Arab nation has opted to teach the Holocaust in its schools](https://www.reddit.com/r/news/comments/10d56xl/why_an_arab_nation_has_opted_to_teach_the/)
+- [Suspected jihadists kidnap 50 women in Burkina Faso](https://www.reddit.com/r/news/comments/10d4qf4/suspected_jihadists_kidnap_50_women_in_burkina/)
+- [Man arrested on suspicion of attempted murder over London church drive-by shooting](https://www.reddit.com/r/news/comments/10d1srd/man_arrested_on_suspicion_of_attempted_murder/)
 <!-- REDDIT:END -->
 
 
