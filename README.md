@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lithuanian gas pipeline hit by large explosion](https://www.reddit.com/r/news/comments/10dcd79/lithuanian_gas_pipeline_hit_by_large_explosion/)
+- [Mafia Boss Matteo Messina Denaro Arrested After 30-Year Hiding. Sicily&#39;s Cosa Nostra boss was ambushed by Carabinieri at a Palermo cancer clinic](https://www.reddit.com/r/news/comments/10dcae3/mafia_boss_matteo_messina_denaro_arrested_after/)
+- [Security footage shows toddler playing with gun, pulling trigger](https://www.reddit.com/r/news/comments/10dbnuo/security_footage_shows_toddler_playing_with_gun/)
+- [Gunmen Kill Former Female Afghan Lawmaker Who Refused To Flee Country After Taliban Takeover](https://www.reddit.com/r/news/comments/10dbjyz/gunmen_kill_former_female_afghan_lawmaker_who/)
+- [New York Mayor says &quot;no room&quot; in his city for migrants](https://www.reddit.com/r/news/comments/10d8fcf/new_york_mayor_says_no_room_in_his_city_for/)
 <!-- REDDIT:END -->
 
 
