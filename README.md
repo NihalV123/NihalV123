@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kentucky parents concerned after teen who compiled &#39;kill list&#39; allowed to return to school](https://www.reddit.com/r/news/comments/10dy03u/kentucky_parents_concerned_after_teen_who/)
+- [Former Wagner commander flees to Norway and seeks asylum | CNN](https://www.reddit.com/r/news/comments/10dxqij/former_wagner_commander_flees_to_norway_and_seeks/)
+- [Trumpeter Irvin Mayfield Released From Prison Months Early](https://www.reddit.com/r/news/comments/10dwtst/trumpeter_irvin_mayfield_released_from_prison/)
+- [Prosecutors drop charges against NYPD officer accused of acting as foreign agent for China | CNN](https://www.reddit.com/r/news/comments/10dvgqv/prosecutors_drop_charges_against_nypd_officer/)
+- [Warning of unprecedented heatwaves as El Niño set to return in 2023 | El Niño southern oscillation](https://www.reddit.com/r/news/comments/10dthnd/warning_of_unprecedented_heatwaves_as_el_niño_set/)
 <!-- REDDIT:END -->
 
 
