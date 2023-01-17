@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [14-year-old girl charged with murder in the shooting of 11-year-old boy in Dallas | CNN](https://www.reddit.com/r/news/comments/10ei4vi/14yearold_girl_charged_with_murder_in_the/)
+- [Surging egg prices mean record profits for largest US egg producer | CNN Business](https://www.reddit.com/r/news/comments/10ehzf5/surging_egg_prices_mean_record_profits_for/)
+- [TSA confiscated record number of guns from airline passengers in 2022](https://www.reddit.com/r/news/comments/10ehaw9/tsa_confiscated_record_number_of_guns_from/)
+- [Greta Thunberg detained by police during eco protest in German village](https://www.reddit.com/r/news/comments/10egpxf/greta_thunberg_detained_by_police_during_eco/)
+- [Caretaker allegedly killed missing Oklahoma girl on Christmas Day](https://www.reddit.com/r/news/comments/10egodk/caretaker_allegedly_killed_missing_oklahoma_girl/)
 <!-- REDDIT:END -->
 
 
