@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Supreme Court to review Colorado social media stalking case involving Denver singer](https://www.reddit.com/r/news/comments/10e476a/us_supreme_court_to_review_colorado_social_media/)
+- [Memphis Police relieve officers pending investigations into the arrest of man who later died, chief says](https://www.reddit.com/r/news/comments/10e43fw/memphis_police_relieve_officers_pending/)
+- [Colorado Garnered $325 Million in Marijuana Taxes in 2022](https://www.reddit.com/r/news/comments/10e3wud/colorado_garnered_325_million_in_marijuana_taxes/)
+- [Albuquerque police make arrest in shootings at 4 lawmakers&#39; homes](https://www.reddit.com/r/news/comments/10e2whk/albuquerque_police_make_arrest_in_shootings_at_4/)
+- [China’s population falls for first time in more than 60 years | China](https://www.reddit.com/r/news/comments/10e2vtw/chinas_population_falls_for_first_time_in_more/)
 <!-- REDDIT:END -->
 
 
