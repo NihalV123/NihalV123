@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NYPD’s Track Record on Overtime Spending Casts Doubt on Budget Claims](https://www.reddit.com/r/news/comments/10esj46/nypds_track_record_on_overtime_spending_casts/)
+- [Searchers for missing Oklahoma girl find remains of child | AP News](https://www.reddit.com/r/news/comments/10eqtgd/searchers_for_missing_oklahoma_girl_find_remains/)
+- [Parole denied for 90% of Alabama inmates, a new low | AP News](https://www.reddit.com/r/news/comments/10eqfuf/parole_denied_for_90_of_alabama_inmates_a_new_low/)
+- [DOJ won&#39;t seek death penalty for El Paso Walmart shooter | AP News](https://www.reddit.com/r/news/comments/10eqaog/doj_wont_seek_death_penalty_for_el_paso_walmart/)
+- [World&#39;s oldest person, French nun Sister Andre, dies at 118 -retirement home](https://www.reddit.com/r/news/comments/10eo9x0/worlds_oldest_person_french_nun_sister_andre_dies/)
 <!-- REDDIT:END -->
 
 
