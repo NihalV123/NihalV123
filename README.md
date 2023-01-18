@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Girl, 13, leads Nebraska troopers on 100 mph chase with boy, 11, in passenger seat, state police say](https://www.reddit.com/r/news/comments/10fcfh5/girl_13_leads_nebraska_troopers_on_100_mph_chase/)
+- [Mexico tightens ban on smoking in public places](https://www.reddit.com/r/news/comments/10fbxi5/mexico_tightens_ban_on_smoking_in_public_places/)
+- [4-year-old whale of one of the world&#39;s rarest species is &quot;likely to die&quot; after becoming heavily entangled, NOAA says - CBS News](https://www.reddit.com/r/news/comments/10fadkv/4yearold_whale_of_one_of_the_worlds_rarest/)
+- [Twitter is auctioning off office supplies, including a pizza oven and neon bird sign](https://www.reddit.com/r/news/comments/10f9ubf/twitter_is_auctioning_off_office_supplies/)
+- [Microsoft is laying off 10,000 employees.](https://www.reddit.com/r/news/comments/10f995a/microsoft_is_laying_off_10000_employees/)
 <!-- REDDIT:END -->
 
 
