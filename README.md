@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [17-year-old charged with murder in Mall of America shooting has been arrested in Georgia, police say](https://www.reddit.com/r/news/comments/10f3nr3/17yearold_charged_with_murder_in_mall_of_america/)
+- [Ukraine crash: Ministers killed as helicopter comes down near nursery](https://www.reddit.com/r/news/comments/10f2iwz/ukraine_crash_ministers_killed_as_helicopter/)
+- [Hawaii to make preschool available for all 3-4 year-olds](https://www.reddit.com/r/news/comments/10f1l13/hawaii_to_make_preschool_available_for_all_34/)
+- [Art professor sues after firing over Prophet Muhammad images](https://www.reddit.com/r/news/comments/10f0zhp/art_professor_sues_after_firing_over_prophet/)
+- [Polar Bear Enters Remote Alaska Village, Fatally Mauls Woman, Boy](https://www.reddit.com/r/news/comments/10eyfve/polar_bear_enters_remote_alaska_village_fatally/)
 <!-- REDDIT:END -->
 
 
