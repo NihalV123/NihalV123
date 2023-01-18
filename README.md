@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Moderna says RSV vaccine is 84% effective at preventing disease in older adults](https://www.reddit.com/r/news/comments/10evkjy/moderna_says_rsv_vaccine_is_84_effective_at/)
+- [Ron Jeremy found ‘not competent’ to stand trial for multiple rape charges](https://www.reddit.com/r/news/comments/10evkgq/ron_jeremy_found_not_competent_to_stand_trial_for/)
+- [California faces dangerous mudslides after monster storms](https://www.reddit.com/r/news/comments/10euns6/california_faces_dangerous_mudslides_after/)
+- [Auburn, WA police arrest man suspected of trying to kidnap barista through drive thru window](https://www.reddit.com/r/news/comments/10eukbq/auburn_wa_police_arrest_man_suspected_of_trying/)
+- [Gunfire damages North Carolina substation, no outage caused](https://www.reddit.com/r/news/comments/10etqlr/gunfire_damages_north_carolina_substation_no/)
 <!-- REDDIT:END -->
 
 
