@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gallery owner in San Francisco police custody for spraying homeless woman with hose](https://www.reddit.com/r/news/comments/10fsu21/gallery_owner_in_san_francisco_police_custody_for/)
+- [Five Missouri inmates escaped from jail through plumbing pipes, authorities say](https://www.reddit.com/r/news/comments/10fqfm0/five_missouri_inmates_escaped_from_jail_through/)
+- [Amazon discontinues charity donation program amid cost cuts](https://www.reddit.com/r/news/comments/10fpsvw/amazon_discontinues_charity_donation_program_amid/)
+- [Planned Parenthood set on fire just 2 days after state passes abortion rights law](https://www.reddit.com/r/news/comments/10fpayp/planned_parenthood_set_on_fire_just_2_days_after/)
+- [These are the Google searches Brian Walshe made before and after killing his wife Ana Walshe, according to prosecutors](https://www.reddit.com/r/news/comments/10fnvit/these_are_the_google_searches_brian_walshe_made/)
 <!-- REDDIT:END -->
 
 
