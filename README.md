@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&quot;I have done nothing wrong&quot;: Mike Lindell says MyPillow lost $100 million after election fraud claims](https://www.reddit.com/r/news/comments/10g7iui/i_have_done_nothing_wrong_mike_lindell_says/)
+- [Russian Charged by US With Running $700 Million Crypto Scheme](https://www.reddit.com/r/news/comments/10g70ea/russian_charged_by_us_with_running_700_million/)
+- [FBI warned of neo-Nazi plots as attacks on Northwest grid spiked](https://www.reddit.com/r/news/comments/10g6fxh/fbi_warned_of_neonazi_plots_as_attacks_on/)
+- [LAPD&#39;s repeated tasing of teacher who died appears excessive, experts say](https://www.reddit.com/r/news/comments/10g5iuv/lapds_repeated_tasing_of_teacher_who_died_appears/)
+- [ChatGPT Creates Polymorphic Malware](https://www.reddit.com/r/news/comments/10g5gwd/chatgpt_creates_polymorphic_malware/)
 <!-- REDDIT:END -->
 
 
