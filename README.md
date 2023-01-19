@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Zealand PM Jacinda Ardern says she will not seek re-election - ABC News](https://www.reddit.com/r/news/comments/10fn61h/new_zealand_pm_jacinda_ardern_says_she_will_not/)
+- [Church of England refuses to back same-sex marriage](https://www.reddit.com/r/news/comments/10fm4jj/church_of_england_refuses_to_back_samesex_marriage/)
+- [Actor Julian Sands identified as hiker missing in Mt. Baldy area since Friday](https://www.reddit.com/r/news/comments/10flf11/actor_julian_sands_identified_as_hiker_missing_in/)
+- [Bed Bath &amp; Beyond looks for buyers, lenders before potential bankruptcy](https://www.reddit.com/r/news/comments/10fk2sq/bed_bath_beyond_looks_for_buyers_lenders_before/)
+- [Crypto lender Genesis preparing to file for bankruptcy](https://www.reddit.com/r/news/comments/10fjy32/crypto_lender_genesis_preparing_to_file_for/)
 <!-- REDDIT:END -->
 
 
