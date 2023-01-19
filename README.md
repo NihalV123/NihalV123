@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Microsoft Hosted Sting Performance in Davos on Night Before It Announced Layoffs](https://www.reddit.com/r/news/comments/10ftjfe/microsoft_hosted_sting_performance_in_davos_on/)
+- [Goshen California shooting: A teenage mother and her 10-month-old baby were gunned down while running from a &#39;cartel-style execution&#39; in central California that left 6 dead, police say | CNN](https://www.reddit.com/r/news/comments/10ft8wl/goshen_california_shooting_a_teenage_mother_and/)
+- [Gallery owner in San Francisco police custody for spraying homeless woman with hose](https://www.reddit.com/r/news/comments/10fsu21/gallery_owner_in_san_francisco_police_custody_for/)
+- [Five Missouri inmates escaped from jail through plumbing pipes, authorities say](https://www.reddit.com/r/news/comments/10fqfm0/five_missouri_inmates_escaped_from_jail_through/)
+- [Amazon discontinues charity donation program amid cost cuts](https://www.reddit.com/r/news/comments/10fpsvw/amazon_discontinues_charity_donation_program_amid/)
 <!-- REDDIT:END -->
 
 
