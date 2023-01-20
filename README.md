@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FTC asks judge to hold &quot;Pharma Bro&quot; Martin Shkreli in contempt for starting a new drug firm](https://www.reddit.com/r/news/comments/10h2qvh/ftc_asks_judge_to_hold_pharma_bro_martin_shkreli/)
+- [7 charged with domestic terrorism after Atlanta police training site shootout, person killed identified](https://www.reddit.com/r/news/comments/10h296t/7_charged_with_domestic_terrorism_after_atlanta/)
+- [Donald Trump withdraws lawsuit against New York Attorney General Letitia James](https://www.reddit.com/r/news/comments/10h1k14/donald_trump_withdraws_lawsuit_against_new_york/)
+- [Three active-duty Marines arrested for participating in Jan. 6 US Capitol riot](https://www.reddit.com/r/news/comments/10h16ss/three_activeduty_marines_arrested_for/)
+- [Church of England apologizes for treatment of LGBTQ people](https://www.reddit.com/r/news/comments/10h0p3i/church_of_england_apologizes_for_treatment_of/)
 <!-- REDDIT:END -->
 
 
