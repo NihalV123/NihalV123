@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over 500 advertisers have paused spending on Twitter- The Information](https://www.reddit.com/r/news/comments/10gno2e/over_500_advertisers_have_paused_spending_on/)
+- [Andrew Tate said he broke a woman’s jaw and that his business was a ‘scam’ ahead of Romanian charges](https://www.reddit.com/r/news/comments/10gk7eh/andrew_tate_said_he_broke_a_womans_jaw_and_that/)
+- [Lawyer: 6-year-old who shot teacher has &#39;acute disability&#39;](https://www.reddit.com/r/news/comments/10gj6sq/lawyer_6yearold_who_shot_teacher_has_acute/)
+- [T-Mobile says data on 37 million customers stolen](https://www.reddit.com/r/news/comments/10gj5he/tmobile_says_data_on_37_million_customers_stolen/)
+- [US begins &#39;extraordinary&#39; steps to avoid debt ceiling.](https://www.reddit.com/r/news/comments/10giu68/us_begins_extraordinary_steps_to_avoid_debt/)
 <!-- REDDIT:END -->
 
 
