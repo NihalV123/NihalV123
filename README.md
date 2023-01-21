@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Five officers and medics plead not guilty in death of Elijah McClain, who was injected with ketamine while handcuffed](https://www.reddit.com/r/news/comments/10hdbhc/five_officers_and_medics_plead_not_guilty_in/)
+- [Feds seize almost $700 million of FTX assets in Sam Bankman-Fried criminal case](https://www.reddit.com/r/news/comments/10hczam/feds_seize_almost_700_million_of_ftx_assets_in/)
+- [Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms | CNN Business](https://www.reddit.com/r/news/comments/10hbl2a/meta_twitter_microsoft_and_others_urge_supreme/)
+- [‘All-natural’ Simply Orange Juice has high toxic PFAS levels, lawsuit alleges](https://www.reddit.com/r/news/comments/10ha7fm/allnatural_simply_orange_juice_has_high_toxic/)
+- [Navy SEAL deserter killed in Ukraine, official says](https://www.reddit.com/r/news/comments/10h8sif/navy_seal_deserter_killed_in_ukraine_official_says/)
 <!-- REDDIT:END -->
 
 
