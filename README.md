@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5 Memphis police officers fired after traffic stop leads to hospitalization, death of Tyre Nichols](https://www.reddit.com/r/news/comments/10hhn4c/5_memphis_police_officers_fired_after_traffic/)
+- [US pilot shot down four Soviet MiGs in 30 minutes -- and kept it a secret for 50 years | CNN](https://www.reddit.com/r/news/comments/10hg2th/us_pilot_shot_down_four_soviet_migs_in_30_minutes/)
+- [5 officers fired after arrest, death of Memphis man](https://www.reddit.com/r/news/comments/10hf58n/5_officers_fired_after_arrest_death_of_memphis_man/)
+- [Event featuring Kyle Rittenhouse at Venetian on Las Vegas Strip &#39;canceled,&#39; hotel officials say](https://www.reddit.com/r/news/comments/10hejzo/event_featuring_kyle_rittenhouse_at_venetian_on/)
+- [Five officers and medics plead not guilty in death of Elijah McClain, who was injected with ketamine while handcuffed](https://www.reddit.com/r/news/comments/10hdbhc/five_officers_and_medics_plead_not_guilty_in/)
 <!-- REDDIT:END -->
 
 
