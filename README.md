@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Brazil&#39;s army chief fired in aftermath of capital uprising](https://www.reddit.com/r/news/comments/10i68av/brazils_army_chief_fired_in_aftermath_of_capital/)
+- [A burger chain switches to Coca-Cola. Pepsi fans are furious | CNN Business](https://www.reddit.com/r/news/comments/10i5my7/a_burger_chain_switches_to_cocacola_pepsi_fans/)
+- [King Charles&#39;s coronation set to be three-day spectacle of &#39;ceremonial, celebratory and community events&#39;](https://www.reddit.com/r/news/comments/10i4me2/king_charless_coronation_set_to_be_threeday/)
+- [Police: Woman fatally shoots dying husband at hospital | AP News](https://www.reddit.com/r/news/comments/10i3745/police_woman_fatally_shoots_dying_husband_at/)
+- [$2.8-billion settlement reached in class-action lawsuit over residential schools | CBC News](https://www.reddit.com/r/news/comments/10i2c4x/28billion_settlement_reached_in_classaction/)
 <!-- REDDIT:END -->
 
 
