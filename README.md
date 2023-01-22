@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Atlanta protest against shooting death of activist briefly turns violent](https://www.reddit.com/r/news/comments/10i89dc/atlanta_protest_against_shooting_death_of/)
+- [Struggling pig kills butcher at slaughterhouse in Hong Kong](https://www.reddit.com/r/news/comments/10i7bmm/struggling_pig_kills_butcher_at_slaughterhouse_in/)
+- [Ukraine war: Hiding from Putin&#39;s call up by living off-grid in a freezing forest](https://www.reddit.com/r/news/comments/10i6v1v/ukraine_war_hiding_from_putins_call_up_by_living/)
+- [Messina Denaro: How silence and compliance kept Mafia boss at large](https://www.reddit.com/r/news/comments/10i6uiy/messina_denaro_how_silence_and_compliance_kept/)
+- [Brazil&#39;s army chief fired in aftermath of capital uprising](https://www.reddit.com/r/news/comments/10i68av/brazils_army_chief_fired_in_aftermath_of_capital/)
 <!-- REDDIT:END -->
 
 
