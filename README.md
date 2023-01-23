@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Descendants of Jewish refugees escaping Nazis sue Guggenheim Museum for $200M Picasso painting](https://www.reddit.com/r/news/comments/10j91lb/descendants_of_jewish_refugees_escaping_nazis_sue/)
+- [France protests: man lost testicle after clashes with police – lawyer | France](https://www.reddit.com/r/news/comments/10j8op7/france_protests_man_lost_testicle_after_clashes/)
+- [India blocks BBC documentary on Modi’s role in religious riots | News](https://www.reddit.com/r/news/comments/10j7akj/india_blocks_bbc_documentary_on_modis_role_in/)
+- [Google to merge mapping service Waze with maps products teams | CNN Business](https://www.reddit.com/r/news/comments/10j66gc/google_to_merge_mapping_service_waze_with_maps/)
+- [Sovereign citizen’s unhinged defence after Coffs Harbour window smash arrest](https://www.reddit.com/r/news/comments/10j4utz/sovereign_citizens_unhinged_defence_after_coffs/)
 <!-- REDDIT:END -->
 
 
