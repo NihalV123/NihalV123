@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Revealed: scores of child asylum seekers kidnapped from Home Office hotel &lpar;UK&rpar;](https://www.reddit.com/r/news/comments/10j3mmy/revealed_scores_of_child_asylum_seekers_kidnapped/)
+- [$56M Alzheimer&#39;s Medication Price-Fixing Monopolization Class Action Settlement - No Proof is Required](https://www.reddit.com/r/news/comments/10j3cwl/56m_alzheimers_medication_pricefixing/)
+- [Claims that Russian military intelligence was behind letter bombs sent in Spain last year](https://www.reddit.com/r/news/comments/10j30gf/claims_that_russian_military_intelligence_was/)
+- [Actor Jeremy Renner broke over 30 bones in snow plough accident](https://www.reddit.com/r/news/comments/10j0q33/actor_jeremy_renner_broke_over_30_bones_in_snow/)
+- [California shooting suspect dead after killing 10](https://www.reddit.com/r/news/comments/10j0pnw/california_shooting_suspect_dead_after_killing_10/)
 <!-- REDDIT:END -->
 
 
