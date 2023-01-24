@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Monterey Park shooting: Brandon Tsay who disarmed gunman had never seen a real gun](https://www.reddit.com/r/news/comments/10jx71l/monterey_park_shooting_brandon_tsay_who_disarmed/)
+- [Lab-grown meat moves closer to American dinner plates](https://www.reddit.com/r/news/comments/10jwt5e/labgrown_meat_moves_closer_to_american_dinner/)
+- [Blizzard fires WoW Classic lead after he protests employee evaluation policy](https://www.reddit.com/r/news/comments/10juizd/blizzard_fires_wow_classic_lead_after_he_protests/)
+- [Murphy man shot by police releases surveillance video from night of the shooting](https://www.reddit.com/r/news/comments/10jtul9/murphy_man_shot_by_police_releases_surveillance/)
+- [4 Dead Following Shootings in Half Moon Bay: Source](https://www.reddit.com/r/news/comments/10jryn0/4_dead_following_shootings_in_half_moon_bay_source/)
 <!-- REDDIT:END -->
 
 
