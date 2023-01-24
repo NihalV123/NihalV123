@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. FDA proposes shift to annual COVID vaccine shots](https://www.reddit.com/r/news/comments/10k2yev/us_fda_proposes_shift_to_annual_covid_vaccine/)
+- [&#39;I cried all night&#39;: Millions of Chinese lose access to &#39;World of Warcraft&#39; and other hit games](https://www.reddit.com/r/news/comments/10k2jeb/i_cried_all_night_millions_of_chinese_lose_access/)
+- [California shooting: CCTV shows &#39;hero&#39; fighting gunman as deaths rise](https://www.reddit.com/r/news/comments/10k0u79/california_shooting_cctv_shows_hero_fighting/)
+- [Eight people shot in California&#39;s third mass shooting in three days](https://www.reddit.com/r/news/comments/10jzfss/eight_people_shot_in_californias_third_mass/)
+- [Justice Department report says police aren&#39;t fully reporting hate crimes to the federal government: &quot;An incomplete picture&quot;](https://www.reddit.com/r/news/comments/10jzdmd/justice_department_report_says_police_arent_fully/)
 <!-- REDDIT:END -->
 
 
