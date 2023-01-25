@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Walmart raises minimum wage from $12 to $14/hour](https://www.reddit.com/r/news/comments/10l3w9y/walmart_raises_minimum_wage_from_12_to_14hour/)
+- [New York girl, 15, sentenced to up to 9 years in jail in fatal stabbing of cheerleader](https://www.reddit.com/r/news/comments/10l3noq/new_york_girl_15_sentenced_to_up_to_9_years_in/)
+- [Man stabs passengers on German train; 2 dead, 5 injured](https://www.reddit.com/r/news/comments/10l3eok/man_stabs_passengers_on_german_train_2_dead_5/)
+- [Woman receives 12 violations for rainbow porch and yard dragons](https://www.reddit.com/r/news/comments/10l3dz9/woman_receives_12_violations_for_rainbow_porch/)
+- [Lawyer: Admins were warned 3 times the day boy shot teacher](https://www.reddit.com/r/news/comments/10l3aca/lawyer_admins_were_warned_3_times_the_day_boy/)
 <!-- REDDIT:END -->
 
 
