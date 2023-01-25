@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tyre Nichols died from &#39;extensive bleeding caused by a severe beating&#39; according to preliminary results of an independent autopsy, lawyer says | CNN](https://www.reddit.com/r/news/comments/10kr5lh/tyre_nichols_died_from_extensive_bleeding_caused/)
+- [Australian minister suggests Kanye West may be refused a visa if he attempts to visit](https://www.reddit.com/r/news/comments/10kosrq/australian_minister_suggests_kanye_west_may_be/)
+- [Suspect in overnight Yakima shooting that left 3 people dead has died of an apparent self-inflicted gunshot wound, police say](https://www.reddit.com/r/news/comments/10knjz8/suspect_in_overnight_yakima_shooting_that_left_3/)
+- [Two prominent Pennsylvania brothers, business owners, confirmed dead in B.C. backcountry avalanche.](https://www.reddit.com/r/news/comments/10kl37w/two_prominent_pennsylvania_brothers_business/)
+- [Wage theft often goes unpunished despite state systems meant to combat it](https://www.reddit.com/r/news/comments/10kk3f6/wage_theft_often_goes_unpunished_despite_state/)
 <!-- REDDIT:END -->
 
 
