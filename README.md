@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wage theft often goes unpunished despite state systems meant to combat it](https://www.reddit.com/r/news/comments/10kk3f6/wage_theft_often_goes_unpunished_despite_state/)
+- [Rupert Murdoch abandons plan to recombine Fox and News Corp | CNN Business](https://www.reddit.com/r/news/comments/10kj87a/rupert_murdoch_abandons_plan_to_recombine_fox_and/)
+- [Adult Swim cuts ties with Justin Roiland following domestic abuse allegations](https://www.reddit.com/r/news/comments/10kin4m/adult_swim_cuts_ties_with_justin_roiland/)
+- [Mexico imposes one of world&#39;s strictest anti-smoking laws](https://www.reddit.com/r/news/comments/10khulq/mexico_imposes_one_of_worlds_strictest/)
+- [Justice Dept. sues Google over digital advertising dominance](https://www.reddit.com/r/news/comments/10kfib1/justice_dept_sues_google_over_digital_advertising/)
 <!-- REDDIT:END -->
 
 
