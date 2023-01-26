@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [McDonald&#39;s, In-N-Out, and Chipotle are spending millions to block raises for their workers | CNN Business](https://www.reddit.com/r/news/comments/10lhazw/mcdonalds_innout_and_chipotle_are_spending/)
+- [Judge orders release of Paul Pelosi attack footage in SF home](https://www.reddit.com/r/news/comments/10lgnzp/judge_orders_release_of_paul_pelosi_attack/)
+- [Immigrant farm worker charged with 7 murders in northern California shooting](https://www.reddit.com/r/news/comments/10lf968/immigrant_farm_worker_charged_with_7_murders_in/)
+- [600 square miles of ice just broke off from Antarctica](https://www.reddit.com/r/news/comments/10lf2md/600_square_miles_of_ice_just_broke_off_from/)
+- [Ticketmaster Hearings Lead Venue Owner to Cut Merch Fees for Artists Across All Venues](https://www.reddit.com/r/news/comments/10lc7g4/ticketmaster_hearings_lead_venue_owner_to_cut/)
 <!-- REDDIT:END -->
 
 
