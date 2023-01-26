@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [India police detain students gathered to watch BBC documentary on Modi](https://www.reddit.com/r/news/comments/10lx2xp/india_police_detain_students_gathered_to_watch/)
+- [Charges will be announced this afternoon in Tyre Nichols case, source says](https://www.reddit.com/r/news/comments/10lwh19/charges_will_be_announced_this_afternoon_in_tyre/)
+- [HIV at center of latest culture war after Tennessee rejects federal funds](https://www.reddit.com/r/news/comments/10lwdl8/hiv_at_center_of_latest_culture_war_after/)
+- [Tennessee says pair gave incorrect execution drug testimony](https://www.reddit.com/r/news/comments/10lvp2z/tennessee_says_pair_gave_incorrect_execution_drug/)
+- [Chevron announces $75 billion stock buyback, dividend boost](https://www.reddit.com/r/news/comments/10lurkx/chevron_announces_75_billion_stock_buyback/)
 <!-- REDDIT:END -->
 
 
