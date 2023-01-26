@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ticketmaster Hearings Lead Venue Owner to Cut Merch Fees for Artists Across All Venues](https://www.reddit.com/r/news/comments/10lc7g4/ticketmaster_hearings_lead_venue_owner_to_cut/)
+- [Koch gets $2.5 bln in dividends from unit that offloaded asbestos liability](https://www.reddit.com/r/news/comments/10lbv9n/koch_gets_25_bln_in_dividends_from_unit_that/)
+- [AmazonSmile&#39;s end is alarming, say nonprofits that benefited](https://www.reddit.com/r/news/comments/10lbpuq/amazonsmiles_end_is_alarming_say_nonprofits_that/)
+- [Lawsuit: Mini bottles of Fireball Cinnamon do not contain whiskey – WPXI](https://www.reddit.com/r/news/comments/10latmf/lawsuit_mini_bottles_of_fireball_cinnamon_do_not/)
+- [Greensburg police chief arrested for allegedly selling cocaine and methamphetamine](https://www.reddit.com/r/news/comments/10l8iaw/greensburg_police_chief_arrested_for_allegedly/)
 <!-- REDDIT:END -->
 
 
