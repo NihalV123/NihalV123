@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Arkansas deputies seen striking man in video are charged](https://www.reddit.com/r/news/comments/10lp18j/exarkansas_deputies_seen_striking_man_in_video/)
+- [5 officers fired after Tyre Nichols&#39; death were &#39;directly responsible&#39; for his &#39;physical abuse,&#39; police chief says](https://www.reddit.com/r/news/comments/10lnmjb/5_officers_fired_after_tyre_nichols_death_were/)
+- [Sirens across Ukraine as authorities report Russian attacks](https://www.reddit.com/r/news/comments/10lm7xh/sirens_across_ukraine_as_authorities_report/)
+- [Mike Tyson Hit With $5M Lawsuit for Alleged Rape in NY](https://www.reddit.com/r/news/comments/10lj9fb/mike_tyson_hit_with_5m_lawsuit_for_alleged_rape/)
+- [McDonald&#39;s, In-N-Out, and Chipotle are spending millions to block raises for their workers | CNN Business](https://www.reddit.com/r/news/comments/10lhazw/mcdonalds_innout_and_chipotle_are_spending/)
 <!-- REDDIT:END -->
 
 
