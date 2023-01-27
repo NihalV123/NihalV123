@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BuzzFeed says it will use AI to help create content, stock jumps 150% | CNN Business](https://www.reddit.com/r/news/comments/10mq9mq/buzzfeed_says_it_will_use_ai_to_help_create/)
+- [Man crushed by telescopic urinal in central London dies](https://www.reddit.com/r/news/comments/10mpw7r/man_crushed_by_telescopic_urinal_in_central/)
+- [Fremont 4th-grader brings loaded handgun to school](https://www.reddit.com/r/news/comments/10mpnho/fremont_4thgrader_brings_loaded_handgun_to_school/)
+- [Homestead Kindergarten student found with gun in backpack, father facing felony charge](https://www.reddit.com/r/news/comments/10mpmvy/homestead_kindergarten_student_found_with_gun_in/)
+- [Archaeologist hails possibly &#39;oldest&#39; mummy yet found in Egypt](https://www.reddit.com/r/news/comments/10mo7ph/archaeologist_hails_possibly_oldest_mummy_yet/)
 <!-- REDDIT:END -->
 
 
