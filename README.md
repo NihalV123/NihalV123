@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dinosaur Hatchery With 92 Nests And Over 250 Eggs Uncovered In India](https://www.reddit.com/r/news/comments/10mdd42/dinosaur_hatchery_with_92_nests_and_over_250_eggs/)
+- [News outlets ask judge to unseal documents in Dominion&#39;s defamation case against Fox News | CNN Business](https://www.reddit.com/r/news/comments/10md5gx/news_outlets_ask_judge_to_unseal_documents_in/)
+- [Heart-related deaths rose sharply during first year of COVID-19 pandemic, report shows](https://www.reddit.com/r/news/comments/10mbcq5/heartrelated_deaths_rose_sharply_during_first/)
+- [Prior abuse, ‘exorcism’ alleged in child death | Mt. Airy News](https://www.reddit.com/r/news/comments/10m9icl/prior_abuse_exorcism_alleged_in_child_death_mt/)
+- [Jury acquits Pawtucket police officer in shooting of teen driver](https://www.reddit.com/r/news/comments/10m81mo/jury_acquits_pawtucket_police_officer_in_shooting/)
 <!-- REDDIT:END -->
 
 
