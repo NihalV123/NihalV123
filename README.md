@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Louisiana man who used social media to lure and try to kill gay men, gets 45 years](https://www.reddit.com/r/news/comments/10mj2x7/louisiana_man_who_used_social_media_to_lure_and/)
+- [Jay Leno reportedly suffers broken bones in motorcycle accident months after garage fire](https://www.reddit.com/r/news/comments/10mhxeo/jay_leno_reportedly_suffers_broken_bones_in/)
+- [Alan Cumming returns OBE after &#39;opening eyes&#39; on &#39;toxic&#39; British Empire](https://www.reddit.com/r/news/comments/10mhw16/alan_cumming_returns_obe_after_opening_eyes_on/)
+- [Australia: Capsule that emits 10 X-rays&#39; worth of radiation every hour missing somewhere on WA highway](https://www.reddit.com/r/news/comments/10mhj5r/australia_capsule_that_emits_10_xrays_worth_of/)
+- [2 Hialeah Police Officers Accused of Kidnapping and Beating Homeless Man](https://www.reddit.com/r/news/comments/10mgiot/2_hialeah_police_officers_accused_of_kidnapping/)
 <!-- REDDIT:END -->
 
 
