@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia governor declares state of emergency, activates 1,000 National Guard troops amid Atlanta protests](https://www.reddit.com/r/news/comments/10m7m2c/georgia_governor_declares_state_of_emergency/)
+- [FDA to ease blood donation ban on gay men, allow monogamous to give](https://www.reddit.com/r/news/comments/10m5wri/fda_to_ease_blood_donation_ban_on_gay_men_allow/)
+- [Boarding school ignored teen’s sickness complaints before she died, ex-staff say](https://www.reddit.com/r/news/comments/10m52gp/boarding_school_ignored_teens_sickness_complaints/)
+- [Colorado baker loses appeal over transgender birthday cake](https://www.reddit.com/r/news/comments/10m46fg/colorado_baker_loses_appeal_over_transgender/)
+- [Firefighters Union Pushes to Rid Protective Gear of ‘Forever Chemicals’ - WSJ](https://www.reddit.com/r/news/comments/10m2iyf/firefighters_union_pushes_to_rid_protective_gear/)
 <!-- REDDIT:END -->
 
 
