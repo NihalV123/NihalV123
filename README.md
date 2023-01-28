@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police warn that Oregon torture suspect is using dating apps](https://www.reddit.com/r/news/comments/10nczde/police_warn_that_oregon_torture_suspect_is_using/)
+- [Expert says &#39;bizarre&#39; loss of hazardous radioactive capsule in Western Australia is a one-in-100-year event](https://www.reddit.com/r/news/comments/10n9ui6/expert_says_bizarre_loss_of_hazardous_radioactive/)
+- [South Korea&#39;s National pension anticipated to be fully drained in 2055](https://www.reddit.com/r/news/comments/10n97ty/south_koreas_national_pension_anticipated_to_be/)
+- [Disney ride Splash Mountain closes for good](https://www.reddit.com/r/news/comments/10n7mgu/disney_ride_splash_mountain_closes_for_good/)
+- [US to buy new Abrams tanks for Ukraine because military has no spares, Pentagon says](https://www.reddit.com/r/news/comments/10n5v45/us_to_buy_new_abrams_tanks_for_ukraine_because/)
 <!-- REDDIT:END -->
 
 
