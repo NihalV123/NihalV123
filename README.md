@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pakistan mosque blast: At least 32 killed after attack in Peshawar](https://www.reddit.com/r/news/comments/10p0go0/pakistan_mosque_blast_at_least_32_killed_after/)
+- [Police chief placed on administrative leave after officers raid family’s house in Galveston, city announces](https://www.reddit.com/r/news/comments/10p04v5/police_chief_placed_on_administrative_leave_after/)
+- [Former Georgia quarterback Stetson Bennett arrested in Texas for public intoxication, police say](https://www.reddit.com/r/news/comments/10ouwjd/former_georgia_quarterback_stetson_bennett/)
+- [Lisa Loring, Wednesday in Original ‘Addams Family’ Series, Dies at 64](https://www.reddit.com/r/news/comments/10ouams/lisa_loring_wednesday_in_original_addams_family/)
+- [The Half Moon Bay shooting was prompted by a $100 repair bill, local prosecutor says](https://www.reddit.com/r/news/comments/10on686/the_half_moon_bay_shooting_was_prompted_by_a_100/)
 <!-- REDDIT:END -->
 
 
