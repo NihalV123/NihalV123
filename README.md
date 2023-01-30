@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Television’s Tom Verlaine Dies at 73](https://www.reddit.com/r/news/comments/10p80rl/televisions_tom_verlaine_dies_at_73/)
+- [A 6th Memphis officer is taken off the force after the fatal police beating of Tyre Nichols](https://www.reddit.com/r/news/comments/10p7l6p/a_6th_memphis_officer_is_taken_off_the_force/)
+- [J&amp;J’s Talc Bankruptcy Case Thrown Out by Appeals Court](https://www.reddit.com/r/news/comments/10p7jsw/jjs_talc_bankruptcy_case_thrown_out_by_appeals/)
+- [Armenia tells World Court Azerbaijan blockade is &#39;ethnic cleansing&#39;](https://www.reddit.com/r/news/comments/10p790c/armenia_tells_world_court_azerbaijan_blockade_is/)
+- [Ukraine plans $550 million drone investment in 2023 - defense minister](https://www.reddit.com/r/news/comments/10p758j/ukraine_plans_550_million_drone_investment_in/)
 <!-- REDDIT:END -->
 
 
