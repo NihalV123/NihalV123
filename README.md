@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US to designate Russia’s Wagner Group as ‘transnational criminal organization’](https://www.reddit.com/r/news/comments/10pvys0/us_to_designate_russias_wagner_group_as/)
+- [8th dead whale washes up on New York-New Jersey coastline](https://www.reddit.com/r/news/comments/10pvygl/8th_dead_whale_washes_up_on_new_yorknew_jersey/)
+- [Senior Care Worker Charged With Elder Abuse After 94-Year-Old Man Dies From Drinking Cleaning Fluid](https://www.reddit.com/r/news/comments/10pvkqd/senior_care_worker_charged_with_elder_abuse_after/)
+- [Yale honors Black girl, 9, wrongly reported to police over insect project](https://www.reddit.com/r/news/comments/10ptxxg/yale_honors_black_girl_9_wrongly_reported_to/)
+- [&quot;Father of Peeps&quot; marshmallow candies Bob Born dies at 98](https://www.reddit.com/r/news/comments/10psa7s/father_of_peeps_marshmallow_candies_bob_born_dies/)
 <!-- REDDIT:END -->
 
 
