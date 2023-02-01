@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CHP Baffled As Same Sinkhole Near Tracy Claims Three Vehicles — All Because Drivers Ignore Road Closure Signs](https://www.reddit.com/r/news/comments/10qeu80/chp_baffled_as_same_sinkhole_near_tracy_claims/)
+- [Exxon smashes Western oil majors&#39; profits with $56 billion in 2022](https://www.reddit.com/r/news/comments/10qeno2/exxon_smashes_western_oil_majors_profits_with_56/)
+- [Mining giant Rio Tinto apologizes for sparking radiation alert after losing device in Australia](https://www.reddit.com/r/news/comments/10qcatm/mining_giant_rio_tinto_apologizes_for_sparking/)
+- [A dozen monkeys missing after break-in at Louisiana zoo](https://www.reddit.com/r/news/comments/10qbobl/a_dozen_monkeys_missing_after_breakin_at/)
+- [New York investors snapping up Colorado River water rights, betting big on an increasingly scarce resource](https://www.reddit.com/r/news/comments/10qbd8x/new_york_investors_snapping_up_colorado_river/)
 <!-- REDDIT:END -->
 
 
