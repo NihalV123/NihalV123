@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Adoptee who was enslaved, starved, and beaten sues adopted family after final escape in 2018](https://www.reddit.com/r/news/comments/10rhevy/adoptee_who_was_enslaved_starved_and_beaten_sues/)
+- [Tyre Nichols police report at odds with video of brutal traffic stop before his death | It states that he was violent and aggressive but does not mention that Memphis officers repeatedly punched and kicked him](https://www.reddit.com/r/news/comments/10rfje5/tyre_nichols_police_report_at_odds_with_video_of/)
+- [3 charged in plot to kill Iranian-American author Masih Alinejad in New York City](https://www.reddit.com/r/news/comments/10rfgyn/3_charged_in_plot_to_kill_iranianamerican_author/)
+- [First sweeping federal gun crime report in 20 years released](https://www.reddit.com/r/news/comments/10reu4w/first_sweeping_federal_gun_crime_report_in_20/)
+- [An alleged $500 million Ponzi scheme preyed on Mormons. It ended with FBI gunfire.](https://www.reddit.com/r/news/comments/10rceea/an_alleged_500_million_ponzi_scheme_preyed_on/)
 <!-- REDDIT:END -->
 
 
