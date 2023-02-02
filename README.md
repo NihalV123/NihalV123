@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawsuit can proceed against Kenosha shooter Kyle Rittenhouse](https://www.reddit.com/r/news/comments/10rb7km/lawsuit_can_proceed_against_kenosha_shooter_kyle/)
+- [20 attorneys general warn Walgreens, CVS over abortion pills](https://www.reddit.com/r/news/comments/10rabm2/20_attorneys_general_warn_walgreens_cvs_over/)
+- [Iowa woman, 20, charged for $37,000 GoFundme scam about battling cancer](https://www.reddit.com/r/news/comments/10ra0d6/iowa_woman_20_charged_for_37000_gofundme_scam/)
+- [Meta lost $13.7 billion on Reality Labs in 2022 as Zuckerberg’s metaverse bet gets pricier](https://www.reddit.com/r/news/comments/10r9wdl/meta_lost_137_billion_on_reality_labs_in_2022_as/)
+- [Netflix Unveils Plans to Prevent Password Sharing](https://www.reddit.com/r/news/comments/10r9e3o/netflix_unveils_plans_to_prevent_password_sharing/)
 <!-- REDDIT:END -->
 
 
