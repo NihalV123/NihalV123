@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Large glacier near Seattle has &#39;completely disappeared,&#39; says researcher who has tracked it for years | CNN](https://www.reddit.com/r/news/comments/10rkqpb/large_glacier_near_seattle_has_completely/)
+- [Nearly 14,000 people from two Nigerian communities are seeking justice in the high court in London against the fossil fuel giant Shell, claiming it is responsible for devastating pollution of their water sources and destruction of their way of life.](https://www.reddit.com/r/news/comments/10rke8u/nearly_14000_people_from_two_nigerian_communities/)
+- [BBC News - Shell reports record profit of $39.9bn](https://www.reddit.com/r/news/comments/10rjs1c/bbc_news_shell_reports_record_profit_of_399bn/)
+- [Avian flu spills over from birds to mammals in UK](https://www.reddit.com/r/news/comments/10ri6ge/avian_flu_spills_over_from_birds_to_mammals_in_uk/)
+- [Nursing home owners drained cash while residents deteriorated, state filings suggest](https://www.reddit.com/r/news/comments/10rfpxu/nursing_home_owners_drained_cash_while_residents/)
 <!-- REDDIT:END -->
 
 
