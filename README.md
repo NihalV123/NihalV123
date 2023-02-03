@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman presumed dead was found gasping for air in body bag at Iowa funeral home](https://www.reddit.com/r/news/comments/10si9j8/woman_presumed_dead_was_found_gasping_for_air_in/)
+- [Australia officially recognises psilocybin and MDMA as medicines for use in treating depression and PTSD](https://www.reddit.com/r/news/comments/10shwnv/australia_officially_recognises_psilocybin_and/)
+- [China urges calm, says looking into suspected spy balloon over U.S.](https://www.reddit.com/r/news/comments/10sglb8/china_urges_calm_says_looking_into_suspected_spy/)
+- [U.S. snowboarders sue former coach alleging sexual abuse](https://www.reddit.com/r/news/comments/10sesy5/us_snowboarders_sue_former_coach_alleging_sexual/)
+- [Alaska - Five members and associates of white supremacist gang sentenced to life in prison for racketeering, kidnapping, and murder](https://www.reddit.com/r/news/comments/10scq91/alaska_five_members_and_associates_of_white/)
 <!-- REDDIT:END -->
 
 
