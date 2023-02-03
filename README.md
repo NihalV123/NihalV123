@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New rules would limit sugar in school meals for first time](https://www.reddit.com/r/news/comments/10sphke/new_rules_would_limit_sugar_in_school_meals_for/)
+- [These Florida brothers ran one of the largest opioid &#39;pill mills&#39; in US history. The FBI says it was linked to thousands of deaths | CNN](https://www.reddit.com/r/news/comments/10spgwf/these_florida_brothers_ran_one_of_the_largest/)
+- [Psychedelic churches in US pushing boundaries of religion](https://www.reddit.com/r/news/comments/10soytp/psychedelic_churches_in_us_pushing_boundaries_of/)
+- [Taliban arrests Afghan professor who backed girls education](https://www.reddit.com/r/news/comments/10sni7o/taliban_arrests_afghan_professor_who_backed_girls/)
+- [Street honoring KKK leader renamed after student-led effort](https://www.reddit.com/r/news/comments/10snf45/street_honoring_kkk_leader_renamed_after/)
 <!-- REDDIT:END -->
 
 
