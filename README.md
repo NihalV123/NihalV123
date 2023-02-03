@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [London — An estimated half a million workers across multiple sectors in the U.K. went on strike Wednesday in the biggest industrial action Great Britain has seen in more than a decade. The strikers included teachers, civil servants, train and bus drivers, border officials and university staff demand](https://www.reddit.com/r/news/comments/10sc8zt/london_an_estimated_half_a_million_workers_across/)
+- [PG&amp;E to stand trial over deadly California wildfire](https://www.reddit.com/r/news/comments/10sai9x/pge_to_stand_trial_over_deadly_california_wildfire/)
+- [People under domestic violence orders can own guns -U.S. appeals court rules](https://www.reddit.com/r/news/comments/10s91dj/people_under_domestic_violence_orders_can_own/)
+- [Bodies believed to be rappers missing from Detroit found in Highland Park](https://www.reddit.com/r/news/comments/10s8znf/bodies_believed_to_be_rappers_missing_from/)
+- [Apple sales in biggest fall since 2019](https://www.reddit.com/r/news/comments/10s7z2h/apple_sales_in_biggest_fall_since_2019/)
 <!-- REDDIT:END -->
 
 
