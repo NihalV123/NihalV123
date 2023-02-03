@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas Storms Leave Hundreds of Thousands Without Power](https://www.reddit.com/r/news/comments/10s4nen/texas_storms_leave_hundreds_of_thousands_without/)
+- [GoodRx Leaked User Health Data to Facebook and Google, F.T.C. Says](https://www.reddit.com/r/news/comments/10s3jfr/goodrx_leaked_user_health_data_to_facebook_and/)
+- [Black Americans more likely to be audited by the IRS than any other race](https://www.reddit.com/r/news/comments/10s31se/black_americans_more_likely_to_be_audited_by_the/)
+- [30-year-old Bobi breaks record for world&#39;s oldest dog ever](https://www.reddit.com/r/news/comments/10s2yq1/30yearold_bobi_breaks_record_for_worlds_oldest/)
+- [Suspected Chinese spy balloon found over northern U.S.](https://www.reddit.com/r/news/comments/10s2b3f/suspected_chinese_spy_balloon_found_over_northern/)
 <!-- REDDIT:END -->
 
 
