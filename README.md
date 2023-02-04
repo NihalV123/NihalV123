@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [From £130M to £1M: Brexit causes collapse in research funding](https://www.reddit.com/r/news/comments/10tkttj/from_130m_to_1m_brexit_causes_collapse_in/)
+- [&#39;Died suddenly&#39; posts twist tragedies to push vaccine lies](https://www.reddit.com/r/news/comments/10tkqi9/died_suddenly_posts_twist_tragedies_to_push/)
+- [Man who allegedly left a dead fish at the &#39;Goonies&#39; house rescued from rough seas near stolen yacht](https://www.reddit.com/r/news/comments/10tjbnq/man_who_allegedly_left_a_dead_fish_at_the_goonies/)
+- [‘I was broken’: Dog walker films random attack by couple on North Vancouver trail - BC](https://www.reddit.com/r/news/comments/10tiy0f/i_was_broken_dog_walker_films_random_attack_by/)
+- [Family found dead in Pennsylvania made a &#39;joint decision&#39; to kill themselves, police say](https://www.reddit.com/r/news/comments/10tiudy/family_found_dead_in_pennsylvania_made_a_joint/)
 <!-- REDDIT:END -->
 
 
