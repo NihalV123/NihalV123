@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biking doctor struck by Lexus in California, then allegedly stabbed to death by driver; bystanders detain suspect](https://www.reddit.com/r/news/comments/10t01ow/biking_doctor_struck_by_lexus_in_california_then/)
+- [U.S. reports blowout job growth; unemployment rate lowest since 1969](https://www.reddit.com/r/news/comments/10szbrw/us_reports_blowout_job_growth_unemployment_rate/)
+- [Tourist booed, punched, hit with stick after climbing sacred Mexican pyramid - National | Globalnews.ca](https://www.reddit.com/r/news/comments/10synlv/tourist_booed_punched_hit_with_stick_after/)
+- [Two emergency responders have licenses suspended due to inadequate response in rendering aid to Tyre Nichols](https://www.reddit.com/r/news/comments/10sxkyj/two_emergency_responders_have_licenses_suspended/)
+- [N.J. man hired hitman for $20K in Bitcoin to kill a 14-year-old, prosecutors say](https://www.reddit.com/r/news/comments/10swjuw/nj_man_hired_hitman_for_20k_in_bitcoin_to_kill_a/)
 <!-- REDDIT:END -->
 
 
