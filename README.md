@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Major U.S. Auction Houses Have Reportedly Been Subpoenaed as Part of a Federal Investigation Into Sanctioned Russian Oligarchs](https://www.reddit.com/r/news/comments/10tvz1n/major_us_auction_houses_have_reportedly_been/)
+- [China Aids Russia’s War in Ukraine, Trade Data Shows](https://www.reddit.com/r/news/comments/10tv4g8/china_aids_russias_war_in_ukraine_trade_data_shows/)
+- [UPS and the Teamsters prepare for high-stakes talks with union contract set to expire](https://www.reddit.com/r/news/comments/10tu2xb/ups_and_the_teamsters_prepare_for_highstakes/)
+- [Student arrested in beating of 3rd grader inside school bus in Homestead](https://www.reddit.com/r/news/comments/10ttz3e/student_arrested_in_beating_of_3rd_grader_inside/)
+- [Ban on marijuana users owning guns is unconstitutional, U.S. judge rules](https://www.reddit.com/r/news/comments/10tsdub/ban_on_marijuana_users_owning_guns_is/)
 <!-- REDDIT:END -->
 
 
