@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The city of Reno is considering a settlement for shooting a lone ACLU legal observer during a non-violent BLM protest](https://www.reddit.com/r/news/comments/10uhp2t/the_city_of_reno_is_considering_a_settlement_for/)
+- [Alligator-Catfish Hybrids Are Being Spawned in an Alabama Lab](https://www.reddit.com/r/news/comments/10ufwbg/alligatorcatfish_hybrids_are_being_spawned_in_an/)
+- [Elon Musk’s Twitter To Start Charging Businesses $1K A Month To Keep Gold Checkmark – Report](https://www.reddit.com/r/news/comments/10udi2j/elon_musks_twitter_to_start_charging_businesses/)
+- [Pennsylvania boy, 9, becomes one of the youngest ever high school graduates](https://www.reddit.com/r/news/comments/10uccjt/pennsylvania_boy_9_becomes_one_of_the_youngest/)
+- [Officer talks teen off bridge, shares hug: ‘Things will get better’](https://www.reddit.com/r/news/comments/10uc2ev/officer_talks_teen_off_bridge_shares_hug_things/)
 <!-- REDDIT:END -->
 
 
