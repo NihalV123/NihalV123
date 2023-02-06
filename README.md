@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Atlanta area residents report finding antisemitic flyers in driveways | CNN](https://www.reddit.com/r/news/comments/10usfmu/atlanta_area_residents_report_finding_antisemitic/)
+- [Officials: North Carolina man missing since Christmas Eve found dismembered, sealed in concrete](https://www.reddit.com/r/news/comments/10usec9/officials_north_carolina_man_missing_since/)
+- [Skull-waving neo-Nazi Russian mercenary gets shot in head in execution-style attack](https://www.reddit.com/r/news/comments/10us8hj/skullwaving_neonazi_russian_mercenary_gets_shot/)
+- [Head of Epsom College found dead at school alongside husband and daughter](https://www.reddit.com/r/news/comments/10ura97/head_of_epsom_college_found_dead_at_school/)
+- [NTSB confirms rail car axle issue caused Norfolk Southern train derailment](https://www.reddit.com/r/news/comments/10uqkh8/ntsb_confirms_rail_car_axle_issue_caused_norfolk/)
 <!-- REDDIT:END -->
 
 
