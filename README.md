@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspects arrested in plot to attack power stations, destroy Baltimore: Prosecutors](https://www.reddit.com/r/news/comments/10vd70p/suspects_arrested_in_plot_to_attack_power/)
+- [Sheriff: Toxic gas release likely from Ohio derailment](https://www.reddit.com/r/news/comments/10vcmj3/sheriff_toxic_gas_release_likely_from_ohio/)
+- [UN chief fears world is heading towards ‘wider war’ over Russia-Ukraine conflict | United Nations](https://www.reddit.com/r/news/comments/10vcm6p/un_chief_fears_world_is_heading_towards_wider_war/)
+- [3 US tourists stabbed in popular Puerto Rican neighborhood](https://www.reddit.com/r/news/comments/10vbk83/3_us_tourists_stabbed_in_popular_puerto_rican/)
+- [Alaska Youth Pastor Jailed For Sexual Abuse](https://www.reddit.com/r/news/comments/10vauk2/alaska_youth_pastor_jailed_for_sexual_abuse/)
 <!-- REDDIT:END -->
 
 
