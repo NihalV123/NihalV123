@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama community rallies in support of a Black author after school district cancels Black History Month event | CNN](https://www.reddit.com/r/news/comments/10vvz8s/alabama_community_rallies_in_support_of_a_black/)
+- [BBC News: Energy giant BP&#39;s profits double to $28bn](https://www.reddit.com/r/news/comments/10vvqxn/bbc_news_energy_giant_bps_profits_double_to_28bn/)
+- [California&#39;s &#39;Apple Store of weed&#39; is close to collapsing](https://www.reddit.com/r/news/comments/10vs1iw/californias_apple_store_of_weed_is_close_to/)
+- [Crews release toxic chemicals from derailed tankers in Ohio](https://www.reddit.com/r/news/comments/10vqufv/crews_release_toxic_chemicals_from_derailed/)
+- [New footage shows double amputee stabbing man before shooting by Huntington Park police](https://www.reddit.com/r/news/comments/10vps0r/new_footage_shows_double_amputee_stabbing_man/)
 <!-- REDDIT:END -->
 
 
