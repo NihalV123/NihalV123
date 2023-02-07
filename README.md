@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amid soaring crime, Memphis cops lowered the bar for hiring](https://www.reddit.com/r/news/comments/10w5u82/amid_soaring_crime_memphis_cops_lowered_the_bar/)
+- [Russia-Ukraine live news: 1,000 Russian troops killed, Kyiv says](https://www.reddit.com/r/news/comments/10w5jnr/russiaukraine_live_news_1000_russian_troops/)
+- [&#39;Surprise&#39; in Canada as NYC buses migrants to border](https://www.reddit.com/r/news/comments/10w587t/surprise_in_canada_as_nyc_buses_migrants_to_border/)
+- [Turkish leader declares state of emergency as Turkey-Syria quake death toll passes 5,100](https://www.reddit.com/r/news/comments/10w4mim/turkish_leader_declares_state_of_emergency_as/)
+- [Newsom calls for federal investigation into natural gas bill spike](https://www.reddit.com/r/news/comments/10w4grt/newsom_calls_for_federal_investigation_into/)
 <!-- REDDIT:END -->
 
 
