@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man Accused of Firing Blanks at Synagogue Linked to Nazi Imagery](https://www.reddit.com/r/news/comments/10vn30c/man_accused_of_firing_blanks_at_synagogue_linked/)
+- [Anti-fascists outnumber Patriotic Alternative at Erskine protest](https://www.reddit.com/r/news/comments/10vmrfi/antifascists_outnumber_patriotic_alternative_at/)
+- [“No one is asking if you’re Turkish or Syrian,” says Rami Araban, an aid worker in Turkey. “It doesn’t matter now.](https://www.reddit.com/r/news/comments/10vmczn/no_one_is_asking_if_youre_turkish_or_syrian_says/)
+- [Suspected Chinese spy balloon was 200ft tall - US defence official](https://www.reddit.com/r/news/comments/10vm3zj/suspected_chinese_spy_balloon_was_200ft_tall_us/)
+- [FAA proposes fining United $1 million for skipping safety steps | CNN Business](https://www.reddit.com/r/news/comments/10vjxo5/faa_proposes_fining_united_1_million_for_skipping/)
 <!-- REDDIT:END -->
 
 
