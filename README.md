@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colgate-Palmolive recalls 4.9 million units of Fabuloso multipurpose cleaner citing risk of exposure to bacteria](https://www.reddit.com/r/news/comments/10x5dlb/colgatepalmolive_recalls_49_million_units_of/)
+- [2 children dead, driver arrested after bus crashes into daycare in Laval, Que.](https://www.reddit.com/r/news/comments/10x57cp/2_children_dead_driver_arrested_after_bus_crashes/)
+- [Woman charged with killing her 3 kids planned it all out, prosecutors allege](https://www.reddit.com/r/news/comments/10x1tcs/woman_charged_with_killing_her_3_kids_planned_it/)
+- [Turkish cities could become &#39;graveyards&#39; with building amnesty, engineers say](https://www.reddit.com/r/news/comments/10x1iwi/turkish_cities_could_become_graveyards_with/)
+- [‘Strong indications’ Putin decided to give separatists the missile that downed MH17 in 2014, say Dutch investigato](https://www.reddit.com/r/news/comments/10x0563/strong_indications_putin_decided_to_give/)
 <!-- REDDIT:END -->
 
 
