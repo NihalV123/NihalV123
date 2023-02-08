@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We will not tolerate theft or endangerment of our animals’: Keepers find fence cut at Houston Zoo](https://www.reddit.com/r/news/comments/10wum2g/we_will_not_tolerate_theft_or_endangerment_of_our/)
+- [Texas man arrested for stealing 2 monkeys from Dallas Zoo says he&#39;ll do it again if released, court documents show](https://www.reddit.com/r/news/comments/10wr775/texas_man_arrested_for_stealing_2_monkeys_from/)
+- [US sources insist Chinese balloon was military](https://www.reddit.com/r/news/comments/10woqo4/us_sources_insist_chinese_balloon_was_military/)
+- [When their Kansas school denied special education services, this family fought back — and won](https://www.reddit.com/r/news/comments/10wnmj0/when_their_kansas_school_denied_special_education/)
+- [8 more Memphis police officers to face charges in Tyre Nichols case, city attorney says - CBS News](https://www.reddit.com/r/news/comments/10wl1pc/8_more_memphis_police_officers_to_face_charges_in/)
 <!-- REDDIT:END -->
 
 
