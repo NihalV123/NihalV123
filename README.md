@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [When their Kansas school denied special education services, this family fought back — and won](https://www.reddit.com/r/news/comments/10wnmj0/when_their_kansas_school_denied_special_education/)
+- [Switch surpasses PS4, becomes third best-selling gaming hardware ever](https://www.reddit.com/r/news/comments/10wm4ms/switch_surpasses_ps4_becomes_third_bestselling/)
+- [8 more Memphis police officers to face charges in Tyre Nichols case, city attorney says - CBS News](https://www.reddit.com/r/news/comments/10wl1pc/8_more_memphis_police_officers_to_face_charges_in/)
+- [Two men arrested and charged in 1975 murder of Indiana teen who &quot;fought for her life&quot;](https://www.reddit.com/r/news/comments/10wk9kg/two_men_arrested_and_charged_in_1975_murder_of/)
+- [Tyre Nichols’ death: Memphis officer texted photo of Nichols after beating to at least 5 people](https://www.reddit.com/r/news/comments/10wilco/tyre_nichols_death_memphis_officer_texted_photo/)
 <!-- REDDIT:END -->
 
 
