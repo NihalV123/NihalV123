@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexico Senate Recognizes the Armenian Genocide](https://www.reddit.com/r/news/comments/10xzhn8/mexico_senate_recognizes_the_armenian_genocide/)
+- [Couple who saved man&#39;s life in Buffalo blizzard surprised with Super Bowl tickets](https://www.reddit.com/r/news/comments/10xz4hg/couple_who_saved_mans_life_in_buffalo_blizzard/)
+- [Reporter arrested during news event on Ohio train derailment](https://www.reddit.com/r/news/comments/10xz2hh/reporter_arrested_during_news_event_on_ohio_train/)
+- [Cold, hunger, despair grip homeless as Turkey-Syria earthquake toll passes 19,000](https://www.reddit.com/r/news/comments/10xyrwo/cold_hunger_despair_grip_homeless_as_turkeysyria/)
+- [Finland sees uptick in real estate purchases by Russians.](https://www.reddit.com/r/news/comments/10xxye1/finland_sees_uptick_in_real_estate_purchases_by/)
 <!-- REDDIT:END -->
 
 
