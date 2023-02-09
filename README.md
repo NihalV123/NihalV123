@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman accused of hit-and-run crash that killed Michigan State student buys one-way ticket to Thailand, FBI says](https://www.reddit.com/r/news/comments/10xskxy/woman_accused_of_hitandrun_crash_that_killed/)
+- [FBI charges neo-Nazi leader in plot to attack Baltimore power grid](https://www.reddit.com/r/news/comments/10xs3yh/fbi_charges_neonazi_leader_in_plot_to_attack/)
+- [Ukraine war: Elon Musk&#39;s SpaceX firm bars Kyiv from using Starlink tech for drone control - BBC News](https://www.reddit.com/r/news/comments/10xrfcq/ukraine_war_elon_musks_spacex_firm_bars_kyiv_from/)
+- [Brian Adams, Warden at Smith State Prison in Glennville, Arrested by GBI • The Georgia Virtue](https://www.reddit.com/r/news/comments/10xopux/brian_adams_warden_at_smith_state_prison_in/)
+- [Big Oil rakes in record profit haul of nearly $200 billion, fueling calls for higher taxes](https://www.reddit.com/r/news/comments/10xoje8/big_oil_rakes_in_record_profit_haul_of_nearly_200/)
 <!-- REDDIT:END -->
 
 
