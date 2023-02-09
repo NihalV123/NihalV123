@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Charles Silverstein, who helped declassify homosexuality as illness, dies at 87 - The Washington Post](https://www.reddit.com/r/news/comments/10xfwiy/charles_silverstein_who_helped_declassify/)
+- [2 children dead, 6 injured after city bus intentionally crashes into daycare in Montreal suburb Laval, driver arrested.](https://www.reddit.com/r/news/comments/10xf7lp/2_children_dead_6_injured_after_city_bus/)
+- [700 pounds of acorns found stuffed by woodpeckers inside walls of California home](https://www.reddit.com/r/news/comments/10xd5v2/700_pounds_of_acorns_found_stuffed_by_woodpeckers/)
+- [Turkey earthquake: Anger at building standards grows](https://www.reddit.com/r/news/comments/10xcf71/turkey_earthquake_anger_at_building_standards/)
+- [Walmart wins lawsuit claiming its Fudge Mint cookies lack fudge and mint](https://www.reddit.com/r/news/comments/10xcc44/walmart_wins_lawsuit_claiming_its_fudge_mint/)
 <!-- REDDIT:END -->
 
 
