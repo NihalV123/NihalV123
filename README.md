@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia blocks coal mine to protect Great Barrier Reef](https://www.reddit.com/r/news/comments/10xk8a8/australia_blocks_coal_mine_to_protect_great/)
+- [Twitter scrambles to fix meltdown as many unable to tweet](https://www.reddit.com/r/news/comments/10xjf1s/twitter_scrambles_to_fix_meltdown_as_many_unable/)
+- [Black Colorado rancher arrested after alleging racism, harassment, vandalism](https://www.reddit.com/r/news/comments/10xhb3l/black_colorado_rancher_arrested_after_alleging/)
+- [Chinese balloon part of worldwide fleet, US officials say](https://www.reddit.com/r/news/comments/10xgszz/chinese_balloon_part_of_worldwide_fleet_us/)
+- [Atlanta police release body camera video from shooting at public safety training site](https://www.reddit.com/r/news/comments/10xgs1z/atlanta_police_release_body_camera_video_from/)
 <!-- REDDIT:END -->
 
 
