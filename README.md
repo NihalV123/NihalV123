@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Finland&#39;s parliamentary parties agree to push ahead with Nato legislation.](https://www.reddit.com/r/news/comments/10yxjp1/finlands_parliamentary_parties_agree_to_push/)
+- [Michigan teacher plants bomb threat note to get day off, police say](https://www.reddit.com/r/news/comments/10yxj8b/michigan_teacher_plants_bomb_threat_note_to_get/)
+- [Florida high school athletes won&#39;t have to report their periods after emergency vote](https://www.reddit.com/r/news/comments/10yxh0y/florida_high_school_athletes_wont_have_to_report/)
+- [FBI conducting search of former Vice President Mike Pence&#39;s home](https://www.reddit.com/r/news/comments/10yw5od/fbi_conducting_search_of_former_vice_president/)
+- [FHP: Man hanging on open door of vehicle killed after 14-year-old Florida driver crashes](https://www.reddit.com/r/news/comments/10ytpm2/fhp_man_hanging_on_open_door_of_vehicle_killed/)
 <!-- REDDIT:END -->
 
 
