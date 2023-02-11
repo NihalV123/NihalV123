@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian spacecraft loses pressure, station crew safe](https://www.reddit.com/r/news/comments/10zs0o5/russian_spacecraft_loses_pressure_station_crew/)
+- [Trans Prisoners in Scotland to be placed according to sex assigned at birth](https://www.reddit.com/r/news/comments/10zrm08/trans_prisoners_in_scotland_to_be_placed/)
+- [President: Finland will join Nato by July.](https://www.reddit.com/r/news/comments/10zqijj/president_finland_will_join_nato_by_july/)
+- [Family of Oakland baker seeks &#39;restorative justice&#39; for her death following robbery](https://www.reddit.com/r/news/comments/10zq9bn/family_of_oakland_baker_seeks_restorative_justice/)
+- [Armenia-Turkey border opened for first time in 35 years to allow aid through](https://www.reddit.com/r/news/comments/10zpvq4/armeniaturkey_border_opened_for_first_time_in_35/)
 <!-- REDDIT:END -->
 
 
