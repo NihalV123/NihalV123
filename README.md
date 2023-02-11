@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family of Emmett Till files lawsuit demanding sheriff arrest Carolyn Bryant Donham](https://www.reddit.com/r/news/comments/10z77ne/family_of_emmett_till_files_lawsuit_demanding/)
+- [Family of Colorado man killed by police demands answers after video shows him being rammed by squad car](https://www.reddit.com/r/news/comments/10z6y75/family_of_colorado_man_killed_by_police_demands/)
+- [Lawsuit seeks medical testing after toxic train derailment](https://www.reddit.com/r/news/comments/10z6l93/lawsuit_seeks_medical_testing_after_toxic_train/)
+- [‘Everybody’s tired’: South Dakota tribe sues US over crime](https://www.reddit.com/r/news/comments/10z5cvl/everybodys_tired_south_dakota_tribe_sues_us_over/)
+- [Mormon Church’s Investment Arm Under SEC Investigation](https://www.reddit.com/r/news/comments/10z4ra7/mormon_churchs_investment_arm_under_sec/)
 <!-- REDDIT:END -->
 
 
