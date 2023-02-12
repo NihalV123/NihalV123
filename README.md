@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. blacklists 6 Chinese entities in response to alleged spy balloon incident](https://www.reddit.com/r/news/comments/1101wut/us_blacklists_6_chinese_entities_in_response_to/)
+- [Why the toxins from the Ohio train derailment could have posed deadly threats for residents nearby](https://www.reddit.com/r/news/comments/1101202/why_the_toxins_from_the_ohio_train_derailment/)
+- [High-altitude object shot down over northern Canada](https://www.reddit.com/r/news/comments/1100rcq/highaltitude_object_shot_down_over_northern_canada/)
+- [Men charged after cutting fence at Va. power facility, authorities say](https://www.reddit.com/r/news/comments/1100prw/men_charged_after_cutting_fence_at_va_power/)
+- [NORAD detects second flying object over Northern Canada](https://www.reddit.com/r/news/comments/10zzcw9/norad_detects_second_flying_object_over_northern/)
 <!-- REDDIT:END -->
 
 
