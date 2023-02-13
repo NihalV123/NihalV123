@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine war: Russians slowly take ground around Bakhmut](https://www.reddit.com/r/news/comments/110u0q1/ukraine_war_russians_slowly_take_ground_around/)
+- [Teenagers arrested after girl stabbed to death in park](https://www.reddit.com/r/news/comments/110qx2w/teenagers_arrested_after_girl_stabbed_to_death_in/)
+- [U.S. military brings down flying object over Lake Huron near Canadian border](https://www.reddit.com/r/news/comments/110q5j9/us_military_brings_down_flying_object_over_lake/)
+- [Canada hunts for wreckage of latest unidentified object](https://www.reddit.com/r/news/comments/110pytr/canada_hunts_for_wreckage_of_latest_unidentified/)
+- [Miles Before Ohio Derailment, Train Axle Was On Fire, Video Shows](https://www.reddit.com/r/news/comments/110poqo/miles_before_ohio_derailment_train_axle_was_on/)
 <!-- REDDIT:END -->
 
 
