@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minnesota woman convicted of killing her 6-year-old son just days after regaining full custody of him](https://www.reddit.com/r/news/comments/1110fym/minnesota_woman_convicted_of_killing_her_6yearold/)
+- [Kansas City Chiefs beat Philadelphia Eagles to win Super Bowl](https://www.reddit.com/r/news/comments/110y4i5/kansas_city_chiefs_beat_philadelphia_eagles_to/)
+- [‘Finch-smuggling kingpin’ sentenced to prison for bird trafficking into US](https://www.reddit.com/r/news/comments/110xexc/finchsmuggling_kingpin_sentenced_to_prison_for/)
+- [De La Soul rapper David Jolicoeur, known as Trugoy the Dove, dead at 54 | CNN](https://www.reddit.com/r/news/comments/110x38e/de_la_soul_rapper_david_jolicoeur_known_as_trugoy/)
+- [Ukraine war: Russians slowly take ground around Bakhmut](https://www.reddit.com/r/news/comments/110u0q1/ukraine_war_russians_slowly_take_ground_around/)
 <!-- REDDIT:END -->
 
 
