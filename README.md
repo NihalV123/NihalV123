@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U-Haul Driver in Custody After Violent Rampage Through Brooklyn Injures 4](https://www.reddit.com/r/news/comments/111ey57/uhaul_driver_in_custody_after_violent_rampage/)
+- [United Airlines plane taking off from Maui plunged to within 800 feet of the Pacific Ocean, flight data shows](https://www.reddit.com/r/news/comments/111elll/united_airlines_plane_taking_off_from_maui/)
+- [Turkey finds a few more earthquake survivors but hopes dwindle](https://www.reddit.com/r/news/comments/111ehey/turkey_finds_a_few_more_earthquake_survivors_but/)
+- [Russians abandon wartime Russia in historic exodus](https://www.reddit.com/r/news/comments/111ecaq/russians_abandon_wartime_russia_in_historic_exodus/)
+- [Judge to release parts of Georgia special grand jury report](https://www.reddit.com/r/news/comments/111c7qu/judge_to_release_parts_of_georgia_special_grand/)
 <!-- REDDIT:END -->
 
 
