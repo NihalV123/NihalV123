@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House rejects Beijing claims of U.S. balloons over China](https://www.reddit.com/r/news/comments/111oh9b/white_house_rejects_beijing_claims_of_us_balloons/)
+- [Black Vietnam veteran&#39;s nearly 60-year wait for Medal of Honor is over](https://www.reddit.com/r/news/comments/111n674/black_vietnam_veterans_nearly_60year_wait_for/)
+- [FBI agrees to review two deaths at Harris County Jail as families demand federal investigation](https://www.reddit.com/r/news/comments/111n0ss/fbi_agrees_to_review_two_deaths_at_harris_county/)
+- [Vancouver police officer guilty of assault with weapon in arrest of Black man stopped for jaywalking | CBC News](https://www.reddit.com/r/news/comments/111mdvs/vancouver_police_officer_guilty_of_assault_with/)
+- [There were more toxic chemicals on train that derailed in Ohio than originally reported, data shows](https://www.reddit.com/r/news/comments/111lv6d/there_were_more_toxic_chemicals_on_train_that/)
 <!-- REDDIT:END -->
 
 
