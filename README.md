@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan State University shooter found dead after hours-long manhunt, sources say](https://www.reddit.com/r/news/comments/111uo15/michigan_state_university_shooter_found_dead/)
+- [T-Mobile down for thousands of users in U.S.](https://www.reddit.com/r/news/comments/111ttqu/tmobile_down_for_thousands_of_users_in_us/)
+- [Shots fired near Berkey Hall - The State News](https://www.reddit.com/r/news/comments/111qr2a/shots_fired_near_berkey_hall_the_state_news/)
+- [Houston-area crash between truck, Union Pacific train kills driver, derails 20-plus rail cars](https://www.reddit.com/r/news/comments/111qge3/houstonarea_crash_between_truck_union_pacific/)
+- [Dutch F-35s intercept three Russian military aircraft over Poland](https://www.reddit.com/r/news/comments/111pyfz/dutch_f35s_intercept_three_russian_military/)
 <!-- REDDIT:END -->
 
 
