@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Residents near Ohio train derailment report dead fish and chickens as authorities say it&#39;s safe to return](https://www.reddit.com/r/news/comments/1128amz/residents_near_ohio_train_derailment_report_dead/)
+- [Top US smoothie company accused of deception after toxic PFAS discovered | PFAS](https://www.reddit.com/r/news/comments/11284v9/top_us_smoothie_company_accused_of_deception/)
+- [Nashville man cleared of murder after ‘a failure at every level of local law enforcement’ kept him imprisoned for 10 years](https://www.reddit.com/r/news/comments/1127i3n/nashville_man_cleared_of_murder_after_a_failure/)
+- [Nashville officer in early January’s fatal shooting has a record of use of force, escalations and suspensions](https://www.reddit.com/r/news/comments/112794h/nashville_officer_in_early_januarys_fatal/)
+- [Debris of downed objects may never be recovered, official warns, as White House tries to tamp down on conspiracies | CNN Politics](https://www.reddit.com/r/news/comments/11278pj/debris_of_downed_objects_may_never_be_recovered/)
 <!-- REDDIT:END -->
 
 
