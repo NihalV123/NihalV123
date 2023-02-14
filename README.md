@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Turkey rescuers say voices are still being heard under the rubble](https://www.reddit.com/r/news/comments/1121uss/turkey_rescuers_say_voices_are_still_being_heard/)
+- [Group of drivers allegedly &#39;dooring&#39; Oakland bicyclists, leaves 2 hospitalized](https://www.reddit.com/r/news/comments/111x6km/group_of_drivers_allegedly_dooring_oakland/)
+- [Michigan State University shooter found dead after hours-long manhunt, sources say](https://www.reddit.com/r/news/comments/111uo15/michigan_state_university_shooter_found_dead/)
+- [U.S. military says it recovers key sensors from downed Chinese spy balloon](https://www.reddit.com/r/news/comments/111uagj/us_military_says_it_recovers_key_sensors_from/)
+- [T-Mobile down for thousands of users in U.S.](https://www.reddit.com/r/news/comments/111ttqu/tmobile_down_for_thousands_of_users_in_us/)
 <!-- REDDIT:END -->
 
 
