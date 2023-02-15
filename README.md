@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio Attorney General Dave Yost dismisses charges against NewsNation reporter](https://www.reddit.com/r/news/comments/1132p29/ohio_attorney_general_dave_yost_dismisses_charges/)
+- [Former Doraville police officer accused of concealing 16-year-old girl’s death](https://www.reddit.com/r/news/comments/1131p49/former_doraville_police_officer_accused_of/)
+- [Man rushes at Buffalo grocery store mass shooter during emotional sentencing hearing](https://www.reddit.com/r/news/comments/113121b/man_rushes_at_buffalo_grocery_store_mass_shooter/)
+- [Norfolk Southern Executives Tell Cincinnati City Council East Palestine Explosion Won&#39;t Hurt Sale of Cincinnati Southern Railway](https://www.reddit.com/r/news/comments/1130cig/norfolk_southern_executives_tell_cincinnati_city/)
+- [Hazardous spill closes Tucson interstate, forces evacuation](https://www.reddit.com/r/news/comments/11304wo/hazardous_spill_closes_tucson_interstate_forces/)
 <!-- REDDIT:END -->
 
 
