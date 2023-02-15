@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. tracked spy balloon after it lifted off from China, officials say](https://www.reddit.com/r/news/comments/112pj17/us_tracked_spy_balloon_after_it_lifted_off_from/)
+- [Vietnam to send $200,000 to Turkey, Syria as earthquake aid - VnExpress International](https://www.reddit.com/r/news/comments/112nwx3/vietnam_to_send_200000_to_turkey_syria_as/)
+- [Ohio officials say air quality in East Palestine is fine but not to drink the water](https://www.reddit.com/r/news/comments/112miwk/ohio_officials_say_air_quality_in_east_palestine/)
+- [NTSB says videos of Ohio train derailment include one showing wheel bearing in &#39;final stage of overheat failure&#39; | CNN](https://www.reddit.com/r/news/comments/112kuev/ntsb_says_videos_of_ohio_train_derailment_include/)
+- [Calvin and Hobbes creator Bill Watterson is releasing a new graphic novel called The Mysteries on October 10, according to publisher Simon and Schuster](https://www.reddit.com/r/news/comments/112kd24/calvin_and_hobbes_creator_bill_watterson_is/)
 <!-- REDDIT:END -->
 
 
