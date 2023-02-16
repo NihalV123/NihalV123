@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk reportedly forced Twitter algorithm to boost his tweets after Super Bowl flop | Elon Musk](https://www.reddit.com/r/news/comments/113iuhz/elon_musk_reportedly_forced_twitter_algorithm_to/)
+- [Grand jury indicts father of July 4 parade shooting suspect](https://www.reddit.com/r/news/comments/113ghz2/grand_jury_indicts_father_of_july_4_parade/)
+- [Nine survivors pulled from Turkey&#39;s rubble as earthquake death toll passes 40,000 - VnExpress International](https://www.reddit.com/r/news/comments/113gat8/nine_survivors_pulled_from_turkeys_rubble_as/)
+- [Microsoft permanently disables Internet Explorer for all devices](https://www.reddit.com/r/news/comments/113g9uv/microsoft_permanently_disables_internet_explorer/)
+- [Messages: Officer often fed information to Proud Boys leader](https://www.reddit.com/r/news/comments/113fzvk/messages_officer_often_fed_information_to_proud/)
 <!-- REDDIT:END -->
 
 
