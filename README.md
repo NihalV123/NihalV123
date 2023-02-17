@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No top, no problem: All patrons allowed to be bare-chested at City of Edmonton pools](https://www.reddit.com/r/news/comments/1144bik/no_top_no_problem_all_patrons_allowed_to_be/)
+- [Mozambique pastor dies attempting 40-day Jesus fast - BBC News](https://www.reddit.com/r/news/comments/1141e1m/mozambique_pastor_dies_attempting_40day_jesus/)
+- [FBI joins probe into the death of an Alabama man allegedly left naked on a concrete jail floor for days](https://www.reddit.com/r/news/comments/1140zwd/fbi_joins_probe_into_the_death_of_an_alabama_man/)
+- [Fetterman checked himself into hospital &#39;to receive treatment for clinical depression,&#39; office says | CNN Politics](https://www.reddit.com/r/news/comments/1140us6/fetterman_checked_himself_into_hospital_to/)
+- [Hobby Club’s Missing Balloon Feared Shot Down By USAF](https://www.reddit.com/r/news/comments/11407k2/hobby_clubs_missing_balloon_feared_shot_down_by/)
 <!-- REDDIT:END -->
 
 
