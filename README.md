@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wisconsin is the drunkest state in America, again](https://www.reddit.com/r/news/comments/114zbf0/wisconsin_is_the_drunkest_state_in_america_again/)
+- [ISIL leader killed, 4 US troops injured in Syria raid: Pentagon | ISIL/ISIS News](https://www.reddit.com/r/news/comments/114ybwp/isil_leader_killed_4_us_troops_injured_in_syria/)
+- [Six dead after shootings in Tate County, one in custody: sheriff](https://www.reddit.com/r/news/comments/114w64y/six_dead_after_shootings_in_tate_county_one_in/)
+- [At least 53 killed in ISIS attack in Syria: State TV](https://www.reddit.com/r/news/comments/114vrlx/at_least_53_killed_in_isis_attack_in_syria_state/)
+- [Arlington middle school student says sub teacher forced him to pick cotton in a game](https://www.reddit.com/r/news/comments/114vkct/arlington_middle_school_student_says_sub_teacher/)
 <!-- REDDIT:END -->
 
 
