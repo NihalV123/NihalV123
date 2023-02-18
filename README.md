@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A woman escaped abduction after &#39;year-long nightmare&#39; across several states, authorities say. The suspect was arrested in NJ and charged with kidnapping | CNN](https://www.reddit.com/r/news/comments/11584c4/a_woman_escaped_abduction_after_yearlong/)
+- [Hospital patient loses Netflix access due to password crackdown](https://www.reddit.com/r/news/comments/1155mjn/hospital_patient_loses_netflix_access_due_to/)
+- [Air Force investigators lay out lapse after lapse that led up to Eagle River ROTC cadet’s death in Humvee crash](https://www.reddit.com/r/news/comments/1155a43/air_force_investigators_lay_out_lapse_after_lapse/)
+- [Kellie Pickler&#39;s Husband, Songwriter Kyle Jacobs, Dies By Suicide](https://www.reddit.com/r/news/comments/1153xb4/kellie_picklers_husband_songwriter_kyle_jacobs/)
+- [Webb telescope sees once invisible structures inside spiral galaxies](https://www.reddit.com/r/news/comments/1153lea/webb_telescope_sees_once_invisible_structures/)
 <!-- REDDIT:END -->
 
 
