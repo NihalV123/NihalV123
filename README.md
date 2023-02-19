@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police: 9 children shot at Georgia gas station](https://www.reddit.com/r/news/comments/1166evj/police_9_children_shot_at_georgia_gas_station/)
+- [1 person dies when Tesla hits fire truck on I-680, 4 firefighters injured](https://www.reddit.com/r/news/comments/1165hgv/1_person_dies_when_tesla_hits_fire_truck_on_i680/)
+- [Jimmy Carter, oldest living former U.S. president ever, is placed in hospice care](https://www.reddit.com/r/news/comments/1164bpi/jimmy_carter_oldest_living_former_us_president/)
+- [China is considering providing &quot;lethal support&quot; to aid Russian invasion of Ukraine, Blinken says](https://www.reddit.com/r/news/comments/1163vo4/china_is_considering_providing_lethal_support_to/)
+- [A legally armed civilian shot and wounded the suspected gunman in a fatal El Paso mall shooting, police say](https://www.reddit.com/r/news/comments/1162qde/a_legally_armed_civilian_shot_and_wounded_the/)
 <!-- REDDIT:END -->
 
 
