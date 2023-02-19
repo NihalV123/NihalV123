@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Richard Belzer Dead at 78: &#39;Law &amp; Order: SVU&#39; Actor&#39;s Colleagues Confirm His Passing](https://www.reddit.com/r/news/comments/116ilju/richard_belzer_dead_at_78_law_order_svu_actors/)
+- [ABC7: LA bishop shot and killed in Hacienda Heights, authorities say](https://www.reddit.com/r/news/comments/116gtlc/abc7_la_bishop_shot_and_killed_in_hacienda/)
+- [Florida woman irate over free cookie loads handgun, waves it at McDonald&#39;s drive-thru: affidavit](https://www.reddit.com/r/news/comments/116grto/florida_woman_irate_over_free_cookie_loads/)
+- [Before and after: New photos show remarkable recovery at California&#39;s most beleaguered reservoir](https://www.reddit.com/r/news/comments/116ggsz/before_and_after_new_photos_show_remarkable/)
+- [5-Year-Old Caught With Loaded Gun at St. Louis County School](https://www.reddit.com/r/news/comments/116fs6h/5yearold_caught_with_loaded_gun_at_st_louis/)
 <!-- REDDIT:END -->
 
 
