@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Critics reject changes to Roald Dahl books as censorship](https://www.reddit.com/r/news/comments/116s4jx/critics_reject_changes_to_roald_dahl_books_as/)
+- [North Korea launches 3 suspected ballistic missiles, Japan&#39;s Coast Guard says](https://www.reddit.com/r/news/comments/116rgzv/north_korea_launches_3_suspected_ballistic/)
+- [San Jose Police Arrest Man for Allegedly Attacking Street Vendor With a Baseball Bat](https://www.reddit.com/r/news/comments/116qsk7/san_jose_police_arrest_man_for_allegedly/)
+- [Revealed: UK’s missing child refugees put to work for Manchester gangs | Immigration and asylum](https://www.reddit.com/r/news/comments/116qbzd/revealed_uks_missing_child_refugees_put_to_work/)
+- [Police sources: 18-inch pipe bomb found behind Holmesburg church, near railroad tracks](https://www.reddit.com/r/news/comments/116q8v7/police_sources_18inch_pipe_bomb_found_behind/)
 <!-- REDDIT:END -->
 
 
