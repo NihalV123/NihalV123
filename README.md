@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man, 22, charged with murder after shooting suspect who tried to rob his house, lawyer says](https://www.reddit.com/r/news/comments/117pkrw/man_22_charged_with_murder_after_shooting_suspect/)
+- [Police identify body of missing British mother Nicola Bulley | CNN](https://www.reddit.com/r/news/comments/117osc7/police_identify_body_of_missing_british_mother/)
+- [To Increase Equity, School Districts Eliminate Honors Classes](https://www.reddit.com/r/news/comments/117nr6p/to_increase_equity_school_districts_eliminate/)
+- [Firefighters responding to explosion at metal manufacturing facility near Bedford, Ohio](https://www.reddit.com/r/news/comments/117md88/firefighters_responding_to_explosion_at_metal/)
+- [Los Angeles police arrest suspect in fatal shooting of Catholic bishop – reports](https://www.reddit.com/r/news/comments/117m4vu/los_angeles_police_arrest_suspect_in_fatal/)
 <!-- REDDIT:END -->
 
 
