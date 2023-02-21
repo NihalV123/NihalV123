@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Putin pulls back from last remaining nuclear arms control pact with the US | CNN](https://www.reddit.com/r/news/comments/118aoqc/putin_pulls_back_from_last_remaining_nuclear_arms/)
+- [A California lawyer stole more than $10 million in loans and spent it gambling in Las Vegas, lawsuit claims](https://www.reddit.com/r/news/comments/118a642/a_california_lawyer_stole_more_than_10_million_in/)
+- [Andrew Tate: Self-proclaimed misogynist influencer&#39;s detention in Romania extended for another 30 days | World News](https://www.reddit.com/r/news/comments/118a0rc/andrew_tate_selfproclaimed_misogynist_influencers/)
+- [EPA demands Norfolk Southern handle all cleanup after the Ohio toxic train wreck and threatens consequences](https://www.reddit.com/r/news/comments/1189khu/epa_demands_norfolk_southern_handle_all_cleanup/)
+- [Venice canals start to run dry as low tide and lack of rain hit](https://www.reddit.com/r/news/comments/1188w51/venice_canals_start_to_run_dry_as_low_tide_and/)
 <!-- REDDIT:END -->
 
 
