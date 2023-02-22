@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California beach city to ban public use of balloons in bid to protect coast](https://www.reddit.com/r/news/comments/118vzdd/california_beach_city_to_ban_public_use_of/)
+- [US diplomat on what it&#39;s like negotiating with Putin. Putin is &#39;still not interested in negotiating.&#39;](https://www.reddit.com/r/news/comments/118uilf/us_diplomat_on_what_its_like_negotiating_with/)
+- [Family of man shot during middle school pickup sues Colorado deputies for wrongful death](https://www.reddit.com/r/news/comments/118tvhe/family_of_man_shot_during_middle_school_pickup/)
+- [South Korea breaks its own record for world’s lowest fertility rate](https://www.reddit.com/r/news/comments/118tau6/south_korea_breaks_its_own_record_for_worlds/)
+- [Australia has taken out &#39;hive&#39; of spies, security chief says](https://www.reddit.com/r/news/comments/118qsjv/australia_has_taken_out_hive_of_spies_security/)
 <!-- REDDIT:END -->
 
 
