@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Detective: Colorado Springs club shooter ran neo-Nazi site](https://www.reddit.com/r/news/comments/119i1yf/detective_colorado_springs_club_shooter_ran/)
+- [Christian Nationalists taking over rural governments. Ottawa Co. Michigan.](https://www.reddit.com/r/news/comments/119hvo6/christian_nationalists_taking_over_rural/)
+- [Russian radio stations play out &#39;fake&#39; air raid warning after &#39;hack&#39;, Kremlin officials claim | World News](https://www.reddit.com/r/news/comments/119hd7k/russian_radio_stations_play_out_fake_air_raid/)
+- [Flooded with AI-created content, a sci-fi magazine suspends submissions](https://www.reddit.com/r/news/comments/119g75a/flooded_with_aicreated_content_a_scifi_magazine/)
+- [Supreme Court rejects man’s bid to sue police over arrest for Facebook parody](https://www.reddit.com/r/news/comments/119evw1/supreme_court_rejects_mans_bid_to_sue_police_over/)
 <!-- REDDIT:END -->
 
 
