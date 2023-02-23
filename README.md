@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Angry Ohio residents confront train CEO during CNN town hall on toxic wreck](https://www.reddit.com/r/news/comments/119w3bs/angry_ohio_residents_confront_train_ceo_during/)
+- [AI-created images lose U.S. copyrights in test for new technology](https://www.reddit.com/r/news/comments/119u07j/aicreated_images_lose_us_copyrights_in_test_for/)
+- [Swedish Deputy National Police Chief and Regional Police Chief found dead amidst investigation on gross misconduct](https://www.reddit.com/r/news/comments/119rwt2/swedish_deputy_national_police_chief_and_regional/)
+- [5 die in small airplane crash in Little Rock](https://www.reddit.com/r/news/comments/119r0kq/5_die_in_small_airplane_crash_in_little_rock/)
+- [NYPD: Angelina Cando, 30, facing charges for setting Pride flag on fire outside Little Prince restaurant in SoHo](https://www.reddit.com/r/news/comments/119p0n2/nypd_angelina_cando_30_facing_charges_for_setting/)
 <!-- REDDIT:END -->
 
 
