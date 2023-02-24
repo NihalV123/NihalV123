@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [All U.S. extremist mass killings in 2022 linked to far right, report says](https://www.reddit.com/r/news/comments/11aksbe/all_us_extremist_mass_killings_in_2022_linked_to/)
+- [Nearly 1 million power outages reported in cross-country winter storms, with more snow, icing and blizzard conditions ahead](https://www.reddit.com/r/news/comments/11aizh4/nearly_1_million_power_outages_reported_in/)
+- [Pueblo County, sheriff&#39;s deputies sued for 2022 fatal shooting outside middle school](https://www.reddit.com/r/news/comments/11aiic2/pueblo_county_sheriffs_deputies_sued_for_2022/)
+- [&#39;It&#39;s a major blow&#39;: Dominion has uncovered &#39;smoking gun&#39; evidence in case against Fox News, legal experts say | CNN Business](https://www.reddit.com/r/news/comments/11ahubd/its_a_major_blow_dominion_has_uncovered_smoking/)
+- [China calls for cease-fire in Ukraine, peace talks](https://www.reddit.com/r/news/comments/11agnrn/china_calls_for_ceasefire_in_ukraine_peace_talks/)
 <!-- REDDIT:END -->
 
 
