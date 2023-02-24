@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia&#39;s Medvedev floats idea of pushing back Poland&#39;s borders](https://www.reddit.com/r/news/comments/11avyrh/russias_medvedev_floats_idea_of_pushing_back/)
+- [Penguin to publish &#39;classic&#39; Roald Dahl books after backlash](https://www.reddit.com/r/news/comments/11avlpw/penguin_to_publish_classic_roald_dahl_books_after/)
+- [Report says donors ‘turning away’ from Taliban-ruled Afghanistan](https://www.reddit.com/r/news/comments/11avabi/report_says_donors_turning_away_from_talibanruled/)
+- [Pueblo deputy awarded Purple Heart for injuries suffered during shooting of Richard Ward](https://www.reddit.com/r/news/comments/11aueek/pueblo_deputy_awarded_purple_heart_for_injuries/)
+- [Unknown Whether Tysons Shoplifting Suspect Fatally Shot by Officers Was Armed: Police](https://www.reddit.com/r/news/comments/11au4db/unknown_whether_tysons_shoplifting_suspect/)
 <!-- REDDIT:END -->
 
 
