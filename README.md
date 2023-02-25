@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California Lottery stands behind $2 billion Powerball winner despite claim ticket was stolen](https://www.reddit.com/r/news/comments/11borhd/california_lottery_stands_behind_2_billion/)
+- [Residents near Ohio train derailment diagnosed with ailments associated with chemical exposure, including bronchitis](https://www.reddit.com/r/news/comments/11bndiz/residents_near_ohio_train_derailment_diagnosed/)
+- [Magnitude 5.5 earthquake strikes Central Turkey region - EMSC](https://www.reddit.com/r/news/comments/11bnaxx/magnitude_55_earthquake_strikes_central_turkey/)
+- [G20 fails to reach consensus on Russia-Ukraine war](https://www.reddit.com/r/news/comments/11bn1zk/g20_fails_to_reach_consensus_on_russiaukraine_war/)
+- [Chicago Police Union Paid for Flyer Exposing City Council Candidate’s Arrest When She Was 17](https://www.reddit.com/r/news/comments/11blu7u/chicago_police_union_paid_for_flyer_exposing_city/)
 <!-- REDDIT:END -->
 
 
