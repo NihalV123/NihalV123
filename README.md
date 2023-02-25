@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pentagon Committee Recommends Private Firearm Restrictions for Service Members to Prevent Military Suicides](https://www.reddit.com/r/news/comments/11b658u/pentagon_committee_recommends_private_firearm/)
+- [The U.S. has confirmed that they’re sending additional troops to Taiwan. In a historic move, the troops will deploy to the crucial island location to build out a training program amid increasing tensions with China.](https://www.reddit.com/r/news/comments/11b42r0/the_us_has_confirmed_that_theyre_sending/)
+- [Ministry: hackers broadcast false air raid, missile strike warnings in several Russian regions](https://www.reddit.com/r/news/comments/11b3x53/ministry_hackers_broadcast_false_air_raid_missile/)
+- [Police: Husband shoots and kills wife in Monroeville, dies by apparent suicide after SWAT standoff](https://www.reddit.com/r/news/comments/11b22hw/police_husband_shoots_and_kills_wife_in/)
+- [Kaiser Permanente Sued Over Hormone Therapy](https://www.reddit.com/r/news/comments/11b1ouj/kaiser_permanente_sued_over_hormone_therapy/)
 <!-- REDDIT:END -->
 
 
