@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tate: Romania OKs 3rd extension of influencer&#39;s detention](https://www.reddit.com/r/news/comments/11dhqft/tate_romania_oks_3rd_extension_of_influencers/)
+- [NASA to name first woman as agency&#39;s science chief](https://www.reddit.com/r/news/comments/11dhjm2/nasa_to_name_first_woman_as_agencys_science_chief/)
+- [DeSantis takes over Disney district, punishing company](https://www.reddit.com/r/news/comments/11dgu0l/desantis_takes_over_disney_district_punishing/)
+- [A transgender woman will compete in a Puerto Rico pageant for the first time](https://www.reddit.com/r/news/comments/11dgahi/a_transgender_woman_will_compete_in_a_puerto_rico/)
+- [Brazil allows two Iranian warships to dock in Rio despite US pressure](https://www.reddit.com/r/news/comments/11dg4k8/brazil_allows_two_iranian_warships_to_dock_in_rio/)
 <!-- REDDIT:END -->
 
 
