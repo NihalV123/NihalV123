@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Idaho Students Murder Update: Killer-in-Prison Bryan Kohberger Allegedly Had Multiple Pictures of Victim on His Phone](https://www.reddit.com/r/news/comments/11d41yl/idaho_students_murder_update_killerinprison_bryan/)
+- [Medical services plane crashed in Nevada, killing 5, after apparently breaking up mid-flight, NTSB says | CNN](https://www.reddit.com/r/news/comments/11d2nut/medical_services_plane_crashed_in_nevada_killing/)
+- [Native American advocacy group to retire ‘Crying Indian’ anti-pollution ad](https://www.reddit.com/r/news/comments/11d1bn6/native_american_advocacy_group_to_retire_crying/)
+- [Pickup driver arrested after crash with cyclists killed 2 and injured 11](https://www.reddit.com/r/news/comments/11d088r/pickup_driver_arrested_after_crash_with_cyclists/)
+- [In Latest Round of Job Cuts, Twitter Is Said to Lay Off at Least 200 Employees](https://www.reddit.com/r/news/comments/11czy77/in_latest_round_of_job_cuts_twitter_is_said_to/)
 <!-- REDDIT:END -->
 
 
