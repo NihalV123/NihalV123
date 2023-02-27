@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Italy shipwreck death toll rises to 62 as more bodies pulled from sea](https://www.reddit.com/r/news/comments/11d99a2/italy_shipwreck_death_toll_rises_to_62_as_more/)
+- [FTX Founder Sam Bankman-Fried Faces New Charges](https://www.reddit.com/r/news/comments/11d8ugg/ftx_founder_sam_bankmanfried_faces_new_charges/)
+- [Student charged after bullied New Jersey school girl takes her own life](https://www.reddit.com/r/news/comments/11d8nh7/student_charged_after_bullied_new_jersey_school/)
+- [Contaminated waste shipments from Ohio derailment will resume](https://www.reddit.com/r/news/comments/11d7ud9/contaminated_waste_shipments_from_ohio_derailment/)
+- [This ‘climate-friendly’ fuel comes with an astronomical cancer risk](https://www.reddit.com/r/news/comments/11d4zf9/this_climatefriendly_fuel_comes_with_an/)
 <!-- REDDIT:END -->
 
 
