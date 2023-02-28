@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DPS sent at least 3,000 driver’s licenses to organized crime group targeting Asian Texans](https://www.reddit.com/r/news/comments/11e46vu/dps_sent_at_least_3000_drivers_licenses_to/)
+- [What Norfolk Southern’s accident reports say about the company and industry- According to a Federal Railroad Administration 10-year safety summary, Norfolk Southern saw 163.6 derailments and 2.9 hazardous material releases per year on average](https://www.reddit.com/r/news/comments/11e410c/what_norfolk_southerns_accident_reports_say_about/)
+- [Twitter hit by 40% revenue drop amid ad squeeze, say reports](https://www.reddit.com/r/news/comments/11dzz99/twitter_hit_by_40_revenue_drop_amid_ad_squeeze/)
+- [Navy to change name of warship honoring Confederate battle victory](https://www.reddit.com/r/news/comments/11dx226/navy_to_change_name_of_warship_honoring/)
+- [Six leaders fired from Air Force nuclear base in North Dakota](https://www.reddit.com/r/news/comments/11dwu79/six_leaders_fired_from_air_force_nuclear_base_in/)
 <!-- REDDIT:END -->
 
 
