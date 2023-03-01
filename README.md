@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Giant Jurassic-era insect rediscovered outside Walmart in Arkansas](https://www.reddit.com/r/news/comments/11f8pqf/giant_jurassicera_insect_rediscovered_outside/)
+- [Twitter down for more than an hour around world | Twitter](https://www.reddit.com/r/news/comments/11f8igr/twitter_down_for_more_than_an_hour_around_world/)
+- [‘Havana syndrome’ not caused by energy weapon or foreign adversary, intelligence review finds](https://www.reddit.com/r/news/comments/11f8auh/havana_syndrome_not_caused_by_energy_weapon_or/)
+- [Georgia star Jalen Carter subject of arrest warrant: Top NFL Draft prospect left scene of fatal car crash](https://www.reddit.com/r/news/comments/11f7tp7/georgia_star_jalen_carter_subject_of_arrest/)
+- [Girls high school basketball team forfeits tournament rather than play against transgender player](https://www.reddit.com/r/news/comments/11f6ul0/girls_high_school_basketball_team_forfeits/)
 <!-- REDDIT:END -->
 
 
