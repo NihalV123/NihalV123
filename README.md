@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No jail time for woman who admitted having sex with 13-year-old, having his baby](https://www.reddit.com/r/news/comments/11h8p9p/no_jail_time_for_woman_who_admitted_having_sex/)
+- [Amazon Pausing Construction of Washington, D.C.-Area Second Headquarters](https://www.reddit.com/r/news/comments/11h64c4/amazon_pausing_construction_of_washington_dcarea/)
+- [HCA Healthcare low staffing levels accused of endangering patients](https://www.reddit.com/r/news/comments/11h5k3u/hca_healthcare_low_staffing_levels_accused_of/)
+- [Unusually heavy snowfall on US west coast is ‘once-in-a-generation’ event](https://www.reddit.com/r/news/comments/11h5iz4/unusually_heavy_snowfall_on_us_west_coast_is/)
+- [Langley cannabis company&#39;s approval to make cocaine &#39;astonishes&#39; B.C. premier](https://www.reddit.com/r/news/comments/11h1r20/langley_cannabis_companys_approval_to_make/)
 <!-- REDDIT:END -->
 
 
