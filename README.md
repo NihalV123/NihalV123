@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tom Sizemore, star of Saving Private Ryan, dies aged 61 after brain aneurysm](https://www.reddit.com/r/news/comments/11hpljj/tom_sizemore_star_of_saving_private_ryan_dies/)
+- [Arizona Gov. Katie Hobbs refuses to proceed with execution set by court](https://www.reddit.com/r/news/comments/11hpang/arizona_gov_katie_hobbs_refuses_to_proceed_with/)
+- [Milwaukee man accused of calling in bomb threat because he didn&#39;t want to go to work](https://www.reddit.com/r/news/comments/11hojjr/milwaukee_man_accused_of_calling_in_bomb_threat/)
+- [BetterHelp shared users&#39; sensitive health data, FTC says](https://www.reddit.com/r/news/comments/11hmaxs/betterhelp_shared_users_sensitive_health_data_ftc/)
+- [Man found carrying mummy in a food delivery bag in Peru | CNN](https://www.reddit.com/r/news/comments/11hktg0/man_found_carrying_mummy_in_a_food_delivery_bag/)
 <!-- REDDIT:END -->
 
 
