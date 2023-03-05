@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Everyone should be concerned’: Antarctic sea ice reaches lowest levels ever recorded](https://www.reddit.com/r/news/comments/11ioi9v/everyone_should_be_concerned_antarctic_sea_ice/)
+- [Another Norfolk Southern train derails in Ohio, railroad says no toxins aboard](https://www.reddit.com/r/news/comments/11iohl2/another_norfolk_southern_train_derails_in_ohio/)
+- [Los Gatos Mom Accused of Hosting Alcohol-Fueled Teen Parties Attacked in Jail, Hospitalized](https://www.reddit.com/r/news/comments/11in2e5/los_gatos_mom_accused_of_hosting_alcoholfueled/)
+- [Colombia proposes shipping invasive hippos to India, Mexico](https://www.reddit.com/r/news/comments/11il87i/colombia_proposes_shipping_invasive_hippos_to/)
+- [Twitter’s Revenue, Adjusted Earnings Fell About 40% in Month of December](https://www.reddit.com/r/news/comments/11ii0ls/twitters_revenue_adjusted_earnings_fell_about_40/)
 <!-- REDDIT:END -->
 
 
