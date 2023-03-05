@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Walgreens won&#39;t sell abortion pills in red states that threatened legal action](https://www.reddit.com/r/news/comments/11j3mxk/walgreens_wont_sell_abortion_pills_in_red_states/)
+- [Dozens of Israeli reserve pilots ditch drill to protest judicial overhaul](https://www.reddit.com/r/news/comments/11j0zxc/dozens_of_israeli_reserve_pilots_ditch_drill_to/)
+- [Canada allows two companies to make and sell cocaine, MDMA, and heroin](https://www.reddit.com/r/news/comments/11j0pwq/canada_allows_two_companies_to_make_and_sell/)
+- [Israelis Rally Again Against Government&#39;s Judicial Overhaul](https://www.reddit.com/r/news/comments/11iyxsv/israelis_rally_again_against_governments_judicial/)
+- [Ocean treaty: Historic agreement reached after decade of talks](https://www.reddit.com/r/news/comments/11iuca0/ocean_treaty_historic_agreement_reached_after/)
 <!-- REDDIT:END -->
 
 
