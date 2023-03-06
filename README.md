@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Knaus Berry Farm owner Rachel Knaus Grafe dies of her injuries](https://www.reddit.com/r/news/comments/11jjgp3/knaus_berry_farm_owner_rachel_knaus_grafe_dies_of/)
+- [Ex-Army private gets 45 years for plot against his unit](https://www.reddit.com/r/news/comments/11jfy0d/exarmy_private_gets_45_years_for_plot_against_his/)
+- [As Kenya’s Crops Fail, a Fight Over GMOs Rages](https://www.reddit.com/r/news/comments/11jdy3t/as_kenyas_crops_fail_a_fight_over_gmos_rages/)
+- [International Drug Bust Nets $677 Mln Of Cocaine Off The Coast Of South America](https://www.reddit.com/r/news/comments/11j9xst/international_drug_bust_nets_677_mln_of_cocaine/)
+- [Latest Ohio derailment poses no public risk, officials say](https://www.reddit.com/r/news/comments/11j9pl7/latest_ohio_derailment_poses_no_public_risk/)
 <!-- REDDIT:END -->
 
 
