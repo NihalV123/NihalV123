@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [23 face domestic terrorism charges after arrests in &#39;Cop City&#39; protests at planned police training site in Atlanta | CNN](https://www.reddit.com/r/news/comments/11knbtj/23_face_domestic_terrorism_charges_after_arrests/)
+- [FAA investigating contact between 2 United airplanes on Boston Logan tarmac following four other close calls this year | CNN](https://www.reddit.com/r/news/comments/11kn4e0/faa_investigating_contact_between_2_united/)
+- [Judy Heumann, disability rights activist, dies at age 75](https://www.reddit.com/r/news/comments/11kmwq4/judy_heumann_disability_rights_activist_dies_at/)
+- [The Founder of Mr. Beef, the Legendary Chicago Italian Beef Stand, Has Died](https://www.reddit.com/r/news/comments/11klruk/the_founder_of_mr_beef_the_legendary_chicago/)
+- [2 dead, 8 injured after what appears to be the ‘result of a large crowd pushing’ at a concert in Rochester, New York](https://www.reddit.com/r/news/comments/11kkt58/2_dead_8_injured_after_what_appears_to_be_the/)
 <!-- REDDIT:END -->
 
 
