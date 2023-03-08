@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Turkish watchdog says it&#39;s fining Musk over Twitter takeover](https://www.reddit.com/r/news/comments/11m2eii/turkish_watchdog_says_its_fining_musk_over/)
+- [New Mexico Legislature votes to block local abortion bans](https://www.reddit.com/r/news/comments/11m270d/new_mexico_legislature_votes_to_block_local/)
+- [Louisville police engaged in pattern of misconduct, Justice Dept. finds](https://www.reddit.com/r/news/comments/11m1tqq/louisville_police_engaged_in_pattern_of/)
+- [Feds: Louisville police had pattern of violating rights](https://www.reddit.com/r/news/comments/11m15lw/feds_louisville_police_had_pattern_of_violating/)
+- [Arkansas Gov. Sanders signs law loosening child labor protections](https://www.reddit.com/r/news/comments/11m0l92/arkansas_gov_sanders_signs_law_loosening_child/)
 <!-- REDDIT:END -->
 
 
