@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Senate Minority Leader McConnell Is Hospitalized After Fall](https://www.reddit.com/r/news/comments/11mjkgq/senate_minority_leader_mcconnell_is_hospitalized/)
+- [11 East Cleveland officers indicted; videos show them beating, kicking suspects, destroying evidence](https://www.reddit.com/r/news/comments/11mi1ad/11_east_cleveland_officers_indicted_videos_show/)
+- [‘If the cold doesn’t kill you, a train will’; Double amputee left on train tracks to die by Cleveland carjackers, police say](https://www.reddit.com/r/news/comments/11mhzp7/if_the_cold_doesnt_kill_you_a_train_will_double/)
+- [2 American survivors of deadly Mexico kidnapping are being treated in US hospital as bodies of 2 killed are expected to be repatriated Thursday](https://www.reddit.com/r/news/comments/11mg5mx/2_american_survivors_of_deadly_mexico_kidnapping/)
+- [6-year-old who shot teacher won&#39;t face charges, prosecutor says](https://www.reddit.com/r/news/comments/11mbl5v/6yearold_who_shot_teacher_wont_face_charges/)
 <!-- REDDIT:END -->
 
 
