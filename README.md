@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia drops bill on ‘foreign agents’ after two nights of violent protests](https://www.reddit.com/r/news/comments/11moteb/georgia_drops_bill_on_foreign_agents_after_two/)
+- [Married lunch lady, 31, accused of grooming 14-year-old student for months on social media](https://www.reddit.com/r/news/comments/11mn7q2/married_lunch_lady_31_accused_of_grooming/)
+- [Minnesota Gov. Tim Walz signs executive order protecting access to gender-affirming health care](https://www.reddit.com/r/news/comments/11mkuww/minnesota_gov_tim_walz_signs_executive_order/)
+- [Georgian police use water, tear gas in move to break up second day of protests](https://www.reddit.com/r/news/comments/11minvz/georgian_police_use_water_tear_gas_in_move_to/)
+- [11 East Cleveland officers indicted; videos show them beating, kicking suspects, destroying evidence](https://www.reddit.com/r/news/comments/11mi1ad/11_east_cleveland_officers_indicted_videos_show/)
 <!-- REDDIT:END -->
 
 
