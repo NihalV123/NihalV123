@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [6-year-old who shot teacher won&#39;t face charges, prosecutor says](https://www.reddit.com/r/news/comments/11mbl5v/6yearold_who_shot_teacher_wont_face_charges/)
+- [82-year-old charged with sale of fake Michael Jordan cards](https://www.reddit.com/r/news/comments/11mavvy/82yearold_charged_with_sale_of_fake_michael/)
+- [Numerous arrests after massive high school brawl that sent officer to hospital](https://www.reddit.com/r/news/comments/11m9sz5/numerous_arrests_after_massive_high_school_brawl/)
+- [US-made Abrams tanks added to shopping list of another NATO ally, Romania says](https://www.reddit.com/r/news/comments/11m8j44/usmade_abrams_tanks_added_to_shopping_list_of/)
+- [By 4-3, Supreme Court says no Miranda warning necessary for man repeatedly told he was under arrest](https://www.reddit.com/r/news/comments/11m7thg/by_43_supreme_court_says_no_miranda_warning/)
 <!-- REDDIT:END -->
 
 
