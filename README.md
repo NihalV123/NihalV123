@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Berlin to allow women to go topless in public swimming pools](https://www.reddit.com/r/news/comments/11nl8ds/berlin_to_allow_women_to_go_topless_in_public/)
+- [US grandfather survives week in snowbank on croissants and biscotti](https://www.reddit.com/r/news/comments/11nl5r1/us_grandfather_survives_week_in_snowbank_on/)
+- [Micronesian president suggests severing diplomatic ties with China in favour of Taiwan due to &#39;political warfare&#39;](https://www.reddit.com/r/news/comments/11ngm8t/micronesian_president_suggests_severing/)
+- [The Gulf Cartel handed over 5 of its members and apologized for the death of 2 Americans and one Mexican.](https://www.reddit.com/r/news/comments/11ngepf/the_gulf_cartel_handed_over_5_of_its_members_and/)
+- [Chinese Rocket that Delivered Military Spy Satellites Breaks Up Over Texas](https://www.reddit.com/r/news/comments/11nfiga/chinese_rocket_that_delivered_military_spy/)
 <!-- REDDIT:END -->
 
 
