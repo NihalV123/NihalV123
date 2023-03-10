@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chinese leader Xi Jinping unanimously awarded third five-year presidential term, on track to remain in power for life](https://www.reddit.com/r/news/comments/11nddx3/chinese_leader_xi_jinping_unanimously_awarded/)
+- [Traute Lafrenz, the last of the White Rose anti-Nazi resistance, dies aged 103](https://www.reddit.com/r/news/comments/11nccuq/traute_lafrenz_the_last_of_the_white_rose/)
+- [Robert Blake, embattled actor of &#39;In Cold Blood&#39; and &#39;Lost Highway&#39; fame, dead at 89](https://www.reddit.com/r/news/comments/11naonh/robert_blake_embattled_actor_of_in_cold_blood_and/)
+- [Florida man attacked by alligator after hearing noise, opening front door](https://www.reddit.com/r/news/comments/11n6cqd/florida_man_attacked_by_alligator_after_hearing/)
+- [Sensitive personal data of US House and Senate members hacked, offered for sale | US news](https://www.reddit.com/r/news/comments/11n64sl/sensitive_personal_data_of_us_house_and_senate/)
 <!-- REDDIT:END -->
 
 
