@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man attacked by alligator after hearing noise, opening front door](https://www.reddit.com/r/news/comments/11n6cqd/florida_man_attacked_by_alligator_after_hearing/)
+- [Sensitive personal data of US House and Senate members hacked, offered for sale | US news](https://www.reddit.com/r/news/comments/11n64sl/sensitive_personal_data_of_us_house_and_senate/)
+- [At least six killed and seven injured in shooting in Germany city of Hamburg](https://www.reddit.com/r/news/comments/11n5i0n/at_least_six_killed_and_seven_injured_in_shooting/)
+- [Former Ohio House speaker convicted in $60 million bribery scheme](https://www.reddit.com/r/news/comments/11n4q2l/former_ohio_house_speaker_convicted_in_60_million/)
+- [Florida&#39;s post-Parkland law raising minimum age to purchase a gun to 21 is upheld](https://www.reddit.com/r/news/comments/11n333i/floridas_postparkland_law_raising_minimum_age_to/)
 <!-- REDDIT:END -->
 
 
