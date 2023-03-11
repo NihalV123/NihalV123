@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Raphael Mechoulam, ‘Father of Cannabis Research,’ dies at 92](https://www.reddit.com/r/news/comments/11op19v/raphael_mechoulam_father_of_cannabis_research/)
+- [A giant seaweed bloom that can be seen from space threatens beaches in Florida and Mexico](https://www.reddit.com/r/news/comments/11oorxv/a_giant_seaweed_bloom_that_can_be_seen_from_space/)
+- [Paul Flores sentenced to 25 years to life for 1996 murder of Kristin Smart](https://www.reddit.com/r/news/comments/11oof3z/paul_flores_sentenced_to_25_years_to_life_for/)
+- [Texas women sued for wrongful death after aiding in abortion](https://www.reddit.com/r/news/comments/11ooaad/texas_women_sued_for_wrongful_death_after_aiding/)
+- [Discovery of loose wheels adds to Norfolk Southern’s safety problems](https://www.reddit.com/r/news/comments/11oo43s/discovery_of_loose_wheels_adds_to_norfolk/)
 <!-- REDDIT:END -->
 
 
