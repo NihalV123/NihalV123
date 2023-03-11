@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Roku says 26% of its cash reserves are stuck in Silicon Valley Bank](https://www.reddit.com/r/news/comments/11o49kk/roku_says_26_of_its_cash_reserves_are_stuck_in/)
+- [Rupert Murdoch: Fox News fired Kimberly Guilfoyle for ‘inappropriate behavior’](https://www.reddit.com/r/news/comments/11o3lxr/rupert_murdoch_fox_news_fired_kimberly_guilfoyle/)
+- [Standard time giving way to daylight saving in most of US](https://www.reddit.com/r/news/comments/11o14ff/standard_time_giving_way_to_daylight_saving_in/)
+- [West Virginia State Police turn over phones, devices amid conduct investigation](https://www.reddit.com/r/news/comments/11o0k0j/west_virginia_state_police_turn_over_phones/)
+- [Five people killed during murder-suicide in Miami Lakes home, police say](https://www.reddit.com/r/news/comments/11o06cu/five_people_killed_during_murdersuicide_in_miami/)
 <!-- REDDIT:END -->
 
 
