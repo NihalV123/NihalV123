@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Insurers slashed Hurricane Ian payouts far below damage estimates, documents and insiders reveal](https://www.reddit.com/r/news/comments/11q0ewd/insurers_slashed_hurricane_ian_payouts_far_below/)
+- [Michelle Yeoh wins best actress Oscar for Everything Everywhere All at Once | Oscars 2023 | The Guardian](https://www.reddit.com/r/news/comments/11pzls5/michelle_yeoh_wins_best_actress_oscar_for/)
+- [British man credits Apple Watch for warning his heart condition](https://www.reddit.com/r/news/comments/11pwv80/british_man_credits_apple_watch_for_warning_his/)
+- [Large group in Mexico attempted mass entry into US at El Paso, Texas border crossing, officials say | CNN](https://www.reddit.com/r/news/comments/11pwjhf/large_group_in_mexico_attempted_mass_entry_into/)
+- [Dow futures jump 250 points as regulators announce backstop of SVB depositors: Live updates](https://www.reddit.com/r/news/comments/11pvul7/dow_futures_jump_250_points_as_regulators/)
 <!-- REDDIT:END -->
 
 
