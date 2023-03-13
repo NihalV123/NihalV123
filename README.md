@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4-year-old accidentally shot, killed by 3-year-old sister in Houston-area home](https://www.reddit.com/r/news/comments/11q7gt7/4yearold_accidentally_shot_killed_by_3yearold/)
+- [Human remains found on Northern Kentucky University campus](https://www.reddit.com/r/news/comments/11q7cda/human_remains_found_on_northern_kentucky/)
+- [Gary Lineker to return to air as BBC announces review of guidelines](https://www.reddit.com/r/news/comments/11q5zhq/gary_lineker_to_return_to_air_as_bbc_announces/)
+- [Packers Sanitation Services pays fines for employing children](https://www.reddit.com/r/news/comments/11q5qba/packers_sanitation_services_pays_fines_for/)
+- [UK approves increased submarine-related exports to Taiwan, risking angering China](https://www.reddit.com/r/news/comments/11q3jxk/uk_approves_increased_submarinerelated_exports_to/)
 <!-- REDDIT:END -->
 
 
