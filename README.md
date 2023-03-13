@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nobel Prize-winning Japanese novelist Kenzaburo Oe dies at 88 | CNN](https://www.reddit.com/r/news/comments/11qfgtd/nobel_prizewinning_japanese_novelist_kenzaburo_oe/)
+- [Massive 5,000-mile-wide seaweed blob heading toward Florida](https://www.reddit.com/r/news/comments/11qex6s/massive_5000milewide_seaweed_blob_heading_toward/)
+- [U.S. government agencies may have been double billed for projects in Wuhan, China, records indicate; probe launched](https://www.reddit.com/r/news/comments/11qe3il/us_government_agencies_may_have_been_double/)
+- [Person crossing I-45 HOV lane near Edgebrook hit and killed by METRO bus, police say](https://www.reddit.com/r/news/comments/11qda4g/person_crossing_i45_hov_lane_near_edgebrook_hit/)
+- [First Republic tells CNBC the bank isn&#39;t seeing that many depositors leave, JPMorgan funding working](https://www.reddit.com/r/news/comments/11qcyce/first_republic_tells_cnbc_the_bank_isnt_seeing/)
 <!-- REDDIT:END -->
 
 
