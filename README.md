@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman who posed as sick, wounded Marine gets nearly 6 years in prison](https://www.reddit.com/r/news/comments/11s1wkf/woman_who_posed_as_sick_wounded_marine_gets/)
+- [Crowds gather in Paris for eighth day of strikes against government pension reform](https://www.reddit.com/r/news/comments/11s0fay/crowds_gather_in_paris_for_eighth_day_of_strikes/)
+- [Exiled Chinese billionaire Guo Wengui, an ally of Steve Bannon, arrested by FBI - ABC News](https://www.reddit.com/r/news/comments/11s023f/exiled_chinese_billionaire_guo_wengui_an_ally_of/)
+- [Video: 8 people brutally beat woman along Philadelphia street](https://www.reddit.com/r/news/comments/11ry37v/video_8_people_brutally_beat_woman_along/)
+- [This CEO halved her personal savings to meet payroll after SVB collapse: &#39;I don&#39;t really know yet what the repercussions will be&#39;](https://www.reddit.com/r/news/comments/11rxmby/this_ceo_halved_her_personal_savings_to_meet/)
 <!-- REDDIT:END -->
 
 
