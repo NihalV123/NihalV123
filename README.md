@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Carson Briere, junior center for the Mercyhurst University men&#39;s hockey team is &quot;deeply sorry&quot; for pushing an unoccupied wheelchair down a flight of stairs, while occupant of wheelchair is in the bathroom](https://www.reddit.com/r/news/comments/11sbi5t/carson_briere_junior_center_for_the_mercyhurst/)
+- [Workers dismantle Florida ride where teen fell to death](https://www.reddit.com/r/news/comments/11s8jhw/workers_dismantle_florida_ride_where_teen_fell_to/)
+- [South Korea to build &#39;world&#39;s largest&#39; chip center with $230 billion investment from Samsung](https://www.reddit.com/r/news/comments/11s74bw/south_korea_to_build_worlds_largest_chip_center/)
+- [Tesla hit with &#39;right to repair&#39; antitrust class actions](https://www.reddit.com/r/news/comments/11s6ltb/tesla_hit_with_right_to_repair_antitrust_class/)
+- [Stormy Daniels meets with prosecutors investigating Trump](https://www.reddit.com/r/news/comments/11s6kla/stormy_daniels_meets_with_prosecutors/)
 <!-- REDDIT:END -->
 
 
