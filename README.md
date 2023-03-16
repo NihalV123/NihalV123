@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Girl, 11, gave birth to baby allegedly fathered by brother; he and parents are charged](https://www.reddit.com/r/news/comments/11skcgo/girl_11_gave_birth_to_baby_allegedly_fathered_by/)
+- [7 Virginia deputies charged with murder in death of man who prosecutors say was &#39;smothered&#39; at hospital](https://www.reddit.com/r/news/comments/11siaom/7_virginia_deputies_charged_with_murder_in_death/)
+- [Paid time off is not part of workers&#39; &#39;salary,&#39; U.S. court rules](https://www.reddit.com/r/news/comments/11si8b8/paid_time_off_is_not_part_of_workers_salary_us/)
+- [Saudi trans woman dies by suicide after being ‘forced to de-transition’](https://www.reddit.com/r/news/comments/11shust/saudi_trans_woman_dies_by_suicide_after_being/)
+- [&#39;Endless, brutal heat&#39;: Argentina&#39;s late-season heatwave has &#39;no similarities in history&#39; | CNN](https://www.reddit.com/r/news/comments/11sh3wo/endless_brutal_heat_argentinas_lateseason/)
 <!-- REDDIT:END -->
 
 
