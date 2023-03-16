@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US maternal death rate rose sharply in 2021, CDC data shows, and experts worry the problem is getting worse](https://www.reddit.com/r/news/comments/11sq2k5/us_maternal_death_rate_rose_sharply_in_2021_cdc/)
+- [Pa. woman whose wheelchair was shoved down stairs by student athletes lost legs in car wreck](https://www.reddit.com/r/news/comments/11sou4h/pa_woman_whose_wheelchair_was_shoved_down_stairs/)
+- [US jails former Mexican state governor for money laundering](https://www.reddit.com/r/news/comments/11so7iw/us_jails_former_mexican_state_governor_for_money/)
+- [World&#39;s first octopus farm proposals alarm scientists](https://www.reddit.com/r/news/comments/11sij7i/worlds_first_octopus_farm_proposals_alarm/)
+- [Paid time off is not part of workers&#39; &#39;salary,&#39; U.S. court rules](https://www.reddit.com/r/news/comments/11si8b8/paid_time_off_is_not_part_of_workers_salary_us/)
 <!-- REDDIT:END -->
 
 
