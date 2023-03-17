@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon sued for not telling New York store customers about facial recognition](https://www.reddit.com/r/news/comments/11tbcth/amazon_sued_for_not_telling_new_york_store/)
+- [Owner of Boston Pizza Chain Arrested on Forced Labor Charge](https://www.reddit.com/r/news/comments/11t7qas/owner_of_boston_pizza_chain_arrested_on_forced/)
+- [World&#39;s first octopus farm proposals alarm scientists](https://www.reddit.com/r/news/comments/11t6hfu/worlds_first_octopus_farm_proposals_alarm/)
+- [14-year-old boy arrested in Mexico for murder of 8](https://www.reddit.com/r/news/comments/11t5yf4/14yearold_boy_arrested_in_mexico_for_murder_of_8/)
+- [In victory for people with diabetes, Sanofi announces insulin price caps, the last of 3 major insulin makers to do so](https://www.reddit.com/r/news/comments/11t5cq1/in_victory_for_people_with_diabetes_sanofi/)
 <!-- REDDIT:END -->
 
 
