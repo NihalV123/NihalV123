@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dog that regularly overdosed on fentanyl, meth, cocaine seized by B.C. SPCA](https://www.reddit.com/r/news/comments/11teahh/dog_that_regularly_overdosed_on_fentanyl_meth/)
+- [English professor in Florida says university terminated his contract after a complaint over his racial justice unit](https://www.reddit.com/r/news/comments/11tdm9t/english_professor_in_florida_says_university/)
+- [Colorado man faces hate crime charges after drawing a swastika on New York&#39;s Charging Bull statue, prosecutors say](https://www.reddit.com/r/news/comments/11tdfwi/colorado_man_faces_hate_crime_charges_after/)
+- [For 1st time, scientists create mice with cells from 2 males | AP News](https://www.reddit.com/r/news/comments/11tclbs/for_1st_time_scientists_create_mice_with_cells/)
+- [Amazon sued for not telling New York store customers about facial recognition](https://www.reddit.com/r/news/comments/11tbcth/amazon_sued_for_not_telling_new_york_store/)
 <!-- REDDIT:END -->
 
 
