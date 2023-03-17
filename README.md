@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Levels of carcinogenic chemical near Ohio derailment site far above safe limit](https://www.reddit.com/r/news/comments/11tx0yr/levels_of_carcinogenic_chemical_near_ohio/)
+- [LAPD officer is suing the department, alleging supervisors ignored sexual harassment](https://www.reddit.com/r/news/comments/11tv85m/lapd_officer_is_suing_the_department_alleging/)
+- [Global fresh water demand will outstrip supply by 40% by 2030, say experts | Water](https://www.reddit.com/r/news/comments/11tuk5z/global_fresh_water_demand_will_outstrip_supply_by/)
+- [Officer who killed George Floyd pleads guilty in tax case](https://www.reddit.com/r/news/comments/11tubc9/officer_who_killed_george_floyd_pleads_guilty_in/)
+- [Ukraine war - latest: Judges issue arrest warrant for Putin over alleged war crimes; second country to send fighter jets to Ukraine | World News](https://www.reddit.com/r/news/comments/11tu5o0/ukraine_war_latest_judges_issue_arrest_warrant/)
 <!-- REDDIT:END -->
 
 
