@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Mexico Passes Bill to Safeguard Abortion Providers](https://www.reddit.com/r/news/comments/11u9eeg/new_mexico_passes_bill_to_safeguard_abortion/)
+- [Lance Reddick, &#39;The Wire&#39; and &#39;John Wick&#39; star, dies at 60](https://www.reddit.com/r/news/comments/11u6rgq/lance_reddick_the_wire_and_john_wick_star_dies_at/)
+- [French protests: Violence erupts in Paris as police clash with protestors at Place de la Concorde | World News | Sky News](https://www.reddit.com/r/news/comments/11u2eom/french_protests_violence_erupts_in_paris_as/)
+- [Sam Neill: Jurassic Park actor reveals he is being treated for stage-three blood cancer | Sam Neill](https://www.reddit.com/r/news/comments/11u1pbk/sam_neill_jurassic_park_actor_reveals_he_is_being/)
+- [Man who killed 3 people, cut heart out and cooked it pleads guilty in Oklahoma](https://www.reddit.com/r/news/comments/11u0q31/man_who_killed_3_people_cut_heart_out_and_cooked/)
 <!-- REDDIT:END -->
 
 
