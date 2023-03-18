@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [400,000 gallons of radioactive water leaked from a nuclear plant in Minnesota](https://www.reddit.com/r/news/comments/11ulnrf/400000_gallons_of_radioactive_water_leaked_from_a/)
+- [‘The smell is next level’: millions of dead fish spanning kilometres of Darling-Baaka river begin to rot](https://www.reddit.com/r/news/comments/11uj7rb/the_smell_is_next_level_millions_of_dead_fish/)
+- [Wyoming governor signs measure prohibiting abortion pills](https://www.reddit.com/r/news/comments/11uinpj/wyoming_governor_signs_measure_prohibiting/)
+- [Nuclear power plant leaked 1.5M litres of radioactive water in Minnesota](https://www.reddit.com/r/news/comments/11ugwat/nuclear_power_plant_leaked_15m_litres_of/)
+- [Taiwan charges ex-MP and former admiral with spying for China](https://www.reddit.com/r/news/comments/11ugql7/taiwan_charges_exmp_and_former_admiral_with/)
 <!-- REDDIT:END -->
 
 
