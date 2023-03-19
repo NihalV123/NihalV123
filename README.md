@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After pandemic pet boom, owners struggle with rising costs of veterinary care - PBS](https://www.reddit.com/r/news/comments/11v4ug0/after_pandemic_pet_boom_owners_struggle_with/)
+- [US fighter pilot accused of helping China moved to maximum security jail in NSW](https://www.reddit.com/r/news/comments/11v4ql9/us_fighter_pilot_accused_of_helping_china_moved/)
+- [Man Accused of Threatening Florida Sheriff Who Condemned Antisemitic Propaganda](https://www.reddit.com/r/news/comments/11v41aa/man_accused_of_threatening_florida_sheriff_who/)
+- [New York man threatened to kill Yonkers mayor and police during St. Patrick’s Day parade, prosecutors say](https://www.reddit.com/r/news/comments/11v3n27/new_york_man_threatened_to_kill_yonkers_mayor_and/)
+- [Midsize U.S. banks reportedly ask the FDIC to insure all deposits for two years](https://www.reddit.com/r/news/comments/11v3ih4/midsize_us_banks_reportedly_ask_the_fdic_to/)
 <!-- REDDIT:END -->
 
 
