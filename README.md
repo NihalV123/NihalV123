@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UBS makes offer for Credit Suisse, bondholder losses considered](https://www.reddit.com/r/news/comments/11vnz2k/ubs_makes_offer_for_credit_suisse_bondholder/)
+- [California moves to cap insulin cost at $30](https://www.reddit.com/r/news/comments/11vlrrd/california_moves_to_cap_insulin_cost_at_30/)
+- [Hundreds protest clampdown on same-sex parents in Milan](https://www.reddit.com/r/news/comments/11vlrp6/hundreds_protest_clampdown_on_samesex_parents_in/)
+- [Online-Books Lawsuit Tests Limits of Libraries in Digital Age](https://www.reddit.com/r/news/comments/11vl694/onlinebooks_lawsuit_tests_limits_of_libraries_in/)
+- [Citing staffing issues and political climate, North Idaho hospital will no longer deliver babies](https://www.reddit.com/r/news/comments/11vl23u/citing_staffing_issues_and_political_climate/)
 <!-- REDDIT:END -->
 
 
