@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Department convinces federal judge Trump used his attorney in furtherance of a crime in classified docs probe](https://www.reddit.com/r/news/comments/11y40oo/justice_department_convinces_federal_judge_trump/)
+- [Stephen Smith’s case is now being investigated as a homicide, South Carolina law enforcement says](https://www.reddit.com/r/news/comments/11y3syb/stephen_smiths_case_is_now_being_investigated_as/)
+- [‘Don’t Say Gay’ lawmaker pleads guilty to COVID relief fraud](https://www.reddit.com/r/news/comments/11y2017/dont_say_gay_lawmaker_pleads_guilty_to_covid/)
+- [A Texas university president canceled a student drag show, calling it ‘divisive’ and misogynistic. First Amendment advocates disagree](https://www.reddit.com/r/news/comments/11y1cew/a_texas_university_president_canceled_a_student/)
+- [TikTok bans deepfakes of young people as it updates guidelines](https://www.reddit.com/r/news/comments/11y0dxj/tiktok_bans_deepfakes_of_young_people_as_it/)
 <!-- REDDIT:END -->
 
 
