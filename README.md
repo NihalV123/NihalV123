@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WATCH: Armed suspect in devil mask tries to enter Florida strip club, gets tackled by security](https://www.reddit.com/r/news/comments/11ypiky/watch_armed_suspect_in_devil_mask_tries_to_enter/)
+- [Shooting reported at Denver high school, 2 adults hospitalized](https://www.reddit.com/r/news/comments/11yonue/shooting_reported_at_denver_high_school_2_adults/)
+- [Russia recruits Steven Seagal to teach martial arts to its soldiers](https://www.reddit.com/r/news/comments/11yn01l/russia_recruits_steven_seagal_to_teach_martial/)
+- [Slovakia offered US helicopters for giving jets to Ukraine](https://www.reddit.com/r/news/comments/11ymrmq/slovakia_offered_us_helicopters_for_giving_jets/)
+- [Andrew Tate: Brothers&#39; custody extended by another month](https://www.reddit.com/r/news/comments/11ymeqt/andrew_tate_brothers_custody_extended_by_another/)
 <!-- REDDIT:END -->
 
 
