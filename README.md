@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arrest made in fire at planned Wyoming abortion clinic](https://www.reddit.com/r/news/comments/11z1m3x/arrest_made_in_fire_at_planned_wyoming_abortion/)
+- [Calgary pastor accused of hate-motivated crimes at drag storytime has history of violence](https://www.reddit.com/r/news/comments/11z0sb3/calgary_pastor_accused_of_hatemotivated_crimes_at/)
+- [Uganda passes a law making it a crime to identify as LGBTQ](https://www.reddit.com/r/news/comments/11z0p98/uganda_passes_a_law_making_it_a_crime_to_identify/)
+- [&#39;Don&#39;t go near them, don&#39;t touch them&#39;: These trees have caused dozens of hospitalisations in Australia](https://www.reddit.com/r/news/comments/11yzhm0/dont_go_near_them_dont_touch_them_these_trees/)
+- [Afterschool violence has San Francisco teens living in fear; &#39;I feel like I&#39;m always watching over my back&#39;](https://www.reddit.com/r/news/comments/11yzet1/afterschool_violence_has_san_francisco_teens/)
 <!-- REDDIT:END -->
 
 
