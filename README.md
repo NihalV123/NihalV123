@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BBC News - World Athletics bans transgender female athletes from competing in female world ranking events](https://www.reddit.com/r/news/comments/11zr2ci/bbc_news_world_athletics_bans_transgender_female/)
+- [Oxford school shooter&#39;s parents can face manslaughter trial](https://www.reddit.com/r/news/comments/11zppc8/oxford_school_shooters_parents_can_face/)
+- [Manhattan DA rejects GOP demand for info on Trump case](https://www.reddit.com/r/news/comments/11zp95u/manhattan_da_rejects_gop_demand_for_info_on_trump/)
+- [Largest recorded Alberta earthquake not natural, from oilsands wastewater: study](https://www.reddit.com/r/news/comments/11zoetu/largest_recorded_alberta_earthquake_not_natural/)
+- [Afroman sued by law enforcement officers who raided his home](https://www.reddit.com/r/news/comments/11zn3y2/afroman_sued_by_law_enforcement_officers_who/)
 <!-- REDDIT:END -->
 
 
