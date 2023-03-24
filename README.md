@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Union workers can’t sue under Illinois biometric law, court rules](https://www.reddit.com/r/news/comments/120hfdt/union_workers_cant_sue_under_illinois_biometric/)
+- [James and Jennifer Crumbley to stand trial for role in Oxford HS shooting, Court of Appeals rules](https://www.reddit.com/r/news/comments/120gvnc/james_and_jennifer_crumbley_to_stand_trial_for/)
+- [Russia can&#39;t meet India arms deliveries due to Ukraine war, Indian Air Force says | CNN](https://www.reddit.com/r/news/comments/120dluz/russia_cant_meet_india_arms_deliveries_due_to/)
+- [Drone strike kills US contractor in Syria; US retaliates](https://www.reddit.com/r/news/comments/120c592/drone_strike_kills_us_contractor_in_syria_us/)
+- [Violent French pension protests erupt as 1M demonstrate](https://www.reddit.com/r/news/comments/1208auc/violent_french_pension_protests_erupt_as_1m/)
 <!-- REDDIT:END -->
 
 
