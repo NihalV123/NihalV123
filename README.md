@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 ex-cops charged in Tyre Nichols’ death barred from police](https://www.reddit.com/r/news/comments/120r659/4_excops_charged_in_tyre_nichols_death_barred/)
+- [Famous statue&#39;s nakedness too much for Florida parents; principal fired over lesson](https://www.reddit.com/r/news/comments/120qsza/famous_statues_nakedness_too_much_for_florida/)
+- [Denver public schools close for mental health day after shooting, as armed guards prepare a return to campuses](https://www.reddit.com/r/news/comments/120mpeg/denver_public_schools_close_for_mental_health_day/)
+- [Banking crisis lingers as contagion fears take aim at Deutsche Bank](https://www.reddit.com/r/news/comments/120mfbi/banking_crisis_lingers_as_contagion_fears_take/)
+- [5 kids rescued from Staten Island sewer system after they crawled into a tunnel and got lost](https://www.reddit.com/r/news/comments/120m5cb/5_kids_rescued_from_staten_island_sewer_system/)
 <!-- REDDIT:END -->
 
 
