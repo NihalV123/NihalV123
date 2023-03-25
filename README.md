@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [“He Gets Us” ad campaign is hoovering up our data and sending it to right wing political groups](https://www.reddit.com/r/news/comments/121j7e9/he_gets_us_ad_campaign_is_hoovering_up_our_data/)
+- [Gordon Moore &lpar;94&rpar;, founder of Intel, the creator of Moore&#39;s law, dies in Hawaii](https://www.reddit.com/r/news/comments/121i6z9/gordon_moore_94_founder_of_intel_the_creator_of/)
+- [Kansas City Police targeted minority neighborhoods to meet illegal ticket quotas, lawsuit says](https://www.reddit.com/r/news/comments/121geea/kansas_city_police_targeted_minority/)
+- [&#39;Everything has changed&#39;: Users of recalled eye drops describe permanent vision problems after infections](https://www.reddit.com/r/news/comments/121gcbg/everything_has_changed_users_of_recalled_eye/)
+- [Principal resigns after Florida students shown Michelangelo statue](https://www.reddit.com/r/news/comments/121gaq3/principal_resigns_after_florida_students_shown/)
 <!-- REDDIT:END -->
 
 
