@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia recruits Steven Seagal to teach martial arts to its soldiers | Marca](https://www.reddit.com/r/news/comments/12149ce/russia_recruits_steven_seagal_to_teach_martial/)
+- [Gordon Moore, Intel Co-Founder, Dies at 94](https://www.reddit.com/r/news/comments/12145cc/gordon_moore_intel_cofounder_dies_at_94/)
+- [Nearly $100 billion in deposits pulled from banks; officials call system ‘sound and resilient’](https://www.reddit.com/r/news/comments/1210e6x/nearly_100_billion_in_deposits_pulled_from_banks/)
+- [Darcelle, world&#39;s oldest working drag queen, dies at 92](https://www.reddit.com/r/news/comments/120ziz4/darcelle_worlds_oldest_working_drag_queen_dies_at/)
+- [Paul Rusesabagina, &#39;Hotel Rwanda&#39; hero, will be released from prison](https://www.reddit.com/r/news/comments/120y6ot/paul_rusesabagina_hotel_rwanda_hero_will_be/)
 <!-- REDDIT:END -->
 
 
