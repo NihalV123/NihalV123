@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jonathan Majors arrested on assault charge in New York](https://www.reddit.com/r/news/comments/122aryd/jonathan_majors_arrested_on_assault_charge_in_new/)
+- [&#39;Her story is for all of us&#39;: Saudi protesters call for justice for Eden Knight](https://www.reddit.com/r/news/comments/1229hvd/her_story_is_for_all_of_us_saudi_protesters_call/)
+- [Stunned faces and heartbreak for migrants heading to Roxham as they learn Canada will likely send them back](https://www.reddit.com/r/news/comments/12270pc/stunned_faces_and_heartbreak_for_migrants_heading/)
+- [Elon Musk puts $20 billion value on Twitter - The Information](https://www.reddit.com/r/news/comments/1225xh9/elon_musk_puts_20_billion_value_on_twitter_the/)
+- [Massive fire rips through homes in Massachusetts | World News](https://www.reddit.com/r/news/comments/12239kh/massive_fire_rips_through_homes_in_massachusetts/)
 <!-- REDDIT:END -->
 
 
