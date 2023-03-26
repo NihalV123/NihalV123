@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An Alabama Burger King employee stabbed, suspect arrested after incident in bathroom](https://www.reddit.com/r/news/comments/1224sue/an_alabama_burger_king_employee_stabbed_suspect/)
+- [Massive fire rips through homes in Massachusetts | World News](https://www.reddit.com/r/news/comments/12239kh/massive_fire_rips_through_homes_in_massachusetts/)
+- [Shawn Fain wins UAW presidency, completing stunning upset of leadership](https://www.reddit.com/r/news/comments/1222bbi/shawn_fain_wins_uaw_presidency_completing/)
+- [Cuban migrants land at Key West International Airport aboard a hang glider, deputies say](https://www.reddit.com/r/news/comments/121znhw/cuban_migrants_land_at_key_west_international/)
+- [Police Captain Criminally Charged 1 Day after Retirement](https://www.reddit.com/r/news/comments/121zf3s/police_captain_criminally_charged_1_day_after/)
 <!-- REDDIT:END -->
 
 
