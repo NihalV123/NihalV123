@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Texas County that was ordered to return banned books to its shelves is set to consider shutting down its library system](https://www.reddit.com/r/news/comments/12jijzr/a_texas_county_that_was_ordered_to_return_banned/)
+- [Kyiv compares Russia to Islamic State after beheading video](https://www.reddit.com/r/news/comments/12jhlbq/kyiv_compares_russia_to_islamic_state_after/)
+- [Without moderation, Twitter bears explicit content supporting school massacres in Brazil](https://www.reddit.com/r/news/comments/12jhdat/without_moderation_twitter_bears_explicit_content/)
+- [Rupert Murdoch and Fox Corp. board members sued by investor over ‘stolen election claims’](https://www.reddit.com/r/news/comments/12j8q24/rupert_murdoch_and_fox_corp_board_members_sued_by/)
+- [Tacoma woman continues to refuse tuberculosis treatment despite active arrest warrant](https://www.reddit.com/r/news/comments/12j863n/tacoma_woman_continues_to_refuse_tuberculosis/)
 <!-- REDDIT:END -->
 
 
