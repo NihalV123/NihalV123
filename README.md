@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arkansas governor signs sweeping bill imposing a minimum age limit for social media usage - CNN](https://www.reddit.com/r/news/comments/12k5lzc/arkansas_governor_signs_sweeping_bill_imposing_a/)
+- [Japan issues Alert regarding North Korean missile headed towards the Hokkaido Peninsula](https://www.reddit.com/r/news/comments/12k33bk/japan_issues_alert_regarding_north_korean_missile/)
+- [Man with schizophrenia was left naked in jail cell for weeks before death, video shows](https://www.reddit.com/r/news/comments/12k1yms/man_with_schizophrenia_was_left_naked_in_jail/)
+- [US prosecutors tell family of Shanquella Robinson they won&#39;t pursue charges in her death in Mexico | CNN](https://www.reddit.com/r/news/comments/12jznsr/us_prosecutors_tell_family_of_shanquella_robinson/)
+- [Fox News sanctioned for withholding evidence in Dominion defamation case](https://www.reddit.com/r/news/comments/12jwtqk/fox_news_sanctioned_for_withholding_evidence_in/)
 <!-- REDDIT:END -->
 
 
