@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida Supreme Court Removes Judge Who Sentenced Parkland Shooter From Other Case](https://www.reddit.com/r/news/comments/12m3nv5/florida_supreme_court_removes_judge_who_sentenced/)
+- [Sons of &quot;El Chapo&quot; among 28 charged in U.S. fentanyl investigation after Sinaloa cartel &quot;infiltrated&quot; by DEA](https://www.reddit.com/r/news/comments/12m39lo/sons_of_el_chapo_among_28_charged_in_us_fentanyl/)
+- [Supreme Court asked to preserve abortion pill access rules](https://www.reddit.com/r/news/comments/12m38yq/supreme_court_asked_to_preserve_abortion_pill/)
+- [Russia’s commando units gutted by Ukraine war, U.S. leak shows](https://www.reddit.com/r/news/comments/12m1baq/russias_commando_units_gutted_by_ukraine_war_us/)
+- [Leak suspect charged with retention of defense information, willful control of classified documents](https://www.reddit.com/r/news/comments/12m0ouq/leak_suspect_charged_with_retention_of_defense/)
 <!-- REDDIT:END -->
 
 
