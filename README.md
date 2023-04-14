@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ron DeSantis signs 6-week abortion ban into law in Florida](https://www.reddit.com/r/news/comments/12lij2z/ron_desantis_signs_6week_abortion_ban_into_law_in/)
+- [Nurse arrested after allegedly slamming 2-day-old infant into a bassinet](https://www.reddit.com/r/news/comments/12libtc/nurse_arrested_after_allegedly_slamming_2dayold/)
+- [Twitter staff cuts leave Russian trolls unchecked](https://www.reddit.com/r/news/comments/12lbvzs/twitter_staff_cuts_leave_russian_trolls_unchecked/)
+- [Emergency rule seeks to limit access to certain procedures for transgender Missourians](https://www.reddit.com/r/news/comments/12lb117/emergency_rule_seeks_to_limit_access_to_certain/)
+- [Justice Clarence Thomas failed to disclose 2014 real estate deal with GOP megadonor](https://www.reddit.com/r/news/comments/12l9qp1/justice_clarence_thomas_failed_to_disclose_2014/)
 <!-- REDDIT:END -->
 
 
