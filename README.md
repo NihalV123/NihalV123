@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court puts abortion pill ruling on hold, preserving access to mifepristone for now](https://www.reddit.com/r/news/comments/12mgml1/supreme_court_puts_abortion_pill_ruling_on_hold/)
+- [CBS News: Jan. 6 rioter who crushed officer with shield sentenced to over 7 years in prison](https://www.reddit.com/r/news/comments/12mf2jb/cbs_news_jan_6_rioter_who_crushed_officer_with/)
+- [New Mexico teen Alexis Avila found guilty of throwing infant in dumpster](https://www.reddit.com/r/news/comments/12meyc7/new_mexico_teen_alexis_avila_found_guilty_of/)
+- [Bud Light deal with trans influencer Dylan Mulvaney not meant to divide, Anheuser-Busch CEO says](https://www.reddit.com/r/news/comments/12melyv/bud_light_deal_with_trans_influencer_dylan/)
+- [Alaska House representative uses artificial intelligence to write bill legalizing gambling on Alaska ferries](https://www.reddit.com/r/news/comments/12me8k2/alaska_house_representative_uses_artificial/)
 <!-- REDDIT:END -->
 
 
