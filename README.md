@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US man killed by police in doorway of his own home after authorities show up to wrong address](https://www.reddit.com/r/news/comments/12myh54/us_man_killed_by_police_in_doorway_of_his_own/)
+- [16-year-old Cleveland girl who killed couple in hit-and-run drag racing crash sentenced to probation, group home](https://www.reddit.com/r/news/comments/12mvtmg/16yearold_cleveland_girl_who_killed_couple_in/)
+- [3 motorcyclists fatally shot in a &#39;targeted&#39; gang attack in Texas, authorities say](https://www.reddit.com/r/news/comments/12mvj54/3_motorcyclists_fatally_shot_in_a_targeted_gang/)
+- [Man arrested after explosion prompts evacuation of Japanese leader Fumio Kishida from speech venue | CNN](https://www.reddit.com/r/news/comments/12mqcak/man_arrested_after_explosion_prompts_evacuation/)
+- [Juror says Texas Gov. Abbott&#39;s rush to pardon shooter a &#39;travesty&#39;](https://www.reddit.com/r/news/comments/12mnjb3/juror_says_texas_gov_abbotts_rush_to_pardon/)
 <!-- REDDIT:END -->
 
 
