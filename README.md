@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;A new era&#39;: Germany quits nuclear power, closing its final three plants | CNN](https://www.reddit.com/r/news/comments/12nawfc/a_new_era_germany_quits_nuclear_power_closing_its/)
+- [Montana is the first US state to ban Tik Tok in private devices](https://www.reddit.com/r/news/comments/12na4ye/montana_is_the_first_us_state_to_ban_tik_tok_in/)
+- [Colorado offers safe haven for abortion, transgender care](https://www.reddit.com/r/news/comments/12n9k92/colorado_offers_safe_haven_for_abortion/)
+- [US appeals court Judge, 95 faces rare probe into competency, misconduct](https://www.reddit.com/r/news/comments/12n8le3/us_appeals_court_judge_95_faces_rare_probe_into/)
+- [Arizona court upholds clergy privilege in child abuse case](https://www.reddit.com/r/news/comments/12n6yeb/arizona_court_upholds_clergy_privilege_in_child/)
 <!-- REDDIT:END -->
 
 
