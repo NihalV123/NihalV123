@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Juror says Texas Gov. Abbott&#39;s rush to pardon shooter a &#39;travesty&#39;](https://www.reddit.com/r/news/comments/12mnjb3/juror_says_texas_gov_abbotts_rush_to_pardon/)
+- [Leaked secret documents detail up to four additional Chinese spy balloons](https://www.reddit.com/r/news/comments/12ml3kj/leaked_secret_documents_detail_up_to_four/)
+- [Minneapolis OKs dawn Muslim prayer call, 1st for big US city](https://www.reddit.com/r/news/comments/12mht3d/minneapolis_oks_dawn_muslim_prayer_call_1st_for/)
+- [Kansas Gov. Laura Kelly vetoes the first anti-abortion bill passed after 2022 vote](https://www.reddit.com/r/news/comments/12mhft1/kansas_gov_laura_kelly_vetoes_the_first/)
+- [Supreme Court puts abortion pill ruling on hold, preserving access to mifepristone for now](https://www.reddit.com/r/news/comments/12mgml1/supreme_court_puts_abortion_pill_ruling_on_hold/)
 <!-- REDDIT:END -->
 
 
