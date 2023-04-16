@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Dakota governor says her two-year-old grandchild has several guns](https://www.reddit.com/r/news/comments/12nx24h/south_dakota_governor_says_her_twoyearold/)
+- [Police: 5 people shot, 2 dead at Honolulu chicken fight](https://www.reddit.com/r/news/comments/12nvjis/police_5_people_shot_2_dead_at_honolulu_chicken/)
+- [Atiq Ahmed: Former Indian politician and brother shot dead live on TV](https://www.reddit.com/r/news/comments/12nv16o/atiq_ahmed_former_indian_politician_and_brother/)
+- [LMPD: 2 dead, at least 4 injured after shots fired into crowd in Chickasaw Park &lpar;Louisville&rpar;](https://www.reddit.com/r/news/comments/12nuqqp/lmpd_2_dead_at_least_4_injured_after_shots_fired/)
+- [Japan’s PM escapes explosion unharmed after suspected attack](https://www.reddit.com/r/news/comments/12nu91k/japans_pm_escapes_explosion_unharmed_after/)
 <!-- REDDIT:END -->
 
 
