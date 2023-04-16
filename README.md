@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox News apologizes to judge for ‘misunderstanding’ over Rupert Murdoch’s role that sparked investigation](https://www.reddit.com/r/news/comments/12non6n/fox_news_apologizes_to_judge_for_misunderstanding/)
+- [Top Trump attorney recused himself from handling Mar-a-Lago case](https://www.reddit.com/r/news/comments/12nnyxt/top_trump_attorney_recused_himself_from_handling/)
+- [Pinova Plant Fire Brunswick GA…Evacuations Ordered](https://www.reddit.com/r/news/comments/12nmoth/pinova_plant_fire_brunswick_gaevacuations_ordered/)
+- [An Oregon man ‘gifted’ money to strangers by dropping $200,000 in cash out his car window](https://www.reddit.com/r/news/comments/12nl8kz/an_oregon_man_gifted_money_to_strangers_by/)
+- [Leak suspect yearned to join military but then regretted it](https://www.reddit.com/r/news/comments/12nktvl/leak_suspect_yearned_to_join_military_but_then/)
 <!-- REDDIT:END -->
 
 
