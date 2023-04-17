@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New push on US-run free electronic tax-filing system for all](https://www.reddit.com/r/news/comments/12ov222/new_push_on_usrun_free_electronic_taxfiling/)
+- [Parody hitman website nabs Air National Guardsman after he allegedly applied for murder-for-hire jobs](https://www.reddit.com/r/news/comments/12ounnz/parody_hitman_website_nabs_air_national_guardsman/)
+- [Texas school district fires substitute teacher accused of encouraging students to fight](https://www.reddit.com/r/news/comments/12otfe0/texas_school_district_fires_substitute_teacher/)
+- [Mark Sheehan, the Script guitarist, dies aged 46](https://www.reddit.com/r/news/comments/12ona9l/mark_sheehan_the_script_guitarist_dies_aged_46/)
+- [Russians boasted that just 1% of fake social profiles are caught, leak shows](https://www.reddit.com/r/news/comments/12okauj/russians_boasted_that_just_1_of_fake_social/)
 <!-- REDDIT:END -->
 
 
