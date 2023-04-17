@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter puts &#39;government-funded media&#39; tag on CBC account](https://www.reddit.com/r/news/comments/12p2mba/twitter_puts_governmentfunded_media_tag_on_cbc/)
+- [At least 1 dead, 96 sickened in fungal outbreak that shuttered Michigan paper mill](https://www.reddit.com/r/news/comments/12p1fzo/at_least_1_dead_96_sickened_in_fungal_outbreak/)
+- [Southeastern U.S. cities in greater peril over rising sea levels](https://www.reddit.com/r/news/comments/12p14hi/southeastern_us_cities_in_greater_peril_over/)
+- [Officer, at least 4 others injured following shooting near Surf Style in Biloxi](https://www.reddit.com/r/news/comments/12ozj9m/officer_at_least_4_others_injured_following/)
+- [Hilary Knight scores hat trick as U.S. rallies past Canada for gold at women&#39;s hockey worlds | CBC Sports](https://www.reddit.com/r/news/comments/12oz9ny/hilary_knight_scores_hat_trick_as_us_rallies_past/)
 <!-- REDDIT:END -->
 
 
