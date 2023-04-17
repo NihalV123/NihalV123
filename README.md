@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory | CNN Business](https://www.reddit.com/r/news/comments/12pqnuo/here_are_the_20_specific_fox_broadcasts_and/)
+- [Man sues Netflix for using his photo in true-crime documentary](https://www.reddit.com/r/news/comments/12powa3/man_sues_netflix_for_using_his_photo_in_truecrime/)
+- [Chinese Police Station in NYC Leads to Multiple Arrests, Sources Say](https://www.reddit.com/r/news/comments/12poqub/chinese_police_station_in_nyc_leads_to_multiple/)
+- [Appeals court upholds Chauvin&#39;s conviction for George Floyd&#39;s murder](https://www.reddit.com/r/news/comments/12pnf1k/appeals_court_upholds_chauvins_conviction_for/)
+- [He was free for 2 years. Now Crosley Green is returning to prison for a crime he says he didn&#39;t commit | CNN](https://www.reddit.com/r/news/comments/12pn1a9/he_was_free_for_2_years_now_crosley_green_is/)
 <!-- REDDIT:END -->
 
 
