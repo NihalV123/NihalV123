@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio auditor: Former official spent $4,116 in public money on a wildebeest for his zoo](https://www.reddit.com/r/news/comments/12qy0w8/ohio_auditor_former_official_spent_4116_in_public/)
+- [Permitless carry age lowered to 18 in Tennessee](https://www.reddit.com/r/news/comments/12qw6eg/permitless_carry_age_lowered_to_18_in_tennessee/)
+- [Oklahoma sheriff says recording of killing talk was illegal](https://www.reddit.com/r/news/comments/12qve73/oklahoma_sheriff_says_recording_of_killing_talk/)
+- [Bodycam video shows US officer shot teen in back](https://www.reddit.com/r/news/comments/12qv0sd/bodycam_video_shows_us_officer_shot_teen_in_back/)
+- [Littlest intruder: Toddler crawls through White House fence](https://www.reddit.com/r/news/comments/12quk1j/littlest_intruder_toddler_crawls_through_white/)
 <!-- REDDIT:END -->
 
 
