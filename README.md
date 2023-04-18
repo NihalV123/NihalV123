@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NY woman looking for friend&#39;s house fatally shot by homeowner at wrong address, police say](https://www.reddit.com/r/news/comments/12q2xic/ny_woman_looking_for_friends_house_fatally_shot/)
+- [The Far Right Is Roiled by an Underage-Sex Scandal](https://www.reddit.com/r/news/comments/12q0z1c/the_far_right_is_roiled_by_an_underagesex_scandal/)
+- [Accused shooter in Kansas City shooting of Black teen who went to the wrong house will face 2 felony charges, officials announce](https://www.reddit.com/r/news/comments/12pzeih/accused_shooter_in_kansas_city_shooting_of_black/)
+- [Kansas City shooter exchanged few words with Ralph Yarl before opening fire, teen&#39;s attorney says](https://www.reddit.com/r/news/comments/12pyptj/kansas_city_shooter_exchanged_few_words_with/)
+- [Ohio officers won’t be charged in shooting of Jayland Walker | AP News](https://www.reddit.com/r/news/comments/12pv1aj/ohio_officers_wont_be_charged_in_shooting_of/)
 <!-- REDDIT:END -->
 
 
