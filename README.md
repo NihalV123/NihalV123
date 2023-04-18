@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kaylin Gillis: Woman shot dead in New York state after friend pulled into wrong driveway](https://www.reddit.com/r/news/comments/12q9aax/kaylin_gillis_woman_shot_dead_in_new_york_state/)
+- [Man posing as high school student previously arrested for human smuggling](https://www.reddit.com/r/news/comments/12q6qoy/man_posing_as_high_school_student_previously/)
+- [Elon Musk changes CBC’s label to ‘69% government funded’ after broadcaster announces Twitter pause](https://www.reddit.com/r/news/comments/12q66yu/elon_musk_changes_cbcs_label_to_69_government/)
+- [Number of Americans looking to rent in Portugal up 154%](https://www.reddit.com/r/news/comments/12q4vza/number_of_americans_looking_to_rent_in_portugal/)
+- [Photographer admits prize-winning image was AI-generated | Sony world photography awards](https://www.reddit.com/r/news/comments/12q4eam/photographer_admits_prizewinning_image_was/)
 <!-- REDDIT:END -->
 
 
