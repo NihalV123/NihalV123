@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family of Tyre Nichols files federal lawsuit against Memphis](https://www.reddit.com/r/news/comments/12s357v/family_of_tyre_nichols_files_federal_lawsuit/)
+- [So-called &#39;Don&#39;t Say Gay&#39; rules expanded through 12th grade in Florida](https://www.reddit.com/r/news/comments/12s2va3/socalled_dont_say_gay_rules_expanded_through_12th/)
+- [Uvalde school shooter wrote &#39;LOL&#39; on whiteboard in victims&#39; blood, lawmaker tells families at emotional hearing](https://www.reddit.com/r/news/comments/12s2sbc/uvalde_school_shooter_wrote_lol_on_whiteboard_in/)
+- [JPMorgan Chase CEO Jamie Dimon to be deposed in Epstein suit](https://www.reddit.com/r/news/comments/12ryz3n/jpmorgan_chase_ceo_jamie_dimon_to_be_deposed_in/)
+- [2 teens charged in Dadeville mass shooting, ALEA says](https://www.reddit.com/r/news/comments/12rxr31/2_teens_charged_in_dadeville_mass_shooting_alea/)
 <!-- REDDIT:END -->
 
 
