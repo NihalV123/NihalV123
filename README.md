@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida couple kidnapped and held for ransom in Haiti have been released, family says](https://www.reddit.com/r/news/comments/12re0ni/florida_couple_kidnapped_and_held_for_ransom_in/)
+- [Stabbing suspect crashes into students in Thousand Oaks, killing one teenager](https://www.reddit.com/r/news/comments/12rdn5s/stabbing_suspect_crashes_into_students_in/)
+- [Man arrested after 2 Woodlands Elite cheerleaders were shot outside HEB near Austin](https://www.reddit.com/r/news/comments/12rdc2l/man_arrested_after_2_woodlands_elite_cheerleaders/)
+- [Biden and the first lady earned nearly $580,000 in 2022, tax filing shows](https://www.reddit.com/r/news/comments/12rc2v1/biden_and_the_first_lady_earned_nearly_580000_in/)
+- [Boise teacher, coach arrested and charged with rape](https://www.reddit.com/r/news/comments/12rbloq/boise_teacher_coach_arrested_and_charged_with_rape/)
 <!-- REDDIT:END -->
 
 
