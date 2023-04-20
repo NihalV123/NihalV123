@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;It was just crazy’: 6-year-old among three shot during Gaston County shooting spree](https://www.reddit.com/r/news/comments/12sum4g/it_was_just_crazy_6yearold_among_three_shot/)
+- [Boy Scouts of America will begin to compensate sexual abuse victims from a $2.4 billion trust after emerging from bankruptcy | CNN](https://www.reddit.com/r/news/comments/12srgge/boy_scouts_of_america_will_begin_to_compensate/)
+- [Jehovah’s Witness Abuse Investigation: Charges Fuel Speculation](https://www.reddit.com/r/news/comments/12srfdz/jehovahs_witness_abuse_investigation_charges_fuel/)
+- [Elon Musk threatens to sue Microsoft over using Twitter data for its A.I.](https://www.reddit.com/r/news/comments/12sqpfd/elon_musk_threatens_to_sue_microsoft_over_using/)
+- [Disney announces groundbreaking for affordable housing in Florida](https://www.reddit.com/r/news/comments/12slvt3/disney_announces_groundbreaking_for_affordable/)
 <!-- REDDIT:END -->
 
 
