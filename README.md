@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Frequent shootings put US mass killings on a record pace](https://www.reddit.com/r/news/comments/12ubmy6/frequent_shootings_put_us_mass_killings_on_a/)
+- [Trans Woman Featured In Hit Sundance Documentary ‘Kokomo City’ Shot And Killed In Atlanta](https://www.reddit.com/r/news/comments/12uawtb/trans_woman_featured_in_hit_sundance_documentary/)
+- [Indiana woman charged with federal hate crime in bus attack](https://www.reddit.com/r/news/comments/12uahhz/indiana_woman_charged_with_federal_hate_crime_in/)
+- [Florida prosecutor sorry for racist memo that singled out Hispanic residents](https://www.reddit.com/r/news/comments/12uaeiu/florida_prosecutor_sorry_for_racist_memo_that/)
+- [Catalytic-converter theft suspect stabbed to death in South El Monte driveway](https://www.reddit.com/r/news/comments/12u9hdk/catalyticconverter_theft_suspect_stabbed_to_death/)
 <!-- REDDIT:END -->
 
 
