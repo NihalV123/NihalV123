@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Murder, alcohol and prostitutes: Wagner convicts pardoned by Putin return to terrorise home towns](https://www.reddit.com/r/news/comments/12vcst0/murder_alcohol_and_prostitutes_wagner_convicts/)
+- [A woman gets 21 years for trying to kill her doppelganger with poisoned cheesecake](https://www.reddit.com/r/news/comments/12vbw4j/a_woman_gets_21_years_for_trying_to_kill_her/)
+- [A Kelowna man who was found with two kilograms of cocaine in his vehicle and a number of firearms in his home back in 2017 was acquitted on all charges earlier this year, after a judge ruled the police breached his Charter rights multiple times during the investigation](https://www.reddit.com/r/news/comments/12vafgy/a_kelowna_man_who_was_found_with_two_kilograms_of/)
+- [CNN Investigation: The deputy and the disappeared](https://www.reddit.com/r/news/comments/12v9tvb/cnn_investigation_the_deputy_and_the_disappeared/)
+- [Arrests made in online threats against Florida sheriff who took a stand against antisemitism in his county | CNN](https://www.reddit.com/r/news/comments/12v9lrm/arrests_made_in_online_threats_against_florida/)
 <!-- REDDIT:END -->
 
 
