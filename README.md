@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [12 Year Old Girl Killed, 3 Others Wounded in Hartford, CT](https://www.reddit.com/r/news/comments/12urnto/12_year_old_girl_killed_3_others_wounded_in/)
+- [Houston neighborhood plants 1,200 new trees in effort to help fight crime](https://www.reddit.com/r/news/comments/12uqd96/houston_neighborhood_plants_1200_new_trees_in/)
+- [Teen vomited on multiple days before dying of infection at Utah boarding school, state finds](https://www.reddit.com/r/news/comments/12uq1ff/teen_vomited_on_multiple_days_before_dying_of/)
+- [Review finds no misconduct at Missouri trans youth clinic](https://www.reddit.com/r/news/comments/12uob75/review_finds_no_misconduct_at_missouri_trans/)
+- [Supreme Court preserves access to abortion pill for now](https://www.reddit.com/r/news/comments/12ulcl3/supreme_court_preserves_access_to_abortion_pill/)
 <!-- REDDIT:END -->
 
 
