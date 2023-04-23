@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Narcan saved the life of this poodle after suffering apparent drug overdose](https://www.reddit.com/r/news/comments/12w52g9/narcan_saved_the_life_of_this_poodle_after/)
+- [Bed Bath &amp; Beyond files for bankruptcy protection](https://www.reddit.com/r/news/comments/12w4c44/bed_bath_beyond_files_for_bankruptcy_protection/)
+- [Kenya cult deaths: 21 bodies found in investigation into &#39;starvation cult&#39;](https://www.reddit.com/r/news/comments/12w3087/kenya_cult_deaths_21_bodies_found_in/)
+- [Explorers locate WWII ship sunk with over 1,000 Allied POWs](https://www.reddit.com/r/news/comments/12w0v68/explorers_locate_wwii_ship_sunk_with_over_1000/)
+- [Ex-LMPD detective in Breonna Taylor case hired as deputy in Carroll County](https://www.reddit.com/r/news/comments/12w048u/exlmpd_detective_in_breonna_taylor_case_hired_as/)
 <!-- REDDIT:END -->
 
 
