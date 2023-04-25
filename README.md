@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan official gets house arrest for 2020 ballot sabotage](https://www.reddit.com/r/news/comments/12y223r/michigan_official_gets_house_arrest_for_2020/)
+- [Amazon drivers and dispatchers in Palmdale California have agreed to join the Teamsters in historic vote to unionize.](https://www.reddit.com/r/news/comments/12y157j/amazon_drivers_and_dispatchers_in_palmdale/)
+- [Mob in Haiti capital burns to death 13 suspected gangsters](https://www.reddit.com/r/news/comments/12y0o9j/mob_in_haiti_capital_burns_to_death_13_suspected/)
+- [North Dakota governor signs law banning abortion at 6 weeks](https://www.reddit.com/r/news/comments/12y0e3f/north_dakota_governor_signs_law_banning_abortion/)
+- [SpaceX Starship explosion spread particulate matter for miles](https://www.reddit.com/r/news/comments/12xzoug/spacex_starship_explosion_spread_particulate/)
 <!-- REDDIT:END -->
 
 
