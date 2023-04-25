@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Taliban-style: Singapore to execute Indian man for just helping smuggler conceal little over 1kg ganja](https://www.reddit.com/r/news/comments/12yf53m/talibanstyle_singapore_to_execute_indian_man_for/)
+- [SpaceX Starship explosion spread particulate matter for miles](https://www.reddit.com/r/news/comments/12ycypb/spacex_starship_explosion_spread_particulate/)
+- [Recent, rapid ocean warming alarms scientists](https://www.reddit.com/r/news/comments/12yck6m/recent_rapid_ocean_warming_alarms_scientists/)
+- [Woman, 91, raises nearly $60,000 for retirement on GoFundMe](https://www.reddit.com/r/news/comments/12yarh3/woman_91_raises_nearly_60000_for_retirement_on/)
+- [Supreme Court deals blow to oil companies by turning away climate cases](https://www.reddit.com/r/news/comments/12yanwc/supreme_court_deals_blow_to_oil_companies_by/)
 <!-- REDDIT:END -->
 
 
