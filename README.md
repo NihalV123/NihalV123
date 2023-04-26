@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chief Justice John Roberts will not testify before Congress about Supreme Court ethics | CNN Politics](https://www.reddit.com/r/news/comments/12z005u/chief_justice_john_roberts_will_not_testify/)
+- [Central York tried to intimidate book ban protesters, students say. They won&#39;t back down.](https://www.reddit.com/r/news/comments/12yyucf/central_york_tried_to_intimidate_book_ban/)
+- [Nestlé raises food prices again despite NGO protests](https://www.reddit.com/r/news/comments/12yy54t/nestlé_raises_food_prices_again_despite_ngo/)
+- [Jury to deliberate in major Jan. 6 case against Proud Boys](https://www.reddit.com/r/news/comments/12yxpx7/jury_to_deliberate_in_major_jan_6_case_against/)
+- [Taliban kill mastermind of Kabul airport bombing that killed 13 U.S. service members](https://www.reddit.com/r/news/comments/12yxcr9/taliban_kill_mastermind_of_kabul_airport_bombing/)
 <!-- REDDIT:END -->
 
 
