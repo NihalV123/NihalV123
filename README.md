@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Air Force suspends leaders of alleged Pentagon leaker Jack Teixeira&#39;s unit - CBS News](https://www.reddit.com/r/news/comments/1303kj2/air_force_suspends_leaders_of_alleged_pentagon/)
+- [Old East Dallas crane collapse: Jury returns $860 million verdict against real estate developer Greystar](https://www.reddit.com/r/news/comments/1301qhy/old_east_dallas_crane_collapse_jury_returns_860/)
+- [Guaifenesin: WHO issues alert over another India-made cough syrup](https://www.reddit.com/r/news/comments/13007ce/guaifenesin_who_issues_alert_over_another/)
+- [Kenya starvation cult death toll hits 90 as morgues fill up: &quot;Nothing prepares you for shallow mass graves of children&quot;](https://www.reddit.com/r/news/comments/12zu02j/kenya_starvation_cult_death_toll_hits_90_as/)
+- [Donald Trump raped me, writer E Jean Carroll testifies in New York court](https://www.reddit.com/r/news/comments/12zs0al/donald_trump_raped_me_writer_e_jean_carroll/)
 <!-- REDDIT:END -->
 
 
