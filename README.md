@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia man behind bars 10 years, still waiting for his day in court](https://www.reddit.com/r/news/comments/130ask7/georgia_man_behind_bars_10_years_still_waiting/)
+- [Airbnb host left with £1,260 bill after couple leaves taps running and gas on for 25 days | The Independent](https://www.reddit.com/r/news/comments/1309vaz/airbnb_host_left_with_1260_bill_after_couple/)
+- [Georgia man behind bars 10 years, still waiting for his day in court](https://www.reddit.com/r/news/comments/1309v4n/georgia_man_behind_bars_10_years_still_waiting/)
+- [On Eve of Trial, Discovery of Carlson Texts Set Off Crisis Atop Fox | Private messages sent by Tucker Carlson that had been redacted in legal filings showed him making highly offensive remarks that went beyond the comments of his prime-time show.](https://www.reddit.com/r/news/comments/13091n9/on_eve_of_trial_discovery_of_carlson_texts_set/)
+- [Missouri judge temporarily blocks limits on gender-affirming care for trans youth and adults from going into effect | CNN Politics](https://www.reddit.com/r/news/comments/130614m/missouri_judge_temporarily_blocks_limits_on/)
 <!-- REDDIT:END -->
 
 
