@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan priest pleads guilty to molesting 5-year-old boy after family funera](https://www.reddit.com/r/news/comments/131ajgy/michigan_priest_pleads_guilty_to_molesting/)
+- [Schools across England close as teachers vow to continue strikes | Schools](https://www.reddit.com/r/news/comments/1319v4g/schools_across_england_close_as_teachers_vow_to/)
+- [Illinois man using leaf blower shot, killed by neighbor in his own driveway](https://www.reddit.com/r/news/comments/1319m0u/illinois_man_using_leaf_blower_shot_killed_by/)
+- [West Virginia State Police Investigation: West Virginia lawyer says additional allegations of abuse and sexual misconduct are “much worse”](https://www.reddit.com/r/news/comments/13186qh/west_virginia_state_police_investigation_west/)
+- [Teen suspects in fatal Colorado rock-throwing took photo of scene, became &#39;blood brothers&#39; after attack, officials say](https://www.reddit.com/r/news/comments/1316y3d/teen_suspects_in_fatal_colorado_rockthrowing_took/)
 <!-- REDDIT:END -->
 
 
