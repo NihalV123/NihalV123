@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Mom influencer&#39; guilty of lying about Latino couple trying to kidnap her kids at California store](https://www.reddit.com/r/news/comments/1323xls/mom_influencer_guilty_of_lying_about_latino/)
+- [N. Carolina justices sweep away district, voter ID rulings](https://www.reddit.com/r/news/comments/1322c8s/n_carolina_justices_sweep_away_district_voter_id/)
+- [California teacher pay to increase 50% by 2030 under new proposal](https://www.reddit.com/r/news/comments/13225v1/california_teacher_pay_to_increase_50_by_2030/)
+- [Former UCLA gynecologist sentenced to 11 years in sex abuse case](https://www.reddit.com/r/news/comments/131x2l9/former_ucla_gynecologist_sentenced_to_11_years_in/)
+- [Fed faults Silicon Valley Bank execs, itself in bank failure](https://www.reddit.com/r/news/comments/131wjco/fed_faults_silicon_valley_bank_execs_itself_in/)
 <!-- REDDIT:END -->
 
 
