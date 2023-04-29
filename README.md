@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [17-year-old Palo Alto High student arrested in connection with school shooting threat](https://www.reddit.com/r/news/comments/132kq7d/17yearold_palo_alto_high_student_arrested_in/)
+- [Principal forced to resign over Michelangelo&#39;s David visits sculpture](https://www.reddit.com/r/news/comments/132kpb5/principal_forced_to_resign_over_michelangelos/)
+- [Former Williamson Co. principal charged with child rape is on the run](https://www.reddit.com/r/news/comments/132hzxf/former_williamson_co_principal_charged_with_child/)
+- [FDIC prepares to place First Republic under receivership](https://www.reddit.com/r/news/comments/132gc81/fdic_prepares_to_place_first_republic_under/)
+- [Postal workers rally to protest employee shortages, conditions resulting in mail delays](https://www.reddit.com/r/news/comments/132e3y7/postal_workers_rally_to_protest_employee/)
 <!-- REDDIT:END -->
 
 
