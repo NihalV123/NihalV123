@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California man who rammed car of teens who played doorbell prank convicted of murder](https://www.reddit.com/r/news/comments/132jyyn/california_man_who_rammed_car_of_teens_who_played/)
+- [Former Williamson Co. principal charged with child rape is on the run](https://www.reddit.com/r/news/comments/132hzxf/former_williamson_co_principal_charged_with_child/)
+- [FDIC prepares to place First Republic under receivership](https://www.reddit.com/r/news/comments/132gc81/fdic_prepares_to_place_first_republic_under/)
+- [Postal workers rally to protest employee shortages, conditions resulting in mail delays](https://www.reddit.com/r/news/comments/132e3y7/postal_workers_rally_to_protest_employee/)
+- [Former SF Fire Commissioner Don Carmignani Bear Spraying Homeless People](https://www.reddit.com/r/news/comments/132cwut/former_sf_fire_commissioner_don_carmignani_bear/)
 <!-- REDDIT:END -->
 
 
