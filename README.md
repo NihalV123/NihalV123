@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NYC partly shutters 4 parking garages after deadly collapse](https://www.reddit.com/r/news/comments/1331oou/nyc_partly_shutters_4_parking_garages_after/)
+- [Man convicted of murdering three boys in California after &#39;teenager knocked on his door and exposed buttocks at him&#39;](https://www.reddit.com/r/news/comments/1331482/man_convicted_of_murdering_three_boys_in/)
+- [Principal forced to resign over Michelangelo&#39;s David visits sculpture](https://www.reddit.com/r/news/comments/132zugl/principal_forced_to_resign_over_michelangelos/)
+- [Judge in Catholic bankruptcy recuses over church donations](https://www.reddit.com/r/news/comments/132z62h/judge_in_catholic_bankruptcy_recuses_over_church/)
+- [‘They Told Him No’: Rasheem Carter’s Family Questions Police Details Of Death In Smith County](https://www.reddit.com/r/news/comments/132uh3o/they_told_him_no_rasheem_carters_family_questions/)
 <!-- REDDIT:END -->
 
 
