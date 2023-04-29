@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Postal workers rally to protest employee shortages, conditions resulting in mail delays](https://www.reddit.com/r/news/comments/132e3y7/postal_workers_rally_to_protest_employee/)
+- [Abortion bans fail in conservative South Carolina, Nebraska](https://www.reddit.com/r/news/comments/132dmuw/abortion_bans_fail_in_conservative_south_carolina/)
+- [Former SF Fire Commissioner Don Carmignani Bear Spraying Homeless People](https://www.reddit.com/r/news/comments/132cwut/former_sf_fire_commissioner_don_carmignani_bear/)
+- [Montana latest to ban gender-affirming care for trans minors](https://www.reddit.com/r/news/comments/132bsjd/montana_latest_to_ban_genderaffirming_care_for/)
+- [CDC to stop tracking Covid levels in communities.](https://www.reddit.com/r/news/comments/132bhu9/cdc_to_stop_tracking_covid_levels_in_communities/)
 <!-- REDDIT:END -->
 
 
