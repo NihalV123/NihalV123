@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian pilots tried to &#39;dogfight&#39; US jets over Syria, US Central Command says](https://www.reddit.com/r/news/comments/133xwgi/russian_pilots_tried_to_dogfight_us_jets_over/)
+- [Man kills 3, self, in dispute among Portuguese pigeon racers - ABC News](https://www.reddit.com/r/news/comments/133xtug/man_kills_3_self_in_dispute_among_portuguese/)
+- [5 hurt, 1 killed in shooting at Lawrence house party](https://www.reddit.com/r/news/comments/133xp0o/5_hurt_1_killed_in_shooting_at_lawrence_house/)
+- [Freya the Walrus: Norway unveils sculpture of euthanized walrus in Oslo](https://www.reddit.com/r/news/comments/133wffe/freya_the_walrus_norway_unveils_sculpture_of/)
+- [2 teens killed, 4 hurt in Mississippi house party shooting - ABC News](https://www.reddit.com/r/news/comments/133w9n3/2_teens_killed_4_hurt_in_mississippi_house_party/)
 <!-- REDDIT:END -->
 
 
