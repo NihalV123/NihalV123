@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI director Chris Wray said China has “a bigger hacking program than every other major nation combined and have stolen more of our personal and corporate data than all other nations—big or small—combined.”](https://www.reddit.com/r/news/comments/133af4z/fbi_director_chris_wray_said_china_has_a_bigger/)
+- [Federal judge blocks Illinois assault weapons ban](https://www.reddit.com/r/news/comments/133ad7z/federal_judge_blocks_illinois_assault_weapons_ban/)
+- [Neighbors asked a man to stop firing a rifle outside. He then opened fire on them, killing 5 people, a Texas sheriff says](https://www.reddit.com/r/news/comments/133a5xq/neighbors_asked_a_man_to_stop_firing_a_rifle/)
+- [4 injured in quadruple shooting after fight breaks out at illegal street racing event](https://www.reddit.com/r/news/comments/13395us/4_injured_in_quadruple_shooting_after_fight/)
+- [Report: FAA Overruled Engineers, Let Boeing Max Keep Flying](https://www.reddit.com/r/news/comments/1334v69/report_faa_overruled_engineers_let_boeing_max/)
 <!-- REDDIT:END -->
 
 
