@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nurses&#39; strike: Concern for patients ahead of England walkout](https://www.reddit.com/r/news/comments/133lfjm/nurses_strike_concern_for_patients_ahead_of/)
+- [Kicked off Medicaid: Millions at risk as states trim rolls](https://www.reddit.com/r/news/comments/133imds/kicked_off_medicaid_millions_at_risk_as_states/)
+- [&#39;Weak and traumatized&#39; survivors found as 89 bodies recovered in Kenya starvation cult case](https://www.reddit.com/r/news/comments/133fs2f/weak_and_traumatized_survivors_found_as_89_bodies/)
+- [Suspect seen on video pistol-whipping, kidnapping woman in Commerce pleads not guilty](https://www.reddit.com/r/news/comments/133epgd/suspect_seen_on_video_pistolwhipping_kidnapping/)
+- [Calls for justice after Mississippi man found with head severed](https://www.reddit.com/r/news/comments/133bybm/calls_for_justice_after_mississippi_man_found/)
 <!-- REDDIT:END -->
 
 
