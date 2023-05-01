@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The suspect in a Texas mass shooting vanishes, and authorities have &#39;zero leads,&#39; FBI says](https://www.reddit.com/r/news/comments/1347a3f/the_suspect_in_a_texas_mass_shooting_vanishes_and/)
+- [Man arrested after $3 million worth of drugs shipped to Maine restaurant](https://www.reddit.com/r/news/comments/1346rwg/man_arrested_after_3_million_worth_of_drugs/)
+- [Arkansas woman indicted for allegedly selling $11,000 worth of stolen body parts](https://www.reddit.com/r/news/comments/1342owz/arkansas_woman_indicted_for_allegedly_selling/)
+- [Adidas sued by investors over Kanye West deal](https://www.reddit.com/r/news/comments/1340x5y/adidas_sued_by_investors_over_kanye_west_deal/)
+- [National Guard explains their role in fighting San Francisco&#39;s fentanyl crisis](https://www.reddit.com/r/news/comments/1340mtf/national_guard_explains_their_role_in_fighting/)
 <!-- REDDIT:END -->
 
 
