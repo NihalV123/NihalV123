@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bride killed and groom injured when speeding DUI driver slams into golf cart after wedding party](https://www.reddit.com/r/news/comments/135ii7l/bride_killed_and_groom_injured_when_speeding_dui/)
+- [Alabama mother denied abortion despite fetus&#39; &#39;negligible&#39; chance of survival](https://www.reddit.com/r/news/comments/135hzyr/alabama_mother_denied_abortion_despite_fetus/)
+- [Hollywood writers go on strike after contract negotiations fail](https://www.reddit.com/r/news/comments/135hoyy/hollywood_writers_go_on_strike_after_contract/)
+- [Seven bodies found in US search for missing teens, say Oklahoma police](https://www.reddit.com/r/news/comments/135hiis/seven_bodies_found_in_us_search_for_missing_teens/)
+- [Pot consulting paid Oregon secretary of state $10K monthly](https://www.reddit.com/r/news/comments/135gt9i/pot_consulting_paid_oregon_secretary_of_state_10k/)
 <!-- REDDIT:END -->
 
 
