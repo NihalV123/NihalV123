@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Hopkinton Deputy Police Chief John Porter indicted on child rape charges](https://www.reddit.com/r/news/comments/1357sqc/former_hopkinton_deputy_police_chief_john_porter/)
+- [Seven bodies, including those of two missing teens, found in Oklahoma](https://www.reddit.com/r/news/comments/1357sgc/seven_bodies_including_those_of_two_missing_teens/)
+- [Canadian folk music icon Gordon Lightfoot dead at 84](https://www.reddit.com/r/news/comments/1357r5l/canadian_folk_music_icon_gordon_lightfoot_dead_at/)
+- [Vice Media preparing to file for bankruptcy](https://www.reddit.com/r/news/comments/13576tk/vice_media_preparing_to_file_for_bankruptcy/)
+- [Dust Storm Leads to 100-Vehicle Pileup on I-55, Six Fatalities Confirmed](https://www.reddit.com/r/news/comments/1355feh/dust_storm_leads_to_100vehicle_pileup_on_i55_six/)
 <!-- REDDIT:END -->
 
 
