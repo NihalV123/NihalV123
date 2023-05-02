@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida Principal Resigns After Sending $100K to Scammer Posing as Elon Musk](https://www.reddit.com/r/news/comments/1355cds/florida_principal_resigns_after_sending_100k_to/)
+- [Cities reviving downtowns by converting offices to housing](https://www.reddit.com/r/news/comments/1352lfh/cities_reviving_downtowns_by_converting_offices/)
+- [Sheriff: 7 Bodies, Including Missing Girls From Okmulgee County, Found On Property](https://www.reddit.com/r/news/comments/1351phu/sheriff_7_bodies_including_missing_girls_from/)
+- [California man guilty of killing 3 after doorbell prank](https://www.reddit.com/r/news/comments/1350qrq/california_man_guilty_of_killing_3_after_doorbell/)
+- [Four people dead after shooting in Mojave, California](https://www.reddit.com/r/news/comments/1350dnr/four_people_dead_after_shooting_in_mojave/)
 <!-- REDDIT:END -->
 
 
