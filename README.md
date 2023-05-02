@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Missouri man sentenced in death of caged, dismembered woman](https://www.reddit.com/r/news/comments/135toao/missouri_man_sentenced_in_death_of_caged/)
+- [Family of man shot and killed by US Park Police officers reaches $5 million settlement with US government | CNN](https://www.reddit.com/r/news/comments/135mdde/family_of_man_shot_and_killed_by_us_park_police/)
+- [Ex-officer Thao convicted of aiding George Floyd’s killing](https://www.reddit.com/r/news/comments/135ls6m/exofficer_thao_convicted_of_aiding_george_floyds/)
+- [Students at a California college are told to stay indoors after a 3rd stabbing in a week near campus](https://www.reddit.com/r/news/comments/135l56z/students_at_a_california_college_are_told_to_stay/)
+- [Hong Kong to slash elected seats in setback to democracy](https://www.reddit.com/r/news/comments/135jhr2/hong_kong_to_slash_elected_seats_in_setback_to/)
 <!-- REDDIT:END -->
 
 
