@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Eight children killed as 14-year-old boy allegedly opens fire at Serbian school, officials say](https://www.reddit.com/r/news/comments/136gmxe/eight_children_killed_as_14yearold_boy_allegedly/)
+- [Ireland Passes &quot;Hate Speech&quot; Law Criminalizing Violence OR Hatred With a Penalty of upto 5 Years&#39; Imprisonment](https://www.reddit.com/r/news/comments/136gfd5/ireland_passes_hate_speech_law_criminalizing/)
+- [At least nine dead in Serbia school shooting](https://www.reddit.com/r/news/comments/136fzb2/at_least_nine_dead_in_serbia_school_shooting/)
+- [Teenage boy opens fire in school in Serbian capital](https://www.reddit.com/r/news/comments/136f3ep/teenage_boy_opens_fire_in_school_in_serbian/)
+- [Media freedom in dire state in record number of countries, report finds | Press freedom](https://www.reddit.com/r/news/comments/136f1dg/media_freedom_in_dire_state_in_record_number_of/)
 <!-- REDDIT:END -->
 
 
