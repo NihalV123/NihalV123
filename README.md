@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter shifts course, allowing governments to post automated weather alerts and transit updates &#39;for free&#39; | CNN Business](https://www.reddit.com/r/news/comments/1368m4c/twitter_shifts_course_allowing_governments_to/)
+- [15 year old Equestrian athlete dies during competition](https://www.reddit.com/r/news/comments/1367zfk/15_year_old_equestrian_athlete_dies_during/)
+- [Person believed to be the man accused of killing 5 neighbors in Texas is apprehended after manhunt](https://www.reddit.com/r/news/comments/1365b7f/person_believed_to_be_the_man_accused_of_killing/)
+- [McDonald&#39;s franchisee employed 10-year-old children, Department of Labor investigators find](https://www.reddit.com/r/news/comments/13640v2/mcdonalds_franchisee_employed_10yearold_children/)
+- [Utah judge delays implementing statewide abortion clinic ban](https://www.reddit.com/r/news/comments/1362naf/utah_judge_delays_implementing_statewide_abortion/)
 <!-- REDDIT:END -->
 
 
