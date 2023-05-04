@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [10-year-old children found working at McDonald’s until 2 a.m.](https://www.reddit.com/r/news/comments/1379wh5/10yearold_children_found_working_at_mcdonalds/)
+- [OpenAI acknowledges ChatGPT data breach](https://www.reddit.com/r/news/comments/1376ud9/openai_acknowledges_chatgpt_data_breach/)
+- [Judge Dismisses Trump’s Lawsuit Against The New York Times](https://www.reddit.com/r/news/comments/1376fub/judge_dismisses_trumps_lawsuit_against_the_new/)
+- [Atlanta shooting suspect in custody after hourslong manhunt | CNN](https://www.reddit.com/r/news/comments/1374cdf/atlanta_shooting_suspect_in_custody_after/)
+- [Google employees complain about CEO Sundar Pichai’s pay raise as cost cuts hit rest of the company](https://www.reddit.com/r/news/comments/13744l8/google_employees_complain_about_ceo_sundar/)
 <!-- REDDIT:END -->
 
 
