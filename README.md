@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ed Sheeran wins copyright infringement case](https://www.reddit.com/r/news/comments/137tl49/ed_sheeran_wins_copyright_infringement_case/)
+- [Clarence Thomas: mega-donor paid for great-nephew’s private school | Clarence Thomas](https://www.reddit.com/r/news/comments/137thni/clarence_thomas_megadonor_paid_for_greatnephews/)
+- [Test scores for 8th-grade students decline in US history and civics following prior declines in math and reading, report says](https://www.reddit.com/r/news/comments/137t29g/test_scores_for_8thgrade_students_decline_in_us/)
+- [GOP donor paid private school tuition for Justice Thomas’s grandnephew, report says](https://www.reddit.com/r/news/comments/137sx23/gop_donor_paid_private_school_tuition_for_justice/)
+- [Attorneys general announce probe into the NFL over workplace harassment, citing numerous complaints from women](https://www.reddit.com/r/news/comments/137r0g1/attorneys_general_announce_probe_into_the_nfl/)
 <!-- REDDIT:END -->
 
 
