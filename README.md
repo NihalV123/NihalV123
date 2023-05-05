@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Madison Cawthorn pleads guilty in case over bringing a loaded handgun through TSA checkpoint](https://www.reddit.com/r/news/comments/138v12n/madison_cawthorn_pleads_guilty_in_case_over/)
+- [Fox Sends Cease-And-Desist Letter To Media Matters Over Leaked Tucker Carlson Videos; Media Watchdog Responds](https://www.reddit.com/r/news/comments/138ufrl/fox_sends_ceaseanddesist_letter_to_media_matters/)
+- [Job growth totals 253,000 in April, beating expectations even as the U.S. economy slows](https://www.reddit.com/r/news/comments/138qit3/job_growth_totals_253000_in_april_beating/)
+- [WHO declares end to Covid global public health emergency](https://www.reddit.com/r/news/comments/138lori/who_declares_end_to_covid_global_public_health/)
+- [US rail companies grant paid sick days after public pressure in win for unions | Rail industry](https://www.reddit.com/r/news/comments/138lhfe/us_rail_companies_grant_paid_sick_days_after/)
 <!-- REDDIT:END -->
 
 
