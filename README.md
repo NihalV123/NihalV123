@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&lpar;California&rpar; Gov. Newsom announces launch of statewide anti-hate website and hotline](https://www.reddit.com/r/news/comments/1382dqa/california_gov_newsom_announces_launch_of/)
+- [3 masked teens jump on school bus, shoot at 14-year-old boy&#39;s head, beat him after gun misfires](https://www.reddit.com/r/news/comments/1380x76/3_masked_teens_jump_on_school_bus_shoot_at/)
+- [California court upholds state-wide ban on assault weapons](https://www.reddit.com/r/news/comments/1380a01/california_court_upholds_statewide_ban_on_assault/)
+- [Judge extends suspension of Missouri AG’s transgender rule](https://www.reddit.com/r/news/comments/137zidg/judge_extends_suspension_of_missouri_ags/)
+- [Serbia takes steps to prevent school violence after shooting](https://www.reddit.com/r/news/comments/137y3l0/serbia_takes_steps_to_prevent_school_violence/)
 <!-- REDDIT:END -->
 
 
