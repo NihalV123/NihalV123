@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Burger King to close up to 400 locations this year](https://www.reddit.com/r/news/comments/1394i5u/burger_king_to_close_up_to_400_locations_this_year/)
+- [‘Joaquin’s First School Shooting’: Parkland mom hopes new children’s book gets lawmakers’ attention](https://www.reddit.com/r/news/comments/1393zu1/joaquins_first_school_shooting_parkland_mom_hopes/)
+- [Man gets 14 years in 1/6 case, longest sentence imposed yet](https://www.reddit.com/r/news/comments/1393lli/man_gets_14_years_in_16_case_longest_sentence/)
+- [US to control land sales to foreigners near 8 military bases](https://www.reddit.com/r/news/comments/1392es0/us_to_control_land_sales_to_foreigners_near_8/)
+- [At least eight Trump electors have accepted immunity in Georgia investigation](https://www.reddit.com/r/news/comments/13926c7/at_least_eight_trump_electors_have_accepted/)
 <!-- REDDIT:END -->
 
 
