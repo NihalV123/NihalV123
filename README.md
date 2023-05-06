@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Broward public schools going &quot;green&quot; with new electric buses](https://www.reddit.com/r/news/comments/139vycg/broward_public_schools_going_green_with_new/)
+- [Bay Area road rage suspect found with 40 firearms, police say](https://www.reddit.com/r/news/comments/139vlsm/bay_area_road_rage_suspect_found_with_40_firearms/)
+- [NJ Pasta Dump: Old Bridge Mystery Solved](https://www.reddit.com/r/news/comments/139vgu0/nj_pasta_dump_old_bridge_mystery_solved/)
+- [Ukraine downs Russian hypersonic missile with US Patriot system | Russia-Ukraine war News](https://www.reddit.com/r/news/comments/139v23u/ukraine_downs_russian_hypersonic_missile_with_us/)
+- [Anti-monarchy group Republic&#39;s chief arrested at Coronation protest](https://www.reddit.com/r/news/comments/139v1bf/antimonarchy_group_republics_chief_arrested_at/)
 <!-- REDDIT:END -->
 
 
