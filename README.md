@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who witnessed Allen outlet mall shooting describes carnage: &#39;It&#39;s just unfathomable&#39;](https://www.reddit.com/r/news/comments/13adiw3/man_who_witnessed_allen_outlet_mall_shooting/)
+- [&#39;Nothing left to grind the meat with&#39;: Wagner boss threatens to withdraw from Bakhmut amid ammo shortage | CNN](https://www.reddit.com/r/news/comments/13ac0w3/nothing_left_to_grind_the_meat_with_wagner_boss/)
+- [Stonebriar Mall in Frisco, Texas evacuated as police investigate reports of shots fired](https://www.reddit.com/r/news/comments/13aaksb/stonebriar_mall_in_frisco_texas_evacuated_as/)
+- [Deadly Texas Mall shooting leaves 9 dead](https://www.reddit.com/r/news/comments/13aab9c/deadly_texas_mall_shooting_leaves_9_dead/)
+- [5 people injured, 1 killed in shooting at large party in Chico, California | CNN](https://www.reddit.com/r/news/comments/13a6wkm/5_people_injured_1_killed_in_shooting_at_large/)
 <!-- REDDIT:END -->
 
 
