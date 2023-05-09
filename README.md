@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Disney updates lawsuit against DeSantis to add new events](https://www.reddit.com/r/news/comments/13cohk8/disney_updates_lawsuit_against_desantis_to_add/)
+- [A police chief got rid of a neo-Nazi. Then came the hard part.](https://www.reddit.com/r/news/comments/13cnnmz/a_police_chief_got_rid_of_a_neonazi_then_came_the/)
+- [Ex-PM Imran Khan arrested outside court in Pakistan](https://www.reddit.com/r/news/comments/13cl6k3/expm_imran_khan_arrested_outside_court_in_pakistan/)
+- [Lawyer boycott of juryless rape trials &#39;to be unanimous&#39;](https://www.reddit.com/r/news/comments/13ckz6a/lawyer_boycott_of_juryless_rape_trials_to_be/)
+- [8-year-old missing for 2 days found safe under a log in a Michigan state park](https://www.reddit.com/r/news/comments/13ccved/8yearold_missing_for_2_days_found_safe_under_a/)
 <!-- REDDIT:END -->
 
 
