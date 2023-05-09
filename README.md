@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina police shooting survivor says deputies opened fire on him and his mother &#39;immediately&#39;](https://www.reddit.com/r/news/comments/13cyo29/south_carolina_police_shooting_survivor_says/)
+- [Texas Army base Fort Hood is renamed for Hispanic 4-star general Richard Cavazos](https://www.reddit.com/r/news/comments/13cyd6h/texas_army_base_fort_hood_is_renamed_for_hispanic/)
+- [‘Mind-boggling’ methane emissions from Turkmenistan revealed | Turkmenistan](https://www.reddit.com/r/news/comments/13ct54x/mindboggling_methane_emissions_from_turkmenistan/)
+- [Ryanair to order between 150 and 300 Boeing 737 Max jets](https://www.reddit.com/r/news/comments/13cs697/ryanair_to_order_between_150_and_300_boeing_737/)
+- [Utah author of book on grieving death charged with murder](https://www.reddit.com/r/news/comments/13crzxa/utah_author_of_book_on_grieving_death_charged/)
 <!-- REDDIT:END -->
 
 
