@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Possible meteorite crashes into New Jersey home, no injuries](https://www.reddit.com/r/news/comments/13df702/possible_meteorite_crashes_into_new_jersey_home/)
+- [Mexican brand counterfeiting reaches new heights: Coca-Cola](https://www.reddit.com/r/news/comments/13df59n/mexican_brand_counterfeiting_reaches_new_heights/)
+- [A Utah mom wrote a kids&#39; book about grief after her husband&#39;s death. Now she&#39;s charged with his murder | CNN](https://www.reddit.com/r/news/comments/13dexey/a_utah_mom_wrote_a_kids_book_about_grief_after/)
+- [Pleasant Hill Elementary School goes on lockdown after swatting call threatens shooting](https://www.reddit.com/r/news/comments/13ddw3j/pleasant_hill_elementary_school_goes_on_lockdown/)
+- [Companies of Los Chapitos sanctioned for fentanyl trafficking](https://www.reddit.com/r/news/comments/13ddgik/companies_of_los_chapitos_sanctioned_for_fentanyl/)
 <!-- REDDIT:END -->
 
 
