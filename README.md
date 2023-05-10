@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [Former teacher charged with multiple counts of rape of a student 9 years after she stopped teaching at the school](https://www.reddit.com/r/news/comments/13dn76k/former_teacher_charged_with_multiple_counts_of/)
-- [Baby born from three people&#39;s DNA in UK first](https://www.reddit.com/r/news/comments/13dmxan/baby_born_from_three_peoples_dna_in_uk_first/)
-- [Japan enacts law for GPS trackers to prevent international bail jumping](https://www.reddit.com/r/news/comments/13dj5xm/japan_enacts_law_for_gps_trackers_to_prevent/)
-- [Possible meteorite crashes into New Jersey home, no injuries](https://www.reddit.com/r/news/comments/13df702/possible_meteorite_crashes_into_new_jersey_home/)
-- [Mexican brand counterfeiting reaches new heights: Coca-Cola](https://www.reddit.com/r/news/comments/13df59n/mexican_brand_counterfeiting_reaches_new_heights/)
+- [Texas rancher&#39;s family are calling deadly shooting a hate crime](https://www.reddit.com/r/news/comments/13dx2zh/texas_ranchers_family_are_calling_deadly_shooting/)
+- [Vermont governor signs shield bills aimed at protecting access to medicated abortion](https://www.reddit.com/r/news/comments/13dwkhq/vermont_governor_signs_shield_bills_aimed_at/)
+- [Army sergeant who killed a Black Lives Matter protester in Texas sentenced to 25 years in prison](https://www.reddit.com/r/news/comments/13dumsd/army_sergeant_who_killed_a_black_lives_matter/)
+- [Gunman shot every customer in Detroit gas station after warning clerk, victim says](https://www.reddit.com/r/news/comments/13dsyn7/gunman_shot_every_customer_in_detroit_gas_station/)
+- [Body of Calif. tech CEO who texted 911 before vanishing found](https://www.reddit.com/r/news/comments/13dsd6t/body_of_calif_tech_ceo_who_texted_911_before/)
 <!-- REDDIT:END -->
 
 
