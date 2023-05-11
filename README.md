@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bodycam shows Oklahoma police searching for someone yelling for &quot;help&quot; - it was a goat](https://www.reddit.com/r/news/comments/13e6yeg/bodycam_shows_oklahoma_police_searching_for/)
+- [Indiana sheriff&#39;s deputy dead, child injured in dog attack](https://www.reddit.com/r/news/comments/13e650k/indiana_sheriffs_deputy_dead_child_injured_in_dog/)
+- [New Zealand’s oldest man Jack Coe celebrates 107th birthday](https://www.reddit.com/r/news/comments/13e581a/new_zealands_oldest_man_jack_coe_celebrates_107th/)
+- [California’s Feinstein returns to Senate after monthslong absence.](https://www.reddit.com/r/news/comments/13e4ehq/californias_feinstein_returns_to_senate_after/)
+- [4 Teens face murder charges in killing of Chicago police officer Areanah Preston](https://www.reddit.com/r/news/comments/13e3t2j/4_teens_face_murder_charges_in_killing_of_chicago/)
 <!-- REDDIT:END -->
 
 
