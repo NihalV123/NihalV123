@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [KSHB I-Team helps get bill banning nonconsensual pelvic exams to MO governor&#39;s desk](https://www.reddit.com/r/news/comments/13ebrre/kshb_iteam_helps_get_bill_banning_nonconsensual/)
+- [Suspect in Natalee Holloway disappearance to be extradited from Peru to US to face fraud charges](https://www.reddit.com/r/news/comments/13e9kg2/suspect_in_natalee_holloway_disappearance_to_be/)
+- [17-year-old set to graduate with 3 college degrees along with HS diploma](https://www.reddit.com/r/news/comments/13e98r6/17yearold_set_to_graduate_with_3_college_degrees/)
+- [Bodycam shows Oklahoma police searching for someone yelling for &quot;help&quot; - it was a goat](https://www.reddit.com/r/news/comments/13e6yeg/bodycam_shows_oklahoma_police_searching_for/)
+- [Ex-Raider Henry Ruggs pleads guilty to driving drunk at 156 mph, causing fatal crash](https://www.reddit.com/r/news/comments/13e6shw/exraider_henry_ruggs_pleads_guilty_to_driving/)
 <!-- REDDIT:END -->
 
 
