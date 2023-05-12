@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minnesota man who beheaded his girlfriend in front of onlookers is convicted of first-degree murder](https://www.reddit.com/r/news/comments/13fhprg/minnesota_man_who_beheaded_his_girlfriend_in/)
+- [Man who fatally choked another NYC subway rider to surrender on manslaughter charge](https://www.reddit.com/r/news/comments/13fgihl/man_who_fatally_choked_another_nyc_subway_rider/)
+- [Twitter&#39;s new encrypted message feature criticized by security and privacy experts | CNN Business](https://www.reddit.com/r/news/comments/13fdrtl/twitters_new_encrypted_message_feature_criticized/)
+- [BBC News: YouTuber Trevor Jacob admits to crashing plane for views](https://www.reddit.com/r/news/comments/13fc54h/bbc_news_youtuber_trevor_jacob_admits_to_crashing/)
+- [George Santos signs deal to avoid prosecution over stolen checks in Brazil | George Santos](https://www.reddit.com/r/news/comments/13fbq1y/george_santos_signs_deal_to_avoid_prosecution/)
 <!-- REDDIT:END -->
 
 
