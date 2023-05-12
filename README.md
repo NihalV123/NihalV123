@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [University of Utah swimmer allegedly flees to Canada amid rape investigation, police say](https://www.reddit.com/r/news/comments/13f3d78/university_of_utah_swimmer_allegedly_flees_to/)
+- [Italian pasta prices are soaring. Rome is in crisis talks with producers | CNN Business](https://www.reddit.com/r/news/comments/13f2670/italian_pasta_prices_are_soaring_rome_is_in/)
+- [YouTuber who staged airplane crash will plead guilty to obstructing probe, prosecutors say](https://www.reddit.com/r/news/comments/13f19zt/youtuber_who_staged_airplane_crash_will_plead/)
+- [Florida removes Black Lives Matter, George Floyd content from textbook](https://www.reddit.com/r/news/comments/13ezel8/florida_removes_black_lives_matter_george_floyd/)
+- [Former Marine Expected to Be Charged in Jordan Neely Chokehold Death: Sources](https://www.reddit.com/r/news/comments/13ez4jb/former_marine_expected_to_be_charged_in_jordan/)
 <!-- REDDIT:END -->
 
 
