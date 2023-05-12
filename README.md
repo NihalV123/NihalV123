@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Chicago woman was arrested in a series of baseball bat attacks, police say](https://www.reddit.com/r/news/comments/13fal2u/a_chicago_woman_was_arrested_in_a_series_of/)
+- [Suspect in deadly 2022 California church shooting indicted on 98 federal counts, including hate-crime charges | CNN](https://www.reddit.com/r/news/comments/13f6ux9/suspect_in_deadly_2022_california_church_shooting/)
+- [New York City passes law barring weight discrimination](https://www.reddit.com/r/news/comments/13f5u4g/new_york_city_passes_law_barring_weight/)
+- [18-to-20-year-olds can’t be barred from buying handguns, judge rules](https://www.reddit.com/r/news/comments/13f5kai/18to20yearolds_cant_be_barred_from_buying/)
+- [University of Utah swimmer allegedly flees to Canada amid rape investigation, police say](https://www.reddit.com/r/news/comments/13f3d78/university_of_utah_swimmer_allegedly_flees_to/)
 <!-- REDDIT:END -->
 
 
