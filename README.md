@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [8-year-old escapes abduction attempt in Northern Michigan, brother hits suspect in head with slingshot](https://www.reddit.com/r/news/comments/13g6qmj/8yearold_escapes_abduction_attempt_in_northern/)
+- [U.S. demands recall of 67 million air bag inflators](https://www.reddit.com/r/news/comments/13g3hf9/us_demands_recall_of_67_million_air_bag_inflators/)
+- [Mother of US bride killed in crash condemns driver who ‘chose to drink’](https://www.reddit.com/r/news/comments/13g2wy8/mother_of_us_bride_killed_in_crash_condemns/)
+- [Md. mother opens smoothie shop that offers jobs, internships to people with special needs | WJLA](https://www.reddit.com/r/news/comments/13g2hq9/md_mother_opens_smoothie_shop_that_offers_jobs/)
+- [Unaccompanied migrant child dies in U.S. custody, the second death in 2 months](https://www.reddit.com/r/news/comments/13g1l85/unaccompanied_migrant_child_dies_in_us_custody/)
 <!-- REDDIT:END -->
 
 
