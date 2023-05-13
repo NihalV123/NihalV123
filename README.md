@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-correctional officer charged with sexually abusing 3 inmates in California federal prison cells](https://www.reddit.com/r/news/comments/13g0t5o/excorrectional_officer_charged_with_sexually/)
+- [Warm object that crashed into New Jersey bedroom was a 4.5 billion-year-old meteorite &quot;in excellent condition,&quot; experts confirm](https://www.reddit.com/r/news/comments/13g0do0/warm_object_that_crashed_into_new_jersey_bedroom/)
+- [South Carolina man sues police after being shot at 47 times](https://www.reddit.com/r/news/comments/13g051y/south_carolina_man_sues_police_after_being_shot/)
+- [West Virginia officer will not face charges for striking, killing 13-year-old with cruiser off-duty](https://www.reddit.com/r/news/comments/13fzq7y/west_virginia_officer_will_not_face_charges_for/)
+- [Man who fatally choked New York city subway rider Jordan Neely freed pending trial](https://www.reddit.com/r/news/comments/13fyzvi/man_who_fatally_choked_new_york_city_subway_rider/)
 <!-- REDDIT:END -->
 
 
