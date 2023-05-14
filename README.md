@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Turkey votes in pivotal elections that could end Erdogan&#39;s 20-year rule](https://www.reddit.com/r/news/comments/13gxgt3/turkey_votes_in_pivotal_elections_that_could_end/)
+- [UN agencies brace for disaster as Cyclone Mocha intensifies in Bay of Bengal](https://www.reddit.com/r/news/comments/13guza3/un_agencies_brace_for_disaster_as_cyclone_mocha/)
+- [Multiple people shot, including 8-year-old child, in afternoon Albany shooting](https://www.reddit.com/r/news/comments/13grn4t/multiple_people_shot_including_8yearold_child_in/)
+- [UPDATED: Israel, Palestinians agree to Egypt-mediated ceasefire in Gaza: Al-Qahera News](https://www.reddit.com/r/news/comments/13gps4m/updated_israel_palestinians_agree_to/)
+- [75-year-old woman cuts off water for 2 years following expensive pipe burst in heart of Houston](https://www.reddit.com/r/news/comments/13gpfrt/75yearold_woman_cuts_off_water_for_2_years/)
 <!-- REDDIT:END -->
 
 
