@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Traffic stop in Maryland leads to rescue of kidnapping victim inside U-Haul truck, police say](https://www.reddit.com/r/news/comments/13hhu5h/traffic_stop_in_maryland_leads_to_rescue_of/)
+- [To Increase Equity, School Districts Eliminate Honors Classes](https://www.reddit.com/r/news/comments/13hhfrm/to_increase_equity_school_districts_eliminate/)
+- [Grizzlies suspend Morant over latest gun video](https://www.reddit.com/r/news/comments/13hfnwk/grizzlies_suspend_morant_over_latest_gun_video/)
+- [Iran expected to execute three protesters over killing of police officers | Iran](https://www.reddit.com/r/news/comments/13he51n/iran_expected_to_execute_three_protesters_over/)
+- [7 injured in shooting at Yuma, Arizona, gathering, police say](https://www.reddit.com/r/news/comments/13he2px/7_injured_in_shooting_at_yuma_arizona_gathering/)
 <!-- REDDIT:END -->
 
 
