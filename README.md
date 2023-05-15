@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mormon who left Wall St to work for charity blows whistle on what he says is his church&#39;s &quot;clandestine hedge fund&quot;](https://www.reddit.com/r/news/comments/13hs3vk/mormon_who_left_wall_st_to_work_for_charity_blows/)
+- [Wagner chief offered to give Russian troop locations to Ukraine, leak says](https://www.reddit.com/r/news/comments/13hquhx/wagner_chief_offered_to_give_russian_troop/)
+- [New Zealand&#39;s oldest man dies shortly after 107th birthday](https://www.reddit.com/r/news/comments/13hpfy0/new_zealands_oldest_man_dies_shortly_after_107th/)
+- [3 killed, multiple others injured in &#39;mass casualty&#39; crash on 10 Freeway in Riverside County](https://www.reddit.com/r/news/comments/13hp3mn/3_killed_multiple_others_injured_in_mass_casualty/)
+- [Police fatally shoot knife-wielding man who allegedly threatened people at a graduation party](https://www.reddit.com/r/news/comments/13hp01j/police_fatally_shoot_knifewielding_man_who/)
 <!-- REDDIT:END -->
 
 
