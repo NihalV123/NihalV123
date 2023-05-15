@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China sentences 78-year-old US citizen to life in prison on spying charges](https://www.reddit.com/r/news/comments/13hzb4r/china_sentences_78yearold_us_citizen_to_life_in/)
+- [Chilling footage shows white supremacist group Patriot Front marching through DC](https://www.reddit.com/r/news/comments/13hxhtr/chilling_footage_shows_white_supremacist_group/)
+- [Doyle Brunson, the &#39;Godfather of Poker,&#39; dies at 89 in Las Vegas](https://www.reddit.com/r/news/comments/13hw0nw/doyle_brunson_the_godfather_of_poker_dies_at_89/)
+- [Youngkin signs law requiring stringent age verification for porn sites](https://www.reddit.com/r/news/comments/13huu0u/youngkin_signs_law_requiring_stringent_age/)
+- [US lawmakers seek probe of how Elon Musk&#39;s brain chip venture oversees animal experiments](https://www.reddit.com/r/news/comments/13hukl6/us_lawmakers_seek_probe_of_how_elon_musks_brain/)
 <!-- REDDIT:END -->
 
 
