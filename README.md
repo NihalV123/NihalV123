@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BBC News: Austrian train plays Hitler speech over loudspeaker](https://www.reddit.com/r/news/comments/13id3qk/bbc_news_austrian_train_plays_hitler_speech_over/)
+- [DeSantis signs bill to defund DEI programs at Florida’s public colleges](https://www.reddit.com/r/news/comments/13ictma/desantis_signs_bill_to_defund_dei_programs_at/)
+- [After school shooting, Tennessee governor signs bill to shield gun firms further against lawsuits](https://www.reddit.com/r/news/comments/13icovp/after_school_shooting_tennessee_governor_signs/)
+- [Common disinfectant wipes expose people to dangerous chemicals, research reveals](https://www.reddit.com/r/news/comments/13ic1qu/common_disinfectant_wipes_expose_people_to/)
+- [Florida teacher says she is under investigation after showing 5th grade class Disney movie with gay character](https://www.reddit.com/r/news/comments/13ibgc1/florida_teacher_says_she_is_under_investigation/)
 <!-- REDDIT:END -->
 
 
