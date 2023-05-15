@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [China Jails 78-Year-Old American for Life on Espionage Charges](https://www.reddit.com/r/news/comments/13i6cn9/china_jails_78yearold_american_for_life_on/)
+- [Thailand elections: Voters deliver stunning blow to army-backed rule](https://www.reddit.com/r/news/comments/13i556f/thailand_elections_voters_deliver_stunning_blow/)
+- [Vice and Motherboard owner files for bankruptcy](https://www.reddit.com/r/news/comments/13i48os/vice_and_motherboard_owner_files_for_bankruptcy/)
+- [Hertz apologizes after refusing rental car to Puerto Rican customer](https://www.reddit.com/r/news/comments/13i13x1/hertz_apologizes_after_refusing_rental_car_to/)
+- [China sentences 78-year-old US citizen to life in prison on spying charges](https://www.reddit.com/r/news/comments/13hzb4r/china_sentences_78yearold_us_citizen_to_life_in/)
 <!-- REDDIT:END -->
 
 
