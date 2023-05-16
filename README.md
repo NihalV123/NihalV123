@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Virgin Islands issued subpoena to Elon Musk in Jeffrey Epstein lawsuit](https://www.reddit.com/r/news/comments/13iqy1l/us_virgin_islands_issued_subpoena_to_elon_musk_in/)
+- [LAPD responds to illegal street takeovers at 3 intersections in South Los Angeles](https://www.reddit.com/r/news/comments/13iqd4s/lapd_responds_to_illegal_street_takeovers_at_3/)
+- [Police: DUI suspect in Colorado tried to switch seats with his dog when pulled over](https://www.reddit.com/r/news/comments/13ipvrp/police_dui_suspect_in_colorado_tried_to_switch/)
+- [Consumer debt passes $17 trillion for the first time despite slide in mortgage demand](https://www.reddit.com/r/news/comments/13ippbc/consumer_debt_passes_17_trillion_for_the_first/)
+- [Police tackle sex offender who molested girl, 13, on Piccadilly Line](https://www.reddit.com/r/news/comments/13ip8q8/police_tackle_sex_offender_who_molested_girl_13/)
 <!-- REDDIT:END -->
 
 
