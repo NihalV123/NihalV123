@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chief Justice of the Supreme Court of Ukraine detained for bribery of $3 Million dollars](https://www.reddit.com/r/news/comments/13imkta/chief_justice_of_the_supreme_court_of_ukraine/)
+- [Rudy Giuliani sued for $10 million by former aide over alleged sexual assault | Reuters](https://www.reddit.com/r/news/comments/13ilvo0/rudy_giuliani_sued_for_10_million_by_former_aide/)
+- [Mother killed in Dallas shooting&#39;s crossfire while driving daughter to get prom dress](https://www.reddit.com/r/news/comments/13ilp34/mother_killed_in_dallas_shootings_crossfire_while/)
+- [Sheriff: 2 dead, 4 injured in shooting at Georgia motorcycle club event](https://www.reddit.com/r/news/comments/13il6yd/sheriff_2_dead_4_injured_in_shooting_at_georgia/)
+- [A US researcher has broken the record for the longest time spent living underwater without depressurisation. Joseph Dituri has spent more than 74 days at the bottom of a 30ft-deep lagoon in Key Largo, Florida.](https://www.reddit.com/r/news/comments/13iku43/a_us_researcher_has_broken_the_record_for_the/)
 <!-- REDDIT:END -->
 
 
