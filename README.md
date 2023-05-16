@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Death by earthquake: Pompeii skeletons show Vesuvius wasn&#39;t the only killer](https://www.reddit.com/r/news/comments/13jaoen/death_by_earthquake_pompeii_skeletons_show/)
+- [Home Depot Projects First Annual Sales Decline Since 2009](https://www.reddit.com/r/news/comments/13j95sh/home_depot_projects_first_annual_sales_decline/)
+- [&quot;Cloud of hundreds of bees&quot; swarms Los Angeles neighborhood, sending 2 to hospital](https://www.reddit.com/r/news/comments/13j91ys/cloud_of_hundreds_of_bees_swarms_los_angeles/)
+- [Warren Buffett&#39;s Berkshire Hathaway sells entire stake in TSMC | CNN Business](https://www.reddit.com/r/news/comments/13j7xnf/warren_buffetts_berkshire_hathaway_sells_entire/)
+- [Dresden jewel theft: Five men convicted of audacious 2019 heist](https://www.reddit.com/r/news/comments/13j654b/dresden_jewel_theft_five_men_convicted_of/)
 <!-- REDDIT:END -->
 
 
