@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Supreme Court unanimously overturns former Cuomo aide&#39;s bribery conviction; makes it harder to pursue corruption cases](https://www.reddit.com/r/news/comments/13jrazw/us_supreme_court_unanimously_overturns_former/)
+- [North Carolina has overturned Governor’s veto of abortion ban](https://www.reddit.com/r/news/comments/13jpzta/north_carolina_has_overturned_governors_veto_of/)
+- [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.reddit.com/r/news/comments/13jppmg/big_tech_resumed_hiring_foreign_workers_just/)
+- [Democrat Donna Deegan flips the Jacksonville mayor&#39;s office in a major upset](https://www.reddit.com/r/news/comments/13jomy7/democrat_donna_deegan_flips_the_jacksonville/)
+- [Court rejects Elizabeth Holmes&#39; latest effort to stay out of prison while on appeal](https://www.reddit.com/r/news/comments/13jnz2t/court_rejects_elizabeth_holmes_latest_effort_to/)
 <!-- REDDIT:END -->
 
 
