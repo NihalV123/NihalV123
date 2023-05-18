@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 kids found alive in jungle 17 days after plane crash](https://www.reddit.com/r/news/comments/13l43eh/4_kids_found_alive_in_jungle_17_days_after_plane/)
+- [Dancers at Los Angeles club to become the US’s only unionized strippers](https://www.reddit.com/r/news/comments/13l3v17/dancers_at_los_angeles_club_to_become_the_uss/)
+- [Supreme Court sidesteps challenge to internet companies’ broad protections from lawsuits](https://www.reddit.com/r/news/comments/13l1zww/supreme_court_sidesteps_challenge_to_internet/)
+- [BT to cut 55,000 jobs with up to a fifth replaced by AI](https://www.reddit.com/r/news/comments/13l0rrl/bt_to_cut_55000_jobs_with_up_to_a_fifth_replaced/)
+- [Russia fires 30 cruise missiles at Ukrainian targets, Ukraine says most intercepted](https://www.reddit.com/r/news/comments/13l0m8m/russia_fires_30_cruise_missiles_at_ukrainian/)
 <!-- REDDIT:END -->
 
 
