@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dozens of LASD deputies ordered to show suspected gang tattoos, reveal others who have them.](https://www.reddit.com/r/news/comments/13kme7a/dozens_of_lasd_deputies_ordered_to_show_suspected/)
+- [Battery Manufacturer Duracell is leaving Russia more than one whole year after its biggest rival, Energizer](https://www.reddit.com/r/news/comments/13kl7ne/battery_manufacturer_duracell_is_leaving_russia/)
+- [FedEx pilots vote in favor of strike in push for pay rise](https://www.reddit.com/r/news/comments/13kkbo6/fedex_pilots_vote_in_favor_of_strike_in_push_for/)
+- [U.S. Attorney Rachael Rollins attempted to ‘sabotage’ Suffolk DA race, according to federal reports. Forced to resign.](https://www.reddit.com/r/news/comments/13kk4br/us_attorney_rachael_rollins_attempted_to_sabotage/)
+- [Native American High School Graduate Sues School District for Forceful Removal of Sacred Eagle Plume at Graduation](https://www.reddit.com/r/news/comments/13kife8/native_american_high_school_graduate_sues_school/)
 <!-- REDDIT:END -->
 
 
