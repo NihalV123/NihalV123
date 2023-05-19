@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [G7 agree to &#39;starve the Russian war machine&#39;](https://www.reddit.com/r/news/comments/13lr9vh/g7_agree_to_starve_the_russian_war_machine/)
+- [Great-grandmother, 95, tasered by officer in Australia had walking frame and knife, police say | CNN](https://www.reddit.com/r/news/comments/13lps7j/greatgrandmother_95_tasered_by_officer_in/)
+- [Zelensky to attend G7 summit in Japan in person](https://www.reddit.com/r/news/comments/13ll8r2/zelensky_to_attend_g7_summit_in_japan_in_person/)
+- [98-year-old woman and her daughter among 3 victims killed by New Mexico student who fired randomly at cars and homes](https://www.reddit.com/r/news/comments/13ll31x/98yearold_woman_and_her_daughter_among_3_victims/)
+- [Colombian president retracts claim 4 missing Indigenous children found alive in Amazon after plane crash](https://www.reddit.com/r/news/comments/13ljwxv/colombian_president_retracts_claim_4_missing/)
 <!-- REDDIT:END -->
 
 
