@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indigenous nation in US seeks to block billion-dollar port project in Canada](https://www.reddit.com/r/news/comments/13mibrk/indigenous_nation_in_us_seeks_to_block/)
+- [The hometown of Ukraine&#39;s Eurovision act was hit by Russian missiles moments before the band took to the stage in Liverpool](https://www.reddit.com/r/news/comments/13mhv51/the_hometown_of_ukraines_eurovision_act_was_hit/)
+- [Justice Department wins lawsuit to end JetBlue and American Airlines alliance | CNN Business](https://www.reddit.com/r/news/comments/13mg88m/justice_department_wins_lawsuit_to_end_jetblue/)
+- [Colombian elite backed death squads, former paramilitary commander says](https://www.reddit.com/r/news/comments/13mbxlc/colombian_elite_backed_death_squads_former/)
+- [Downtown Walgreens Killing: Drugstore Chain Cuts Ties With Security Firm After Fatal Shooting of Banko Brown](https://www.reddit.com/r/news/comments/13mbmty/downtown_walgreens_killing_drugstore_chain_cuts/)
 <!-- REDDIT:END -->
 
 
