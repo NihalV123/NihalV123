@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Downtown Walgreens Killing: Drugstore Chain Cuts Ties With Security Firm After Fatal Shooting of Banko Brown](https://www.reddit.com/r/news/comments/13mbmty/downtown_walgreens_killing_drugstore_chain_cuts/)
+- [Teen girl charged with murder after classmates die from fentanyl overdose](https://www.reddit.com/r/news/comments/13mawwk/teen_girl_charged_with_murder_after_classmates/)
+- [Moscow bans &#39;500 Americans&#39; from Russia including CNN journalists](https://www.reddit.com/r/news/comments/13ma4ra/moscow_bans_500_americans_from_russia_including/)
+- [California Officials Investigating Loss of 30-Ton Shipment of Explosive Chemicals](https://www.reddit.com/r/news/comments/13m9gl1/california_officials_investigating_loss_of_30ton/)
+- [Texas militia member sentenced to nearly 5 years in prison for attacking police during Capitol riot | AP News](https://www.reddit.com/r/news/comments/13m8zky/texas_militia_member_sentenced_to_nearly_5_years/)
 <!-- REDDIT:END -->
 
 
