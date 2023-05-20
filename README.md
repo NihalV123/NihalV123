@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1 killed, 3 injured in Alabama birthday party shooting](https://www.reddit.com/r/news/comments/13n0i2y/1_killed_3_injured_in_alabama_birthday_party/)
+- [3-year-old shoots 2 people in Indiana, leading to arrest of man wanted for murder](https://www.reddit.com/r/news/comments/13n0ef5/3yearold_shoots_2_people_in_indiana_leading_to/)
+- [Anheuser-Busch loses top LGBTQ+ rating over its Bud Light response](https://www.reddit.com/r/news/comments/13mzhzi/anheuserbusch_loses_top_lgbtq_rating_over_its_bud/)
+- [Mexico City airport shuts down operations due to volcanic ash](https://www.reddit.com/r/news/comments/13mzgz3/mexico_city_airport_shuts_down_operations_due_to/)
+- [Prosecutors refile charges against officer in 2020 protest arrest after judge dismisses case](https://www.reddit.com/r/news/comments/13mzegd/prosecutors_refile_charges_against_officer_in/)
 <!-- REDDIT:END -->
 
 
