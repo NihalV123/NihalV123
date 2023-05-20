@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Emails between WVSP brass detail attempts to arrest whistleblower behind anonymous letter](https://www.reddit.com/r/news/comments/13mppsq/emails_between_wvsp_brass_detail_attempts_to/)
+- [Mike Lindell’s $5 million contest winner takes him to federal court](https://www.reddit.com/r/news/comments/13mnopn/mike_lindells_5_million_contest_winner_takes_him/)
+- [Couple get payout after water buffaloes fall into Essex swimming pool](https://www.reddit.com/r/news/comments/13mm00h/couple_get_payout_after_water_buffaloes_fall_into/)
+- [Man charged with killing boy 9 years after 5-year-old was found in suitcase](https://www.reddit.com/r/news/comments/13ml6zm/man_charged_with_killing_boy_9_years_after/)
+- [Indigenous nation in US seeks to block billion-dollar port project in Canada](https://www.reddit.com/r/news/comments/13mibrk/indigenous_nation_in_us_seeks_to_block/)
 <!-- REDDIT:END -->
 
 
