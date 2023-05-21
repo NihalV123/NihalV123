@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Daimler Truck CEO criticizes overreliance on Chinese batteries for electric vehicles](https://www.reddit.com/r/news/comments/13nq8xs/daimler_truck_ceo_criticizes_overreliance_on/)
+- [Saudi astronauts scheduled for Sunday launch to Space Station](https://www.reddit.com/r/news/comments/13npsod/saudi_astronauts_scheduled_for_sunday_launch_to/)
+- [Dad dead, teenage children injured after grenade blast at Lakes of the Four Seasons, IN home: police](https://www.reddit.com/r/news/comments/13ni985/dad_dead_teenage_children_injured_after_grenade/)
+- [Your Depleted EV Battery Pack Could Power the Grid after Sunset](https://www.reddit.com/r/news/comments/13nhgp2/your_depleted_ev_battery_pack_could_power_the/)
+- [‘Too toxic’: Refinery fires leave East Texas residents reeling](https://www.reddit.com/r/news/comments/13ngmf1/too_toxic_refinery_fires_leave_east_texas/)
 <!-- REDDIT:END -->
 
 
