@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [O que é type-testing com TypeScript? É um anti-pattern? Vale a pena?](https://blog.lsantos.dev/type-testing/)
+- [O que é o NPM package provenance?](https://blog.lsantos.dev/npm-provenance/)
+- [O que o ECMAScript 2023 está trazendo de novo?](https://blog.lsantos.dev/ecma-2023/)
+- [ls -news #12 - Node 20 está ai!](https://blog.lsantos.dev/ls-news-11-2/)
+- [O Node.js 20 está no ar! Conheça as novidades](https://blog.lsantos.dev/node-20/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
