@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man arrested after hammer attack on Eric Gill statue at BBC’s Broadcasting House](https://www.reddit.com/r/news/comments/13nbvrx/man_arrested_after_hammer_attack_on_eric_gill/)
+- [Race horse&#39;s death hours before Preakness extends sport&#39;s woes seen at Churchill Downs](https://www.reddit.com/r/news/comments/13nbvle/race_horses_death_hours_before_preakness_extends/)
+- [Russian mercenaries behind slaughter of 500 in Mali village, UN report finds](https://www.reddit.com/r/news/comments/13nbgdh/russian_mercenaries_behind_slaughter_of_500_in/)
+- [Seattle official refuses to resign after defending convicted pedophile&#39;s nomination for board seat](https://www.reddit.com/r/news/comments/13nb5sa/seattle_official_refuses_to_resign_after/)
+- [St. Cloud FL Pride event canceled due to ‘climate of fear’](https://www.reddit.com/r/news/comments/13nb0zj/st_cloud_fl_pride_event_canceled_due_to_climate/)
 <!-- REDDIT:END -->
 
 
