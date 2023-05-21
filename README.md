@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mount Etna volcano erupts, raining ash on Catania, forcing flight suspension at local airport](https://www.reddit.com/r/news/comments/13o1l30/mount_etna_volcano_erupts_raining_ash_on_catania/)
+- [Prison ordered for attempt to burn house on sex offender registration](https://www.reddit.com/r/news/comments/13o0lg6/prison_ordered_for_attempt_to_burn_house_on_sex/)
+- [Lawsuit against Sylvania Twp. PD seeks $30 million over excessive force claims](https://www.reddit.com/r/news/comments/13nzqrz/lawsuit_against_sylvania_twp_pd_seeks_30_million/)
+- [Fullerton police bust drug lab while searching for parents of 3-year-old wandering streets](https://www.reddit.com/r/news/comments/13nzgzb/fullerton_police_bust_drug_lab_while_searching/)
+- [Jeffrey Epstein Appeared to Threaten Bill Gates Over Microsoft Co-Founder’s Affair With Russian Bridge Player](https://www.reddit.com/r/news/comments/13nzg0k/jeffrey_epstein_appeared_to_threaten_bill_gates/)
 <!-- REDDIT:END -->
 
 
