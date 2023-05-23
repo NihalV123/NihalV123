@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [School shooter asks for mercy from life sentence; teacher, principal want him to stay in prison](https://www.reddit.com/r/news/comments/13pdxx9/school_shooter_asks_for_mercy_from_life_sentence/)
+- [U-Haul crashes near White House; multiple buildings evacuated](https://www.reddit.com/r/news/comments/13pdapx/uhaul_crashes_near_white_house_multiple_buildings/)
+- [Inmate tunnels through wall, stabs man in neighboring cell](https://www.reddit.com/r/news/comments/13pbm33/inmate_tunnels_through_wall_stabs_man_in/)
+- [Critical Role&#39;s Ashley Johnson Files Domestic Violence Restraining Order Against Ex-Boyfriend Brian W. Foster](https://www.reddit.com/r/news/comments/13pbfbt/critical_roles_ashley_johnson_files_domestic/)
+- [Federal agents, prosecutors going after machine-gun conversion devices in Tennessee](https://www.reddit.com/r/news/comments/13paqbr/federal_agents_prosecutors_going_after_machinegun/)
 <!-- REDDIT:END -->
 
 
