@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Child sex abuse by Illinois Catholic clergy spans state and decades, AG investigation finds](https://www.reddit.com/r/news/comments/13pts0k/child_sex_abuse_by_illinois_catholic_clergy_spans/)
+- [Montana governor signs law to define ‘sex’ as only male or female](https://www.reddit.com/r/news/comments/13psztz/montana_governor_signs_law_to_define_sex_as_only/)
+- [Ford reverses plan, vows to keep AM radio for its electric, non-electric vehicles](https://www.reddit.com/r/news/comments/13psv4p/ford_reverses_plan_vows_to_keep_am_radio_for_its/)
+- [Death of Russian minister on return from Cuba is latest unexplained incident involving Moscow’s elites](https://www.reddit.com/r/news/comments/13psesq/death_of_russian_minister_on_return_from_cuba_is/)
+- [UPS strike looms in a world grown reliant on everything delivered everywhere all the time](https://www.reddit.com/r/news/comments/13ps1lu/ups_strike_looms_in_a_world_grown_reliant_on/)
 <!-- REDDIT:END -->
 
 
