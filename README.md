@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Los Angeles Dodgers reinstate gay &#39;nun&#39; group for Pride Night award](https://www.reddit.com/r/news/comments/13pld0a/los_angeles_dodgers_reinstate_gay_nun_group_for/)
+- [AI scanner used in hundreds of US schools misses knives](https://www.reddit.com/r/news/comments/13pka4s/ai_scanner_used_in_hundreds_of_us_schools_misses/)
+- [Millions in Mexico warned to prepare for evacuation as Popocatépetl volcano spews ash | CNN](https://www.reddit.com/r/news/comments/13pjjjf/millions_in_mexico_warned_to_prepare_for/)
+- [Russia Bans Jimmy Kimmel, Stephen Colbert, And Seth Meyers, US Sanctions Blamed](https://www.reddit.com/r/news/comments/13pfdy1/russia_bans_jimmy_kimmel_stephen_colbert_and_seth/)
+- [US man killed by car as he helped ducks cross road in Rocklin](https://www.reddit.com/r/news/comments/13pe46r/us_man_killed_by_car_as_he_helped_ducks_cross/)
 <!-- REDDIT:END -->
 
 
