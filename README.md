@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas Capitol jolted by investigation of attorney general, accusation House speaker was drunk on job](https://www.reddit.com/r/news/comments/13qba5y/texas_capitol_jolted_by_investigation_of_attorney/)
+- [Drag performers sue St. George, Utah, over denying permit for show in public park](https://www.reddit.com/r/news/comments/13q9pde/drag_performers_sue_st_george_utah_over_denying/)
+- [&#39;Nobody imagined it would go on this long&#39;: Bud Light sales continue to plummet over Mulvaney backlash](https://www.reddit.com/r/news/comments/13q8lxl/nobody_imagined_it_would_go_on_this_long_bud/)
+- [PlayStation recording captured Flint man’s murder, helps lead to arrest](https://www.reddit.com/r/news/comments/13q75xw/playstation_recording_captured_flint_mans_murder/)
+- [Target removes some LGBTQ merchandise from stores ahead of June Pride month after threats to workers](https://www.reddit.com/r/news/comments/13q6rg9/target_removes_some_lgbtq_merchandise_from_stores/)
 <!-- REDDIT:END -->
 
 
