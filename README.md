@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Convicted murderer and ex-attorney Alex Murdaugh facing federal charges of fraud, theft](https://www.reddit.com/r/news/comments/13qzbth/convicted_murderer_and_exattorney_alex_murdaugh/)
+- [Jan. 6 defendant who put foot on desk in Pelosi&#39;s office sentenced to 4.5 years in prison](https://www.reddit.com/r/news/comments/13qy0ir/jan_6_defendant_who_put_foot_on_desk_in_pelosis/)
+- [JP Morgan claims US Virgin Islands ‘complicit’ in Jeffrey Epstein crimes](https://www.reddit.com/r/news/comments/13qx00w/jp_morgan_claims_us_virgin_islands_complicit_in/)
+- [Microsoft warns that China hackers attacked U.S. infrastructure](https://www.reddit.com/r/news/comments/13qwm65/microsoft_warns_that_china_hackers_attacked_us/)
+- [Driver of U-Haul that rammed White House gate is not a U.S. citizen, prosecutors say](https://www.reddit.com/r/news/comments/13qv18t/driver_of_uhaul_that_rammed_white_house_gate_is/)
 <!-- REDDIT:END -->
 
 
