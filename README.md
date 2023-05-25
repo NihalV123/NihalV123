@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Investor buys Caribbean isles once owned by Jeffrey Epstein](https://www.reddit.com/r/news/comments/13r6nlk/investor_buys_caribbean_isles_once_owned_by/)
+- [‘Unclothed’ man shot by Dayton officers after charging with sword; injuries non-life-threatening](https://www.reddit.com/r/news/comments/13r4d3d/unclothed_man_shot_by_dayton_officers_after/)
+- [Fitch puts US on negative credit watch](https://www.reddit.com/r/news/comments/13r2ag3/fitch_puts_us_on_negative_credit_watch/)
+- [Convicted murderer and ex-attorney Alex Murdaugh facing federal charges of fraud, theft](https://www.reddit.com/r/news/comments/13qzbth/convicted_murderer_and_exattorney_alex_murdaugh/)
+- [Fired Fort Cavazos commander faces court-martial for allegedly sexually assaulting soldier&#39;s wife](https://www.reddit.com/r/news/comments/13qywlw/fired_fort_cavazos_commander_faces_courtmartial/)
 <!-- REDDIT:END -->
 
 
