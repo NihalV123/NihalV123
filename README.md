@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New superbug-killing antibiotic discovered using AI](https://www.reddit.com/r/news/comments/13rniqp/new_superbugkilling_antibiotic_discovered_using_ai/)
+- [Oath Keepers founder Stewart Rhodes sentenced to 18 years for seditious conspiracy in Jan. 6 attack](https://www.reddit.com/r/news/comments/13rn806/oath_keepers_founder_stewart_rhodes_sentenced_to/)
+- [Ukrainian President Zelenskyy surprises Johns Hopkins grads as commencement speaker](https://www.reddit.com/r/news/comments/13rmdcj/ukrainian_president_zelenskyy_surprises_johns/)
+- [Minnesota Governor Signs Bills to Allow Drug Consumption Sites, Create Psychedelics Task Force](https://www.reddit.com/r/news/comments/13rlj7w/minnesota_governor_signs_bills_to_allow_drug/)
+- [Pfizer&#39;s COVID pill Paxlovid gains full FDA approval](https://www.reddit.com/r/news/comments/13rlbk6/pfizers_covid_pill_paxlovid_gains_full_fda/)
 <!-- REDDIT:END -->
 
 
