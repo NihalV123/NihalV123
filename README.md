@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Romeo &amp; Juliet&#39; stars&#39; lawsuit over 1968 film&#39;s teen nude scene tossed](https://www.reddit.com/r/news/comments/13rvipc/romeo_juliet_stars_lawsuit_over_1968_films_teen/)
+- [China faces new Covid wave from XBB variant that could peak at 65 million cases a week](https://www.reddit.com/r/news/comments/13rv11e/china_faces_new_covid_wave_from_xbb_variant_that/)
+- [Artist instantly paralyzed after being shoved into moving subway train, New York prosecutor says](https://www.reddit.com/r/news/comments/13ruuj5/artist_instantly_paralyzed_after_being_shoved/)
+- [South Australian cabernet sauvignon selling for $40 named best in world](https://www.reddit.com/r/news/comments/13ruan7/south_australian_cabernet_sauvignon_selling_for/)
+- [Trump workers moved Mar-a-Lago boxes a day before Justice Dept. came for documents](https://www.reddit.com/r/news/comments/13rscaz/trump_workers_moved_maralago_boxes_a_day_before/)
 <!-- REDDIT:END -->
 
 
