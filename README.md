@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [EU official says Twitter abandons bloc’s voluntary pact against disinformation](https://www.reddit.com/r/news/comments/13t4iol/eu_official_says_twitter_abandons_blocs_voluntary/)
+- [Man who terrified passengers by opening aircraft door midair &#39;wanted to get off quickly&#39; | CNN](https://www.reddit.com/r/news/comments/13t3vp5/man_who_terrified_passengers_by_opening_aircraft/)
+- [India official drains entire dam to retrieve phone](https://www.reddit.com/r/news/comments/13t0qhj/india_official_drains_entire_dam_to_retrieve_phone/)
+- [South Dakota governor calls on college board to ban drag shows and eliminate &#39;preferred pronouns&#39;](https://www.reddit.com/r/news/comments/13szwb4/south_dakota_governor_calls_on_college_board_to/)
+- [Bear helps itself to 60 cupcakes from Connecticut bakery, scares employees](https://www.reddit.com/r/news/comments/13szvmf/bear_helps_itself_to_60_cupcakes_from_connecticut/)
 <!-- REDDIT:END -->
 
 
