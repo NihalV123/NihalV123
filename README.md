@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Military contractors overcharge the Pentagon on almost everything the Department of Defense buys each year, experts told 60 Minutes over the course of a six-month investigation into price gouging.](https://www.reddit.com/r/news/comments/13sz7ow/military_contractors_overcharge_the_pentagon_on/)
+- [The &#39;Brady Bunch&#39; house is renovated and restored, and HGTV has it on sale for $5.5 million](https://www.reddit.com/r/news/comments/13svnaw/the_brady_bunch_house_is_renovated_and_restored/)
+- [New York man indicted on murder charge after 20-year-old woman was shot and killed when car turned in wrong driveway](https://www.reddit.com/r/news/comments/13sv4ls/new_york_man_indicted_on_murder_charge_after/)
+- [Iowa governor signs bill loosening child labor laws](https://www.reddit.com/r/news/comments/13suict/iowa_governor_signs_bill_loosening_child_labor/)
+- [Mother of man who killed Gabby Petito said in letter she would help son &#39;dispose of a body&#39;](https://www.reddit.com/r/news/comments/13ssiwz/mother_of_man_who_killed_gabby_petito_said_in/)
 <!-- REDDIT:END -->
 
 
