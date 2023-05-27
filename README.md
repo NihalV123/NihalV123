@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mother of man who killed Gabby Petito said in letter she would help son &#39;dispose of a body&#39;](https://www.reddit.com/r/news/comments/13ssiwz/mother_of_man_who_killed_gabby_petito_said_in/)
+- [911 call from Lauren Boeberts home involving incident between husband and son](https://www.reddit.com/r/news/comments/13sqiwr/911_call_from_lauren_boeberts_home_involving/)
+- [New British Cycling rules bar transgender women from competing in female events](https://www.reddit.com/r/news/comments/13sp6yd/new_british_cycling_rules_bar_transgender_women/)
+- [Bomb threat causes evacuation at Canton, Oh Target store](https://www.reddit.com/r/news/comments/13snh7o/bomb_threat_causes_evacuation_at_canton_oh_target/)
+- [Police re-arrest TikToker Mizzy who filmed himself entering stranger’s home](https://www.reddit.com/r/news/comments/13slpla/police_rearrest_tiktoker_mizzy_who_filmed_himself/)
 <!-- REDDIT:END -->
 
 
