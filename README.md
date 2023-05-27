@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tally of covid-19 cases after CDC conference climbs to 181](https://www.reddit.com/r/news/comments/13t9q27/tally_of_covid19_cases_after_cdc_conference/)
+- [Nun’s body intact four years after death draws people to Missouri monastery](https://www.reddit.com/r/news/comments/13t9nxy/nuns_body_intact_four_years_after_death_draws/)
+- [Texas attorney general urges supporters to protest at capitol ahead of impeachment vote](https://www.reddit.com/r/news/comments/13t9my7/texas_attorney_general_urges_supporters_to/)
+- [As cancer drug shortages grow, some doctors are forced to ration doses or delay care](https://www.reddit.com/r/news/comments/13t8tp4/as_cancer_drug_shortages_grow_some_doctors_are/)
+- [Irmo Firefighter Dies After Fighting Columbia Apartment Fire, Six Other Firefighters Injured](https://www.reddit.com/r/news/comments/13t6o1r/irmo_firefighter_dies_after_fighting_columbia/)
 <!-- REDDIT:END -->
 
 
