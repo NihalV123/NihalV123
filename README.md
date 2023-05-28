@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Turkey’s Erdogan wins re-election as president: State media](https://www.reddit.com/r/news/comments/13u633t/turkeys_erdogan_wins_reelection_as_president/)
+- [Arizona mother pleads guilty to murder, child abuse after 6-year-old son died of starvation](https://www.reddit.com/r/news/comments/13u5ac7/arizona_mother_pleads_guilty_to_murder_child/)
+- [Man dies after going days in Duval County jail without medication, family says](https://www.reddit.com/r/news/comments/13u31f7/man_dies_after_going_days_in_duval_county_jail/)
+- [‘Arrogant king crushing voice of public on streets’: Opposition leaders slam Delhi Police action against wrestlers](https://www.reddit.com/r/news/comments/13u24py/arrogant_king_crushing_voice_of_public_on_streets/)
+- [Please wear clothes in your digital driver&#39;s license photo, Georgia officials urge | CNN](https://www.reddit.com/r/news/comments/13u116g/please_wear_clothes_in_your_digital_drivers/)
 <!-- REDDIT:END -->
 
 
