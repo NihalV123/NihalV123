@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jan. 6 rioters are raking in thousands in donations. Now the US is coming after their haul](https://www.reddit.com/r/news/comments/13uggae/jan_6_rioters_are_raking_in_thousands_in/)
+- [Nova Scotia wildfire burns out of control as hot, windy weather intensifies blaze](https://www.reddit.com/r/news/comments/13ug416/nova_scotia_wildfire_burns_out_of_control_as_hot/)
+- [Illinois to Become First State to Ban Book Bans](https://www.reddit.com/r/news/comments/13ug22l/illinois_to_become_first_state_to_ban_book_bans/)
+- [Influencer dies after live-streaming himself drinking bottles of Chinese spirit Baijiu](https://www.reddit.com/r/news/comments/13ufly0/influencer_dies_after_livestreaming_himself/)
+- [Law enforcement determines Target bomb threat was a hoax](https://www.reddit.com/r/news/comments/13uc1i6/law_enforcement_determines_target_bomb_threat_was/)
 <!-- REDDIT:END -->
 
 
