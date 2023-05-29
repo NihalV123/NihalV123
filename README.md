@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukrainian Athlete Refuses Hand-shake with Belarusian Opponent](https://www.reddit.com/r/news/comments/13v1eh7/ukrainian_athlete_refuses_handshake_with/)
+- [US doctor fined for speaking about child&#39;s abortion - BBC News](https://www.reddit.com/r/news/comments/13v0p4x/us_doctor_fined_for_speaking_about_childs/)
+- [Ugandan president signs one of the world&#39;s harshest anti-LGBTQ bills into law | CNN](https://www.reddit.com/r/news/comments/13uzuj0/ugandan_president_signs_one_of_the_worlds/)
+- [California Interscholastic Federation denounces &#39;harassing behaviors&#39; that led to transgender athletes withdrawing from track finals](https://www.reddit.com/r/news/comments/13uzgjh/california_interscholastic_federation_denounces/)
+- [Ethnic Serbs clash with police in bid to take over Kosovo municipal building 🇽🇰](https://www.reddit.com/r/news/comments/13uzfxj/ethnic_serbs_clash_with_police_in_bid_to_take/)
 <!-- REDDIT:END -->
 
 
