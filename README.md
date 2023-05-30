@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Minnesota Governor Signs Bill Legalizing Marijuana](https://www.reddit.com/r/news/comments/13vw5r9/minnesota_governor_signs_bill_legalizing_marijuana/)
+- [Sackler Family Gets To Keep Billions Protected](https://www.reddit.com/r/news/comments/13vw25x/sackler_family_gets_to_keep_billions_protected/)
+- [The Carter family is sharing that former First Lady Rosalynn Carter has dementia. She continues to live happily at home with her husband, enjoying spring in Plains and visits with loved ones.](https://www.reddit.com/r/news/comments/13vvyoa/the_carter_family_is_sharing_that_former_first/)
+- [Arizona man arrested after random shooting spree kills 4 and injures 1](https://www.reddit.com/r/news/comments/13vvgs5/arizona_man_arrested_after_random_shooting_spree/)
+- [Wildfires in Nova Scotia are &#39;out of control&#39; and forcing 16,000 people from their homes | CNN](https://www.reddit.com/r/news/comments/13vuu8o/wildfires_in_nova_scotia_are_out_of_control_and/)
 <!-- REDDIT:END -->
 
 
