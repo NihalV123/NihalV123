@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Orange County deputies arrest teenagers accused of brutally beating trio of Marines in San Clemente](https://www.reddit.com/r/news/comments/13wkceu/orange_county_deputies_arrest_teenagers_accused/)
+- [New York fertility doctor accused of using own sperm dies when hand-built plane crashes](https://www.reddit.com/r/news/comments/13wjirt/new_york_fertility_doctor_accused_of_using_own/)
+- [‘Shrinkflation’ still hitting store shelves](https://www.reddit.com/r/news/comments/13wj3c6/shrinkflation_still_hitting_store_shelves/)
+- [NATO to send 700 more troops to Kosovo to help quell violent protests](https://www.reddit.com/r/news/comments/13wh745/nato_to_send_700_more_troops_to_kosovo_to_help/)
+- [Cyber thieves swipe $700,000 from Jacksonville-based church network](https://www.reddit.com/r/news/comments/13wbzw0/cyber_thieves_swipe_700000_from_jacksonvillebased/)
 <!-- REDDIT:END -->
 
 
