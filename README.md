@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [San Francisco pilot program diverts 911 calls about homeless from police to new street crisis team](https://www.reddit.com/r/news/comments/13x199f/san_francisco_pilot_program_diverts_911_calls/)
+- [Beloved New York swan babies rescued after mother was eaten by family, police say](https://www.reddit.com/r/news/comments/13x0mue/beloved_new_york_swan_babies_rescued_after_mother/)
+- [Actor Danny Masterson convicted of two counts of rape at second Los Angeles trial](https://www.reddit.com/r/news/comments/13wyazg/actor_danny_masterson_convicted_of_two_counts_of/)
+- [&#39;Trump Bucks&#39; retailers&#39; websites taken down, days after being exposed for selling bogus currency](https://www.reddit.com/r/news/comments/13wx3s9/trump_bucks_retailers_websites_taken_down_days/)
+- [Former New Ulm police investigator sentenced to 90 days for sexual assault of a child](https://www.reddit.com/r/news/comments/13wwojm/former_new_ulm_police_investigator_sentenced_to/)
 <!-- REDDIT:END -->
 
 
