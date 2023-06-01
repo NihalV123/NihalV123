@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teenage birth rates in the US reached historic lows in 2022, CDC report finds](https://www.reddit.com/r/news/comments/13xfi86/teenage_birth_rates_in_the_us_reached_historic/)
+- [Trapped by Sudan fighting, dozens of infants, toddlers and children died in Khartoum orphanage](https://www.reddit.com/r/news/comments/13xcd5n/trapped_by_sudan_fighting_dozens_of_infants/)
+- [BHP: Mining giant says it underpaid workers for 13 years](https://www.reddit.com/r/news/comments/13x9kzm/bhp_mining_giant_says_it_underpaid_workers_for_13/)
+- [AI: War crimes evidence erased by social media platforms](https://www.reddit.com/r/news/comments/13x95cu/ai_war_crimes_evidence_erased_by_social_media/)
+- [Son publicly cleared more than 30 years later by RPSO in death of his father](https://www.reddit.com/r/news/comments/13x6xtu/son_publicly_cleared_more_than_30_years_later_by/)
 <!-- REDDIT:END -->
 
 
