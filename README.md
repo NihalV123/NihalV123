@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New York City Jails No Longer Announcing Deaths Behind Bars, Angering Watchdogs](https://www.reddit.com/r/news/comments/13xmw82/new_york_city_jails_no_longer_announcing_deaths/)
+- [Sign with a homophobic slur in front of Florida business sparks backlash](https://www.reddit.com/r/news/comments/13xmsob/sign_with_a_homophobic_slur_in_front_of_florida/)
+- [10-year-old leads police on chase on I-75 trying to drive to his mother in Detroit](https://www.reddit.com/r/news/comments/13xl2su/10yearold_leads_police_on_chase_on_i75_trying_to/)
+- [Texas father shot, killed at daughter&#39;s graduation party amid argument](https://www.reddit.com/r/news/comments/13xk4ku/texas_father_shot_killed_at_daughters_graduation/)
+- [Florida man points gun at woman, threatens to kill her after friend backs into wrong driveway](https://www.reddit.com/r/news/comments/13xjx6i/florida_man_points_gun_at_woman_threatens_to_kill/)
 <!-- REDDIT:END -->
 
 
