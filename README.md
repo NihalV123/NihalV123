@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pine Island rules protect Gullah culture, ban golf courses. New owner has a different vision.](https://www.reddit.com/r/news/comments/13yg3nq/pine_island_rules_protect_gullah_culture_ban_golf/)
+- [Fort Bragg drops Confederate namesake for Fort Liberty, part of US Army base rebranding](https://www.reddit.com/r/news/comments/13yfilm/fort_bragg_drops_confederate_namesake_for_fort/)
+- [No charges after man shoots Indianapolis child’s service dog](https://www.reddit.com/r/news/comments/13yf4gt/no_charges_after_man_shoots_indianapolis_childs/)
+- [Ford Motor Co sues Blue Cross Blue Shield in antitrust case over ‘astronomical’ profit](https://www.reddit.com/r/news/comments/13yew88/ford_motor_co_sues_blue_cross_blue_shield_in/)
+- [Mexico police find 45 bags containing body parts ‘matching characteristics’ of missing call center staff](https://www.reddit.com/r/news/comments/13yek5p/mexico_police_find_45_bags_containing_body_parts/)
 <!-- REDDIT:END -->
 
 
