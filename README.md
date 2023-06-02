@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia gun shop owner shutters store after mass shootings targeting children](https://www.reddit.com/r/news/comments/13xxyti/georgia_gun_shop_owner_shutters_store_after_mass/)
+- [AP obtains records shedding new light on Jeffrey Epstein’s jail suicide and frantic aftermath](https://www.reddit.com/r/news/comments/13xx14n/ap_obtains_records_shedding_new_light_on_jeffrey/)
+- [Arizona announces limits on construction in Phoenix area as groundwater disappears](https://www.reddit.com/r/news/comments/13xtvfw/arizona_announces_limits_on_construction_in/)
+- [Limo company operator sentenced to 5 to 15 years for manslaughter in crash that killed 20](https://www.reddit.com/r/news/comments/13xsv03/limo_company_operator_sentenced_to_5_to_15_years/)
+- [In blow to unions, Supreme Court rules company can pursue strike damage claim](https://www.reddit.com/r/news/comments/13xsdw8/in_blow_to_unions_supreme_court_rules_company_can/)
 <!-- REDDIT:END -->
 
 
