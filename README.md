@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas nun accused of breaking chastity vow &lpar;with a priest&rpar; dismissed](https://www.reddit.com/r/news/comments/13z8xpu/texas_nun_accused_of_breaking_chastity_vow_with_a/)
+- [Baltimore couple team up to save life of fellow passenger on Southwest flight](https://www.reddit.com/r/news/comments/13z8hsa/baltimore_couple_team_up_to_save_life_of_fellow/)
+- [Fight breaks out as dissenting sides protest a Pride assembly at Saticoy Elementary School](https://www.reddit.com/r/news/comments/13z0pdz/fight_breaks_out_as_dissenting_sides_protest_a/)
+- [YouTube changes policy to allow false claims about past US presidential elections](https://www.reddit.com/r/news/comments/13yymtb/youtube_changes_policy_to_allow_false_claims/)
+- [Drag shows on US military bases canceled by Pentagon after Republican criticism](https://www.reddit.com/r/news/comments/13yu7ks/drag_shows_on_us_military_bases_canceled_by/)
 <!-- REDDIT:END -->
 
 
