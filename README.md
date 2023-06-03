@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona restricts Phoenix home construction amid water shortage](https://www.reddit.com/r/news/comments/13zkcf8/arizona_restricts_phoenix_home_construction_amid/)
+- [Parents protesting Pride Day clash with police at LA school where trans teacher’s flag was burned](https://www.reddit.com/r/news/comments/13zjwfr/parents_protesting_pride_day_clash_with_police_at/)
+- [6-year-old horse dies at Belmont Park after race injury; Chaysenbryn euthanized on track - ABC News](https://www.reddit.com/r/news/comments/13zfic5/6yearold_horse_dies_at_belmont_park_after_race/)
+- [Controversial Gunshot Detectors on Minneapolis Schools, Cyber Attack Reveals](https://www.reddit.com/r/news/comments/13zfbjz/controversial_gunshot_detectors_on_minneapolis/)
+- [Tennessee federal judge rules &#39;drag ban&#39; is unconstitutional](https://www.reddit.com/r/news/comments/13ze8wu/tennessee_federal_judge_rules_drag_ban_is/)
 <!-- REDDIT:END -->
 
 
