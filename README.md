@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man With Weapons, Swastika Flag, Found Dead After Friday Standoff With Police In West Humboldt Park. After hours of negotiations, police said they entered the building Friday evening to find the man deceased.](https://www.reddit.com/r/news/comments/13zrvqc/man_with_weapons_swastika_flag_found_dead_after/)
+- [Temecula Valley school board votes 3-2 to reject new curriculum over Harvey Milk inclusion](https://www.reddit.com/r/news/comments/13zrtf7/temecula_valley_school_board_votes_32_to_reject/)
+- [Clumps of 5,000-mile seaweed blob bring flesh-eating bacteria to Florida](https://www.reddit.com/r/news/comments/13zqfrf/clumps_of_5000mile_seaweed_blob_bring_flesheating/)
+- [Chinese warship nearly hits U.S. destroyer in Taiwan Strait during joint Canada-U.S. mission](https://www.reddit.com/r/news/comments/13zo1yg/chinese_warship_nearly_hits_us_destroyer_in/)
+- [Armenia is not Russia&#39;s ally in Ukraine war, says PM Pashinyan](https://www.reddit.com/r/news/comments/13znqny/armenia_is_not_russias_ally_in_ukraine_war_says/)
 <!-- REDDIT:END -->
 
 
