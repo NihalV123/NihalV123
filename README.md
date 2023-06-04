@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [As oil prices stagnate, OPEC Plus opts to extend production cuts](https://www.reddit.com/r/news/comments/140jt8e/as_oil_prices_stagnate_opec_plus_opts_to_extend/)
+- [A Florida woman&#39;s car caught fire with her children inside while she allegedly shoplifted in a mall](https://www.reddit.com/r/news/comments/140izid/a_florida_womans_car_caught_fire_with_her/)
+- [DCFS charges 9 year old $30K, would-be adoptive mom says money is needed for child&#39;s future](https://www.reddit.com/r/news/comments/140idle/dcfs_charges_9_year_old_30k_wouldbe_adoptive_mom/)
+- [Transgender adults in Florida `blindsided&#39; that new law also limits their access to health care](https://www.reddit.com/r/news/comments/140i5bf/transgender_adults_in_florida_blindsided_that_new/)
+- [Another body found at Iowa apartment collapse. 2 more still missing.](https://www.reddit.com/r/news/comments/140i3hy/another_body_found_at_iowa_apartment_collapse_2/)
 <!-- REDDIT:END -->
 
 
