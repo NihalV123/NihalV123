@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Replica of NASA’s Mars Rover Opportunity lands in India, kindles interest in Science](https://www.reddit.com/r/news/comments/13zzccv/replica_of_nasas_mars_rover_opportunity_lands_in/)
+- [2 young boys killed by gunfire were playing with kittens in yard, Pennsylvania officials say](https://www.reddit.com/r/news/comments/13zz40r/2_young_boys_killed_by_gunfire_were_playing_with/)
+- [City Council and Mayor stop Edmonds largest donation to date.](https://www.reddit.com/r/news/comments/13zxykn/city_council_and_mayor_stop_edmonds_largest/)
+- [Man killed at group home after another man hit him with a toilet tank lid](https://www.reddit.com/r/news/comments/13zwqy8/man_killed_at_group_home_after_another_man_hit/)
+- [Man With Weapons, Swastika Flag, Found Dead After Friday Standoff With Police In West Humboldt Park. After hours of negotiations, police said they entered the building Friday evening to find the man deceased.](https://www.reddit.com/r/news/comments/13zrvqc/man_with_weapons_swastika_flag_found_dead_after/)
 <!-- REDDIT:END -->
 
 
