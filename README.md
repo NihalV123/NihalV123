@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Where Abortion Is Legal and Where It Loses Protections Without Roe v. Wade](https://www.reddit.com/r/news/comments/140v497/where_abortion_is_legal_and_where_it_loses/)
+- [Transgender adults in Florida `blindsided&#39; that new law also limits their access to health care](https://www.reddit.com/r/news/comments/140qw7z/transgender_adults_in_florida_blindsided_that_new/)
+- [Light plane crashes after chase by jet fighters in Washington area](https://www.reddit.com/r/news/comments/140pze5/light_plane_crashes_after_chase_by_jet_fighters/)
+- [Another major insurer is halting new policy sales in California](https://www.reddit.com/r/news/comments/140pcx2/another_major_insurer_is_halting_new_policy_sales/)
+- [Police investigate if deaths of six women in Portland are connected to possible serial killer](https://www.reddit.com/r/news/comments/140o2it/police_investigate_if_deaths_of_six_women_in/)
 <!-- REDDIT:END -->
 
 
