@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indiana abortion clinic closes amid ‘unnecessary’ restrictions](https://www.reddit.com/r/news/comments/142m091/indiana_abortion_clinic_closes_amid_unnecessary/)
+- [Too late now to save Arctic summer ice, climate scientists find | Climate crisis](https://www.reddit.com/r/news/comments/142l10c/too_late_now_to_save_arctic_summer_ice_climate/)
+- [Federal Judge Blocks Florida’s Ban on Transgender Treatment for Minors](https://www.reddit.com/r/news/comments/142kgcx/federal_judge_blocks_floridas_ban_on_transgender/)
+- [Cuba Gooding Jr. settles lawsuit that accused him of rape, avoiding N.Y. trial](https://www.reddit.com/r/news/comments/142johr/cuba_gooding_jr_settles_lawsuit_that_accused_him/)
+- [US SEC charges crypto platform Coinbase, one day after suing Binance](https://www.reddit.com/r/news/comments/142jdnj/us_sec_charges_crypto_platform_coinbase_one_day/)
 <!-- REDDIT:END -->
 
 
