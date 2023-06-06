@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Astrud Gilberto, bossa nova singer of The Girl from Ipanema, dies aged 83](https://www.reddit.com/r/news/comments/142cv70/astrud_gilberto_bossa_nova_singer_of_the_girl/)
+- [Hollywood actors union overwhelmingly votes to strike if talks fail with studios](https://www.reddit.com/r/news/comments/142coq5/hollywood_actors_union_overwhelmingly_votes_to/)
+- [Ukraine war latest: Evacuations under way as water gushes through damaged dam](https://www.reddit.com/r/news/comments/142bzmp/ukraine_war_latest_evacuations_under_way_as_water/)
+- [French left in last-ditch bid to derail pensions overhaul](https://www.reddit.com/r/news/comments/142azaw/french_left_in_lastditch_bid_to_derail_pensions/)
+- [Nova Kakhovka dam in Kherson region blown up by Russian forces - Ukraine&#39;s military](https://www.reddit.com/r/news/comments/1422jah/nova_kakhovka_dam_in_kherson_region_blown_up_by/)
 <!-- REDDIT:END -->
 
 
