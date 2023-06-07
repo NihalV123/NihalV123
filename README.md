@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fights break out outside Glendale school district meeting about LGBTQ studies](https://www.reddit.com/r/news/comments/1432yqu/fights_break_out_outside_glendale_school_district/)
+- [Seven shot and two killed at Virginia high school graduation](https://www.reddit.com/r/news/comments/14321tz/seven_shot_and_two_killed_at_virginia_high_school/)
+- [Reddit to lay off about 5% of its workforce | Reuters](https://www.reddit.com/r/news/comments/142zm8r/reddit_to_lay_off_about_5_of_its_workforce_reuters/)
+- [Missouri man executed for killing two jailers in failed escape plot](https://www.reddit.com/r/news/comments/142yu2i/missouri_man_executed_for_killing_two_jailers_in/)
+- [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.reddit.com/r/news/comments/142yr9t/us_urged_to_reveal_ufo_evidence_after_claim_that/)
 <!-- REDDIT:END -->
 
 
