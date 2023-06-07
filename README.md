@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutor: Deputy could have stopped Parkland school shooting but chose to take cover](https://www.reddit.com/r/news/comments/143k2f2/prosecutor_deputy_could_have_stopped_parkland/)
+- [Philadelphia is under a &#39;code red&#39; alert as millions from the East Coast to Canada suffer unhealthy air from Quebec&#39;s wildfires](https://www.reddit.com/r/news/comments/143j6dt/philadelphia_is_under_a_code_red_alert_as/)
+- [Hawaii’s Kilauea volcano erupts, USGS reports](https://www.reddit.com/r/news/comments/143irgp/hawaiis_kilauea_volcano_erupts_usgs_reports/)
+- [Terrorism ruling first for Canada &#39;incel&#39; attack](https://www.reddit.com/r/news/comments/143g2lr/terrorism_ruling_first_for_canada_incel_attack/)
+- [Ukrainians face homelessness, disease risk as floods crest from destroyed dam](https://www.reddit.com/r/news/comments/143fdmt/ukrainians_face_homelessness_disease_risk_as/)
 <!-- REDDIT:END -->
 
 
