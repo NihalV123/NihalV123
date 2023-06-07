@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dam breach could be Ukraine’s ‘worst ecological disaster since Chornobyl’](https://www.reddit.com/r/news/comments/142x584/dam_breach_could_be_ukraines_worst_ecological/)
+- [Origins of masturbation traced back to primates 40m years ago](https://www.reddit.com/r/news/comments/142x1rg/origins_of_masturbation_traced_back_to_primates/)
+- [Richer people pay more: California’s dramatic change to electricity bills](https://www.reddit.com/r/news/comments/142wcvz/richer_people_pay_more_californias_dramatic/)
+- [Atlanta &#39;Cop City&#39;: Money approved for controversial training centre](https://www.reddit.com/r/news/comments/142w401/atlanta_cop_city_money_approved_for_controversial/)
+- [Sources: 5 shot near Altria Theater following graduation celebration](https://www.reddit.com/r/news/comments/142ve28/sources_5_shot_near_altria_theater_following/)
 <!-- REDDIT:END -->
 
 
