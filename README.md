@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mysterious species buried their dead and carved symbols 100,000 years before humans](https://www.reddit.com/r/news/comments/144fmw9/mysterious_species_buried_their_dead_and_carved/)
+- [Boy, 6, shoots 1-year-old sibling twice after finding loaded handgun in Detroit home](https://www.reddit.com/r/news/comments/144eu1c/boy_6_shoots_1yearold_sibling_twice_after_finding/)
+- [Peru extradites Dutch murderer to US over Natalee Holloway disappearance](https://www.reddit.com/r/news/comments/144duys/peru_extradites_dutch_murderer_to_us_over_natalee/)
+- [Main suspect in 2005 disappearance of Natalee Holloway departs Peru on extradition flight to US](https://www.reddit.com/r/news/comments/144bjbo/main_suspect_in_2005_disappearance_of_natalee/)
+- [Supreme Court rules in favor of Black voters in Alabama redistricting case](https://www.reddit.com/r/news/comments/144b6u0/supreme_court_rules_in_favor_of_black_voters_in/)
 <!-- REDDIT:END -->
 
 
