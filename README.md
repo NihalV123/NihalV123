@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Autopsy finds North Carolina man died of &#39;sudden cardiac arrest&#39; during police confrontation](https://www.reddit.com/r/news/comments/143tyjg/autopsy_finds_north_carolina_man_died_of_sudden/)
+- [Protests in Germany after anti-fascists sent to five years in prison | MR Online](https://www.reddit.com/r/news/comments/143s0rh/protests_in_germany_after_antifascists_sent_to/)
+- [Singer of German band Rammstein accused of recruiting fans for sex](https://www.reddit.com/r/news/comments/143rmqs/singer_of_german_band_rammstein_accused_of/)
+- [Morocco to host Africa’s 1st EV Battery Gigafactory with an annual capacity of 100 GW](https://www.reddit.com/r/news/comments/143o7lp/morocco_to_host_africas_1st_ev_battery/)
+- [Missouri governor signs ban on transgender health care, school sports](https://www.reddit.com/r/news/comments/143mzpa/missouri_governor_signs_ban_on_transgender_health/)
 <!-- REDDIT:END -->
 
 
