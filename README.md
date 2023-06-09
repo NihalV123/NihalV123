@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chief suspect in Natalee Holloway disappearance pleads not guilty to extortion charges](https://www.reddit.com/r/news/comments/145ae2q/chief_suspect_in_natalee_holloway_disappearance/)
+- [Trump-appointed judge who issued rulings favorable to him assigned to oversee criminal case](https://www.reddit.com/r/news/comments/1459yex/trumpappointed_judge_who_issued_rulings_favorable/)
+- [U.S. government sets penalties on 43 drugs over price hikes](https://www.reddit.com/r/news/comments/14598su/us_government_sets_penalties_on_43_drugs_over/)
+- [Trump lawyers quit classified documents case](https://www.reddit.com/r/news/comments/1458pg7/trump_lawyers_quit_classified_documents_case/)
+- [Russia claims it blew up advanced Ukrainian tank, but video shows its helicopter attacked a tractor](https://www.reddit.com/r/news/comments/14584da/russia_claims_it_blew_up_advanced_ukrainian_tank/)
 <!-- REDDIT:END -->
 
 
