@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI arrests Texas businessman linked to impeachment of state Attorney General Ken Paxton](https://www.reddit.com/r/news/comments/1452b7t/fbi_arrests_texas_businessman_linked_to/)
+- [Elderly Asian man brutally attacked by neighbor in southwest Las Vegas](https://www.reddit.com/r/news/comments/1451zwc/elderly_asian_man_brutally_attacked_by_neighbor/)
+- [Thailand’s cannabis sellers say US growers are eating their lunch](https://www.reddit.com/r/news/comments/14518p7/thailands_cannabis_sellers_say_us_growers_are/)
+- [US doctors forced to ration as cancer drug shortages hit nationwide](https://www.reddit.com/r/news/comments/144xlvt/us_doctors_forced_to_ration_as_cancer_drug/)
+- [Police say former Deputy Sheriff masturbated in front of kids at Enfield ice cream shop](https://www.reddit.com/r/news/comments/144v1hy/police_say_former_deputy_sheriff_masturbated_in/)
 <!-- REDDIT:END -->
 
 
