@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Navy Federal Employee Sold Member Account Info On The Dark Web](https://www.reddit.com/r/news/comments/145pndi/former_navy_federal_employee_sold_member_account/)
+- [NFL coach, doctor reunite with family after saving 3-year-old from drowning](https://www.reddit.com/r/news/comments/145pcu7/nfl_coach_doctor_reunite_with_family_after_saving/)
+- [Officer who raced to Parkland massacre scene testifies against deputy who stayed outside](https://www.reddit.com/r/news/comments/145noxa/officer_who_raced_to_parkland_massacre_scene/)
+- [Black Bear Roaming Near the White House](https://www.reddit.com/r/news/comments/145mcd0/black_bear_roaming_near_the_white_house/)
+- [New Mexico reaches $500M settlement with Walgreens in opioid case](https://www.reddit.com/r/news/comments/145lxcs/new_mexico_reaches_500m_settlement_with_walgreens/)
 <!-- REDDIT:END -->
 
 
