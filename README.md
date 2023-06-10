@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nine shot, injured in San Francisco mass shooting in Mission District](https://www.reddit.com/r/news/comments/145xcj8/nine_shot_injured_in_san_francisco_mass_shooting/)
+- [Lawmakers propose to weaken Obama rule requiring airlines to advertise full airfare price](https://www.reddit.com/r/news/comments/145x0lk/lawmakers_propose_to_weaken_obama_rule_requiring/)
+- [German Institute for Human Rights: Requirements for banning the far-right party AfD are met](https://www.reddit.com/r/news/comments/145vipi/german_institute_for_human_rights_requirements/)
+- [Florida man nearly loses leg to flesh-eating disease after getting bitten in a family brawl](https://www.reddit.com/r/news/comments/145ud8o/florida_man_nearly_loses_leg_to_flesheating/)
+- [Megawatt electrical motor designed by MIT engineers could help electrify aviation](https://www.reddit.com/r/news/comments/145s82n/megawatt_electrical_motor_designed_by_mit/)
 <!-- REDDIT:END -->
 
 
