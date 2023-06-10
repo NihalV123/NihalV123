@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Four missing Colombian children found alive in jungle](https://www.reddit.com/r/news/comments/145ld4u/four_missing_colombian_children_found_alive_in/)
+- [Fayetteville teen drowns while saving child at South Carolina beach](https://www.reddit.com/r/news/comments/145j1lq/fayetteville_teen_drowns_while_saving_child_at/)
+- [Blue Jays Anthony Bass removed from team&#39;s roster](https://www.reddit.com/r/news/comments/145ihpw/blue_jays_anthony_bass_removed_from_teams_roster/)
+- [France hails &#39;hero with a backpack&#39; who intervened in knife attack on very young children](https://www.reddit.com/r/news/comments/145hqtt/france_hails_hero_with_a_backpack_who_intervened/)
+- [Mike Batayeh dead: Breaking Bad actor dies aged 52](https://www.reddit.com/r/news/comments/145haeo/mike_batayeh_dead_breaking_bad_actor_dies_aged_52/)
 <!-- REDDIT:END -->
 
 
