@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AP Sources: Ted Kaczynski, known as the &quot;Unabomber,&quot; died of suicide](https://www.reddit.com/r/news/comments/1470j0m/ap_sources_ted_kaczynski_known_as_the_unabomber/)
+- [Ukraine war: Russia moves to take direct control of Wagner Group](https://www.reddit.com/r/news/comments/146wp2i/ukraine_war_russia_moves_to_take_direct_control/)
+- [‘A portion of paradise’: how the drought is bringing a lost US canyon back to life](https://www.reddit.com/r/news/comments/146vv4m/a_portion_of_paradise_how_the_drought_is_bringing/)
+- [NATO allies prepare unprecedented air deployment exercise over Europe in show of force to Russia](https://www.reddit.com/r/news/comments/146vuz5/nato_allies_prepare_unprecedented_air_deployment/)
+- [Woman in her 70s dead after dog attack in West Midlands as two people arrested](https://www.reddit.com/r/news/comments/146voof/woman_in_her_70s_dead_after_dog_attack_in_west/)
 <!-- REDDIT:END -->
 
 
