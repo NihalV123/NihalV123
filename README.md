@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The search for Wilson, the dog that helped find the children in the jungle, continues](https://www.reddit.com/r/news/comments/146g25x/the_search_for_wilson_the_dog_that_helped_find/)
+- [Fires intensify in Canada, could last &#39;all summer&#39;](https://www.reddit.com/r/news/comments/146fwj2/fires_intensify_in_canada_could_last_all_summer/)
+- [Multiple British soldiers faint from sweltering heat at Prince William military parade](https://www.reddit.com/r/news/comments/146cjmb/multiple_british_soldiers_faint_from_sweltering/)
+- [Russian cargo plane seized at Toronto Pearson airport](https://www.reddit.com/r/news/comments/146azt4/russian_cargo_plane_seized_at_toronto_pearson/)
+- [Facebook owner Meta plans to create Twitter rival](https://www.reddit.com/r/news/comments/1469iu9/facebook_owner_meta_plans_to_create_twitter_rival/)
 <!-- REDDIT:END -->
 
 
