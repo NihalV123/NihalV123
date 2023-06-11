@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The credit card debt of Americans amounts to almost &quot;$1 trillion&quot; - ProfessPost](https://www.reddit.com/r/news/comments/146s73e/the_credit_card_debt_of_americans_amounts_to/)
+- [I-95 Collapses In Philadelphia Due To Fire](https://www.reddit.com/r/news/comments/146reto/i95_collapses_in_philadelphia_due_to_fire/)
+- [China has used Cuba as spy base for years, US official says](https://www.reddit.com/r/news/comments/146oyt1/china_has_used_cuba_as_spy_base_for_years_us/)
+- [Protesters Holding Nazi Flags, Shouting &#39;White Power&#39; Line Disney World Entrance](https://www.reddit.com/r/news/comments/146lsa9/protesters_holding_nazi_flags_shouting_white/)
+- [Man confronts and shouts at Brittney Griner at Dallas airport](https://www.reddit.com/r/news/comments/146jumz/man_confronts_and_shouts_at_brittney_griner_at/)
 <!-- REDDIT:END -->
 
 
