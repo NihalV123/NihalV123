@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘West can’t stop Iran from getting nuclear weapon,’ ayatollah says](https://www.reddit.com/r/news/comments/147aco3/west_cant_stop_iran_from_getting_nuclear_weapon/)
+- [Nick Taylor ends nearly 70-year Canadian drought to win RBC Canadian Open](https://www.reddit.com/r/news/comments/1479e8h/nick_taylor_ends_nearly_70year_canadian_drought/)
+- [Horses die in consecutive races at Belmont Park after history-making event](https://www.reddit.com/r/news/comments/14791dv/horses_die_in_consecutive_races_at_belmont_park/)
+- [Advancement in Nevada&#39;s Renewable Energy Projects: Greenlink West and Bonanza Solar](https://www.reddit.com/r/news/comments/1478miv/advancement_in_nevadas_renewable_energy_projects/)
+- [Travel encounters show how US treats Puerto Ricans as ‘second-class citizens’](https://www.reddit.com/r/news/comments/1477zck/travel_encounters_show_how_us_treats_puerto/)
 <!-- REDDIT:END -->
 
 
