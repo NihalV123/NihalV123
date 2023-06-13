@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Romanian prosecutors change human trafficking charge against Andrew Tate](https://www.reddit.com/r/news/comments/148dmyb/romanian_prosecutors_change_human_trafficking/)
+- [Jack Dorsey: India threatened to shut Twitter and raid employees](https://www.reddit.com/r/news/comments/148cmyz/jack_dorsey_india_threatened_to_shut_twitter_and/)
+- [Sex trafficking: the fight to recover India’s stolen children](https://www.reddit.com/r/news/comments/148brdg/sex_trafficking_the_fight_to_recover_indias/)
+- [At least 9 people injured in mass shooting near downtown Denver celebrations with 3 in critical condition](https://www.reddit.com/r/news/comments/148bm3b/at_least_9_people_injured_in_mass_shooting_near/)
+- [Man held after three found dead in Nottingham city centre UK](https://www.reddit.com/r/news/comments/148akm0/man_held_after_three_found_dead_in_nottingham/)
 <!-- REDDIT:END -->
 
 
