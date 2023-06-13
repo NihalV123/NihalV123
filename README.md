@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sweden players had to show their genitalia at 2011 Women’s World Cup, says Nilla Fischer](https://www.reddit.com/r/news/comments/1481fig/sweden_players_had_to_show_their_genitalia_at/)
+- [Woman declared dead knocks on coffin during her own wake in Ecuador: &quot;It gave us all a fright&quot;](https://www.reddit.com/r/news/comments/148117r/woman_declared_dead_knocks_on_coffin_during_her/)
+- [Young Montana residents bring climate change case to court for first time ever](https://www.reddit.com/r/news/comments/1480tn8/young_montana_residents_bring_climate_change_case/)
+- [Autopsy: U.S. sprinter Bowie died while in labor](https://www.reddit.com/r/news/comments/1480l36/autopsy_us_sprinter_bowie_died_while_in_labor/)
+- [Acid poured on slides at Massachusetts playground; children suffer burns](https://www.reddit.com/r/news/comments/148080k/acid_poured_on_slides_at_massachusetts_playground/)
 <!-- REDDIT:END -->
 
 
