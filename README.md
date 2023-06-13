@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cases of check fraud escalate dramatically, with Americans warned not to mail checks if possible](https://www.reddit.com/r/news/comments/148jobv/cases_of_check_fraud_escalate_dramatically_with/)
+- [Michigan 2-year-old dies in accidental shooting after finding &#39;unsecured firearm&#39;](https://www.reddit.com/r/news/comments/148j3tg/michigan_2yearold_dies_in_accidental_shooting/)
+- [Stellantis recalling over 354,000 Jeeps worldwide; rear coil springs can detach while they&#39;re moving](https://www.reddit.com/r/news/comments/148i7ip/stellantis_recalling_over_354000_jeeps_worldwide/)
+- [Pride flags vandalized at Stonewall National Monument](https://www.reddit.com/r/news/comments/148hd94/pride_flags_vandalized_at_stonewall_national/)
+- [Inflation rose at a 4% annual rate in May, the lowest in 2 years](https://www.reddit.com/r/news/comments/148egp9/inflation_rose_at_a_4_annual_rate_in_may_the/)
 <!-- REDDIT:END -->
 
 
