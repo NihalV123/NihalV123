@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US student loan interest to resume in September and payments in October](https://www.reddit.com/r/news/comments/149dz0j/us_student_loan_interest_to_resume_in_september/)
+- [Boat carrying wedding guests capsizes in Nigeria, killing at least 103](https://www.reddit.com/r/news/comments/149cxm1/boat_carrying_wedding_guests_capsizes_in_nigeria/)
+- [Bud Light loses its title as America’s top-selling beer](https://www.reddit.com/r/news/comments/149bxhx/bud_light_loses_its_title_as_americas_topselling/)
+- [Judge: Landlord can evict Twitter from S’Park offices in Boulder](https://www.reddit.com/r/news/comments/149b8a1/judge_landlord_can_evict_twitter_from_spark/)
+- [Blind friends forced to leave dream cruise dubbed &#39;health and safety risk&#39;](https://www.reddit.com/r/news/comments/1499rjq/blind_friends_forced_to_leave_dream_cruise_dubbed/)
 <!-- REDDIT:END -->
 
 
