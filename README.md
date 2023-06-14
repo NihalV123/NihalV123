@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Belarus starts receiving tactical nuclear weapons from Russia, President Alexander Lukashenko says](https://www.reddit.com/r/news/comments/1492cua/belarus_starts_receiving_tactical_nuclear_weapons/)
+- [Teacher who was shot by 6-year-old student in Virginia has resigned, school officials say](https://www.reddit.com/r/news/comments/148ytb1/teacher_who_was_shot_by_6yearold_student_in/)
+- [E. Jean Carroll can pursue $10 mln lawsuit against Donald Trump -judge](https://www.reddit.com/r/news/comments/148xawa/e_jean_carroll_can_pursue_10_mln_lawsuit_against/)
+- [Vincent Delorenzo, an ex-priest in Michigan, pleads guilty to sexually assaulting 5-year-old after funeral](https://www.reddit.com/r/news/comments/148x16p/vincent_delorenzo_an_expriest_in_michigan_pleads/)
+- [Target stores see more bomb threats over Pride merchandise](https://www.reddit.com/r/news/comments/148wbm3/target_stores_see_more_bomb_threats_over_pride/)
 <!-- REDDIT:END -->
 
 
