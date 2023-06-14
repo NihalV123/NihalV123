@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [E. Jean Carroll can pursue $10 mln lawsuit against Donald Trump -judge](https://www.reddit.com/r/news/comments/148xawa/e_jean_carroll_can_pursue_10_mln_lawsuit_against/)
+- [Vincent Delorenzo, an ex-priest in Michigan, pleads guilty to sexually assaulting 5-year-old after funeral](https://www.reddit.com/r/news/comments/148x16p/vincent_delorenzo_an_expriest_in_michigan_pleads/)
+- [Target stores see more bomb threats over Pride merchandise](https://www.reddit.com/r/news/comments/148wbm3/target_stores_see_more_bomb_threats_over_pride/)
+- [Instant Brands — maker of the Instant Pot — files for bankruptcy](https://www.reddit.com/r/news/comments/148v26j/instant_brands_maker_of_the_instant_pot_files_for/)
+- [New Jersey doctor who sexually abused patients has been threatened in jail, lawyers say](https://www.reddit.com/r/news/comments/148tps3/new_jersey_doctor_who_sexually_abused_patients/)
 <!-- REDDIT:END -->
 
 
