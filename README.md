@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australian Federal government to terminate lease for new Russian embassy](https://www.reddit.com/r/news/comments/149mlyo/australian_federal_government_to_terminate_lease/)
+- [Oregon jury: PacifiCorp must pay punitive damages for fires, plus award that could reach billions](https://www.reddit.com/r/news/comments/149kz5o/oregon_jury_pacificorp_must_pay_punitive_damages/)
+- [Man gets 18 years in federal prison for shooting, plan to rid Montana town of LGBTQ residents](https://www.reddit.com/r/news/comments/149k7v4/man_gets_18_years_in_federal_prison_for_shooting/)
+- [Daniel Penny indicted by grand jury in Jordan Neely subway death](https://www.reddit.com/r/news/comments/149jicm/daniel_penny_indicted_by_grand_jury_in_jordan/)
+- [4 people indicted in scheme to sell body parts stolen from Harvard](https://www.reddit.com/r/news/comments/149j3cu/4_people_indicted_in_scheme_to_sell_body_parts/)
 <!-- REDDIT:END -->
 
 
