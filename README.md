@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LA City Councilman Curren Price charged with embezzlement, perjury, conflict of interest](https://www.reddit.com/r/news/comments/14a77hx/la_city_councilman_curren_price_charged_with/)
+- [Germany: Woman dies after attack near Neuschwanstein Castle](https://www.reddit.com/r/news/comments/14a6ukb/germany_woman_dies_after_attack_near/)
+- [Well-preserved 3,000-year-old sword found in Germany](https://www.reddit.com/r/news/comments/14a5r5b/wellpreserved_3000yearold_sword_found_in_germany/)
+- [Detroit-area city bans Pride flags on public property after debate on LGBTQ+ discrimination and religion](https://www.reddit.com/r/news/comments/14a4qk9/detroitarea_city_bans_pride_flags_on_public/)
+- [Scientists are baffled why the oceans are warming so fast](https://www.reddit.com/r/news/comments/14a40s3/scientists_are_baffled_why_the_oceans_are_warming/)
 <!-- REDDIT:END -->
 
 
