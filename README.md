@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Billions stolen in wage theft from US workers](https://www.reddit.com/r/news/comments/14a07cg/billions_stolen_in_wage_theft_from_us_workers/)
+- [Southern Baptists vote to expel two churches led by female pastors](https://www.reddit.com/r/news/comments/149zxxj/southern_baptists_vote_to_expel_two_churches_led/)
+- [Google Ads, directing women seeking abortions to “crisis centers” instead, earn $10M for company](https://www.reddit.com/r/news/comments/149yhnq/google_ads_directing_women_seeking_abortions_to/)
+- [Twitter&#39;s former CEO has a new app that looks a lot like Twitter | CNN Business](https://www.reddit.com/r/news/comments/149xa0p/twitters_former_ceo_has_a_new_app_that_looks_a/)
+- [Report finds Boris Johnson deliberately misled Commons &lpar;BBC&rpar;](https://www.reddit.com/r/news/comments/149wmjw/report_finds_boris_johnson_deliberately_misled/)
 <!-- REDDIT:END -->
 
 
