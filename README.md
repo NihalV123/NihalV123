@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [School district will ban man accused of verbally assaulting girl, 9, at Kelowna track meet](https://www.reddit.com/r/news/comments/149ta23/school_district_will_ban_man_accused_of_verbally/)
+- [Bill Cosby sued in Nevada by 9 women who accuse him of sexual assault](https://www.reddit.com/r/news/comments/149t99w/bill_cosby_sued_in_nevada_by_9_women_who_accuse/)
+- [Midwest small town&#39;s Pride festival attracts thousands who reject far-right local politics](https://www.reddit.com/r/news/comments/149sovy/midwest_small_towns_pride_festival_attracts/)
+- [Starbucks Pride decorations removed because of new policy, US workers say](https://www.reddit.com/r/news/comments/149odb1/starbucks_pride_decorations_removed_because_of/)
+- [Dances With Wolves actor faces new sex assault charges in Canada](https://www.reddit.com/r/news/comments/149obq6/dances_with_wolves_actor_faces_new_sex_assault/)
 <!-- REDDIT:END -->
 
 
