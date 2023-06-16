@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New species of armoured dinosaur discovered on the Isle of Wight](https://www.reddit.com/r/news/comments/14au9k5/new_species_of_armoured_dinosaur_discovered_on/)
+- [Don Triplett, the first person diagnosed with autism, dead at 89](https://www.reddit.com/r/news/comments/14atlnx/don_triplett_the_first_person_diagnosed_with/)
+- [Ex-police watchdog chief Lockwood charged with rape](https://www.reddit.com/r/news/comments/14aszn4/expolice_watchdog_chief_lockwood_charged_with_rape/)
+- [FBI warns consumers not to use public phone charging stations | CNN Business](https://www.reddit.com/r/news/comments/14asl6e/fbi_warns_consumers_not_to_use_public_phone/)
+- [John Romita Sr, Spider-Man artist and co-creator of Wolverine, dead at 93](https://www.reddit.com/r/news/comments/14apxsr/john_romita_sr_spiderman_artist_and_cocreator_of/)
 <!-- REDDIT:END -->
 
 
