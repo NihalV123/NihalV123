@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court Upholds Federal Law Meant to Protect Indian Children](https://www.reddit.com/r/news/comments/14alaev/supreme_court_upholds_federal_law_meant_to/)
+- [Archeologists find mummy surrounded by coca leaves on hilltop in Peru&#39;s capital](https://www.reddit.com/r/news/comments/14ajdoc/archeologists_find_mummy_surrounded_by_coca/)
+- [Five meerkats dead in suspected dye poisoning at Philadelphia Zoo](https://www.reddit.com/r/news/comments/14aihjl/five_meerkats_dead_in_suspected_dye_poisoning_at/)
+- [California seizes enough fentanyl in San Francisco to kill city’s population three times over](https://www.reddit.com/r/news/comments/14ahorv/california_seizes_enough_fentanyl_in_san/)
+- [FDA advisers endorse updating COVID vaccines to target latest omicron strain](https://www.reddit.com/r/news/comments/14agzpr/fda_advisers_endorse_updating_covid_vaccines_to/)
 <!-- REDDIT:END -->
 
 
