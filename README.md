@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida couple charged with more than $2M in COVID-19 relief fraud](https://www.reddit.com/r/news/comments/14bhsre/florida_couple_charged_with_more_than_2m_in/)
+- [May was worst month on record for fentanyl deaths in San Francisco despite crackdown](https://www.reddit.com/r/news/comments/14bfokl/may_was_worst_month_on_record_for_fentanyl_deaths/)
+- [Catholic protesters gather, march outside Dodger Stadium in opposition to Pride Night](https://www.reddit.com/r/news/comments/14bdw9k/catholic_protesters_gather_march_outside_dodger/)
+- [UPS workers vote to strike, setting stage for biggest walkout since 1959](https://www.reddit.com/r/news/comments/14bdq0d/ups_workers_vote_to_strike_setting_stage_for/)
+- [Michigan man arrested for planning mass killing at synagogue](https://www.reddit.com/r/news/comments/14bb2iv/michigan_man_arrested_for_planning_mass_killing/)
 <!-- REDDIT:END -->
 
 
