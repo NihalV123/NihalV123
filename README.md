@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Homeowners in states hobbled by extreme weather are running out of options to protect their homes](https://www.reddit.com/r/news/comments/14bva6y/homeowners_in_states_hobbled_by_extreme_weather/)
+- [Two children among four people found dead at flat in west London](https://www.reddit.com/r/news/comments/14bueq8/two_children_among_four_people_found_dead_at_flat/)
+- [Ontario man accused of taking selfie with terminally ill patient, charged with harassment.](https://www.reddit.com/r/news/comments/14brhaf/ontario_man_accused_of_taking_selfie_with/)
+- [Jamaican producers&#39; copyright lawsuit over 1,700 Reggaeton songs faces first major hurdle in a California court](https://www.reddit.com/r/news/comments/14bqnkj/jamaican_producers_copyright_lawsuit_over_1700/)
+- [Father admits to fatally shooting 3 young sons at Ohio home, prosecutors say](https://www.reddit.com/r/news/comments/14bqci8/father_admits_to_fatally_shooting_3_young_sons_at/)
 <!-- REDDIT:END -->
 
 
