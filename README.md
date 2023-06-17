@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan man arrested for planning mass killing at synagogue](https://www.reddit.com/r/news/comments/14bb2iv/michigan_man_arrested_for_planning_mass_killing/)
+- [Minneapolis police face federal oversight for excessive force, discrimination](https://www.reddit.com/r/news/comments/14badnh/minneapolis_police_face_federal_oversight_for/)
+- [This dog survived 5 weeks in the Colorado mountains. A hiker carried him to safety](https://www.reddit.com/r/news/comments/14bad1m/this_dog_survived_5_weeks_in_the_colorado/)
+- [Federal court blocks Indiana ban on gender-affirming care for trans youth](https://www.reddit.com/r/news/comments/14b8f6n/federal_court_blocks_indiana_ban_on/)
+- [Chicago police officer fired over raid at the wrong home where a Black woman was handcuffed naked](https://www.reddit.com/r/news/comments/14b6bhm/chicago_police_officer_fired_over_raid_at_the/)
 <!-- REDDIT:END -->
 
 
