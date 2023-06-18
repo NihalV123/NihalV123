@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gas station clerk asks friend to rob the store so he can go home early, police say](https://www.reddit.com/r/news/comments/14cie5u/gas_station_clerk_asks_friend_to_rob_the_store_so/)
+- [Bus full of seniors heading to a casino in Canada collides with truck, killing 15 people](https://www.reddit.com/r/news/comments/14chxg1/bus_full_of_seniors_heading_to_a_casino_in_canada/)
+- [Ukraine destroys ammunition depot near Russian-occupied port city](https://www.reddit.com/r/news/comments/14chkum/ukraine_destroys_ammunition_depot_near/)
+- [Collapsed stretch of I-95 in Philadelphia to reopen within two weeks](https://www.reddit.com/r/news/comments/14ceby1/collapsed_stretch_of_i95_in_philadelphia_to/)
+- [Active shooter arrested at Gorge Amphitheater](https://www.reddit.com/r/news/comments/14cbc7q/active_shooter_arrested_at_gorge_amphitheater/)
 <!-- REDDIT:END -->
 
 
