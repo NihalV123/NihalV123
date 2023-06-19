@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [State trooper killed, another wounded in separate Pennsylvania shootings that left suspect dead](https://www.reddit.com/r/news/comments/14dceim/state_trooper_killed_another_wounded_in_separate/)
+- [Identity of mole who sold Russia secrets from within Australia&#39;s spy agency uncovered](https://www.reddit.com/r/news/comments/14dazj6/identity_of_mole_who_sold_russia_secrets_from/)
+- [2 children killed after running into traffic on freeway near San Diego; mother arrested for DUI](https://www.reddit.com/r/news/comments/14d6nzm/2_children_killed_after_running_into_traffic_on/)
+- [4 people killed, dozens injured in chaotic night of mass shootings across the country](https://www.reddit.com/r/news/comments/14d4fkn/4_people_killed_dozens_injured_in_chaotic_night/)
+- [Juneteenth commemorated in Galveston, Texas, where holiday began](https://www.reddit.com/r/news/comments/14d2tn7/juneteenth_commemorated_in_galveston_texas_where/)
 <!-- REDDIT:END -->
 
 
