@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California restaurant had fake priest hear workers’ confessions, Labor Department says](https://www.reddit.com/r/news/comments/14cz7e8/california_restaurant_had_fake_priest_hear/)
+- [Two United Airlines Employees Charged With Stealing Copious Amounts of Marijuana From Passenger Baggage](https://www.reddit.com/r/news/comments/14cy3d1/two_united_airlines_employees_charged_with/)
+- [A Navy base put up a wall to ward off stray bullets. Locals say that&#39;s not enough to solve gun violence.](https://www.reddit.com/r/news/comments/14cxyhu/a_navy_base_put_up_a_wall_to_ward_off_stray/)
+- [Power companies spend millions to fight Maine’s proposed non-profit utility | Maine](https://www.reddit.com/r/news/comments/14cwulk/power_companies_spend_millions_to_fight_maines/)
+- [A 33-year-old man fell 4,000 feet to his death from the Grand Canyon Skywalk in Arizona, authorities say | CNN](https://www.reddit.com/r/news/comments/14cvwva/a_33yearold_man_fell_4000_feet_to_his_death_from/)
 <!-- REDDIT:END -->
 
 
