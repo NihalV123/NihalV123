@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 5 people shot near where Milwaukee&#39;s Juneteenth celebration had just wrapped up Monday](https://www.reddit.com/r/news/comments/14dvyh0/at_least_5_people_shot_near_where_milwaukees/)
+- [Upstate New York Father And Son Accused Of &#39;Gang Assault&#39;](https://www.reddit.com/r/news/comments/14dui6e/upstate_new_york_father_and_son_accused_of_gang/)
+- [Speeding police officer pulled over by another cop in Florida](https://www.reddit.com/r/news/comments/14du1ao/speeding_police_officer_pulled_over_by_another/)
+- [Worker was paid with 91,500 oily pennies, feds say. Now company owes him much more](https://www.reddit.com/r/news/comments/14ds9za/worker_was_paid_with_91500_oily_pennies_feds_say/)
+- [Iron Range man sentenced to 12 years for child sexual abuse](https://www.reddit.com/r/news/comments/14drjnn/iron_range_man_sentenced_to_12_years_for_child/)
 <!-- REDDIT:END -->
 
 
