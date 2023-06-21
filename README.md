@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Extra $6bn in US arms for Ukraine after ‘accounting error’](https://www.reddit.com/r/news/comments/14ewty6/extra_6bn_in_us_arms_for_ukraine_after_accounting/)
+- [U.S. ranks 43rd on gender parity index this year, sliding 16 slots from last year](https://www.reddit.com/r/news/comments/14ewqej/us_ranks_43rd_on_gender_parity_index_this_year/)
+- [‘Banging’ sounds heard in search for missing Titan submersible](https://www.reddit.com/r/news/comments/14evo9v/banging_sounds_heard_in_search_for_missing_titan/)
+- [NASA spacecraft captures image of ghostly lightning on Jupiter](https://www.reddit.com/r/news/comments/14esqrk/nasa_spacecraft_captures_image_of_ghostly/)
+- [Maryland tennis star Francis Tiafoe becomes third Black American to enter men&#39;s top 10](https://www.reddit.com/r/news/comments/14erk3c/maryland_tennis_star_francis_tiafoe_becomes_third/)
 <!-- REDDIT:END -->
 
 
