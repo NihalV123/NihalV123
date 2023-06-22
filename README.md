@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter accused of failing to pay millions in employee bonuses after Musk takeover](https://www.reddit.com/r/news/comments/14fo7vd/twitter_accused_of_failing_to_pay_millions_in/)
+- [Donor bought pricey golf simulator for Ron DeSantis](https://www.reddit.com/r/news/comments/14fnx0t/donor_bought_pricey_golf_simulator_for_ron/)
+- [Christian-owned Texas business shielded from LGBTQ bias claims, court rules](https://www.reddit.com/r/news/comments/14fnn3n/christianowned_texas_business_shielded_from_lgbtq/)
+- [Pregnant woman fatally shot in back by her 2-year-old son, Ohio police say](https://www.reddit.com/r/news/comments/14fmkmg/pregnant_woman_fatally_shot_in_back_by_her/)
+- [Gang slaughtered 46 women at Honduran prison with machetes, guns and flammable liquid, official says](https://www.reddit.com/r/news/comments/14fmjed/gang_slaughtered_46_women_at_honduran_prison_with/)
 <!-- REDDIT:END -->
 
 
