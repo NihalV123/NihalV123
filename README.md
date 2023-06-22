@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canadian confirmed dead in Germany after 2 women pushed from castle viewpoint | CBC News](https://www.reddit.com/r/news/comments/14fsgdi/canadian_confirmed_dead_in_germany_after_2_women/)
+- [Gas explosion kills 31 people in a barbecue restaurant in northwestern China](https://www.reddit.com/r/news/comments/14fqyzl/gas_explosion_kills_31_people_in_a_barbecue/)
+- [Utah school board unanimously reversed its decision to remove the Bible off school shelves after appeals](https://www.reddit.com/r/news/comments/14fpusg/utah_school_board_unanimously_reversed_its/)
+- [Postal worker dies while working in Dallas, as temperatures hit triple digits](https://www.reddit.com/r/news/comments/14fpdsv/postal_worker_dies_while_working_in_dallas_as/)
+- [Twitter accused of failing to pay millions in employee bonuses after Musk takeover](https://www.reddit.com/r/news/comments/14fo7vd/twitter_accused_of_failing_to_pay_millions_in/)
 <!-- REDDIT:END -->
 
 
