@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A union is still pushing to permanently end the threat of delayed paychecks due to a debt default](https://www.reddit.com/r/news/comments/14g0c15/a_union_is_still_pushing_to_permanently_end_the/)
+- [Search intensifies for Titanic sub with only hours of oxygen left](https://www.reddit.com/r/news/comments/14fx1gh/search_intensifies_for_titanic_sub_with_only/)
+- [Elon Musk: Australia threatens to fine Twitter over online hate](https://www.reddit.com/r/news/comments/14fun0w/elon_musk_australia_threatens_to_fine_twitter/)
+- [Canadian confirmed dead in Germany after 2 women pushed from castle viewpoint | CBC News](https://www.reddit.com/r/news/comments/14fsgdi/canadian_confirmed_dead_in_germany_after_2_women/)
+- [Gas explosion kills 31 people in a barbecue restaurant in northwestern China](https://www.reddit.com/r/news/comments/14fqyzl/gas_explosion_kills_31_people_in_a_barbecue/)
 <!-- REDDIT:END -->
 
 
