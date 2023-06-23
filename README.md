@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3M pays $10.3bn to settle water pollution suit over ‘forever chemicals’](https://www.reddit.com/r/news/comments/14giaih/3m_pays_103bn_to_settle_water_pollution_suit_over/)
+- [Guest spends 603 nights at five-star Indian hotel ‘without paying’](https://www.reddit.com/r/news/comments/14gfeo1/guest_spends_603_nights_at_fivestar_indian_hotel/)
+- [Meta to block news on Facebook, Instagram for Canadian users](https://www.reddit.com/r/news/comments/14gebty/meta_to_block_news_on_facebook_instagram_for/)
+- [OceanGate Expeditions believes all 5 people on board the missing submersible are dead](https://www.reddit.com/r/news/comments/14gbm1v/oceangate_expeditions_believes_all_5_people_on/)
+- [After state changes, undocumented TN residents denied reproductive healthcare in clinics](https://www.reddit.com/r/news/comments/14gaoqf/after_state_changes_undocumented_tn_residents/)
 <!-- REDDIT:END -->
 
 
