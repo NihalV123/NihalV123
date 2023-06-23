@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Proud Boy from Aurora gets 37 months in prison for attacking police with flagpole at Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/14gp7h9/former_proud_boy_from_aurora_gets_37_months_in/)
+- [Frozen fruit sold at Walmart, Aldi, Trader Joe’s, Target, Whole Foods recalled over possible listeria contamination](https://www.reddit.com/r/news/comments/14glano/frozen_fruit_sold_at_walmart_aldi_trader_joes/)
+- [Ukraine missile ‘hits’ bridge between Russia-held Kherson and Crimea](https://www.reddit.com/r/news/comments/14gkst8/ukraine_missile_hits_bridge_between_russiaheld/)
+- [Georgia police department under investigation for using photo of a Black man for target practice](https://www.reddit.com/r/news/comments/14gkhli/georgia_police_department_under_investigation_for/)
+- [3M pays $10.3bn to settle water pollution suit over ‘forever chemicals’](https://www.reddit.com/r/news/comments/14giaih/3m_pays_103bn_to_settle_water_pollution_suit_over/)
 <!-- REDDIT:END -->
 
 
