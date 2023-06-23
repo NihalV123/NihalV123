@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Implosion sounds&#39; heard by US Navy - BBC News](https://www.reddit.com/r/news/comments/14gw7g1/implosion_sounds_heard_by_us_navy_bbc_news/)
+- [Starbucks union says workers at more than 150 stores will strike over Pride decor](https://www.reddit.com/r/news/comments/14gw3g2/starbucks_union_says_workers_at_more_than_150/)
+- [2 dead in shooting outside Florida McDonald’s, police say](https://www.reddit.com/r/news/comments/14guvnn/2_dead_in_shooting_outside_florida_mcdonalds/)
+- [Soviet Hydrogen Bomb Creator Dies By Suicide](https://www.reddit.com/r/news/comments/14gqfq2/soviet_hydrogen_bomb_creator_dies_by_suicide/)
+- [Former Proud Boy from Aurora gets 37 months in prison for attacking police with flagpole at Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/14gp7h9/former_proud_boy_from_aurora_gets_37_months_in/)
 <!-- REDDIT:END -->
 
 
