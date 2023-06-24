@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Jersey’s attorney general files civil rights complaints against three school districts alleging discrimination against LGBTQ+ students](https://www.reddit.com/r/news/comments/14hegh5/new_jerseys_attorney_general_files_civil_rights/)
+- [Moscow accuses Wagner head of mutiny as Ukraine prepares main thrust in counteroffensive](https://www.reddit.com/r/news/comments/14he5yr/moscow_accuses_wagner_head_of_mutiny_as_ukraine/)
+- [Wagner leader Prigozhin says his forces have entered Russian city of Rostov facing no resistance](https://www.reddit.com/r/news/comments/14he1ef/wagner_leader_prigozhin_says_his_forces_have/)
+- [Iowa meteorologist Chris Gloninger quits 18-year career after death threat over climate coverage](https://www.reddit.com/r/news/comments/14hdohd/iowa_meteorologist_chris_gloninger_quits_18year/)
+- [Army veteran sentenced to 55 years in prison for road rage shooting death of Muslim man](https://www.reddit.com/r/news/comments/14hckyq/army_veteran_sentenced_to_55_years_in_prison_for/)
 <!-- REDDIT:END -->
 
 
