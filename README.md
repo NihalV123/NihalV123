@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Passenger shot and killed Uber driver she believed was taking her to Mexico, police say](https://www.reddit.com/r/news/comments/14hgjdc/passenger_shot_and_killed_uber_driver_she/)
+- [NHL joins MLB in advising teams to halt wearing &#39;Pride&#39; jerseys](https://www.reddit.com/r/news/comments/14hg8q0/nhl_joins_mlb_in_advising_teams_to_halt_wearing/)
+- [New Jersey’s attorney general files civil rights complaints against three school districts alleging discrimination against LGBTQ+ students](https://www.reddit.com/r/news/comments/14hegh5/new_jerseys_attorney_general_files_civil_rights/)
+- [Wagner leader Prigozhin says his forces have entered Russian city of Rostov facing no resistance](https://www.reddit.com/r/news/comments/14he1ef/wagner_leader_prigozhin_says_his_forces_have/)
+- [US officials release bodycam video of man’s fatal shooting by border agents](https://www.reddit.com/r/news/comments/14hdqkx/us_officials_release_bodycam_video_of_mans_fatal/)
 <!-- REDDIT:END -->
 
 
