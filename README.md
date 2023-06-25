@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina fire chief who pointed gun at teens who turned in his driveway is being sued](https://www.reddit.com/r/news/comments/14ibngc/south_carolina_fire_chief_who_pointed_gun_at/)
+- [Hikers find human remains close to search area for missing actor Julian Sands on Mt. Baldy](https://www.reddit.com/r/news/comments/14ia2re/hikers_find_human_remains_close_to_search_area/)
+- [Mexico City holds mass celebration for same-sex weddings, gender ID changes](https://www.reddit.com/r/news/comments/14i9900/mexico_city_holds_mass_celebration_for_samesex/)
+- [Eviction filings are 50% higher than they were pre-pandemic in some cities as rents rise](https://www.reddit.com/r/news/comments/14i5t2w/eviction_filings_are_50_higher_than_they_were/)
+- [Corporal punishment banned at Louisiana schools without parental consent](https://www.reddit.com/r/news/comments/14i3a8x/corporal_punishment_banned_at_louisiana_schools/)
 <!-- REDDIT:END -->
 
 
