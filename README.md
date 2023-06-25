@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Girlfriend of the dentist who killed his wife on safari sentenced to 17 years](https://www.reddit.com/r/news/comments/14ikca8/girlfriend_of_the_dentist_who_killed_his_wife_on/)
+- [One killed, several injured in roller coaster accident in Sweden](https://www.reddit.com/r/news/comments/14ijwso/one_killed_several_injured_in_roller_coaster/)
+- [U.S. spies learned in mid-June Prigozhin was planning armed action in Russia](https://www.reddit.com/r/news/comments/14ij3hj/us_spies_learned_in_midjune_prigozhin_was/)
+- [Wagner boss to leave Russia as reports say US spy agencies picked up signs of planned uprising days ago](https://www.reddit.com/r/news/comments/14ihev8/wagner_boss_to_leave_russia_as_reports_say_us_spy/)
+- [Russia rebellion: Wagner troops to be absorbed into Russian military as mercenary boss Yevgeny Prigozhin heads to Belarus](https://www.reddit.com/r/news/comments/14ifjvc/russia_rebellion_wagner_troops_to_be_absorbed/)
 <!-- REDDIT:END -->
 
 
