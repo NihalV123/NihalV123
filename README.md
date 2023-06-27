@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Couple celebrating 50th wedding anniversary are stabbed to death](https://www.reddit.com/r/news/comments/14jyakv/couple_celebrating_50th_wedding_anniversary_are/)
+- [Sen. Mark Warner: Prigozhin ‘says he’s in Minsk,’ in a hotel that doesn’t have any windows](https://www.reddit.com/r/news/comments/14jxnvb/sen_mark_warner_prigozhin_says_hes_in_minsk_in_a/)
+- [Salmon, Idaho Man charged with murder after ‘willfully and deliberately’ torturing baby girl, deputies say](https://www.reddit.com/r/news/comments/14jxm20/salmon_idaho_man_charged_with_murder_after/)
+- [Montreal has worst air of any major city as wildfires rage, according to monitor](https://www.reddit.com/r/news/comments/14jvxn0/montreal_has_worst_air_of_any_major_city_as/)
+- [Florida murderer punches his lawyer as he is sentenced to death](https://www.reddit.com/r/news/comments/14jv98b/florida_murderer_punches_his_lawyer_as_he_is/)
 <!-- REDDIT:END -->
 
 
