@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Protesters with Nazi flags gather outside Cobb County Jewish center](https://www.reddit.com/r/news/comments/14k3je9/protesters_with_nazi_flags_gather_outside_cobb/)
+- [Phoenix police arrest man who called officer ‘dumb***’](https://www.reddit.com/r/news/comments/14k1rx9/phoenix_police_arrest_man_who_called_officer_dumb/)
+- [Australia pledges $100m in new military support for Ukraine, including vehicles and ammunition](https://www.reddit.com/r/news/comments/14k184h/australia_pledges_100m_in_new_military_support/)
+- [Malaria cases in Texas and Florida are the first US spread since 2003, CDC says](https://www.reddit.com/r/news/comments/14k11mm/malaria_cases_in_texas_and_florida_are_the_first/)
+- [Olivia Chow elected Toronto&#39;s next mayor in unexpectedly tight race, CBC News projects](https://www.reddit.com/r/news/comments/14jzg7v/olivia_chow_elected_torontos_next_mayor_in/)
 <!-- REDDIT:END -->
 
 
