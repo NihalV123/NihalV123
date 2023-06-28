@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former Ravens QB Ryan Mallett, 35 years old, drowns in Florida](https://www.reddit.com/r/news/comments/14ku59e/former_ravens_qb_ryan_mallett_35_years_old_drowns/)
+- [U.S. Missing Florida children found abandoned at Wisconsin park; 2 arrested](https://www.reddit.com/r/news/comments/14ksv1n/us_missing_florida_children_found_abandoned_at/)
+- [Tourist dies in Jamaica trying to drink all 21 cocktails on bar menu](https://www.reddit.com/r/news/comments/14ksgn2/tourist_dies_in_jamaica_trying_to_drink_all_21/)
+- [Idaho student killings suspect could be executed by firing squad if he is convicted and sentenced to death](https://www.reddit.com/r/news/comments/14ksfrt/idaho_student_killings_suspect_could_be_executed/)
+- [NASCAR Jimmie Johnson’s in-laws found shot to death in Oklahoma](https://www.reddit.com/r/news/comments/14ksfrq/nascar_jimmie_johnsons_inlaws_found_shot_to_death/)
 <!-- REDDIT:END -->
 
 
