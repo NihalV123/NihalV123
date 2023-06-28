@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Department charges 78 people with $2.5 billion in health-care fraud](https://www.reddit.com/r/news/comments/14lfxqs/justice_department_charges_78_people_with_25/)
+- [3-year-old put in jail for potty-training trouble by Daytona Beach Shores police officer](https://www.reddit.com/r/news/comments/14lesne/3yearold_put_in_jail_for_pottytraining_trouble_by/)
+- [Brutal heat wave makes Texas among the hottest places on Earth](https://www.reddit.com/r/news/comments/14le2rb/brutal_heat_wave_makes_texas_among_the_hottest/)
+- [Daniel Penny pleads not guilty in NYC subway chokehold death of Jordan Neely](https://www.reddit.com/r/news/comments/14lccg6/daniel_penny_pleads_not_guilty_in_nyc_subway/)
+- [FBI and SEC respond to complaints about Twitter audio star Mario Nawfal](https://www.reddit.com/r/news/comments/14lcaww/fbi_and_sec_respond_to_complaints_about_twitter/)
 <!-- REDDIT:END -->
 
 
