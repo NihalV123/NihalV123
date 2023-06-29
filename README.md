@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [National Geographic magazine has laid off the last of its staff writers](https://www.reddit.com/r/news/comments/14lv3mn/national_geographic_magazine_has_laid_off_the/)
+- [China on course to hit wind and solar power target five years ahead of time | China](https://www.reddit.com/r/news/comments/14ludy3/china_on_course_to_hit_wind_and_solar_power/)
+- [Anti-cannabis groups sue to overturn New York&#39;s marijuana laws](https://www.reddit.com/r/news/comments/14lu4vl/anticannabis_groups_sue_to_overturn_new_yorks/)
+- [NYC&#39;s ex-school food chief convicted in bribery case tied to icky chicken tenders](https://www.reddit.com/r/news/comments/14lt4uk/nycs_exschool_food_chief_convicted_in_bribery/)
+- [Odds increase that UPS Teamsters will strike as soon as next week - Teamsters demand UPS present last, best, final offer by Friday](https://www.reddit.com/r/news/comments/14lt1n7/odds_increase_that_ups_teamsters_will_strike_as/)
 <!-- REDDIT:END -->
 
 
