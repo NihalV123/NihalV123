@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 charged in insider trading case related to taking Trump media firm public, accused of making $22M](https://www.reddit.com/r/news/comments/14mad50/3_charged_in_insider_trading_case_related_to/)
+- [Sue Johanson, beloved Canadian sex educator, dead at 93](https://www.reddit.com/r/news/comments/14m95xa/sue_johanson_beloved_canadian_sex_educator_dead/)
+- [Suspect in gender class stabbing at Canadian university to be charged with hate crime, official says](https://www.reddit.com/r/news/comments/14m94dc/suspect_in_gender_class_stabbing_at_canadian/)
+- [US State Dept. clears $15B sale of missile defense system for Poland](https://www.reddit.com/r/news/comments/14m8pkv/us_state_dept_clears_15b_sale_of_missile_defense/)
+- [Cleveland woman arrested for impersonating nurse, discharging patients](https://www.reddit.com/r/news/comments/14m8edl/cleveland_woman_arrested_for_impersonating_nurse/)
 <!-- REDDIT:END -->
 
 
