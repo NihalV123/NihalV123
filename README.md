@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal court rules tribal citizen not subject to Tulsa traffic ticket](https://www.reddit.com/r/news/comments/14mjvn3/federal_court_rules_tribal_citizen_not_subject_to/)
+- [Key document may be fake in LGBTQ+ rights case before US supreme court](https://www.reddit.com/r/news/comments/14mipr5/key_document_may_be_fake_in_lgbtq_rights_case/)
+- [Nevada teachers&#39; union launches action to halt public funding for A&#39;s stadium](https://www.reddit.com/r/news/comments/14miahx/nevada_teachers_union_launches_action_to_halt/)
+- [Police say tourist filmed allegedly carving ‘Ivan+Hayley’ on Rome’s Colosseum has been identified](https://www.reddit.com/r/news/comments/14mhtdc/police_say_tourist_filmed_allegedly_carving/)
+- [Rapper Travis Scott will not face criminal charges in Astroworld crowd surge, his lawyer says](https://www.reddit.com/r/news/comments/14mh58w/rapper_travis_scott_will_not_face_criminal/)
 <!-- REDDIT:END -->
 
 
