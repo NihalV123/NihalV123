@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia sheriff gave out deputy badges in exchange for cash bribes, feds say](https://www.reddit.com/r/news/comments/14my3bc/virginia_sheriff_gave_out_deputy_badges_in/)
+- [Iran finally admits its &#39;quantum processor&#39; was in fact not quantum at all](https://www.reddit.com/r/news/comments/14my1xz/iran_finally_admits_its_quantum_processor_was_in/)
+- [Climate activist faces 10 years in jail for a fake letter &#39;canceling&#39; an oil industry conference | CNN](https://www.reddit.com/r/news/comments/14mvlim/climate_activist_faces_10_years_in_jail_for_a/)
+- [US urges appeals court to uphold Ghislaine Maxwell&#39;s sex trafficking conviction](https://www.reddit.com/r/news/comments/14mt5ch/us_urges_appeals_court_to_uphold_ghislaine/)
+- [Mexico acknowledges 112 heat-related deaths so far this year, almost triple the figures in 2022](https://www.reddit.com/r/news/comments/14mn63b/mexico_acknowledges_112_heatrelated_deaths_so_far/)
 <!-- REDDIT:END -->
 
 
