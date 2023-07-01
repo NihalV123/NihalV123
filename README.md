@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elon Musk announces new daily Twitter limitations as thousands of users report problems accessing site](https://www.reddit.com/r/news/comments/14o13dx/elon_musk_announces_new_daily_twitter_limitations/)
+- [Twitter temporarily restricts tweets users can see, Elon Musk announces](https://www.reddit.com/r/news/comments/14o11sh/twitter_temporarily_restricts_tweets_users_can/)
+- [Holocaust memorial in Paris vandalized by rioters](https://www.reddit.com/r/news/comments/14o0su0/holocaust_memorial_in_paris_vandalized_by_rioters/)
+- [At least 51 people killed in road accident in western Kenya, 32 injured, police and Red Cross say](https://www.reddit.com/r/news/comments/14nxffr/at_least_51_people_killed_in_road_accident_in/)
+- [France arrests more than 1,300 people after fourth night of rioting over teen&#39;s killing by police](https://www.reddit.com/r/news/comments/14nwo42/france_arrests_more_than_1300_people_after_fourth/)
 <!-- REDDIT:END -->
 
 
