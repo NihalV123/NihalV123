@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australia legalises psychedelics for mental health](https://www.reddit.com/r/news/comments/14npy40/australia_legalises_psychedelics_for_mental_health/)
+- [‘Quite devastated’: Blind B.C. woman says she was kicked off the bus due to guide dog - BC](https://www.reddit.com/r/news/comments/14nnp04/quite_devastated_blind_bc_woman_says_she_was/)
+- [18 Hasidic Schools Failed to Provide Basic Education, New York City Finds](https://www.reddit.com/r/news/comments/14nmt94/18_hasidic_schools_failed_to_provide_basic/)
+- [Over 800 arrested across France in 3rd night of riots after fatal police shooting of teen](https://www.reddit.com/r/news/comments/14nkafz/over_800_arrested_across_france_in_3rd_night_of/)
+- [France riots: Minister deploys 45,000 police amid riots](https://www.reddit.com/r/news/comments/14nj98e/france_riots_minister_deploys_45000_police_amid/)
 <!-- REDDIT:END -->
 
 
