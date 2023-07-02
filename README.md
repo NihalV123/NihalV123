@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NASA holds public meeting on UFOs ahead of final report](https://www.reddit.com/r/news/comments/14ok83a/nasa_holds_public_meeting_on_ufos_ahead_of_final/)
+- [Baltimore shooting: Two dead and 28 injured in mass casualty event, police say](https://www.reddit.com/r/news/comments/14ok7ia/baltimore_shooting_two_dead_and_28_injured_in/)
+- [No charges filed against &#39;troubled teen&#39; boarding school in the death of Taylor Goodridge](https://www.reddit.com/r/news/comments/14ok30a/no_charges_filed_against_troubled_teen_boarding/)
+- [Mayor says home &#39;rammed&#39; and set on fire as France detains hundreds more protesters](https://www.reddit.com/r/news/comments/14oi3mo/mayor_says_home_rammed_and_set_on_fire_as_france/)
+- [US ‘mom influencer’ guilty of falsely accusing Latino couple of trying to kidnap her children](https://www.reddit.com/r/news/comments/14ohye8/us_mom_influencer_guilty_of_falsely_accusing/)
 <!-- REDDIT:END -->
 
 
