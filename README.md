@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man in Texas dies after a headfirst 40-foot dive into a shallow area of a lake, authorities say | CNN](https://www.reddit.com/r/news/comments/14p1rbv/man_in_texas_dies_after_a_headfirst_40foot_dive/)
+- [Police arrest mother of 7-year-old girl whose body was found decaying in closet](https://www.reddit.com/r/news/comments/14ozrei/police_arrest_mother_of_7yearold_girl_whose_body/)
+- [Drug cartel violence flares in western Mexico after vigilante leader&#39;s killing](https://www.reddit.com/r/news/comments/14oyjc5/drug_cartel_violence_flares_in_western_mexico/)
+- [Explosive devices damage properties in Northeast DC, suspects wanted: Police](https://www.reddit.com/r/news/comments/14oxta2/explosive_devices_damage_properties_in_northeast/)
+- [Two 14-year-olds fall to their deaths while subway surfing one week apart in New York](https://www.reddit.com/r/news/comments/14ossxz/two_14yearolds_fall_to_their_deaths_while_subway/)
 <!-- REDDIT:END -->
 
 
