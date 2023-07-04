@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Radioactive equipment disappears in southern New Mexico](https://www.reddit.com/r/news/comments/14qjn2i/radioactive_equipment_disappears_in_southern_new/)
+- [Estonia becomes first Baltic state to legalise same-sex marriage](https://www.reddit.com/r/news/comments/14qii3q/estonia_becomes_first_baltic_state_to_legalise/)
+- [Interview with Cobb teacher fired over book under Georgia’s ‘divisive concepts’ law](https://www.reddit.com/r/news/comments/14qi9t6/interview_with_cobb_teacher_fired_over_book_under/)
+- [Stranded motorist shot dead by North Carolina trooper he shot after trooper stopped to help him, authorities say](https://www.reddit.com/r/news/comments/14qgzie/stranded_motorist_shot_dead_by_north_carolina/)
+- [Deliveryman given suspended sentence for killing resident over elevator spat](https://www.reddit.com/r/news/comments/14qgswx/deliveryman_given_suspended_sentence_for_killing/)
 <!-- REDDIT:END -->
 
 
