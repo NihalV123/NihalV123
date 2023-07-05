@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Taliban order Afghanistan&#39;s hair and beauty salons to shut](https://www.reddit.com/r/news/comments/14qyiwl/taliban_order_afghanistans_hair_and_beauty_salons/)
+- [Only on ABC13: Neighbors shocked in Rudolph &#39;Rudy&#39; Farias case, say he&#39;s been living with mom in northwest Houston for years](https://www.reddit.com/r/news/comments/14qxqbx/only_on_abc13_neighbors_shocked_in_rudolph_rudy/)
+- [Climate change: July 3rd World&#39;s hottest day since records began](https://www.reddit.com/r/news/comments/14qu2s7/climate_change_july_3rd_worlds_hottest_day_since/)
+- [South Carolina woman killed in apparent alligator attack while walking her dog, police say](https://www.reddit.com/r/news/comments/14qsuhp/south_carolina_woman_killed_in_apparent_alligator/)
+- [Improving soil could keep world within 1.5C heating target, research suggests | Farming](https://www.reddit.com/r/news/comments/14qser0/improving_soil_could_keep_world_within_15c/)
 <!-- REDDIT:END -->
 
 
