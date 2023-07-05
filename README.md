@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Texas shooter in a racist Walmart attack is going to prison. Here&#39;s what to know about the case](https://www.reddit.com/r/news/comments/14rg4ha/the_texas_shooter_in_a_racist_walmart_attack_is/)
+- [Dutch politicians declare Twitter is not suited for emergency communications](https://www.reddit.com/r/news/comments/14rft33/dutch_politicians_declare_twitter_is_not_suited/)
+- [8-year-old victim of prank at Target surprised with shopping spree](https://www.reddit.com/r/news/comments/14repgk/8yearold_victim_of_prank_at_target_surprised_with/)
+- [Roller coaster riders were trapped upside down for hours after mechanical failure](https://www.reddit.com/r/news/comments/14re9l2/roller_coaster_riders_were_trapped_upside_down/)
+- [Poway man accused of hiding mom’s death for 33 years, stealing nearly $1M in benefits](https://www.reddit.com/r/news/comments/14re9hg/poway_man_accused_of_hiding_moms_death_for_33/)
 <!-- REDDIT:END -->
 
 
