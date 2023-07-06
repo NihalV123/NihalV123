@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio man sentenced to life in prison for rape of 10-year-old girl who traveled to Indiana for abortion](https://www.reddit.com/r/news/comments/14rslla/ohio_man_sentenced_to_life_in_prison_for_rape_of/)
+- [Australian firm sues Twitter for $665,000 for not paying bills](https://www.reddit.com/r/news/comments/14rsbof/australian_firm_sues_twitter_for_665000_for_not/)
+- [1 in 4 Americans hadn&#39;t contracted COVID by the end of 2022, CDC estimates](https://www.reddit.com/r/news/comments/14rrtpx/1_in_4_americans_hadnt_contracted_covid_by_the/)
+- [Meta launches Instagram Threads in a direct challenge to Twitter](https://www.reddit.com/r/news/comments/14rqsk2/meta_launches_instagram_threads_in_a_direct/)
+- [Canada man charged with terror over far-right videos](https://www.reddit.com/r/news/comments/14rp0yy/canada_man_charged_with_terror_over_farright/)
 <!-- REDDIT:END -->
 
 
