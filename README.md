@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia: Gov. Youngkin officials quietly pull LGBTQ+ youth resources offline](https://www.reddit.com/r/news/comments/14su7yy/virginia_gov_youngkin_officials_quietly_pull/)
+- [Fort Bliss soldier caught making automatic firearms sentenced to 18 months in prison for not collecting sales tax](https://www.reddit.com/r/news/comments/14st4x8/fort_bliss_soldier_caught_making_automatic/)
+- [Brazil: Amazon deforestation drops 34% in first six months under Lula | Brazil](https://www.reddit.com/r/news/comments/14ssyps/brazil_amazon_deforestation_drops_34_in_first_six/)
+- [Man was not missing for 8 years as mother claimed, Houston police say - Texas teen found after 8 years &quot;missing&quot; discovered to be case of intentional deceit](https://www.reddit.com/r/news/comments/14srwq1/man_was_not_missing_for_8_years_as_mother_claimed/)
+- [It&#39;s unfathomable: Lyft driver killed in DC served 20 years as Army interpreter in Afghanistan, friend says](https://www.reddit.com/r/news/comments/14sqw0n/its_unfathomable_lyft_driver_killed_in_dc_served/)
 <!-- REDDIT:END -->
 
 
