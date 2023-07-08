@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mobile Meth lab discovered at Florida Welcome Center](https://www.reddit.com/r/news/comments/14u8ye0/mobile_meth_lab_discovered_at_florida_welcome/)
+- [Latvia swears in Edgars Rinkevics as EU&#39;s first openly gay president](https://www.reddit.com/r/news/comments/14u7zyw/latvia_swears_in_edgars_rinkevics_as_eus_first/)
+- [Delhi High Court turns down PepsiCo&#39;s appeal against revocation of potato patent](https://www.reddit.com/r/news/comments/14u62x7/delhi_high_court_turns_down_pepsicos_appeal/)
+- [Pennsylvania authorities warn of ‘very dangerous’ inmate escaped from jail](https://www.reddit.com/r/news/comments/14u60xn/pennsylvania_authorities_warn_of_very_dangerous/)
+- [Kyrgyz court allows &#39;matronymics&#39; in a surprise nod to women&#39;s rights](https://www.reddit.com/r/news/comments/14u4ko9/kyrgyz_court_allows_matronymics_in_a_surprise_nod/)
 <!-- REDDIT:END -->
 
 
