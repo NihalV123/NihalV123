@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Andrew Tate loses appeal against house arrest in Romania as human trafficking case continues](https://www.reddit.com/r/news/comments/14tuh1o/andrew_tate_loses_appeal_against_house_arrest_in/)
+- [The housing community that will require ‘patriots’ to fly the US flag](https://www.reddit.com/r/news/comments/14trzne/the_housing_community_that_will_require_patriots/)
+- [Dutch coalition government collapses in migration row](https://www.reddit.com/r/news/comments/14traae/dutch_coalition_government_collapses_in_migration/)
+- [Smuggler Caught With 420 M.2 SSDs Strapped to His Stomach](https://www.reddit.com/r/news/comments/14tr1kg/smuggler_caught_with_420_m2_ssds_strapped_to_his/)
+- [Manson family killer Leslie Van Houten will be paroled, lawyer says, after Gov. Newsom drops fight](https://www.reddit.com/r/news/comments/14tqspw/manson_family_killer_leslie_van_houten_will_be/)
 <!-- REDDIT:END -->
 
 
