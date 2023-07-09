@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas sued over plan to deploy floating barrier on Rio Grande to curb border crossings](https://www.reddit.com/r/news/comments/14ul3yj/texas_sued_over_plan_to_deploy_floating_barrier/)
+- [Suspended Twitter account tracking Elon Musk’s jet moves to Threads](https://www.reddit.com/r/news/comments/14ul3iw/suspended_twitter_account_tracking_elon_musks_jet/)
+- [His dog was gone when he awoke from a coma. A stranger helped reunite them.](https://www.reddit.com/r/news/comments/14uiptk/his_dog_was_gone_when_he_awoke_from_a_coma_a/)
+- [Oklahoma judge dismisses Tulsa race massacre reparations case filed by last known survivors](https://www.reddit.com/r/news/comments/14uio30/oklahoma_judge_dismisses_tulsa_race_massacre/)
+- [BBC presenter accused of paying teen for explicit photos - report](https://www.reddit.com/r/news/comments/14ugkjp/bbc_presenter_accused_of_paying_teen_for_explicit/)
 <!-- REDDIT:END -->
 
 
