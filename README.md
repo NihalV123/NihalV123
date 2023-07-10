@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The FDA is being asked to look into Logan Paul&#39;s energy drink, which has the caffeine of 6 Coke cans](https://www.reddit.com/r/news/comments/14vsn4a/the_fda_is_being_asked_to_look_into_logan_pauls/)
+- [Former US gymnastics doctor Larry Nassar assaulted in prison, sources say](https://www.reddit.com/r/news/comments/14vslio/former_us_gymnastics_doctor_larry_nassar/)
+- [Wagner boss Yevgeny Prigozhin met Russia&#39;s Vladimir Putin after mutiny](https://www.reddit.com/r/news/comments/14vrmdd/wagner_boss_yevgeny_prigozhin_met_russias/)
+- [Guillain-Barré Syndrome: Health emergency declared in Peru](https://www.reddit.com/r/news/comments/14vrkjm/guillainbarré_syndrome_health_emergency_declared/)
+- [&#39;Like a mirror&#39;: Astronomers identify most reflective exoplanet](https://www.reddit.com/r/news/comments/14vrgle/like_a_mirror_astronomers_identify_most/)
 <!-- REDDIT:END -->
 
 
