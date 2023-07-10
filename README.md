@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Accused Philadelphia shooter may have begun his spree nearly two days earlier than police thought](https://www.reddit.com/r/news/comments/14vkcip/accused_philadelphia_shooter_may_have_begun_his/)
+- [Six dead in China kindergarten stabbing](https://www.reddit.com/r/news/comments/14vk28r/six_dead_in_china_kindergarten_stabbing/)
+- [Videos of unconscious boys&#39; rapes found on phone left at restaurant, police say](https://www.reddit.com/r/news/comments/14vf8zz/videos_of_unconscious_boys_rapes_found_on_phone/)
+- [Brazil’s Amazon deforestation drops sharply in first half of 2023 | Environment News](https://www.reddit.com/r/news/comments/14vd3u8/brazils_amazon_deforestation_drops_sharply_in/)
+- [Authorities swoop on Chinese restaurant that challenged customers to eat 108 dumplings | CNN](https://www.reddit.com/r/news/comments/14vcnk5/authorities_swoop_on_chinese_restaurant_that/)
 <!-- REDDIT:END -->
 
 
