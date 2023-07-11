@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox News may face lawsuit over Tucker Carlson’s January 6 conspiracy theory](https://www.reddit.com/r/news/comments/14wn1qc/fox_news_may_face_lawsuit_over_tucker_carlsons/)
+- [EU to drop ban of hazardous chemicals after industry pressure](https://www.reddit.com/r/news/comments/14wm6dh/eu_to_drop_ban_of_hazardous_chemicals_after/)
+- [14-year-old girl missing for 2 weeks found in Marine barracks was ‘sold,’ says aunt](https://www.reddit.com/r/news/comments/14wkmz7/14yearold_girl_missing_for_2_weeks_found_in/)
+- [4 people attacked in 2022 by a US sailor in Japan file suit seeking $156K in damages](https://www.reddit.com/r/news/comments/14wkaqu/4_people_attacked_in_2022_by_a_us_sailor_in_japan/)
+- [MyPillow surplus industrial equipment up for auction online](https://www.reddit.com/r/news/comments/14wgoh5/mypillow_surplus_industrial_equipment_up_for/)
 <!-- REDDIT:END -->
 
 
