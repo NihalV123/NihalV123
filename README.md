@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [United flight to Amsterdam reportedly diverted to Chicago over meal choice](https://www.reddit.com/r/news/comments/14wae6j/united_flight_to_amsterdam_reportedly_diverted_to/)
+- [Strong 6.6 Earthquake Rocks Atlantic Ocean; No Tsunami Threat for Now](https://www.reddit.com/r/news/comments/14w9ztg/strong_66_earthquake_rocks_atlantic_ocean_no/)
+- [Elizabeth Holmes&#39; prison sentence cut by 2 years](https://www.reddit.com/r/news/comments/14w9aax/elizabeth_holmes_prison_sentence_cut_by_2_years/)
+- [James Lewis, prime suspect in unsolved 1982 Tylenol murders case, dies at 76](https://www.reddit.com/r/news/comments/14w6om8/james_lewis_prime_suspect_in_unsolved_1982/)
+- [Japan: Toshodaiji Kondo temple in Nara defaced by Canadian teen](https://www.reddit.com/r/news/comments/14w5qwk/japan_toshodaiji_kondo_temple_in_nara_defaced_by/)
 <!-- REDDIT:END -->
 
 
