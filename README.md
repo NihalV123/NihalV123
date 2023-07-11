@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian military official on Ukraine blacklist shot dead on morning run](https://www.reddit.com/r/news/comments/14wueh5/russian_military_official_on_ukraine_blacklist/)
+- [Judge rejects FTC’s attempt to block Microsoft’s $69 billion Activision deal](https://www.reddit.com/r/news/comments/14wucf4/judge_rejects_ftcs_attempt_to_block_microsofts_69/)
+- [Japan’s top court says government restrictions on transgender employee’s use of restrooms illegal](https://www.reddit.com/r/news/comments/14wtrv9/japans_top_court_says_government_restrictions_on/)
+- [Bank of America fined $150 million for consumer abuses including fake accounts, bogus fees](https://www.reddit.com/r/news/comments/14wtrmg/bank_of_america_fined_150_million_for_consumer/)
+- [Paris to charge SUV drivers higher parking fees to tackle ‘auto-besity’ | Paris](https://www.reddit.com/r/news/comments/14wtcn7/paris_to_charge_suv_drivers_higher_parking_fees/)
 <!-- REDDIT:END -->
 
 
