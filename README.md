@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jan. 6 defendant accused of carrying firearms into Obama&#39;s D.C. neighborhood to be jailed pending trial](https://www.reddit.com/r/news/comments/14xurxc/jan_6_defendant_accused_of_carrying_firearms_into/)
+- [Canada’s Indigenous women forcibly sterilized decades after other rich countries stopped - as recent as 4 years ago](https://www.reddit.com/r/news/comments/14xuehe/canadas_indigenous_women_forcibly_sterilized/)
+- [Tennessee surgeon fatally shot in &#39;targeted attack&#39; by patient in exam room, police say](https://www.reddit.com/r/news/comments/14xsizh/tennessee_surgeon_fatally_shot_in_targeted_attack/)
+- [Lawyers with supreme court business paid Clarence Thomas aide via Venmo](https://www.reddit.com/r/news/comments/14xsij9/lawyers_with_supreme_court_business_paid_clarence/)
+- [Chinese intelligence hacked State Department emails in ‘significant’ breach](https://www.reddit.com/r/news/comments/14xruzk/chinese_intelligence_hacked_state_department/)
 <!-- REDDIT:END -->
 
 
