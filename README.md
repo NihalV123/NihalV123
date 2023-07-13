@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Secret Service concludes cocaine investigation, no suspect identified](https://www.reddit.com/r/news/comments/14ynwlq/secret_service_concludes_cocaine_investigation_no/)
+- [Former Celsius CEO arrested, company agrees to pay $4.7 billion settlement](https://www.reddit.com/r/news/comments/14yna8r/former_celsius_ceo_arrested_company_agrees_to_pay/)
+- [Expanding heat wave leaves more than 112 million under alerts](https://www.reddit.com/r/news/comments/14yliev/expanding_heat_wave_leaves_more_than_112_million/)
+- [FDA approves first over-the-counter birth control pill in the U.S.](https://www.reddit.com/r/news/comments/14ykesh/fda_approves_first_overthecounter_birth_control/)
+- [Mississippi discriminates against Black residents with appointed judges, Justice Department says](https://www.reddit.com/r/news/comments/14yk96v/mississippi_discriminates_against_black_residents/)
 <!-- REDDIT:END -->
 
 
