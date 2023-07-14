@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheriff says baby dies after teen mom put fentanyl in bottle](https://www.reddit.com/r/news/comments/14zlszf/sheriff_says_baby_dies_after_teen_mom_put/)
+- [Florida orange harvest sees worst season since before World War II](https://www.reddit.com/r/news/comments/14zlm1k/florida_orange_harvest_sees_worst_season_since/)
+- [Man sentenced to 7 years in Jan. 6 assaults that forced an officer to retire](https://www.reddit.com/r/news/comments/14zli2w/man_sentenced_to_7_years_in_jan_6_assaults_that/)
+- [Swedish police authorize protest by man who plans to burn Torah, Bible outside Israeli Embassy](https://www.reddit.com/r/news/comments/14zl4re/swedish_police_authorize_protest_by_man_who_plans/)
+- [Stitch in time: France to help pay for clothes to be mended to cut waste | Recycling](https://www.reddit.com/r/news/comments/14zjpt9/stitch_in_time_france_to_help_pay_for_clothes_to/)
 <!-- REDDIT:END -->
 
 
