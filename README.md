@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US slaps sanctions on Sinaloa Cartel fentanyl network](https://www.reddit.com/r/news/comments/14z13yt/us_slaps_sanctions_on_sinaloa_cartel_fentanyl/)
+- [Bear attacks and &quot;severely&quot; injures sheepherder in Colorado](https://www.reddit.com/r/news/comments/14yz3qo/bear_attacks_and_severely_injures_sheepherder_in/)
+- [After Meta hands over DMs, mom pleads guilty to giving daughter abortion pills](https://www.reddit.com/r/news/comments/14yxc7p/after_meta_hands_over_dms_mom_pleads_guilty_to/)
+- [Houston to spend millions to relocate residents living near polluted Union Pacific rail yard](https://www.reddit.com/r/news/comments/14yx1op/houston_to_spend_millions_to_relocate_residents/)
+- [Man decorated home with stolen body parts in bizarre scheme](https://www.reddit.com/r/news/comments/14yvyop/man_decorated_home_with_stolen_body_parts_in/)
 <!-- REDDIT:END -->
 
 
