@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three Decomposed Bodies Found in Colorado Campsite](https://www.reddit.com/r/news/comments/14z56u2/three_decomposed_bodies_found_in_colorado_campsite/)
+- [Scottsdale bans natural grass in front yards of new houses to conserve water amid Arizona&#39;s drought | CNN](https://www.reddit.com/r/news/comments/14z4b3s/scottsdale_bans_natural_grass_in_front_yards_of/)
+- [1 Dead by Hit-and-Run Driver Near National Mall](https://www.reddit.com/r/news/comments/14z2h2w/1_dead_by_hitandrun_driver_near_national_mall/)
+- [US slaps sanctions on Sinaloa Cartel fentanyl network](https://www.reddit.com/r/news/comments/14z13yt/us_slaps_sanctions_on_sinaloa_cartel_fentanyl/)
+- [Lisa Marie Presley&#39;s cause of death revealed](https://www.reddit.com/r/news/comments/14z12is/lisa_marie_presleys_cause_of_death_revealed/)
 <!-- REDDIT:END -->
 
 
