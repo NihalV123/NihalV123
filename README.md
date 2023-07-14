@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indian rocket blasts into space on historic moon mission](https://www.reddit.com/r/news/comments/14ze41g/indian_rocket_blasts_into_space_on_historic_moon/)
+- [Johnson &amp; Johnson sues researchers who linked talc to cancer](https://www.reddit.com/r/news/comments/14zbudg/johnson_johnson_sues_researchers_who_linked_talc/)
+- [US refuses climate reparations for developing nations](https://www.reddit.com/r/news/comments/14z7mji/us_refuses_climate_reparations_for_developing/)
+- [Three Decomposed Bodies Found in Colorado Campsite](https://www.reddit.com/r/news/comments/14z56u2/three_decomposed_bodies_found_in_colorado_campsite/)
+- [Scottsdale bans natural grass in front yards of new houses to conserve water amid Arizona&#39;s drought | CNN](https://www.reddit.com/r/news/comments/14z4b3s/scottsdale_bans_natural_grass_in_front_yards_of/)
 <!-- REDDIT:END -->
 
 
