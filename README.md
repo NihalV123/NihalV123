@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexico surpasses China as top U.S. trade partner](https://www.reddit.com/r/news/comments/1503swq/mexico_surpasses_china_as_top_us_trade_partner/)
+- [Fire, and explosions at Dow Chemical in Plaquemine, LA prompts shelter in place; all accounted for](https://www.reddit.com/r/news/comments/1502p1x/fire_and_explosions_at_dow_chemical_in_plaquemine/)
+- [UPDATE: Three officers shot in South Fargo](https://www.reddit.com/r/news/comments/14zzzj9/update_three_officers_shot_in_south_fargo/)
+- [An Alabama woman is missing after stopping to help a toddler she saw walking on the interstate, police say](https://www.reddit.com/r/news/comments/14zzyee/an_alabama_woman_is_missing_after_stopping_to/)
+- [US west braces for fiercest temperatures yet as ‘supercharged’ heatwave arrives](https://www.reddit.com/r/news/comments/14zzblg/us_west_braces_for_fiercest_temperatures_yet_as/)
 <!-- REDDIT:END -->
 
 
