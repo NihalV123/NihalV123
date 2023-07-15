@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cruise line apologizes after dozens of whales slaughtered in front of passengers](https://www.reddit.com/r/news/comments/150h99r/cruise_line_apologizes_after_dozens_of_whales/)
+- [Toronto police to shut down bar in headquarters after drunk driving crash](https://www.reddit.com/r/news/comments/150gfmo/toronto_police_to_shut_down_bar_in_headquarters/)
+- [Rehabilitated sea turtle released in Florida Keys to join Tour de Turtles](https://www.reddit.com/r/news/comments/150fl39/rehabilitated_sea_turtle_released_in_florida_keys/)
+- [Canada Woos American H-1B Visa Holders Fed Up with U.S. Immigration System](https://www.reddit.com/r/news/comments/150f8yi/canada_woos_american_h1b_visa_holders_fed_up_with/)
+- [Arrest/Investigation Report of the Gilgo Beach Murderer](https://www.reddit.com/r/news/comments/150dy24/arrestinvestigation_report_of_the_gilgo_beach/)
 <!-- REDDIT:END -->
 
 
