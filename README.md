@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Millions in US under warnings as record heat expected to continue next week](https://www.reddit.com/r/news/comments/151c4u4/millions_in_us_under_warnings_as_record_heat/)
+- [Hamas unable to pay salaries in Gaza after Qatari aid delay, officials say](https://www.reddit.com/r/news/comments/1519yay/hamas_unable_to_pay_salaries_in_gaza_after_qatari/)
+- [U.S. district judge rejects Florida voter registration lawsuit](https://www.reddit.com/r/news/comments/1519kif/us_district_judge_rejects_florida_voter/)
+- [Retrieval operation underway after hundreds of drones plunge into Melbourne&#39;s Yarra River](https://www.reddit.com/r/news/comments/1519drx/retrieval_operation_underway_after_hundreds_of/)
+- [First victim killed by Philadelphia mass shooting suspect Kimbrady Carriker 44 hours before shooting spree, officials say](https://www.reddit.com/r/news/comments/1518ct8/first_victim_killed_by_philadelphia_mass_shooting/)
 <!-- REDDIT:END -->
 
 
