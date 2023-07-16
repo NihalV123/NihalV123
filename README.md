@@ -357,11 +357,11 @@ Top 4 most used languages across your repositories:
 ### HASHNODE
 
 <!-- HASHNODE:START -->
-- [Awesome Pub.dev - A curated list of awesome packages for Flutter](https://blog.albertobonacina.com/awesome-pubdev-a-curated-list-of-awesome-packages-for-flutter)
-- [Tips and Tricks for Freelancing](https://blog.albertobonacina.com/tips-and-tricks-for-freelancing)
-- [Semantic Versioning Explained](https://blog.albertobonacina.com/semantic-versioning-explained)
-- [Object-Oriented Programming Principles in Dart](https://blog.albertobonacina.com/object-oriented-programming-principles-in-dart)
-- [Redundancy and Backup. How to secure your honeymoon photos](https://blog.albertobonacina.com/redundancy-and-backup-how-to-secure-your-honeymoon-photos)
+- [Theme and Accent Color switch with Riverpod in Flutter](https://blog.albertobonacina.com/theme-and-accent-color-switch-with-riverpod-in-flutter)
+- [How to properly organize your API EndPoints in Flutter](https://blog.albertobonacina.com/how-to-properly-organize-your-api-endpoints-in-flutter)
+- [ENVied: the best way to handle your environment variables in Flutter](https://blog.albertobonacina.com/envied-the-best-way-to-handle-your-environment-variables-in-flutter)
+- [Change window size on Flutter programmatically](https://blog.albertobonacina.com/change-window-size-on-flutter-programmatically)
+- [The biggest lesson learned this year for the Dev Retro 2022](https://blog.albertobonacina.com/the-biggest-lesson-learned-this-year-for-the-dev-retro-2022)
 <!-- HASHNODE:END -->
 
 ### ANCHOR
