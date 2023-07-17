@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Senators move to require release of US government UFO records](https://www.reddit.com/r/news/comments/151zrgl/senators_move_to_require_release_of_us_government/)
+- [Ukraine war: Two dead after &#39;attack&#39; on Crimea bridge](https://www.reddit.com/r/news/comments/151va53/ukraine_war_two_dead_after_attack_on_crimea_bridge/)
+- [Teachers in England will have to tell parents if children question their gender](https://www.reddit.com/r/news/comments/151u53a/teachers_in_england_will_have_to_tell_parents_if/)
+- [Mystery object: police warn public away from huge cylinder washed up on Australian beach](https://www.reddit.com/r/news/comments/151szdw/mystery_object_police_warn_public_away_from_huge/)
+- [Drought and extreme heat burn through farmers&#39; margin for error — and it&#39;s only July](https://www.reddit.com/r/news/comments/151sxgk/drought_and_extreme_heat_burn_through_farmers/)
 <!-- REDDIT:END -->
 
 
