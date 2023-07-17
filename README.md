@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge strikes down law allowing Tennessee Attorney General to argue certain death penalty cases](https://www.reddit.com/r/news/comments/15285ar/judge_strikes_down_law_allowing_tennessee/)
+- [Sullivan doctor takes plea deal in federal kickback scheme](https://www.reddit.com/r/news/comments/1527da4/sullivan_doctor_takes_plea_deal_in_federal/)
+- [Hollywood plunges into all-out war on the heels of pandemic and a streaming revolution](https://www.reddit.com/r/news/comments/15274eg/hollywood_plunges_into_allout_war_on_the_heels_of/)
+- [Massive search is underway for missing children swept away in suburban Philadelphia flash flood](https://www.reddit.com/r/news/comments/1525sb7/massive_search_is_underway_for_missing_children/)
+- [As heavy drinking rose during the COVID-19 pandemic, deaths and hospitalizations for liver disease also jumped, according to WSU research](https://www.reddit.com/r/news/comments/1525po3/as_heavy_drinking_rose_during_the_covid19/)
 <!-- REDDIT:END -->
 
 
