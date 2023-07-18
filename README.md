@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [16-year-old dies in accident at Mar-Jac Poultry plant](https://www.reddit.com/r/news/comments/1535elo/16yearold_dies_in_accident_at_marjac_poultry_plant/)
+- [COPA&#39;s Chicago police migrant sex investigation unable to find any alleged victim so far](https://www.reddit.com/r/news/comments/15336ew/copas_chicago_police_migrant_sex_investigation/)
+- [A 12-year-old is facing charges for allegedly throwing acid on an 11-year-old girl at a Detroit playground](https://www.reddit.com/r/news/comments/1531m9q/a_12yearold_is_facing_charges_for_allegedly/)
+- [U.S. soldier believed to be in North Korean custody after unauthorized border crossing, officials say](https://www.reddit.com/r/news/comments/15300m0/us_soldier_believed_to_be_in_north_korean_custody/)
+- [Texas leaders condemn order for troopers to push children into Rio Grande](https://www.reddit.com/r/news/comments/152zeo1/texas_leaders_condemn_order_for_troopers_to_push/)
 <!-- REDDIT:END -->
 
 
