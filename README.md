@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Universal Studios trims trees on picket line to deprive strikers of shade](https://www.reddit.com/r/news/comments/152key6/universal_studios_trims_trees_on_picket_line_to/)
+- [Deaths of four Oregon women over three months are linked, authorities say, reversing earlier call](https://www.reddit.com/r/news/comments/152jit1/deaths_of_four_oregon_women_over_three_months_are/)
+- [Vanishing whale&#39;s decline appears worse than previously thought, federal regulators say](https://www.reddit.com/r/news/comments/152gxi2/vanishing_whales_decline_appears_worse_than/)
+- [Iowa judge temporarily halts 6-week abortion law](https://www.reddit.com/r/news/comments/152fsej/iowa_judge_temporarily_halts_6week_abortion_law/)
+- [AAA pulls back from offering insurance in Florida, following Farmers](https://www.reddit.com/r/news/comments/152eysd/aaa_pulls_back_from_offering_insurance_in_florida/)
 <!-- REDDIT:END -->
 
 
