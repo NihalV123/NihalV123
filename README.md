@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman gored by Bison at Yellowstone](https://www.reddit.com/r/news/comments/152woc1/woman_gored_by_bison_at_yellowstone/)
+- [K9 apprehension after semi chase under scrutiny in southern Ohio](https://www.reddit.com/r/news/comments/152whch/k9_apprehension_after_semi_chase_under_scrutiny/)
+- [Investigators feared Gilgo Beach serial killings suspect would try to flee the country, police official says](https://www.reddit.com/r/news/comments/152v827/investigators_feared_gilgo_beach_serial_killings/)
+- [US national held after crossing into N Korea](https://www.reddit.com/r/news/comments/152uxnv/us_national_held_after_crossing_into_n_korea/)
+- [Tesla directors agree to return $735m to settle claims they were grossly overpaid](https://www.reddit.com/r/news/comments/152scyu/tesla_directors_agree_to_return_735m_to_settle/)
 <!-- REDDIT:END -->
 
 
