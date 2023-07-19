@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hundreds of state troopers may have falsified 26000 traffic tickets, audit finds](https://www.reddit.com/r/news/comments/153sy6m/hundreds_of_state_troopers_may_have_falsified/)
+- [A bus carrying 41 migrants from Brownsville, Texas, arrived in Los Angeles Tuesday evening – the fourth such bus to arrive in the city in recent weeks.](https://www.reddit.com/r/news/comments/153sw30/a_bus_carrying_41_migrants_from_brownsville_texas/)
+- [Where the sheriff is king, these women say he coerced them into sex](https://www.reddit.com/r/news/comments/153svik/where_the_sheriff_is_king_these_women_say_he/)
+- [A strong 6.5-magnitude earthquake in the Pacific Ocean shakes Central America](https://www.reddit.com/r/news/comments/153q534/a_strong_65magnitude_earthquake_in_the_pacific/)
+- [Russia launches intense night attacks across Ukraine, targeting southern port city for second night](https://www.reddit.com/r/news/comments/153n6no/russia_launches_intense_night_attacks_across/)
 <!-- REDDIT:END -->
 
 
