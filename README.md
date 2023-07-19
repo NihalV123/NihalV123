@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [J&amp;J must pay $18.8 mln to California cancer patient in baby powder suit](https://www.reddit.com/r/news/comments/153e9ne/jj_must_pay_188_mln_to_california_cancer_patient/)
+- [Striking writers and actors accuse NBCUniversal of blocking picket area](https://www.reddit.com/r/news/comments/153e6qj/striking_writers_and_actors_accuse_nbcuniversal/)
+- [US soldier facing disciplinary action flees into North Korea](https://www.reddit.com/r/news/comments/153drto/us_soldier_facing_disciplinary_action_flees_into/)
+- [In-N-Out bans mask wearing for employees in some states](https://www.reddit.com/r/news/comments/153ddwv/innout_bans_mask_wearing_for_employees_in_some/)
+- [Sixteen people charged in Michigan 2020 false elector scheme | Michigan](https://www.reddit.com/r/news/comments/153da3c/sixteen_people_charged_in_michigan_2020_false/)
 <!-- REDDIT:END -->
 
 
