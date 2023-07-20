@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59](https://www.reddit.com/r/news/comments/154o32e/kevin_mitnick_hacker_and_fugitive_turned_security/)
+- [Florida Woman, 18, arrested after allegedly trying to hire hitman to kill her 3-year-old son, police say](https://www.reddit.com/r/news/comments/154jgzc/florida_woman_18_arrested_after_allegedly_trying/)
+- [Texas prisoners struggle to endure heat wave in facilities without air conditioning](https://www.reddit.com/r/news/comments/154gvne/texas_prisoners_struggle_to_endure_heat_wave_in/)
+- [Women face sexual violence in Manipur, India- video clip surfaces](https://www.reddit.com/r/news/comments/154etci/women_face_sexual_violence_in_manipur_india_video/)
+- [Swedish embassy in Baghdad stormed, set alight over Koran burning](https://www.reddit.com/r/news/comments/154d2xk/swedish_embassy_in_baghdad_stormed_set_alight/)
 <!-- REDDIT:END -->
 
 
