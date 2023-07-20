@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida man, 3 sons convicted of selling bleach as fake COVID-19 cure: &quot;Snake-oil salesmen&quot;](https://www.reddit.com/r/news/comments/154xqrp/florida_man_3_sons_convicted_of_selling_bleach_as/)
+- [Judge: West Virginia can&#39;t require incarcerated atheist to participate in religious programming](https://www.reddit.com/r/news/comments/154vn43/judge_west_virginia_cant_require_incarcerated/)
+- [&#39;Stay indoors&#39;: Escaped wild animal [lionesss] on the loose in Berlin prompts urgent citywide search Helicopters and ground searches are taking place across the area.](https://www.reddit.com/r/news/comments/154veib/stay_indoors_escaped_wild_animal_lionesss_on_the/)
+- [Tornado damages Pfizer plant in North Carolina as scorching heat and floods sock other parts of US](https://www.reddit.com/r/news/comments/154uxah/tornado_damages_pfizer_plant_in_north_carolina_as/)
+- [Disturbing: 25 types of toxic flame retardant found in US breast milk](https://www.reddit.com/r/news/comments/154udx0/disturbing_25_types_of_toxic_flame_retardant/)
 <!-- REDDIT:END -->
 
 
