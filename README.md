@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas prisoners struggle to endure heat wave in facilities without air conditioning](https://www.reddit.com/r/news/comments/154gvne/texas_prisoners_struggle_to_endure_heat_wave_in/)
+- [US heat wave could last into August after breaking over 2,300 records](https://www.reddit.com/r/news/comments/154djp8/us_heat_wave_could_last_into_august_after/)
+- [Canada wants US skilled workers - and they are interested](https://www.reddit.com/r/news/comments/154diw0/canada_wants_us_skilled_workers_and_they_are/)
+- [Swedish embassy in Baghdad stormed, set alight over Koran burning](https://www.reddit.com/r/news/comments/154d2xk/swedish_embassy_in_baghdad_stormed_set_alight/)
+- [Pooping only every 3 or more days linked with cognitive decline, research finds](https://www.reddit.com/r/news/comments/154cmc6/pooping_only_every_3_or_more_days_linked_with/)
 <!-- REDDIT:END -->
 
 
