@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Sending Marines, More Warships to Middle East Over Iranian Threats](https://www.reddit.com/r/news/comments/155fzw5/us_sending_marines_more_warships_to_middle_east/)
+- [A teachers union says it’s fed up with social media’s impact on students](https://www.reddit.com/r/news/comments/155fk49/a_teachers_union_says_its_fed_up_with_social/)
+- [“Cockatubes” bring critically endangered black cockatoos back from the brink](https://www.reddit.com/r/news/comments/155ebbj/cockatubes_bring_critically_endangered_black/)
+- [Commanders&#39; Dan Snyder fined $60 million for sexually harassing employee, financial improprieties](https://www.reddit.com/r/news/comments/155cen6/commanders_dan_snyder_fined_60_million_for/)
+- [Testing finds toxic chemical &lpar;dioxin&rpar; levels near Ohio derailment site substantially higher than samples in neighboring towns](https://www.reddit.com/r/news/comments/155alwn/testing_finds_toxic_chemical_dioxin_levels_near/)
 <!-- REDDIT:END -->
 
 
