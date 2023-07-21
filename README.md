@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Thousands of authors demand payment from AI companies for use of copyrighted works](https://www.reddit.com/r/news/comments/1554dml/thousands_of_authors_demand_payment_from_ai/)
+- [New York to pay $13.7m to George Floyd protesters arrested or beaten by police](https://www.reddit.com/r/news/comments/1551yg1/new_york_to_pay_137m_to_george_floyd_protesters/)
+- [Texas worker accused of being on drugs was actually dying of heatstroke](https://www.reddit.com/r/news/comments/154zoqd/texas_worker_accused_of_being_on_drugs_was/)
+- [University of Minnesota no longer considering applicants on basis of race, legacy status](https://www.reddit.com/r/news/comments/154zjch/university_of_minnesota_no_longer_considering/)
+- [&#39;Strikingly warm&#39; ocean heat wave off Florida coasts could decimate corals, other marine life, experts say - ABC News](https://www.reddit.com/r/news/comments/154z1zg/strikingly_warm_ocean_heat_wave_off_florida/)
 <!-- REDDIT:END -->
 
 
