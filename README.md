@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Testing finds toxic chemical &lpar;dioxin&rpar; levels near Ohio derailment site substantially higher than samples in neighboring towns](https://www.reddit.com/r/news/comments/155alwn/testing_finds_toxic_chemical_dioxin_levels_near/)
+- [26 Year Old Man Who Posed as Lincoln High School Student Accused of Sex Crimes](https://www.reddit.com/r/news/comments/15593ha/26_year_old_man_who_posed_as_lincoln_high_school/)
+- [North Korea fails to answer entreaties about US soldier who crossed border - Travis King had finished prison term in South Korea for assault and was supposed to be returning to Texas](https://www.reddit.com/r/news/comments/1556zye/north_korea_fails_to_answer_entreaties_about_us/)
+- [Flying in Europe up to 30 times cheaper than train, says Greenpeace | Climate crisis](https://www.reddit.com/r/news/comments/1555xt0/flying_in_europe_up_to_30_times_cheaper_than/)
+- [Thousands of authors demand payment from AI companies for use of copyrighted works](https://www.reddit.com/r/news/comments/1554dml/thousands_of_authors_demand_payment_from_ai/)
 <!-- REDDIT:END -->
 
 
