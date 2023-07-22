@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama lawmakers refuse to create 2nd majority-Black congressional district](https://www.reddit.com/r/news/comments/1565797/alabama_lawmakers_refuse_to_create_2nd/)
+- [Judge finds forensic scientist Henry Lee liable for fabricating evidence in a murder case](https://www.reddit.com/r/news/comments/15656rc/judge_finds_forensic_scientist_henry_lee_liable/)
+- [Italy starts removing lesbian mothers&#39; names from children&#39;s birth certificates | CNN](https://www.reddit.com/r/news/comments/1564p5d/italy_starts_removing_lesbian_mothers_names_from/)
+- [Chino Valley, CA school district votes in favor of controversial gender identification policy](https://www.reddit.com/r/news/comments/1563lvv/chino_valley_ca_school_district_votes_in_favor_of/)
+- [The sea otter harassing surfers off the California coast eludes capture as her fan club grows](https://www.reddit.com/r/news/comments/155zp24/the_sea_otter_harassing_surfers_off_the/)
 <!-- REDDIT:END -->
 
 
