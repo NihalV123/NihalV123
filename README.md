@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Court strikes down limits on filming of police in Arizona](https://www.reddit.com/r/news/comments/1570899/court_strikes_down_limits_on_filming_of_police_in/)
+- [Black man who says he was elected mayor of Alabama town alleges that White leaders are keeping him from position](https://www.reddit.com/r/news/comments/156zpff/black_man_who_says_he_was_elected_mayor_of/)
+- [Four killed after hot water pipe bursts in Moscow shopping mall | Russia](https://www.reddit.com/r/news/comments/156z8jf/four_killed_after_hot_water_pipe_bursts_in_moscow/)
+- [Scientists develop self-healing solar panels that can reverse the effects of radiation damage](https://www.reddit.com/r/news/comments/156yyi2/scientists_develop_selfhealing_solar_panels_that/)
+- [Nova Scotia floods cause &#39;unimaginable&#39; damage; four people missing](https://www.reddit.com/r/news/comments/156wv29/nova_scotia_floods_cause_unimaginable_damage_four/)
 <!-- REDDIT:END -->
 
 
