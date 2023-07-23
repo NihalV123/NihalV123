@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California school board adopts LGBTQ+ curriculum after Newsom’s $1.5m threat](https://www.reddit.com/r/news/comments/1575hnm/california_school_board_adopts_lgbtq_curriculum/)
+- [Massive protests take place against mob assaults on women in India&#39;s remote northeastern state](https://www.reddit.com/r/news/comments/15751ov/massive_protests_take_place_against_mob_assaults/)
+- [Double murder trial of rapper YNW Melly ends in mistrial after jury deadlocks; retrial likely](https://www.reddit.com/r/news/comments/1571bp6/double_murder_trial_of_rapper_ynw_melly_ends_in/)
+- [Court strikes down limits on filming of police in Arizona](https://www.reddit.com/r/news/comments/1570899/court_strikes_down_limits_on_filming_of_police_in/)
+- [Black man who says he was elected mayor of Alabama town alleges that White leaders are keeping him from position](https://www.reddit.com/r/news/comments/156zpff/black_man_who_says_he_was_elected_mayor_of/)
 <!-- REDDIT:END -->
 
 
