@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;A Detroit cop faced firing for Greektown punch—until Eastpointe gave him a badge&#39;](https://www.reddit.com/r/news/comments/157keyq/a_detroit_cop_faced_firing_for_greektown/)
+- [&#39;He hit me so hard’: Police records reveal staff assaulting students at Queen Creek school](https://www.reddit.com/r/news/comments/157ke6f/he_hit_me_so_hard_police_records_reveal_staff/)
+- [The Kansas Highway Patrol’s ‘Two-Step’ tactic tramples motorists’ rights, a judge rules](https://www.reddit.com/r/news/comments/157jxmi/the_kansas_highway_patrols_twostep_tactic/)
+- [Police narrow search for Pa. infant lost in flash flood, after 2-year-old sister’s body found](https://www.reddit.com/r/news/comments/157ivo9/police_narrow_search_for_pa_infant_lost_in_flash/)
+- [Ukraine war: Russian strikes on Odesa damage Orthodox cathedral](https://www.reddit.com/r/news/comments/157itb0/ukraine_war_russian_strikes_on_odesa_damage/)
 <!-- REDDIT:END -->
 
 
