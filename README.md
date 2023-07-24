@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio police officer lets K9 attack Black suspect who was surrendering with hands up, reports say](https://www.reddit.com/r/news/comments/1588yom/ohio_police_officer_lets_k9_attack_black_suspect/)
+- [Poland to launch scheme for “de-concreting” and regreening small towns](https://www.reddit.com/r/news/comments/1588s4j/poland_to_launch_scheme_for_deconcreting_and/)
+- [Elon Musk changes Twitter logo from blue bird to white X](https://www.reddit.com/r/news/comments/1588k90/elon_musk_changes_twitter_logo_from_blue_bird_to/)
+- [Greta Thunberg is appearing in a Swedish court on a charge of disobeying police at a climate protest](https://www.reddit.com/r/news/comments/15880zv/greta_thunberg_is_appearing_in_a_swedish_court_on/)
+- [School gym roof collapses in China, killing 11 | China](https://www.reddit.com/r/news/comments/1585quk/school_gym_roof_collapses_in_china_killing_11/)
 <!-- REDDIT:END -->
 
 
