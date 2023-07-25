@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter Turning Into X Is Set to Kill Billions in Brand Value](https://www.reddit.com/r/news/comments/159fuzo/twitter_turning_into_x_is_set_to_kill_billions_in/)
+- [BBC apologizes for asking Morocco soccer captain if teammates are lesbians](https://www.reddit.com/r/news/comments/159f1x5/bbc_apologizes_for_asking_morocco_soccer_captain/)
+- [It’s so hot in Arizona, doctors are treating a spike of patients who were burned by falling on the ground](https://www.reddit.com/r/news/comments/159dtf5/its_so_hot_in_arizona_doctors_are_treating_a/)
+- [A fixer-upper in Georgetown is on sale for $50,000. It’s a wall.](https://www.reddit.com/r/news/comments/159dgo6/a_fixerupper_in_georgetown_is_on_sale_for_50000/)
+- [DeSantis uninjured after being involved in car accident Tuesday, campaign says | CNN Politics](https://www.reddit.com/r/news/comments/159dfkx/desantis_uninjured_after_being_involved_in_car/)
 <!-- REDDIT:END -->
 
 
