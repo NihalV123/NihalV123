@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dwayne Johnson makes &#39;historic&#39; donation to charity helping striking actors](https://www.reddit.com/r/news/comments/1596cxj/dwayne_johnson_makes_historic_donation_to_charity/)
+- [US Capitol rioter who beat officer with flagpole sentenced](https://www.reddit.com/r/news/comments/1596aq1/us_capitol_rioter_who_beat_officer_with_flagpole/)
+- [RIP Julian Sands: Room with a View actor&#39;s final cause of death is undetermined](https://www.reddit.com/r/news/comments/15955xr/rip_julian_sands_room_with_a_view_actors_final/)
+- [Paris to bring back swimming in Seine after 100 years](https://www.reddit.com/r/news/comments/158yw3i/paris_to_bring_back_swimming_in_seine_after_100/)
+- [Over 90 prison guards are being held hostage by inmates across five different prisons in Ecuador](https://www.reddit.com/r/news/comments/158ug2o/over_90_prison_guards_are_being_held_hostage_by/)
 <!-- REDDIT:END -->
 
 
