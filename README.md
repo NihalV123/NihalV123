@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Patients sue Vanderbilt for releasing transgender clinic records to Tennessee AG](https://www.reddit.com/r/news/comments/15a3pju/patients_sue_vanderbilt_for_releasing_transgender/)
+- [Transgender patients sue the hospital that provided their records to Tennessee&#39;s attorney general](https://www.reddit.com/r/news/comments/159xdy6/transgender_patients_sue_the_hospital_that/)
+- [Sea lions charge at beachgoers in San Diego](https://www.reddit.com/r/news/comments/159x2ns/sea_lions_charge_at_beachgoers_in_san_diego/)
+- [Triple-digit ocean temps in Florida could be a global record](https://www.reddit.com/r/news/comments/159w1g8/tripledigit_ocean_temps_in_florida_could_be_a/)
+- [Indonesia blocks Musk’s X.com under curbs on porn, gambling](https://www.reddit.com/r/news/comments/159uk5o/indonesia_blocks_musks_xcom_under_curbs_on_porn/)
 <!-- REDDIT:END -->
 
 
