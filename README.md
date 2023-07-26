@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sinead O&#39;Connor dies aged 56](https://www.reddit.com/r/news/comments/15acjsj/sinead_oconnor_dies_aged_56/)
+- [Exclusive: &#39;Shameful and unethical.&#39; Heineken, Unilever and Oreo maker Mondelez accused of breaking promises to leave Russia | CNN Business](https://www.reddit.com/r/news/comments/15ac72i/exclusive_shameful_and_unethical_heineken/)
+- [Major automakers unite to build electric vehicle charging network they say will rival Tesla’s](https://www.reddit.com/r/news/comments/15abrni/major_automakers_unite_to_build_electric_vehicle/)
+- [Hunter Biden plea deal on tax charges falls through after judge expresses concern about agreement](https://www.reddit.com/r/news/comments/15a9rlm/hunter_biden_plea_deal_on_tax_charges_falls/)
+- [Deadly Mediterranean wildfires kill more than 40](https://www.reddit.com/r/news/comments/15a8rc4/deadly_mediterranean_wildfires_kill_more_than_40/)
 <!-- REDDIT:END -->
 
 
