@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Triple-digit ocean temps in Florida could be a global record](https://www.reddit.com/r/news/comments/159w1g8/tripledigit_ocean_temps_in_florida_could_be_a/)
+- [Indonesia blocks Musk’s X.com under curbs on porn, gambling](https://www.reddit.com/r/news/comments/159uk5o/indonesia_blocks_musks_xcom_under_curbs_on_porn/)
+- [British billionaire Joe Lewis indicted on insider trading charges](https://www.reddit.com/r/news/comments/159t3l4/british_billionaire_joe_lewis_indicted_on_insider/)
+- [Man sentenced to 5 years in ‘We Build the Wall’ fraud case](https://www.reddit.com/r/news/comments/159sx6e/man_sentenced_to_5_years_in_we_build_the_wall/)
+- [Decades in prison for 3 sentenced in North Dakota fentanyl trafficking probe](https://www.reddit.com/r/news/comments/159sp46/decades_in_prison_for_3_sentenced_in_north_dakota/)
 <!-- REDDIT:END -->
 
 
