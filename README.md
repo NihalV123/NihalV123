@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Saguaro cacti collapsing in Arizona extreme heat, scientist says](https://www.reddit.com/r/news/comments/15anvaf/saguaro_cacti_collapsing_in_arizona_extreme_heat/)
+- [European Union to require U.S. travelers with passports to fill out visa application](https://www.reddit.com/r/news/comments/15amssc/european_union_to_require_us_travelers_with/)
+- [Mississippi teen&#39;s death in poultry plant shows child labor remains a problem, feds say](https://www.reddit.com/r/news/comments/15aloll/mississippi_teens_death_in_poultry_plant_shows/)
+- [Gynecologist who molested 245 of his patients sentenced](https://www.reddit.com/r/news/comments/15ako2m/gynecologist_who_molested_245_of_his_patients/)
+- [12 people, including 9 civilians and 3 firefighters, suffer non-life threatening injuries after New York City crane collapse, FDNY says](https://www.reddit.com/r/news/comments/15akbo3/12_people_including_9_civilians_and_3/)
 <!-- REDDIT:END -->
 
 
