@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [11-year-old Florida girl arrested after prank-texting 911 to say her friend was kidnapped as part of a YouTube challenge](https://www.reddit.com/r/news/comments/15b8cyi/11yearold_florida_girl_arrested_after/)
+- [911 callers say it looked like WPD officer intentionally struck pedestrian](https://www.reddit.com/r/news/comments/15b7ncw/911_callers_say_it_looked_like_wpd_officer/)
+- [Justice Dept announces broad investigation of Memphis police practices after Tyre Nichols death](https://www.reddit.com/r/news/comments/15b7ick/justice_dept_announces_broad_investigation_of/)
+- [US grid operator PJM declares level one emergency amid scorching heat](https://www.reddit.com/r/news/comments/15b6bjd/us_grid_operator_pjm_declares_level_one_emergency/)
+- [More than 170m Americans under heat alerts as heatwave expands](https://www.reddit.com/r/news/comments/15b63jf/more_than_170m_americans_under_heat_alerts_as/)
 <!-- REDDIT:END -->
 
 
