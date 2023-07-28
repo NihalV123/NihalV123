@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man charged in &#39;horrific&#39; assault on 88-year-old Asian American woman had prior hate crime charges dropped in plea deal](https://www.reddit.com/r/news/comments/15c3yf2/man_charged_in_horrific_assault_on_88yearold/)
+- [Biden signs executive order moving prosecution of military sexual assault outside chain of command](https://www.reddit.com/r/news/comments/15c26w5/biden_signs_executive_order_moving_prosecution_of/)
+- [Florida woman sentenced to 4 years in romance scam that stole Holocaust survivor’s savings](https://www.reddit.com/r/news/comments/15c20wu/florida_woman_sentenced_to_4_years_in_romance/)
+- [Alaska asks Supreme Court to strike down rejection of a proposed copper, gold mine](https://www.reddit.com/r/news/comments/15c1dnm/alaska_asks_supreme_court_to_strike_down/)
+- [Well-known church pastor Tommie Jackson is struck and killed by police officer responding to a call in Stamford, Connecticut](https://www.reddit.com/r/news/comments/15bz437/wellknown_church_pastor_tommie_jackson_is_struck/)
 <!-- REDDIT:END -->
 
 
