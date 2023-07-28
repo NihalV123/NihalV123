@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [False claims that heatwave is bogus spread online](https://www.reddit.com/r/news/comments/15bv6kt/false_claims_that_heatwave_is_bogus_spread_online/)
+- [Teen was sexually abused at therapeutic boarding school, lawsuit says as parents advocate oversight](https://www.reddit.com/r/news/comments/15bo53q/teen_was_sexually_abused_at_therapeutic_boarding/)
+- [The Eagles announce the death of founding member Randy Meisner at 77 | CNN](https://www.reddit.com/r/news/comments/15bj42m/the_eagles_announce_the_death_of_founding_member/)
+- [Texas church firebombed weeks after visit from anti-LGBTQ YouTuber](https://www.reddit.com/r/news/comments/15bgy1x/texas_church_firebombed_weeks_after_visit_from/)
+- [Twitter under fire for reinstating account that posted child sex abuse](https://www.reddit.com/r/news/comments/15bfv70/twitter_under_fire_for_reinstating_account_that/)
 <!-- REDDIT:END -->
 
 
