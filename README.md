@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colombian president&#39;s son arrested on money laundering charges](https://www.reddit.com/r/news/comments/15cxqta/colombian_presidents_son_arrested_on_money/)
+- [Bear takes dip in Burbank swimming pool amid LA heatwave](https://www.reddit.com/r/news/comments/15cw44r/bear_takes_dip_in_burbank_swimming_pool_amid_la/)
+- [Lost leg: Zapata man sues as deputies&#39; takedown causes amputation](https://www.reddit.com/r/news/comments/15cvjqk/lost_leg_zapata_man_sues_as_deputies_takedown/)
+- [Iran sex tape scandal: Government says no prior knowledge of alleged behaviour](https://www.reddit.com/r/news/comments/15cux3i/iran_sex_tape_scandal_government_says_no_prior/)
+- [Boston Hts. Police Chief arrested in Key West for beating homeless man ‘for no apparent reason,&#39; police say](https://www.reddit.com/r/news/comments/15ctxcu/boston_hts_police_chief_arrested_in_key_west_for/)
 <!-- REDDIT:END -->
 
 
