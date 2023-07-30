@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows Frisco, Texas, police drawing guns on family during &#39;high risk&#39; traffic stop](https://www.reddit.com/r/news/comments/15drjne/video_shows_frisco_texas_police_drawing_guns_on/)
+- [State says action taken to shut down Seattle encampment that exploded is &#39;extremely rare&#39;](https://www.reddit.com/r/news/comments/15dprnv/state_says_action_taken_to_shut_down_seattle/)
+- [Denver plans to convert 194-unit, $26M hotel into city’s next homeless shelter](https://www.reddit.com/r/news/comments/15dodp1/denver_plans_to_convert_194unit_26m_hotel_into/)
+- [A bomb at a political rally in northwest Pakistan kills at least 40 people and wounds more than 150](https://www.reddit.com/r/news/comments/15do2vb/a_bomb_at_a_political_rally_in_northwest_pakistan/)
+- [Taliban burn musical instruments in Afghanistan&#39;s Herat province; local officials warn that listening to and playing music are illegal](https://www.reddit.com/r/news/comments/15do15p/taliban_burn_musical_instruments_in_afghanistans/)
 <!-- REDDIT:END -->
 
 
