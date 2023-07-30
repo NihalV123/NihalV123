@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Manatee dies after ‘high-intensity sexual behavior&#39; with brother at Florida aquarium](https://www.reddit.com/r/news/comments/15d6jal/manatee_dies_after_highintensity_sexual_behavior/)
+- [Escaped inmate from New Hampshire ID&#39;d as armed man shot, killed by police in Miami Beach](https://www.reddit.com/r/news/comments/15d5v8o/escaped_inmate_from_new_hampshire_idd_as_armed/)
+- [30 days over 110 F in Phoenix. But expected monsoon rains could cool historically hot Southwest](https://www.reddit.com/r/news/comments/15d5188/30_days_over_110_f_in_phoenix_but_expected/)
+- [Florida judge rules against Disney in feud with DeSantis](https://www.reddit.com/r/news/comments/15d4ut9/florida_judge_rules_against_disney_in_feud_with/)
+- [Judge dismisses Donald Trump&#39;s &#39;Big Lie&#39; lawsuit against CNN](https://www.reddit.com/r/news/comments/15d4kf7/judge_dismisses_donald_trumps_big_lie_lawsuit/)
 <!-- REDDIT:END -->
 
 
