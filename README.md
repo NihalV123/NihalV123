@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Eight dogs on way to K9 training facility die from heat-related illness after truck&#39;s AC unit fails](https://www.reddit.com/r/news/comments/15djgfb/eight_dogs_on_way_to_k9_training_facility_die/)
+- [US announces $345 million military aid package for Taiwan](https://www.reddit.com/r/news/comments/15djcni/us_announces_345_million_military_aid_package_for/)
+- [Moscow attacked with drones](https://www.reddit.com/r/news/comments/15dfr6g/moscow_attacked_with_drones/)
+- [Man sentenced to 30 years to life in 1991 cold-case murder of Ohio woman](https://www.reddit.com/r/news/comments/15de9ia/man_sentenced_to_30_years_to_life_in_1991/)
+- [Judge blocks Arkansas law allowing librarians to be criminally charged over ‘harmful’ materials](https://www.reddit.com/r/news/comments/15dapmv/judge_blocks_arkansas_law_allowing_librarians_to/)
 <!-- REDDIT:END -->
 
 
