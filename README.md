@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitter neighbours complain of lit-up ‘X’ sign working at high intensity](https://www.reddit.com/r/news/comments/15e7k8j/twitter_neighbours_complain_of_litup_x_sign/)
+- [CDC detects coronavirus, HIV, hepatitis and herpes at unlicensed California lab with ties to mysterious Chinese addresses](https://www.reddit.com/r/news/comments/15e5u1b/cdc_detects_coronavirus_hiv_hepatitis_and_herpes/)
+- [Six migrant workers struck by SUV in intentional act, N.C. authorities say](https://www.reddit.com/r/news/comments/15e521d/six_migrant_workers_struck_by_suv_in_intentional/)
+- [No cashiers: Kroger location converts to entirely self-checkout](https://www.reddit.com/r/news/comments/15e1z2n/no_cashiers_kroger_location_converts_to_entirely/)
+- [Culture Ministry: Work begins to replace Soviet symbols on Motherland Monument.](https://www.reddit.com/r/news/comments/15e1szy/culture_ministry_work_begins_to_replace_soviet/)
 <!-- REDDIT:END -->
 
 
