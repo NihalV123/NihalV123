@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We’ve made a mistake’: Frisco police mistakenly pull over family headed to a basketball tournament with guns drawn](https://www.reddit.com/r/news/comments/15eeodm/weve_made_a_mistake_frisco_police_mistakenly_pull/)
+- [Georgia resident dies from rare brain-eating amoeba](https://www.reddit.com/r/news/comments/15edyvm/georgia_resident_dies_from_rare_braineating_amoeba/)
+- [Mass shooting at Muncie, Indiana street party leaves one dead, multiple people wounded, police say](https://www.reddit.com/r/news/comments/15edxzb/mass_shooting_at_muncie_indiana_street_party/)
+- [99-year old trucking company Yellow shuts down, putting 30,000 out of work | CNN Business](https://www.reddit.com/r/news/comments/15edmp1/99year_old_trucking_company_yellow_shuts_down/)
+- [Law restricting utensils in food deliveries goes into effect Monday](https://www.reddit.com/r/news/comments/15ec0dz/law_restricting_utensils_in_food_deliveries_goes/)
 <!-- REDDIT:END -->
 
 
