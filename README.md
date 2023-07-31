@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DOJ building case against Live Nation &amp; Ticketmaster](https://www.reddit.com/r/news/comments/15en5ut/doj_building_case_against_live_nation_ticketmaster/)
+- [First-ever female manager at Walmart retires after 48 years working in Missouri](https://www.reddit.com/r/news/comments/15elx0m/firstever_female_manager_at_walmart_retires_after/)
+- [Paul Reubens, actor best known as Pee-wee Herman, dies at 70](https://www.reddit.com/r/news/comments/15elrn7/paul_reubens_actor_best_known_as_peewee_herman/)
+- [French climber dies in suspected fall during ‘stunt’ at Hong Kong high-rise](https://www.reddit.com/r/news/comments/15elmcs/french_climber_dies_in_suspected_fall_during/)
+- [Thousands take to streets in Gaza in rare public display of discontent with Hamas](https://www.reddit.com/r/news/comments/15el804/thousands_take_to_streets_in_gaza_in_rare_public/)
 <!-- REDDIT:END -->
 
 
