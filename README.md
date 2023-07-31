@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Thousands of Revolutionary War stories are waiting to be told. A new project asks the public to help uncover them](https://www.reddit.com/r/news/comments/15e017m/thousands_of_revolutionary_war_stories_are/)
+- [ECOWAS gives Nigerien junta one week to cede power, threatens use of force](https://www.reddit.com/r/news/comments/15dzxst/ecowas_gives_nigerien_junta_one_week_to_cede/)
+- [Doctors increasingly discourage vaping amid mounting health concerns](https://www.reddit.com/r/news/comments/15dzwx9/doctors_increasingly_discourage_vaping_amid/)
+- [Helicopter crashes near I-70 in Ohio, killing pilot and causing minor accidents](https://www.reddit.com/r/news/comments/15dzp47/helicopter_crashes_near_i70_in_ohio_killing_pilot/)
+- [‘I’ve never seen anything like this’: Illegal medical lab discovered in Reedley](https://www.reddit.com/r/news/comments/15dzowx/ive_never_seen_anything_like_this_illegal_medical/)
 <!-- REDDIT:END -->
 
 
