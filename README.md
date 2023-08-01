@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawsuit seeks to block first publicly-funded religious school in US](https://www.reddit.com/r/news/comments/15evdkd/lawsuit_seeks_to_block_first_publiclyfunded/)
+- [Angus Cloud, ‘Euphoria’ star, dead at 25](https://www.reddit.com/r/news/comments/15etoyk/angus_cloud_euphoria_star_dead_at_25/)
+- [More than 50m Americans under alert as heatwave persists](https://www.reddit.com/r/news/comments/15erccr/more_than_50m_americans_under_alert_as_heatwave/)
+- [Biden has decided to keep Space Command in Colorado, rejecting move to Alabama](https://www.reddit.com/r/news/comments/15eqxa6/biden_has_decided_to_keep_space_command_in/)
+- [Body camera footage shows Texas family held at gunpoint after police typo IDs car as stolen](https://www.reddit.com/r/news/comments/15ep7az/body_camera_footage_shows_texas_family_held_at/)
 <!-- REDDIT:END -->
 
 
