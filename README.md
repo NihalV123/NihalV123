@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WWE boss Vince McMahon hit with federal grand jury subpoena and search warrant](https://www.reddit.com/r/news/comments/15gfm2m/wwe_boss_vince_mcmahon_hit_with_federal_grand/)
+- [Wisconsin lawsuit asks new liberal-controlled Supreme Court to toss Republican-drawn maps](https://www.reddit.com/r/news/comments/15geyyy/wisconsin_lawsuit_asks_new_liberalcontrolled/)
+- [India&#39;s rice export ban could trigger a global food crisis](https://www.reddit.com/r/news/comments/15ge0pd/indias_rice_export_ban_could_trigger_a_global/)
+- [Brazil police raids leave at least 43 people dead](https://www.reddit.com/r/news/comments/15gddf4/brazil_police_raids_leave_at_least_43_people_dead/)
+- [The Pittsburgh synagogue gunman will be sentenced to death for the nation’s worst antisemitic attack](https://www.reddit.com/r/news/comments/15gd9kr/the_pittsburgh_synagogue_gunman_will_be_sentenced/)
 <!-- REDDIT:END -->
 
 
