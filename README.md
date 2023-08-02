@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman accused of killing bride in DUI golf cart crash must remain in custody, S.C. judge orders](https://www.reddit.com/r/news/comments/15g6qqd/woman_accused_of_killing_bride_in_dui_golf_cart/)
+- [Progress made against massive California-Nevada wildfire but flames may burn iconic Joshua trees](https://www.reddit.com/r/news/comments/15g5s2s/progress_made_against_massive_californianevada/)
+- [Quebec trucking company ordered to reinstate driver fired for drinking and driving | CBC News](https://www.reddit.com/r/news/comments/15g3eyq/quebec_trucking_company_ordered_to_reinstate/)
+- [Warsaw sends troops to border, accusing Belarus of violating its airspace | Poland](https://www.reddit.com/r/news/comments/15fzvdc/warsaw_sends_troops_to_border_accusing_belarus_of/)
+- [FBI finds 200 sex trafficking victims, 59 missing children in two-week sweep](https://www.reddit.com/r/news/comments/15ftc5j/fbi_finds_200_sex_trafficking_victims_59_missing/)
 <!-- REDDIT:END -->
 
 
