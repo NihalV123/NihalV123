@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gay Louisiana doctor says he’s leaving the state over its ‘discriminatory’ legislation](https://www.reddit.com/r/news/comments/15hapg4/gay_louisiana_doctor_says_hes_leaving_the_state/)
+- [Pittsburgh synagogue mass shooter sentenced to death by federal judge](https://www.reddit.com/r/news/comments/15h9wj4/pittsburgh_synagogue_mass_shooter_sentenced_to/)
+- [US military may put armed troops on commercial ships in Strait of Hormuz to stop Iran seizures](https://www.reddit.com/r/news/comments/15h9ozw/us_military_may_put_armed_troops_on_commercial/)
+- [LGBTQ+ advocates sue to block Texas’ new law that could criminalize some drag performances](https://www.reddit.com/r/news/comments/15h8mbe/lgbtq_advocates_sue_to_block_texas_new_law_that/)
+- [Willy the Texas rodeo goat, on the lam for weeks, has been found safe](https://www.reddit.com/r/news/comments/15h79bg/willy_the_texas_rodeo_goat_on_the_lam_for_weeks/)
 <!-- REDDIT:END -->
 
 
