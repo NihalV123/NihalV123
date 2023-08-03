@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DeSantis-controlled Disney World district gets rid of all diversity, equity and inclusion programs and staffers](https://www.reddit.com/r/news/comments/15grl5m/desantiscontrolled_disney_world_district_gets_rid/)
+- [US orders evacuation of some embassy staff, families from Niger](https://www.reddit.com/r/news/comments/15gnpjl/us_orders_evacuation_of_some_embassy_staff/)
+- [Last New Jersey Kmart to close as Westwood will shut down in fall](https://www.reddit.com/r/news/comments/15gmu3w/last_new_jersey_kmart_to_close_as_westwood_will/)
+- [A-listers including Oprah Winfrey, Meryl Streep, Leonardo DiCaprio donate $1 million each to SAG-AFTRA relief fund](https://www.reddit.com/r/news/comments/15gm1yk/alisters_including_oprah_winfrey_meryl_streep/)
+- [A woman escaped a makeshift cinder block &#39;dungeon&#39; in Oregon, police say. The FBI believes there are additional victims in other states | CNN](https://www.reddit.com/r/news/comments/15gj8i4/a_woman_escaped_a_makeshift_cinder_block_dungeon/)
 <!-- REDDIT:END -->
 
 
