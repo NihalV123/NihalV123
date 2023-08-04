@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian ship hit in Novorossiysk, Black Sea drone attack, Ukraine sources say](https://www.reddit.com/r/news/comments/15hxbjr/russian_ship_hit_in_novorossiysk_black_sea_drone/)
+- [‘I’m not wanted’: Florida universities hit by brain drain as academics flee](https://www.reddit.com/r/news/comments/15hvo3y/im_not_wanted_florida_universities_hit_by_brain/)
+- [Andrew Tate&#39;s Romania house arrest lifted](https://www.reddit.com/r/news/comments/15hvl3x/andrew_tates_romania_house_arrest_lifted/)
+- [Russia fines Wikipedia and Apple for spreading &#39;false information&#39; about Ukraine conflict](https://www.reddit.com/r/news/comments/15hrbfo/russia_fines_wikipedia_and_apple_for_spreading/)
+- [Rising COVID hospitalizations point to another summer surge in infections](https://www.reddit.com/r/news/comments/15hq77g/rising_covid_hospitalizations_point_to_another/)
 <!-- REDDIT:END -->
 
 
