@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Six white ex-Mississippi officers plead guilty to racist assault on two Black men](https://www.reddit.com/r/news/comments/15hjh4k/six_white_exmississippi_officers_plead_guilty_to/)
+- [AP Psychology banned in Florida - statement from College Board](https://www.reddit.com/r/news/comments/15hhrcj/ap_psychology_banned_in_florida_statement_from/)
+- [75 year old woman shoots at home intruders in Oakland](https://www.reddit.com/r/news/comments/15hh0ps/75_year_old_woman_shoots_at_home_intruders_in/)
+- [Florida effectively bans AP Psychology course over LGBTQ content, College Board says](https://www.reddit.com/r/news/comments/15hgasr/florida_effectively_bans_ap_psychology_course/)
+- [More charges filed in Michigan voting machine investigation](https://www.reddit.com/r/news/comments/15hfjzn/more_charges_filed_in_michigan_voting_machine/)
 <!-- REDDIT:END -->
 
 
