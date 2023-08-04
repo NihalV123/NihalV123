@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mark Margolis, actor known for roles in &#39;Breaking Bad&#39; and &#39;Scarface,&#39; dies at 83](https://www.reddit.com/r/news/comments/15i5no3/mark_margolis_actor_known_for_roles_in_breaking/)
+- [7-Eleven workers beat would-be robber with stick until suspect starts crying](https://www.reddit.com/r/news/comments/15i5ba3/7eleven_workers_beat_wouldbe_robber_with_stick/)
+- [35-year-old former church youth leader charged with sexually assaulting child](https://www.reddit.com/r/news/comments/15i4ph2/35yearold_former_church_youth_leader_charged_with/)
+- [Former Mooresville police officer arrested for sexual exploitation of a minor](https://www.reddit.com/r/news/comments/15i4k3e/former_mooresville_police_officer_arrested_for/)
+- [Convicted sex offender, local pastor charged with more counts of crimes against children](https://www.reddit.com/r/news/comments/15i4i6k/convicted_sex_offender_local_pastor_charged_with/)
 <!-- REDDIT:END -->
 
 
