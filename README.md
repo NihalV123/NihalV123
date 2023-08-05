@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family outraged after teens charged with attempted murder after assaulting police officer](https://www.reddit.com/r/news/comments/15ikvfr/family_outraged_after_teens_charged_with/)
+- [A judge has ruled Texas&#39; abortion ban is too restrictive for women with pregnancy complications](https://www.reddit.com/r/news/comments/15iiv8s/a_judge_has_ruled_texas_abortion_ban_is_too/)
+- [FDA approves first postpartum depression pill in the US](https://www.reddit.com/r/news/comments/15ihvpf/fda_approves_first_postpartum_depression_pill_in/)
+- [U.S. company Haas appears to still indirectly supply Russian arms industry with technology](https://www.reddit.com/r/news/comments/15ig4tw/us_company_haas_appears_to_still_indirectly/)
+- [Twitch streamer&#39;s giveaway event sparks chaos in Manhattan; police try to contain thousands](https://www.reddit.com/r/news/comments/15icow8/twitch_streamers_giveaway_event_sparks_chaos_in/)
 <!-- REDDIT:END -->
 
 
