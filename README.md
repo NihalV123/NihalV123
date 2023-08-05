@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Twitch streamer Kai Cenat charged with riot after NYC giveaway chaos at Union Square Park](https://www.reddit.com/r/news/comments/15it336/twitch_streamer_kai_cenat_charged_with_riot_after/)
+- [Two people caught swine flu after visiting pig exhibits at agricultural fairs](https://www.reddit.com/r/news/comments/15ioxl7/two_people_caught_swine_flu_after_visiting_pig/)
+- [Family outraged after teens charged with attempted murder after assaulting police officer](https://www.reddit.com/r/news/comments/15ikvfr/family_outraged_after_teens_charged_with/)
+- [A judge has ruled Texas&#39; abortion ban is too restrictive for women with pregnancy complications](https://www.reddit.com/r/news/comments/15iiv8s/a_judge_has_ruled_texas_abortion_ban_is_too/)
+- [FDA approves first postpartum depression pill in the US](https://www.reddit.com/r/news/comments/15ihvpf/fda_approves_first_postpartum_depression_pill_in/)
 <!-- REDDIT:END -->
 
 
