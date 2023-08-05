@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. company Haas appears to still indirectly supply Russian arms industry with technology](https://www.reddit.com/r/news/comments/15ig4tw/us_company_haas_appears_to_still_indirectly/)
+- [Twitch streamer&#39;s giveaway event sparks chaos in Manhattan; police try to contain thousands](https://www.reddit.com/r/news/comments/15icow8/twitch_streamers_giveaway_event_sparks_chaos_in/)
+- [Voyager 2: Nasa fully back in contact with lost space probe](https://www.reddit.com/r/news/comments/15icn5a/voyager_2_nasa_fully_back_in_contact_with_lost/)
+- [Chaos erupts at Manhattan&#39;s Union Square during livestreamer Kai Cenat&#39;s giveaway](https://www.reddit.com/r/news/comments/15icaqn/chaos_erupts_at_manhattans_union_square_during/)
+- [Baytown couple dies in home after air conditioning failure in Texas heat](https://www.reddit.com/r/news/comments/15i9zju/baytown_couple_dies_in_home_after_air/)
 <!-- REDDIT:END -->
 
 
