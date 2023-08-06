@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philippines produces 61,000 million metric tons of waste daily](https://www.reddit.com/r/news/comments/15ju1ox/philippines_produces_61000_million_metric_tons_of/)
+- [Philippines says China blocked, water-cannoned boat in South China Sea](https://www.reddit.com/r/news/comments/15jtvcu/philippines_says_china_blocked_watercannoned_boat/)
+- [Maldives Supreme Court bars jailed ex-President Yameen from race](https://www.reddit.com/r/news/comments/15jrrnn/maldives_supreme_court_bars_jailed_expresident/)
+- [Bomb threat shuts down OHSU clinic after after anti-trans information posted online](https://www.reddit.com/r/news/comments/15jqpf6/bomb_threat_shuts_down_ohsu_clinic_after_after/)
+- [Chinese coast guard fired water cannons on Philippine vessels en route to Ayungin Shoal](https://www.reddit.com/r/news/comments/15jhb8m/chinese_coast_guard_fired_water_cannons_on/)
 <!-- REDDIT:END -->
 
 
