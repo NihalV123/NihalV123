@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Air Force pulls off first AI flight in pilotless plane](https://www.reddit.com/r/news/comments/15jbdib/air_force_pulls_off_first_ai_flight_in_pilotless/)
+- [Pennsylvania man bitten on the head by bear during attack in his garage - WSVN 7News](https://www.reddit.com/r/news/comments/15ja2uh/pennsylvania_man_bitten_on_the_head_by_bear/)
+- [Teen arrested in stabbing death of O&#39;Shae Sibley charged with murder as a hate crime](https://www.reddit.com/r/news/comments/15j9dbm/teen_arrested_in_stabbing_death_of_oshae_sibley/)
+- [Georgia attorney sentenced for storming Capitol on Jan. 6](https://www.reddit.com/r/news/comments/15j99uw/georgia_attorney_sentenced_for_storming_capitol/)
+- [Former NYPD union leader gets 2 years in prison for theft scheme | CNN](https://www.reddit.com/r/news/comments/15j83d2/former_nypd_union_leader_gets_2_years_in_prison/)
 <!-- REDDIT:END -->
 
 
