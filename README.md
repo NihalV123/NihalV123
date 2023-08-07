@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK hiring falls at fastest pace in over three years, wage growth slows](https://www.reddit.com/r/news/comments/15k4sg0/uk_hiring_falls_at_fastest_pace_in_over_three/)
+- [Baltimore woman faces eviction after her home unknowingly sold over unpaid water bill](https://www.reddit.com/r/news/comments/15k4c1d/baltimore_woman_faces_eviction_after_her_home/)
+- [Mother who was accused by Southwest of trafficking her biracial daughter files federal discrimination suit](https://www.reddit.com/r/news/comments/15k41dt/mother_who_was_accused_by_southwest_of/)
+- [US scientists repeat fusion ignition breakthrough for 2nd time.](https://www.reddit.com/r/news/comments/15k3f5v/us_scientists_repeat_fusion_ignition_breakthrough/)
+- [Mother who was accused by Southwest of trafficking her biracial daughter files federal discrimination suit](https://www.reddit.com/r/news/comments/15k2fp5/mother_who_was_accused_by_southwest_of/)
 <!-- REDDIT:END -->
 
 
