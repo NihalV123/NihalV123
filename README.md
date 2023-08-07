@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Volunteer divers find 32 submerged cars in lake near Miami International Airport possibly linked to Cold Cases.](https://www.reddit.com/r/news/comments/15kqvy3/volunteer_divers_find_32_submerged_cars_in_lake/)
+- [Tyson Foods closing 4 chicken processing plants in cost-cutting move](https://www.reddit.com/r/news/comments/15kql8j/tyson_foods_closing_4_chicken_processing_plants/)
+- [Multiple people arrested after a brawl at an Alabama waterfront dock](https://www.reddit.com/r/news/comments/15kqc2p/multiple_people_arrested_after_a_brawl_at_an/)
+- [Florida appears to reverse effort to bar AP Psychology&#39;s LGBTQ content](https://www.reddit.com/r/news/comments/15kpw65/florida_appears_to_reverse_effort_to_bar_ap/)
+- [Large brawl in Alabama as people defend Black riverboat worker against white assailants](https://www.reddit.com/r/news/comments/15kpqjp/large_brawl_in_alabama_as_people_defend_black/)
 <!-- REDDIT:END -->
 
 
