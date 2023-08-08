@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida appears to reverse effort to bar AP Psychology&#39;s LGBTQ content](https://www.reddit.com/r/news/comments/15l1sdd/florida_appears_to_reverse_effort_to_bar_ap/)
+- [Appeals court upholds Josh Duggar&#39;s conviction for downloading child sex abuse images](https://www.reddit.com/r/news/comments/15kxsl3/appeals_court_upholds_josh_duggars_conviction_for/)
+- [Son of Spanish actor detained in Thailand in grisly murder case](https://www.reddit.com/r/news/comments/15kwh1q/son_of_spanish_actor_detained_in_thailand_in/)
+- [&quot;Hank the Tank,&quot; Lake Tahoe bear linked to at least 21 home invasions, has been captured](https://www.reddit.com/r/news/comments/15kv0mh/hank_the_tank_lake_tahoe_bear_linked_to_at_least/)
+- [Italian man crushed to death under falling cheese wheels](https://www.reddit.com/r/news/comments/15kuy00/italian_man_crushed_to_death_under_falling_cheese/)
 <!-- REDDIT:END -->
 
 
