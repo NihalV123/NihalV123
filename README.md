@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Even frozen Antarctica is being walloped by climate extremes, scientists find](https://www.reddit.com/r/news/comments/15lnm29/even_frozen_antarctica_is_being_walloped_by/)
+- [Florida school board reverses decision nixing access to children&#39;s book about a male penguin couple](https://www.reddit.com/r/news/comments/15lmfns/florida_school_board_reverses_decision_nixing/)
+- [22 Harris County Jail victims&#39; families, former detainees sue county](https://www.reddit.com/r/news/comments/15lm7dn/22_harris_county_jail_victims_families_former/)
+- [Global child sexual abuse probe that was launched after two FBI agents were killed leads to almost 100 arrests](https://www.reddit.com/r/news/comments/15llawq/global_child_sexual_abuse_probe_that_was_launched/)
+- [A Mississippi community takes on a U.K. energy giant over pollution concerns](https://www.reddit.com/r/news/comments/15lkszd/a_mississippi_community_takes_on_a_uk_energy/)
 <!-- REDDIT:END -->
 
 
