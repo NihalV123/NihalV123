@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UPS driver pay and benefits deal in US to be worth $170,000 a year, firm says](https://www.reddit.com/r/news/comments/15m3vts/ups_driver_pay_and_benefits_deal_in_us_to_be/)
+- [Americans are pulling money out of their 401&lpar;k&rpar; plans at an alarming rate](https://www.reddit.com/r/news/comments/15m3qg4/americans_are_pulling_money_out_of_their_401k/)
+- [Smartmatic accuses Rudy Giuliani of &#39;dog ate my homework&#39;-style excuses to avoid turning over documents in defamation suit | CNN Business](https://www.reddit.com/r/news/comments/15m3p2b/smartmatic_accuses_rudy_giuliani_of_dog_ate_my/)
+- [Mayor finds 70 pounds of cocaine while on fishing trip in the Florida Keys](https://www.reddit.com/r/news/comments/15m1t57/mayor_finds_70_pounds_of_cocaine_while_on_fishing/)
+- [ESPN strikes $1.5B deal to jump into sports betting with Penn Entertainment](https://www.reddit.com/r/news/comments/15m1pkv/espn_strikes_15b_deal_to_jump_into_sports_betting/)
 <!-- REDDIT:END -->
 
 
