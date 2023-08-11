@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over 40 percent of Texans live in maternal care deserts, new report says](https://www.reddit.com/r/news/comments/15oe8gy/over_40_percent_of_texans_live_in_maternal_care/)
+- [Tennessee hospital faces civil rights investigation over release of transgender health records](https://www.reddit.com/r/news/comments/15oe2vj/tennessee_hospital_faces_civil_rights/)
+- [Judge warns of limits to what Trump can say about election case, agrees to limited protective order](https://www.reddit.com/r/news/comments/15oc6nm/judge_warns_of_limits_to_what_trump_can_say_about/)
+- [Maui fires: Hawaii death toll hits 55, recovery to take years](https://www.reddit.com/r/news/comments/15oc3tl/maui_fires_hawaii_death_toll_hits_55_recovery_to/)
+- [Illinois Supreme Court upholds state&#39;s assault-style weapons ban | CNN Politics](https://www.reddit.com/r/news/comments/15ob79u/illinois_supreme_court_upholds_states/)
 <!-- REDDIT:END -->
 
 
