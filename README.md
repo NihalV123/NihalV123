@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two rival robotaxi services win approval to operate throughout San Francisco despite safety concerns](https://www.reddit.com/r/news/comments/15nwm97/two_rival_robotaxi_services_win_approval_to/)
+- [A rocket with a lunar landing craft blasts off on Russia’s first moon mission in nearly 50 years](https://www.reddit.com/r/news/comments/15ntmhq/a_rocket_with_a_lunar_landing_craft_blasts_off_on/)
+- [Death toll from Lāhainā wildfire on Maui now at 53 as frantic search for survivors continues](https://www.reddit.com/r/news/comments/15nt0yu/death_toll_from_lāhainā_wildfire_on_maui_now_at/)
+- [Nearly 50,000 Americans died by suicide in 2022, a record-high number: CDC](https://www.reddit.com/r/news/comments/15nsu5v/nearly_50000_americans_died_by_suicide_in_2022_a/)
+- [Johnny Hardwick, voice of Dale Gribble on ‘King of the Hill,’ dies at 64](https://www.reddit.com/r/news/comments/15nrf6p/johnny_hardwick_voice_of_dale_gribble_on_king_of/)
 <!-- REDDIT:END -->
 
 
