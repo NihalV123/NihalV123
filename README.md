@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Orange juice prices to surge as US crops ravaged by disease and climate](https://www.reddit.com/r/news/comments/15o6veg/orange_juice_prices_to_surge_as_us_crops_ravaged/)
+- [Christopher Rufo, New College board move to abolish longstanding gender studies program](https://www.reddit.com/r/news/comments/15o32p6/christopher_rufo_new_college_board_move_to/)
+- [China says military company worker exposed as CIA spy | CNN](https://www.reddit.com/r/news/comments/15o1wvi/china_says_military_company_worker_exposed_as_cia/)
+- [Teenage girl dies after being forced to stay in a ‘period hut’ in Nepal](https://www.reddit.com/r/news/comments/15o1t55/teenage_girl_dies_after_being_forced_to_stay_in_a/)
+- [Two rival robotaxi services win approval to operate throughout San Francisco despite safety concerns](https://www.reddit.com/r/news/comments/15nwm97/two_rival_robotaxi_services_win_approval_to/)
 <!-- REDDIT:END -->
 
 
