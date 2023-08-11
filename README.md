@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Suicides Hit an All-Time High Last Year](https://www.reddit.com/r/news/comments/15ntc0t/us_suicides_hit_an_alltime_high_last_year/)
+- [Nearly 50,000 Americans died by suicide in 2022, a record-high number: CDC](https://www.reddit.com/r/news/comments/15nsu5v/nearly_50000_americans_died_by_suicide_in_2022_a/)
+- [Johnny Hardwick, voice of Dale Gribble on ‘King of the Hill,’ dies at 64](https://www.reddit.com/r/news/comments/15nrf6p/johnny_hardwick_voice_of_dale_gribble_on_king_of/)
+- [News Corp Swings to Loss Amid Revenue Drop, Book-Publishing Struggles](https://www.reddit.com/r/news/comments/15nr069/news_corp_swings_to_loss_amid_revenue_drop/)
+- [‘Heartbeat of Lahaina town’: wildfire chars beloved 150-year-old banyan tree](https://www.reddit.com/r/news/comments/15nq4c4/heartbeat_of_lahaina_town_wildfire_chars_beloved/)
 <!-- REDDIT:END -->
 
 
