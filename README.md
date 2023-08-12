@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police stage &#39;chilling&#39; raid on Marion County newspaper, seizing computers, records and cellphones](https://www.reddit.com/r/news/comments/15oq7ze/police_stage_chilling_raid_on_marion_county/)
+- [News Corp profits dive 75% as Rupert Murdoch-owned company hints at AI future](https://www.reddit.com/r/news/comments/15oq4av/news_corp_profits_dive_75_as_rupert_murdochowned/)
+- [3-year-old riding one of Texas’ migrant buses dies on the way to Chicago, officials say](https://www.reddit.com/r/news/comments/15oq342/3yearold_riding_one_of_texas_migrant_buses_dies/)
+- [67 confirmed dead in Great Maui Fire as hundreds are still missing](https://www.reddit.com/r/news/comments/15opv35/67_confirmed_dead_in_great_maui_fire_as_hundreds/)
+- [Massachusetts couple denied foster care application over LGBTQ views, complaint says](https://www.reddit.com/r/news/comments/15ookbb/massachusetts_couple_denied_foster_care/)
 <!-- REDDIT:END -->
 
 
