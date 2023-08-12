@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Massachusetts couple denied foster care application over LGBTQ views, complaint says](https://www.reddit.com/r/news/comments/15ookbb/massachusetts_couple_denied_foster_care/)
+- [Pornhub sues Texas over new law requiring age verification, health warning](https://www.reddit.com/r/news/comments/15oo3a8/pornhub_sues_texas_over_new_law_requiring_age/)
+- [Brazil police raid Bolsonaro aides over sale of jewelry gifts](https://www.reddit.com/r/news/comments/15ontdm/brazil_police_raid_bolsonaro_aides_over_sale_of/)
+- [Maui: Emergency sirens weren&#39;t activated ahead of deadly fire, agency says](https://www.reddit.com/r/news/comments/15om5ju/maui_emergency_sirens_werent_activated_ahead_of/)
+- [K2: Climbers deny walking by dying guide in bid to break record](https://www.reddit.com/r/news/comments/15olbcq/k2_climbers_deny_walking_by_dying_guide_in_bid_to/)
 <!-- REDDIT:END -->
 
 
