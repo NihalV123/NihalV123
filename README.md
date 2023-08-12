@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [King of Jordan approves a bill to criminalize online speech. Human rights groups call it draconian.](https://www.reddit.com/r/news/comments/15pajxw/king_of_jordan_approves_a_bill_to_criminalize/)
+- [80 people now confirmed dead in The Great Maui Fire, but officials fear the death toll could be far higher as hundreds are still not accounted for](https://www.reddit.com/r/news/comments/15p9t12/80_people_now_confirmed_dead_in_the_great_maui/)
+- [Historic win for junior doctors in wage theft case for unpaid overtime](https://www.reddit.com/r/news/comments/15p9jh7/historic_win_for_junior_doctors_in_wage_theft/)
+- [Maui Fires: Search Efforts Continue; Death Toll Rises To 80](https://www.reddit.com/r/news/comments/15p8yq0/maui_fires_search_efforts_continue_death_toll/)
+- [Woodland Park School District, Board of Education sued for violating teachers&#39; right to free speech | KRDO](https://www.reddit.com/r/news/comments/15p7sec/woodland_park_school_district_board_of_education/)
 <!-- REDDIT:END -->
 
 
