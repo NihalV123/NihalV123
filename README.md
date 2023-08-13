@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hawaii has a robust emergency siren warning system. It sat silent during the deadly wildfires](https://www.reddit.com/r/news/comments/15q5aei/hawaii_has_a_robust_emergency_siren_warning/)
+- [Mob of up to 50 people swarms LA mall and steals tens of thousands in luxury goods, police say](https://www.reddit.com/r/news/comments/15q51qs/mob_of_up_to_50_people_swarms_la_mall_and_steals/)
+- [Publix pet crackdown: new signs,enforcement to ban pets](https://www.reddit.com/r/news/comments/15q458w/publix_pet_crackdown_new_signsenforcement_to_ban/)
+- [93 confirmed dead in Great Maui Fire: Locals ask for help DNA testing remains, insist tourists stay away for now](https://www.reddit.com/r/news/comments/15q3d85/93_confirmed_dead_in_great_maui_fire_locals_ask/)
+- [Tasers, taunts, torment: How 6 White officers subjected 2 Black men to hours of grueling violence, and then tried to cover it up | CNN](https://www.reddit.com/r/news/comments/15q33ql/tasers_taunts_torment_how_6_white_officers/)
 <!-- REDDIT:END -->
 
 
