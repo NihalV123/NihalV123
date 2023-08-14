@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boy survives 100ft Grand Canyon fall after dodging tourist photo](https://www.reddit.com/r/news/comments/15qj3be/boy_survives_100ft_grand_canyon_fall_after/)
+- [Kansas newspaper says co-owner, 98, dies from stress after police search](https://www.reddit.com/r/news/comments/15qhg5k/kansas_newspaper_says_coowner_98_dies_from_stress/)
+- [Maui fire: 93 killed as governor warns of &#39;significant&#39; death toll rise](https://www.reddit.com/r/news/comments/15qgybf/maui_fire_93_killed_as_governor_warns_of/)
+- [NASA telescope spots cosmic question mark in deep space](https://www.reddit.com/r/news/comments/15qfqer/nasa_telescope_spots_cosmic_question_mark_in_deep/)
+- [Plane crashes at Thunder Over Michigan air show; 2 people parachute from jet](https://www.reddit.com/r/news/comments/15qcjt8/plane_crashes_at_thunder_over_michigan_air_show_2/)
 <!-- REDDIT:END -->
 
 
