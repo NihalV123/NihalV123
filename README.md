@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia court website briefly publishes, removes document about potential Trump charges](https://www.reddit.com/r/news/comments/15r1ldl/georgia_court_website_briefly_publishes_removes/)
+- [Miracle Plant Used in Ancient Greece Rediscovered After 2,000 Years](https://www.reddit.com/r/news/comments/15r16d0/miracle_plant_used_in_ancient_greece_rediscovered/)
+- [&#39;Stop Cop City&#39; activists say they&#39;ve gathered enough signatures to put referendum on ballot](https://www.reddit.com/r/news/comments/15r10yf/stop_cop_city_activists_say_theyve_gathered/)
+- [Judge rules in favor of Montana youths in landmark climate decision](https://www.reddit.com/r/news/comments/15r02e9/judge_rules_in_favor_of_montana_youths_in/)
+- [The Pokémon Company donates Hawaii $200k after choosing 2024 tournament location](https://www.reddit.com/r/news/comments/15r01hp/the_pokémon_company_donates_hawaii_200k_after/)
 <!-- REDDIT:END -->
 
 
