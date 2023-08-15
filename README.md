@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canadian donair sandwich costume sells for $16,000](https://www.reddit.com/r/news/comments/15ryzws/canadian_donair_sandwich_costume_sells_for_16000/)
+- [Perryville prison staff members hospitalized after &#39;unknown substance&#39; exposure](https://www.reddit.com/r/news/comments/15ryup9/perryville_prison_staff_members_hospitalized/)
+- [US publisher of pro-fascist books revealed as military veteran](https://www.reddit.com/r/news/comments/15ryrqr/us_publisher_of_profascist_books_revealed_as/)
+- [UN peacekeepers speed up northern Mali withdrawal as separatists accuse army of attack](https://www.reddit.com/r/news/comments/15rv7o6/un_peacekeepers_speed_up_northern_mali_withdrawal/)
+- [Mother pleads guilty to felony child neglect after 6-year-old son used her gun to shoot teacher](https://www.reddit.com/r/news/comments/15rv2i0/mother_pleads_guilty_to_felony_child_neglect/)
 <!-- REDDIT:END -->
 
 
