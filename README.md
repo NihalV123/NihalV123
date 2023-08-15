@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Five key moments in the crushing of Afghan women&amp;#x27;s rights](https://www.reddit.com/r/news/comments/15rjc3b/five_key_moments_in_the_crushing_of_afghan/)
+- [6 Ex-Officers Plead Guilty to State Charges in Torture of Two Black Men](https://www.reddit.com/r/news/comments/15rj99u/6_exofficers_plead_guilty_to_state_charges_in/)
+- [New Footage Shows Cops Plotting to Make Up Charges Against Driver Who Flipped Them Off](https://www.reddit.com/r/news/comments/15rixad/new_footage_shows_cops_plotting_to_make_up/)
+- [USPS to offer discounts in hopes of boosting mail usage](https://www.reddit.com/r/news/comments/15rf63z/usps_to_offer_discounts_in_hopes_of_boosting_mail/)
+- [Niger’s coup leaders say they will prosecute deposed President Mohamed Bazoum for &#39;high treason&#39;](https://www.reddit.com/r/news/comments/15rez4u/nigers_coup_leaders_say_they_will_prosecute/)
 <!-- REDDIT:END -->
 
 
