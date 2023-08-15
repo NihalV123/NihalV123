@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court blocks, for now, OxyContin maker bankruptcy deal that would shield Sacklers](https://www.reddit.com/r/news/comments/15rck0i/supreme_court_blocks_for_now_oxycontin_maker/)
+- [US Navy joins Army, Marine Corps in having no Senate-confirmed leader, in historic first](https://www.reddit.com/r/news/comments/15rb4r6/us_navy_joins_army_marine_corps_in_having_no/)
+- [Woman who helped mutilate, conceal Vanessa Guillen’s body sentenced to 30 yrs](https://www.reddit.com/r/news/comments/15r8vwe/woman_who_helped_mutilate_conceal_vanessa/)
+- [Florida woman doused herself in Mountain Dew to erase DNA after killing roommate](https://www.reddit.com/r/news/comments/15r5x1w/florida_woman_doused_herself_in_mountain_dew_to/)
+- [&#39;Blind Side&#39; subject Oher alleges Tuohys made millions off lie](https://www.reddit.com/r/news/comments/15r4v8o/blind_side_subject_oher_alleges_tuohys_made/)
 <!-- REDDIT:END -->
 
 
