@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mobs burn Christian churches, homes in Pakistan after blasphemy allegations](https://www.reddit.com/r/news/comments/15swgyr/mobs_burn_christian_churches_homes_in_pakistan/)
+- [Video shows men tampering with sea turtle nest, Florida Ocean Rescue official says](https://www.reddit.com/r/news/comments/15sw7s0/video_shows_men_tampering_with_sea_turtle_nest/)
+- [Random drug testing for 7th to 12th graders raising eyebrows in Crete Public Schools District](https://www.reddit.com/r/news/comments/15su1in/random_drug_testing_for_7th_to_12th_graders/)
+- [Evacuations ordered as Northern California fire roars through forest near site of 2022 deadly blaze](https://www.reddit.com/r/news/comments/15su13p/evacuations_ordered_as_northern_california_fire/)
+- [Nassau County Police officer strikes armed woman with vehicle](https://www.reddit.com/r/news/comments/15ssk9v/nassau_county_police_officer_strikes_armed_woman/)
 <!-- REDDIT:END -->
 
 
