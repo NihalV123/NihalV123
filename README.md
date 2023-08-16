@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Churches vandalised in Pakistan&#39;s Punjab province over blasphemy allegations](https://www.reddit.com/r/news/comments/15sn8do/churches_vandalised_in_pakistans_punjab_province/)
+- [Ecuador election: I&#39;m wearing a bulletproof vest 24 hours a day - Andrea González](https://www.reddit.com/r/news/comments/15sm18i/ecuador_election_im_wearing_a_bulletproof_vest_24/)
+- [New Zealand jury finds mom guilty of killing her 3 young daughters](https://www.reddit.com/r/news/comments/15slyap/new_zealand_jury_finds_mom_guilty_of_killing_her/)
+- [Trailblazing sex therapist and author of The G Spot was &#39;a force of nature,&#39; says daughter | CBC Radio](https://www.reddit.com/r/news/comments/15sla8u/trailblazing_sex_therapist_and_author_of_the_g/)
+- [Hawaii fires: First victims named as death toll reaches 106](https://www.reddit.com/r/news/comments/15sint0/hawaii_fires_first_victims_named_as_death_toll/)
 <!-- REDDIT:END -->
 
 
