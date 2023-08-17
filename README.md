@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Utah man posing as doctor selling fake COVID-19 cure arrested after three-year manhunt](https://www.reddit.com/r/news/comments/15t0ejq/utah_man_posing_as_doctor_selling_fake_covid19/)
+- [Items seized in a police raid at the Marion County Record newspaper in Kansas will be returned, officials say](https://www.reddit.com/r/news/comments/15syq2t/items_seized_in_a_police_raid_at_the_marion/)
+- [US appeals court rules to restrict abortion pill use](https://www.reddit.com/r/news/comments/15syoi5/us_appeals_court_rules_to_restrict_abortion_pill/)
+- [Santos Aide Who Impersonated McCarthy Staff Member Faces Federal Charges &lpar;Gift Article&rpar;](https://www.reddit.com/r/news/comments/15sxpo8/santos_aide_who_impersonated_mccarthy_staff/)
+- [National Weather Service sent &#39;erroneous&#39; tsunami alert to South Texas](https://www.reddit.com/r/news/comments/15swhdv/national_weather_service_sent_erroneous_tsunami/)
 <!-- REDDIT:END -->
 
 
