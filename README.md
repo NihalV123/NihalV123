@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Hell on wheels&#39;: Teen convicted of crashing car at 100 mph, killing boyfriend and friend](https://www.reddit.com/r/news/comments/15tbbcg/hell_on_wheels_teen_convicted_of_crashing_car_at/)
+- [Starbucks ordered to pay extra $2.7M to employee who said she was fired for being white](https://www.reddit.com/r/news/comments/15tb06k/starbucks_ordered_to_pay_extra_27m_to_employee/)
+- [Plum house explosion: 6th person dies; cause of blast remains unknown](https://www.reddit.com/r/news/comments/15t9svp/plum_house_explosion_6th_person_dies_cause_of/)
+- [‘Crisis situation’: Canadian fire nears biggest city in Northwest Territories](https://www.reddit.com/r/news/comments/15t8fn0/crisis_situation_canadian_fire_nears_biggest_city/)
+- [Utah man posing as doctor selling fake COVID-19 cure arrested after three-year manhunt](https://www.reddit.com/r/news/comments/15t0ejq/utah_man_posing_as_doctor_selling_fake_covid19/)
 <!-- REDDIT:END -->
 
 
