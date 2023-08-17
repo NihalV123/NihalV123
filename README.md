@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indiana law allowing voters over 65 to vote by mail not unconstitutional, 7th Circuit affirms - The Indiana Lawyer](https://www.reddit.com/r/news/comments/15ttzzp/indiana_law_allowing_voters_over_65_to_vote_by/)
+- [Chinese social media filled with anti-black racist content, says watchdog](https://www.reddit.com/r/news/comments/15ttt9d/chinese_social_media_filled_with_antiblack_racist/)
+- [Texas woman arrested after threats to Trump judge Tanya Chutkan](https://www.reddit.com/r/news/comments/15ttlnd/texas_woman_arrested_after_threats_to_trump_judge/)
+- [Hurricane Hilary on path toward Southern California](https://www.reddit.com/r/news/comments/15ttj64/hurricane_hilary_on_path_toward_southern/)
+- [AJ Armstrong found guilty of capital murder of his parents after 3rd trial](https://www.reddit.com/r/news/comments/15trwt7/aj_armstrong_found_guilty_of_capital_murder_of/)
 <!-- REDDIT:END -->
 
 
