@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US approves sending F-16s to Ukraine from Denmark and Netherlands](https://www.reddit.com/r/news/comments/15u2ft0/us_approves_sending_f16s_to_ukraine_from_denmark/)
+- [ERCOT issues voluntary conservation notice as Texas temps soar](https://www.reddit.com/r/news/comments/15u1uln/ercot_issues_voluntary_conservation_notice_as/)
+- [Drinking water of millions of Americans contaminated with ‘forever chemicals’](https://www.reddit.com/r/news/comments/15u0wpt/drinking_water_of_millions_of_americans/)
+- [China Evergrande files for chapter 15 bankruptcy in US - court filing](https://www.reddit.com/r/news/comments/15tzq77/china_evergrande_files_for_chapter_15_bankruptcy/)
+- [Property manager allegedly steals rent checks, management expects tenants to repay](https://www.reddit.com/r/news/comments/15tyzhj/property_manager_allegedly_steals_rent_checks/)
 <!-- REDDIT:END -->
 
 
