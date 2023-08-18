@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Spam donates 5 truckloads of beloved canned meat in response to Maui fire | CNN Business](https://www.reddit.com/r/news/comments/15ur868/spam_donates_5_truckloads_of_beloved_canned_meat/)
+- [Proud Boy on house arrest in Jan. 6 case disappears ahead of sentencing](https://www.reddit.com/r/news/comments/15upqpn/proud_boy_on_house_arrest_in_jan_6_case/)
+- [Pakistani brothers arrested for blasphemy after mob burns churches](https://www.reddit.com/r/news/comments/15uok88/pakistani_brothers_arrested_for_blasphemy_after/)
+- [Cologne Catholic diocese clergy and staff used work computers for porn, German media reports](https://www.reddit.com/r/news/comments/15uoa4i/cologne_catholic_diocese_clergy_and_staff_used/)
+- [Blind man says Easyjet staff &#39;refused to help&#39; him buy flights](https://www.reddit.com/r/news/comments/15umqhq/blind_man_says_easyjet_staff_refused_to_help_him/)
 <!-- REDDIT:END -->
 
 
