@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DMV calls on Cruise to take half its driverless cars off the road during investigation of ‘concerning incidents’](https://www.reddit.com/r/news/comments/15v5yea/dmv_calls_on_cruise_to_take_half_its_driverless/)
+- [Michael Jackson sexual abuse lawsuits revived by appeals court](https://www.reddit.com/r/news/comments/15v5b85/michael_jackson_sexual_abuse_lawsuits_revived_by/)
+- [Abortion rights advocates launch fundraiser to benefit Orlando clinic fined by the state](https://www.reddit.com/r/news/comments/15v55ec/abortion_rights_advocates_launch_fundraiser_to/)
+- [Evictions to resume in Philadelphia after multiple tenants shot](https://www.reddit.com/r/news/comments/15v4gut/evictions_to_resume_in_philadelphia_after/)
+- [Tokitae, the star of Miami Seaquarium, dies after half a century in captivity | Miami](https://www.reddit.com/r/news/comments/15v3qwk/tokitae_the_star_of_miami_seaquarium_dies_after/)
 <!-- REDDIT:END -->
 
 
