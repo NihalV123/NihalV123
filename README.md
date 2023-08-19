@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Giant Chunk Of Ice Falls From The Sky, Damaging Home - Videos | Massachusetts](https://www.reddit.com/r/news/comments/15vlime/giant_chunk_of_ice_falls_from_the_sky_damaging/)
+- [Airborne fish sparks New Jersey power outage, electricity company says](https://www.reddit.com/r/news/comments/15vktao/airborne_fish_sparks_new_jersey_power_outage/)
+- [Thousands flee raging wildfire, turning capital of Canada&#39;s Northwest Territories into ghost town](https://www.reddit.com/r/news/comments/15vjw8j/thousands_flee_raging_wildfire_turning_capital_of/)
+- [Hemet police officer charged after woman suffers brain injury](https://www.reddit.com/r/news/comments/15vi072/hemet_police_officer_charged_after_woman_suffers/)
+- [Russian missile attack kills 7 in northern Ukrainian city as Zelenskyy visits NATO candidate Sweden](https://www.reddit.com/r/news/comments/15vhryp/russian_missile_attack_kills_7_in_northern/)
 <!-- REDDIT:END -->
 
 
