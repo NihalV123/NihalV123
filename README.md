@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia&#39;s first moon mission in decades fails after spacecraft collides with surface](https://www.reddit.com/r/news/comments/15w8ufn/russias_first_moon_mission_in_decades_fails_after/)
+- [Russian spacecraft crashes into mom](https://www.reddit.com/r/news/comments/15w6n6r/russian_spacecraft_crashes_into_mom/)
+- [Affidavits reveal what evidence police used to raid Kansas newspaper](https://www.reddit.com/r/news/comments/15w0tkr/affidavits_reveal_what_evidence_police_used_to/)
+- [Hot air balloon pilot with cocaine in his system made a mistake that caused fatal crash, NTSB finds](https://www.reddit.com/r/news/comments/15vzcq3/hot_air_balloon_pilot_with_cocaine_in_his_system/)
+- [Hurricane Hilary prompts historic tropical storm warning for California](https://www.reddit.com/r/news/comments/15vu9hy/hurricane_hilary_prompts_historic_tropical_storm/)
 <!-- REDDIT:END -->
 
 
