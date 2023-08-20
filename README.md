@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ecuadoreans vote for new president in election marred by candidate’s murder](https://www.reddit.com/r/news/comments/15wh7o0/ecuadoreans_vote_for_new_president_in_election/)
+- [Israeli embassy officials attempted to influence UK court cases, documents suggest](https://www.reddit.com/r/news/comments/15wd20f/israeli_embassy_officials_attempted_to_influence/)
+- [Niger coup leader Gen Tchiani promises to handover power in three years](https://www.reddit.com/r/news/comments/15wczfj/niger_coup_leader_gen_tchiani_promises_to/)
+- [Trader Joe’s crackers recalled because they might contain metal](https://www.reddit.com/r/news/comments/15wcnpz/trader_joes_crackers_recalled_because_they_might/)
+- [Russia&#39;s first moon mission in decades fails after spacecraft collides with surface](https://www.reddit.com/r/news/comments/15w8ufn/russias_first_moon_mission_in_decades_fails_after/)
 <!-- REDDIT:END -->
 
 
