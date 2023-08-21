@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Georgia made it easier for parents to challenge school library books. Almost no one has done so](https://www.reddit.com/r/news/comments/15wrw6r/georgia_made_it_easier_for_parents_to_challenge/)
+- [&#39;Too much to bear.&#39; The incalculable emotional toll of the Maui wildfires | CNN](https://www.reddit.com/r/news/comments/15wqimt/too_much_to_bear_the_incalculable_emotional_toll/)
+- [Listeria warning issued after three deaths linked to contaminated ice cream machines](https://www.reddit.com/r/news/comments/15wpza0/listeria_warning_issued_after_three_deaths_linked/)
+- [Magnitude 5.0 earthquake strikes Ojai area](https://www.reddit.com/r/news/comments/15wo6yk/magnitude_50_earthquake_strikes_ojai_area/)
+- [Netherlands, Denmark commit to giving F-16 fighter jets to Ukraine](https://www.reddit.com/r/news/comments/15wm9zm/netherlands_denmark_commit_to_giving_f16_fighter/)
 <!-- REDDIT:END -->
 
 
