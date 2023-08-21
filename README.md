@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Adobe co-founder John Warnock, a giant in the tech world, dies at 82](https://www.reddit.com/r/news/comments/15wu9va/adobe_cofounder_john_warnock_a_giant_in_the_tech/)
+- [Early results in Guatemala show outsider Bernardo Arévalo leading presidential election after corruption angered voters](https://www.reddit.com/r/news/comments/15wtjlf/early_results_in_guatemala_show_outsider_bernardo/)
+- [Georgia made it easier for parents to challenge school library books. Almost no one has done so](https://www.reddit.com/r/news/comments/15wrw6r/georgia_made_it_easier_for_parents_to_challenge/)
+- [Listeria warning issued after three deaths linked to contaminated ice cream machines](https://www.reddit.com/r/news/comments/15wpza0/listeria_warning_issued_after_three_deaths_linked/)
+- [Magnitude 5.0 earthquake strikes Ojai area](https://www.reddit.com/r/news/comments/15wo6yk/magnitude_50_earthquake_strikes_ojai_area/)
 <!-- REDDIT:END -->
 
 
