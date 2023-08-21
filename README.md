@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [850 people still missing after Maui wildfires, mayor says](https://www.reddit.com/r/news/comments/15x5ued/850_people_still_missing_after_maui_wildfires/)
+- [Lucy Letby will die in prison after murdering seven babies](https://www.reddit.com/r/news/comments/15x5shu/lucy_letby_will_die_in_prison_after_murdering/)
+- [Hundreds of migrants killed by Saudi border guards - report](https://www.reddit.com/r/news/comments/15x5ofj/hundreds_of_migrants_killed_by_saudi_border/)
+- [Hilary live updates: Risk of flooding remains as powerful storm moves through SoCal](https://www.reddit.com/r/news/comments/15x5mso/hilary_live_updates_risk_of_flooding_remains_as/)
+- [2 U.S. servicemen arrested over fatal stabbing at funfair in Germany](https://www.reddit.com/r/news/comments/15x56k0/2_us_servicemen_arrested_over_fatal_stabbing_at/)
 <!-- REDDIT:END -->
 
 
