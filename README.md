@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man flees China by riding jet ski hundreds of miles across the sea](https://www.reddit.com/r/news/comments/15za112/man_flees_china_by_riding_jet_ski_hundreds_of/)
+- [Ten killed in private jet crash north of Moscow - Wagner leader Yevgeny Prigozhin &#39;on passenger list&#39;](https://www.reddit.com/r/news/comments/15z9wwm/ten_killed_in_private_jet_crash_north_of_moscow/)
+- [American workers are demanding almost $80,000 a year to take a new job](https://www.reddit.com/r/news/comments/15z8xab/american_workers_are_demanding_almost_80000_a/)
+- [Police respond to &#39;active shooting situation&#39; in Garfield](https://www.reddit.com/r/news/comments/15z83sf/police_respond_to_active_shooting_situation_in/)
+- [Justice Dept. brings wave of cases over $836 million in alleged covid fraud](https://www.reddit.com/r/news/comments/15z7k3p/justice_dept_brings_wave_of_cases_over_836/)
 <!-- REDDIT:END -->
 
 
