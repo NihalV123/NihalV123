@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Musk Told Pentagon He Spoke to Putin Directly, New Yorker Says](https://www.reddit.com/r/news/comments/15yxsvi/musk_told_pentagon_he_spoke_to_putin_directly_new/)
+- [Andrew Tate prosecution files reveal graphic claims of coercion ahead of trial](https://www.reddit.com/r/news/comments/15yvggm/andrew_tate_prosecution_files_reveal_graphic/)
+- [Poland&#39;s leader: Russia moving tactical nuclear weapons to Belarus](https://www.reddit.com/r/news/comments/15yqlfj/polands_leader_russia_moving_tactical_nuclear/)
+- [Mexican army says drug cartels are increasing their use of roadside bombs](https://www.reddit.com/r/news/comments/15ynvl5/mexican_army_says_drug_cartels_are_increasing/)
+- [U.S. tells Americans to leave Belarus immediately](https://www.reddit.com/r/news/comments/15yn3o8/us_tells_americans_to_leave_belarus_immediately/)
 <!-- REDDIT:END -->
 
 
