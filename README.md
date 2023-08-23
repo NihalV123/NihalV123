@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. tells Americans to leave Belarus immediately](https://www.reddit.com/r/news/comments/15yn3o8/us_tells_americans_to_leave_belarus_immediately/)
+- [Suspect named in fatal shooting of California store owner over a Pride flag](https://www.reddit.com/r/news/comments/15ymjoj/suspect_named_in_fatal_shooting_of_california/)
+- [San Antonio suburb elementary school student &quot;accidentally&quot; fires gun on school bus](https://www.reddit.com/r/news/comments/15ylx5r/san_antonio_suburb_elementary_school_student/)
+- [Florida elementary school pulled Black students out of class for assembly on poor test scores](https://www.reddit.com/r/news/comments/15yiw22/florida_elementary_school_pulled_black_students/)
+- [UPS workers approve new contract with hard-fought pay and safety wins, ending strike threat](https://www.reddit.com/r/news/comments/15yi94m/ups_workers_approve_new_contract_with_hardfought/)
 <!-- REDDIT:END -->
 
 
