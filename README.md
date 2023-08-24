@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [14 whales, one dolphin have died at Marineland since 2019: ministry documents](https://www.reddit.com/r/news/comments/1607stm/14_whales_one_dolphin_have_died_at_marineland/)
+- [DOJ sues SpaceX, alleging hiring discrimination against refugees and asylum seekers](https://www.reddit.com/r/news/comments/1605z1e/doj_sues_spacex_alleging_hiring_discrimination/)
+- [US Central states, Texas in danger of power shortages in heat wave](https://www.reddit.com/r/news/comments/1605vzx/us_central_states_texas_in_danger_of_power/)
+- [Hundreds of items ‘missing’ from British Museum since 2013](https://www.reddit.com/r/news/comments/1603dej/hundreds_of_items_missing_from_british_museum/)
+- [Harsh penalties approved for Florida state college employees who use restrooms that don&#39;t correspond with gender assigned at birth](https://www.reddit.com/r/news/comments/1601hdy/harsh_penalties_approved_for_florida_state/)
 <!-- REDDIT:END -->
 
 
