@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea&#39;s second spy satellite launch fails](https://www.reddit.com/r/news/comments/15zrorr/north_koreas_second_spy_satellite_launch_fails/)
+- [US businessman is wannabe ‘warlord’ of secretive far-right men’s network | The far right](https://www.reddit.com/r/news/comments/15zrk1t/us_businessman_is_wannabe_warlord_of_secretive/)
+- [L.A. County sheriff&#39;s deputy accused of trying to cover up DUI crash of fellow deputy](https://www.reddit.com/r/news/comments/15zptsv/la_county_sheriffs_deputy_accused_of_trying_to/)
+- [At least 9 people shot, suspect dead at Trabuco Canyon bar](https://www.reddit.com/r/news/comments/15zpk72/at_least_9_people_shot_suspect_dead_at_trabuco/)
+- [Oklahoma authorities name the BTK killer as the ‘prime suspect’ in at least two unsolved cases](https://www.reddit.com/r/news/comments/15znvcq/oklahoma_authorities_name_the_btk_killer_as_the/)
 <!-- REDDIT:END -->
 
 
