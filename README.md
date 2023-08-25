@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Niger, Burkina Faso, Mali form military pact](https://www.reddit.com/r/news/comments/160wua2/niger_burkina_faso_mali_form_military_pact/)
+- [Montana man sentenced to federal prison for threatening to kill US Sen. Jon Tester](https://www.reddit.com/r/news/comments/160okqx/montana_man_sentenced_to_federal_prison_for/)
+- [Fulton county jail books Donald Trump at 6’3” and 215 pounds.](https://www.reddit.com/r/news/comments/160imam/fulton_county_jail_books_donald_trump_at_63_and/)
+- [Railroads resist joining safety hotline because they want to be able to discipline workers](https://www.reddit.com/r/news/comments/160igvr/railroads_resist_joining_safety_hotline_because/)
+- [Gunman in deadly mass shooting at Trabuco Canyon bar ID&#39;d as retired Ventura police sergeant](https://www.reddit.com/r/news/comments/160egau/gunman_in_deadly_mass_shooting_at_trabuco_canyon/)
 <!-- REDDIT:END -->
 
 
