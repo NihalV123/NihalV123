@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fox News is incapable of telling the truth](https://www.reddit.com/r/news/comments/1620v8h/fox_news_is_incapable_of_telling_the_truth/)
+- [Bob Barker, former longtime host of &#39;The Price Is Right,&#39; dead at 99](https://www.reddit.com/r/news/comments/1620nhb/bob_barker_former_longtime_host_of_the_price_is/)
+- [Silicon Valley elites revealed as buyers of $800m of land to build utopian city](https://www.reddit.com/r/news/comments/1620iyr/silicon_valley_elites_revealed_as_buyers_of_800m/)
+- [Bob Barker, longtime ‘Price Is Right’ host, dies at 99](https://www.reddit.com/r/news/comments/1620b6x/bob_barker_longtime_price_is_right_host_dies_at_99/)
+- [Army Doctor accused of sexually assaulting at least 23 patients](https://www.reddit.com/r/news/comments/162066q/army_doctor_accused_of_sexually_assaulting_at/)
 <!-- REDDIT:END -->
 
 
