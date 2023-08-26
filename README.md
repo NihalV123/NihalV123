@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After Maui officials named 388 people unaccounted for in fires, many called to say they&#39;re OK](https://www.reddit.com/r/news/comments/161iohe/after_maui_officials_named_388_people_unaccounted/)
+- [Airbnb host with a history of harassing guests who left negative reviews loses case in Australian court to unveil the identities of unknown reviewers, a triumph for safeguarding anonymity in online feedback.](https://www.reddit.com/r/news/comments/161hfsr/airbnb_host_with_a_history_of_harassing_guests/)
+- [6 tornadoes confirmed as Michigan storms down trees and power lines; 5 people killed](https://www.reddit.com/r/news/comments/161ggdc/6_tornadoes_confirmed_as_michigan_storms_down/)
+- [Attorney General says no violation of First Amendment rights over paper sign restrictions](https://www.reddit.com/r/news/comments/161df2y/attorney_general_says_no_violation_of_first/)
+- [Police lay attempted murder charge in connection to University of Waterloo stabbings | Globalnews.ca](https://www.reddit.com/r/news/comments/161axts/police_lay_attempted_murder_charge_in_connection/)
 <!-- REDDIT:END -->
 
 
