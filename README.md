@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teen killed in shooting at Oklahoma high school football game: Police Several others were injured in the incident. A teenager was killed and several people were injured after gunfire erupted at a high school football game in Oklahoma Friday night, police said.](https://www.reddit.com/r/news/comments/162h2hy/teen_killed_in_shooting_at_oklahoma_high_school/)
+- [Mother is arrested in Bangladesh after son in the U.S. criticizes government online](https://www.reddit.com/r/news/comments/162gziz/mother_is_arrested_in_bangladesh_after_son_in_the/)
+- [Aircraft &#39;incident&#39; involving US defense personnel reported during military exercise in Australia](https://www.reddit.com/r/news/comments/162gjol/aircraft_incident_involving_us_defense_personnel/)
+- [San Francisco Could Take Homelessness Case to Supreme Court](https://www.reddit.com/r/news/comments/162g7ck/san_francisco_could_take_homelessness_case_to/)
+- [Arleen Sorkin Passes Away, Original Voice of Harley Quinn Was 67](https://www.reddit.com/r/news/comments/162bryp/arleen_sorkin_passes_away_original_voice_of/)
 <!-- REDDIT:END -->
 
 
