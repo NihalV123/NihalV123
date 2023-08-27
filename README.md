@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Haiti violence: gang guns down churchgoers protesting against criminals](https://www.reddit.com/r/news/comments/162o3vj/haiti_violence_gang_guns_down_churchgoers/)
+- [Mother is arrested in Bangladesh after son in the U.S. criticizes government online](https://www.reddit.com/r/news/comments/162gziz/mother_is_arrested_in_bangladesh_after_son_in_the/)
+- [Aircraft &#39;incident&#39; involving US defense personnel reported during military exercise in Australia](https://www.reddit.com/r/news/comments/162gjol/aircraft_incident_involving_us_defense_personnel/)
+- [Arleen Sorkin Passes Away, Original Voice of Harley Quinn Was 67](https://www.reddit.com/r/news/comments/162bryp/arleen_sorkin_passes_away_original_voice_of/)
+- [Kentucky high school teens charged with &quot;terroristic threats&quot; after TikTok challenge](https://www.reddit.com/r/news/comments/1628mmf/kentucky_high_school_teens_charged_with/)
 <!-- REDDIT:END -->
 
 
