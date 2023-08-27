@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arleen Sorkin Passes Away, Original Voice of Harley Quinn Was 67](https://www.reddit.com/r/news/comments/162bryp/arleen_sorkin_passes_away_original_voice_of/)
+- [Kentucky high school teens charged with &quot;terroristic threats&quot; after TikTok challenge](https://www.reddit.com/r/news/comments/1628mmf/kentucky_high_school_teens_charged_with/)
+- [1 teen killed, 4 people injured following shooting at Oklahoma high school football game, authorities say](https://www.reddit.com/r/news/comments/1627f53/1_teen_killed_4_people_injured_following_shooting/)
+- [Much of Florida under state of emergency as possible tropical storm forms in Gulf of Mexico](https://www.reddit.com/r/news/comments/1626t0k/much_of_florida_under_state_of_emergency_as/)
+- [Four people dead in Dollar General shooting in Jacksonville](https://www.reddit.com/r/news/comments/162694x/four_people_dead_in_dollar_general_shooting_in/)
 <!-- REDDIT:END -->
 
 
