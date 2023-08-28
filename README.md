@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Joe the Plumber, who questioned Obama’s tax policies during the 2008 campaign, has died at 49](https://www.reddit.com/r/news/comments/163t1to/joe_the_plumber_who_questioned_obamas_tax/)
+- [Texas wildlife rescue speaks out after bats at Abilene Mall are exterminated](https://www.reddit.com/r/news/comments/163sqc7/texas_wildlife_rescue_speaks_out_after_bats_at/)
+- [College sophomore shot dead after trying to get in the wrong house in South Carolina](https://www.reddit.com/r/news/comments/163s7aw/college_sophomore_shot_dead_after_trying_to_get/)
+- [Alert Carolina: UNC warns of &#39;armed and dangerous person&#39; on campus](https://www.reddit.com/r/news/comments/163s6qx/alert_carolina_unc_warns_of_armed_and_dangerous/)
+- [Maui fires renew centuries-old tensions over water rights. The streams are sacred to Hawaiians](https://www.reddit.com/r/news/comments/163rsrf/maui_fires_renew_centuriesold_tensions_over_water/)
 <!-- REDDIT:END -->
 
 
