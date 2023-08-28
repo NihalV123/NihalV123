@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5 family members found dead in Ohio home in apparent quadruple murder-suicide](https://www.reddit.com/r/news/comments/162yuo9/5_family_members_found_dead_in_ohio_home_in/)
+- [At least 7 hurt in Boston parade shooting, police say](https://www.reddit.com/r/news/comments/162wl8p/at_least_7_hurt_in_boston_parade_shooting_police/)
+- [Tropical Storm Idalia heading toward Florida, US NHC says](https://www.reddit.com/r/news/comments/162ul5u/tropical_storm_idalia_heading_toward_florida_us/)
+- [Maryland top prosecutors react to 11-year-old charged in connection with more than a dozen car thefts](https://www.reddit.com/r/news/comments/162ublk/maryland_top_prosecutors_react_to_11yearold/)
+- [Haiti violence: gang guns down churchgoers protesting against criminals](https://www.reddit.com/r/news/comments/162o3vj/haiti_violence_gang_guns_down_churchgoers/)
 <!-- REDDIT:END -->
 
 
