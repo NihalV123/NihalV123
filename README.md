@@ -304,11 +304,11 @@ Top 4 most used languages across your repositories:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn JavaScript Equality Fast! #shorts](https://www.youtube.com/watch?v=fHP-A5Q-C7s)
-- [UNBOXING 100K SUBSCRIBER SILVER PLAY BUTTON & Why You Should Start A YouTube Channel TODAY!!](https://www.youtube.com/watch?v=NUjyvWTKM0g)
-- [Learn JavaScript Variables Fast! #shorts](https://www.youtube.com/watch?v=EAYMD4h9L8Q)
-- [Easy Mega Menu and Multi Level Dropdown with Animations | HTML & CSS Tutorial (2020)](https://www.youtube.com/watch?v=9GPH5xvLLRo)
-- [What Is JavaScript? A Quick Explanation! #shorts](https://www.youtube.com/watch?v=KZXPKF_mBbU)
+- [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
+- [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
+- [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
+- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
+- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
