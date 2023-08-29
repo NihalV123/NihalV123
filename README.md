@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Security guard says students&#39; warnings led officers to pursue gunman before the racist shooting at an off-campus Jacksonville store](https://www.reddit.com/r/news/comments/164frlz/security_guard_says_students_warnings_led/)
+- [Texas Guardsmen spied on migrants via WhatsApp, mishandled secret docs](https://www.reddit.com/r/news/comments/164eafg/texas_guardsmen_spied_on_migrants_via_whatsapp/)
+- [$100M Settlement Reached in Suits Alleging Torture at Christian School](https://www.reddit.com/r/news/comments/164dxte/100m_settlement_reached_in_suits_alleging_torture/)
+- [Idalia has strengthened into a hurricane as it moves toward Florida, where it is expected to make landfall with powerful winds and a life-threatening storm surge](https://www.reddit.com/r/news/comments/164djps/idalia_has_strengthened_into_a_hurricane_as_it/)
+- [California sues SoCal school district over parent notification policy if their kids change pronouns](https://www.reddit.com/r/news/comments/1649cva/california_sues_socal_school_district_over_parent/)
 <!-- REDDIT:END -->
 
 
