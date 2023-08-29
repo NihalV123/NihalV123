@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Doing the right thing&#39; earned this ex-Marine mom of three $40 million](https://www.reddit.com/r/news/comments/1641uc5/doing_the_right_thing_earned_this_exmarine_mom_of/)
+- [DOT issues largest-ever fine to American Airlines for tarmac delays](https://www.reddit.com/r/news/comments/1640uf0/dot_issues_largestever_fine_to_american_airlines/)
+- [UNC-Chapel Hill faculty member killed in shooting that sent campus into lockdown](https://www.reddit.com/r/news/comments/163zlos/uncchapel_hill_faculty_member_killed_in_shooting/)
+- [A muddy reveal for mysterious West Point time capsule from 1820s](https://www.reddit.com/r/news/comments/163yf9u/a_muddy_reveal_for_mysterious_west_point_time/)
+- [Joe the Plumber, who questioned Obama’s tax policies during the 2008 campaign, has died at 49](https://www.reddit.com/r/news/comments/163t1to/joe_the_plumber_who_questioned_obamas_tax/)
 <!-- REDDIT:END -->
 
 
