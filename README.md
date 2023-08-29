@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [On a private call with Christian millionaires, home-schooling pioneer Michael Farris pushed for a strategy aimed at siphoning billions of tax dollars from public schools](https://www.reddit.com/r/news/comments/164p3td/on_a_private_call_with_christian_millionaires/)
+- [Canada advises LGBTQ2 travellers to be aware of U.S. state laws](https://www.reddit.com/r/news/comments/164p0ls/canada_advises_lgbtq2_travellers_to_be_aware_of/)
+- [Burger King must face lawsuit claiming its Whoppers are too small](https://www.reddit.com/r/news/comments/164mget/burger_king_must_face_lawsuit_claiming_its/)
+- [D.C. to pay $5.1 million settlement after judge finds Second Amendment violations](https://www.reddit.com/r/news/comments/164m5r6/dc_to_pay_51_million_settlement_after_judge_finds/)
+- [16-year-old girl stabbed to death by another teen during McDonald&#39;s sauce dispute](https://www.reddit.com/r/news/comments/164ky4j/16yearold_girl_stabbed_to_death_by_another_teen/)
 <!-- REDDIT:END -->
 
 
