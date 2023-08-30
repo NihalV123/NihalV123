@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alligator hunters break record with massive, 14-ft.-long Mississippi monster](https://www.reddit.com/r/news/comments/1653q5c/alligator_hunters_break_record_with_massive/)
+- [European airline testing kid-free seating zone for adults only, but it&#39;ll cost extra](https://www.reddit.com/r/news/comments/16535vr/european_airline_testing_kidfree_seating_zone_for/)
+- [Judge sets bond for only Trump co-defendant jailed in Georgia election interference case](https://www.reddit.com/r/news/comments/1652sd2/judge_sets_bond_for_only_trump_codefendant_jailed/)
+- [A man is arrested months after finding a bag full of $5,000 in cash in a parking lot](https://www.reddit.com/r/news/comments/1651555/a_man_is_arrested_months_after_finding_a_bag_full/)
+- [X, formerly Twitter, faces 2,200 arbitration cases and filing fees over $3 million](https://www.reddit.com/r/news/comments/1650tci/x_formerly_twitter_faces_2200_arbitration_cases/)
 <!-- REDDIT:END -->
 
 
