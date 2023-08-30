@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US anti-abortion activist who kept fetal remains convicted of blockading clinic | Washington DC | The Guardian](https://www.reddit.com/r/news/comments/164yw62/us_antiabortion_activist_who_kept_fetal_remains/)
+- [Texas family of 4 killed in apparent murder-suicide after daughter&#39;s drowning earlier this month, police say](https://www.reddit.com/r/news/comments/164y4hm/texas_family_of_4_killed_in_apparent/)
+- [California moves closer to historic caste discrimination ban](https://www.reddit.com/r/news/comments/164vn1z/california_moves_closer_to_historic_caste/)
+- [Japan complains of harassment calls from China over Fukushima water release](https://www.reddit.com/r/news/comments/164shfw/japan_complains_of_harassment_calls_from_china/)
+- [US says it and partners have taken down notorious &#39;Qakbot&#39; hacking network](https://www.reddit.com/r/news/comments/164rpxu/us_says_it_and_partners_have_taken_down_notorious/)
 <!-- REDDIT:END -->
 
 
