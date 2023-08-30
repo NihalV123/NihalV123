@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mitch McConnell freezes, struggles to speak in second incident this summer](https://www.reddit.com/r/news/comments/165kxre/mitch_mcconnell_freezes_struggles_to_speak_in/)
+- [Top US Federal Health Agency calls to move marijuana to a lower-risk drug category](https://www.reddit.com/r/news/comments/165ko9t/top_us_federal_health_agency_calls_to_move/)
+- [Drought in Texas uncovers big dinosaur tracks dating back 110 million years](https://www.reddit.com/r/news/comments/165k36z/drought_in_texas_uncovers_big_dinosaur_tracks/)
+- [Exclusive: Walmart cuts pharmacist pay, hours while workload piles up](https://www.reddit.com/r/news/comments/165ihkb/exclusive_walmart_cuts_pharmacist_pay_hours_while/)
+- [Judge finds Giuliani defamed Georgia election workers, orders sanctions](https://www.reddit.com/r/news/comments/165idwd/judge_finds_giuliani_defamed_georgia_election/)
 <!-- REDDIT:END -->
 
 
