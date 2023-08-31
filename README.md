@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US health department recommends looser restrictions on cannabis](https://www.reddit.com/r/news/comments/1660q1g/us_health_department_recommends_looser/)
+- [More schools that forced American Indian children to assimilate revealed](https://www.reddit.com/r/news/comments/165ymme/more_schools_that_forced_american_indian_children/)
+- [Connecticut man who feds say committed dozens of robberies in 3 months gets 28 years in prison](https://www.reddit.com/r/news/comments/165yhnm/connecticut_man_who_feds_say_committed_dozens_of/)
+- [Security guard, customer die after exchanging gunfire at Indianapolis home improvement store](https://www.reddit.com/r/news/comments/165xh8x/security_guard_customer_die_after_exchanging/)
+- [As Idalia hit Florida, all of NOAA’s hurricane-hunting planes were grounded](https://www.reddit.com/r/news/comments/165wyxy/as_idalia_hit_florida_all_of_noaas/)
 <!-- REDDIT:END -->
 
 
