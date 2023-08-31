@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Andrew Tate: Chats in “War Room” suggest dozens of women groomed](https://www.reddit.com/r/news/comments/1668atn/andrew_tate_chats_in_war_room_suggest_dozens_of/)
+- [Malaysia rejects new China map claiming entire South China Sea | South China Sea News](https://www.reddit.com/r/news/comments/1667gpg/malaysia_rejects_new_china_map_claiming_entire/)
+- [Climate change, warming oceans causing more rapid intensification in hurricanes](https://www.reddit.com/r/news/comments/1662odn/climate_change_warming_oceans_causing_more_rapid/)
+- [US health department recommends looser restrictions on cannabis](https://www.reddit.com/r/news/comments/1660q1g/us_health_department_recommends_looser/)
+- [More schools that forced American Indian children to assimilate revealed](https://www.reddit.com/r/news/comments/165ymme/more_schools_that_forced_american_indian_children/)
 <!-- REDDIT:END -->
 
 
