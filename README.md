@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Family who went &quot;off the grid&quot; in Colorado wilderness died of malnutrition, autopsy finds](https://www.reddit.com/r/news/comments/167d3hy/family_who_went_off_the_grid_in_colorado/)
+- [Former Proud Boy Dominic Pezzola sentenced to 10 years in prison for role in Jan. 6 attack](https://www.reddit.com/r/news/comments/167cua0/former_proud_boy_dominic_pezzola_sentenced_to_10/)
+- [A federal judge strikes down a Texas law requiring age verification to view pornographic websites](https://www.reddit.com/r/news/comments/167apo1/a_federal_judge_strikes_down_a_texas_law/)
+- [Ohio police release video showing officers&#39; fatal shooting of pregnant Black woman Ta&#39;Kiya Young](https://www.reddit.com/r/news/comments/167angv/ohio_police_release_video_showing_officers_fatal/)
+- [Dozens of Himalayan cats, kittens rescued after being dumped in Wheaton, Md. area](https://www.reddit.com/r/news/comments/1679o6w/dozens_of_himalayan_cats_kittens_rescued_after/)
 <!-- REDDIT:END -->
 
 
