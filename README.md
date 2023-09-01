@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-head nurse at Cobb jail keeps license after denying care to dying inmate](https://www.reddit.com/r/news/comments/166qp76/exhead_nurse_at_cobb_jail_keeps_license_after/)
+- [Manhunt underway for &#39;extremely dangerous&#39; escaped murderer in Pennsylvania](https://www.reddit.com/r/news/comments/166pji4/manhunt_underway_for_extremely_dangerous_escaped/)
+- [Iceland allows whaling to resume in ‘massive step backwards’](https://www.reddit.com/r/news/comments/166o104/iceland_allows_whaling_to_resume_in_massive_step/)
+- [Capt. Bill Pinkney, first African American to sail around the world solo, dies at 87](https://www.reddit.com/r/news/comments/166ntiw/capt_bill_pinkney_first_african_american_to_sail/)
+- [FBI releases online game to teach kids internet safety skills](https://www.reddit.com/r/news/comments/166m0vy/fbi_releases_online_game_to_teach_kids_internet/)
 <!-- REDDIT:END -->
 
 
