@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. health officials recommend moving marijuana to lower-risk drug classification](https://www.reddit.com/r/news/comments/167q59d/us_health_officials_recommend_moving_marijuana_to/)
+- [Texas eliminates &#39;tampon tax&#39; on menstrual products, sales tax on baby items](https://www.reddit.com/r/news/comments/167pj84/texas_eliminates_tampon_tax_on_menstrual_products/)
+- [Mushroom pickers urged to avoid foraging books on Amazon that appear to be written by AI](https://www.reddit.com/r/news/comments/167p3tb/mushroom_pickers_urged_to_avoid_foraging_books_on/)
+- [Norway to close its Mali embassy as security deteriorates](https://www.reddit.com/r/news/comments/167muuc/norway_to_close_its_mali_embassy_as_security/)
+- [Oregon suspect, who escaped while fully shackled, taken into custody after found stuck in mud | CNN](https://www.reddit.com/r/news/comments/167kg73/oregon_suspect_who_escaped_while_fully_shackled/)
 <!-- REDDIT:END -->
 
 
