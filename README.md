@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oregon suspect, who escaped while fully shackled, taken into custody after found stuck in mud | CNN](https://www.reddit.com/r/news/comments/167kg73/oregon_suspect_who_escaped_while_fully_shackled/)
+- [Proud Boys leader Ethan Nordean gets 18 years in prison, tying for longest sentence in Jan. 6 attack](https://www.reddit.com/r/news/comments/167kdoh/proud_boys_leader_ethan_nordean_gets_18_years_in/)
+- [Schooner that sank in Lake Michigan in 1881 found intact, miles off Wisconsin coastline](https://www.reddit.com/r/news/comments/167jd8y/schooner_that_sank_in_lake_michigan_in_1881_found/)
+- [Mohamed Al Fayed, former Harrods owner whose son Dodi was killed alongside Diana, Princess of Wales in car crash, has died at age 94](https://www.reddit.com/r/news/comments/167j9d3/mohamed_al_fayed_former_harrods_owner_whose_son/)
+- [An Alaska city reinstates its police chief after felony assault charge is dropped](https://www.reddit.com/r/news/comments/167ight/an_alaska_city_reinstates_its_police_chief_after/)
 <!-- REDDIT:END -->
 
 
