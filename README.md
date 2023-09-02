@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jimmy Buffett, legendary &#39;Margaritaville&#39; singer, dies at 76](https://www.reddit.com/r/news/comments/167zhn3/jimmy_buffett_legendary_margaritaville_singer/)
+- [Lawsuit settled over widespread abuse of former students at shuttered West Virginia boarding school](https://www.reddit.com/r/news/comments/167yhkd/lawsuit_settled_over_widespread_abuse_of_former/)
+- [Jimmy Buffett, musical ‘Mayor of Margaritaville,’ dies at 76](https://www.reddit.com/r/news/comments/167xjig/jimmy_buffett_musical_mayor_of_margaritaville/)
+- [&#39;Margaritaville&#39; singer Jimmy Buffett, who turned beach-bum life into an empire, dies at 76](https://www.reddit.com/r/news/comments/167wyjd/margaritaville_singer_jimmy_buffett_who_turned/)
+- [Jimmy Buffett, American musician, singer-songwriter, dead at 76](https://www.reddit.com/r/news/comments/167w1vh/jimmy_buffett_american_musician_singersongwriter/)
 <!-- REDDIT:END -->
 
 
