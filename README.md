@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World Health Organization Now sponsors Traditional Medicine as legitimate and compatible with modern healthcare](https://www.reddit.com/r/news/comments/16938is/world_health_organization_now_sponsors/)
+- [Painting bought for $4 at New Hampshire thrift shop could sell for $250,000 at auction](https://www.reddit.com/r/news/comments/168yi4u/painting_bought_for_4_at_new_hampshire_thrift/)
+- [Dog sneaks away from home, into SoFi Stadium for Metallica concert - CBS Los Angeles](https://www.reddit.com/r/news/comments/168y7zt/dog_sneaks_away_from_home_into_sofi_stadium_for/)
+- [Alleged townhome strip club prompts neighbors to call police, host denies wrongdoing](https://www.reddit.com/r/news/comments/168xdai/alleged_townhome_strip_club_prompts_neighbors_to/)
+- [Death under investigation at Burning Man as flooding strands thousands at Nevada festival site](https://www.reddit.com/r/news/comments/168wygj/death_under_investigation_at_burning_man_as/)
 <!-- REDDIT:END -->
 
 
