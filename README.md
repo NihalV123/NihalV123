@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sunday&#39;s Metallica show in Glendale AZ postponed, lead singer tested positive for COVID](https://www.reddit.com/r/news/comments/168ip9b/sundays_metallica_show_in_glendale_az_postponed/)
+- [Spain protests over ‘serious incidents’ near Gibraltar](https://www.reddit.com/r/news/comments/168ils0/spain_protests_over_serious_incidents_near/)
+- [Former top US diplomat Bill Richardson dies aged 75](https://www.reddit.com/r/news/comments/168gw17/former_top_us_diplomat_bill_richardson_dies_aged/)
+- [SF Fire Dept: Person Dies After Robotaxi Blocked Ambulance](https://www.reddit.com/r/news/comments/168ecqi/sf_fire_dept_person_dies_after_robotaxi_blocked/)
+- [Disney channels like ESPN dropped from Charter Spectrum in ongoing dispute | CNN Business](https://www.reddit.com/r/news/comments/168ccf3/disney_channels_like_espn_dropped_from_charter/)
 <!-- REDDIT:END -->
 
 
