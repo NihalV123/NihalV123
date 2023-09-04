@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gabon Coup: General Nguema Sworn In As Interim President, Vows To Hold Free Elections](https://www.reddit.com/r/news/comments/169wsjy/gabon_coup_general_nguema_sworn_in_as_interim/)
+- [Smash Mouth frontman Steve Harwell dies at 56](https://www.reddit.com/r/news/comments/169v10r/smash_mouth_frontman_steve_harwell_dies_at_56/)
+- [70,000 at Burning Man festival are isolated, still stuck as rain returns](https://www.reddit.com/r/news/comments/169uk20/70000_at_burning_man_festival_are_isolated_still/)
+- [A second person has died in a weekend shooting in Lynn that injured 5 others](https://www.reddit.com/r/news/comments/169thjt/a_second_person_has_died_in_a_weekend_shooting_in/)
+- [Japan&#39;s top court orders Okinawa to allow a divisive government plan to build US military runways](https://www.reddit.com/r/news/comments/169tch3/japans_top_court_orders_okinawa_to_allow_a/)
 <!-- REDDIT:END -->
 
 
