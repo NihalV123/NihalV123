@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Smash Mouth’s Steve Harwell enters hospice care](https://www.reddit.com/r/news/comments/169cciy/smash_mouths_steve_harwell_enters_hospice_care/)
+- [Neo-Nazi groups spew hate outside Disney World and near Orlando, officials say](https://www.reddit.com/r/news/comments/169971x/neonazi_groups_spew_hate_outside_disney_world_and/)
+- [Ukraine President Zelenskyy says defense minister Oleksii Reznikov will be replaced this week](https://www.reddit.com/r/news/comments/1697h4a/ukraine_president_zelenskyy_says_defense_minister/)
+- [Pilot dies in gender reveal stunt](https://www.reddit.com/r/news/comments/1694yna/pilot_dies_in_gender_reveal_stunt/)
+- [Painting bought for $4 at New Hampshire thrift shop could sell for $250,000 at auction](https://www.reddit.com/r/news/comments/168yi4u/painting_bought_for_4_at_new_hampshire_thrift/)
 <!-- REDDIT:END -->
 
 
