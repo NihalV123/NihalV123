@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ancient Roman bust seized from Massachusetts museum in looting investigation](https://www.reddit.com/r/news/comments/16auepz/ancient_roman_bust_seized_from_massachusetts/)
+- [United Airlines issues nationwide ground stop due to computer issue](https://www.reddit.com/r/news/comments/16au7b7/united_airlines_issues_nationwide_ground_stop_due/)
+- [Drug shortages causing hospitals to skip, delay or ration care, survey finds](https://www.reddit.com/r/news/comments/16asbti/drug_shortages_causing_hospitals_to_skip_delay_or/)
+- [US Open fan thrown out after being accused of quoting &#39;most famous Hitler phrase&#39; at German player](https://www.reddit.com/r/news/comments/16as7fz/us_open_fan_thrown_out_after_being_accused_of/)
+- [Mitch McConnell brain scans found no stroke, seizures after second freeze, doctor says](https://www.reddit.com/r/news/comments/16as5fg/mitch_mcconnell_brain_scans_found_no_stroke/)
 <!-- REDDIT:END -->
 
 
