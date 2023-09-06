@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [This summer’s swelter was a global record breaker for high heat ever measured, meteorologists say](https://www.reddit.com/r/news/comments/16bfvto/this_summers_swelter_was_a_global_record_breaker/)
+- [Armenia says it will stage joint military exercise with US next week](https://www.reddit.com/r/news/comments/16bfkop/armenia_says_it_will_stage_joint_military/)
+- [Three men rescued from waters off Australia after sharks attack inflatable catamaran](https://www.reddit.com/r/news/comments/16bf8di/three_men_rescued_from_waters_off_australia_after/)
+- [Hong Kong&#39;s top court tells government to create &#39;legal recognition&#39; for same-sex partnerships | CNN](https://www.reddit.com/r/news/comments/16belvz/hong_kongs_top_court_tells_government_to_create/)
+- [Russia is covering aircraft with car tires, potentially to protect them from Ukrainian drones](https://www.reddit.com/r/news/comments/16bab7i/russia_is_covering_aircraft_with_car_tires/)
 <!-- REDDIT:END -->
 
 
