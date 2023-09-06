@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man once featured in pedestrian safety ad seriously hurt in hit-and-run in DC](https://www.reddit.com/r/news/comments/16bqehp/man_once_featured_in_pedestrian_safety_ad/)
+- [The Iraqi YouTube star killed by her father](https://www.reddit.com/r/news/comments/16bq61e/the_iraqi_youtube_star_killed_by_her_father/)
+- [Trump is liable in the second E. Jean Carroll defamation case, judge rules; January trial will determine damages](https://www.reddit.com/r/news/comments/16bozdy/trump_is_liable_in_the_second_e_jean_carroll/)
+- [Revealed: undercover UK police officer deceived woman into 19-year relationship](https://www.reddit.com/r/news/comments/16bnqn9/revealed_undercover_uk_police_officer_deceived/)
+- [Scientists grow whole model of human embryo, without sperm or egg](https://www.reddit.com/r/news/comments/16bmm99/scientists_grow_whole_model_of_human_embryo/)
 <!-- REDDIT:END -->
 
 
