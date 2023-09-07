@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Football coach who won Supreme Court case for right to pray on the field resigns after one game](https://www.reddit.com/r/news/comments/16c7kzw/football_coach_who_won_supreme_court_case_for/)
+- [California judge halts district policy requiring parents be told if kids change pronouns](https://www.reddit.com/r/news/comments/16c4i71/california_judge_halts_district_policy_requiring/)
+- [Delta flight forced to turn around because of diarrhea incident](https://www.reddit.com/r/news/comments/16c48ku/delta_flight_forced_to_turn_around_because_of/)
+- [Fourteen days across the Atlantic, perched on a ship’s rudder](https://www.reddit.com/r/news/comments/16c2l7v/fourteen_days_across_the_atlantic_perched_on_a/)
+- [Felony convictions vacated for 4 Navy officers in sprawling &#39;Fat Leonard&#39; bribery scandal](https://www.reddit.com/r/news/comments/16c0k8m/felony_convictions_vacated_for_4_navy_officers_in/)
 <!-- REDDIT:END -->
 
 
