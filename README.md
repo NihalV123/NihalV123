@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea launches new tactical nuclear attack submarine -KCNA](https://www.reddit.com/r/news/comments/16csz57/north_korea_launches_new_tactical_nuclear_attack/)
+- [After school &#39;Satan Club&#39; event at Southern California library draws protests](https://www.reddit.com/r/news/comments/16cqnaa/after_school_satan_club_event_at_southern/)
+- [&#39;Stop Cop City&#39; activists arrested after chaining themselves to bulldozer near Atlanta](https://www.reddit.com/r/news/comments/16cpgtm/stop_cop_city_activists_arrested_after_chaining/)
+- [Peter Navarro Convicted of Contempt of Congress Over Jan. 6 Subpoena &lpar;Gift Article&rpar;](https://www.reddit.com/r/news/comments/16cpcg5/peter_navarro_convicted_of_contempt_of_congress/)
+- [An ailing American explorer trapped 3,000 feet deep in Turkish cave awaits difficult rescue](https://www.reddit.com/r/news/comments/16co9z8/an_ailing_american_explorer_trapped_3000_feet/)
 <!-- REDDIT:END -->
 
 
