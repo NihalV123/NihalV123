@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan wrestles with its views on ‘outside people’ amid population crisis](https://www.reddit.com/r/news/comments/16dtkke/japan_wrestles_with_its_views_on_outside_people/)
+- [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.reddit.com/r/news/comments/16dte4g/dennis_austin_the_software_developer_of/)
+- [New Mexico governor issues order to suspend open and concealed carry of guns in Albuquerque](https://www.reddit.com/r/news/comments/16dsgjm/new_mexico_governor_issues_order_to_suspend_open/)
+- [Dating app Grindr loses nearly half its staff after trying to force a return to office](https://www.reddit.com/r/news/comments/16dreg6/dating_app_grindr_loses_nearly_half_its_staff/)
+- [Apartment rents are on the verge of declining due to massive new supply](https://www.reddit.com/r/news/comments/16dozqp/apartment_rents_are_on_the_verge_of_declining_due/)
 <!-- REDDIT:END -->
 
 
