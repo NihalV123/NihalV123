@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Additional bodycam footage is released in the death of pregnant Black mother Ta&#39;Kiya Young](https://www.reddit.com/r/news/comments/16ec0x7/additional_bodycam_footage_is_released_in_the/)
+- [New Mexico governor orders suspension of open and concealed carry of guns in Albuquerque](https://www.reddit.com/r/news/comments/16eanl6/new_mexico_governor_orders_suspension_of_open_and/)
+- [Rescue begins of ailing US researcher stuck 3,000 feet inside a Turkish cave, Turkish officials say](https://www.reddit.com/r/news/comments/16e9j4v/rescue_begins_of_ailing_us_researcher_stuck_3000/)
+- [India, advocate for the global poor, clears slums as G20 draw near](https://www.reddit.com/r/news/comments/16e5bzy/india_advocate_for_the_global_poor_clears_slums/)
+- [Jan. 6 rioter who attacked police with bear spray sentenced to 6½ years](https://www.reddit.com/r/news/comments/16e4nlx/jan_6_rioter_who_attacked_police_with_bear_spray/)
 <!-- REDDIT:END -->
 
 
