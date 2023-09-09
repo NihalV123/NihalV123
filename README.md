@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Apartment rents are on the verge of declining due to massive new supply](https://www.reddit.com/r/news/comments/16dozqp/apartment_rents_are_on_the_verge_of_declining_due/)
+- [Parenting advice YouTuber Ruby Franke and business partner to remain jailed on child abuse charges](https://www.reddit.com/r/news/comments/16dofy3/parenting_advice_youtuber_ruby_franke_and/)
+- [More wild Atlantic salmon found in U.S. rivers than any time in the past decade, officials say](https://www.reddit.com/r/news/comments/16do3op/more_wild_atlantic_salmon_found_in_us_rivers_than/)
+- [Eric Munchel, Nashville&#39;s &#39;zip-tie guy,&#39; gets one of longest sentences for January 6 riot at Capitol](https://www.reddit.com/r/news/comments/16dnf00/eric_munchel_nashvilles_ziptie_guy_gets_one_of/)
+- [Deacon arrested for sending nude image to minor, authorities say](https://www.reddit.com/r/news/comments/16dlqvk/deacon_arrested_for_sending_nude_image_to_minor/)
 <!-- REDDIT:END -->
 
 
