@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mila Kunis, Ashton Kutcher say they&#39;re &#39;aware of the pain&#39; their letters defending Danny Masterson caused](https://www.reddit.com/r/news/comments/16f6f5n/mila_kunis_ashton_kutcher_say_theyre_aware_of_the/)
+- [Sudan conflict: Dozens killed in attack on Khartoum market, medics say](https://www.reddit.com/r/news/comments/16f56ym/sudan_conflict_dozens_killed_in_attack_on/)
+- [Vatican holds unprecedented beatification of Polish family of 9 killed for hiding Jews](https://www.reddit.com/r/news/comments/16f0er0/vatican_holds_unprecedented_beatification_of/)
+- [Convicted killer who escaped Pennsylvania prison was spotted overnight and changed his appearance, police say](https://www.reddit.com/r/news/comments/16f03os/convicted_killer_who_escaped_pennsylvania_prison/)
+- [G20: EU and US back trade corridor linking Europe, Middle East and India](https://www.reddit.com/r/news/comments/16exrzt/g20_eu_and_us_back_trade_corridor_linking_europe/)
 <!-- REDDIT:END -->
 
 
