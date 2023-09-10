@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [G20: EU and US back trade corridor linking Europe, Middle East and India](https://www.reddit.com/r/news/comments/16exrzt/g20_eu_and_us_back_trade_corridor_linking_europe/)
+- [Phoenix breaks heat record as city hits 110F for the 54th consecutive day](https://www.reddit.com/r/news/comments/16eu13h/phoenix_breaks_heat_record_as_city_hits_110f_for/)
+- [30 fighting days left for Ukraine&#39;s offensive- U.S Army Chief](https://www.reddit.com/r/news/comments/16esv6a/30_fighting_days_left_for_ukraines_offensive_us/)
+- [Netherlands police use water cannon, detain 2,400 climate activists](https://www.reddit.com/r/news/comments/16esphr/netherlands_police_use_water_cannon_detain_2400/)
+- [One dead and several injured after car hits people in Melbourne](https://www.reddit.com/r/news/comments/16esovq/one_dead_and_several_injured_after_car_hits/)
 <!-- REDDIT:END -->
 
 
