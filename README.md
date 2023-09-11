@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘We need food and shelter’: farmers flee for their lives as terrorists attack villages in Mali](https://www.reddit.com/r/news/comments/16ft3tn/we_need_food_and_shelter_farmers_flee_for_their/)
+- [Kim Jong Un reportedly en route to Russia as Vladimir Putin arrives in Vladivostok for potential meeting | CNN](https://www.reddit.com/r/news/comments/16fsm9n/kim_jong_un_reportedly_en_route_to_russia_as/)
+- [Wilko rescue deal fails sparking huge job loss fears](https://www.reddit.com/r/news/comments/16fptix/wilko_rescue_deal_fails_sparking_huge_job_loss/)
+- [SBA program upended in wake of Supreme Court affirmative action ruling](https://www.reddit.com/r/news/comments/16fong9/sba_program_upended_in_wake_of_supreme_court/)
+- [Rapper arrested on a murder charge after allegedly writing a song and making a music video about the crime](https://www.reddit.com/r/news/comments/16fhy8l/rapper_arrested_on_a_murder_charge_after/)
 <!-- REDDIT:END -->
 
 
