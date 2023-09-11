@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Commercial flights halted to Mali&#39;s Timbuktu amid Islamist blockade](https://www.reddit.com/r/news/comments/16g2jgh/commercial_flights_halted_to_malis_timbuktu_amid/)
+- [Rockets’ Kevin Porter Jr. charged with assault, strangulation](https://www.reddit.com/r/news/comments/16g2az9/rockets_kevin_porter_jr_charged_with_assault/)
+- [Hurricane Lee expected to steadily strengthen this week](https://www.reddit.com/r/news/comments/16g1rzv/hurricane_lee_expected_to_steadily_strengthen/)
+- [Disney, Charter deal to end blackout includes streaming discount for cable subscribers](https://www.reddit.com/r/news/comments/16g0yin/disney_charter_deal_to_end_blackout_includes/)
+- [J.M. Smucker to Buy Twinkies Maker Hostess for $4.6 Billion](https://www.reddit.com/r/news/comments/16g0c1o/jm_smucker_to_buy_twinkies_maker_hostess_for_46/)
 <!-- REDDIT:END -->
 
 
