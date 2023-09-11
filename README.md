@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Luis Rubiales: Spanish FA president resigns after kissing player at Women&#39;s World Cup Final](https://www.reddit.com/r/news/comments/16flfgb/luis_rubiales_spanish_fa_president_resigns_after/)
+- [Rapper arrested on a murder charge after allegedly writing a song and making a music video about the crime](https://www.reddit.com/r/news/comments/16fhy8l/rapper_arrested_on_a_murder_charge_after/)
+- [Novak Djokovic wins the US Open for his 24th Grand Slam title by beating Daniil Medvedev](https://www.reddit.com/r/news/comments/16ffs12/novak_djokovic_wins_the_us_open_for_his_24th/)
+- [Luis Rubiales says he will resign as Spanish soccer federation president over unwanted World Cup kiss](https://www.reddit.com/r/news/comments/16fbyym/luis_rubiales_says_he_will_resign_as_spanish/)
+- [Bodycam video shows federal drug prosecutor handing police business card in DUI crash arrest](https://www.reddit.com/r/news/comments/16faz80/bodycam_video_shows_federal_drug_prosecutor/)
 <!-- REDDIT:END -->
 
 
