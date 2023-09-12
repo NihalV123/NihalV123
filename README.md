@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Escaped inmate Danelo Cavalcante armed with rifle in South Coventry Township: police](https://www.reddit.com/r/news/comments/16gkblp/escaped_inmate_danelo_cavalcante_armed_with_rifle/)
+- [Kim Jong-un arrives in Russia to meet Putin as US threatens sanctions | North Korea](https://www.reddit.com/r/news/comments/16gjqau/kim_jongun_arrives_in_russia_to_meet_putin_as_us/)
+- [$1bn ‘war on drugs’ has fuelled human rights abuses over past decade, says report](https://www.reddit.com/r/news/comments/16gj1zk/1bn_war_on_drugs_has_fuelled_human_rights_abuses/)
+- [&#39;Brady Bunch&#39; house in Studio City sells for $3.2 million](https://www.reddit.com/r/news/comments/16giozh/brady_bunch_house_in_studio_city_sells_for_32/)
+- [Ginni Thomas and rightwing activists exploited supreme court ruling – report](https://www.reddit.com/r/news/comments/16ggt1c/ginni_thomas_and_rightwing_activists_exploited/)
 <!-- REDDIT:END -->
 
 
