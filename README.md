@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nasa says distant exoplanet could have rare water ocean and possible hint of life](https://www.reddit.com/r/news/comments/16gblog/nasa_says_distant_exoplanet_could_have_rare_water/)
+- [Marine Capitol rioter gets 1 hour of community service for each of 279 Marine Civil War casualties](https://www.reddit.com/r/news/comments/16gbcrb/marine_capitol_rioter_gets_1_hour_of_community/)
+- [Texas minister plans first AI-generated sermon for Sunday service](https://www.reddit.com/r/news/comments/16gatlu/texas_minister_plans_first_aigenerated_sermon_for/)
+- [Texas student suspended over his loc hairstyle days after state’s Crown Act takes effect](https://www.reddit.com/r/news/comments/16g9wqr/texas_student_suspended_over_his_loc_hairstyle/)
+- [Teenage girl shot, killed near DuVal High School in Prince George&#39;s County: police](https://www.reddit.com/r/news/comments/16g9fap/teenage_girl_shot_killed_near_duval_high_school/)
 <!-- REDDIT:END -->
 
 
