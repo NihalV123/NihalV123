@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [McDonald&#39;s plans to eliminate self-service soda stations at all its restaurants](https://www.reddit.com/r/news/comments/16h5ctj/mcdonalds_plans_to_eliminate_selfservice_soda/)
+- [CDC recommends updated Covid vaccines for everyone ages 6 months and up, allowing shots to start within days](https://www.reddit.com/r/news/comments/16h4zfp/cdc_recommends_updated_covid_vaccines_for/)
+- [Lyft&#39;s new feature lets women and non-binary riders request their driver&#39;s gender](https://www.reddit.com/r/news/comments/16h3a6g/lyfts_new_feature_lets_women_and_nonbinary_riders/)
+- [Libya floods: Entire neighbourhoods dragged into the sea](https://www.reddit.com/r/news/comments/16h39ma/libya_floods_entire_neighbourhoods_dragged_into/)
+- [Apple forced to ditch lightning charger in new iPhone](https://www.reddit.com/r/news/comments/16h2otl/apple_forced_to_ditch_lightning_charger_in_new/)
 <!-- REDDIT:END -->
 
 
