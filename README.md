@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New England on alert: Hurricane and Tropical Storm Watches issued for much of coastline ahead of Lee](https://www.reddit.com/r/news/comments/16hz0ny/new_england_on_alert_hurricane_and_tropical_storm/)
+- [Federal judge blocks suspension of right to carry firearms in public ordered by New Mexico governor](https://www.reddit.com/r/news/comments/16hyorp/federal_judge_blocks_suspension_of_right_to_carry/)
+- [Woman arrested in OC Target fire that police say was attempt to cover up theft of baby formula](https://www.reddit.com/r/news/comments/16hw3er/woman_arrested_in_oc_target_fire_that_police_say/)
+- [Financially struggling rural Pa. hospital creates GoFundMe page with $1.5M goal](https://www.reddit.com/r/news/comments/16hveve/financially_struggling_rural_pa_hospital_creates/)
+- [Earth ‘well outside safe operating space for humanity’, scientists find](https://www.reddit.com/r/news/comments/16hv2xx/earth_well_outside_safe_operating_space_for/)
 <!-- REDDIT:END -->
 
 
