@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scientists call fraud on supposed extraterrestrials presented to Mexican Congress](https://www.reddit.com/r/news/comments/16i96yz/scientists_call_fraud_on_supposed/)
+- [Fentanyl mixed with cocaine or meth is driving the &#39;4th wave&#39; of the overdose crisis](https://www.reddit.com/r/news/comments/16i90wn/fentanyl_mixed_with_cocaine_or_meth_is_driving/)
+- [Taiwan blasts Elon Musk over latest China comments](https://www.reddit.com/r/news/comments/16i8m2r/taiwan_blasts_elon_musk_over_latest_china_comments/)
+- [Cruise ship that touts its &quot;navigation capabilities&quot; runs aground in Greenland with more than 200 onboard](https://www.reddit.com/r/news/comments/16i50mc/cruise_ship_that_touts_its_navigation/)
+- [Jury awards $100,000 to Kentucky couple denied marriage license by ex-County Clerk Kim Davis](https://www.reddit.com/r/news/comments/16i46m8/jury_awards_100000_to_kentucky_couple_denied/)
 <!-- REDDIT:END -->
 
 
