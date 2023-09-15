@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Six ‘Soldiers of Christ’ charged with murder after woman found dead in trunk, police say](https://www.reddit.com/r/news/comments/16j4w3q/six_soldiers_of_christ_charged_with_murder_after/)
+- [Over 700 people tested for Nipah virus after two deaths in India](https://www.reddit.com/r/news/comments/16j4u0b/over_700_people_tested_for_nipah_virus_after_two/)
+- [Workers start strike at US motor industry giants](https://www.reddit.com/r/news/comments/16j3hs6/workers_start_strike_at_us_motor_industry_giants/)
+- [Video shows school employee hitting 3-year-old nonverbal autistic child in the head and knocking him to the floor, attorney alleges](https://www.reddit.com/r/news/comments/16j3572/video_shows_school_employee_hitting_3yearold/)
+- [Control grocery prices or face new taxes, Canada’s Trudeau warns chains](https://www.reddit.com/r/news/comments/16j0xo1/control_grocery_prices_or_face_new_taxes_canadas/)
 <!-- REDDIT:END -->
 
 
