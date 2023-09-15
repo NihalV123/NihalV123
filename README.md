@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dominican Republic to close all borders with Haiti in a dispute over a canal](https://www.reddit.com/r/news/comments/16ixj0a/dominican_republic_to_close_all_borders_with/)
+- [Explosion at world&#39;s largest railyard in Nebraska prompts evacuations because of heavy toxic smoke](https://www.reddit.com/r/news/comments/16ix5vt/explosion_at_worlds_largest_railyard_in_nebraska/)
+- [Razor blade taped to Altoona church’s handrail leads to arrest](https://www.reddit.com/r/news/comments/16iu0q3/razor_blade_taped_to_altoona_churchs_handrail/)
+- [The first Bob Ross work from ‘The Joy of Painting’ is on sale](https://www.reddit.com/r/news/comments/16itj2q/the_first_bob_ross_work_from_the_joy_of_painting/)
+- [Arkansas Gov. Sarah Huckabee Sanders signs law restricting release of her travel, security records](https://www.reddit.com/r/news/comments/16isas1/arkansas_gov_sarah_huckabee_sanders_signs_law/)
 <!-- REDDIT:END -->
 
 
