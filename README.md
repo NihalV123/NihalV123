@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [American XL bully dogs to be banned after attacks, Rishi Sunak says | UK News](https://www.reddit.com/r/news/comments/16jayzh/american_xl_bully_dogs_to_be_banned_after_attacks/)
+- [More than 700 million people don&#39;t know when — or if — they will eat again, UN food chief says](https://www.reddit.com/r/news/comments/16jafvd/more_than_700_million_people_dont_know_when_or_if/)
+- [Closing arguments set to begin in Texas AG Ken Paxton’s impeachment trial](https://www.reddit.com/r/news/comments/16j9p5c/closing_arguments_set_to_begin_in_texas_ag_ken/)
+- [‘Disgusting’: Australian tourist’s disrespectful Japan act horrifies](https://www.reddit.com/r/news/comments/16j7j51/disgusting_australian_tourists_disrespectful/)
+- [Six ‘Soldiers of Christ’ charged with murder after woman found dead in trunk, police say](https://www.reddit.com/r/news/comments/16j4w3q/six_soldiers_of_christ_charged_with_murder_after/)
 <!-- REDDIT:END -->
 
 
