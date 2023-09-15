@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Flooding death toll soars to 11,300 in Libya’s coastal city of Derna](https://www.reddit.com/r/news/comments/16jhm89/flooding_death_toll_soars_to_11300_in_libyas/)
+- [Jury clears 3 men in the last trial tied to the plot to kidnap Michigan Gov. Gretchen Whitmer](https://www.reddit.com/r/news/comments/16jg91y/jury_clears_3_men_in_the_last_trial_tied_to_the/)
+- [United Airlines flight descends 28,000 feet in 8 minutes for &#39;pressurization issue&#39; | CNN](https://www.reddit.com/r/news/comments/16jf6ns/united_airlines_flight_descends_28000_feet_in_8/)
+- [New College of Florida under investigation for alleged civil rights violation](https://www.reddit.com/r/news/comments/16je5su/new_college_of_florida_under_investigation_for/)
+- [Fernando Botero, Colombian artist of rotund and whimsical imagery, dies at 91](https://www.reddit.com/r/news/comments/16jdrr1/fernando_botero_colombian_artist_of_rotund_and/)
 <!-- REDDIT:END -->
 
 
