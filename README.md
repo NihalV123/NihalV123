@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ken Paxton Texas AG acquitted of all charges](https://www.reddit.com/r/news/comments/16kdqxb/ken_paxton_texas_ag_acquitted_of_all_charges/)
+- [Iran&#39;s security forces out in force a year after Mahsa Amini&#39;s death](https://www.reddit.com/r/news/comments/16kdcfp/irans_security_forces_out_in_force_a_year_after/)
+- [California sues oil giants alleging ‘climate risks deception’: Report](https://www.reddit.com/r/news/comments/16kd2u8/california_sues_oil_giants_alleging_climate_risks/)
+- [Oregon launches legal psilocybin access amid high demand and hopes for improved mental health care](https://www.reddit.com/r/news/comments/16kcj6u/oregon_launches_legal_psilocybin_access_amid_high/)
+- [Russell Brand accused of sexual assault by four women](https://www.reddit.com/r/news/comments/16kbojc/russell_brand_accused_of_sexual_assault_by_four/)
 <!-- REDDIT:END -->
 
 
