@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Overton, Texas principal arrested in connection with paddling of student](https://www.reddit.com/r/news/comments/16jwygh/overton_texas_principal_arrested_in_connection/)
+- [Speculation grows over whereabouts of China&#39;s Defense Minister Li Shangfu | CNN](https://www.reddit.com/r/news/comments/16jwisq/speculation_grows_over_whereabouts_of_chinas/)
+- [Son of drug kingpin &#39;El Chapo&#39; extradited to United States](https://www.reddit.com/r/news/comments/16jtjsz/son_of_drug_kingpin_el_chapo_extradited_to_united/)
+- [US NIH begins human trials of &#39;universal&#39; flu vaccine](https://www.reddit.com/r/news/comments/16jt2d2/us_nih_begins_human_trials_of_universal_flu/)
+- [Death toll from Hawaii wildfires drops to 97](https://www.reddit.com/r/news/comments/16jt104/death_toll_from_hawaii_wildfires_drops_to_97/)
 <!-- REDDIT:END -->
 
 
