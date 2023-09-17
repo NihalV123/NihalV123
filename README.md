@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rolling Stone co-founder Jann Wenner removed from Rock Hall leadership after controversial comments](https://www.reddit.com/r/news/comments/16ksvpk/rolling_stone_cofounder_jann_wenner_removed_from/)
+- [UN nuclear agency slams Iran for barring inspectors from monitoring program](https://www.reddit.com/r/news/comments/16kr15h/un_nuclear_agency_slams_iran_for_barring/)
+- [Researchers unearth &quot;buried secrets&quot; of Spanish warship that sank in 1810, killing hundreds](https://www.reddit.com/r/news/comments/16kqx5e/researchers_unearth_buried_secrets_of_spanish/)
+- [Insiders Reveal Major Problems at Lab-Grown-Meat Startup Upside Foods](https://www.reddit.com/r/news/comments/16kqpur/insiders_reveal_major_problems_at_labgrownmeat/)
+- [Letter suggests Pope Pius XII knew of mass gassings of Jews and Poles in 1942](https://www.reddit.com/r/news/comments/16kqmii/letter_suggests_pope_pius_xii_knew_of_mass/)
 <!-- REDDIT:END -->
 
 
