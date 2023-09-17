@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Artwork believed stolen during Holocaust seized from museums in multiple states](https://www.reddit.com/r/news/comments/16kkv5p/artwork_believed_stolen_during_holocaust_seized/)
+- [Armed man impersonated U.S. Marshal at Robert Kennedy Jr. campaign event](https://www.reddit.com/r/news/comments/16kiodr/armed_man_impersonated_us_marshal_at_robert/)
+- [Mali, Niger and Burkina Faso sign Sahel security pact](https://www.reddit.com/r/news/comments/16ki1at/mali_niger_and_burkina_faso_sign_sahel_security/)
+- [Over 98,000 without power in Maine as post-tropical cyclone Lee makes landfall near U.S.- Canada border](https://www.reddit.com/r/news/comments/16khdjy/over_98000_without_power_in_maine_as_posttropical/)
+- [CIA identifies second officer involved in &#39;Argo&#39; mission](https://www.reddit.com/r/news/comments/16kh0zw/cia_identifies_second_officer_involved_in_argo/)
 <!-- REDDIT:END -->
 
 
