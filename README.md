@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Drew Barrymore to pause show until Hollywood writers&#39; strike ends](https://www.reddit.com/r/news/comments/16l75vv/drew_barrymore_to_pause_show_until_hollywood/)
+- [Alligator missing half its jaw finds new home at Gatorland](https://www.reddit.com/r/news/comments/16l5zkm/alligator_missing_half_its_jaw_finds_new_home_at/)
+- [Five new daycares in Calgary closed as E. coli outbreak spreads](https://www.reddit.com/r/news/comments/16l2wom/five_new_daycares_in_calgary_closed_as_e_coli/)
+- [14-year-old arrested in fatal shooting in Florida](https://www.reddit.com/r/news/comments/16l2rmw/14yearold_arrested_in_fatal_shooting_in_florida/)
+- [Man in Wuhan killed after 100kg barbell pins his neck to gym bench](https://www.reddit.com/r/news/comments/16kzp3a/man_in_wuhan_killed_after_100kg_barbell_pins_his/)
 <!-- REDDIT:END -->
 
 
