@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sepp Kuss brings back a GC victory – and likability – to US cycling](https://www.reddit.com/r/news/comments/16m2sju/sepp_kuss_brings_back_a_gc_victory_and_likability/)
+- [Second model found dead in downtown LA apartment](https://www.reddit.com/r/news/comments/16m1sfo/second_model_found_dead_in_downtown_la_apartment/)
+- [Striking auto workers want a 40% pay increase—the same rate their CEOs&#39; pay grew in recent years](https://www.reddit.com/r/news/comments/16m1m82/striking_auto_workers_want_a_40_pay_increasethe/)
+- [Wild Bear Breaks Into Disney World and Wreaks Havoc in Magic Kingdom](https://www.reddit.com/r/news/comments/16m1lfn/wild_bear_breaks_into_disney_world_and_wreaks/)
+- [Planned Parenthood resumes offering abortions in Wisconsin after more than a year](https://www.reddit.com/r/news/comments/16m1265/planned_parenthood_resumes_offering_abortions_in/)
 <!-- REDDIT:END -->
 
 
