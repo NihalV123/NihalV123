@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Five Americans detained in Iran walk free, released in deal for frozen Iranian assets](https://www.reddit.com/r/news/comments/16mbzwq/five_americans_detained_in_iran_walk_free/)
+- [Debris field found in search for a missing F-35 stealth fighter jet](https://www.reddit.com/r/news/comments/16mamc9/debris_field_found_in_search_for_a_missing_f35/)
+- [Canada says it has info linking India gov&#39;t agents to Sikh leader&#39;s murder](https://www.reddit.com/r/news/comments/16m6s72/canada_says_it_has_info_linking_india_govt_agents/)
+- [Rides reopened after black bear captured at Walt Disney World&#39;s Magic Kingdom park](https://www.reddit.com/r/news/comments/16m6bdw/rides_reopened_after_black_bear_captured_at_walt/)
+- [Chicago-area libraries forced to close again due to violent threats](https://www.reddit.com/r/news/comments/16m36q3/chicagoarea_libraries_forced_to_close_again_due/)
 <!-- REDDIT:END -->
 
 
