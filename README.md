@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Utah private prison company returns $5M to Mississippi after understaffing is found at facilities - ABC News](https://www.reddit.com/r/news/comments/16mwy4f/utah_private_prison_company_returns_5m_to/)
+- [Elon Musk says Twitter, now X, could charge all users subscription fees](https://www.reddit.com/r/news/comments/16mvuy3/elon_musk_says_twitter_now_x_could_charge_all/)
+- [US anti-child trafficking activist resigns after sexual harassment allegations](https://www.reddit.com/r/news/comments/16mujg4/us_antichild_trafficking_activist_resigns_after/)
+- [Judge rejects defense effort to throw out an Oath Keeper associate&#39;s Jan. 6 guilty verdict](https://www.reddit.com/r/news/comments/16mucq1/judge_rejects_defense_effort_to_throw_out_an_oath/)
+- [Pennsylvania adds automatic voter registration when renewing driver&#39;s licenses](https://www.reddit.com/r/news/comments/16mubxu/pennsylvania_adds_automatic_voter_registration/)
 <!-- REDDIT:END -->
 
 
