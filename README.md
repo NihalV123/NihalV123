@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon delivery driver bitten by &#39;highly venomous&#39; rattlesnake in Martin County](https://www.reddit.com/r/news/comments/16nc0fo/amazon_delivery_driver_bitten_by_highly_venomous/)
+- [Woman Sues San Francisco McDonald’s After Being Burned by Hot Coffee](https://www.reddit.com/r/news/comments/16na4ee/woman_sues_san_francisco_mcdonalds_after_being/)
+- [Family of four shot dead at home, rattling quiet Illinois neighborhood, ‘not a random incident,’ according to police](https://www.reddit.com/r/news/comments/16n9fxi/family_of_four_shot_dead_at_home_rattling_quiet/)
+- [Bears raid a Krispy Kreme doughnut van making deliveries on an Alaska military base](https://www.reddit.com/r/news/comments/16n7uhq/bears_raid_a_krispy_kreme_doughnut_van_making/)
+- [FTX sues Sam Bankman-Fried&#39;s parents, aims to claw back some of the $26 million in gifts and property](https://www.reddit.com/r/news/comments/16n5188/ftx_sues_sam_bankmanfrieds_parents_aims_to_claw/)
 <!-- REDDIT:END -->
 
 
