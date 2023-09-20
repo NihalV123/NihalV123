@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mississippi sees 10-fold increase in babies born with syphilis since 2016: Report](https://www.reddit.com/r/news/comments/16nrdp8/mississippi_sees_10fold_increase_in_babies_born/)
+- [Kraft recalls 84,000 cases of American cheese slices over choking hazard](https://www.reddit.com/r/news/comments/16nr027/kraft_recalls_84000_cases_of_american_cheese/)
+- [Donald Trump Jr.’s X account apparently hacked, announces father’s death](https://www.reddit.com/r/news/comments/16npmih/donald_trump_jrs_x_account_apparently_hacked/)
+- [Danny Masterson&#39;s wife, Bijou Phillips, files for divorce following actor&#39;s sentencing for rape convictions](https://www.reddit.com/r/news/comments/16notps/danny_mastersons_wife_bijou_phillips_files_for/)
+- [U.S. soldiers accused of smuggling and distributing synthetic marijuana in South Korea](https://www.reddit.com/r/news/comments/16noti0/us_soldiers_accused_of_smuggling_and_distributing/)
 <!-- REDDIT:END -->
 
 
