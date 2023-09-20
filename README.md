@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FTX sues Sam Bankman-Fried&#39;s parents, aims to claw back some of the $26 million in gifts and property](https://www.reddit.com/r/news/comments/16n5188/ftx_sues_sam_bankmanfrieds_parents_aims_to_claw/)
+- [YouTube suspends Russell Brand from advert income](https://www.reddit.com/r/news/comments/16n4p4a/youtube_suspends_russell_brand_from_advert_income/)
+- [Man accused in deaths of 22 elderly women in Texas killed in prison by his cellmate](https://www.reddit.com/r/news/comments/16n3g3t/man_accused_in_deaths_of_22_elderly_women_in/)
+- [Texas teacher fired after assigning an illustrated Anne Frank book](https://www.reddit.com/r/news/comments/16n2xf9/texas_teacher_fired_after_assigning_an/)
+- [A teen girl found an iPhone in an airplane bathroom. Her family says it was put there to record her.](https://www.reddit.com/r/news/comments/16n2wth/a_teen_girl_found_an_iphone_in_an_airplane/)
 <!-- REDDIT:END -->
 
 
