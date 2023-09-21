@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [George RR Martin and John Grisham among group of authors suing OpenAI](https://www.reddit.com/r/news/comments/16o0kwa/george_rr_martin_and_john_grisham_among_group_of/)
+- [UAW, Detroit Three in standoff as wider strike looms](https://www.reddit.com/r/news/comments/16nzyf3/uaw_detroit_three_in_standoff_as_wider_strike/)
+- [Protesters, counter-protesters shut down Ottawa streets over LGBTQ rights in schools | CBC News](https://www.reddit.com/r/news/comments/16nv34d/protesters_counterprotesters_shut_down_ottawa/)
+- [Sufjan Stevens: Songwriter cannot walk after being diagnosed with rare disease](https://www.reddit.com/r/news/comments/16nuv9g/sufjan_stevens_songwriter_cannot_walk_after_being/)
+- [East Bay woman gets prison for embezzling $1.7M from Men&#39;s Wearhouse](https://www.reddit.com/r/news/comments/16nukyr/east_bay_woman_gets_prison_for_embezzling_17m/)
 <!-- REDDIT:END -->
 
 
