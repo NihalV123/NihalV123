@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian TV teases launch of Tucker Carlson show](https://www.reddit.com/r/news/comments/16q7san/russian_tv_teases_launch_of_tucker_carlson_show/)
+- [13 foot gator killed after human remains pulled out of waterway in Florida](https://www.reddit.com/r/news/comments/16q7aix/13_foot_gator_killed_after_human_remains_pulled/)
+- [Baylor settles years-long federal lawsuit in sexual assault scandal that rocked Baptist school](https://www.reddit.com/r/news/comments/16q5xyq/baylor_settles_yearslong_federal_lawsuit_in/)
+- [Oklahoma judge opened fire while driving and intentionally crashed his car, police say](https://www.reddit.com/r/news/comments/16q5xyb/oklahoma_judge_opened_fire_while_driving_and/)
+- [Ukrainian forces have broken through in Verbove, top general says | CNN](https://www.reddit.com/r/news/comments/16q4kt1/ukrainian_forces_have_broken_through_in_verbove/)
 <!-- REDDIT:END -->
 
 
