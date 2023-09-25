@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas Walmart shooter agrees to pay more than $5M to families over 2019 racist attack](https://www.reddit.com/r/news/comments/16ryt86/texas_walmart_shooter_agrees_to_pay_more_than_5m/)
+- [Japan pharma startup developing world-first drug to grow new teeth](https://www.reddit.com/r/news/comments/16rxeel/japan_pharma_startup_developing_worldfirst_drug/)
+- [Ukraine claims commander of Russia&#39;s Black Sea Fleet was killed in Sevastopol attack | CNN](https://www.reddit.com/r/news/comments/16rwolm/ukraine_claims_commander_of_russias_black_sea/)
+- [O’Reilly store employee charged with murder after shoplifting suspect dies of strangulation](https://www.reddit.com/r/news/comments/16rwdnk/oreilly_store_employee_charged_with_murder_after/)
+- [Black plaintiffs file lawsuits for wrongful arrests or jailing due to facial recognition technology](https://www.reddit.com/r/news/comments/16runtg/black_plaintiffs_file_lawsuits_for_wrongful/)
 <!-- REDDIT:END -->
 
 
