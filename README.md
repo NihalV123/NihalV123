@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon sued by FTC and 17 states over allegations it inflates online prices and overcharges sellers](https://www.reddit.com/r/news/comments/16st8hx/amazon_sued_by_ftc_and_17_states_over_allegations/)
+- [Supreme Court rejects Alabama&#39;s defiance in voting case](https://www.reddit.com/r/news/comments/16ss4x6/supreme_court_rejects_alabamas_defiance_in_voting/)
+- [US actors&#39; union members vote to authorise video game strike](https://www.reddit.com/r/news/comments/16ss2sv/us_actors_union_members_vote_to_authorise_video/)
+- [FTC and 17 states sue Amazon on antitrust charges](https://www.reddit.com/r/news/comments/16ss1jp/ftc_and_17_states_sue_amazon_on_antitrust_charges/)
+- [Eddie Irizarry: All charges dropped against Philadelphia officer for fatal shooting during traffic stop](https://www.reddit.com/r/news/comments/16srsrc/eddie_irizarry_all_charges_dropped_against/)
 <!-- REDDIT:END -->
 
 
