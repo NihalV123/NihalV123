@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [British Croc Expert Admits To Sexually Abusing Dogs](https://www.reddit.com/r/news/comments/16skvmz/british_croc_expert_admits_to_sexually_abusing/)
+- [EU warns Elon Musk that Twitter must comply with fake news laws](https://www.reddit.com/r/news/comments/16sk9p6/eu_warns_elon_musk_that_twitter_must_comply_with/)
+- [Chess grandmaster Hans Niemann denies using vibrating sex toy to cheat](https://www.reddit.com/r/news/comments/16sjn4x/chess_grandmaster_hans_niemann_denies_using/)
+- [Alabama inmate opposes being &#39;test subject&#39; for new nitrogen execution method](https://www.reddit.com/r/news/comments/16ser3j/alabama_inmate_opposes_being_test_subject_for_new/)
+- [Writers strike is not over yet with key votes remaining on deal](https://www.reddit.com/r/news/comments/16seprz/writers_strike_is_not_over_yet_with_key_votes/)
 <!-- REDDIT:END -->
 
 
