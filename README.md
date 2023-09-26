@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [60 Minutes revelation: US is financing more than weapons in Ukraine. The government is paying the salaries of 57,000 first responders and subsidizing small businesses.](https://www.reddit.com/r/news/comments/16seybs/60_minutes_revelation_us_is_financing_more_than/)
+- [Alabama inmate opposes being &#39;test subject&#39; for new nitrogen execution method](https://www.reddit.com/r/news/comments/16ser3j/alabama_inmate_opposes_being_test_subject_for_new/)
+- [Retailers say organized theft is biting into profits, but internal issues may really be to blame](https://www.reddit.com/r/news/comments/16sc66i/retailers_say_organized_theft_is_biting_into/)
+- [Ford pausing construction of Michigan battery plant amid contract talks with auto workers union](https://www.reddit.com/r/news/comments/16sblc1/ford_pausing_construction_of_michigan_battery/)
+- [Judge dismisses manslaughter charges against 6 Michigan prison employees in inmate&#39;s death](https://www.reddit.com/r/news/comments/16sbkld/judge_dismisses_manslaughter_charges_against_6/)
 <!-- REDDIT:END -->
 
 
