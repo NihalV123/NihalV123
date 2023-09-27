@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio high school coach resigns after team&#39;s &#39;Nazi&#39; playcall &lpar;ESPN&rpar;](https://www.reddit.com/r/news/comments/16t4wrq/ohio_high_school_coach_resigns_after_teams_nazi/)
+- [US surgeons are killing themselves at an alarming rate. One decided to speak out](https://www.reddit.com/r/news/comments/16t4we1/us_surgeons_are_killing_themselves_at_an_alarming/)
+- [NYC day care death: Husband of owner caught in Mexico after infant’s fentanyl death](https://www.reddit.com/r/news/comments/16t272a/nyc_day_care_death_husband_of_owner_caught_in/)
+- [Kari Lake&#39;s trial to review signed ballot envelopes from Arizona election wraps](https://www.reddit.com/r/news/comments/16t1zc5/kari_lakes_trial_to_review_signed_ballot/)
+- [North Miami 10-year-old boy died from self-inflicted gunshot wound, police say](https://www.reddit.com/r/news/comments/16t1fbn/north_miami_10yearold_boy_died_from_selfinflicted/)
 <!-- REDDIT:END -->
 
 
