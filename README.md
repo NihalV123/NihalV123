@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [SpaceX wins first Pentagon contract for Starshield, its satellite network for military use](https://www.reddit.com/r/news/comments/16u2v92/spacex_wins_first_pentagon_contract_for/)
+- [Ghost guns, 3D printer found during bust at East Harlem day care center](https://www.reddit.com/r/news/comments/16txtcd/ghost_guns_3d_printer_found_during_bust_at_east/)
+- [Cost of building a super-size Alabama prison rises to more than $1 billion](https://www.reddit.com/r/news/comments/16txk7m/cost_of_building_a_supersize_alabama_prison_rises/)
+- [Chinese hackers stole 60,000 emails from US State Department in Microsoft hack, Senate staffer says](https://www.reddit.com/r/news/comments/16txago/chinese_hackers_stole_60000_emails_from_us_state/)
+- [Federal judge declares Texas drag law unconstitutional](https://www.reddit.com/r/news/comments/16tvyzv/federal_judge_declares_texas_drag_law/)
 <!-- REDDIT:END -->
 
 
