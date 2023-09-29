@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Las Vegas police arrest man on suspicion of murder in 1996 drive-by shooting of Tupac Shakur, AP sources say](https://www.reddit.com/r/news/comments/16vgccy/las_vegas_police_arrest_man_on_suspicion_of/)
+- [US Supreme Court to weigh state laws constraining social media companies](https://www.reddit.com/r/news/comments/16vf365/us_supreme_court_to_weigh_state_laws_constraining/)
+- [New York City: State of emergency declared over flash flooding](https://www.reddit.com/r/news/comments/16veyvg/new_york_city_state_of_emergency_declared_over/)
+- [Toys R Us is planning a brick-and-mortar comeback in the U.S., with up to 24 new flagship stores](https://www.reddit.com/r/news/comments/16vevd2/toys_r_us_is_planning_a_brickandmortar_comeback/)
+- [Oxford High School shooter will get life in prison, no parole, for killing 4 students, judge rules](https://www.reddit.com/r/news/comments/16vekc7/oxford_high_school_shooter_will_get_life_in/)
 <!-- REDDIT:END -->
 
 
