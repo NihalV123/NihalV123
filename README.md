@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FBI arrests Proud Boys member who disappeared days before sentencing over role in Jan. 6](https://www.reddit.com/r/news/comments/16v92uu/fbi_arrests_proud_boys_member_who_disappeared/)
+- [A man is shot and wounded as tempers flare in New Mexico over the statue of a Spanish conquistador](https://www.reddit.com/r/news/comments/16v16bz/a_man_is_shot_and_wounded_as_tempers_flare_in_new/)
+- [US National Security Agency unveils artificial intelligence security centre](https://www.reddit.com/r/news/comments/16v03we/us_national_security_agency_unveils_artificial/)
+- [All liquor stores closed in Philadelphia after multiple stores were looted overnight](https://www.reddit.com/r/news/comments/16uzbih/all_liquor_stores_closed_in_philadelphia_after/)
+- [Google trying to seal testimony as antitrust trial enters third week](https://www.reddit.com/r/news/comments/16uyqj2/google_trying_to_seal_testimony_as_antitrust/)
 <!-- REDDIT:END -->
 
 
