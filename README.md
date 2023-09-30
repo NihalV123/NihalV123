@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fatal Teutopolis semitruck crash prompts anhydrous ammonia leak evacuation](https://www.reddit.com/r/news/comments/16wbc5a/fatal_teutopolis_semitruck_crash_prompts/)
+- [A Black man’s stolen heart and a family’s long wait for justice](https://www.reddit.com/r/news/comments/16wb3iw/a_black_mans_stolen_heart_and_a_familys_long_wait/)
+- [Tesla Semi Logs Over 1,000 Miles On A Single Day In Independent Test](https://www.reddit.com/r/news/comments/16w7pu7/tesla_semi_logs_over_1000_miles_on_a_single_day/)
+- [Sea lion briefly escapes enclosure at Central Park Zoo due to New York flooding | CNN](https://www.reddit.com/r/news/comments/16w35di/sea_lion_briefly_escapes_enclosure_at_central/)
+- [‘No one is safe’: France vows action as bedbugs sweep Paris](https://www.reddit.com/r/news/comments/16vz7ki/no_one_is_safe_france_vows_action_as_bedbugs/)
 <!-- REDDIT:END -->
 
 
