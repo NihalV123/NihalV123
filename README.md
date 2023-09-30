@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.reddit.com/r/news/comments/16vxt9u/white_house_warns_of_unprecedented_serbian_troop/)
+- [After shoplifters hit Murrieta nail supply store, one returned for phone she left behind, police say](https://www.reddit.com/r/news/comments/16vuk4s/after_shoplifters_hit_murrieta_nail_supply_store/)
+- [Tupac Shakur: Duane Davis charged with 1996 murder of rapper](https://www.reddit.com/r/news/comments/16vtyy4/tupac_shakur_duane_davis_charged_with_1996_murder/)
+- [Record rain in New York City generates &#39;life-threatening&#39; flooding, overwhelming streets and subways | CNN](https://www.reddit.com/r/news/comments/16vtx0u/record_rain_in_new_york_city_generates/)
+- [Woman who killed man in drunk driving crash sentenced to 120 days in jail](https://www.reddit.com/r/news/comments/16vrwve/woman_who_killed_man_in_drunk_driving_crash/)
 <!-- REDDIT:END -->
 
 
