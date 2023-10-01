@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Loudoun schools ex-superintendent Scott Ziegler found guilty of retaliation](https://www.reddit.com/r/news/comments/16x70ho/loudoun_schools_exsuperintendent_scott_ziegler/)
+- [Amber Alert says missing girl abducted from Moreau Lake State Park](https://www.reddit.com/r/news/comments/16x4wwk/amber_alert_says_missing_girl_abducted_from/)
+- [Harvard University inaugurates Claudine Gay as school&#39;s first Black president](https://www.reddit.com/r/news/comments/16x4wbu/harvard_university_inaugurates_claudine_gay_as/)
+- [Connecticut enacts its most sweeping gun control law since the Sandy Hook shooting](https://www.reddit.com/r/news/comments/16x3epl/connecticut_enacts_its_most_sweeping_gun_control/)
+- [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.reddit.com/r/news/comments/16x1y4k/more_than_100_dolphins_dead_in_amazon_as_water/)
 <!-- REDDIT:END -->
 
 
