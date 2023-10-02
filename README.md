@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Online personality &#39;Boopac Shakur,&#39; known for exposing alleged sexual predators, shot and killed in Michigan | CNN](https://www.reddit.com/r/news/comments/16xm4qu/online_personality_boopac_shakur_known_for/)
+- [New York authorities are searching for 9-year-old Charlotte Sena who vanished while biking on a camping trip in a state park | CNN](https://www.reddit.com/r/news/comments/16xlss7/new_york_authorities_are_searching_for_9yearold/)
+- [Husband and wife dead after bear attack in Banff National Park, grizzly killed](https://www.reddit.com/r/news/comments/16xf8ho/husband_and_wife_dead_after_bear_attack_in_banff/)
+- [Tim Wakefield, who revived his career and Red Sox trophy case with knuckleball, has died at 57](https://www.reddit.com/r/news/comments/16x9bui/tim_wakefield_who_revived_his_career_and_red_sox/)
+- [Chipotle sued after former Muslim employee alleges manager ripped off her hijab at Kansas location](https://www.reddit.com/r/news/comments/16x8hxf/chipotle_sued_after_former_muslim_employee/)
 <!-- REDDIT:END -->
 
 
