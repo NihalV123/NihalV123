@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows moment food delivery driver shoots YouTuber during prank at Virginia mall](https://www.reddit.com/r/news/comments/16y2pwx/video_shows_moment_food_delivery_driver_shoots/)
+- [Abercrombie &amp; Fitch ex-CEO accused of exploiting men for sex](https://www.reddit.com/r/news/comments/16y0kyz/abercrombie_fitch_exceo_accused_of_exploiting_men/)
+- [Jan. 6 rioter who urged mob to take officer&#39;s guns took a secret plea deal, DOJ confirms](https://www.reddit.com/r/news/comments/16y0h19/jan_6_rioter_who_urged_mob_to_take_officers_guns/)
+- [Trump New York Civil Fraud Trial Megathread](https://www.reddit.com/r/news/comments/16xypz6/trump_new_york_civil_fraud_trial_megathread/)
+- [Tom Hanks warns dental plan ad image is AI fake](https://www.reddit.com/r/news/comments/16xuwxv/tom_hanks_warns_dental_plan_ad_image_is_ai_fake/)
 <!-- REDDIT:END -->
 
 
