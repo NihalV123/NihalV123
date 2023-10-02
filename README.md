@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tom Hanks warns dental plan ad image is AI fake](https://www.reddit.com/r/news/comments/16xuwxv/tom_hanks_warns_dental_plan_ad_image_is_ai_fake/)
+- [Nobel Prize goes to scientists behind mRNA Covid vaccines](https://www.reddit.com/r/news/comments/16xuuap/nobel_prize_goes_to_scientists_behind_mrna_covid/)
+- [Nobel Prize goes to science behind mRNA Covid vaccines](https://www.reddit.com/r/news/comments/16xsjtx/nobel_prize_goes_to_science_behind_mrna_covid/)
+- [Online personality &#39;Boopac Shakur,&#39; known for exposing alleged sexual predators, shot and killed in Michigan | CNN](https://www.reddit.com/r/news/comments/16xm4qu/online_personality_boopac_shakur_known_for/)
+- [New York authorities are searching for 9-year-old Charlotte Sena who vanished while biking on a camping trip in a state park | CNN](https://www.reddit.com/r/news/comments/16xlss7/new_york_authorities_are_searching_for_9yearold/)
 <!-- REDDIT:END -->
 
 
