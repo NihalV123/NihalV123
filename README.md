@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas congressman Rep. Henry Cuellar Carjacked in Washington DC](https://www.reddit.com/r/news/comments/16yhszn/texas_congressman_rep_henry_cuellar_carjacked_in/)
+- [Fresno becomes second U.S. city to ban caste discrimination](https://www.reddit.com/r/news/comments/16ygkiu/fresno_becomes_second_us_city_to_ban_caste/)
+- [CRTC takes major step forward to modernize Canada’s broadcasting framework](https://www.reddit.com/r/news/comments/16yg5iz/crtc_takes_major_step_forward_to_modernize/)
+- [North Dakota state senator, his wife and 2 kids killed in Utah plane crash](https://www.reddit.com/r/news/comments/16yfplv/north_dakota_state_senator_his_wife_and_2_kids/)
+- [Pentagon official charged with participating in dog fighting ring](https://www.reddit.com/r/news/comments/16yfe0g/pentagon_official_charged_with_participating_in/)
 <!-- REDDIT:END -->
 
 
