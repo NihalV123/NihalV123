@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman injured after being struck by SF hit-and-run driver, trapped under autonomous car, Cruise says](https://www.reddit.com/r/news/comments/16z6m52/woman_injured_after_being_struck_by_sf_hitandrun/)
+- [There Were Half as Many Affordable Homes for Sale in 2022 as There Were in 2021](https://www.reddit.com/r/news/comments/16z6dw9/there_were_half_as_many_affordable_homes_for_sale/)
+- [Grimes sues Elon Musk, claims he won’t let her ‘see my son’](https://www.reddit.com/r/news/comments/16z5w6g/grimes_sues_elon_musk_claims_he_wont_let_her_see/)
+- [US issues first ever fine for space junk to Dish Network](https://www.reddit.com/r/news/comments/16z38jq/us_issues_first_ever_fine_for_space_junk_to_dish/)
+- [House ousts Kevin McCarthy as speaker, a first in U.S. history](https://www.reddit.com/r/news/comments/16z2zul/house_ousts_kevin_mccarthy_as_speaker_a_first_in/)
 <!-- REDDIT:END -->
 
 
