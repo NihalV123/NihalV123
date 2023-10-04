@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jews spitting on the ground beside Christian pilgrims in the Holy Land sparks outrage](https://www.reddit.com/r/news/comments/16zk8aw/jews_spitting_on_the_ground_beside_christian/)
+- [Hospitalisation of 16 year old Iranian girl leads to claims against ‘morality police’](https://www.reddit.com/r/news/comments/16ziaar/hospitalisation_of_16_year_old_iranian_girl_leads/)
+- [Second earthquake in a week hits near Naples as fears of volcanic eruption grow. A magnitude 4.0 earthquake struck south of Naples, Italy, on Tuesday, just days after the volcanic region saw its strongest earthquake in 40 years](https://www.reddit.com/r/news/comments/16zi974/second_earthquake_in_a_week_hits_near_naples_as/)
+- [Ryan Carson, social justice advocate, stabbed to death in Crown Heights](https://www.reddit.com/r/news/comments/16zh35x/ryan_carson_social_justice_advocate_stabbed_to/)
+- [Peruvian man arrested for making more than 150 bomb threats to US schools](https://www.reddit.com/r/news/comments/16zgoio/peruvian_man_arrested_for_making_more_than_150/)
 <!-- REDDIT:END -->
 
 
