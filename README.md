@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 doctors were gunned down on a Rio beach and there are suspicions of a political motive](https://www.reddit.com/r/news/comments/170nhx6/4_doctors_were_gunned_down_on_a_rio_beach_and/)
+- [WSJ News Exclusive | U.S. Jet Shoots Down Turkish Drone Over Syria](https://www.reddit.com/r/news/comments/170lndo/wsj_news_exclusive_us_jet_shoots_down_turkish/)
+- [Man with handgun seeking governor arrested in Wisconsin Capitol, returns with assault rifle](https://www.reddit.com/r/news/comments/170l3pq/man_with_handgun_seeking_governor_arrested_in/)
+- [Weight loss drugs may be linked to stomach paralysis, other rare but severe issues, study says](https://www.reddit.com/r/news/comments/170ko7x/weight_loss_drugs_may_be_linked_to_stomach/)
+- [Record chicken prices squeeze US shoppers, benefit Tyson Foods](https://www.reddit.com/r/news/comments/170k5c2/record_chicken_prices_squeeze_us_shoppers_benefit/)
 <!-- REDDIT:END -->
 
 
