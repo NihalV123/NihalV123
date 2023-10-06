@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian journalist who protested Ukraine invasion on live TV is sentenced to over 8 years in prison, in absentia](https://www.reddit.com/r/news/comments/171if8o/russian_journalist_who_protested_ukraine_invasion/)
+- [Son of Buc-ee’s co-founder arrested, charged for recording several people with hidden camera device: Reports](https://www.reddit.com/r/news/comments/171i030/son_of_bucees_cofounder_arrested_charged_for/)
+- [Police find at least 115 bodies at Colorado ‘green’ funeral home under investigation](https://www.reddit.com/r/news/comments/171hemm/police_find_at_least_115_bodies_at_colorado_green/)
+- [‘Bedbugs don’t discriminate’: Paris ‘scourge’ sparks fears of international infestation After French capital hosted fashion week and Rugby World Cup there are concerns the problem will spread](https://www.reddit.com/r/news/comments/171hefx/bedbugs_dont_discriminate_paris_scourge_sparks/)
+- [A man showed up armed at the Wisconsin Capitol twice in one day asking for the governor, officials say. Here&#39;s what we know | CNN](https://www.reddit.com/r/news/comments/171gxhy/a_man_showed_up_armed_at_the_wisconsin_capitol/)
 <!-- REDDIT:END -->
 
 
