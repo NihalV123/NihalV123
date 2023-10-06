@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Escaped Pet Emu Strangled to Death by Arizona Sheriff&#39;s Deputies](https://www.reddit.com/r/news/comments/170vrpy/escaped_pet_emu_strangled_to_death_by_arizona/)
+- [George Tyndall, former USC gynecologist accused of sexual misconduct, has died](https://www.reddit.com/r/news/comments/170ukkj/george_tyndall_former_usc_gynecologist_accused_of/)
+- [California elementary teacher arrested after allegedly driving to school, teaching class drunk](https://www.reddit.com/r/news/comments/170uj2z/california_elementary_teacher_arrested_after/)
+- [Trump allegedly discussed US nuclear subs with foreign national after leaving White House: Sources](https://www.reddit.com/r/news/comments/170toby/trump_allegedly_discussed_us_nuclear_subs_with/)
+- [Elon Musk&#39;s Twitter stock purchases under probe by SEC](https://www.reddit.com/r/news/comments/170tb40/elon_musks_twitter_stock_purchases_under_probe_by/)
 <!-- REDDIT:END -->
 
 
