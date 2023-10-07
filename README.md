@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Pennsylvania chocolate factory was fined more than $44,000 by the federal workplace safety agency on Thursday for failing to evacuate before a natural gas explosion that killed seven people](https://www.reddit.com/r/news/comments/171s2l4/a_pennsylvania_chocolate_factory_was_fined_more/)
+- [Nearly 1,000 migrating songbirds perish after crashing into windows at Chicago exhibition hall](https://www.reddit.com/r/news/comments/171rwe8/nearly_1000_migrating_songbirds_perish_after/)
+- [Columbus social worker accused of having sex with 13-year-old she was counseling](https://www.reddit.com/r/news/comments/171qc3d/columbus_social_worker_accused_of_having_sex_with/)
+- [Ex-soldier indicted for trying to pass U.S. defense info to China](https://www.reddit.com/r/news/comments/171pe74/exsoldier_indicted_for_trying_to_pass_us_defense/)
+- [Researchers say Alaska Native knowledge can help solve the mystery of ancient bear bones](https://www.reddit.com/r/news/comments/171p4ql/researchers_say_alaska_native_knowledge_can_help/)
 <!-- REDDIT:END -->
 
 
