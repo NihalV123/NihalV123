@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Magnitude 4.3 earthquake hits near Seattle; tsunami not expected](https://www.reddit.com/r/news/comments/173i7t1/magnitude_43_earthquake_hits_near_seattle_tsunami/)
+- [Gov. Newsom signs bill banning ‘junk fees’ in California](https://www.reddit.com/r/news/comments/173h8u0/gov_newsom_signs_bill_banning_junk_fees_in/)
+- [The US will send a carrier strike group to the Eastern Mediterranean in support of Israel](https://www.reddit.com/r/news/comments/173g8al/the_us_will_send_a_carrier_strike_group_to_the/)
+- [UAE calls Hamas attacks on Israel a &#39;serious and grave escalation&#39;](https://www.reddit.com/r/news/comments/173f4r7/uae_calls_hamas_attacks_on_israel_a_serious_and/)
+- [Israel declares war, bombards Gaza and battles to dislodge Hamas fighters after surprise attack](https://www.reddit.com/r/news/comments/173en5j/israel_declares_war_bombards_gaza_and_battles_to/)
 <!-- REDDIT:END -->
 
 
