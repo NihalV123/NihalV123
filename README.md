@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Brandeis prof. describes hearing daughter&#39;s killing, saving grandson in Israel violence | &quot;The next we heard was from her son, saying … they&#39;re dead, and we learned that he was lying under her and was covered in part by his parents&#39; blood, and that he himself had been wounded&quot;](https://www.reddit.com/r/news/comments/173ybp6/brandeis_prof_describes_hearing_daughters_killing/)
+- [Death of Atlanta deacon who was electrically shocked during arrest ruled a homicide](https://www.reddit.com/r/news/comments/173wy0p/death_of_atlanta_deacon_who_was_electrically/)
+- [Hamas &#39;worse than ISIS&#39; as terrorists &#39;behead Israeli soldiers&#39; in sick footage](https://www.reddit.com/r/news/comments/173w50n/hamas_worse_than_isis_as_terrorists_behead/)
+- [Workers at Mack Trucks go on strike after rejecting tentative contract deal](https://www.reddit.com/r/news/comments/173t91v/workers_at_mack_trucks_go_on_strike_after/)
+- [EU Commission suspends &#39;all payments immediately&#39; to the Palestinians following the Hamas attack](https://www.reddit.com/r/news/comments/173t695/eu_commission_suspends_all_payments_immediately/)
 <!-- REDDIT:END -->
 
 
