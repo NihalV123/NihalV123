@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Professor awarded Nobel economics prize for advancing the understanding of workplace gender gap](https://www.reddit.com/r/news/comments/173pyxc/professor_awarded_nobel_economics_prize_for/)
+- [California governor vetoes bill to make free condoms available for high school students, citing cost](https://www.reddit.com/r/news/comments/173paca/california_governor_vetoes_bill_to_make_free/)
+- [Israeli music festival: 260 bodies recovered from site where people fled in hail of bullets](https://www.reddit.com/r/news/comments/173nk86/israeli_music_festival_260_bodies_recovered_from/)
+- [Gov. Newsom signs bill banning ‘junk fees’ in California](https://www.reddit.com/r/news/comments/173h8u0/gov_newsom_signs_bill_banning_junk_fees_in/)
+- [The US will send a carrier strike group to the Eastern Mediterranean in support of Israel](https://www.reddit.com/r/news/comments/173g8al/the_us_will_send_a_carrier_strike_group_to_the/)
 <!-- REDDIT:END -->
 
 
