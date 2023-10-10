@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Newsom signs bill to make California first state in nation to ban ‘toxic’ food additives](https://www.reddit.com/r/news/comments/17484q8/newsom_signs_bill_to_make_california_first_state/)
+- [Louisiana public school principal apologizes after punishing student for dancing at a party](https://www.reddit.com/r/news/comments/1748339/louisiana_public_school_principal_apologizes/)
+- [President Biden interviewed as part of special counsel investigation into classified documents](https://www.reddit.com/r/news/comments/1746tt1/president_biden_interviewed_as_part_of_special/)
+- [Man claiming to have bomb climbs Ferris wheel on Santa Monica Pier](https://www.reddit.com/r/news/comments/1745yct/man_claiming_to_have_bomb_climbs_ferris_wheel_on/)
+- [69-year-old skydiver plunges to death in Florida front yard](https://www.reddit.com/r/news/comments/1745mhy/69yearold_skydiver_plunges_to_death_in_florida/)
 <!-- REDDIT:END -->
 
 
