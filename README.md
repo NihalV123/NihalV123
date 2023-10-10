@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Carolina nuclear plant gets warning over another cracked emergency fuel pipe](https://www.reddit.com/r/news/comments/174jd1l/south_carolina_nuclear_plant_gets_warning_over/)
+- [Some ultra-processed foods should be labelled &#39;addictive&#39;, scientists say](https://www.reddit.com/r/news/comments/174j3kp/some_ultraprocessed_foods_should_be_labelled/)
+- [Amphibians are the world&#39;s most vulnerable animals and threats are increasing](https://www.reddit.com/r/news/comments/174iizu/amphibians_are_the_worlds_most_vulnerable_animals/)
+- [Amazon workers in Saudi Arabia say they were exploited by labor and recruiting firms](https://www.reddit.com/r/news/comments/174i1ti/amazon_workers_in_saudi_arabia_say_they_were/)
+- [Chef and TV personality Michael Chiarello dies at 61 after being treated for allergic reaction &lpar;APNEWS&rpar;](https://www.reddit.com/r/news/comments/174hdce/chef_and_tv_personality_michael_chiarello_dies_at/)
 <!-- REDDIT:END -->
 
 
