@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New California law aims to force people with mental illness or addiction to get help](https://www.reddit.com/r/news/comments/174r721/new_california_law_aims_to_force_people_with/)
+- [12 year old Texas boy convicted of Sonic worker&#39;s murder](https://www.reddit.com/r/news/comments/174qp25/12_year_old_texas_boy_convicted_of_sonic_workers/)
+- [Hamas Strikes Mosque Named After Chechen Leader Near Jerusalem – Israel](https://www.reddit.com/r/news/comments/174lxyk/hamas_strikes_mosque_named_after_chechen_leader/)
+- [More than 100 bodies found in Israeli kibbutz Be&#39;eri after Hamas attack | CNN](https://www.reddit.com/r/news/comments/174kae0/more_than_100_bodies_found_in_israeli_kibbutz/)
+- [South Carolina nuclear plant gets warning over another cracked emergency fuel pipe](https://www.reddit.com/r/news/comments/174jd1l/south_carolina_nuclear_plant_gets_warning_over/)
 <!-- REDDIT:END -->
 
 
