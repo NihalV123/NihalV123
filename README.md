@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [EU warns Elon Musk over ‘disinformation’ on X about Hamas attack](https://www.reddit.com/r/news/comments/174yv34/eu_warns_elon_musk_over_disinformation_on_x_about/)
+- [George Santos charged with defrauding campaign donors](https://www.reddit.com/r/news/comments/174xrx6/george_santos_charged_with_defrauding_campaign/)
+- [Parkinson’s disease detectable before physical symptoms show, Australian research finds](https://www.reddit.com/r/news/comments/174xr7q/parkinsons_disease_detectable_before_physical/)
+- [Biden confirms Americans among hostages captured in Israel, condemns &#39;sheer evil&#39; of Hamas militants](https://www.reddit.com/r/news/comments/174x1xi/biden_confirms_americans_among_hostages_captured/)
+- [Olympic star Mary Lou Retton ‘fighting for her life’ in ICU, daughter says](https://www.reddit.com/r/news/comments/174wyn1/olympic_star_mary_lou_retton_fighting_for_her/)
 <!-- REDDIT:END -->
 
 
