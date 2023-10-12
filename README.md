@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Contract talks break down between Hollywood actors, studios](https://www.reddit.com/r/news/comments/176c8ra/contract_talks_break_down_between_hollywood/)
+- [France bans pro-Palestinian protests, citing risk of &#39;disturbances to public order&#39;](https://www.reddit.com/r/news/comments/176c04q/france_bans_propalestinian_protests_citing_risk/)
+- [Democratic Sen. Bob Menendez facing additional charges following sweeping indictment](https://www.reddit.com/r/news/comments/176b0dr/democratic_sen_bob_menendez_facing_additional/)
+- [U.S., Qatar agree to stop Iran from tapping $6 billion fund after Hamas attack](https://www.reddit.com/r/news/comments/176aekk/us_qatar_agree_to_stop_iran_from_tapping_6/)
+- [As Students Face Retaliation for Israel Statement, a ‘Doxxing Truck’ Displaying Students’ Faces Comes to Harvard’s Campus | News | The Harvard Crimson](https://www.reddit.com/r/news/comments/1769qam/as_students_face_retaliation_for_israel_statement/)
 <!-- REDDIT:END -->
 
 
