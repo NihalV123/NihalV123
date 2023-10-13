@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [61 charged in Georgia with racketeering in connection with &#39;Stop Cop City&#39; movement - WABE](https://www.reddit.com/r/news/comments/176l6fj/61_charged_in_georgia_with_racketeering_in/)
+- [3 men arrested for allegedly threatening Jewish high school community](https://www.reddit.com/r/news/comments/176kzy8/3_men_arrested_for_allegedly_threatening_jewish/)
+- [Colorado officer who confronted Elijah McClain found guilty of criminally negligent homicide](https://www.reddit.com/r/news/comments/176k5ql/colorado_officer_who_confronted_elijah_mcclain/)
+- [Texas student suspended for wearing locs hairstyle referred to alternative school](https://www.reddit.com/r/news/comments/176jumt/texas_student_suspended_for_wearing_locs/)
+- [Egypt discusses Gaza aid, rejects corridors for civilians, say sources](https://www.reddit.com/r/news/comments/176jaeg/egypt_discusses_gaza_aid_rejects_corridors_for/)
 <!-- REDDIT:END -->
 
 
