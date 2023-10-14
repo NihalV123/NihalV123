@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Indiana woman charged after daughter falls from roof of moving car and fractures skull, police say](https://www.reddit.com/r/news/comments/177by11/indiana_woman_charged_after_daughter_falls_from/)
+- [Police arrest 17-year-old, search for 18-year-old in connection to Morgan State University shooting](https://www.reddit.com/r/news/comments/177bqzr/police_arrest_17yearold_search_for_18yearold_in/)
+- [&#39;Top secret&#39; Hamas documents show that terrorists intentionally targeted elementary schools and a youth center](https://www.reddit.com/r/news/comments/1779iql/top_secret_hamas_documents_show_that_terrorists/)
+- [An Alabama woman was imprisoned for ‘endangering’ her fetus. She gave birth in a jail shower](https://www.reddit.com/r/news/comments/1779g79/an_alabama_woman_was_imprisoned_for_endangering/)
+- [San Jose day care owners arrested after 2 children drown in pool](https://www.reddit.com/r/news/comments/17790o3/san_jose_day_care_owners_arrested_after_2/)
 <!-- REDDIT:END -->
 
 
