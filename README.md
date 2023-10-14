@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Reuters journalist killed in southern Lebanon by Israeli strike, colleagues say](https://www.reddit.com/r/news/comments/177hv2r/reuters_journalist_killed_in_southern_lebanon_by/)
+- [Airstrikes hit Palestinians fleeing northern Gaza after Israel orders 1 million to evacuate](https://www.reddit.com/r/news/comments/177gmd1/airstrikes_hit_palestinians_fleeing_northern_gaza/)
+- [20K US citizens contact State Dept. for help amid conflict: Officials](https://www.reddit.com/r/news/comments/177g334/20k_us_citizens_contact_state_dept_for_help_amid/)
+- [Stanford suspends teacher after reportedly calling Jewish students colonizers, downplaying Holocaust](https://www.reddit.com/r/news/comments/177g2wj/stanford_suspends_teacher_after_reportedly/)
+- [Freaky Friday: NKU students scan and X-ray mysterious &#39;Fiji Mermaid&#39; remains](https://www.reddit.com/r/news/comments/177d22m/freaky_friday_nku_students_scan_and_xray/)
 <!-- REDDIT:END -->
 
 
