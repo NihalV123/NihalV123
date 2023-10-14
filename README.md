@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An Alabama woman was imprisoned for ‘endangering’ her fetus. She gave birth in a jail shower](https://www.reddit.com/r/news/comments/177nqqt/an_alabama_woman_was_imprisoned_for_endangering/)
+- [Palestinians in Gaza face impossible choice: Stay home under airstrikes, or flee under airstrikes?](https://www.reddit.com/r/news/comments/177ndd4/palestinians_in_gaza_face_impossible_choice_stay/)
+- [Ministry says 2,269 Palestinians killed and 9,814 others wounded in Gaza, West Bank](https://www.reddit.com/r/news/comments/177mbr7/ministry_says_2269_palestinians_killed_and_9814/)
+- [Actor Michael Caine says he is retiring aged 90](https://www.reddit.com/r/news/comments/177l9yf/actor_michael_caine_says_he_is_retiring_aged_90/)
+- [Australians vote No in referendum that promised change for First Nations people but couldn&#39;t deliver](https://www.reddit.com/r/news/comments/177l8oh/australians_vote_no_in_referendum_that_promised/)
 <!-- REDDIT:END -->
 
 
