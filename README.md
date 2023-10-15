@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Driving 100 miles in labor; giving birth in the ER: Fears rise as 3 maternity units prepare to close in Alabama](https://www.reddit.com/r/news/comments/178imjc/driving_100_miles_in_labor_giving_birth_in_the_er/)
+- [US deploys second aircraft carrier as Israeli ground invasion of Gaza nears | Israel-Hamas war](https://www.reddit.com/r/news/comments/178hhcv/us_deploys_second_aircraft_carrier_as_israeli/)
+- [US agency refuses to examine toxicity of ‘inactive’ pesticide chemicals to crops](https://www.reddit.com/r/news/comments/178dfub/us_agency_refuses_to_examine_toxicity_of_inactive/)
+- [Man attacked by grizzly bear in Montana to return home after losing his lower jaw, says he&#39;s ready for &#39;round 2&#39; | CNN](https://www.reddit.com/r/news/comments/1787wxf/man_attacked_by_grizzly_bear_in_montana_to_return/)
+- [Netflix plans to open brick and mortar locations](https://www.reddit.com/r/news/comments/1786qb8/netflix_plans_to_open_brick_and_mortar_locations/)
 <!-- REDDIT:END -->
 
 
