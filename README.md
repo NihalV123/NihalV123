@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man attacked by grizzly bear in Montana to return home after losing his lower jaw, says he&#39;s ready for &#39;round 2&#39; | CNN](https://www.reddit.com/r/news/comments/1787wxf/man_attacked_by_grizzly_bear_in_montana_to_return/)
+- [Lack of water worsens misery in besieged Gaza as Israeli airstrikes continue](https://www.reddit.com/r/news/comments/1786fd5/lack_of_water_worsens_misery_in_besieged_gaza_as/)
+- [Hamas Fighters’ Orders: ‘Kill as Many People as Possible’](https://www.reddit.com/r/news/comments/1785jei/hamas_fighters_orders_kill_as_many_people_as/)
+- [State Fair of Texas being evacuated after reports of a shooting](https://www.reddit.com/r/news/comments/1784r1i/state_fair_of_texas_being_evacuated_after_reports/)
+- [Israeli forensic teams describe signs of torture, abuse](https://www.reddit.com/r/news/comments/1784jt3/israeli_forensic_teams_describe_signs_of_torture/)
 <!-- REDDIT:END -->
 
 
