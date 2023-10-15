@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Egypt refuses foreigners passage from Gaza except as part of aid agreement - Foreign Affairs - Egypt](https://www.reddit.com/r/news/comments/17826u6/egypt_refuses_foreigners_passage_from_gaza_except/)
+- [BBC journalists held at gunpoint by Israeli police](https://www.reddit.com/r/news/comments/17823dv/bbc_journalists_held_at_gunpoint_by_israeli_police/)
+- [Maine DSA Stages Pro-Hamas Rally in Portland, Calls Terror Attacks on Israel &quot;Morally and Legally Legitimate&quot; [VIDEO] - The Maine Wire](https://www.reddit.com/r/news/comments/1781912/maine_dsa_stages_prohamas_rally_in_portland_calls/)
+- [US to send 2nd aircraft carrier to eastern Mediterranean](https://www.reddit.com/r/news/comments/17804df/us_to_send_2nd_aircraft_carrier_to_eastern/)
+- [NATO report: Hamas’ use of human shields in Gaza](https://www.reddit.com/r/news/comments/17800ut/nato_report_hamas_use_of_human_shields_in_gaza/)
 <!-- REDDIT:END -->
 
 
