@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [I-25 both directions closed after train derails north of Pueblo](https://www.reddit.com/r/news/comments/178tjmi/i25_both_directions_closed_after_train_derails/)
+- [Boy, 6, killed in anti-Muslim attack, say US police - BBC News](https://www.reddit.com/r/news/comments/178sd0r/boy_6_killed_in_antimuslim_attack_say_us_police/)
+- [Senior UN relief official calls for ‘immediate unconditional’ access for life-saving aid in Gaza](https://www.reddit.com/r/news/comments/178s6qi/senior_un_relief_official_calls_for_immediate/)
+- [&#39;Three&#39;s Company&#39; actress Suzanne Somers dies at 76](https://www.reddit.com/r/news/comments/178oa73/threes_company_actress_suzanne_somers_dies_at_76/)
+- [Man targeted 6-year-old boy, woman in deadly Plainfield stabbing because they are Muslim: detectives](https://www.reddit.com/r/news/comments/178nf6z/man_targeted_6yearold_boy_woman_in_deadly/)
 <!-- REDDIT:END -->
 
 
