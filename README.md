@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [They followed evacuation orders. An Israeli airstrike killed them the next day. | CNN](https://www.reddit.com/r/news/comments/179k91g/they_followed_evacuation_orders_an_israeli/)
+- [Belgian officials raise terror alert level after 2 Swedes fatally shot in Brussels](https://www.reddit.com/r/news/comments/179iqp4/belgian_officials_raise_terror_alert_level_after/)
+- [Supreme Court allows Biden administration to continue fully enforcing ghost gun regulations | CNN Politics](https://www.reddit.com/r/news/comments/179gckw/supreme_court_allows_biden_administration_to/)
+- [Joseph Czuba: No bail for suspect in killing of Muslim boy in Illinois](https://www.reddit.com/r/news/comments/179dr64/joseph_czuba_no_bail_for_suspect_in_killing_of/)
+- [California to require big firms to reveal carbon emissions in first law of its kind](https://www.reddit.com/r/news/comments/179dbkg/california_to_require_big_firms_to_reveal_carbon/)
 <!-- REDDIT:END -->
 
 
