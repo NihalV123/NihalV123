@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel-Hamas war: At least 500 people killed in hospital bombing in Gaza, Palestinian officials claim | World News](https://www.reddit.com/r/news/comments/17a3rvz/israelhamas_war_at_least_500_people_killed_in/)
+- [5 Hezbollah fighters are killed as tensions flare along the border between Lebanon and Israel](https://www.reddit.com/r/news/comments/17a2ftr/5_hezbollah_fighters_are_killed_as_tensions_flare/)
+- [&#39;We don&#39;t wear that in this country&#39;: Man punches Sikh teen in turban on NYC bus in suspected hate crime](https://www.reddit.com/r/news/comments/17a1wa8/we_dont_wear_that_in_this_country_man_punches/)
+- [Man faces misdemeanor for twice bringing guns to Wisconsin state Capitol, asking to see governor](https://www.reddit.com/r/news/comments/17a16da/man_faces_misdemeanor_for_twice_bringing_guns_to/)
+- [In rare move, Ford executive chair calls on UAW to make a deal and end &#39;acrimonious&#39; talks](https://www.reddit.com/r/news/comments/179zg22/in_rare_move_ford_executive_chair_calls_on_uaw_to/)
 <!-- REDDIT:END -->
 
 
