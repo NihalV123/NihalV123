@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [About 2,000 U.S. troops told to prepare for deployment in response to Israel-Hamas war](https://www.reddit.com/r/news/comments/179pzyx/about_2000_us_troops_told_to_prepare_for/)
+- [BBC journalists held at gunpoint by Israeli police](https://www.reddit.com/r/news/comments/179pam0/bbc_journalists_held_at_gunpoint_by_israeli_police/)
+- [President says Israel reducing humanitarian law ‘to tatters’, criticises EU Commission president](https://www.reddit.com/r/news/comments/179oyk2/president_says_israel_reducing_humanitarian_law/)
+- [Georgia refuses to release evidence from police shooting of Cop City activist](https://www.reddit.com/r/news/comments/179n47w/georgia_refuses_to_release_evidence_from_police/)
+- [US university professor shoved to ground by rightwing youth activists](https://www.reddit.com/r/news/comments/179mzxw/us_university_professor_shoved_to_ground_by/)
 <!-- REDDIT:END -->
 
 
