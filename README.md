@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [House speakership up in air as resistance to Jim Jordan hardens](https://www.reddit.com/r/news/comments/17ada0o/house_speakership_up_in_air_as_resistance_to_jim/)
+- [Law firm rescinds job offers to Harvard students who signed Israel letters](https://www.reddit.com/r/news/comments/17ad81q/law_firm_rescinds_job_offers_to_harvard_students/)
+- [Arkansas orders Chinese-owned seed producer Syngenta to sell US farmland](https://www.reddit.com/r/news/comments/17aco5a/arkansas_orders_chineseowned_seed_producer/)
+- [Landscaping crew mows around dead body assuming it was a Halloween prop](https://www.reddit.com/r/news/comments/17abzvy/landscaping_crew_mows_around_dead_body_assuming/)
+- [Gaza families ordered south return home, say nowhere is safe from Israeli bombs](https://www.reddit.com/r/news/comments/17abouy/gaza_families_ordered_south_return_home_say/)
 <!-- REDDIT:END -->
 
 
