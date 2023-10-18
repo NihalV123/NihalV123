@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Convicted Fugees rapper Pras Michel&#39;s lawyer used AI to draft bungled closing argument](https://www.reddit.com/r/news/comments/17aoyoa/convicted_fugees_rapper_pras_michels_lawyer_used/)
+- [The German chancellor condemns a firebomb attack on a Berlin synagogue and vows protection for Jews](https://www.reddit.com/r/news/comments/17ao19a/the_german_chancellor_condemns_a_firebomb_attack/)
+- [Millennium Bridge workers hang straw bales after ancient bylaw triggered](https://www.reddit.com/r/news/comments/17an28d/millennium_bridge_workers_hang_straw_bales_after/)
+- [Berlin synagogue attacked as antisemitic incidents rise](https://www.reddit.com/r/news/comments/17amwjw/berlin_synagogue_attacked_as_antisemitic/)
+- [US home sellers&#39; class action over buyer commissions heads to trial](https://www.reddit.com/r/news/comments/17agqrc/us_home_sellers_class_action_over_buyer/)
 <!-- REDDIT:END -->
 
 
