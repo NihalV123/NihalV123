@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Eight French airports forced to evacuate for security reasons](https://www.reddit.com/r/news/comments/17avb7f/eight_french_airports_forced_to_evacuate_for/)
+- [Prime suspect admits to Natalee Holloway&#39;s 2005 murder in Aruba, gets plea deal in extortion case](https://www.reddit.com/r/news/comments/17au4pi/prime_suspect_admits_to_natalee_holloways_2005/)
+- [WSJ News Exclusive | U.S. Says Intelligence Shows Gaza Militants Behind Hospital Blast](https://www.reddit.com/r/news/comments/17atve1/wsj_news_exclusive_us_says_intelligence_shows/)
+- [&quot;Bullhorn Lady&quot; Rachel Powell sentenced to nearly 5 years on Jan. 6 charges](https://www.reddit.com/r/news/comments/17atg2e/bullhorn_lady_rachel_powell_sentenced_to_nearly_5/)
+- [Ex-Michigan gubernatorial candidate sentenced to 2 months behind bars for Capitol riot role](https://www.reddit.com/r/news/comments/17at0ki/exmichigan_gubernatorial_candidate_sentenced_to_2/)
 <!-- REDDIT:END -->
 
 
