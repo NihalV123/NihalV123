@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US home sellers&#39; class action over buyer commissions heads to trial](https://www.reddit.com/r/news/comments/17agqrc/us_home_sellers_class_action_over_buyer/)
+- [Kansas agency investigated girl&#39;s family 5 times before she was killed, a report shows](https://www.reddit.com/r/news/comments/17aewn0/kansas_agency_investigated_girls_family_5_times/)
+- [Kroger, Walmart fruit supplier files for Chapter 11](https://www.reddit.com/r/news/comments/17aegat/kroger_walmart_fruit_supplier_files_for_chapter_11/)
+- [Law firm rescinds job offers to Harvard students who signed Israel letters](https://www.reddit.com/r/news/comments/17ad81q/law_firm_rescinds_job_offers_to_harvard_students/)
+- [Arkansas orders Chinese-owned seed producer Syngenta to sell US farmland](https://www.reddit.com/r/news/comments/17aco5a/arkansas_orders_chineseowned_seed_producer/)
 <!-- REDDIT:END -->
 
 
