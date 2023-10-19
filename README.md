@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia detains Radio Free Europe journalist with dual U.S. and Russian citizenship](https://www.reddit.com/r/news/comments/17bmoh5/russia_detains_radio_free_europe_journalist_with/)
+- [FBI: Thousands of remote IT workers sent wages to North Korea to help fund weapons program](https://www.reddit.com/r/news/comments/17bloth/fbi_thousands_of_remote_it_workers_sent_wages_to/)
+- [Starbucks, Workers United union sue each other in standoff over pro-Palestinian social media post](https://www.reddit.com/r/news/comments/17bkte0/starbucks_workers_united_union_sue_each_other_in/)
+- [Trump attorney Sidney Powell pleads guilty in Georgia election subversion case](https://www.reddit.com/r/news/comments/17bjxfe/trump_attorney_sidney_powell_pleads_guilty_in/)
+- [Woman pushed onto tracks at midtown subway station, police searching for suspect](https://www.reddit.com/r/news/comments/17bjr90/woman_pushed_onto_tracks_at_midtown_subway/)
 <!-- REDDIT:END -->
 
 
