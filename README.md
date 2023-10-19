@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia Says Sending 27 Tons of Humanitarian Aid to Gaza](https://www.reddit.com/r/news/comments/17bed7g/russia_says_sending_27_tons_of_humanitarian_aid/)
+- [Oscar-nominated Rocky actor Burt Young dead at 83](https://www.reddit.com/r/news/comments/17bb99s/oscarnominated_rocky_actor_burt_young_dead_at_83/)
+- [Deputy who broke 8 ribs of man he arrested in Spokane Valley park says he was concerned about knife](https://www.reddit.com/r/news/comments/17b7iy3/deputy_who_broke_8_ribs_of_man_he_arrested_in/)
+- [Six bull sharks inadvertently made their home on an Australian golf course. Then they vanished](https://www.reddit.com/r/news/comments/17b78ty/six_bull_sharks_inadvertently_made_their_home_on/)
+- [Texas installing concertina wire along New Mexico border](https://www.reddit.com/r/news/comments/17b71hb/texas_installing_concertina_wire_along_new_mexico/)
 <!-- REDDIT:END -->
 
 
