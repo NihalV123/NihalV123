@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NYPD: Man allegedly told woman he punched her because &quot;you are Jewish&quot;](https://www.reddit.com/r/news/comments/17c9en5/nypd_man_allegedly_told_woman_he_punched_her/)
+- [&#39;No wonder Hitler wanted rid of them&#39;: Citibank fires employee over anti-Israel post](https://www.reddit.com/r/news/comments/17c8rse/no_wonder_hitler_wanted_rid_of_them_citibank/)
+- [St. Louis cancels youth football team’s season after parent allegedly shot the coach](https://www.reddit.com/r/news/comments/17c7vkx/st_louis_cancels_youth_football_teams_season/)
+- [Elected Officials Receive Death Threats Over Rejecting Jordan.](https://www.reddit.com/r/news/comments/17c7krv/elected_officials_receive_death_threats_over/)
+- [Man arrested for faking heart attack 20 times at restaurants to avoid paying bill, reports say](https://www.reddit.com/r/news/comments/17c4e5b/man_arrested_for_faking_heart_attack_20_times_at/)
 <!-- REDDIT:END -->
 
 
