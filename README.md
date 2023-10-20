@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alex Jones must pay $1.1 billion of Sandy Hook damages despite bankruptcy - court](https://www.reddit.com/r/news/comments/17bxl4t/alex_jones_must_pay_11_billion_of_sandy_hook/)
+- [Rockets, drones hit Iraqi base housing U.S. forces -security sources](https://www.reddit.com/r/news/comments/17buyz6/rockets_drones_hit_iraqi_base_housing_us_forces/)
+- [Florida man found guilty of murdering wife after she refused to go on home renovation TV show](https://www.reddit.com/r/news/comments/17bttbh/florida_man_found_guilty_of_murdering_wife_after/)
+- [Voter fraud charges dropped against 69-year-old Black woman](https://www.reddit.com/r/news/comments/17bsk0k/voter_fraud_charges_dropped_against_69yearold/)
+- [Md. police officer, hired a year after Jan. 6, now accused of taking part in it](https://www.reddit.com/r/news/comments/17br12a/md_police_officer_hired_a_year_after_jan_6_now/)
 <!-- REDDIT:END -->
 
 
