@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado men accused of taking photo after rock-throwing death will stand trial for murder](https://www.reddit.com/r/news/comments/17cp3at/colorado_men_accused_of_taking_photo_after/)
+- [Judith and Natalie Raanan: Hamas frees two American hostages](https://www.reddit.com/r/news/comments/17cnrgy/judith_and_natalie_raanan_hamas_frees_two/)
+- [Protesters on Capitol Hill call for Israel-Gaza cease-fire, hundreds arrested](https://www.reddit.com/r/news/comments/17cnqqc/protesters_on_capitol_hill_call_for_israelgaza/)
+- [2 lobbyists sent to prison for Michigan marijuana bribery scheme](https://www.reddit.com/r/news/comments/17cnltw/2_lobbyists_sent_to_prison_for_michigan_marijuana/)
+- [A masked police officer robbed three Las Vegas casinos of $164,000. He was identified in part by his unusual gait](https://www.reddit.com/r/news/comments/17cn7wm/a_masked_police_officer_robbed_three_las_vegas/)
 <!-- REDDIT:END -->
 
 
