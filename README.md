@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US puts sanctions on three Chinese companies for missile parts supplies to Pakistan](https://www.reddit.com/r/news/comments/17d0tks/us_puts_sanctions_on_three_chinese_companies_for/)
+- [Ragnar Locker ransomware gang taken down in international sweep](https://www.reddit.com/r/news/comments/17czbww/ragnar_locker_ransomware_gang_taken_down_in/)
+- [‘I want to tell the world’: the reporter determined to share Gaza’s stories](https://www.reddit.com/r/news/comments/17cypr0/i_want_to_tell_the_world_the_reporter_determined/)
+- [Juveniles charged with dousing acid on playground slides that injured 4 children](https://www.reddit.com/r/news/comments/17cy9z9/juveniles_charged_with_dousing_acid_on_playground/)
+- [Boarding school employee jailed for sexual abuse](https://www.reddit.com/r/news/comments/17cvf9z/boarding_school_employee_jailed_for_sexual_abuse/)
 <!-- REDDIT:END -->
 
 
