@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli missile strikes hit Jenin refugee camp in the West Bank.](https://www.reddit.com/r/news/comments/17dgpsc/israeli_missile_strikes_hit_jenin_refugee_camp_in/)
+- [Antisemitic hate crimes in London up 1,350%, Met police say | Hate crime](https://www.reddit.com/r/news/comments/17dd9k2/antisemitic_hate_crimes_in_london_up_1350_met/)
+- [Detroit synagogue president Samantha Woll found dead outside her home](https://www.reddit.com/r/news/comments/17da1fl/detroit_synagogue_president_samantha_woll_found/)
+- [Florida man sentenced to 1 year in federal prison for trying to run over 6 Black men](https://www.reddit.com/r/news/comments/17d9icw/florida_man_sentenced_to_1_year_in_federal_prison/)
+- [US budget gap soars to $1.7 trillion, largest outside COVID era](https://www.reddit.com/r/news/comments/17d8g9z/us_budget_gap_soars_to_17_trillion_largest/)
 <!-- REDDIT:END -->
 
 
