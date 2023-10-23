@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iowa woman who made fake cancer claims on social media must pay restitution but stays out of prison](https://www.reddit.com/r/news/comments/17e82aj/iowa_woman_who_made_fake_cancer_claims_on_social/)
+- [Rogue cops still licensed to carry a badge despite government reforms](https://www.reddit.com/r/news/comments/17e71ua/rogue_cops_still_licensed_to_carry_a_badge/)
+- [Deprived of fresh water, Gazans drink saltwater to stay alive](https://www.reddit.com/r/news/comments/17e6ne8/deprived_of_fresh_water_gazans_drink_saltwater_to/)
+- [NYPD officer arrested for allegedly negotiating deals for fentanyl and heroin while on-duty](https://www.reddit.com/r/news/comments/17e1hni/nypd_officer_arrested_for_allegedly_negotiating/)
+- [Rite Aid is closing more than 150 stores. Here&#39;s where they are.](https://www.reddit.com/r/news/comments/17dz4l8/rite_aid_is_closing_more_than_150_stores_heres/)
 <!-- REDDIT:END -->
 
 
