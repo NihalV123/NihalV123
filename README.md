@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hamas torture confirmed as Israeli forensics institute identifies victims](https://www.reddit.com/r/news/comments/17ec4e9/hamas_torture_confirmed_as_israeli_forensics/)
+- [Police find no evidence of a hate crime in murder of Detroit synagogue leader](https://www.reddit.com/r/news/comments/17e8c6z/police_find_no_evidence_of_a_hate_crime_in_murder/)
+- [Iowa woman who made fake cancer claims on social media must pay restitution but stays out of prison](https://www.reddit.com/r/news/comments/17e82aj/iowa_woman_who_made_fake_cancer_claims_on_social/)
+- [Rogue cops still licensed to carry a badge despite government reforms](https://www.reddit.com/r/news/comments/17e71ua/rogue_cops_still_licensed_to_carry_a_badge/)
+- [Deprived of fresh water, Gazans drink saltwater to stay alive](https://www.reddit.com/r/news/comments/17e6ne8/deprived_of_fresh_water_gazans_drink_saltwater_to/)
 <!-- REDDIT:END -->
 
 
