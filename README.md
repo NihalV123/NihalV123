@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dwindling fuel supplies for Gaza&#39;s hospital generators put premature babies in incubators at risk](https://www.reddit.com/r/news/comments/17f8py2/dwindling_fuel_supplies_for_gazas_hospital/)
+- [Washington state senator arrested in Hong Kong for carrying a gun through airport](https://www.reddit.com/r/news/comments/17f6ns0/washington_state_senator_arrested_in_hong_kong/)
+- [Officials can&#39;t interfere with local Tennessee Pride festival under anti-drag law, judge rules](https://www.reddit.com/r/news/comments/17f3fxw/officials_cant_interfere_with_local_tennessee/)
+- [Obama warns some of Israel&#39;s actions in Gaza may backfire](https://www.reddit.com/r/news/comments/17f3cxa/obama_warns_some_of_israels_actions_in_gaza_may/)
+- [7 people killed after more than 150 vehicles crashed along Louisiana&#39;s I-55 amid dense fog, officials say](https://www.reddit.com/r/news/comments/17f37ky/7_people_killed_after_more_than_150_vehicles/)
 <!-- REDDIT:END -->
 
 
