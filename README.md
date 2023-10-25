@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheriff deputy arrested, accused of soliciting a minor](https://www.reddit.com/r/news/comments/17fp4kg/sheriff_deputy_arrested_accused_of_soliciting_a/)
+- [California man gets year in prison for sending vile messages to father of gun massacre victim](https://www.reddit.com/r/news/comments/17foubx/california_man_gets_year_in_prison_for_sending/)
+- [Off-duty pilot may have been on psychedelic mushrooms when he tried to shut off plane engines, FBI says](https://www.reddit.com/r/news/comments/17fo5gz/offduty_pilot_may_have_been_on_psychedelic/)
+- [Ex-Chief of Staff Mark Meadows granted immunity, tells special counsel he warned Trump about 2020 claims: Sources](https://www.reddit.com/r/news/comments/17fo0hz/exchief_of_staff_mark_meadows_granted_immunity/)
+- [Bud Light rejoins UFC with record sponsorship deal, sources say](https://www.reddit.com/r/news/comments/17fnod2/bud_light_rejoins_ufc_with_record_sponsorship/)
 <!-- REDDIT:END -->
 
 
