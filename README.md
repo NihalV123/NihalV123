@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One prison guard, 96 abuse charges: women say ‘serial rapist’ targeted them over a decade](https://www.reddit.com/r/news/comments/17gafi5/one_prison_guard_96_abuse_charges_women_say/)
+- [A mother reported her son missing in March. Police kept the truth from her for months.](https://www.reddit.com/r/news/comments/17ga03k/a_mother_reported_her_son_missing_in_march_police/)
+- [Off-duty pilot said &#39;I&#39;m not OK&#39; before trying to cut engines midflight, charging documents say | CBC News](https://www.reddit.com/r/news/comments/17g9xk2/offduty_pilot_said_im_not_ok_before_trying_to_cut/)
+- [Florida man allegedly threatened to shoot someone at CVS unless given &#39;all bottles&#39; of Viagra](https://www.reddit.com/r/news/comments/17g8fkx/florida_man_allegedly_threatened_to_shoot_someone/)
+- [Gaza families wear ID bracelets to avoid burial in mass graves](https://www.reddit.com/r/news/comments/17g86rc/gaza_families_wear_id_bracelets_to_avoid_burial/)
 <!-- REDDIT:END -->
 
 
