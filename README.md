@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Shaft&#39; star Richard Roundtree, considered the first Black action movie hero, has died at 81](https://www.reddit.com/r/news/comments/17g2ihb/shaft_star_richard_roundtree_considered_the_first/)
+- [South korean Police to bolster crowd control measures at Halloween festival venues](https://www.reddit.com/r/news/comments/17fya7q/south_korean_police_to_bolster_crowd_control/)
+- [World’s largest sovereign wealth fund loses $34 billion as all asset classes fall in third quarter](https://www.reddit.com/r/news/comments/17fx72t/worlds_largest_sovereign_wealth_fund_loses_34/)
+- [23andMe notifies customers of data breach into its &#39;DNA Relatives&#39; feature](https://www.reddit.com/r/news/comments/17fu9di/23andme_notifies_customers_of_data_breach_into/)
+- [Sacramento police stop mother and 8-year-old son at gunpoint over mistaken identity](https://www.reddit.com/r/news/comments/17fti1s/sacramento_police_stop_mother_and_8yearold_son_at/)
 <!-- REDDIT:END -->
 
 
