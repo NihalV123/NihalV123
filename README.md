@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Taylor Swift is now a Billionaire due to her tour.](https://www.reddit.com/r/news/comments/17he82m/taylor_swift_is_now_a_billionaire_due_to_her_tour/)
+- [Las Vegas - Failed Luxury Condo Shooter Released on 25k Bail](https://www.reddit.com/r/news/comments/17hdwyq/las_vegas_failed_luxury_condo_shooter_released_on/)
+- [First Photos of Mystery Jaguar Spotted in Southern Arizona Huachuca Mountains](https://www.reddit.com/r/news/comments/17hdh05/first_photos_of_mystery_jaguar_spotted_in/)
+- [US strikes Iran-linked sites in Syria in retaliation for attacks on US troops](https://www.reddit.com/r/news/comments/17hd1ga/us_strikes_iranlinked_sites_in_syria_in/)
+- [Former China PM Li Keqiang dead at 68](https://www.reddit.com/r/news/comments/17hb2qn/former_china_pm_li_keqiang_dead_at_68/)
 <!-- REDDIT:END -->
 
 
