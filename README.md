@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US halts exports of most civilian firearms for 90 days](https://www.reddit.com/r/news/comments/17i593d/us_halts_exports_of_most_civilian_firearms_for_90/)
+- [Maine shooting suspect Robert Card found dead, officials say](https://www.reddit.com/r/news/comments/17i3tkn/maine_shooting_suspect_robert_card_found_dead/)
+- [Mexico&#39;s Acapulco grows desperate for help after Hurricane Otis ravaged the area](https://www.reddit.com/r/news/comments/17i1108/mexicos_acapulco_grows_desperate_for_help_after/)
+- [Israeli military says it can&#39;t guarantee journalists safety in Gaza](https://www.reddit.com/r/news/comments/17hy5xy/israeli_military_says_it_cant_guarantee/)
+- [United Nations votes overwhelmingly in favour of humanitarian truce in Gaza](https://www.reddit.com/r/news/comments/17hxv63/united_nations_votes_overwhelmingly_in_favour_of/)
 <!-- REDDIT:END -->
 
 
