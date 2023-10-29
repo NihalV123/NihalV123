@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Matthew Perry, star of ‘Friends,’ dies after apparent drowning, TMZ reports](https://www.reddit.com/r/news/comments/17ir9z8/matthew_perry_star_of_friends_dies_after_apparent/)
+- [Police: Live cluster bomblet, ammunition found with donation at southeastern Wisconsin thrift store](https://www.reddit.com/r/news/comments/17io8ms/police_live_cluster_bomblet_ammunition_found_with/)
+- [Panera adds warning about its caffeinated lemonade in all stores after lawsuit over customer&#39;s death](https://www.reddit.com/r/news/comments/17inf7m/panera_adds_warning_about_its_caffeinated/)
+- [Gaza &#39;disconnected from the planet&#39; - but messages of fear trickle out](https://www.reddit.com/r/news/comments/17in4m7/gaza_disconnected_from_the_planet_but_messages_of/)
+- [Police found Maine shooting suspect dead in recycling trailer, still investigating motive](https://www.reddit.com/r/news/comments/17ikwei/police_found_maine_shooting_suspect_dead_in/)
 <!-- REDDIT:END -->
 
 
