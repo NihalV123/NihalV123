@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [“Israel will use all its means to prevent the use of Starlink satellites in Gaza&quot;](https://www.reddit.com/r/news/comments/17j16tx/israel_will_use_all_its_means_to_prevent_the_use/)
+- [‘My children were saying: Let them just kill us’: British doctor trapped in Gaza with family calls for ceasefire](https://www.reddit.com/r/news/comments/17izsd4/my_children_were_saying_let_them_just_kill_us/)
+- [Musk says Starlink will provide Gaza connectivity for aid groups](https://www.reddit.com/r/news/comments/17iz2kh/musk_says_starlink_will_provide_gaza_connectivity/)
+- [Ice hockey player Johnson dies after neck cut](https://www.reddit.com/r/news/comments/17iz1i3/ice_hockey_player_johnson_dies_after_neck_cut/)
+- [US appeals court keeps California assault weapons ban in force](https://www.reddit.com/r/news/comments/17ivcsv/us_appeals_court_keeps_california_assault_weapons/)
 <!-- REDDIT:END -->
 
 
