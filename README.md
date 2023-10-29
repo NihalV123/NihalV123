@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US appeals court keeps California assault weapons ban in force](https://www.reddit.com/r/news/comments/17ivcsv/us_appeals_court_keeps_california_assault_weapons/)
+- [Chula Vista shopping mall on lockdown after shots fired; suspects outstanding](https://www.reddit.com/r/news/comments/17iu4v0/chula_vista_shopping_mall_on_lockdown_after_shots/)
+- [Spanish Church sexual abuse affected 200,000 children, commission finds](https://www.reddit.com/r/news/comments/17itzvk/spanish_church_sexual_abuse_affected_200000/)
+- [Thousands rally in downtown L.A. against Israel&#39;s air and ground war in Gaza](https://www.reddit.com/r/news/comments/17itvp4/thousands_rally_in_downtown_la_against_israels/)
+- [Hundreds of thousands rally across cities to support Palestinians](https://www.reddit.com/r/news/comments/17itqh6/hundreds_of_thousands_rally_across_cities_to/)
 <!-- REDDIT:END -->
 
 
