@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Army Reserve, family raised alarm about Maine shooter weeks before attack](https://www.reddit.com/r/news/comments/17kcyl5/us_army_reserve_family_raised_alarm_about_maine/)
+- [US to build new nuclear gravity bomb](https://www.reddit.com/r/news/comments/17kbwda/us_to_build_new_nuclear_gravity_bomb/)
+- [Exclusive: US military bulk buys Japanese seafood to counter China ban](https://www.reddit.com/r/news/comments/17kaej9/exclusive_us_military_bulk_buys_japanese_seafood/)
+- [Israel pushes deeper into Gaza and frees Hamas captive; Netanyahu rejects calls for cease-fire](https://www.reddit.com/r/news/comments/17k9xb5/israel_pushes_deeper_into_gaza_and_frees_hamas/)
+- [Police investigating death of US ice hockey player from skate blade cut in English game](https://www.reddit.com/r/news/comments/17k9wh1/police_investigating_death_of_us_ice_hockey/)
 <!-- REDDIT:END -->
 
 
