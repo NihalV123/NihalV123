@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jury finds Hawaii couple guilty for stealing identities of dead babies](https://www.reddit.com/r/news/comments/17kxx4w/jury_finds_hawaii_couple_guilty_for_stealing/)
+- [WeWork plans to file for bankruptcy as early as next week, source says](https://www.reddit.com/r/news/comments/17kxm9y/wework_plans_to_file_for_bankruptcy_as_early_as/)
+- [Israel claims responsibility for strike on Gaza refugee camp amid ground assault](https://www.reddit.com/r/news/comments/17kwzjm/israel_claims_responsibility_for_strike_on_gaza/)
+- [Tennessee man with mental health issues &#39;needlessly shot and killed&#39; by Nashville police, family says](https://www.reddit.com/r/news/comments/17kwjzd/tennessee_man_with_mental_health_issues/)
+- [More children killed in Gaza in 3 weeks, than in all global conflict annually since 2019](https://www.reddit.com/r/news/comments/17kwcb6/more_children_killed_in_gaza_in_3_weeks_than_in/)
 <!-- REDDIT:END -->
 
 
