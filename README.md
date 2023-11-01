@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police fatally shoot suspect involved in Brooklyn double murder](https://www.reddit.com/r/news/comments/17lfz2w/police_fatally_shoot_suspect_involved_in_brooklyn/)
+- [Israeli airstrikes hit refugee camp for a second day](https://www.reddit.com/r/news/comments/17lfx32/israeli_airstrikes_hit_refugee_camp_for_a_second/)
+- [Teen treatment center must face forced labor claims, US appeals court rules](https://www.reddit.com/r/news/comments/17lfr4o/teen_treatment_center_must_face_forced_labor/)
+- [Cornell student accused of making antisemitic threats against Jewish students is expected in court today](https://www.reddit.com/r/news/comments/17lcxro/cornell_student_accused_of_making_antisemitic/)
+- [Cuba officials urge U.S. to lift sanctions to stem migration to U.S.](https://www.reddit.com/r/news/comments/17lct5k/cuba_officials_urge_us_to_lift_sanctions_to_stem/)
 <!-- REDDIT:END -->
 
 
