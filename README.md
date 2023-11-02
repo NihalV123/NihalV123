@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Idaho mother and son charged with kidnapping over out-of-state abortion](https://www.reddit.com/r/news/comments/17lph6n/idaho_mother_and_son_charged_with_kidnapping_over/)
+- [Erin Patterson arrested by Victoria Police over fatal poisonous mushroom meal](https://www.reddit.com/r/news/comments/17lpgss/erin_patterson_arrested_by_victoria_police_over/)
+- [Bobby Knight, legendary Indiana Hoosiers basketball coach, dies at 83](https://www.reddit.com/r/news/comments/17lp5ei/bobby_knight_legendary_indiana_hoosiers/)
+- [Saudi Arabia set to host 2034 World Cup as Australia withdraws interest](https://www.reddit.com/r/news/comments/17lnezm/saudi_arabia_set_to_host_2034_world_cup_as/)
+- [Ex-Goldman banker gets three years in prison for insider trading](https://www.reddit.com/r/news/comments/17ln0s7/exgoldman_banker_gets_three_years_in_prison_for/)
 <!-- REDDIT:END -->
 
 
