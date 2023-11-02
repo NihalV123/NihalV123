@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Six Flags and Cedar Fair are merging | CNN Business](https://www.reddit.com/r/news/comments/17m1d9v/six_flags_and_cedar_fair_are_merging_cnn_business/)
+- [The LDS Church is sued again over how it uses tithing contributions](https://www.reddit.com/r/news/comments/17lz0ec/the_lds_church_is_sued_again_over_how_it_uses/)
+- [&#39;Succession&#39; star Alan Ruck involved in Hollywood pizzeria crash](https://www.reddit.com/r/news/comments/17lwhrd/succession_star_alan_ruck_involved_in_hollywood/)
+- [Pilot indicted for threatening to shoot captain who tried to divert commercial flight for medical emergency, officials say | CNN](https://www.reddit.com/r/news/comments/17luspy/pilot_indicted_for_threatening_to_shoot_captain/)
+- [Texas Rangers win first World Series title with 5-0 win over Diamondbacks in Game 5](https://www.reddit.com/r/news/comments/17lu6w8/texas_rangers_win_first_world_series_title_with/)
 <!-- REDDIT:END -->
 
 
