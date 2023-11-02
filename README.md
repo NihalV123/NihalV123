@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pilot indicted for threatening to shoot captain who tried to divert commercial flight for medical emergency, officials say | CNN](https://www.reddit.com/r/news/comments/17luspy/pilot_indicted_for_threatening_to_shoot_captain/)
+- [Texas Rangers win first World Series title with 5-0 win over Diamondbacks in Game 5](https://www.reddit.com/r/news/comments/17lu6w8/texas_rangers_win_first_world_series_title_with/)
+- [A strong earthquake has shaken the Timor region of Indonesia but no deaths, injuries reported](https://www.reddit.com/r/news/comments/17lt0fa/a_strong_earthquake_has_shaken_the_timor_region/)
+- [Afghan refugees forced to leave Pakistan say they have nothing](https://www.reddit.com/r/news/comments/17lr297/afghan_refugees_forced_to_leave_pakistan_say_they/)
+- [Idaho mother and son charged with kidnapping over out-of-state abortion](https://www.reddit.com/r/news/comments/17lph6n/idaho_mother_and_son_charged_with_kidnapping_over/)
 <!-- REDDIT:END -->
 
 
