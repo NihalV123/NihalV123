@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FTX founder Sam-Bankman-Fried convicted of defrauding cryptocurrency customers](https://www.reddit.com/r/news/comments/17mhkec/ftx_founder_sambankmanfried_convicted_of/)
+- [First Ford plant workers who went on strike approve new contract](https://www.reddit.com/r/news/comments/17mgp3k/first_ford_plant_workers_who_went_on_strike/)
+- [Last operating US prison ship, a grim vestige of mass incarceration, set to close in NYC](https://www.reddit.com/r/news/comments/17mffvp/last_operating_us_prison_ship_a_grim_vestige_of/)
+- [FBI raids home of major fundraiser for NYC Mayor Eric Adams](https://www.reddit.com/r/news/comments/17mc76i/fbi_raids_home_of_major_fundraiser_for_nyc_mayor/)
+- [Amazon used an algorithm to essentially raise prices on other sites, the FTC says](https://www.reddit.com/r/news/comments/17mc066/amazon_used_an_algorithm_to_essentially_raise/)
 <!-- REDDIT:END -->
 
 
