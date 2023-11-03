@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Calls mount for federal investigation of Mississippi police in Dexter Wade&#39;s death](https://www.reddit.com/r/news/comments/17ms013/calls_mount_for_federal_investigation_of/)
+- [Deputy Shot Missouri Family’s Dog and Threw It in a Ditch](https://www.reddit.com/r/news/comments/17mqui5/deputy_shot_missouri_familys_dog_and_threw_it_in/)
+- [Israel ‘severing all contact with Gaza’, will send Gazan workers back to enclave | CNN](https://www.reddit.com/r/news/comments/17mqubh/israel_severing_all_contact_with_gaza_will_send/)
+- [Beyond Meat cuts non-production workforce by 19% as plant-based meat demand weakens](https://www.reddit.com/r/news/comments/17mqcp5/beyond_meat_cuts_nonproduction_workforce_by_19_as/)
+- [City of Marion refuses to turn over records following newsroom raid that should be publicly available](https://www.reddit.com/r/news/comments/17mni8m/city_of_marion_refuses_to_turn_over_records/)
 <!-- REDDIT:END -->
 
 
