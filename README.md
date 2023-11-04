@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Thomas Ken Mattingly: &#39;Hero&#39; astronaut who helped save Apollo 13 crew dies | US News](https://www.reddit.com/r/news/comments/17n5yg0/thomas_ken_mattingly_hero_astronaut_who_helped/)
+- [Protest at Port of Oakland over ship headed to Israel](https://www.reddit.com/r/news/comments/17n5sdm/protest_at_port_of_oakland_over_ship_headed_to/)
+- [&quot;72 UNRWA personnel have been killed since 7 October. This is the highest number of UN aid workers killed in a conflict in such a short time.&quot;](https://www.reddit.com/r/news/comments/17n5ngd/72_unrwa_personnel_have_been_killed_since_7/)
+- [Former nurse Heather Pressdee now linked to 17 nursing home deaths](https://www.reddit.com/r/news/comments/17n5byv/former_nurse_heather_pressdee_now_linked_to_17/)
+- [Tens of thousands of Las Vegas Strip hotel workers at 18 casinos could go on strike this month](https://www.reddit.com/r/news/comments/17n4nk1/tens_of_thousands_of_las_vegas_strip_hotel/)
 <!-- REDDIT:END -->
 
 
