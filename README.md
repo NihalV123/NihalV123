@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘No international protection at all.’ Grief and anger erupt on air after another Palestinian journalist is killed in Gaza](https://www.reddit.com/r/news/comments/17nd67u/no_international_protection_at_all_grief_and/)
+- [Smiths Station Mayor, Phenix City pastor commits suicide, sheriff confirms](https://www.reddit.com/r/news/comments/17ncmhj/smiths_station_mayor_phenix_city_pastor_commits/)
+- [French Institute in Gaza hit by Israeli strike, Paris demands answers](https://www.reddit.com/r/news/comments/17nbi26/french_institute_in_gaza_hit_by_israeli_strike/)
+- [US appeals court upholds Illinois assault weapons ban](https://www.reddit.com/r/news/comments/17nbfts/us_appeals_court_upholds_illinois_assault_weapons/)
+- [Thomas Ken Mattingly: &#39;Hero&#39; astronaut who helped save Apollo 13 crew dies | US News](https://www.reddit.com/r/news/comments/17n5yg0/thomas_ken_mattingly_hero_astronaut_who_helped/)
 <!-- REDDIT:END -->
 
 
