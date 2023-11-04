@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Tortured, arrested and insulted’, say workers returned to Gaza by Israel](https://www.reddit.com/r/news/comments/17nhpyk/tortured_arrested_and_insulted_say_workers/)
+- [Nepal earthquake kills at least 128, toll could rise, officials say](https://www.reddit.com/r/news/comments/17ng1bv/nepal_earthquake_kills_at_least_128_toll_could/)
+- [Israel struck 1 of the 3 major international news agencies currently operating a 24/7 live video feed from Gaza City](https://www.reddit.com/r/news/comments/17neqm4/israel_struck_1_of_the_3_major_international_news/)
+- [Smiths Station Mayor, Phenix City pastor commits suicide, sheriff confirms](https://www.reddit.com/r/news/comments/17ncmhj/smiths_station_mayor_phenix_city_pastor_commits/)
+- [French Institute in Gaza hit by Israeli strike, Paris demands answers](https://www.reddit.com/r/news/comments/17nbi26/french_institute_in_gaza_hit_by_israeli_strike/)
 <!-- REDDIT:END -->
 
 
