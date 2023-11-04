@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A grandmother was fatally shot in her car by an officer. It’s not his force’s only deadly encounter under scrutiny](https://www.reddit.com/r/news/comments/17npwcd/a_grandmother_was_fatally_shot_in_her_car_by_an/)
+- [Israel sends thousands of cross-border Palestinian workers back to Gaza](https://www.reddit.com/r/news/comments/17npi7r/israel_sends_thousands_of_crossborder_palestinian/)
+- [South American countries recall ambassadors and cut ties with Israel over war with Hamas](https://www.reddit.com/r/news/comments/17nparb/south_american_countries_recall_ambassadors_and/)
+- [San Jose police chief confirms officer off the force over &quot;disgusting&quot; racist text messages](https://www.reddit.com/r/news/comments/17np6ns/san_jose_police_chief_confirms_officer_off_the/)
+- [Turkey recalls envoy to Israel, &#39;writes off&#39; Netanyahu](https://www.reddit.com/r/news/comments/17nnr0g/turkey_recalls_envoy_to_israel_writes_off/)
 <!-- REDDIT:END -->
 
 
