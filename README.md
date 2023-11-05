@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [How an American meat broker is fueling Amazon deforestation](https://www.reddit.com/r/news/comments/17oa5y7/how_an_american_meat_broker_is_fueling_amazon/)
+- [Hundreds of migrants rescued off Spain&#39;s Canary Islands](https://www.reddit.com/r/news/comments/17oa4jp/hundreds_of_migrants_rescued_off_spains_canary/)
+- [New Washington Post Publisher/CEO Named](https://www.reddit.com/r/news/comments/17oa1ag/new_washington_post_publisherceo_named/)
+- [&#39;Don&#39;t Fly Air India On Nov 19&#39;: K-Terrorist Pannun Tells Sikhs, Hints At Attacking Airline On Day Of CWC Final](https://www.reddit.com/r/news/comments/17o9gvf/dont_fly_air_india_on_nov_19_kterrorist_pannun/)
+- [Ex-girlfriend of Brewdog boss James Watt cleared of criminal fraud](https://www.reddit.com/r/news/comments/17o98zw/exgirlfriend_of_brewdog_boss_james_watt_cleared/)
 <!-- REDDIT:END -->
 
 
