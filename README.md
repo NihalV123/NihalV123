@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [You scratch my back: De Niro court battle lifts veil on celebrity assistants](https://www.reddit.com/r/news/comments/17oujqe/you_scratch_my_back_de_niro_court_battle_lifts/)
+- [7 people shot, 2 dead at Denver motorcycle club](https://www.reddit.com/r/news/comments/17otr5e/7_people_shot_2_dead_at_denver_motorcycle_club/)
+- [Police say a gunman fired 22 shots into a Cincinnati crowd, killing a boy and wounding 5 others](https://www.reddit.com/r/news/comments/17oqvtx/police_say_a_gunman_fired_22_shots_into_a/)
+- [More fruit pouches for kids are being recalled because of illnesses that are linked to lead](https://www.reddit.com/r/news/comments/17oqaz8/more_fruit_pouches_for_kids_are_being_recalled/)
+- [A woman and 3 children are killed by an Israeli airstrike in south Lebanon, local officials say](https://www.reddit.com/r/news/comments/17omkfd/a_woman_and_3_children_are_killed_by_an_israeli/)
 <!-- REDDIT:END -->
 
 
