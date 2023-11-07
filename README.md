@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jewish man dies after confrontation with pro-Palestinian protesters in Thousand Oaks](https://www.reddit.com/r/news/comments/17pm1n3/jewish_man_dies_after_confrontation_with/)
+- [WeWork, once valued at $47 billion, files for bankruptcy](https://www.reddit.com/r/news/comments/17pk2u9/wework_once_valued_at_47_billion_files_for/)
+- [NYPD officer appears to use homophobic slur on police car speaker](https://www.reddit.com/r/news/comments/17pjuyo/nypd_officer_appears_to_use_homophobic_slur_on/)
+- [These D.C. Police Officers Work So Much Overtime They Out-Earn The Mayor](https://www.reddit.com/r/news/comments/17pjrcw/these_dc_police_officers_work_so_much_overtime/)
+- [Captain found guilty of &#39;seaman&#39;s manslaughter&#39; in boat fire that killed 34 off California coast](https://www.reddit.com/r/news/comments/17pj9vn/captain_found_guilty_of_seamans_manslaughter_in/)
 <!-- REDDIT:END -->
 
 
