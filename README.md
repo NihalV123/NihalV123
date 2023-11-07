@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 women, 2 men, 1 child shot while attending trail ride party near Prairie View A&amp;M](https://www.reddit.com/r/news/comments/17pgwxa/4_women_2_men_1_child_shot_while_attending_trail/)
+- [Officer who arrested Elijah McClain found not guilty](https://www.reddit.com/r/news/comments/17pg4vp/officer_who_arrested_elijah_mcclain_found_not/)
+- [Hamas leader refuses to acknowledge killing of civilians in Israel](https://www.reddit.com/r/news/comments/17pelpb/hamas_leader_refuses_to_acknowledge_killing_of/)
+- [Indiana woman crashes car into what she thought was Jewish school &#39;on purpose,&#39; police say](https://www.reddit.com/r/news/comments/17pe6cf/indiana_woman_crashes_car_into_what_she_thought/)
+- [Italy judge seizes 780 mln euros from Airbnb in tax probe](https://www.reddit.com/r/news/comments/17pdfbs/italy_judge_seizes_780_mln_euros_from_airbnb_in/)
 <!-- REDDIT:END -->
 
 
