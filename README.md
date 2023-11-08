@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jewish man, 69, dies after clash during dueling protests over Israel-Palestinian conflict in LA area](https://www.reddit.com/r/news/comments/17q5uul/jewish_man_69_dies_after_clash_during_dueling/)
+- [Woman jailed after RentaHitman.com assassin turned out to be – surprise – FBI](https://www.reddit.com/r/news/comments/17q51i5/woman_jailed_after_rentahitmancom_assassin_turned/)
+- [Up to 50,000 Roman coins discovered off coast of Sardinia](https://www.reddit.com/r/news/comments/17q3v5h/up_to_50000_roman_coins_discovered_off_coast_of/)
+- [4 charged in theft of 18-karat gold toilet](https://www.reddit.com/r/news/comments/17q3qqq/4_charged_in_theft_of_18karat_gold_toilet/)
+- [ACLU sues South Dakota over its vanity plate restrictions](https://www.reddit.com/r/news/comments/17q325j/aclu_sues_south_dakota_over_its_vanity_plate/)
 <!-- REDDIT:END -->
 
 
