@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [In a first, a man receives a whole eye transplant after surviving high-voltage electric shock](https://www.reddit.com/r/news/comments/17rh3ff/in_a_first_a_man_receives_a_whole_eye_transplant/)
+- [Two Montreal Jewish schools hit by gunshots overnight Wednesday, no injuries | CityNews Montreal](https://www.reddit.com/r/news/comments/17rgonk/two_montreal_jewish_schools_hit_by_gunshots/)
+- [Israel agrees to daily 4-hour humanitarian pauses in northern Gaza fighting](https://www.reddit.com/r/news/comments/17rgm5h/israel_agrees_to_daily_4hour_humanitarian_pauses/)
+- [Los Angeles coroner&#39;s investigator accused of stealing a crucifix from around the neck of a dead man](https://www.reddit.com/r/news/comments/17rfe3u/los_angeles_coroners_investigator_accused_of/)
+- [Long Beach man who stabbed mother with kitchen knife dies after police shooting](https://www.reddit.com/r/news/comments/17rfan3/long_beach_man_who_stabbed_mother_with_kitchen/)
 <!-- REDDIT:END -->
 
 
