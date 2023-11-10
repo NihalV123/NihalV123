@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [JPMorgan&#39;s $290 Million Settlement with Epstein Accusers Approved by US Judge](https://www.reddit.com/r/news/comments/17rr0jl/jpmorgans_290_million_settlement_with_epstein/)
+- [Netanyahu rejected ceasefire-for-hostages deal in Gaza, sources say](https://www.reddit.com/r/news/comments/17rq4lv/netanyahu_rejected_ceasefireforhostages_deal_in/)
+- [Jury awards $1.2 million to Robert De Niro’s former assistant in gender discrimination lawsuit](https://www.reddit.com/r/news/comments/17rq1u3/jury_awards_12_million_to_robert_de_niros_former/)
+- [Man accuses riverboat co-captain of assault during Alabama riverfront brawl](https://www.reddit.com/r/news/comments/17rpt50/man_accuses_riverboat_cocaptain_of_assault_during/)
+- [Former US astronaut Frank Borman dies at 95](https://www.reddit.com/r/news/comments/17rpp5k/former_us_astronaut_frank_borman_dies_at_95/)
 <!-- REDDIT:END -->
 
 
