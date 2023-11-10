@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Plane takes off with missing window panes as crew fails to spot damage | CNN](https://www.reddit.com/r/news/comments/17rvrmm/plane_takes_off_with_missing_window_panes_as_crew/)
+- [Alabama can&#39;t prosecute people who help women leave the state for abortions, Justice Department says](https://www.reddit.com/r/news/comments/17rsscn/alabama_cant_prosecute_people_who_help_women/)
+- [College student dies after being hit by a stray bullet in a Nashville park](https://www.reddit.com/r/news/comments/17rrrfs/college_student_dies_after_being_hit_by_a_stray/)
+- [2 Florida deputies seriously hurt in ambush attack, sheriff’s office says](https://www.reddit.com/r/news/comments/17rr7ny/2_florida_deputies_seriously_hurt_in_ambush/)
+- [JPMorgan&#39;s $290 Million Settlement with Epstein Accusers Approved by US Judge](https://www.reddit.com/r/news/comments/17rr0jl/jpmorgans_290_million_settlement_with_epstein/)
 <!-- REDDIT:END -->
 
 
