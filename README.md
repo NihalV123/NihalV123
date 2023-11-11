@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Columbia University suspends student groups Students for Justice in Palestine &amp; Jewish Voice for Peace for allegedly violating school policies](https://www.reddit.com/r/news/comments/17sylgr/columbia_university_suspends_student_groups/)
+- [Pope Francis fires Texan bishop after criticism of reforms](https://www.reddit.com/r/news/comments/17sy8z3/pope_francis_fires_texan_bishop_after_criticism/)
+- [Air Canada makes changes after passengers with disabilities share &#39;dehumanizing&#39; experiences](https://www.reddit.com/r/news/comments/17sxyrr/air_canada_makes_changes_after_passengers_with/)
+- [Suspect released in fatal stabbing of Detroit synagogue leader](https://www.reddit.com/r/news/comments/17swmbc/suspect_released_in_fatal_stabbing_of_detroit/)
+- [Atlanta Health News: Vaccination Crisis at Nursing Homes. Doctor Explains](https://www.reddit.com/r/news/comments/17soiup/atlanta_health_news_vaccination_crisis_at_nursing/)
 <!-- REDDIT:END -->
 
 
