@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [300,000 Protestors in London March for Palestine](https://www.reddit.com/r/news/comments/17t725e/300000_protestors_in_london_march_for_palestine/)
+- [Child deliberately killed during gang-related shooting in Edmonton, police say](https://www.reddit.com/r/news/comments/17t2stw/child_deliberately_killed_during_gangrelated/)
+- [10 Freeway shut down after fire in downtown LA](https://www.reddit.com/r/news/comments/17t1iuq/10_freeway_shut_down_after_fire_in_downtown_la/)
+- [Perfectly Legal for Cars to Harvest your Texts, Call Logs](https://www.reddit.com/r/news/comments/17t18er/perfectly_legal_for_cars_to_harvest_your_texts/)
+- [Colombia detains 4 in kidnapping of footballer&#39;s father](https://www.reddit.com/r/news/comments/17t12td/colombia_detains_4_in_kidnapping_of_footballers/)
 <!-- REDDIT:END -->
 
 
