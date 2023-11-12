@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [WATCH: Hamas blocks IDF fuel delivery to Gaza&#39;s Shifa Hospital - Defense News](https://www.reddit.com/r/news/comments/17tppef/watch_hamas_blocks_idf_fuel_delivery_to_gazas/)
+- [Lion wanders streets of Italian town after escaping from circus | Italy](https://www.reddit.com/r/news/comments/17tp8zw/lion_wanders_streets_of_italian_town_after/)
+- [The Militia at the Center of the Darfur Genocide Kills Hundreds in Sudan](https://www.reddit.com/r/news/comments/17to36j/the_militia_at_the_center_of_the_darfur_genocide/)
+- [Iceland: experts predict feared volcanic eruption could destroy town near Reykjavik](https://www.reddit.com/r/news/comments/17tg9fi/iceland_experts_predict_feared_volcanic_eruption/)
+- [Industrial robot crushed worker to death at a vegetable packing plant](https://www.reddit.com/r/news/comments/17temca/industrial_robot_crushed_worker_to_death_at_a/)
 <!-- REDDIT:END -->
 
 
