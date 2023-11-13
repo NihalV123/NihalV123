@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former UK Prime Minister David Cameron made foreign minister in surprise political comeback](https://www.reddit.com/r/news/comments/17u7kwq/former_uk_prime_minister_david_cameron_made/)
+- [Russia ramps up attacks on key cities in eastern Ukraine](https://www.reddit.com/r/news/comments/17u6d9l/russia_ramps_up_attacks_on_key_cities_in_eastern/)
+- [Attacks by Lebanon&#39;s Hezbollah group wound 7 Israeli troops, 10 others along border with Israel](https://www.reddit.com/r/news/comments/17u677y/attacks_by_lebanons_hezbollah_group_wound_7/)
+- [Floods kill at least 31 in Somalia. UN warns of a flood event likely to happen once in 100 years](https://www.reddit.com/r/news/comments/17u65v2/floods_kill_at_least_31_in_somalia_un_warns_of_a/)
+- [After 52 days, Russia renews missile attacks on Ukraine&#39;s capital](https://www.reddit.com/r/news/comments/17u5ldt/after_52_days_russia_renews_missile_attacks_on/)
 <!-- REDDIT:END -->
 
 
