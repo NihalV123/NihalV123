@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Caribbean island of Dominica creates world’s first marine protected area for endangered sperm whale](https://www.reddit.com/r/news/comments/17uzxbh/caribbean_island_of_dominica_creates_worlds_first/)
+- [&quot;The science is irrefutable.&quot;, U.S. warming faster than global average, says report](https://www.reddit.com/r/news/comments/17uzspl/the_science_is_irrefutable_us_warming_faster_than/)
+- [Internal documents show the World Health Organization paid sexual abuse victims in Congo $250 each](https://www.reddit.com/r/news/comments/17uyywy/internal_documents_show_the_world_health/)
+- [Neil the 600kg seal stops Tasmanian woman going to work after taking nap in front of her car](https://www.reddit.com/r/news/comments/17uyfik/neil_the_600kg_seal_stops_tasmanian_woman_going/)
+- [Paul Pelosi takes stand in trial of alleged attacker](https://www.reddit.com/r/news/comments/17ux77h/paul_pelosi_takes_stand_in_trial_of_alleged/)
 <!-- REDDIT:END -->
 
 
