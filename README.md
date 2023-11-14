@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Life expectancy gap between men and women in the US widened significantly during the Covid-19 pandemic](https://www.reddit.com/r/news/comments/17uuaty/life_expectancy_gap_between_men_and_women_in_the/)
+- [DCS whistleblowers claim ‘cover-up’ of ‘dangerous’ conditions in state-run homes](https://www.reddit.com/r/news/comments/17usmi5/dcs_whistleblowers_claim_coverup_of_dangerous/)
+- [Body of missing hiker found in Colorado mountains with his dog alive by his side](https://www.reddit.com/r/news/comments/17us245/body_of_missing_hiker_found_in_colorado_mountains/)
+- [Canadian Israeli peace activist Vivian Silver, feared to be held hostage, confirmed killed in Hamas attacks | CBC News](https://www.reddit.com/r/news/comments/17up540/canadian_israeli_peace_activist_vivian_silver/)
+- [Army Special Operations Command mourns 5 US troops killed in helicopter crash](https://www.reddit.com/r/news/comments/17uox05/army_special_operations_command_mourns_5_us/)
 <!-- REDDIT:END -->
 
 
