@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canadian Israeli peace activist Vivian Silver, feared to be held hostage, confirmed killed in Hamas attacks | CBC News](https://www.reddit.com/r/news/comments/17up540/canadian_israeli_peace_activist_vivian_silver/)
+- [Army Special Operations Command mourns 5 US troops killed in helicopter crash](https://www.reddit.com/r/news/comments/17uox05/army_special_operations_command_mourns_5_us/)
+- [Nearly two dozen toddlers sickened by lead linked to tainted applesauce pouches, CDC says](https://www.reddit.com/r/news/comments/17uot79/nearly_two_dozen_toddlers_sickened_by_lead_linked/)
+- [‘Heart of a champion’: father grieves son beaten to death by mob in Las Vegas](https://www.reddit.com/r/news/comments/17umsbh/heart_of_a_champion_father_grieves_son_beaten_to/)
+- [Colorado hiker wearing only a cotton hoodie is rescued after hours in a severe snowstorm](https://www.reddit.com/r/news/comments/17ulvgc/colorado_hiker_wearing_only_a_cotton_hoodie_is/)
 <!-- REDDIT:END -->
 
 
