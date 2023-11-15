@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Migrant children treated like adults as record influx overwhelms Canary Islands](https://www.reddit.com/r/news/comments/17vnjq2/migrant_children_treated_like_adults_as_record/)
+- [Mother and then-boyfriend charged in 1988 cold case where girl’s body was found at Georgia dump](https://www.reddit.com/r/news/comments/17vmqw4/mother_and_thenboyfriend_charged_in_1988_cold/)
+- [California State Scientists’ Union Calls First-Ever State Employee Strike for Nov. 15-17](https://www.reddit.com/r/news/comments/17vml2b/california_state_scientists_union_calls_firstever/)
+- [NYT: Evidence Points to Israeli Shells in Strikes on Gaza’s Largest Hospital](https://www.reddit.com/r/news/comments/17vmgdq/nyt_evidence_points_to_israeli_shells_in_strikes/)
+- [Second fire strikes same Seattle dog boarding business within a year](https://www.reddit.com/r/news/comments/17vlqod/second_fire_strikes_same_seattle_dog_boarding/)
 <!-- REDDIT:END -->
 
 
