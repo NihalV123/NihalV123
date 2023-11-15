@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ACLU-PA sues Twin Valley School District over refusal to recognize student club](https://www.reddit.com/r/news/comments/17vyh8m/aclupa_sues_twin_valley_school_district_over/)
+- [&quot;Loyal dog&quot; lost half her body weight after surviving 10 weeks next to owner who died in Colorado mountains, rescuer says](https://www.reddit.com/r/news/comments/17vxo0k/loyal_dog_lost_half_her_body_weight_after/)
+- [8 high school students in Las Vegas arrested on murder charges in fatal beating of classmate](https://www.reddit.com/r/news/comments/17vwv0l/8_high_school_students_in_las_vegas_arrested_on/)
+- [Energy Department tries to boost US battery industry with another $3.5 billion in funding](https://www.reddit.com/r/news/comments/17vwd4h/energy_department_tries_to_boost_us_battery/)
+- [&quot;Relentless earthquakes&quot; in Iceland, 700 yesterday, another 800 overnight, as preparations and evacuations are underway as volcanic eruption is expected](https://www.reddit.com/r/news/comments/17vw9e3/relentless_earthquakes_in_iceland_700_yesterday/)
 <!-- REDDIT:END -->
 
 
