@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [YouTube creators will soon have to disclose use of gen AI in videos or risk suspension](https://www.reddit.com/r/news/comments/17vgj83/youtube_creators_will_soon_have_to_disclose_use/)
+- [Central Bucks School District superintendent abruptly resigns “Staggering,” one board member calls Abram Lucabaugh’s $630,000 severance package](https://www.reddit.com/r/news/comments/17vfwjb/central_bucks_school_district_superintendent/)
+- [Video shows officer hitting woman several times; CMPD says she resisted arrest](https://www.reddit.com/r/news/comments/17vf0s4/video_shows_officer_hitting_woman_several_times/)
+- [Throngs gather for March for Israel rally at D.C.’s National Mall to condemn antisemitism](https://www.reddit.com/r/news/comments/17vdq1c/throngs_gather_for_march_for_israel_rally_at_dcs/)
+- [U.S. Reenters the Nuclear Fuel Game. Centrus Energy delivers first batch of uranium that’s critical for advanced reactors.](https://www.reddit.com/r/news/comments/17vdju2/us_reenters_the_nuclear_fuel_game_centrus_energy/)
 <!-- REDDIT:END -->
 
 
