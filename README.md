@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Palestinians digging mass graves inside al-Shifa hospital, health official says](https://www.reddit.com/r/news/comments/17vk0fg/palestinians_digging_mass_graves_inside_alshifa/)
+- [Israeli military forces raid Gaza&#39;s largest hospital in operation against Hamas](https://www.reddit.com/r/news/comments/17vjqwk/israeli_military_forces_raid_gazas_largest/)
+- [South Carolina education board deciding whether to limit books and other materials](https://www.reddit.com/r/news/comments/17vjqtj/south_carolina_education_board_deciding_whether/)
+- [Israel offers incubators for Gaza babies after Biden says hospitals &quot;must be protected&quot;](https://www.reddit.com/r/news/comments/17vjqcs/israel_offers_incubators_for_gaza_babies_after/)
+- [Rare 1918 ‘Inverted Jenny’ US stamp sells for record-setting $2m](https://www.reddit.com/r/news/comments/17vjooz/rare_1918_inverted_jenny_us_stamp_sells_for/)
 <!-- REDDIT:END -->
 
 
