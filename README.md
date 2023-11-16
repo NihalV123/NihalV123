@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One of the UK&#39;s most senior generals was warned in writing in 2011 that SAS soldiers were claiming to have executed handcuffed detainees in Afghanistan.](https://www.reddit.com/r/news/comments/17wiyxg/one_of_the_uks_most_senior_generals_was_warned_in/)
+- [&quot;The Guardian&quot; removes Bin-Laden&#39;s &quot;Letter to America&quot; from website, after it goes viral on TikTok](https://www.reddit.com/r/news/comments/17wiwg6/the_guardian_removes_binladens_letter_to_america/)
+- [Montgomery teacher denies Hamas raid, accuses Israel of organ theft](https://www.reddit.com/r/news/comments/17wihjj/montgomery_teacher_denies_hamas_raid_accuses/)
+- [Anheuser-Busch US CMO is stepping down after Bud Light sales sink](https://www.reddit.com/r/news/comments/17wfszr/anheuserbusch_us_cmo_is_stepping_down_after_bud/)
+- [Fire at Freemason Lodge in Mill Bay considered suspicious: RCMP](https://www.reddit.com/r/news/comments/17wfo7t/fire_at_freemason_lodge_in_mill_bay_considered/)
 <!-- REDDIT:END -->
 
 
