@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama inmate days from release dies after prison attack left him brain-dead](https://www.reddit.com/r/news/comments/17w60cg/alabama_inmate_days_from_release_dies_after/)
+- [Virginia mom whose son shot teacher sentenced on federal gun charges](https://www.reddit.com/r/news/comments/17w5v97/virginia_mom_whose_son_shot_teacher_sentenced_on/)
+- [Hospital director in Haiti says a gang stormed in and took hundreds of women and children hostage](https://www.reddit.com/r/news/comments/17w3yyq/hospital_director_in_haiti_says_a_gang_stormed_in/)
+- [100 officers deployed after Trudeau surrounded at Vancouver restaurant](https://www.reddit.com/r/news/comments/17w2jr7/100_officers_deployed_after_trudeau_surrounded_at/)
+- [Israeli military says it uncovers Hamas command centre, weapons at Gaza hospital](https://www.reddit.com/r/news/comments/17w2cmg/israeli_military_says_it_uncovers_hamas_command/)
 <!-- REDDIT:END -->
 
 
