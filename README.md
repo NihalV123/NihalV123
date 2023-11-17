@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [IBM to pause ad spending on X after its ads ran on pro-Nazi accounts | CNN Business](https://www.reddit.com/r/news/comments/17x20i8/ibm_to_pause_ad_spending_on_x_after_its_ads_ran/)
-- [Judge declares mistrial after jury deadlocks in trial of ex-officer in deadly Breonna Taylor raid](https://www.reddit.com/r/news/comments/17wz7ei/judge_declares_mistrial_after_jury_deadlocks_in/)
-- [Florida sued over ban on pro-Palestinian student groups](https://www.reddit.com/r/news/comments/17wz4kw/florida_sued_over_ban_on_propalestinian_student/)
-- [Iowa teen convicted in beating death of Spanish teacher gets life in prison: &quot;I wish I could go back and stop myself&quot;](https://www.reddit.com/r/news/comments/17wyrwp/iowa_teen_convicted_in_beating_death_of_spanish/)
-- [Judge temporarily lifts gag order in Trump’s civil fraud trial](https://www.reddit.com/r/news/comments/17wy5y5/judge_temporarily_lifts_gag_order_in_trumps_civil/)
+- [Dex Carvey, son of comedian Dana Carvey, dies at 32](https://www.reddit.com/r/news/comments/17x7oam/dex_carvey_son_of_comedian_dana_carvey_dies_at_32/)
+- [PepsiCo sued by New York state for plastic pollution](https://www.reddit.com/r/news/comments/17x4mvl/pepsico_sued_by_new_york_state_for_plastic/)
+- [US Supreme Court keeps pause on Florida&#39;s ban on drag shows in front of kids](https://www.reddit.com/r/news/comments/17x2zx5/us_supreme_court_keeps_pause_on_floridas_ban_on/)
+- [Barefoot workers and cracked floors were found at a factory that made recalled eyedrops, FDA says](https://www.reddit.com/r/news/comments/17x2u5y/barefoot_workers_and_cracked_floors_were_found_at/)
+- [Saucon Valley School District to pay Satanic Temple $200K in legal fees over After School Satan Club legal issue](https://www.reddit.com/r/news/comments/17x2ri5/saucon_valley_school_district_to_pay_satanic/)
 <!-- REDDIT:END -->
 
 
