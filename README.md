@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dex Carvey, son of comedian Dana Carvey, dies at 32](https://www.reddit.com/r/news/comments/17x7oam/dex_carvey_son_of_comedian_dana_carvey_dies_at_32/)
+- [PepsiCo sued by New York state for plastic pollution](https://www.reddit.com/r/news/comments/17x4mvl/pepsico_sued_by_new_york_state_for_plastic/)
+- [US Supreme Court keeps pause on Florida&#39;s ban on drag shows in front of kids](https://www.reddit.com/r/news/comments/17x2zx5/us_supreme_court_keeps_pause_on_floridas_ban_on/)
+- [Barefoot workers and cracked floors were found at a factory that made recalled eyedrops, FDA says](https://www.reddit.com/r/news/comments/17x2u5y/barefoot_workers_and_cracked_floors_were_found_at/)
+- [Saucon Valley School District to pay Satanic Temple $200K in legal fees over After School Satan Club legal issue](https://www.reddit.com/r/news/comments/17x2ri5/saucon_valley_school_district_to_pay_satanic/)
 <!-- REDDIT:END -->
 
 
