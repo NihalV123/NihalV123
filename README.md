@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [IBM to pause ad spending on X after its ads ran on pro-Nazi accounts | CNN Business](https://www.reddit.com/r/news/comments/17x20i8/ibm_to_pause_ad_spending_on_x_after_its_ads_ran/)
+- [Judge declares mistrial after jury deadlocks in trial of ex-officer in deadly Breonna Taylor raid](https://www.reddit.com/r/news/comments/17wz7ei/judge_declares_mistrial_after_jury_deadlocks_in/)
+- [Florida sued over ban on pro-Palestinian student groups](https://www.reddit.com/r/news/comments/17wz4kw/florida_sued_over_ban_on_propalestinian_student/)
+- [Iowa teen convicted in beating death of Spanish teacher gets life in prison: &quot;I wish I could go back and stop myself&quot;](https://www.reddit.com/r/news/comments/17wyrwp/iowa_teen_convicted_in_beating_death_of_spanish/)
+- [Judge temporarily lifts gag order in Trump’s civil fraud trial](https://www.reddit.com/r/news/comments/17wy5y5/judge_temporarily_lifts_gag_order_in_trumps_civil/)
 <!-- REDDIT:END -->
 
 
