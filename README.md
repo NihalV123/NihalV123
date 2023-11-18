@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli Victim of Rave Massacre Buried Outside Cemetery Due to Incomplete Conversion to Judaism](https://www.reddit.com/r/news/comments/17xz7kv/israeli_victim_of_rave_massacre_buried_outside/)
+- [Frozen first as Boeing 787 Dreamliner makes landing in Antarctica](https://www.reddit.com/r/news/comments/17xyy1u/frozen_first_as_boeing_787_dreamliner_makes/)
+- [Sean Combs, Cassie settle her bombshell rape, sex trafficking lawsuit day after filing](https://www.reddit.com/r/news/comments/17xxw34/sean_combs_cassie_settle_her_bombshell_rape_sex/)
+- [Amid recruiting woes, Army sent letters to soldiers separated for vaccine refusal](https://www.reddit.com/r/news/comments/17xvfr8/amid_recruiting_woes_army_sent_letters_to/)
+- [The Supreme Court won&#39;t allow Florida to enforce its new law targeting drag shows during appeal](https://www.reddit.com/r/news/comments/17xt1t3/the_supreme_court_wont_allow_florida_to_enforce/)
 <!-- REDDIT:END -->
 
 
