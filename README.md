@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Manhunt ends for suspect in series of shootings that killed teen girl and 3 women across multiple Memphis locations](https://www.reddit.com/r/news/comments/17yvr1s/manhunt_ends_for_suspect_in_series_of_shootings/)
+- [SpaceX rocket launches, separates and loses contact](https://www.reddit.com/r/news/comments/17yv8ys/spacex_rocket_launches_separates_and_loses_contact/)
+- [Person of interest sought in connection with I-10 freeway fire in Los Angeles](https://www.reddit.com/r/news/comments/17yowp9/person_of_interest_sought_in_connection_with_i10/)
+- [Citigroup begins layoffs as part of CEO Jane Fraser’s corporate overhaul](https://www.reddit.com/r/news/comments/17ym1yt/citigroup_begins_layoffs_as_part_of_ceo_jane/)
+- [Dogs are coming down with an unusual respiratory illness in several US states](https://www.reddit.com/r/news/comments/17yl8zi/dogs_are_coming_down_with_an_unusual_respiratory/)
 <!-- REDDIT:END -->
 
 
