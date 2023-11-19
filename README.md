@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [From airlines to ticket sellers, companies fight U.S. to keep junk fees](https://www.reddit.com/r/news/comments/17z2rn7/from_airlines_to_ticket_sellers_companies_fight/)
+- [261 Georgia congregations leave the United Methodist Church over a divide on LGBTQ issues | CNN](https://www.reddit.com/r/news/comments/17z106n/261_georgia_congregations_leave_the_united/)
+- [31 ‘very sick’ babies have been evacuated from Gaza’s largest hospital, where trauma patients remain](https://www.reddit.com/r/news/comments/17z0ww1/31_very_sick_babies_have_been_evacuated_from/)
+- [Shakira due to go on trial in Spain over tax fraud claims | Shakira](https://www.reddit.com/r/news/comments/17ywkv1/shakira_due_to_go_on_trial_in_spain_over_tax/)
+- [Manhunt ends for suspect in series of shootings that killed teen girl and 3 women across multiple Memphis locations](https://www.reddit.com/r/news/comments/17yvr1s/manhunt_ends_for_suspect_in_series_of_shootings/)
 <!-- REDDIT:END -->
 
 
