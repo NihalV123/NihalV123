@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli airstrikes kill 80 in Palestinian refugee camp](https://www.reddit.com/r/news/comments/17ykpp2/israeli_airstrikes_kill_80_in_palestinian_refugee/)
+- [ERCOT cancels program to boost power reserves ahead of potentially precarious winter](https://www.reddit.com/r/news/comments/17yk9ey/ercot_cancels_program_to_boost_power_reserves/)
+- [Panic as Gaza’s al-Shifa evacuates, Israel army denies ordering it to do so](https://www.reddit.com/r/news/comments/17yikn1/panic_as_gazas_alshifa_evacuates_israel_army/)
+- [‘Earthquake’ at ChatGPT developer as senior staff quit after sacking of boss Sam Altman](https://www.reddit.com/r/news/comments/17yfvai/earthquake_at_chatgpt_developer_as_senior_staff/)
+- [Suspect identified in deadly New Hampshire hospital shooting](https://www.reddit.com/r/news/comments/17y9q86/suspect_identified_in_deadly_new_hampshire/)
 <!-- REDDIT:END -->
 
 
