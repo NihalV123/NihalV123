@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Carlton Pearson, influential Oklahoma megachurch founder who rejected hell, dies at age 70](https://www.reddit.com/r/news/comments/17ztkc4/carlton_pearson_influential_oklahoma_megachurch/)
+- [Texas mother allegedly stabs husband, drives 3 children into pond](https://www.reddit.com/r/news/comments/17zsk0i/texas_mother_allegedly_stabs_husband_drives_3/)
+- [Supreme Court declines appeal from Derek Chauvin in murder of George Floyd](https://www.reddit.com/r/news/comments/17zrs3e/supreme_court_declines_appeal_from_derek_chauvin/)
+- [U.S. to offer another round of free at-home Covid tests starting Monday](https://www.reddit.com/r/news/comments/17zqnp8/us_to_offer_another_round_of_free_athome_covid/)
+- [Australian telco Optus&#39; CEO quits after network outage](https://www.reddit.com/r/news/comments/17zq4xd/australian_telco_optus_ceo_quits_after_network/)
 <!-- REDDIT:END -->
 
 
