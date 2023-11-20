@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [OpenAI names Emmett Shear interim CEO - The Washington Post](https://www.reddit.com/r/news/comments/17zhhda/openai_names_emmett_shear_interim_ceo_the/)
+- [Three more journalists killed in Gaza in Israeli offensive, relatives say](https://www.reddit.com/r/news/comments/17zge8t/three_more_journalists_killed_in_gaza_in_israeli/)
+- [Kansas school forced 8-year-old Native American boy to cut his hair, ACLU says](https://www.reddit.com/r/news/comments/17zg3ek/kansas_school_forced_8yearold_native_american_boy/)
+- [Fiery right-wing populist Javier Milei wins Argentina&#39;s presidency and promises &#39;drastic&#39; changes](https://www.reddit.com/r/news/comments/17zepsh/fiery_rightwing_populist_javier_milei_wins/)
+- [Male nanny sentenced to over 700 years in prison for sexually assaulting 16 boys in California](https://www.reddit.com/r/news/comments/17zdnzu/male_nanny_sentenced_to_over_700_years_in_prison/)
 <!-- REDDIT:END -->
 
 
