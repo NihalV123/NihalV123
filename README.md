@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Argentina’s Economy Minister Sergio Massa concedes defeat in presidential runoff before official results released](https://www.reddit.com/r/news/comments/17zafha/argentinas_economy_minister_sergio_massa_concedes/)
+- [Right-winger Milei wins Argentina presidential poll](https://www.reddit.com/r/news/comments/17zafbs/rightwinger_milei_wins_argentina_presidential_poll/)
+- [New law requires some New York City chain restaurants to warn customers about added sugars](https://www.reddit.com/r/news/comments/17z8h36/new_law_requires_some_new_york_city_chain/)
+- [Rosalynn Carter, former first lady and tireless humanitarian who advocated for mental health issues, dies at 96](https://www.reddit.com/r/news/comments/17z5tuf/rosalynn_carter_former_first_lady_and_tireless/)
+- [Ocean explorer Don Walsh has died at the age of 92. He made the first ever descent to the deepest place in the ocean, the Mariana Trench](https://www.reddit.com/r/news/comments/17z4mr7/ocean_explorer_don_walsh_has_died_at_the_age_of/)
 <!-- REDDIT:END -->
 
 
