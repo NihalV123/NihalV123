@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sam Altman joins Microsoft as OpenAI taps Shear as interim CEO](https://www.reddit.com/r/news/comments/17zmalz/sam_altman_joins_microsoft_as_openai_taps_shear/)
+- [Sherman ISD removes superintendent from fine arts supervision following anti-trans policy](https://www.reddit.com/r/news/comments/17zlpal/sherman_isd_removes_superintendent_from_fine_arts/)
+- [Pop star Shakira reaches a deal with Spanish prosecutors on 1st day of tax fraud trial](https://www.reddit.com/r/news/comments/17zl625/pop_star_shakira_reaches_a_deal_with_spanish/)
+- [Dollar slides to over two-month low as Fed cut bets take charge](https://www.reddit.com/r/news/comments/17zl4yd/dollar_slides_to_over_twomonth_low_as_fed_cut/)
+- [OpenAI names Emmett Shear interim CEO - The Washington Post](https://www.reddit.com/r/news/comments/17zhhda/openai_names_emmett_shear_interim_ceo_the/)
 <!-- REDDIT:END -->
 
 
