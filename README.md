@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli tanks surround north Gaza&#39;s Indonesian Hospital](https://www.reddit.com/r/news/comments/1801yis/israeli_tanks_surround_north_gazas_indonesian/)
+- [Crypto firm Tether says it has frozen $225 mln linked to human trafficking](https://www.reddit.com/r/news/comments/17zykzq/crypto_firm_tether_says_it_has_frozen_225_mln/)
+- [Investors pump over $600 mln into defense funds as geopolitical tensions rise](https://www.reddit.com/r/news/comments/17zyj5w/investors_pump_over_600_mln_into_defense_funds_as/)
+- [EU, Germany and Denmark sued by oil firm over windfall tax | European Union | The Guardian](https://www.reddit.com/r/news/comments/17zujgp/eu_germany_and_denmark_sued_by_oil_firm_over/)
+- [Carlton Pearson, influential Oklahoma megachurch founder who rejected hell, dies at age 70](https://www.reddit.com/r/news/comments/17ztkc4/carlton_pearson_influential_oklahoma_megachurch/)
 <!-- REDDIT:END -->
 
 
