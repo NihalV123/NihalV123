@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Recognizing fake news now a required subject in California schools](https://www.reddit.com/r/news/comments/18091ih/recognizing_fake_news_now_a_required_subject_in/)
+- [505 OpenAI employees threaten to quit and call on the board to resign over Sam Altman’s firing](https://www.reddit.com/r/news/comments/18082uc/505_openai_employees_threaten_to_quit_and_call_on/)
+- [Court rules that only US government can sue to enforce Voting Rights Act](https://www.reddit.com/r/news/comments/1805q12/court_rules_that_only_us_government_can_sue_to/)
+- [US Navy plane overshoots runway and goes into a bay in Hawaii, military says](https://www.reddit.com/r/news/comments/1804z90/us_navy_plane_overshoots_runway_and_goes_into_a/)
+- [Elon Musk’s X sues media watchdog Media Matters over report on pro-Nazi content on the social media site | CNN Business](https://www.reddit.com/r/news/comments/1804njp/elon_musks_x_sues_media_watchdog_media_matters/)
 <!-- REDDIT:END -->
 
 
