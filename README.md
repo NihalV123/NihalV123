@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The US and the Philippines conduct joint air, sea patrols in South China Sea not far from Taiwan](https://www.reddit.com/r/news/comments/181489i/the_us_and_the_philippines_conduct_joint_air_sea/)
+- [US govt pays AT&amp;T to let cops search Americans&#39; phone records – &#39;usually&#39; without a warrant](https://www.reddit.com/r/news/comments/1812w67/us_govt_pays_att_to_let_cops_search_americans/)
+- [Sam Altman to return as OpenAI CEO](https://www.reddit.com/r/news/comments/1812okv/sam_altman_to_return_as_openai_ceo/)
+- [Pilot killed after plane crashes in Plano shopping center parking lot](https://www.reddit.com/r/news/comments/180zrh9/pilot_killed_after_plane_crashes_in_plano/)
+- [North Philadelphia shooting leaves 2 men dead, 5 hospitalized: police](https://www.reddit.com/r/news/comments/180znzo/north_philadelphia_shooting_leaves_2_men_dead_5/)
 <!-- REDDIT:END -->
 
 
