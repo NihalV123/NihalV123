@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Abortion rights activists raise money for three Florida clinics fined by the state](https://www.reddit.com/r/news/comments/181suf5/abortion_rights_activists_raise_money_for_three/)
+- [St. Louis Zoo welcomes three endangered tiger cubs](https://www.reddit.com/r/news/comments/181rnm3/st_louis_zoo_welcomes_three_endangered_tiger_cubs/)
+- [Kentucky Gov. Andy Beshear declares state of emergency over train derailment, chemical spill](https://www.reddit.com/r/news/comments/181riut/kentucky_gov_andy_beshear_declares_state_of/)
+- [Jimmy Iovine, Interscope Records Founder, Faces Sexual Abuse Lawsuit](https://www.reddit.com/r/news/comments/181pj9z/jimmy_iovine_interscope_records_founder_faces/)
+- [Sam Altman&#39;s ouster at OpenAI was precipitated by letter to board about AI breakthrough -sources](https://www.reddit.com/r/news/comments/181o4a1/sam_altmans_ouster_at_openai_was_precipitated_by/)
 <!-- REDDIT:END -->
 
 
