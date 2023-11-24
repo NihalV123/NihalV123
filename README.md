@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California jogger ‘filmed himself killing homeless man’ who blocked sidewalk](https://www.reddit.com/r/news/comments/182wh4z/california_jogger_filmed_himself_killing_homeless/)
+- [Red Cross says 24 hostages released by Hamas in Gaza](https://www.reddit.com/r/news/comments/182vo10/red_cross_says_24_hostages_released_by_hamas_in/)
+- [The three-year cruise is canceled | CNN](https://www.reddit.com/r/news/comments/182vnod/the_threeyear_cruise_is_canceled_cnn/)
+- [FBI: Ohio Walmart shooter who injured 4 may have been motivated by racial extremism](https://www.reddit.com/r/news/comments/182vk25/fbi_ohio_walmart_shooter_who_injured_4_may_have/)
+- [Actor Jamie Foxx accused of sexual abuse in New York lawsuit](https://www.reddit.com/r/news/comments/182valc/actor_jamie_foxx_accused_of_sexual_abuse_in_new/)
 <!-- REDDIT:END -->
 
 
