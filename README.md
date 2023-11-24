@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South African Olympic runner Oscar Pistorius up for parole 10 years after killing his girlfriend](https://www.reddit.com/r/news/comments/182o1f0/south_african_olympic_runner_oscar_pistorius_up/)
+- [Mysterious cosmic ray observed in Utah came from beyond our galaxy, scientists say](https://www.reddit.com/r/news/comments/182o0j2/mysterious_cosmic_ray_observed_in_utah_came_from/)
+- [Spanish PM proposes talks on the establishment of a Palestinian state](https://www.reddit.com/r/news/comments/182n9vv/spanish_pm_proposes_talks_on_the_establishment_of/)
+- [US seeks &#39;swift&#39; extradition of &#39;El Nini,&#39; Sinaloa Cartel&#39;s alleged security boss](https://www.reddit.com/r/news/comments/182mug6/us_seeks_swift_extradition_of_el_nini_sinaloa/)
+- [4-day truce begins in Israel-Hamas war, sets stage for release of dozens of Gaza-held hostages](https://www.reddit.com/r/news/comments/182keke/4day_truce_begins_in_israelhamas_war_sets_stage/)
 <!-- REDDIT:END -->
 
 
