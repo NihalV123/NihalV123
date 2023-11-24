@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan ordered to compensate wartime &#39;comfort women&#39;](https://www.reddit.com/r/news/comments/182e56g/japan_ordered_to_compensate_wartime_comfort_women/)
+- [Kidnapping victim found after single-vehicle crash in Ontario: police](https://www.reddit.com/r/news/comments/182cwfb/kidnapping_victim_found_after_singlevehicle_crash/)
+- [Small Kentucky town urged to evacuate after train derails, spilling chemicals](https://www.reddit.com/r/news/comments/182cl5e/small_kentucky_town_urged_to_evacuate_after_train/)
+- [Harvard journal accused of censoring article alleging genocide in Gaza](https://www.reddit.com/r/news/comments/182acvb/harvard_journal_accused_of_censoring_article/)
+- [4 teen boys found dead in car after going missing during camping trip in Wales](https://www.reddit.com/r/news/comments/18292x2/4_teen_boys_found_dead_in_car_after_going_missing/)
 <!-- REDDIT:END -->
 
 
