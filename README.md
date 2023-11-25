@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel-Hamas truce offers respite from violence — but Gaza&#39;s displaced just want to go home](https://www.reddit.com/r/news/comments/183b7jm/israelhamas_truce_offers_respite_from_violence/)
+- [Andrew Cuomo accused of sexual harassment in new lawsuit filed by former executive assistant Brittany Commisso](https://www.reddit.com/r/news/comments/183a6v2/andrew_cuomo_accused_of_sexual_harassment_in_new/)
+- [Ex-officer Derek Chauvin, convicted in George Floyd&#39;s killing, stabbed in prison, AP source says](https://www.reddit.com/r/news/comments/1838ow6/exofficer_derek_chauvin_convicted_in_george/)
+- [World&#39;s largest iceberg breaks free, heads toward Southern Ocean](https://www.reddit.com/r/news/comments/18342x4/worlds_largest_iceberg_breaks_free_heads_toward/)
+- [Sean ‘Diddy’ Combs sued by third accuser over alleged rape: A third woman has filed a lawsuit against Combs alleging he and a fellow musician raped her and a friend](https://www.reddit.com/r/news/comments/1831rrg/sean_diddy_combs_sued_by_third_accuser_over/)
 <!-- REDDIT:END -->
 
 
