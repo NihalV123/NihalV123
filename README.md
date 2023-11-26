@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Black Friday shoppers spent a record $9.8 billion in U.S. online sales, up 7.5% from last year](https://www.reddit.com/r/news/comments/18425z7/black_friday_shoppers_spent_a_record_98_billion/)
+- [Marty Krofft, creator of iconic children&#39;s TV shows including &#39;H.R. Pufnstuf,&#39; dies](https://www.reddit.com/r/news/comments/183zs15/marty_krofft_creator_of_iconic_childrens_tv_shows/)
+- [A doctor tried to renew his passport. Now he’s no longer a citizen.](https://www.reddit.com/r/news/comments/183vkjs/a_doctor_tried_to_renew_his_passport_now_hes_no/)
+- [Man arrested in fatal stabbing near Denver homeless shelters, encampment](https://www.reddit.com/r/news/comments/183q7te/man_arrested_in_fatal_stabbing_near_denver/)
+- [U.N.-appointed human rights experts express concerns about Chemours’ ‘blatant disregard for human rights and environmental protections’](https://www.reddit.com/r/news/comments/183mxpm/unappointed_human_rights_experts_express_concerns/)
 <!-- REDDIT:END -->
 
 
