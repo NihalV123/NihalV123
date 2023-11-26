@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A doctor tried to renew his passport. Now he’s no longer a citizen.](https://www.reddit.com/r/news/comments/183vkjs/a_doctor_tried_to_renew_his_passport_now_hes_no/)
+- [Man arrested in fatal stabbing near Denver homeless shelters, encampment](https://www.reddit.com/r/news/comments/183q7te/man_arrested_in_fatal_stabbing_near_denver/)
+- [Hamas delays hostage release, demands aid to northern Gaza](https://www.reddit.com/r/news/comments/183pznm/hamas_delays_hostage_release_demands_aid_to/)
+- [U.N.-appointed human rights experts express concerns about Chemours’ ‘blatant disregard for human rights and environmental protections’](https://www.reddit.com/r/news/comments/183mxpm/unappointed_human_rights_experts_express_concerns/)
+- [Tackling climate change and alleviating hunger: States recycle and donate food headed to landfills](https://www.reddit.com/r/news/comments/183hn6d/tackling_climate_change_and_alleviating_hunger/)
 <!-- REDDIT:END -->
 
 
