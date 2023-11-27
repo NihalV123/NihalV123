@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Human Rights Watch says rocket misfire likely cause of deadly Gaza hospital blast](https://www.reddit.com/r/news/comments/184r92r/human_rights_watch_says_rocket_misfire_likely/)
+- [New Zealand scraps world-first smoking ‘generation ban’ to fund tax cuts](https://www.reddit.com/r/news/comments/184qw8x/new_zealand_scraps_worldfirst_smoking_generation/)
+- [The body of an abducted anti-mining activist is found in western Mexico](https://www.reddit.com/r/news/comments/184qovz/the_body_of_an_abducted_antimining_activist_is/)
+- [Injured teen freed in latest Palestinian prisoner release](https://www.reddit.com/r/news/comments/184puab/injured_teen_freed_in_latest_palestinian_prisoner/)
+- [Biden says 4-year-old Abigail Edan was released by Hamas. He hopes more U.S. hostages will be freed.](https://www.reddit.com/r/news/comments/184hglx/biden_says_4yearold_abigail_edan_was_released_by/)
 <!-- REDDIT:END -->
 
 
