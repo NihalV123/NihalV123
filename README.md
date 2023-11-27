@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Injured teen freed in latest Palestinian prisoner release](https://www.reddit.com/r/news/comments/184puab/injured_teen_freed_in_latest_palestinian_prisoner/)
+- [Three Palestinian students shot and wounded in Vermont, police say](https://www.reddit.com/r/news/comments/184ob9h/three_palestinian_students_shot_and_wounded_in/)
+- [Biden says 4-year-old Abigail Edan was released by Hamas. He hopes more U.S. hostages will be freed.](https://www.reddit.com/r/news/comments/184hglx/biden_says_4yearold_abigail_edan_was_released_by/)
+- [Municipal Water Authority of Aliquippa hacked by Iranian-backed cyber group](https://www.reddit.com/r/news/comments/184g6md/municipal_water_authority_of_aliquippa_hacked_by/)
+- [Worlds largest iceberg breaks free](https://www.reddit.com/r/news/comments/184cjjj/worlds_largest_iceberg_breaks_free/)
 <!-- REDDIT:END -->
 
 
