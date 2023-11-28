@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [JoCo doctor charged with trying to make child sex abuse material](https://www.reddit.com/r/news/comments/185icb7/joco_doctor_charged_with_trying_to_make_child_sex/)
+- [3M, DuPont Defeat Massive Class Action over Forever Chemicals](https://www.reddit.com/r/news/comments/185i2gt/3m_dupont_defeat_massive_class_action_over/)
+- [Should cars have built-in speed limits? Some think it’s time](https://www.reddit.com/r/news/comments/185htxg/should_cars_have_builtin_speed_limits_some_think/)
+- [Emergency rooms in at least 3 states diverting patients after ransomware attack](https://www.reddit.com/r/news/comments/185hnts/emergency_rooms_in_at_least_3_states_diverting/)
+- [Wolf spider lays eggs in man&#39;s toe during cruise - BBC News](https://www.reddit.com/r/news/comments/185d5fr/wolf_spider_lays_eggs_in_mans_toe_during_cruise/)
 <!-- REDDIT:END -->
 
 
