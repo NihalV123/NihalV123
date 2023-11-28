@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vermont man charged with attempted murder in shooting of students of Palestinian descent](https://www.reddit.com/r/news/comments/185unye/vermont_man_charged_with_attempted_murder_in/)
+- [Revealed: Saudi Arabia’s grand plan to ‘hook’ poor countries on oil](https://www.reddit.com/r/news/comments/185t36p/revealed_saudi_arabias_grand_plan_to_hook_poor/)
+- [Miami woman stabs boyfriend in eye with rabies needle for ‘looking at other women,’ police say](https://www.reddit.com/r/news/comments/185suom/miami_woman_stabs_boyfriend_in_eye_with_rabies/)
+- [UK detects its first human case of swine flu strain](https://www.reddit.com/r/news/comments/185sabh/uk_detects_its_first_human_case_of_swine_flu/)
+- [South Carolina woman falls through floor into a well shaft](https://www.reddit.com/r/news/comments/185mtum/south_carolina_woman_falls_through_floor_into_a/)
 <!-- REDDIT:END -->
 
 
