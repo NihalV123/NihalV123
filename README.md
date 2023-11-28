@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A second Michigan Senate candidate says he was offered $20M to run against Rashida Tlaib](https://www.reddit.com/r/news/comments/1861cd4/a_second_michigan_senate_candidate_says_he_was/)
+- [Erdogan tells UN chief Israel must be tried in international courts for Gaza crimes](https://www.reddit.com/r/news/comments/18611zk/erdogan_tells_un_chief_israel_must_be_tried_in/)
+- [Undercover filming highlights Saudi plan to artificially raise oil demand](https://www.reddit.com/r/news/comments/185xxkp/undercover_filming_highlights_saudi_plan_to/)
+- [Young Thug&#39;s lyrics used against him as gang trial starts](https://www.reddit.com/r/news/comments/185xnrf/young_thugs_lyrics_used_against_him_as_gang_trial/)
+- [Family devastated after missing Avon man&#39;s remains found in their well](https://www.reddit.com/r/news/comments/185xjbt/family_devastated_after_missing_avon_mans_remains/)
 <!-- REDDIT:END -->
 
 
