@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least one dead as US Osprey aircraft crashes off coast of Japan | CNN](https://www.reddit.com/r/news/comments/186nqak/at_least_one_dead_as_us_osprey_aircraft_crashes/)
+- [Mark Cuban is selling majority stake in the Dallas Mavericks to the Adelson family](https://www.reddit.com/r/news/comments/186i0j3/mark_cuban_is_selling_majority_stake_in_the/)
+- [Volcano in Japan spews ash, rock 200m into sky](https://www.reddit.com/r/news/comments/186h1vv/volcano_in_japan_spews_ash_rock_200m_into_sky/)
+- [Gusty winds topple National Christmas Tree near the White House](https://www.reddit.com/r/news/comments/186f5xq/gusty_winds_topple_national_christmas_tree_near/)
+- [India jubilant as all trapped workers rescued from Himalayan tunnel](https://www.reddit.com/r/news/comments/186d6lr/india_jubilant_as_all_trapped_workers_rescued/)
 <!-- REDDIT:END -->
 
 
