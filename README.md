@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Thai hostages: ‘Jewish hostages beaten with electric cables&#39; - Israel News](https://www.reddit.com/r/news/comments/187xn8b/thai_hostages_jewish_hostages_beaten_with/)
+- [OPEC+ members agree to significant voluntary oil production cuts](https://www.reddit.com/r/news/comments/187vcz4/opec_members_agree_to_significant_voluntary_oil/)
+- [1.1 million gallons of oil spilled into the Gulf of Mexico. Over a week later, the source remains a mystery.](https://www.reddit.com/r/news/comments/187tuco/11_million_gallons_of_oil_spilled_into_the_gulf/)
+- [Rand Paul successfully used Heimlich maneuver on choking Joni Ernst in GOP lunch](https://www.reddit.com/r/news/comments/187tmbq/rand_paul_successfully_used_heimlich_maneuver_on/)
+- [Florida GOP chairman faces allegations of sexual battery](https://www.reddit.com/r/news/comments/187t9oo/florida_gop_chairman_faces_allegations_of_sexual/)
 <!-- REDDIT:END -->
 
 
