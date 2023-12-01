@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fighting in Gaza resumes as Israel intercepts rockets from Hamas violating ceasefire](https://www.reddit.com/r/news/comments/1883zli/fighting_in_gaza_resumes_as_israel_intercepts/)
+- [US funding for Ukraine arms has poured into Pennsylvania, Arizona and Texas](https://www.reddit.com/r/news/comments/1883eg1/us_funding_for_ukraine_arms_has_poured_into/)
+- [Not so dead as a dodo: ‘De-extinction’ plan to reintroduce bird to Mauritius](https://www.reddit.com/r/news/comments/1880doe/not_so_dead_as_a_dodo_deextinction_plan_to/)
+- [Admin of $19M marketplace that sold social security numbers gets 8 years in jail](https://www.reddit.com/r/news/comments/1880121/admin_of_19m_marketplace_that_sold_social/)
+- [Israel Knew Hamas’s Attack Plan More Than a Year Ago](https://www.reddit.com/r/news/comments/187zb56/israel_knew_hamass_attack_plan_more_than_a_year/)
 <!-- REDDIT:END -->
 
 
