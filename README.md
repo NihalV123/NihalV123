@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Big banks announce layoffs and more bad loans as TD, Royal and CIBC post quarterly results](https://www.reddit.com/r/news/comments/188hats/big_banks_announce_layoffs_and_more_bad_loans_as/)
+- [Feral goldfish are menacing Great Lakes: We’re going to need a bigger bowl | Bridge Michigan](https://www.reddit.com/r/news/comments/188h8rt/feral_goldfish_are_menacing_great_lakes_were/)
+- [US compels Saudi fund to exit Altman-backed AI chip startup](https://www.reddit.com/r/news/comments/188gwyl/us_compels_saudi_fund_to_exit_altmanbacked_ai/)
+- [Accounts of released hostages taken by Hamas](https://www.reddit.com/r/news/comments/188ghe5/accounts_of_released_hostages_taken_by_hamas/)
+- [Mexico&#39;s minimum wage will rise by 20% next year, to about $14.25 per day](https://www.reddit.com/r/news/comments/188fkf6/mexicos_minimum_wage_will_rise_by_20_next_year_to/)
 <!-- REDDIT:END -->
 
 
