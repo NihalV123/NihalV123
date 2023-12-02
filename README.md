@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World Court orders Venezuela to refrain from action in border dispute with Guyana](https://www.reddit.com/r/news/comments/188qze9/world_court_orders_venezuela_to_refrain_from/)
+- [3 men experiencing homelessness fatally shot by potential serial killer in Los Angeles: Police](https://www.reddit.com/r/news/comments/188qho4/3_men_experiencing_homelessness_fatally_shot_by/)
+- [U.S. to impose visa bans soon on Israeli extremist settlers for West Bank violence.](https://www.reddit.com/r/news/comments/188q5iv/us_to_impose_visa_bans_soon_on_israeli_extremist/)
+- [Derek Chauvin was stabbed 22 times in federal prison attack, according to new charges](https://www.reddit.com/r/news/comments/188p7s6/derek_chauvin_was_stabbed_22_times_in_federal/)
+- [Still alive! Golden mole not seen for 80 years and presumed extinct is found again in South Africa](https://www.reddit.com/r/news/comments/188mv7j/still_alive_golden_mole_not_seen_for_80_years_and/)
 <!-- REDDIT:END -->
 
 
