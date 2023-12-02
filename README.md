@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colombia joins international alliance calling for treaty to end use of fossil fuels](https://www.reddit.com/r/news/comments/1890hyy/colombia_joins_international_alliance_calling_for/)
+- [Auto industry eyes subscription fees as future multi-billion-dollar revenue stream](https://www.reddit.com/r/news/comments/18906mt/auto_industry_eyes_subscription_fees_as_future/)
+- [&#39;Powering Past Coal&#39;: US commits to unabated coal phase out](https://www.reddit.com/r/news/comments/18904e0/powering_past_coal_us_commits_to_unabated_coal/)
+- [Surrounded by Russians and ready to die, this Ukrainian soldier called in an artillery strike – on his own position](https://www.reddit.com/r/news/comments/188xd8a/surrounded_by_russians_and_ready_to_die_this/)
+- [Teen was &#39;body slammed&#39; at Tennessee group home before her death, attorney says](https://www.reddit.com/r/news/comments/188ty52/teen_was_body_slammed_at_tennessee_group_home/)
 <!-- REDDIT:END -->
 
 
