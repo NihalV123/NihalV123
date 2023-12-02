@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teen was &#39;body slammed&#39; at Tennessee group home before her death, attorney says](https://www.reddit.com/r/news/comments/188ty52/teen_was_body_slammed_at_tennessee_group_home/)
+- [How Red Lobster&#39;s endless shrimp deal cost the company millions: &#39;It didn&#39;t work,&#39; CFO says](https://www.reddit.com/r/news/comments/188t8px/how_red_lobsters_endless_shrimp_deal_cost_the/)
+- [Protestor sets self on fire in front of Israeli Consulate in Atlanta](https://www.reddit.com/r/news/comments/188szkv/protestor_sets_self_on_fire_in_front_of_israeli/)
+- [World Court orders Venezuela to refrain from action in border dispute with Guyana](https://www.reddit.com/r/news/comments/188qze9/world_court_orders_venezuela_to_refrain_from/)
+- [3 men experiencing homelessness fatally shot by potential serial killer in Los Angeles: Police](https://www.reddit.com/r/news/comments/188qho4/3_men_experiencing_homelessness_fatally_shot_by/)
 <!-- REDDIT:END -->
 
 
