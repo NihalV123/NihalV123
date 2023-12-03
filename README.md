@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect arrested in fatal shootings of three unhoused men in LA, police say | Los Angeles](https://www.reddit.com/r/news/comments/189gtd3/suspect_arrested_in_fatal_shootings_of_three/)
+- [US announces rule to slash powerful planet-warming gas by nearly 80% from fossil fuels](https://www.reddit.com/r/news/comments/189ei1e/us_announces_rule_to_slash_powerful_planetwarming/)
+- [1 dead, 4 injured in Las Vegas shooting of homeless: Police](https://www.reddit.com/r/news/comments/189d17l/1_dead_4_injured_in_las_vegas_shooting_of/)
+- [Israeli grid maps make life in Gaza ‘macabre game of Battleships’, say aid workers](https://www.reddit.com/r/news/comments/189cxxr/israeli_grid_maps_make_life_in_gaza_macabre_game/)
+- [New medication awaits FDA approval for improving larger dogs lifespans.](https://www.reddit.com/r/news/comments/189bp0f/new_medication_awaits_fda_approval_for_improving/)
 <!-- REDDIT:END -->
 
 
