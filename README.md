@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US nearly out of money to help Ukraine fight Russia, White House warns Congress](https://www.reddit.com/r/news/comments/18aplqm/us_nearly_out_of_money_to_help_ukraine_fight/)
+- [Ransomware attack causes outages at 60 credit unions, federal agency says | CNN Politics](https://www.reddit.com/r/news/comments/18anv58/ransomware_attack_causes_outages_at_60_credit/)
+- [ISIS claims deadly blast at Catholic mass in southern Philippines | CNN](https://www.reddit.com/r/news/comments/18anr7k/isis_claims_deadly_blast_at_catholic_mass_in/)
+- [Pilots flying tourists over national parks face new rules. None are stricter than at Mount Rushmore](https://www.reddit.com/r/news/comments/18aneaa/pilots_flying_tourists_over_national_parks_face/)
+- [FTC chief gears up for a showdown with private equity](https://www.reddit.com/r/news/comments/18and07/ftc_chief_gears_up_for_a_showdown_with_private/)
 <!-- REDDIT:END -->
 
 
