@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Senate bill aims to stop Uncle Sam using facial recognition at airports / Legislation would eliminate TSA permission to use the tech, require database purge in 90 days](https://www.reddit.com/r/news/comments/18adtz2/senate_bill_aims_to_stop_uncle_sam_using_facial/)
+- [Former US ambassador arrested in Florida, accused of serving as an agent of Cuba, AP source says](https://www.reddit.com/r/news/comments/18ac4fz/former_us_ambassador_arrested_in_florida_accused/)
+- [Alabama residents to begin receiving $150 tax rebates](https://www.reddit.com/r/news/comments/18abu69/alabama_residents_to_begin_receiving_150_tax/)
+- [Casino workers with MGM Grand Detroit ratify deal, ending 47-day strike](https://www.reddit.com/r/news/comments/18a9vx0/casino_workers_with_mgm_grand_detroit_ratify_deal/)
+- [Israel says it&#39;s now fighting Hamas in all of Gaza as Palestinians lament &#39;no place is safe&#39;](https://www.reddit.com/r/news/comments/18a87r5/israel_says_its_now_fighting_hamas_in_all_of_gaza/)
 <!-- REDDIT:END -->
 
 
