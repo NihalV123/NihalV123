@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man plotted &#39;mass casualty&#39; attack at Cybertruck event attended by Elon Musk in Texas, officials say](https://www.reddit.com/r/news/comments/18a7rvv/man_plotted_mass_casualty_attack_at_cybertruck/)
+- [Climate summit leader said there’s ‘no science’ behind need to phase out fossil fuels, alarming scientists](https://www.reddit.com/r/news/comments/18a7pi0/climate_summit_leader_said_theres_no_science/)
+- [Myles Goodwyn, former April Wine singer, dead at 75](https://www.reddit.com/r/news/comments/18a7552/myles_goodwyn_former_april_wine_singer_dead_at_75/)
+- [Alleged killer of tourist in Paris attack had pledged allegiance to Islamic State](https://www.reddit.com/r/news/comments/18a6xzo/alleged_killer_of_tourist_in_paris_attack_had/)
+- [Alaska Air to buy Hawaiian Airlines for $1.9 billion](https://www.reddit.com/r/news/comments/18a5dg7/alaska_air_to_buy_hawaiian_airlines_for_19_billion/)
 <!-- REDDIT:END -->
 
 
