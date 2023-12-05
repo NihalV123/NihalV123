@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [YouTuber Trevor Jacob jailed after crashing plane for views](https://www.reddit.com/r/news/comments/18bai7p/youtuber_trevor_jacob_jailed_after_crashing_plane/)
+- [Mathematics, Reading Skills in Unprecedented Decline in Teenagers - OECD Survey](https://www.reddit.com/r/news/comments/18ba84j/mathematics_reading_skills_in_unprecedented/)
+- [Record number of fossil fuel lobbyists get access to Cop28 climate talks | Cop28](https://www.reddit.com/r/news/comments/18b5am1/record_number_of_fossil_fuel_lobbyists_get_access/)
+- [Russia LGBT: Police raid Moscow gay clubs, media say](https://www.reddit.com/r/news/comments/18b412l/russia_lgbt_police_raid_moscow_gay_clubs_media_say/)
+- [Britain announces stricter visa measures to reduce net migration](https://www.reddit.com/r/news/comments/18b3ppy/britain_announces_stricter_visa_measures_to/)
 <!-- REDDIT:END -->
 
 
