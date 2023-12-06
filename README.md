@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Defying presidents and Congress, the ATF, DEA, FBI and U.S. Marshals shroud their shootings in secrecy](https://www.reddit.com/r/news/comments/18bqu72/defying_presidents_and_congress_the_atf_dea_fbi/)
+- [Off-duty Alaska Airlines pilot indicted for trying to shut off engines mid-flight, avoids attempted murder counts](https://www.reddit.com/r/news/comments/18bpi1x/offduty_alaska_airlines_pilot_indicted_for_trying/)
+- [College presidents face tough questions from Congress over antisemitism on campus](https://www.reddit.com/r/news/comments/18bpetr/college_presidents_face_tough_questions_from/)
+- [Drone strike error kills dozens in Nigeria](https://www.reddit.com/r/news/comments/18bovh2/drone_strike_error_kills_dozens_in_nigeria/)
+- [Alabama officer on leave after video shows her using stun gun on man who is handcuffed and crying](https://www.reddit.com/r/news/comments/18bnsyi/alabama_officer_on_leave_after_video_shows_her/)
 <!-- REDDIT:END -->
 
 
