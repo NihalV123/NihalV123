@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US military grounds entire fleet of Osprey aircraft following a deadly crash off the coast of Japan](https://www.reddit.com/r/news/comments/18cid8b/us_military_grounds_entire_fleet_of_osprey/)
+- [Israel approves new settlement in east Jerusalem: NGO](https://www.reddit.com/r/news/comments/18chaix/israel_approves_new_settlement_in_east_jerusalem/)
+- [Leaked audio of heated meeting reveals hostages’ fury at Netanyahu | CNN](https://www.reddit.com/r/news/comments/18cgu0a/leaked_audio_of_heated_meeting_reveals_hostages/)
+- [Venice gondola capsizes after tourists refuse to sit down and stop taking selfies](https://www.reddit.com/r/news/comments/18cfm2y/venice_gondola_capsizes_after_tourists_refuse_to/)
+- [Sean &#39;Diddy&#39; Combs accused of gang rape and sex trafficking in new lawsuit](https://www.reddit.com/r/news/comments/18cfab3/sean_diddy_combs_accused_of_gang_rape_and_sex/)
 <!-- REDDIT:END -->
 
 
