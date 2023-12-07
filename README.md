@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UNLV suspected shooter identified: Sources](https://www.reddit.com/r/news/comments/18cqhvb/unlv_suspected_shooter_identified_sources/)
+- [Russian school shooter kills herself after wounding three - police](https://www.reddit.com/r/news/comments/18cqhcf/russian_school_shooter_kills_herself_after/)
+- [Brazil deploys troops to border after Venezuela announced plans to incorporate oil-rich area of Guyana into territory](https://www.reddit.com/r/news/comments/18copm0/brazil_deploys_troops_to_border_after_venezuela/)
+- [UN chief rings alarm bell on global security threat from Gaza war](https://www.reddit.com/r/news/comments/18cnt59/un_chief_rings_alarm_bell_on_global_security/)
+- [Guyana appeals to US and UN as Maduro advances annexation of territory](https://www.reddit.com/r/news/comments/18cn5de/guyana_appeals_to_us_and_un_as_maduro_advances/)
 <!-- REDDIT:END -->
 
 
