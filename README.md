@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amnesty: Israeli Attack that Killed Reuters Journalist, Wounded Others Must be Investigated as a War Crime](https://www.reddit.com/r/news/comments/18czxaj/amnesty_israeli_attack_that_killed_reuters/)
+- [Texas judge grants pregnant woman permission to get an abortion despite state’s ban](https://www.reddit.com/r/news/comments/18cyydx/texas_judge_grants_pregnant_woman_permission_to/)
+- [Reuters Journalist Issam Abdallah Killed by Israeli Tank, Investigation Finds](https://www.reddit.com/r/news/comments/18cyebi/reuters_journalist_issam_abdallah_killed_by/)
+- [A Nevada grand jury has indicted the six Republicans — including the chair of the Nevada Republican Party — who falsely pledged Nevada’s electoral votes to Donald Trump following the 2020 election despite President Joe Biden’s victory in the state](https://www.reddit.com/r/news/comments/18cybnh/a_nevada_grand_jury_has_indicted_the_six/)
+- [Government efforts to erase student loan debt have now reached 3.6 million borrowers](https://www.reddit.com/r/news/comments/18cy86l/government_efforts_to_erase_student_loan_debt/)
 <!-- REDDIT:END -->
 
 
