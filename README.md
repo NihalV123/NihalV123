@@ -381,11 +381,11 @@ Top 4 most used languages across your repositories:
 ### GHOST
 
 <!-- GHOST:START -->
+- [I Fight For The Users](https://blog.codinghorror.com/i-fight-for-the-users/)
+- [The 2030 Self-Driving Car Bet](https://blog.codinghorror.com/the-2030-self-driving-car-bet/)
+- [Updating The Single Most Influential Book of the BASIC Era](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/)
 - [Building a PC, Part IX: Downsizing](https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/)
 - [The Rise of the Electric Scooter](https://blog.codinghorror.com/the-rise-of-the-electric-scooter/)
-- [Electric Geek Transportation Systems](https://blog.codinghorror.com/electric-geek-transportation-systems/)
-- [An Exercise Program for the Fat Web](https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/)
-- [The Cloud Is Just Someone Else's Computer](https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/)
 <!-- GHOST:END -->
 
 ### STACKEXCHANGE
