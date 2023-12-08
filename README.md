@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman attempts to set fire to Atlanta birth home of Martin Luther King Jr., police say](https://www.reddit.com/r/news/comments/18dibjl/woman_attempts_to_set_fire_to_atlanta_birth_home/)
+- [70-year-old woman gives birth to twins following fertility treatment](https://www.reddit.com/r/news/comments/18dgnrn/70yearold_woman_gives_birth_to_twins_following/)
+- [17-year-old from Tulare Co becomes youngest person to pass California bar exam](https://www.reddit.com/r/news/comments/18dgn9l/17yearold_from_tulare_co_becomes_youngest_person/)
+- [UNLV senior recounts barricading in classroom, saying goodbye to his dad during mass shooting](https://www.reddit.com/r/news/comments/18dcwtn/unlv_senior_recounts_barricading_in_classroom/)
+- [California faces record $68 billion budget deficit, nonpartisan legislative analyst says](https://www.reddit.com/r/news/comments/18dcqam/california_faces_record_68_billion_budget_deficit/)
 <!-- REDDIT:END -->
 
 
