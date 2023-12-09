@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than 1,000 workers sign up to unionize at top US Volkswagen plant | US unions | The Guardian](https://www.reddit.com/r/news/comments/18e80ma/more_than_1000_workers_sign_up_to_unionize_at_top/)
+- [Putin will seek another term as Russian president, aiming to extend his rule of over two decades](https://www.reddit.com/r/news/comments/18e80gy/putin_will_seek_another_term_as_russian_president/)
+- [Texas Supreme Court temporarily blocks pregnant woman from emergency abortion](https://www.reddit.com/r/news/comments/18e7ui3/texas_supreme_court_temporarily_blocks_pregnant/)
+- [Michigan teen gets life in prison for 2021 school shooting](https://www.reddit.com/r/news/comments/18e6nhh/michigan_teen_gets_life_in_prison_for_2021_school/)
+- [Texas Supreme Court pauses lower court&#39;s order allowing pregnant woman to have an abortion](https://www.reddit.com/r/news/comments/18e5f21/texas_supreme_court_pauses_lower_courts_order/)
 <!-- REDDIT:END -->
 
 
