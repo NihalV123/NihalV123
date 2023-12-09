@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas Supreme Court pauses lower court&#39;s order allowing pregnant woman to have an abortion](https://www.reddit.com/r/news/comments/18e5f21/texas_supreme_court_pauses_lower_courts_order/)
+- [Palestinian poet Refaat Alareer killed in Gaza](https://www.reddit.com/r/news/comments/18e3mk5/palestinian_poet_refaat_alareer_killed_in_gaza/)
+- [2 nurses, medical resident slashed by woman at Newark Beth Israel Medical Center, police say](https://www.reddit.com/r/news/comments/18e0nxe/2_nurses_medical_resident_slashed_by_woman_at/)
+- [Ryan O’Neal, star of ‘Love Story’ and ‘Peyton Place,’ dead | CNN](https://www.reddit.com/r/news/comments/18e04sm/ryan_oneal_star_of_love_story_and_peyton_place/)
+- [US retail group retracts claim that half of $94.5bn inventory loss was from theft](https://www.reddit.com/r/news/comments/18dzy9h/us_retail_group_retracts_claim_that_half_of_945bn/)
 <!-- REDDIT:END -->
 
 
