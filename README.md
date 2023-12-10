@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nashville, Middle TN ravaged by high winds, possible tornadoes](https://www.reddit.com/r/news/comments/18erjy8/nashville_middle_tn_ravaged_by_high_winds/)
+- [Iran: Mahsa Amini&#39;s family stopped at airport on way to collect award](https://www.reddit.com/r/news/comments/18eqv4a/iran_mahsa_aminis_family_stopped_at_airport_on/)
+- [Canada&#39;s surging cost of living fuels reverse immigration](https://www.reddit.com/r/news/comments/18eo7kc/canadas_surging_cost_of_living_fuels_reverse/)
+- [Penn president resigns amid backlash to her testimony on antisemitism](https://www.reddit.com/r/news/comments/18eo35w/penn_president_resigns_amid_backlash_to_her/)
+- [&quot;Unbelievably frugal&quot; Indianapolis man left $13 million to charities](https://www.reddit.com/r/news/comments/18en1ns/unbelievably_frugal_indianapolis_man_left_13/)
 <!-- REDDIT:END -->
 
 
