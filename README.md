@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Why the sentence imposed on Michigan school shooter Ethan Crumbley is significant | CNN](https://www.reddit.com/r/news/comments/18f92t0/why_the_sentence_imposed_on_michigan_school/)
+- [Alex Jones: Conspiracy theorist returns to X after Elon Musk poll](https://www.reddit.com/r/news/comments/18f8a1s/alex_jones_conspiracy_theorist_returns_to_x_after/)
+- [No evidence of inflated mortality reporting from the Gaza Ministry of Health](https://www.reddit.com/r/news/comments/18f71w7/no_evidence_of_inflated_mortality_reporting_from/)
+- [Israeli tanks reach centre of Khan Younis in new storm of southern Gaza](https://www.reddit.com/r/news/comments/18f600o/israeli_tanks_reach_centre_of_khan_younis_in_new/)
+- [Pliosaur discovery: Huge sea monster emerges from Dorset cliffs. 150 million years old skull.](https://www.reddit.com/r/news/comments/18f5qvg/pliosaur_discovery_huge_sea_monster_emerges_from/)
 <!-- REDDIT:END -->
 
 
