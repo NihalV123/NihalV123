@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Real-Life Grinch Breaks Into Toys for Tots Warehouse, Drives Off With Truck-Load Full of Christmas Gifts](https://www.reddit.com/r/news/comments/18ffv40/reallife_grinch_breaks_into_toys_for_tots/)
+- [In a reversal, Donald Trump says he will not testify in his own defense in New York fraud trial](https://www.reddit.com/r/news/comments/18fcvsz/in_a_reversal_donald_trump_says_he_will_not/)
+- [Drug Lords go on Killing Spree to Hunt Down Corrupt Officers who Stole Shipment in Mexico&#39;s Tijuana](https://www.reddit.com/r/news/comments/18fbitu/drug_lords_go_on_killing_spree_to_hunt_down/)
+- [Minneapolis Store Clerk Killed After Being Impaled by Golf Club](https://www.reddit.com/r/news/comments/18fbhc3/minneapolis_store_clerk_killed_after_being/)
+- [Air Force to Start Tracking Why Some Recruits Back Out Before Joining Up](https://www.reddit.com/r/news/comments/18fb3gd/air_force_to_start_tracking_why_some_recruits/)
 <!-- REDDIT:END -->
 
 
