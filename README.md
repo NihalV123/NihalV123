@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US women’s soccer team received most online abuse at Women’s World Cup | CNN](https://www.reddit.com/r/news/comments/18gjy3i/us_womens_soccer_team_received_most_online_abuse/)
+- [China&#39;s Xi visits Vietnam in bid to counter US](https://www.reddit.com/r/news/comments/18gj379/chinas_xi_visits_vietnam_in_bid_to_counter_us/)
+- [Houthi missile strikes merchant ship in Red Sea: US official](https://www.reddit.com/r/news/comments/18gce2h/houthi_missile_strikes_merchant_ship_in_red_sea/)
+- [Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion](https://www.reddit.com/r/news/comments/18ga6gw/texas_supreme_court_rules_against_woman_who/)
+- [Federal jury decides Google’s Android app store benefits from anticompetitive barriers](https://www.reddit.com/r/news/comments/18g951n/federal_jury_decides_googles_android_app_store/)
 <!-- REDDIT:END -->
 
 
