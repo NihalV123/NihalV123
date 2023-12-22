@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Orange County SWAT team members bullied bar patron, drank &amp; drove agency vehicles](https://www.reddit.com/r/news/comments/18okjkn/orange_county_swat_team_members_bullied_bar/)
+- [Breast cancer metastasis on/off switch revealed](https://www.reddit.com/r/news/comments/18okc7t/breast_cancer_metastasis_onoff_switch_revealed/)
+- [Japan prepares for missile shipments after easing arms export restrictions](https://www.reddit.com/r/news/comments/18oj9mr/japan_prepares_for_missile_shipments_after_easing/)
+- [Israel broadens Gaza assault ahead of Security Council aid vote | Reuters](https://www.reddit.com/r/news/comments/18ohf46/israel_broadens_gaza_assault_ahead_of_security/)
+- [&#39;They were laughing&#39;: Witnesses to deadly Kroger assault share tragic moments](https://www.reddit.com/r/news/comments/18oh4cr/they_were_laughing_witnesses_to_deadly_kroger/)
 <!-- REDDIT:END -->
 
 
