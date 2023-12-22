@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jury rules not guilty for all 3 officers accused in death of Manny Ellis](https://www.reddit.com/r/news/comments/18o1aml/jury_rules_not_guilty_for_all_3_officers_accused/)
+- [A white couple who burned a cross in their yard facing Black neighbors&#39; home are investigated by FBI](https://www.reddit.com/r/news/comments/18o0uac/a_white_couple_who_burned_a_cross_in_their_yard/)
+- [Vin Diesel accused of sexual assault in new lawsuit](https://www.reddit.com/r/news/comments/18nyj9o/vin_diesel_accused_of_sexual_assault_in_new/)
+- [FDA warns against unapproved &#39;fat-dissolving&#39; spa treatments](https://www.reddit.com/r/news/comments/18nyhh5/fda_warns_against_unapproved_fatdissolving_spa/)
+- [Man charged with murder in road rage shooting that killed a 4-year-old boy as he sat in the back of his family’s car](https://www.reddit.com/r/news/comments/18ny0c4/man_charged_with_murder_in_road_rage_shooting/)
 <!-- REDDIT:END -->
 
 
