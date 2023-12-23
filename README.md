@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Putin Quietly Signaling Openness to Ukraine Ceasefire Talks – NYT](https://www.reddit.com/r/news/comments/18pac4i/putin_quietly_signaling_openness_to_ukraine/)
+- [Russia bans anti-war candidate from challenging Putin](https://www.reddit.com/r/news/comments/18paadu/russia_bans_antiwar_candidate_from_challenging/)
+- [“discipline problem”. High ranking officers of the Army claim that complaints about rampant black mold on Army installations are a sign of immaturity](https://www.reddit.com/r/news/comments/18pa8b6/discipline_problem_high_ranking_officers_of_the/)
+- [Huntinfton Beach, CA proposes ban on Pride, Black and women’s history celebrations](https://www.reddit.com/r/news/comments/18p90yz/huntinfton_beach_ca_proposes_ban_on_pride_black/)
+- [Childhood vaccine exemptions are at an all-time high. Doctors worry diseases like measles could return](https://www.reddit.com/r/news/comments/18p8i9z/childhood_vaccine_exemptions_are_at_an_alltime/)
 <!-- REDDIT:END -->
 
 
