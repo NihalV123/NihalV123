@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Paramedics found guilty in death of Elijah McClain, who they injected with an overdose of ketamine](https://www.reddit.com/r/news/comments/18ou381/paramedics_found_guilty_in_death_of_elijah/)
+- [Cummins to pay record-setting $1.675 billion US environmental fine](https://www.reddit.com/r/news/comments/18otnz8/cummins_to_pay_recordsetting_1675_billion_us/)
+- [Marine veteran killed in Ukraine fought 12 Russians in last stand](https://www.reddit.com/r/news/comments/18osd70/marine_veteran_killed_in_ukraine_fought_12/)
+- [Pornhub’s parent company admits it profited from sex trafficking | CNN Business](https://www.reddit.com/r/news/comments/18opi89/pornhubs_parent_company_admits_it_profited_from/)
+- [Massachusetts police apologize after officer searched a middle school for LGBTQ book](https://www.reddit.com/r/news/comments/18oolyt/massachusetts_police_apologize_after_officer/)
 <!-- REDDIT:END -->
 
 
