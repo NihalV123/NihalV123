@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden administration allows ban on some Apple Watch imports to take hold](https://www.reddit.com/r/news/comments/18rcevg/biden_administration_allows_ban_on_some_apple/)
+- [After years-long fight, ex-sheriff agrees to comply with subpoenas, testify on deputy gangs](https://www.reddit.com/r/news/comments/18rc5e9/after_yearslong_fight_exsheriff_agrees_to_comply/)
+- [US airstrikes hit Kataib Hezbollah sites in Iraq after attack on US troops | CNN Politics](https://www.reddit.com/r/news/comments/18rbot7/us_airstrikes_hit_kataib_hezbollah_sites_in_iraq/)
+- [Police confirm swatting incident targeting Rep. Marjorie Taylor Greene&#39;s house on Christmas](https://www.reddit.com/r/news/comments/18rahic/police_confirm_swatting_incident_targeting_rep/)
+- [First Amendment claim struck down in Project Veritas case focused on diary of Biden&#39;s daughter](https://www.reddit.com/r/news/comments/18ra9ed/first_amendment_claim_struck_down_in_project/)
 <!-- REDDIT:END -->
 
 
