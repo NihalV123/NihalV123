@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US retaliates in Iraq after three US troops wounded in attack](https://www.reddit.com/r/news/comments/18r0qmg/us_retaliates_in_iraq_after_three_us_troops/)
+- [FBI says it’s investigating after reports of violent threats to Colorado judges in Trump case](https://www.reddit.com/r/news/comments/18qzef1/fbi_says_its_investigating_after_reports_of/)
+- [Hamas, Islamic Jihad reject Gaza gov. overhaul for permanent ceasefire, Egyptian sources say](https://www.reddit.com/r/news/comments/18qt4j4/hamas_islamic_jihad_reject_gaza_gov_overhaul_for/)
+- [Second suspect arrested in theft of Banksy stop sign artwork featuring military drones](https://www.reddit.com/r/news/comments/18qsr2m/second_suspect_arrested_in_theft_of_banksy_stop/)
+- [Animal shelter in Pennsylvania empty for first time in 47 years](https://www.reddit.com/r/news/comments/18qogyb/animal_shelter_in_pennsylvania_empty_for_first/)
 <!-- REDDIT:END -->
 
 
