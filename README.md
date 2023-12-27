@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Far-right extremists stage rural land grab across Germany](https://www.reddit.com/r/news/comments/18rzcg9/farright_extremists_stage_rural_land_grab_across/)
+- [Pizza Hut to lay off thousands of California workers](https://www.reddit.com/r/news/comments/18ryw8g/pizza_hut_to_lay_off_thousands_of_california/)
+- [Japan lifts operational ban on world&#39;s biggest nuclear plant.](https://www.reddit.com/r/news/comments/18rvu0z/japan_lifts_operational_ban_on_worlds_biggest/)
+- [Bomb blast near Israel embassy in Delhi, no staff harmed | India News - Times of India](https://www.reddit.com/r/news/comments/18rqw06/bomb_blast_near_israel_embassy_in_delhi_no_staff/)
+- [Sheriff: Teen shoots, kills sister in Largo during dispute over Christmas gifts](https://www.reddit.com/r/news/comments/18rq6ua/sheriff_teen_shoots_kills_sister_in_largo_during/)
 <!-- REDDIT:END -->
 
 
