@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bomb blast near Israel embassy in Delhi, no staff harmed | India News - Times of India](https://www.reddit.com/r/news/comments/18rqw06/bomb_blast_near_israel_embassy_in_delhi_no_staff/)
+- [Sheriff: Teen shoots, kills sister in Largo during dispute over Christmas gifts](https://www.reddit.com/r/news/comments/18rq6ua/sheriff_teen_shoots_kills_sister_in_largo_during/)
+- [&#39;Parasite&#39; actor Lee Sun-kyun found dead amid investigation over drug allegations](https://www.reddit.com/r/news/comments/18rq517/parasite_actor_lee_sunkyun_found_dead_amid/)
+- [Fears of regional escalation as Israel warns of ‘multi-front’ war](https://www.reddit.com/r/news/comments/18rnhkg/fears_of_regional_escalation_as_israel_warns_of/)
+- [Search resuming for missing Alaska woman who disappeared under frozen river ice while trying to save dog](https://www.reddit.com/r/news/comments/18riuqs/search_resuming_for_missing_alaska_woman_who/)
 <!-- REDDIT:END -->
 
 
