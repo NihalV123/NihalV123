@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fears of regional escalation as Israel warns of ‘multi-front’ war](https://www.reddit.com/r/news/comments/18rnhkg/fears_of_regional_escalation_as_israel_warns_of/)
+- [Chinese chess: Xiangqi champion suspended for bad behaviour](https://www.reddit.com/r/news/comments/18rn4wo/chinese_chess_xiangqi_champion_suspended_for_bad/)
+- [Search resuming for missing Alaska woman who disappeared under frozen river ice while trying to save dog](https://www.reddit.com/r/news/comments/18riuqs/search_resuming_for_missing_alaska_woman_who/)
+- [YouTuber leads authorities to human remains believed to be of man missing since 2013](https://www.reddit.com/r/news/comments/18rgjg7/youtuber_leads_authorities_to_human_remains/)
+- [Biden administration allows ban on some Apple Watch imports to take hold](https://www.reddit.com/r/news/comments/18rcevg/biden_administration_allows_ban_on_some_apple/)
 <!-- REDDIT:END -->
 
 
