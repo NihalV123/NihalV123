@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli teen jailed for refusing IDF service, cites Gaza war with Hamas](https://www.reddit.com/r/news/comments/18s6gyt/israeli_teen_jailed_for_refusing_idf_service/)
+- [Trapped in his crashed truck, an Indiana man is rescued after 6 days surviving on rainwater](https://www.reddit.com/r/news/comments/18s6bi0/trapped_in_his_crashed_truck_an_indiana_man_is/)
+- [Japan to send Patriot missiles to US which may aid Ukraine](https://www.reddit.com/r/news/comments/18s4kfd/japan_to_send_patriot_missiles_to_us_which_may/)
+- [More than 11,000 migrants waiting in northern Mexico amid border surge](https://www.reddit.com/r/news/comments/18s4iea/more_than_11000_migrants_waiting_in_northern/)
+- [France: Eiffel Tower staff strike on centenary of creator&#39;s death](https://www.reddit.com/r/news/comments/18s3l88/france_eiffel_tower_staff_strike_on_centenary_of/)
 <!-- REDDIT:END -->
 
 
