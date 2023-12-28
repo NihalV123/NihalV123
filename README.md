@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Defense in Costco voluntary manslaughter case says shooter was protecting his toddler](https://www.reddit.com/r/news/comments/18szls9/defense_in_costco_voluntary_manslaughter_case/)
+- [Mom says pregnant Texas teen found shot to death with boyfriend &quot;was just there at the wrong time&quot;](https://www.reddit.com/r/news/comments/18sz12y/mom_says_pregnant_texas_teen_found_shot_to_death/)
+- [Joe Gow fired for pornographic content, Betsy Morgan to become interim chancellor](https://www.reddit.com/r/news/comments/18sytm6/joe_gow_fired_for_pornographic_content_betsy/)
+- [Passport applications go missing at Georgetown post office](https://www.reddit.com/r/news/comments/18syh00/passport_applications_go_missing_at_georgetown/)
+- [US and Mexico look to stem &#39;unprecedented&#39; migrant flow](https://www.reddit.com/r/news/comments/18sx9rc/us_and_mexico_look_to_stem_unprecedented_migrant/)
 <!-- REDDIT:END -->
 
 
