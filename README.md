@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gaston Glock: Inventor of popular handgun dies aged 94](https://www.reddit.com/r/news/comments/18slxbn/gaston_glock_inventor_of_popular_handgun_dies/)
+- [Argentina&#39;s unions take to the streets to protest president&#39;s cutbacks, deregulation and austerity](https://www.reddit.com/r/news/comments/18siye6/argentinas_unions_take_to_the_streets_to_protest/)
+- [Mexico&#39;s first lunar mission is ready for launch](https://www.reddit.com/r/news/comments/18shqz7/mexicos_first_lunar_mission_is_ready_for_launch/)
+- [Amazon Prime Video viewers will have to pay an extra $2.99 monthly in January to avoid ads](https://www.reddit.com/r/news/comments/18sfvaq/amazon_prime_video_viewers_will_have_to_pay_an/)
+- [Daihatsu suspends production in Japan after safety test scandal](https://www.reddit.com/r/news/comments/18sdm0e/daihatsu_suspends_production_in_japan_after/)
 <!-- REDDIT:END -->
 
 
