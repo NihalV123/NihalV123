@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon Prime Video viewers will have to pay an extra $2.99 monthly in January to avoid ads](https://www.reddit.com/r/news/comments/18sfvaq/amazon_prime_video_viewers_will_have_to_pay_an/)
+- [Daihatsu suspends production in Japan after safety test scandal](https://www.reddit.com/r/news/comments/18sdm0e/daihatsu_suspends_production_in_japan_after/)
+- [Ex-boyfriend of missing St. Louis Co. woman charged with murder](https://www.reddit.com/r/news/comments/18sdakz/exboyfriend_of_missing_st_louis_co_woman_charged/)
+- [2 models of Apple Watch can go on sale again, for now](https://www.reddit.com/r/news/comments/18sb4vv/2_models_of_apple_watch_can_go_on_sale_again_for/)
+- [DRC: Belgian election observer commits suicide in Kinshasa](https://www.reddit.com/r/news/comments/18s9lxb/drc_belgian_election_observer_commits_suicide_in/)
 <!-- REDDIT:END -->
 
 
