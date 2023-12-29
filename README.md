@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After Rise in Murders During the Pandemic, a Sharp Decline in 2023](https://www.reddit.com/r/news/comments/18tsn6v/after_rise_in_murders_during_the_pandemic_a_sharp/)
+- [Massachusetts COVID cases rising again, according to wastewater tracking](https://www.reddit.com/r/news/comments/18tsa3j/massachusetts_covid_cases_rising_again_according/)
+- [New Jersey man motivated by Hamas threatened attack on US: Feds](https://www.reddit.com/r/news/comments/18trx2u/new_jersey_man_motivated_by_hamas_threatened/)
+- [The Overlooked Crisis in Congo: ‘We live in War’](https://www.reddit.com/r/news/comments/18tr9jn/the_overlooked_crisis_in_congo_we_live_in_war/)
+- [Ohio Gov. Mike DeWine vetoes bill that would ban transgender health care for minors, athletes in women’s sports](https://www.reddit.com/r/news/comments/18tqnye/ohio_gov_mike_dewine_vetoes_bill_that_would_ban/)
 <!-- REDDIT:END -->
 
 
