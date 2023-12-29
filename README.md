@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexico: 14 kidnapped from village that rose up and killed cartel members - Farmers in Texcaltitlán in central Mexico, tired of being extorted, chased down gang members and killed 10 earlier this month](https://www.reddit.com/r/news/comments/18tf79v/mexico_14_kidnapped_from_village_that_rose_up_and/)
+- [Elon Musk’s X Loses Bid To Change California Content Moderation Law](https://www.reddit.com/r/news/comments/18tegci/elon_musks_x_loses_bid_to_change_california/)
+- [Uniformed Police Officers Threw Slushies at Random People, Recorded It](https://www.reddit.com/r/news/comments/18te196/uniformed_police_officers_threw_slushies_at/)
+- [Beavers released into California wild for the first time in 75 years](https://www.reddit.com/r/news/comments/18tczxc/beavers_released_into_california_wild_for_the/)
+- [E coli ‘caught at Christmas market’ leaves 17-year-old in intensive care](https://www.reddit.com/r/news/comments/18tcsys/e_coli_caught_at_christmas_market_leaves/)
 <!-- REDDIT:END -->
 
 
