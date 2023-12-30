@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tom Wilkinson: The Full Monty actor dies at 75](https://www.reddit.com/r/news/comments/18ul1os/tom_wilkinson_the_full_monty_actor_dies_at_75/)
+- [Paula Abdul sues Nigel Lythgoe over alleged sexual assault - US media](https://www.reddit.com/r/news/comments/18ukk3p/paula_abdul_sues_nigel_lythgoe_over_alleged/)
+- [Woman sues dentist over visit she says included 4 root canals, 8 crowns, 20 fillings](https://www.reddit.com/r/news/comments/18ukhi4/woman_sues_dentist_over_visit_she_says_included_4/)
+- [New state laws for 2024 impact guns, pornography, taxes and even fuzzy dice](https://www.reddit.com/r/news/comments/18uk8yz/new_state_laws_for_2024_impact_guns_pornography/)
+- [U.S. preparing to claim new ocean territory off Arctic Alaska and in central Bering Sea - Alaska Beacon](https://www.reddit.com/r/news/comments/18ujjl8/us_preparing_to_claim_new_ocean_territory_off/)
 <!-- REDDIT:END -->
 
 
