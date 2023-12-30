@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California becomes first state to offer health insurance to all undocumented immigrants](https://www.reddit.com/r/news/comments/18u0h1s/california_becomes_first_state_to_offer_health/)
+- [Nebraska governor stands firm on rejection of federal money to feed food-insecure children](https://www.reddit.com/r/news/comments/18u0egf/nebraska_governor_stands_firm_on_rejection_of/)
+- [Rogue wave sends people running on Calif. coast, injures 8 people](https://www.reddit.com/r/news/comments/18twhz3/rogue_wave_sends_people_running_on_calif_coast/)
+- [4.8 million BlendJet portable blenders recalled due to fire and laceration hazards](https://www.reddit.com/r/news/comments/18tw2jr/48_million_blendjet_portable_blenders_recalled/)
+- [Elon Musk&#39;s X fails to block California&#39;s content moderation law](https://www.reddit.com/r/news/comments/18tvj10/elon_musks_x_fails_to_block_californias_content/)
 <!-- REDDIT:END -->
 
 
