@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cale Yarborough, three-time NASCAR champion in &#39;70s, dies at 84](https://www.reddit.com/r/news/comments/18vnr7w/cale_yarborough_threetime_nascar_champion_in_70s/)
+- [Father, son arrested for deadly shooting of 10-year-old in Sacramento area](https://www.reddit.com/r/news/comments/18vn2ss/father_son_arrested_for_deadly_shooting_of/)
+- [DOJ threatens to sue Texas over new immigration law; border cities again see migrant encampments](https://www.reddit.com/r/news/comments/18vm997/doj_threatens_to_sue_texas_over_new_immigration/)
+- [New York sergeant, wife and two sons found dead in murder-suicide, police say | US crime](https://www.reddit.com/r/news/comments/18vkgkp/new_york_sergeant_wife_and_two_sons_found_dead_in/)
+- [Plane from Texas drops off over 300 migrants at Rockford airport; buses sent to Chicago: officials](https://www.reddit.com/r/news/comments/18ve63x/plane_from_texas_drops_off_over_300_migrants_at/)
 <!-- REDDIT:END -->
 
 
