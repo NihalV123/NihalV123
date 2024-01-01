@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Live updates: Japan earthquake: 7.5-magnitude quake hits, triggering tsunami warning](https://www.reddit.com/r/news/comments/18vvbzg/live_updates_japan_earthquake_75magnitude_quake/)
+- [Japan issues tsunami warnings after a series of very strong earthquakes on the Sea of Japan coast](https://www.reddit.com/r/news/comments/18vt9hq/japan_issues_tsunami_warnings_after_a_series_of/)
+- [Tsunami warning in Japan after strong earthquake](https://www.reddit.com/r/news/comments/18vsjj1/tsunami_warning_in_japan_after_strong_earthquake/)
+- [Magnitude 7.4 earthquake strikes Japan, tsunami warning](https://www.reddit.com/r/news/comments/18vsetr/magnitude_74_earthquake_strikes_japan_tsunami/)
+- [A magnitude 7.4 earthquake has struck Ishikawa Pref.&#39;s Noto region Wajima Eest-northeast 30 km in Japan. Tsunami Warning](https://www.reddit.com/r/news/comments/18vrkvq/a_magnitude_74_earthquake_has_struck_ishikawa/)
 <!-- REDDIT:END -->
 
 
