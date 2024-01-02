@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Deadly New Year&#39;s collision near Rochester, NY, venue being investigated as possible terrorism](https://www.reddit.com/r/news/comments/18wbsv3/deadly_new_years_collision_near_rochester_ny/)
+- [Meet the Outlaw escaping from prisons in protest against indefinite detention](https://www.reddit.com/r/news/comments/18wbnd5/meet_the_outlaw_escaping_from_prisons_in_protest/)
+- [Jeffrey Epstein documents featuring prominent names to be released](https://www.reddit.com/r/news/comments/18wbjyw/jeffrey_epstein_documents_featuring_prominent/)
+- [CNN: Melissa Hoskins: Two-time Olympic cyclist dies aged 32 after being hit by car](https://www.reddit.com/r/news/comments/18w5jap/cnn_melissa_hoskins_twotime_olympic_cyclist_dies/)
+- [Laws banning semi-automatic weapons and library censorship will take effect in Illinois](https://www.reddit.com/r/news/comments/18w3vuo/laws_banning_semiautomatic_weapons_and_library/)
 <!-- REDDIT:END -->
 
 
