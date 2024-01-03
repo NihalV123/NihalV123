@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Harvard professor says Claudine Gay was &quot;brought down by a mob&quot;](https://www.reddit.com/r/news/comments/18xgw78/harvard_professor_says_claudine_gay_was_brought/)
+- [Starbucks will now let customers use personal cups for nearly all orders | CNN Business](https://www.reddit.com/r/news/comments/18xgu4k/starbucks_will_now_let_customers_use_personal/)
+- [Dollar clings to previous day&#39;s gains as focus turns to U.S. data](https://www.reddit.com/r/news/comments/18xfs56/dollar_clings_to_previous_days_gains_as_focus/)
+- [US Senator Bob Menendez accused of accepting gifts from Qatar](https://www.reddit.com/r/news/comments/18x9pll/us_senator_bob_menendez_accused_of_accepting/)
+- [Johnson County DA&#39;s Office files motion to dismiss sexual battery charges against Jackson Mahomes](https://www.reddit.com/r/news/comments/18x991z/johnson_county_das_office_files_motion_to_dismiss/)
 <!-- REDDIT:END -->
 
 
