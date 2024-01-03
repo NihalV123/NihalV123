@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jimmy Kimmel threatens &#39;court&#39; action after Aaron Rodgers suggests Kimmel will be on Epstein&#39;s list](https://www.reddit.com/r/news/comments/18xpdz3/jimmy_kimmel_threatens_court_action_after_aaron/)
+- [California mother says 10-year-old fatally shot her son, also 10, after losing bike race](https://www.reddit.com/r/news/comments/18xn0c4/california_mother_says_10yearold_fatally_shot_her/)
+- [Scientists hail new antibiotic that can kill drug-resistant bacteria](https://www.reddit.com/r/news/comments/18xmtgk/scientists_hail_new_antibiotic_that_can_kill/)
+- [$17 Million Verdict in Corona Against Ex-LAPD officer](https://www.reddit.com/r/news/comments/18xma54/17_million_verdict_in_corona_against_exlapd/)
+- [Tetris: US teenager becomes first to beat video game](https://www.reddit.com/r/news/comments/18xkv4b/tetris_us_teenager_becomes_first_to_beat_video/)
 <!-- REDDIT:END -->
 
 
