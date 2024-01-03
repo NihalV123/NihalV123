@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US Senator Bob Menendez accused of accepting gifts from Qatar](https://www.reddit.com/r/news/comments/18x9pll/us_senator_bob_menendez_accused_of_accepting/)
+- [Johnson County DA&#39;s Office files motion to dismiss sexual battery charges against Jackson Mahomes](https://www.reddit.com/r/news/comments/18x991z/johnson_county_das_office_files_motion_to_dismiss/)
+- [Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says](https://www.reddit.com/r/news/comments/18x7ze3/hamas_used_gaza_hospital_as_a_command_center_us/)
+- [Trump challenges his &#39;arbitrary&#39; removal from Maine&#39;s ballot](https://www.reddit.com/r/news/comments/18x6xjz/trump_challenges_his_arbitrary_removal_from/)
+- [Brother of powerful Colombian senator pleads guilty in New York to narcotics smuggling charge](https://www.reddit.com/r/news/comments/18x1fzx/brother_of_powerful_colombian_senator_pleads/)
 <!-- REDDIT:END -->
 
 
