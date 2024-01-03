@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada’s top CEOs have already made more than average worker will in 2024](https://www.reddit.com/r/news/comments/18x3g74/canadas_top_ceos_have_already_made_more_than/)
+- [Brother of powerful Colombian senator pleads guilty in New York to narcotics smuggling charge](https://www.reddit.com/r/news/comments/18x1fzx/brother_of_powerful_colombian_senator_pleads/)
+- [Kim Davis must pay $260,000 legal fees over same-sex marriage license refusal](https://www.reddit.com/r/news/comments/18wyizq/kim_davis_must_pay_260000_legal_fees_over_samesex/)
+- [More Americans can now get insulin for $35 | CNN Politics](https://www.reddit.com/r/news/comments/18wxeke/more_americans_can_now_get_insulin_for_35_cnn/)
+- [Police &#39;investigate sexual abuse of young girl&#39;s avatar in the metaverse&#39; - prompting NSPCC warning | Science &amp; Tech News](https://www.reddit.com/r/news/comments/18wwydw/police_investigate_sexual_abuse_of_young_girls/)
 <!-- REDDIT:END -->
 
 
