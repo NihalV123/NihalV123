@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tourists &#39;forget&#39; $10,000 in Florence hotel](https://www.reddit.com/r/news/comments/18yb0rn/tourists_forget_10000_in_florence_hotel/)
+- [New Jersey imam shot and killed outside his mosque](https://www.reddit.com/r/news/comments/18yaszy/new_jersey_imam_shot_and_killed_outside_his_mosque/)
+- [Thirteen-year-old becomes first player to beat Tetris](https://www.reddit.com/r/news/comments/18y5iux/thirteenyearold_becomes_first_player_to_beat/)
+- [Auto Theft Suspects Apprehended in Irving Following Dramatic Pursuit](https://www.reddit.com/r/news/comments/18y2ygj/auto_theft_suspects_apprehended_in_irving/)
+- [It took decades, but San Francisco finally installs nets to stop suicides off Golden Gate Bridge](https://www.reddit.com/r/news/comments/18xzdx0/it_took_decades_but_san_francisco_finally/)
 <!-- REDDIT:END -->
 
 
