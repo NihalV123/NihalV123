@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Islamic State claims responsibility for attacks that killed nearly 100 people in Iran](https://www.reddit.com/r/news/comments/18yguz7/islamic_state_claims_responsibility_for_attacks/)
+- [Biden administration announces $162 million to expand computer chip factories in Colorado and Oregon](https://www.reddit.com/r/news/comments/18yfrsn/biden_administration_announces_162_million_to/)
+- [Two large offshore wind sites are sending power to the US grid for the first time](https://www.reddit.com/r/news/comments/18yf00a/two_large_offshore_wind_sites_are_sending_power/)
+- [Dallas County Sheriff&#39;s Office confirms reports of active shooter at Perry High School](https://www.reddit.com/r/news/comments/18yev42/dallas_county_sheriffs_office_confirms_reports_of/)
+- [Microsoft announces AI key on Windows 11 PCs](https://www.reddit.com/r/news/comments/18ye3ao/microsoft_announces_ai_key_on_windows_11_pcs/)
 <!-- REDDIT:END -->
 
 
