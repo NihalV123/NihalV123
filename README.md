@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Video shows man attack district court judge during sentencing](https://www.reddit.com/r/news/comments/18xxkrf/video_shows_man_attack_district_court_judge/)
+- [Italian priest struck off for calling Francis an ‘anti-pope usurper’ | Pope Francis | The Guardian](https://www.reddit.com/r/news/comments/18xxgc5/italian_priest_struck_off_for_calling_francis_an/)
+- [Brazil jails: Hundreds of inmates use Christmas release to escape](https://www.reddit.com/r/news/comments/18xwq2w/brazil_jails_hundreds_of_inmates_use_christmas/)
+- [Trump asks Supreme Court to overturn Colorado poll ban](https://www.reddit.com/r/news/comments/18xwg42/trump_asks_supreme_court_to_overturn_colorado/)
+- [L.A. woman, 88, had private security for protection. A guard shot her on New Year&#39;s Eve](https://www.reddit.com/r/news/comments/18xvguy/la_woman_88_had_private_security_for_protection_a/)
 <!-- REDDIT:END -->
 
 
