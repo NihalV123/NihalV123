@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sixth grade student killed in Perry school shooting; five other victims shot](https://www.reddit.com/r/news/comments/18ytbrc/sixth_grade_student_killed_in_perry_school/)
+- [The largest male specimen of the world’s most venomous spider has been found in Australia](https://www.reddit.com/r/news/comments/18yscjk/the_largest_male_specimen_of_the_worlds_most/)
+- [Mary Poppins actress Glynis Johns has died](https://www.reddit.com/r/news/comments/18ys3zf/mary_poppins_actress_glynis_johns_has_died/)
+- [German teacher fined for comparing COVID shots to Holocaust – DW – 01/04/2024](https://www.reddit.com/r/news/comments/18yr3ce/german_teacher_fined_for_comparing_covid_shots_to/)
+- [Exploding toilet at a Dunkin&#39; store in Florida left a customer filthy and injured, lawsuit claims](https://www.reddit.com/r/news/comments/18yqjnj/exploding_toilet_at_a_dunkin_store_in_florida/)
 <!-- REDDIT:END -->
 
 
