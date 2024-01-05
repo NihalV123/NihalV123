@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FACT FOCUS: Images made to look like court records circulate online amid Epstein document release](https://www.reddit.com/r/news/comments/18yuq9k/fact_focus_images_made_to_look_like_court_records/)
+- [Sixth grade student killed in Perry school shooting; five other victims shot](https://www.reddit.com/r/news/comments/18ytbrc/sixth_grade_student_killed_in_perry_school/)
+- [Carrefour to halt Pepsi sales over price rises](https://www.reddit.com/r/news/comments/18ytb9t/carrefour_to_halt_pepsi_sales_over_price_rises/)
+- [Read: Second batch of Epstein documents released by court](https://www.reddit.com/r/news/comments/18yt2sa/read_second_batch_of_epstein_documents_released/)
+- [Illinois and Massachusetts voters seek to take Trump off 2024 ballot | CNN Politics](https://www.reddit.com/r/news/comments/18ysj9m/illinois_and_massachusetts_voters_seek_to_take/)
 <!-- REDDIT:END -->
 
 
