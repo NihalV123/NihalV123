@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [1.3.24 epstein documents 934 pages](https://www.reddit.com/r/news/comments/18zs0kv/1324_epstein_documents_934_pages/)
+- [215 bodies found buried behind Jackson, Mississippi jail](https://www.reddit.com/r/news/comments/18zrim7/215_bodies_found_buried_behind_jackson/)
+- [Plane window blows out mid-flight, makes emergency landing in Portland](https://www.reddit.com/r/news/comments/18zqpt8/plane_window_blows_out_midflight_makes_emergency/)
+- [Defense Secretary Hospitalized After Complications From Elective Procedure](https://www.reddit.com/r/news/comments/18zqd0p/defense_secretary_hospitalized_after/)
+- [Former Alabama police officer charged with murder in fatal shooting of a Black man outside his home | CNN](https://www.reddit.com/r/news/comments/18zqbgk/former_alabama_police_officer_charged_with_murder/)
 <!-- REDDIT:END -->
 
 
