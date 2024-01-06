@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alaska launches temporary grounding of 737 Max 9 fleet](https://www.reddit.com/r/news/comments/18zwuhb/alaska_launches_temporary_grounding_of_737_max_9/)
+- [Man accused of kidnapping woman, holding her against will for 4-5 years in garage of southeast Houston home](https://www.reddit.com/r/news/comments/18zu8p7/man_accused_of_kidnapping_woman_holding_her/)
+- [Indian Navy intercepts merchant vessel after attempted hijacking; rescues 21 crew members](https://www.reddit.com/r/news/comments/18zsdln/indian_navy_intercepts_merchant_vessel_after/)
+- [215 bodies found buried behind Jackson, Mississippi jail](https://www.reddit.com/r/news/comments/18zrim7/215_bodies_found_buried_behind_jackson/)
+- [Plane window blows out mid-flight, makes emergency landing in Portland](https://www.reddit.com/r/news/comments/18zqpt8/plane_window_blows_out_midflight_makes_emergency/)
 <!-- REDDIT:END -->
 
 
