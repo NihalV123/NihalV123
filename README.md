@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ashli Babbitt&#39;s family files $30 million lawsuit over Jan. 6 shooting death](https://www.reddit.com/r/news/comments/190cha9/ashli_babbitts_family_files_30_million_lawsuit/)
+- [Hezbollah fires rockets at Israel in response to killing of top Hamas leader](https://www.reddit.com/r/news/comments/190c2wa/hezbollah_fires_rockets_at_israel_in_response_to/)
+- [2 people killed, 9 injured in pileup that closed fog-shrouded I-5 in California](https://www.reddit.com/r/news/comments/190bq67/2_people_killed_9_injured_in_pileup_that_closed/)
+- [Police must return phones after 175 million passcode guesses, judge says](https://www.reddit.com/r/news/comments/190b7yf/police_must_return_phones_after_175_million/)
+- [DR Congo election: Three ministers and four governors disqualified for fraud and violenceMinisters barred from Congo poll for fraud, violence - BBC News](https://www.reddit.com/r/news/comments/190akhn/dr_congo_election_three_ministers_and_four/)
 <!-- REDDIT:END -->
 
 
