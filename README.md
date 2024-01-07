@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Revere man sentenced in nationwide rideshare and delivery fraud scheme](https://www.reddit.com/r/news/comments/190nfre/revere_man_sentenced_in_nationwide_rideshare_and/)
+- [Pentagon waited three days to inform White House that the defense secretary was hospitalized in ICU](https://www.reddit.com/r/news/comments/190jybr/pentagon_waited_three_days_to_inform_white_house/)
+- [Multiple Jan. 6 fugitives arrested at Florida ranch 3 years after Capitol attack: FBI - ABC News](https://www.reddit.com/r/news/comments/190jmv4/multiple_jan_6_fugitives_arrested_at_florida/)
+- [China sanctions 5 US defense companies in response to US sanctions and arms sales to Taiwan](https://www.reddit.com/r/news/comments/190hfvv/china_sanctions_5_us_defense_companies_in/)
+- [Ashli Babbitt&#39;s family files $30 million lawsuit over Jan. 6 shooting death](https://www.reddit.com/r/news/comments/190cha9/ashli_babbitts_family_files_30_million_lawsuit/)
 <!-- REDDIT:END -->
 
 
