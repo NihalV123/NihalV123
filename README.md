@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Andrew Tate wins legal challenge over seized assets](https://www.reddit.com/r/news/comments/191q29u/andrew_tate_wins_legal_challenge_over_seized/)
+- [Tiger Woods and Nike are splitting up](https://www.reddit.com/r/news/comments/191ppf6/tiger_woods_and_nike_are_splitting_up/)
+- [Franz Beckenbauer: German football legend dies aged 78](https://www.reddit.com/r/news/comments/191ped9/franz_beckenbauer_german_football_legend_dies/)
+- [Norwegian mass killer begins 2nd attempt to sue state for alleged breach of rights](https://www.reddit.com/r/news/comments/191nsbr/norwegian_mass_killer_begins_2nd_attempt_to_sue/)
+- [Iowa school shooter appeared to be active on Discord and discussed ‘gearing up’ in moments before attack](https://www.reddit.com/r/news/comments/191nlfx/iowa_school_shooter_appeared_to_be_active_on/)
 <!-- REDDIT:END -->
 
 
