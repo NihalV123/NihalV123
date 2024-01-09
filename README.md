@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Driver crashes into White House exterior gate, Secret Service says](https://www.reddit.com/r/news/comments/1925vrr/driver_crashes_into_white_house_exterior_gate/)
+- [Arrest warrant issued for Montana man accused of killing thousands of birds, including eagles](https://www.reddit.com/r/news/comments/19242ml/arrest_warrant_issued_for_montana_man_accused_of/)
+- [Scientists find about a quarter million invisible nanoplastic particles in a liter of bottled water](https://www.reddit.com/r/news/comments/1922msb/scientists_find_about_a_quarter_million_invisible/)
+- [Special counsel Jack Smith was targeted by attempted swatting on Christmas Day](https://www.reddit.com/r/news/comments/1921x8x/special_counsel_jack_smith_was_targeted_by/)
+- [National Association of Realtors president says she is resigning after blackmail threat](https://www.reddit.com/r/news/comments/1921wmr/national_association_of_realtors_president_says/)
 <!-- REDDIT:END -->
 
 
