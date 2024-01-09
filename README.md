@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US to invest $1bn in plan to move from diesel to electric school buses | US news](https://www.reddit.com/r/news/comments/191zpa9/us_to_invest_1bn_in_plan_to_move_from_diesel_to/)
+- [Five companies agree to pay $7.2 million for polluting two Ohio creeks](https://www.reddit.com/r/news/comments/191z6t9/five_companies_agree_to_pay_72_million_for/)
+- [Biden, Saudis call for Israeli restraint as Gaza suffers another bloody day](https://www.reddit.com/r/news/comments/191z4mn/biden_saudis_call_for_israeli_restraint_as_gaza/)
+- [A 98-year-old Nevadan receives France&#39;s highest honor for his service in WWII](https://www.reddit.com/r/news/comments/191ydm3/a_98yearold_nevadan_receives_frances_highest/)
+- [Explosion in downtown Fort Worth injures as many as 10, fire dept. says](https://www.reddit.com/r/news/comments/191y6c2/explosion_in_downtown_fort_worth_injures_as_many/)
 <!-- REDDIT:END -->
 
 
