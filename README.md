@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elderly Couple Found Dead In Home, Heater Was at 1000 Degrees: Cops](https://www.reddit.com/r/news/comments/192tq7w/elderly_couple_found_dead_in_home_heater_was_at/)
+- [Ecuador declares ‘internal armed conflict’ as gunmen take over live TV broadcast | CNN](https://www.reddit.com/r/news/comments/192rnum/ecuador_declares_internal_armed_conflict_as/)
+- [Power companies paid civil rights leaders in the US south. They became loyal industry advocates | A joint investigation by Floodlight and Capital B shows millions of dollars flowed from utilities to Black leaders and their groups since at least 2009](https://www.reddit.com/r/news/comments/192qzvf/power_companies_paid_civil_rights_leaders_in_the/)
+- [NASA delays astronaut moon landing to at least 2026](https://www.reddit.com/r/news/comments/192q2u7/nasa_delays_astronaut_moon_landing_to_at_least/)
+- [A secret tunnel in a NYC synagogue leads to a brawl between police and worshippers](https://www.reddit.com/r/news/comments/192pxfd/a_secret_tunnel_in_a_nyc_synagogue_leads_to_a/)
 <!-- REDDIT:END -->
 
 
