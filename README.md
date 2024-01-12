@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [AI-powered misinformation is the world&#39;s biggest short-term threat, Davos report says](https://www.reddit.com/r/news/comments/194r0yn/aipowered_misinformation_is_the_worlds_biggest/)
+- [Chinese migrants lured to Oklahoma marijuana farms victims of sex, labor trafficking, Drummond says](https://www.reddit.com/r/news/comments/194p916/chinese_migrants_lured_to_oklahoma_marijuana/)
+- [Britain to increase Ukraine support to £2.5bn, Rishi Sunak announces](https://www.reddit.com/r/news/comments/194p4u6/britain_to_increase_ukraine_support_to_25bn_rishi/)
+- [Texas blocks federal border agents from processing migrants in Eagle Pass public park](https://www.reddit.com/r/news/comments/194p4t6/texas_blocks_federal_border_agents_from/)
+- [U.S.-led coalition strikes Iran-aligned Houthi militants in Yemen](https://www.reddit.com/r/news/comments/194oyvg/usled_coalition_strikes_iranaligned_houthi/)
 <!-- REDDIT:END -->
 
 
