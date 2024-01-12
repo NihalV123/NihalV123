@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Abortion initiative hits milestone for getting in front of Florida voters](https://www.reddit.com/r/news/comments/194mcba/abortion_initiative_hits_milestone_for_getting_in/)
+- [A Houston rapper allegedly held a woman captive in his garage for years. His attorney says there’s more to the story | CNN](https://www.reddit.com/r/news/comments/194lqyp/a_houston_rapper_allegedly_held_a_woman_captive/)
+- [Huge ancient city found in the Amazon](https://www.reddit.com/r/news/comments/194l0gq/huge_ancient_city_found_in_the_amazon/)
+- [Philadelphia measles outbreak has hospitals on alert after child was sent to day care despite quarantine instructions](https://www.reddit.com/r/news/comments/194hauw/philadelphia_measles_outbreak_has_hospitals_on/)
+- [Hertz is selling 1/3 of its electric cars to buy gas cars instead | CNN Business](https://www.reddit.com/r/news/comments/194h126/hertz_is_selling_13_of_its_electric_cars_to_buy/)
 <!-- REDDIT:END -->
 
 
