@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Last Hawaiian princess&#39; leaves $100 million to Native Hawaiian causes](https://www.reddit.com/r/news/comments/1950jsc/last_hawaiian_princess_leaves_100_million_to/)
+- [Record-breaking cold weather forecast for many states in weekend storm](https://www.reddit.com/r/news/comments/194z6u1/recordbreaking_cold_weather_forecast_for_many/)
+- [North Carolina man convicted of hate crime charges in 2 separate confrontations](https://www.reddit.com/r/news/comments/194z4t4/north_carolina_man_convicted_of_hate_crime/)
+- [Phoenix seeks to end Justice Department probe of its police department without court supervision](https://www.reddit.com/r/news/comments/194y8pq/phoenix_seeks_to_end_justice_department_probe_of/)
+- [Delta to buy 20 Airbus A350-1000 widebody planes](https://www.reddit.com/r/news/comments/194y4pb/delta_to_buy_20_airbus_a3501000_widebody_planes/)
 <!-- REDDIT:END -->
 
 
