@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Philadelphia measles outbreak has hospitals on alert after child was sent to day care despite quarantine instructions](https://www.reddit.com/r/news/comments/194hauw/philadelphia_measles_outbreak_has_hospitals_on/)
+- [Hertz is selling 1/3 of its electric cars to buy gas cars instead | CNN Business](https://www.reddit.com/r/news/comments/194h126/hertz_is_selling_13_of_its_electric_cars_to_buy/)
+- [Middle East crisis: Explosions heard in Sanaa as strikes launched against Houthi-linked targets](https://www.reddit.com/r/news/comments/194gmws/middle_east_crisis_explosions_heard_in_sanaa_as/)
+- [US, British militaries launch massive retaliatory strike against Iranian-backed Houthis in Yemen](https://www.reddit.com/r/news/comments/194gly1/us_british_militaries_launch_massive_retaliatory/)
+- [US and UK prepare to launch strikes against Houthis in Yemen](https://www.reddit.com/r/news/comments/194cwmo/us_and_uk_prepare_to_launch_strikes_against/)
 <!-- REDDIT:END -->
 
 
