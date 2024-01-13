@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Over 2,000 Flights Cancelled Nationwide Today As Travelers Brace for a Huge Snow Storm](https://www.reddit.com/r/news/comments/1956lrr/over_2000_flights_cancelled_nationwide_today_as/)
+- [‘Something wrong’: Mother buys candy for 6-year-old son, realizes later it was Delta-9](https://www.reddit.com/r/news/comments/195679j/something_wrong_mother_buys_candy_for_6yearold/)
+- [Texas is blocking U.S. border agents from patrolling, Biden administration tells Supreme Court](https://www.reddit.com/r/news/comments/195660e/texas_is_blocking_us_border_agents_from/)
+- [Judge orders Trump to pay nearly $400,000 for New York Times&#39; legal fees](https://www.reddit.com/r/news/comments/1955m5z/judge_orders_trump_to_pay_nearly_400000_for_new/)
+- [Ohio woman charged after allegedly pretending her daughter had cancer to collect donations](https://www.reddit.com/r/news/comments/1954g1p/ohio_woman_charged_after_allegedly_pretending_her/)
 <!-- REDDIT:END -->
 
 
