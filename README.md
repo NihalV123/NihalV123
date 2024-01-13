@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Supreme Court will decide whether local anti-homeless laws are &#39;cruel and unusual&#39;](https://www.reddit.com/r/news/comments/195tgzd/the_supreme_court_will_decide_whether_local/)
+- [Ban on guns in post offices is unconstitutional, US judge rules](https://www.reddit.com/r/news/comments/195sjbg/ban_on_guns_in_post_offices_is_unconstitutional/)
+- [Ukraine attacked overnight by 40 Russian missiles, drones, air force says](https://www.reddit.com/r/news/comments/195saub/ukraine_attacked_overnight_by_40_russian_missiles/)
+- [IRS says it collected $360 million more from rich tax cheats as its funding is threatened yet again](https://www.reddit.com/r/news/comments/195rbry/irs_says_it_collected_360_million_more_from_rich/)
+- [Behavioral crisis at the root of climate breakdown, say scientists](https://www.reddit.com/r/news/comments/195qzlg/behavioral_crisis_at_the_root_of_climate/)
 <!-- REDDIT:END -->
 
 
