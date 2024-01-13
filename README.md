@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Number of Americans in their 100s expected to quadruple in the next 30 years](https://www.reddit.com/r/news/comments/195f3fy/number_of_americans_in_their_100s_expected_to/)
+- [US military strikes another Houthi-controlled site after warning ships to avoid parts of Red Sea](https://www.reddit.com/r/news/comments/195ceuz/us_military_strikes_another_houthicontrolled_site/)
+- [Man sues dozens over Facebook dating group&#39;s negative reviews of him](https://www.reddit.com/r/news/comments/195ae8u/man_sues_dozens_over_facebook_dating_groups/)
+- [Somerset: Bodycam footage shows moment former Lidl worker who plotted mass murder at school is shot by police](https://www.reddit.com/r/news/comments/19592dw/somerset_bodycam_footage_shows_moment_former_lidl/)
+- [Italy refuses to extradite priest accused of murder and torture to Argentina](https://www.reddit.com/r/news/comments/1956tiv/italy_refuses_to_extradite_priest_accused_of/)
 <!-- REDDIT:END -->
 
 
