@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas &quot;physically barred&quot; Border Patrol agents from trying to rescue migrants who drowned, federal officials say](https://www.reddit.com/r/news/comments/19679rb/texas_physically_barred_border_patrol_agents_from/)
+- [Russian Orthodox priest faces expulsion for refusing to pray for victory over Ukraine | Russia](https://www.reddit.com/r/news/comments/1966yb3/russian_orthodox_priest_faces_expulsion_for/)
+- [A mudslide in Colombia has killed at least 34 people and injured dozens of others](https://www.reddit.com/r/news/comments/1965t22/a_mudslide_in_colombia_has_killed_at_least_34/)
+- [Turkey strikes at Kurdish militants in Iraq and Syria after deadly military base attack](https://www.reddit.com/r/news/comments/1964mwt/turkey_strikes_at_kurdish_militants_in_iraq_and/)
+- [US congressional leaders agree on stopgap funding bill, source says](https://www.reddit.com/r/news/comments/1964k7b/us_congressional_leaders_agree_on_stopgap_funding/)
 <!-- REDDIT:END -->
 
 
