@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [State trooper plunges into icy Vermont pond to save 8-year-old girl](https://www.reddit.com/r/news/comments/196trze/state_trooper_plunges_into_icy_vermont_pond_to/)
+- [Grand Canyon University, already fined $37.7M, faces new federal inquiry](https://www.reddit.com/r/news/comments/196tcnm/grand_canyon_university_already_fined_377m_faces/)
+- [NRA’s ex-CFO testified he charged group for his Texas to Virginia commute for 3 years](https://www.reddit.com/r/news/comments/196og2s/nras_excfo_testified_he_charged_group_for_his/)
+- [Big Tech not done with layoffs as Google, Amazon announce cuts in 2024](https://www.reddit.com/r/news/comments/196oc7y/big_tech_not_done_with_layoffs_as_google_amazon/)
+- [Kelly-Moore Paints To Go Out of Business, Close 5 Stores in San Francisco](https://www.reddit.com/r/news/comments/196ob1z/kellymoore_paints_to_go_out_of_business_close_5/)
 <!-- REDDIT:END -->
 
 
