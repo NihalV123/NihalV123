@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arctic cold envelops U.S., disrupts Iowa campaigning](https://www.reddit.com/r/news/comments/1974c2t/arctic_cold_envelops_us_disrupts_iowa_campaigning/)
+- [US says it shot down anti-ship cruise missile from Houthi-controlled areas](https://www.reddit.com/r/news/comments/1973vxy/us_says_it_shot_down_antiship_cruise_missile_from/)
+- [China&#39;s military and government acquire Nvidia chips despite U.S. ban](https://www.reddit.com/r/news/comments/1973qrd/chinas_military_and_government_acquire_nvidia/)
+- [The wealth of the world’s five richest men more than doubled since 2020](https://www.reddit.com/r/news/comments/1973czp/the_wealth_of_the_worlds_five_richest_men_more/)
+- [Pope encourages Marxists and Christians to fight corruption, uphold rule-of-law](https://www.reddit.com/r/news/comments/1970u18/pope_encourages_marxists_and_christians_to_fight/)
 <!-- REDDIT:END -->
 
 
