@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine says it shot down Russian A-50 spy plane](https://www.reddit.com/r/news/comments/197p2zk/ukraine_says_it_shot_down_russian_a50_spy_plane/)
+- [Iran’s Revolutionary Guard attack ‘anti-Iranian’ groups in Iraq’s Erbil](https://www.reddit.com/r/news/comments/197oj6w/irans_revolutionary_guard_attack_antiiranian/)
+- [6 people missing from St. Louis area believed to be in clutches of online cult](https://www.reddit.com/r/news/comments/197o92q/6_people_missing_from_st_louis_area_believed_to/)
+- [Friends Demand Answers After 3 Men Found Dead at Kansas City Home Days After Watching Football Game](https://www.reddit.com/r/news/comments/197mcrt/friends_demand_answers_after_3_men_found_dead_at/)
+- [Hot air balloon crash in Arizona desert leaves 4 dead and 1 critically injured, police say](https://www.reddit.com/r/news/comments/197llxo/hot_air_balloon_crash_in_arizona_desert_leaves_4/)
 <!-- REDDIT:END -->
 
 
