@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US condemns Iran for &#39;reckless&#39; missile strikes on northern Iraq](https://www.reddit.com/r/news/comments/19806uc/us_condemns_iran_for_reckless_missile_strikes_on/)
+- [New Zealand government rejects Ardern-era bid to lower voting age](https://www.reddit.com/r/news/comments/197zzzm/new_zealand_government_rejects_ardernera_bid_to/)
+- [Greenland startup begins shipping glacier ice to cocktail bars in the UAE | Greenland](https://www.reddit.com/r/news/comments/197sy7e/greenland_startup_begins_shipping_glacier_ice_to/)
+- [Man who claimed wildfires were a government conspiracy pleads guilty to setting 14 fires](https://www.reddit.com/r/news/comments/197qt03/man_who_claimed_wildfires_were_a_government/)
+- [Ukraine says it shot down Russian A-50 spy plane](https://www.reddit.com/r/news/comments/197p2zk/ukraine_says_it_shot_down_russian_a50_spy_plane/)
 <!-- REDDIT:END -->
 
 
