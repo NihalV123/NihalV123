@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Greenland startup begins shipping glacier ice to cocktail bars in the UAE | Greenland](https://www.reddit.com/r/news/comments/197sy7e/greenland_startup_begins_shipping_glacier_ice_to/)
+- [Man who claimed wildfires were a government conspiracy pleads guilty to setting 14 fires](https://www.reddit.com/r/news/comments/197qt03/man_who_claimed_wildfires_were_a_government/)
+- [Ukraine says it shot down Russian A-50 spy plane](https://www.reddit.com/r/news/comments/197p2zk/ukraine_says_it_shot_down_russian_a50_spy_plane/)
+- [Iran’s Revolutionary Guard attack ‘anti-Iranian’ groups in Iraq’s Erbil](https://www.reddit.com/r/news/comments/197oj6w/irans_revolutionary_guard_attack_antiiranian/)
+- [6 people missing from St. Louis area believed to be in clutches of online cult](https://www.reddit.com/r/news/comments/197o92q/6_people_missing_from_st_louis_area_believed_to/)
 <!-- REDDIT:END -->
 
 
