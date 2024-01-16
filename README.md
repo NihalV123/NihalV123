@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. forces recovered Iranian warheads in Navy SEAL mission gone awry](https://www.reddit.com/r/news/comments/198842m/us_forces_recovered_iranian_warheads_in_navy_seal/)
+- [Google and Bing put nonconsensual deepfake porn at the top of some search results](https://www.reddit.com/r/news/comments/1987zqq/google_and_bing_put_nonconsensual_deepfake_porn/)
+- [Washington state sues to block proposed merger of Kroger and Albertsons grocery chains](https://www.reddit.com/r/news/comments/1987sgp/washington_state_sues_to_block_proposed_merger_of/)
+- [US targets Houthi anti-ship missiles in new strike on Yemen, officials say](https://www.reddit.com/r/news/comments/1987mw1/us_targets_houthi_antiship_missiles_in_new_strike/)
+- [Lloyd Austin&#39;s surgery resulted in hospitalization.](https://www.reddit.com/r/news/comments/19869a3/lloyd_austins_surgery_resulted_in_hospitalization/)
 <!-- REDDIT:END -->
 
 
