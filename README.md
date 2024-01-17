@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tax our wealth, super-rich tell politicians at Davos](https://www.reddit.com/r/news/comments/198ui1m/tax_our_wealth_superrich_tell_politicians_at_davos/)
+- [Man’s plan to bomb Satanic Temple is thwarted, MA cops say. ‘He walked in our midst’](https://www.reddit.com/r/news/comments/198tg3e/mans_plan_to_bomb_satanic_temple_is_thwarted_ma/)
+- [US, South Korea and Japan conduct naval drills as tensions deepen with North Korea](https://www.reddit.com/r/news/comments/198s3kx/us_south_korea_and_japan_conduct_naval_drills_as/)
+- [Man who killed his estranged wife outside school was facing domestic violence charges | CBC News](https://www.reddit.com/r/news/comments/198olhv/man_who_killed_his_estranged_wife_outside_school/)
+- [‘Giving us oxygen’: Italy turns to Cuba to help revive ailing health system](https://www.reddit.com/r/news/comments/198ntfm/giving_us_oxygen_italy_turns_to_cuba_to_help/)
 <!-- REDDIT:END -->
 
 
