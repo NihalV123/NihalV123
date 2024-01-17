@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Blinken grounded in Davos as plane has &#39;critical failure&#39;](https://www.reddit.com/r/news/comments/1992kdt/blinken_grounded_in_davos_as_plane_has_critical/)
+- [Italian province orders all dogs to be DNA tested in poo crackdown | Animals](https://www.reddit.com/r/news/comments/1991vvs/italian_province_orders_all_dogs_to_be_dna_tested/)
+- [Overdraft fees could drop to as low as $3 under new Biden proposal](https://www.reddit.com/r/news/comments/1990zqe/overdraft_fees_could_drop_to_as_low_as_3_under/)
+- [&#39;It&#39;s the wrong house&#39;: Audio of Ohio police raid that left a baby injured raises new questions](https://www.reddit.com/r/news/comments/1990sm6/its_the_wrong_house_audio_of_ohio_police_raid/)
+- [US relists Houthis as terrorists in response to Red Sea attacks](https://www.reddit.com/r/news/comments/19908nm/us_relists_houthis_as_terrorists_in_response_to/)
 <!-- REDDIT:END -->
 
 
