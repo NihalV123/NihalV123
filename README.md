@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Evidence points to systematic use of rape and sexual violence by Hamas in 7 October attacks](https://www.reddit.com/r/news/comments/199sbgm/evidence_points_to_systematic_use_of_rape_and/)
+- [Uvalde school massacre could have been stopped sooner, DOJ report finds](https://www.reddit.com/r/news/comments/199s8ko/uvalde_school_massacre_could_have_been_stopped/)
+- [Plan for $400 million monkey-breeding facility in southwest Georgia draws protest](https://www.reddit.com/r/news/comments/199rxst/plan_for_400_million_monkeybreeding_facility_in/)
+- [Spelman College receives historic $100 million donation](https://www.reddit.com/r/news/comments/199rjf7/spelman_college_receives_historic_100_million/)
+- [RCMP officers mocked people being arrested at Wet&#39;suwet&#39;en blockade as &#39;orcs&#39; and &#39;ogre&#39;](https://www.reddit.com/r/news/comments/199qgqy/rcmp_officers_mocked_people_being_arrested_at/)
 <!-- REDDIT:END -->
 
 
