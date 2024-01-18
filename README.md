@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Good boy’: dog saves Philadelphia neighborhood from potentially explosive gas leak](https://www.reddit.com/r/news/comments/199o9qh/good_boy_dog_saves_philadelphia_neighborhood_from/)
+- [India defends Iran, cites its position against terrorism](https://www.reddit.com/r/news/comments/199lxqs/india_defends_iran_cites_its_position_against/)
+- [Pakistan strikes inside Iran against militant targets, stokes regional tensions](https://www.reddit.com/r/news/comments/199l82d/pakistan_strikes_inside_iran_against_militant/)
+- [Iran to hold large-scale military exercises near southeast border with Pakistan](https://www.reddit.com/r/news/comments/199kce2/iran_to_hold_largescale_military_exercises_near/)
+- [Supreme Court Hears Key Case That Could Strangle Power of US Federal Agencies](https://www.reddit.com/r/news/comments/199h1kd/supreme_court_hears_key_case_that_could_strangle/)
 <!-- REDDIT:END -->
 
 
