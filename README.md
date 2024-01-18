@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court Hears Key Case That Could Strangle Power of US Federal Agencies](https://www.reddit.com/r/news/comments/199h1kd/supreme_court_hears_key_case_that_could_strangle/)
+- [Colon cancer is killing more younger men and women than ever, new report finds](https://www.reddit.com/r/news/comments/199gx3x/colon_cancer_is_killing_more_younger_men_and/)
+- [Capitol rioter who assaulted at least 6 police officers is sentenced to 5 years in prison](https://www.reddit.com/r/news/comments/199f3j8/capitol_rioter_who_assaulted_at_least_6_police/)
+- [France to reform parental leave after births hit post-war low](https://www.reddit.com/r/news/comments/199e6hc/france_to_reform_parental_leave_after_births_hit/)
+- [Arnold Schwarzenegger held at Munich airport over luxury watch | Arnold Schwarzenegger](https://www.reddit.com/r/news/comments/1999dz0/arnold_schwarzenegger_held_at_munich_airport_over/)
 <!-- REDDIT:END -->
 
 
