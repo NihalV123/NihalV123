@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arnold Schwarzenegger held at Munich airport over luxury watch | Arnold Schwarzenegger](https://www.reddit.com/r/news/comments/1999dz0/arnold_schwarzenegger_held_at_munich_airport_over/)
+- [Conservative Supreme Court justices consider weakening federal agency power](https://www.reddit.com/r/news/comments/1998n5w/conservative_supreme_court_justices_consider/)
+- [Apex man charged in deadly shooting is former Army captain, could face the death penalty](https://www.reddit.com/r/news/comments/1997buw/apex_man_charged_in_deadly_shooting_is_former/)
+- [Club Q shooter will plead guilty to 74 counts of federal hate and gun crimes, while prosecutors won’t seek death penalty](https://www.reddit.com/r/news/comments/1997a2n/club_q_shooter_will_plead_guilty_to_74_counts_of/)
+- [Warriors assistant coach Dejan Milojevic dies at 46 from heart attack](https://www.reddit.com/r/news/comments/19976er/warriors_assistant_coach_dejan_milojevic_dies_at/)
 <!-- REDDIT:END -->
 
 
