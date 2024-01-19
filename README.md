@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sports Illustrated lays off most of its staff](https://www.reddit.com/r/news/comments/19aoxzq/sports_illustrated_lays_off_most_of_its_staff/)
+- [The U.S. just expanded its territory by a million square kilometers](https://www.reddit.com/r/news/comments/19an0if/the_us_just_expanded_its_territory_by_a_million/)
+- [Last year’s home sales were the lowest since 1995](https://www.reddit.com/r/news/comments/19amvri/last_years_home_sales_were_the_lowest_since_1995/)
+- [Japan becomes fifth country to land on the moon with JAXA&#39;s SLIM spacecraft](https://www.reddit.com/r/news/comments/19alw9j/japan_becomes_fifth_country_to_land_on_the_moon/)
+- [Boss of British Gas owner says it is ‘impossible to justify’ his £4.5m pay](https://www.reddit.com/r/news/comments/19alorc/boss_of_british_gas_owner_says_it_is_impossible/)
 <!-- REDDIT:END -->
 
 
