@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scott Peterson case taken up by Los Angeles Innocence Project](https://www.reddit.com/r/news/comments/19a9t2l/scott_peterson_case_taken_up_by_los_angeles/)
+- [Purina Says its Pet Food is Safe as Allegations About Sick Animals Multiply on Social Media](https://www.reddit.com/r/news/comments/19a9423/purina_says_its_pet_food_is_safe_as_allegations/)
+- [Think twice before stopping to take photo on a Las Vegas Strip pedestrian bridge, or risk jail time](https://www.reddit.com/r/news/comments/19a8s5o/think_twice_before_stopping_to_take_photo_on_a/)
+- [Largest deep-sea coral reef to date is mapped by scientists off the US Atlantic coast](https://www.reddit.com/r/news/comments/19a8g3q/largest_deepsea_coral_reef_to_date_is_mapped_by/)
+- [Police say five people killed in a drive-by shooting in Puerto Rico](https://www.reddit.com/r/news/comments/19a80as/police_say_five_people_killed_in_a_driveby/)
 <!-- REDDIT:END -->
 
 
