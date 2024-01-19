@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cryptocurrency like Beanie Babies, says Coinbase in US regulator’s lawsuit](https://www.reddit.com/r/news/comments/19a59qs/cryptocurrency_like_beanie_babies_says_coinbase/)
+- [Reddit seeks to launch IPO in March](https://www.reddit.com/r/news/comments/19a3ih4/reddit_seeks_to_launch_ipo_in_march/)
+- [Biggest NATO drills since Cold War to start next week](https://www.reddit.com/r/news/comments/19a362f/biggest_nato_drills_since_cold_war_to_start_next/)
+- [Meta Documents Show 100,000 Children Sexually Harassed Daily on its Platforms](https://www.reddit.com/r/news/comments/19a341w/meta_documents_show_100000_children_sexually/)
+- [Israel’s Netanyahu reiterates rejection of Palestinian state after Gaza war | Israel War on Gaza News](https://www.reddit.com/r/news/comments/19a2ue8/israels_netanyahu_reiterates_rejection_of/)
 <!-- REDDIT:END -->
 
 
