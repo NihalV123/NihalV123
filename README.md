@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Small plane that crashed off California coast was among a growing number of home-built aircraft](https://www.reddit.com/r/news/comments/19ax256/small_plane_that_crashed_off_california_coast_was/)
+- [Half of Recent US Inflation Due to High Corporate Profits, Report Finds | Inflation](https://www.reddit.com/r/news/comments/19avcb2/half_of_recent_us_inflation_due_to_high_corporate/)
+- [Sports Illustrated lays off most of its staff, threatening iconic brand’s future](https://www.reddit.com/r/news/comments/19auvtj/sports_illustrated_lays_off_most_of_its_staff/)
+- [Ala. inmate asking federal appeals court to block first-ever nitrogen gas execution](https://www.reddit.com/r/news/comments/19asqxd/ala_inmate_asking_federal_appeals_court_to_block/)
+- [Maine has a Workforce Shortage Problem that it Hopes to Resolve with Recently Arrived Immigrants](https://www.reddit.com/r/news/comments/19ary7x/maine_has_a_workforce_shortage_problem_that_it/)
 <!-- REDDIT:END -->
 
 
