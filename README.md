@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A man accused of stabbing a police dog with a screwdriver during a standoff in New Hampshire died Friday, hours after he was shot by police, officials said](https://www.reddit.com/r/news/comments/19bx9i7/a_man_accused_of_stabbing_a_police_dog_with_a/)
+- [A lost flashlight caused $4 million in damage inside an F-35 engine](https://www.reddit.com/r/news/comments/19bsspb/a_lost_flashlight_caused_4_million_in_damage/)
+- [Adam Harrison, well known as the son of Rick Harrison from hit show, Pawn Stars, has died of an overdose, age 39.](https://www.reddit.com/r/news/comments/19bs49g/adam_harrison_well_known_as_the_son_of_rick/)
+- [South Korea: Police chief charged over Seoul Halloween crush](https://www.reddit.com/r/news/comments/19bs06i/south_korea_police_chief_charged_over_seoul/)
+- [Ex-Obama official Stuart Seldowitz gets plea deal in NYC hate crime case](https://www.reddit.com/r/news/comments/19bqy8x/exobama_official_stuart_seldowitz_gets_plea_deal/)
 <!-- REDDIT:END -->
 
 
