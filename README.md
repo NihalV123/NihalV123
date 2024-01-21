@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Obama official Stuart Seldowitz gets plea deal in NYC hate crime case](https://www.reddit.com/r/news/comments/19bqy8x/exobama_official_stuart_seldowitz_gets_plea_deal/)
+- [Senior Iran Revolutionary Guard officials killed in Syria strike blamed on Israel](https://www.reddit.com/r/news/comments/19bitqh/senior_iran_revolutionary_guard_officials_killed/)
+- [Two Royal Navy warships collide off coast of Bahrain](https://www.reddit.com/r/news/comments/19bhoem/two_royal_navy_warships_collide_off_coast_of/)
+- [Woman Fatally Shot Husband, Two Daughters Before Turning Gun on Herself, New Jersey Prosecutor Says](https://www.reddit.com/r/news/comments/19bfs0y/woman_fatally_shot_husband_two_daughters_before/)
+- [Dog with six legs has operation to remove extra limbs](https://www.reddit.com/r/news/comments/19bdx0c/dog_with_six_legs_has_operation_to_remove_extra/)
 <!-- REDDIT:END -->
 
 
