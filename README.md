@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hundreds of thousands demonstrate against right-wing extremism in Germany](https://www.reddit.com/r/news/comments/19csybi/hundreds_of_thousands_demonstrate_against/)
+- [Growing Oct. 7 ‘truther’ groups say Hamas massacre was a false flag](https://www.reddit.com/r/news/comments/19cspgr/growing_oct_7_truther_groups_say_hamas_massacre/)
+- [Florida man plays DEFTONES and SYSTEM OF A DOWN during brain surgery](https://www.reddit.com/r/news/comments/19cr7px/florida_man_plays_deftones_and_system_of_a_down/)
+- [UK parcel firm disables AI after poetic bot goes rogue](https://www.reddit.com/r/news/comments/19cohru/uk_parcel_firm_disables_ai_after_poetic_bot_goes/)
+- [Dunlap 1st amateur winner on PGA Tour since &#39;91](https://www.reddit.com/r/news/comments/19cl3av/dunlap_1st_amateur_winner_on_pga_tour_since_91/)
 <!-- REDDIT:END -->
 
 
