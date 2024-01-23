@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man in standoff with Contra Costa County SWAT team after shooting, killing wife](https://www.reddit.com/r/news/comments/19dmw0d/man_in_standoff_with_contra_costa_county_swat/)
+- [Illinois mass shooting suspect dies in Texas - police](https://www.reddit.com/r/news/comments/19dmfmo/illinois_mass_shooting_suspect_dies_in_texas/)
+- [UN High Commissioner for Refugees Visited Underground School in Kharkiv](https://www.reddit.com/r/news/comments/19djzs5/un_high_commissioner_for_refugees_visited/)
+- [At least 16 cemeteries in Gaza have been desecrated by Israeli forces, satellite imagery and videos reveal](https://www.reddit.com/r/news/comments/19djoqw/at_least_16_cemeteries_in_gaza_have_been/)
+- [Illinois mass shooting suspect dies in Texas - police](https://www.reddit.com/r/news/comments/19dhrfk/illinois_mass_shooting_suspect_dies_in_texas/)
 <!-- REDDIT:END -->
 
 
