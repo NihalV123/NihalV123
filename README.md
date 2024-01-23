@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US FTC bars TurboTax maker Intuit from advertising &#39;free&#39; services](https://www.reddit.com/r/news/comments/19dhnk9/us_ftc_bars_turbotax_maker_intuit_from/)
+- [FTC bans TurboTax from advertising ‘free’ services, calls it deceptive | CNN Business](https://www.reddit.com/r/news/comments/19de5hi/ftc_bans_turbotax_from_advertising_free_services/)
+- [Chicago area CEO killed in freak accident at party for Vistex employees](https://www.reddit.com/r/news/comments/19de42z/chicago_area_ceo_killed_in_freak_accident_at/)
+- [Fate of most remaining Zantac lawsuits weighed by Delaware judge](https://www.reddit.com/r/news/comments/19ddxw5/fate_of_most_remaining_zantac_lawsuits_weighed_by/)
+- [Manhunt underway after 8 people killed in Illinois: police](https://www.reddit.com/r/news/comments/19dd3ij/manhunt_underway_after_8_people_killed_in/)
 <!-- REDDIT:END -->
 
 
