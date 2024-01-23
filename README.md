@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran to execute protester with mental health condition on Tuesday, says lawyer](https://www.reddit.com/r/news/comments/19dbp5o/iran_to_execute_protester_with_mental_health/)
+- [Supreme Court allows federal agents to cut razor wire Texas installed on US-Mexico border](https://www.reddit.com/r/news/comments/19d8dw7/supreme_court_allows_federal_agents_to_cut_razor/)
+- [Cubs Hall of Famer Ryne Sandberg diagnosed with cancer](https://www.reddit.com/r/news/comments/19d8833/cubs_hall_of_famer_ryne_sandberg_diagnosed_with/)
+- [Nearly 30,000 California State University workers set to strike](https://www.reddit.com/r/news/comments/19d3uvb/nearly_30000_california_state_university_workers/)
+- [Ice Rescue on Lake Erie](https://www.reddit.com/r/news/comments/19d3p42/ice_rescue_on_lake_erie/)
 <!-- REDDIT:END -->
 
 
