@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Libs of TikTok creator accused of inspiring school bomb threats named to state library board](https://www.reddit.com/r/news/comments/19e3ht9/libs_of_tiktok_creator_accused_of_inspiring/)
+- [Passaic County Sheriff Richard Berdnik fatally shoots himself inside Clifton restaurant](https://www.reddit.com/r/news/comments/19e1v74/passaic_county_sheriff_richard_berdnik_fatally/)
+- [NYPD investigates &#39;serious crimes&#39; in apparent attack on Pro-Palestinian protesters](https://www.reddit.com/r/news/comments/19e0mws/nypd_investigates_serious_crimes_in_apparent/)
+- [New York man convicted of murdering woman who wound up in his backcountry driveway after wrong turn](https://www.reddit.com/r/news/comments/19e0epf/new_york_man_convicted_of_murdering_woman_who/)
+- [Michigan shooter Ethan Crumbley may refuse to testify as first of parents&#39; trials opens with jury selection](https://www.reddit.com/r/news/comments/19e02te/michigan_shooter_ethan_crumbley_may_refuse_to/)
 <!-- REDDIT:END -->
 
 
