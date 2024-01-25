@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [81-year-old Florida woman shot, killed by deputy after lunging at him with knife: officials](https://www.reddit.com/r/news/comments/19f0egy/81yearold_florida_woman_shot_killed_by_deputy/)
+- [HP Bricks Printers That Use Third Party Ink Due To...Hackers](https://www.reddit.com/r/news/comments/19ezdsl/hp_bricks_printers_that_use_third_party_ink_due/)
+- [FAA halts Boeing 737 Max production expansion, but clears path to return Max 9 to service](https://www.reddit.com/r/news/comments/19ewwgf/faa_halts_boeing_737_max_production_expansion_but/)
+- [FDA issues new warning about supplements containing tianeptine](https://www.reddit.com/r/news/comments/19eww14/fda_issues_new_warning_about_supplements/)
+- [Alabama can proceed with first-ever nitrogen gas execution in U.S., appeals court rules](https://www.reddit.com/r/news/comments/19ewino/alabama_can_proceed_with_firstever_nitrogen_gas/)
 <!-- REDDIT:END -->
 
 
