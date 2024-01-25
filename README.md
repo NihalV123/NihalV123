@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An Electric Vehicle was the Top Selling Car In the World in 2023](https://www.reddit.com/r/news/comments/19f7fzp/an_electric_vehicle_was_the_top_selling_car_in/)
+- [Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them](https://www.reddit.com/r/news/comments/19f6sy0/most_top_news_sites_block_ai_bots_rightwing_media/)
+- [Japan court sentences arsonist to death for deadly attack on Kyoto Animation studio](https://www.reddit.com/r/news/comments/19f5ud0/japan_court_sentences_arsonist_to_death_for/)
+- [Nine killed, 75 injured after shells hit Gaza UN centre](https://www.reddit.com/r/news/comments/19f3r16/nine_killed_75_injured_after_shells_hit_gaza_un/)
+- [In-N-Out to close first location in its 75-year history due to a wave of car break-ins and robberies](https://www.reddit.com/r/news/comments/19f2ral/innout_to_close_first_location_in_its_75year/)
 <!-- REDDIT:END -->
 
 
