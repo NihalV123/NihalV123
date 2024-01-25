@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than One-Third of Americans Believe Israel is Committing Genocide, Poll Shows](https://www.reddit.com/r/news/comments/19ev486/more_than_onethird_of_americans_believe_israel_is/)
+- [Proud Boys member gets six years in prison for Capitol riot after insulting judge](https://www.reddit.com/r/news/comments/19eu45w/proud_boys_member_gets_six_years_in_prison_for/)
+- [Ring will no longer allow police to request doorbell camera footage from users](https://www.reddit.com/r/news/comments/19etrr2/ring_will_no_longer_allow_police_to_request/)
+- [More Ivy League Universities Settle Suit Alleging Financial Aid &#39;Scheme&#39; led to Admitting Wealthier Students](https://www.reddit.com/r/news/comments/19et8i9/more_ivy_league_universities_settle_suit_alleging/)
+- [USAISR’s Burn Flight Team sets new record with Australia mission](https://www.reddit.com/r/news/comments/19et7gs/usaisrs_burn_flight_team_sets_new_record_with/)
 <!-- REDDIT:END -->
 
 
