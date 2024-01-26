@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jannik Sinner ends Novak Djokovic&#39;s Aussie reign in semifinals](https://www.reddit.com/r/news/comments/1abfbgk/jannik_sinner_ends_novak_djokovics_aussie_reign/)
+- [Bloomberg: Iran supplies Sudanese army with drones](https://www.reddit.com/r/news/comments/1abex5r/bloomberg_iran_supplies_sudanese_army_with_drones/)
+- [US warned Iran of &#39;terrorist threat&#39; before Jan. 3 attack -official](https://www.reddit.com/r/news/comments/1abe3ws/us_warned_iran_of_terrorist_threat_before_jan_3/)
+- [Japan&#39;s precision moon lander has hit its target, but it appears to be upside-down](https://www.reddit.com/r/news/comments/1abbt4n/japans_precision_moon_lander_has_hit_its_target/)
+- [Texas apartment shooting leaves 3 people dead; shooter still at large](https://www.reddit.com/r/news/comments/1abavq2/texas_apartment_shooting_leaves_3_people_dead/)
 <!-- REDDIT:END -->
 
 
