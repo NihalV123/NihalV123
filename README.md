@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [What happened at the nation&#39;s first nitrogen gas execution: An AP eyewitness account](https://www.reddit.com/r/news/comments/1acgjs3/what_happened_at_the_nations_first_nitrogen_gas/)
+- [Gazans call for Hamas overthrow, flee through IDF humanitarian corridor](https://www.reddit.com/r/news/comments/1acg5pt/gazans_call_for_hamas_overthrow_flee_through_idf/)
+- [Cardell Hayes found guilty in &#39;16 killing of ex-Saints DE Smith](https://www.reddit.com/r/news/comments/1acfzzd/cardell_hayes_found_guilty_in_16_killing_of/)
+- [‘Every noise makes you jumpy’: US election workers confront threats and abuse with resilience training | Election interference](https://www.reddit.com/r/news/comments/1acf45x/every_noise_makes_you_jumpy_us_election_workers/)
+- [Gunmen in Iran kill nine Pakistanis days after tit-for-tat strikes](https://www.reddit.com/r/news/comments/1acemjt/gunmen_in_iran_kill_nine_pakistanis_days_after/)
 <!-- REDDIT:END -->
 
 
