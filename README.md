@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Caught on camera: 35K Pokémon trading cards stolen from San Jose business in odd break-in](https://www.reddit.com/r/news/comments/1ac2mue/caught_on_camera_35k_pokémon_trading_cards_stolen/)
+- [WWE chairman Vince McMahon has resigned from his position, announcing the decision Friday night amid allegations of sexual misconduct from a former staffer.](https://www.reddit.com/r/news/comments/1abzd33/wwe_chairman_vince_mcmahon_has_resigned_from_his/)
+- [California woman gets probation for fatally stabbing man she dated, causing 108 &#39;sharp-force injuries&#39;](https://www.reddit.com/r/news/comments/1abzcdr/california_woman_gets_probation_for_fatally/)
+- [After School Satan Club returns to Jane Addams Elementary School](https://www.reddit.com/r/news/comments/1aby7wn/after_school_satan_club_returns_to_jane_addams/)
+- [Jackie Robinson statue cut down at the ankles, stolen from Wichita park](https://www.reddit.com/r/news/comments/1aby5rb/jackie_robinson_statue_cut_down_at_the_ankles/)
 <!-- REDDIT:END -->
 
 
