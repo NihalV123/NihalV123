@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Aryna Sabalenka rolls to 2nd straight Australian Open title](https://www.reddit.com/r/news/comments/1ac99lf/aryna_sabalenka_rolls_to_2nd_straight_australian/)
+- [Japan sentences man to death for Kyoto anime studio fire that killed 36](https://www.reddit.com/r/news/comments/1ac95qz/japan_sentences_man_to_death_for_kyoto_anime/)
+- [US to announce billions in subsidies for advanced chips- WSJ](https://www.reddit.com/r/news/comments/1ac8oc8/us_to_announce_billions_in_subsidies_for_advanced/)
+- [A man suffering a mental health crisis was shot and killed by the DC Metropolitan Police Department Wednesday, according to officials.](https://www.reddit.com/r/news/comments/1ac59vq/a_man_suffering_a_mental_health_crisis_was_shot/)
+- [China accuses US of ‘dangerous provocations’ after Navy warship sails through Taiwan Strait](https://www.reddit.com/r/news/comments/1ac3sls/china_accuses_us_of_dangerous_provocations_after/)
 <!-- REDDIT:END -->
 
 
