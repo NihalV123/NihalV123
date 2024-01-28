@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mona Lisa: Protesters throw soup at da Vinci painting](https://www.reddit.com/r/news/comments/1ad09gy/mona_lisa_protesters_throw_soup_at_da_vinci/)
+- [What we know about Israel’s allegations against UNRWA staffers in Gaza](https://www.reddit.com/r/news/comments/1aczl7h/what_we_know_about_israels_allegations_against/)
+- [Israel-Hamas war: Germany joins states pausing UNRWA funding – DW – 01/28/2024](https://www.reddit.com/r/news/comments/1aczhyw/israelhamas_war_germany_joins_states_pausing/)
+- [Man in his 80s kills wife, 2 adult children in murder-suicide at Granada Hills home, police say](https://www.reddit.com/r/news/comments/1acx1v6/man_in_his_80s_kills_wife_2_adult_children_in/)
+- [North Korea fires cruise missiles off east coast, says South Korea](https://www.reddit.com/r/news/comments/1acw71v/north_korea_fires_cruise_missiles_off_east_coast/)
 <!-- REDDIT:END -->
 
 
