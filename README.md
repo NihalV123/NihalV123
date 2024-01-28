@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three US troops killed in drone attack in Jordan](https://www.reddit.com/r/news/comments/1ad6zk6/three_us_troops_killed_in_drone_attack_in_jordan/)
+- [Mali, Burkina Faso and Niger quit ECOWAS](https://www.reddit.com/r/news/comments/1ad6k62/mali_burkina_faso_and_niger_quit_ecowas/)
+- [Georgia&#39;s stolen children: Twins sold at birth reunited by TikTok video](https://www.reddit.com/r/news/comments/1ad6hp4/georgias_stolen_children_twins_sold_at_birth/)
+- [Jannik Sinner wins Australian Open, claims first major title](https://www.reddit.com/r/news/comments/1ad21f6/jannik_sinner_wins_australian_open_claims_first/)
+- [Mona Lisa: Protesters throw soup at da Vinci painting](https://www.reddit.com/r/news/comments/1ad09gy/mona_lisa_protesters_throw_soup_at_da_vinci/)
 <!-- REDDIT:END -->
 
 
