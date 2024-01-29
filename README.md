@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alex Formenton turns self in amid Canada juniors inquiry](https://www.reddit.com/r/news/comments/1adgzke/alex_formenton_turns_self_in_amid_canada_juniors/)
+- [After UT Arlington quietly ends LGBTQ+ programs, students demand answers](https://www.reddit.com/r/news/comments/1adgtzn/after_ut_arlington_quietly_ends_lgbtq_programs/)
+- [City Threatens to Condemn Bar:PM Building Over Damage Caused by Cops | St. Louis | St. Louis Riverfront Times](https://www.reddit.com/r/news/comments/1adfdz4/city_threatens_to_condemn_barpm_building_over/)
+- [Pineapple Express headed for California as flooding, wind, snow expected](https://www.reddit.com/r/news/comments/1add43f/pineapple_express_headed_for_california_as/)
+- [Asteroid the size of 64 Canadian geese to pass Earth Tuesday - NASA](https://www.reddit.com/r/news/comments/1adcj65/asteroid_the_size_of_64_canadian_geese_to_pass/)
 <!-- REDDIT:END -->
 
 
