@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan: Moon lander Slim comes back to life and resumes mission](https://www.reddit.com/r/news/comments/1adnsvl/japan_moon_lander_slim_comes_back_to_life_and/)
+- [A North Carolina PFAS factory claims its emissions fell by 99.99%. A Guardian test reveals otherwise | PFAS](https://www.reddit.com/r/news/comments/1adlexc/a_north_carolina_pfas_factory_claims_its/)
+- [Evergrande faces imminent liquidation after talks with top creditors break down - WSJ](https://www.reddit.com/r/news/comments/1adjkzj/evergrande_faces_imminent_liquidation_after_talks/)
+- [Alex Formenton turns self in amid Canada juniors inquiry](https://www.reddit.com/r/news/comments/1adgzke/alex_formenton_turns_self_in_amid_canada_juniors/)
+- [After UT Arlington quietly ends LGBTQ+ programs, students demand answers](https://www.reddit.com/r/news/comments/1adgtzn/after_ut_arlington_quietly_ends_lgbtq_programs/)
 <!-- REDDIT:END -->
 
 
