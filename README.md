@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sydney Harbour shark attack leaves woman severely injured](https://www.reddit.com/r/news/comments/1aeb8y4/sydney_harbour_shark_attack_leaves_woman_severely/)
+- [Israeli ministers attend conference calling for ‘voluntary migration’ of Palestinians](https://www.reddit.com/r/news/comments/1ae8pqe/israeli_ministers_attend_conference_calling_for/)
+- [Woman hospitalized after being pulled from inside of trash truck in New Hampshire](https://www.reddit.com/r/news/comments/1ae8j7o/woman_hospitalized_after_being_pulled_from_inside/)
+- [Maine town grieves top official who died saving four-year-old son from icy pond](https://www.reddit.com/r/news/comments/1ae670s/maine_town_grieves_top_official_who_died_saving/)
+- [Trial begins for 2 accused of killing Run-DMC member over 20 years ago](https://www.reddit.com/r/news/comments/1ae5q3i/trial_begins_for_2_accused_of_killing_rundmc/)
 <!-- REDDIT:END -->
 
 
