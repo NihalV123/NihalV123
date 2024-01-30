@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russia to get Olympic team skating bronze; Canada may challenge](https://www.reddit.com/r/news/comments/1aes8wi/russia_to_get_olympic_team_skating_bronze_canada/)
+- [Imran Khan: Pakistan former PM jailed in state secrets case as election looms](https://www.reddit.com/r/news/comments/1aepp5i/imran_khan_pakistan_former_pm_jailed_in_state/)
+- [UPS announces 12,000 job cuts, says package volume slipped last quarter](https://www.reddit.com/r/news/comments/1aepg0y/ups_announces_12000_job_cuts_says_package_volume/)
+- [Howard-era files on Iraq war went missing due to ‘major breakdown’, inquiry finds](https://www.reddit.com/r/news/comments/1aekzam/howardera_files_on_iraq_war_went_missing_due_to/)
+- [Vietnam, Philippines seal deals on South China Sea security, rice](https://www.reddit.com/r/news/comments/1aeflgn/vietnam_philippines_seal_deals_on_south_china_sea/)
 <!-- REDDIT:END -->
 
 
