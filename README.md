@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Universal Music Group Severs Ties With TikTok, Alleges “Indifference” and “Intimidation” in Open Letter](https://www.reddit.com/r/news/comments/1afmwa2/universal_music_group_severs_ties_with_tiktok/)
+- [Chinese hackers are targeting US infrastructure, FBI chief to testify](https://www.reddit.com/r/news/comments/1afmmjw/chinese_hackers_are_targeting_us_infrastructure/)
+- [Putin challenger submits bid to run for Russian president](https://www.reddit.com/r/news/comments/1aflubn/putin_challenger_submits_bid_to_run_for_russian/)
+- [&#39;I can&#39;t wait:&#39; Raping infant was part of Mississippi man&#39;s birthday trip to Tennessee, police report says | WJAR](https://www.reddit.com/r/news/comments/1afktur/i_cant_wait_raping_infant_was_part_of_mississippi/)
+- [Kataib Hezbollah: Iran-backed group suspends attacks against US after drone strike](https://www.reddit.com/r/news/comments/1afj9he/kataib_hezbollah_iranbacked_group_suspends/)
 <!-- REDDIT:END -->
 
 
