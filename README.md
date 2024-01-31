@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Burned remnants of stolen Jackie Robinson statue found](https://www.reddit.com/r/news/comments/1af3xzg/burned_remnants_of_stolen_jackie_robinson_statue/)
+- [Haiti pushes forward with new program to boost police department overwhelmed by gangs](https://www.reddit.com/r/news/comments/1af2zy7/haiti_pushes_forward_with_new_program_to_boost/)
+- [Report: Texas AG requested records from gender clinic after it was targeted by arsonist](https://www.reddit.com/r/news/comments/1af2puj/report_texas_ag_requested_records_from_gender/)
+- [FAFSA Delays Will Push Back College Financial Aid Timeline by Months](https://www.reddit.com/r/news/comments/1af1ukd/fafsa_delays_will_push_back_college_financial_aid/)
+- [NJ issues 132K doses of naloxone in first year of program to reduce overdose deaths](https://www.reddit.com/r/news/comments/1af1twb/nj_issues_132k_doses_of_naloxone_in_first_year_of/)
 <!-- REDDIT:END -->
 
 
