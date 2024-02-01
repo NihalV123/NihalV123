@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Online news site The Messenger shuts down after less than a year](https://www.reddit.com/r/news/comments/1ag1klo/online_news_site_the_messenger_shuts_down_after/)
+- [Father of American teen killed in West Bank by Israeli fire rails against US support for Israel](https://www.reddit.com/r/news/comments/1ag0gt1/father_of_american_teen_killed_in_west_bank_by/)
+- [Texas AG Paxton sues five cities, including Austin and San Marcos, over marijuana policies](https://www.reddit.com/r/news/comments/1ag02d5/texas_ag_paxton_sues_five_cities_including_austin/)
+- [Mazda Recalls 2024 CX-90 for Steering Issue: What You Need to Know](https://www.reddit.com/r/news/comments/1afzj8n/mazda_recalls_2024_cx90_for_steering_issue_what/)
+- [Donations pour in to replace destroyed Jackie Robinson statue](https://www.reddit.com/r/news/comments/1afz5we/donations_pour_in_to_replace_destroyed_jackie/)
 <!-- REDDIT:END -->
 
 
