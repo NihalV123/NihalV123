@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Judge dismisses Disney’s lawsuit against Florida Gov. Ron DeSantis and his allies](https://www.reddit.com/r/news/comments/1afxz62/judge_dismisses_disneys_lawsuit_against_florida/)
+- [The US pause on LNG exports will not put Europe at risk](https://www.reddit.com/r/news/comments/1afv137/the_us_pause_on_lng_exports_will_not_put_europe/)
+- [Oregon leaders declare 90-day state of emergency in downtown Portland to address fentanyl crisis](https://www.reddit.com/r/news/comments/1afu6i4/oregon_leaders_declare_90day_state_of_emergency/)
+- [Mother of 8-year-old girl killed when she crawled under train to catch bus sentenced to prison | WJAR](https://www.reddit.com/r/news/comments/1afu1ov/mother_of_8yearold_girl_killed_when_she_crawled/)
+- [Federal Reserve signals that interest rate cuts aren’t imminent](https://www.reddit.com/r/news/comments/1afsh5d/federal_reserve_signals_that_interest_rate_cuts/)
 <!-- REDDIT:END -->
 
 
