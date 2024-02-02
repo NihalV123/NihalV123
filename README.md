@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-CIA software engineer sentenced to 40 years for giving secrets to WikiLeaks | CIA](https://www.reddit.com/r/news/comments/1agqrw6/excia_software_engineer_sentenced_to_40_years_for/)
+- [Newest COVID shots are 54 percent effective in preventing symptoms, CDC finds](https://www.reddit.com/r/news/comments/1agq9ie/newest_covid_shots_are_54_percent_effective_in/)
+- [3 dead, others critically hurt during structure collapse in Boise, Idaho](https://www.reddit.com/r/news/comments/1agpevg/3_dead_others_critically_hurt_during_structure/)
+- [Stolen Jackie Robinson statue will be replaced after more than $160,000 donated](https://www.reddit.com/r/news/comments/1agp1er/stolen_jackie_robinson_statue_will_be_replaced/)
+- [No charges for New Mexico officers who knocked on wrong door before fatal shooting](https://www.reddit.com/r/news/comments/1agnhgf/no_charges_for_new_mexico_officers_who_knocked_on/)
 <!-- REDDIT:END -->
 
 
