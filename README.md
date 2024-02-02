@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 Columbus police officers arrested on federal drug charges](https://www.reddit.com/r/news/comments/1ah8e95/2_columbus_police_officers_arrested_on_federal/)
+- [Black man was holding sandwiches and keys when an Ohio deputy fatally shot him, prosecutor says](https://www.reddit.com/r/news/comments/1ah6ydm/black_man_was_holding_sandwiches_and_keys_when_an/)
+- [Brianna Ghey&#39;s killers given life sentences for brutal murder](https://www.reddit.com/r/news/comments/1ah6i60/brianna_gheys_killers_given_life_sentences_for/)
+- [Chiefs-Ravens is most-watched AFC Championship ever, with 55.47 million viewers](https://www.reddit.com/r/news/comments/1ah6e5a/chiefsravens_is_mostwatched_afc_championship_ever/)
+- [Sauna patrons dressed only in towels pull 2 from a car that plunged into a Norwegian fjord](https://www.reddit.com/r/news/comments/1ah69iu/sauna_patrons_dressed_only_in_towels_pull_2_from/)
 <!-- REDDIT:END -->
 
 
