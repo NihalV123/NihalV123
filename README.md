@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 19 dead as forest fires approach densely populated areas of central Chile](https://www.reddit.com/r/news/comments/1ahzukt/at_least_19_dead_as_forest_fires_approach_densely/)
+- [Man sentenced to 18 years for bombing church that was hosting drag event](https://www.reddit.com/r/news/comments/1ahz3ot/man_sentenced_to_18_years_for_bombing_church_that/)
+- [‘It’s scratching, dude’: US Coast Guard inspectors rescue stowaway dog from shipping container](https://www.reddit.com/r/news/comments/1ahyks2/its_scratching_dude_us_coast_guard_inspectors/)
+- [For the first time, an Irish nationalist is set to lead Northern Ireland&#39;s government](https://www.reddit.com/r/news/comments/1ahxoug/for_the_first_time_an_irish_nationalist_is_set_to/)
+- [Three wounded in knife attack at major Paris train station](https://www.reddit.com/r/news/comments/1ahriwf/three_wounded_in_knife_attack_at_major_paris/)
 <!-- REDDIT:END -->
 
 
