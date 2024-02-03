@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wayne Kramer, co-founder of rock band MC5, dies aged 75](https://www.reddit.com/r/news/comments/1ahil6q/wayne_kramer_cofounder_of_rock_band_mc5_dies_aged/)
+- [Walnut, a white-naped crane with a Smithsonian zookeeper as a mate, dies at age 42](https://www.reddit.com/r/news/comments/1ahi6n0/walnut_a_whitenaped_crane_with_a_smithsonian/)
+- [Man who had heart attack after being restrained by police died of cocaine intoxication - inquest](https://www.reddit.com/r/news/comments/1ahhi1h/man_who_had_heart_attack_after_being_restrained/)
+- [Florida’s new anti-gay bill aims to limit and punish protected free speech](https://www.reddit.com/r/news/comments/1ahhdue/floridas_new_antigay_bill_aims_to_limit_and/)
+- [6 activists convicted of illegally blocking abortion clinic in Tennessee](https://www.reddit.com/r/news/comments/1ahh9qn/6_activists_convicted_of_illegally_blocking/)
 <!-- REDDIT:END -->
 
 
