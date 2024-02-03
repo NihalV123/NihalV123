@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three wounded in knife attack at major Paris train station](https://www.reddit.com/r/news/comments/1ahriwf/three_wounded_in_knife_attack_at_major_paris/)
+- [A preliminary magnitude 5.1 earthquake strikes east of Oklahoma City | CNN](https://www.reddit.com/r/news/comments/1ahrgyf/a_preliminary_magnitude_51_earthquake_strikes/)
+- [Inert nuclear missile found in US man&#39;s garage](https://www.reddit.com/r/news/comments/1ahoet5/inert_nuclear_missile_found_in_us_mans_garage/)
+- [Richard Scolyer: Melanoma doctor&#39;s high-stakes gamble to cure his brain cancer](https://www.reddit.com/r/news/comments/1ahodk8/richard_scolyer_melanoma_doctors_highstakes/)
+- [Meta shares surge 20% on soaring profit, better-than-expected guidance and first-ever dividend](https://www.reddit.com/r/news/comments/1ahlfax/meta_shares_surge_20_on_soaring_profit/)
 <!-- REDDIT:END -->
 
 
