@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Chile forest fires death toll jumps to 46, likely to keep rising](https://www.reddit.com/r/news/comments/1ai9p67/chile_forest_fires_death_toll_jumps_to_46_likely/)
+- [US House panel recommends $17.6 billion in military aid for Israel](https://www.reddit.com/r/news/comments/1ai967t/us_house_panel_recommends_176_billion_in_military/)
+- [‘We are dying slowly.’ Children go to bed hungry and parents scavenge for food as famine looms in Gaza | CNN](https://www.reddit.com/r/news/comments/1ai6y42/we_are_dying_slowly_children_go_to_bed_hungry_and/)
+- [Tesla Agrees to $1.5 Million Settlement for Environmental Violations in California](https://www.reddit.com/r/news/comments/1ai5anx/tesla_agrees_to_15_million_settlement_for/)
+- [New Mexico: Failed election candidate paid me to shoot officials, gunman says](https://www.reddit.com/r/news/comments/1ai3fxh/new_mexico_failed_election_candidate_paid_me_to/)
 <!-- REDDIT:END -->
 
 
