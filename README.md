@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CNN staff say network’s pro-Israel slant amounts to ‘journalistic malpractice’ | CNN](https://www.reddit.com/r/news/comments/1aj3jdd/cnn_staff_say_networks_proisrael_slant_amounts_to/)
+- [Chile president laments &#39;tragedy&#39; as wildfires kill 64; toll expected to rise](https://www.reddit.com/r/news/comments/1aiuteh/chile_president_laments_tragedy_as_wildfires_kill/)
+- [Saudi Arabia pushes for U.S. defence pact ahead of presidential election](https://www.reddit.com/r/news/comments/1aitdqp/saudi_arabia_pushes_for_us_defence_pact_ahead_of/)
+- [Nearly 1000 fur seals found dead in Kaikōura in five months](https://www.reddit.com/r/news/comments/1ait0nn/nearly_1000_fur_seals_found_dead_in_kaikōura_in/)
+- [A stolen digital memory card with gruesome recordings leads to a double murder trial in Alaska](https://www.reddit.com/r/news/comments/1ais1ko/a_stolen_digital_memory_card_with_gruesome/)
 <!-- REDDIT:END -->
 
 
