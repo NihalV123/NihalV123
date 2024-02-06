@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Exxon beats estimates, ends 2023 with a $36 billion profit](https://www.reddit.com/r/news/comments/1ajwfom/exxon_beats_estimates_ends_2023_with_a_36_billion/)
+- [Investigation underway after juvenile male dies at Transylvania County camp | WLOS](https://www.reddit.com/r/news/comments/1ajuxk4/investigation_underway_after_juvenile_male_dies/)
+- [Hearing continued for mother whose child died in fall from downtown apartment](https://www.reddit.com/r/news/comments/1aju291/hearing_continued_for_mother_whose_child_died_in/)
+- [Bob Beckwith, retired firefighter in famous image with Bush after 9/11, dies at 91](https://www.reddit.com/r/news/comments/1ajtw2y/bob_beckwith_retired_firefighter_in_famous_image/)
+- [Mississippi judge drops punishment of probation and book report for a child who urinated in public](https://www.reddit.com/r/news/comments/1ajsnau/mississippi_judge_drops_punishment_of_probation/)
 <!-- REDDIT:END -->
 
 
