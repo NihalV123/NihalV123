@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LAPD officers fatally shoot man allegedly armed with stick in DTLA](https://www.reddit.com/r/news/comments/1aktf28/lapd_officers_fatally_shoot_man_allegedly_armed/)
+- [DOJ: Former FedEx driver sentenced to 6 days in prison for selling guns he stole from packages](https://www.reddit.com/r/news/comments/1akte3x/doj_former_fedex_driver_sentenced_to_6_days_in/)
+- [U.S. publisher retracts studies cited by Texas judge in suspending abortion pill&#39;s approval](https://www.reddit.com/r/news/comments/1akrk5s/us_publisher_retracts_studies_cited_by_texas/)
+- [Law schools must adopt free speech policies, after ABA passes rule](https://www.reddit.com/r/news/comments/1akozcm/law_schools_must_adopt_free_speech_policies_after/)
+- [Pod of at least 10 killer whales appears trapped by sea ice in Japan](https://www.reddit.com/r/news/comments/1akoxex/pod_of_at_least_10_killer_whales_appears_trapped/)
 <!-- REDDIT:END -->
 
 
