@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Saturn’s ‘Death Star’ moon, Mimas, has hidden ocean under its crust, say scientists](https://www.reddit.com/r/news/comments/1al8ik3/saturns_death_star_moon_mimas_has_hidden_ocean/)
+- [Western officials in protest over Israel Gaza policy](https://www.reddit.com/r/news/comments/1al7d7h/western_officials_in_protest_over_israel_gaza/)
+- [Key witness in Holly Bobo kidnapping, murder says he lied on stand to avoid prison.](https://www.reddit.com/r/news/comments/1al68hn/key_witness_in_holly_bobo_kidnapping_murder_says/)
+- [Israel-Gaza war: Unknown fate of six-year-old Hind Rajab trapped under fire](https://www.reddit.com/r/news/comments/1al5thl/israelgaza_war_unknown_fate_of_sixyearold_hind/)
+- [Military helicopter with 5 Marines on board goes missing en route to California](https://www.reddit.com/r/news/comments/1al58wp/military_helicopter_with_5_marines_on_board_goes/)
 <!-- REDDIT:END -->
 
 
