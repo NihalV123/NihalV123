@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alabama station in disbelief after 200-foot radio tower stolen](https://www.reddit.com/r/news/comments/1am1ib8/alabama_station_in_disbelief_after_200foot_radio/)
+- [US court bans three weedkillers and finds EPA broke law in approval process](https://www.reddit.com/r/news/comments/1am13ld/us_court_bans_three_weedkillers_and_finds_epa/)
+- [As ER overcrowding worsens, a new program helping to ease the crisis may lose funding](https://www.reddit.com/r/news/comments/1am0gkq/as_er_overcrowding_worsens_a_new_program_helping/)
+- [US soldiers lay groundwork for ‘transformation’ of artillery units in Europe](https://www.reddit.com/r/news/comments/1am0ab1/us_soldiers_lay_groundwork_for_transformation_of/)
+- [FCC declares AI-generated voices in robocalls are illegal](https://www.reddit.com/r/news/comments/1alzc2i/fcc_declares_aigenerated_voices_in_robocalls_are/)
 <!-- REDDIT:END -->
 
 
