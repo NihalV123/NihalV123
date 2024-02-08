@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World surpasses key warming threshold across an entire year for the first time](https://www.reddit.com/r/news/comments/1altje3/world_surpasses_key_warming_threshold_across_an/)
+- [South Korea’s foreign worker plan put on hold as Philippines suspends labour deployment](https://www.reddit.com/r/news/comments/1alrn9z/south_koreas_foreign_worker_plan_put_on_hold_as/)
+- [LAPD chief says he has &#39;concerns&#39; about police shooting of man who held plastic fork](https://www.reddit.com/r/news/comments/1alnunc/lapd_chief_says_he_has_concerns_about_police/)
+- [McDonald&#39;s stock price drops after CEO promises affordability during latest earnings call](https://www.reddit.com/r/news/comments/1alnkr5/mcdonalds_stock_price_drops_after_ceo_promises/)
+- [On live TV, Guardian Angels rough up a man in Times Square then misidentify him as a ‘migrant’](https://www.reddit.com/r/news/comments/1alniut/on_live_tv_guardian_angels_rough_up_a_man_in/)
 <!-- REDDIT:END -->
 
 
