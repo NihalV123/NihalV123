@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida mom says Christian school expelled her children because of OnlyFans decal](https://www.reddit.com/r/news/comments/1amb2lu/florida_mom_says_christian_school_expelled_her/)
+- [Scientists just set a nuclear fusion record in a step toward unleashing the limitless, clean energy source | CNN](https://www.reddit.com/r/news/comments/1amahuo/scientists_just_set_a_nuclear_fusion_record_in_a/)
+- [CDC is investigating gastrointestinal sickness on luxury cruise ship Queen Victoria](https://www.reddit.com/r/news/comments/1am9ih5/cdc_is_investigating_gastrointestinal_sickness_on/)
+- [Old Guard soldiers charged with stealing pride flags from Arlington home](https://www.reddit.com/r/news/comments/1am5qwv/old_guard_soldiers_charged_with_stealing_pride/)
+- [Zelensky sacks Ukraine&#39;s commander-in-chief Valerii Zaluzhnyi](https://www.reddit.com/r/news/comments/1am1wiv/zelensky_sacks_ukraines_commanderinchief_valerii/)
 <!-- REDDIT:END -->
 
 
