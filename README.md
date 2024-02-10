@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shift from El Nino to La Nina portends rains in Asia, dryness in Americas](https://www.reddit.com/r/news/comments/1ankwil/shift_from_el_nino_to_la_nina_portends_rains_in/)
+- [Florida man seriously injured and unable to speak after encounter with police, daughter says after her father was falsely accused of stealing a banana.](https://www.reddit.com/r/news/comments/1aniekw/florida_man_seriously_injured_and_unable_to_speak/)
+- [Body of 6-year-old killed in ‘deliberate’ Israeli fire found after 12 days](https://www.reddit.com/r/news/comments/1ang8dz/body_of_6yearold_killed_in_deliberate_israeli/)
+- [US FAA mandates Boeing 737 MAX rudder loose bolt inspections](https://www.reddit.com/r/news/comments/1ang2ma/us_faa_mandates_boeing_737_max_rudder_loose_bolt/)
+- [Sudan Remains Largely Offline With Near-total Telecoms Blackout](https://www.reddit.com/r/news/comments/1anerkv/sudan_remains_largely_offline_with_neartotal/)
 <!-- REDDIT:END -->
 
 
