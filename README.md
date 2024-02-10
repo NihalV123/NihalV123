@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4.6 Earthquake Hits Malibu, Felt Across Los Angeles, Plus Three Aftershocks](https://www.reddit.com/r/news/comments/1an0glp/46_earthquake_hits_malibu_felt_across_los_angeles/)
+- [Hawaii’s Big Island struck by 5.7 magnitude earthquake | Hawaii](https://www.reddit.com/r/news/comments/1an0atd/hawaiis_big_island_struck_by_57_magnitude/)
+- [Utah school district takes steps to protect teen after school board member appears to question girl’s gender on social media](https://www.reddit.com/r/news/comments/1an05o9/utah_school_district_takes_steps_to_protect_teen/)
+- [At least 2 dead after twin-engine plane crashes on I-75 in Collier County](https://www.reddit.com/r/news/comments/1an02x2/at_least_2_dead_after_twinengine_plane_crashes_on/)
+- [Critical Atlantic Ocean current system is showing early signs of collapse, prompting warning from scientists | CNN](https://www.reddit.com/r/news/comments/1amz9ak/critical_atlantic_ocean_current_system_is_showing/)
 <!-- REDDIT:END -->
 
 
