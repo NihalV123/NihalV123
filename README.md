@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Super Bowl 2024 to be powered by Nevada desert solar farm, marking a historic green milestone](https://www.reddit.com/r/news/comments/1aoahi3/super_bowl_2024_to_be_powered_by_nevada_desert/)
+- [Emails Reveal How Anti-Trans Doc Tried To Dupe LGBTQ Allies Into Participating](https://www.reddit.com/r/news/comments/1aoaarf/emails_reveal_how_antitrans_doc_tried_to_dupe/)
+- [Texas attorney sentenced to 180 days in jail for drugging wife’s drinks to induce an abortion](https://www.reddit.com/r/news/comments/1aoa9tw/texas_attorney_sentenced_to_180_days_in_jail_for/)
+- [14 injured after tree falls onto rollercoaster in Spain](https://www.reddit.com/r/news/comments/1ao9m7a/14_injured_after_tree_falls_onto_rollercoaster_in/)
+- [Extraction of raw materials to rise by 60% by 2060, says UN report](https://www.reddit.com/r/news/comments/1ao3od5/extraction_of_raw_materials_to_rise_by_60_by_2060/)
 <!-- REDDIT:END -->
 
 
