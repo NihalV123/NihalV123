@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Baby in Missouri dies after mother mistakenly puts her in oven for nap](https://www.reddit.com/r/news/comments/1anv3l2/baby_in_missouri_dies_after_mother_mistakenly/)
+- [Hungarian president resigns over sex abuse case pardon](https://www.reddit.com/r/news/comments/1antqmn/hungarian_president_resigns_over_sex_abuse_case/)
+- [Gaza mediators and others warn Israel of disaster if it launches a ground invasion on crowded Rafah](https://www.reddit.com/r/news/comments/1antpor/gaza_mediators_and_others_warn_israel_of_disaster/)
+- [Hermit crab rescued from Roanoke house fire](https://www.reddit.com/r/news/comments/1ans12v/hermit_crab_rescued_from_roanoke_house_fire/)
+- [Hamas had command tunnel under U.N. Gaza headquarters, Israeli military says](https://www.reddit.com/r/news/comments/1anpttv/hamas_had_command_tunnel_under_un_gaza/)
 <!-- REDDIT:END -->
 
 
