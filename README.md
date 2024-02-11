@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nigerian bank CEO killed along with wife and child in California helicopter crash](https://www.reddit.com/r/news/comments/1ao445d/nigerian_bank_ceo_killed_along_with_wife_and/)
+- [Extraction of raw materials to rise by 60% by 2060, says UN report](https://www.reddit.com/r/news/comments/1ao3od5/extraction_of_raw_materials_to_rise_by_60_by_2060/)
+- [Girl, 6, recorded pleading with Gaza rescuers to save her after attack found dead](https://www.reddit.com/r/news/comments/1ao3an6/girl_6_recorded_pleading_with_gaza_rescuers_to/)
+- [ABC News: 70 NYC housing workers charged in largest bribery takedown in DOJ history](https://www.reddit.com/r/news/comments/1ao1jhl/abc_news_70_nyc_housing_workers_charged_in/)
+- [Bo Jackson awarded $21 million in Georgia blackmail, stalking case against family members](https://www.reddit.com/r/news/comments/1ao0hgi/bo_jackson_awarded_21_million_in_georgia/)
 <!-- REDDIT:END -->
 
 
