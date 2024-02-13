@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK DJ legend Steve Wright dies aged 69.](https://www.reddit.com/r/news/comments/1apyy44/uk_dj_legend_steve_wright_dies_aged_69/)
+- [Plane lands safely after door falls off midflight](https://www.reddit.com/r/news/comments/1apypqg/plane_lands_safely_after_door_falls_off_midflight/)
+- [Parents fuming after Montreal-area teacher allegedly lists students&#39; art for sale online](https://www.reddit.com/r/news/comments/1apu979/parents_fuming_after_montrealarea_teacher/)
+- [France uncovers a vast Russian disinformation campaign in Europe](https://www.reddit.com/r/news/comments/1aptrfv/france_uncovers_a_vast_russian_disinformation/)
+- [Judge dismisses families’ lawsuits against Harvard over morgue scandal.](https://www.reddit.com/r/news/comments/1apslys/judge_dismisses_families_lawsuits_against_harvard/)
 <!-- REDDIT:END -->
 
 
