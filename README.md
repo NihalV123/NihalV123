@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Military says Russian landing ship sunk in Black Sea](https://www.reddit.com/r/news/comments/1aqi29t/military_says_russian_landing_ship_sunk_in_black/)
+- [Florida school asks parents for permission to have book by an African American author read to students](https://www.reddit.com/r/news/comments/1aqdya4/florida_school_asks_parents_for_permission_to/)
+- [Democrat Tom Suozzi wins New York race to succeed George Santos in Congress](https://www.reddit.com/r/news/comments/1aqcxno/democrat_tom_suozzi_wins_new_york_race_to_succeed/)
+- [Arrest made in theft and destruction of Jackie Robinson statue that police believe was stolen for scrap metal](https://www.reddit.com/r/news/comments/1aq7zrf/arrest_made_in_theft_and_destruction_of_jackie/)
+- [Transgender girl stabbed 14 times in alleged murder attempt at party](https://www.reddit.com/r/news/comments/1aq6u41/transgender_girl_stabbed_14_times_in_alleged/)
 <!-- REDDIT:END -->
 
 
