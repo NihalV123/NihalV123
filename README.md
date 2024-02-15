@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man with knife suspected of stabbing 2 at training center is fatally shot by police](https://www.reddit.com/r/news/comments/1aqzs43/man_with_knife_suspected_of_stabbing_2_at/)
+- [Palestinians flee as Israel orders evacuation of besieged Nasser Hospital](https://www.reddit.com/r/news/comments/1aqzq41/palestinians_flee_as_israel_orders_evacuation_of/)
+- [Microsoft says it caught hackers from China, Russia and Iran using its AI tools](https://www.reddit.com/r/news/comments/1aqzg1m/microsoft_says_it_caught_hackers_from_china/)
+- [Nigerian ex-President Muhammadu Buhari&#39;s signature forged to withdraw $6m, court hears](https://www.reddit.com/r/news/comments/1aqzffz/nigerian_expresident_muhammadu_buharis_signature/)
+- [Tucson teacher loses job over OnlyFans account](https://www.reddit.com/r/news/comments/1aqy0c0/tucson_teacher_loses_job_over_onlyfans_account/)
 <!-- REDDIT:END -->
 
 
