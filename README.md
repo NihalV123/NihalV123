@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 students shot at Benjamin E. Mays High School in Atlanta, police say](https://www.reddit.com/r/news/comments/1ar88u2/4_students_shot_at_benjamin_e_mays_high_school_in/)
+- [Michigan woman accused of stealing $800K in luxury items from rental sites to resell them online](https://www.reddit.com/r/news/comments/1ar6j5l/michigan_woman_accused_of_stealing_800k_in_luxury/)
+- [Airstrike from Israeli hostage rescue wipes out entire Palestinian family in Gaza border town](https://www.reddit.com/r/news/comments/1ar4f4m/airstrike_from_israeli_hostage_rescue_wipes_out/)
+- [Man with knife suspected of stabbing 2 at training center is fatally shot by police](https://www.reddit.com/r/news/comments/1aqzs43/man_with_knife_suspected_of_stabbing_2_at/)
+- [Palestinians flee as Israel orders evacuation of besieged Nasser Hospital](https://www.reddit.com/r/news/comments/1aqzq41/palestinians_flee_as_israel_orders_evacuation_of/)
 <!-- REDDIT:END -->
 
 
