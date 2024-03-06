@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fountains of Bellagio on Las Vegas Strip paused due to rare bird landing in water](https://www.reddit.com/r/news/comments/1b7rvwe/fountains_of_bellagio_on_las_vegas_strip_paused/)
+- [Lazio fan arrested for Hitler salute as supporters sing fascist songs in Munich beer hall](https://www.reddit.com/r/news/comments/1b7mfdr/lazio_fan_arrested_for_hitler_salute_as/)
+- [Response grows as Westboro Baptist Church plans protest at Owasso Schools](https://www.reddit.com/r/news/comments/1b7kj9t/response_grows_as_westboro_baptist_church_plans/)
+- [Change HealthCare Cyber Attack Affect Millions](https://www.reddit.com/r/news/comments/1b7k2em/change_healthcare_cyber_attack_affect_millions/)
+- [Arizona suspends former prosecutor’s license for falsely charging protesters](https://www.reddit.com/r/news/comments/1b7jo95/arizona_suspends_former_prosecutors_license_for/)
 <!-- REDDIT:END -->
 
 
