@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Hypervaccinated’ man reportedly received 217 Covid jabs without side-effects](https://www.reddit.com/r/news/comments/1b7x50o/hypervaccinated_man_reportedly_received_217_covid/)
+- [Fountains of Bellagio on Las Vegas Strip paused due to rare bird landing in water](https://www.reddit.com/r/news/comments/1b7rvwe/fountains_of_bellagio_on_las_vegas_strip_paused/)
+- [Credit card late fees capped at $8 as part of Biden administration crackdown on junk fees | CNN Business](https://www.reddit.com/r/news/comments/1b7rezv/credit_card_late_fees_capped_at_8_as_part_of/)
+- [Response grows as Westboro Baptist Church plans protest at Owasso Schools](https://www.reddit.com/r/news/comments/1b7kj9t/response_grows_as_westboro_baptist_church_plans/)
+- [Change HealthCare Cyber Attack Affect Millions](https://www.reddit.com/r/news/comments/1b7k2em/change_healthcare_cyber_attack_affect_millions/)
 <!-- REDDIT:END -->
 
 
