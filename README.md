@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US to set up temporary port on Gaza coast for aid delivery](https://www.reddit.com/r/news/comments/1b8zz5j/us_to_set_up_temporary_port_on_gaza_coast_for_aid/)
+- [Power lines ignited the largest wildfire in Texas history, officials say](https://www.reddit.com/r/news/comments/1b8zx52/power_lines_ignited_the_largest_wildfire_in_texas/)
+- [School accused of ‘snooping’ on family homes to crack down on pupil absences | School attendance and absence](https://www.reddit.com/r/news/comments/1b8zu7z/school_accused_of_snooping_on_family_homes_to/)
+- [8 teens hurt in mass shooting at Philadelphia SEPTA bus stop, police searching for 3 gunmen](https://www.reddit.com/r/news/comments/1b8zpcv/8_teens_hurt_in_mass_shooting_at_philadelphia/)
+- [The planet just shattered heat records for the ninth month in a row | CNN](https://www.reddit.com/r/news/comments/1b8zagc/the_planet_just_shattered_heat_records_for_the/)
 <!-- REDDIT:END -->
 
 
