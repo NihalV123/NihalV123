@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Doritos cuts ties with transgender influencer over posts](https://www.reddit.com/r/news/comments/1b8mxy3/doritos_cuts_ties_with_transgender_influencer/)
+- [US uses loophole to keep 100 arms sales to Israel under the radar amid Gaza war – report | US news](https://www.reddit.com/r/news/comments/1b8mjac/us_uses_loophole_to_keep_100_arms_sales_to_israel/)
+- [California taxpayers may be on the hook to subsibise multi million dollar cliff side mansions at they slide into the sea](https://www.reddit.com/r/news/comments/1b8mivh/california_taxpayers_may_be_on_the_hook_to/)
+- [Profound damage found in Maine gunman’s brain, possibly from repeated blasts experienced during Army training](https://www.reddit.com/r/news/comments/1b8ks9x/profound_damage_found_in_maine_gunmans_brain/)
+- [X Is Considering Removing Likes And Reposts From Content, Says Musk](https://www.reddit.com/r/news/comments/1b8krck/x_is_considering_removing_likes_and_reposts_from/)
 <!-- REDDIT:END -->
 
 
