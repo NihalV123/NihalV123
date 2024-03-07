@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mexican military helicopter crashes at sea, leaving 3 Navy personnel dead and 2 missing](https://www.reddit.com/r/news/comments/1b8ev3a/mexican_military_helicopter_crashes_at_sea/)
+- [Jury convicts movie armorer of involuntary manslaughter in fatal shooting by Alec Baldwin](https://www.reddit.com/r/news/comments/1b8ekh4/jury_convicts_movie_armorer_of_involuntary/)
+- [NM Becomes The Fourth State To Enact Clean Fuel Standards](https://www.reddit.com/r/news/comments/1b8dplg/nm_becomes_the_fourth_state_to_enact_clean_fuel/)
+- [Cyberattack Paralyzes the Largest U.S. Health Care Payment System](https://www.reddit.com/r/news/comments/1b8c4d3/cyberattack_paralyzes_the_largest_us_health_care/)
+- [National Guard to be deployed in New York City subway in crime crackdown: Governor](https://www.reddit.com/r/news/comments/1b8aqnh/national_guard_to_be_deployed_in_new_york_city/)
 <!-- REDDIT:END -->
 
 
