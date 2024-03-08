@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Power lines ignited the largest wildfire in Texas history and one nearby, officials say](https://www.reddit.com/r/news/comments/1b9dr3t/power_lines_ignited_the_largest_wildfire_in_texas/)
+- [The creator of Dragonball has passed away](https://www.reddit.com/r/news/comments/1b9dow8/the_creator_of_dragonball_has_passed_away/)
+- [USPS to stop accepting orders for free Covid tests 8 March](https://www.reddit.com/r/news/comments/1b9d3x6/usps_to_stop_accepting_orders_for_free_covid/)
+- [Trump is ordered to pay legal fees after failed lawsuit over the Steele dossier](https://www.reddit.com/r/news/comments/1b9cpje/trump_is_ordered_to_pay_legal_fees_after_failed/)
+- [San Diego dentist, a Sacramento native, killed by disgruntled patient](https://www.reddit.com/r/news/comments/1b9a4kt/san_diego_dentist_a_sacramento_native_killed_by/)
 <!-- REDDIT:END -->
 
 
