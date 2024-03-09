@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Lawmaker calls for state probe into Ivy Ridge, community reacts to allegations](https://www.reddit.com/r/news/comments/1banj0c/lawmaker_calls_for_state_probe_into_ivy_ridge/)
+- [Nearly 3,000 fires in Brazilian Amazon in February, new record](https://www.reddit.com/r/news/comments/1bakbvq/nearly_3000_fires_in_brazilian_amazon_in_february/)
+- [9 dead in Wisconsin crash between semi and van](https://www.reddit.com/r/news/comments/1baj1m7/9_dead_in_wisconsin_crash_between_semi_and_van/)
+- [Dead Ohio man&#39;s roommates drove body to withdraw money from his bank account](https://www.reddit.com/r/news/comments/1bai9hl/dead_ohio_mans_roommates_drove_body_to_withdraw/)
+- [Helicopter flying over the U.S.-Mexico border in Texas crashed killing 2 Guardsmen and 1 Border Patrol agent](https://www.reddit.com/r/news/comments/1bafm7j/helicopter_flying_over_the_usmexico_border_in/)
 <!-- REDDIT:END -->
 
 
