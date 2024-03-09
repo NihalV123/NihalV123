@@ -409,11 +409,11 @@ Top 4 most used languages across your repositories:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- BLOG:START -->
-- [Aplicando Two Factor Authentication no SSH](https://blog.lsantos.dev/aplicando-two-factor-authentication-no-ssh/)
-- [Giro de notícias: Outubro 2020](https://blog.lsantos.dev/giro-de-noticias-outubro-2020/)
-- [Tenha privacidade total com sua própria VPN hospedada na cloud](https://blog.lsantos.dev/criando-uma-vpn/)
-- [Que tal aprender AKS com este curso GRATUITO?](https://blog.lsantos.dev/que-tal-aprender-aks-com-este-curso-gratuito/)
-- [Notícias Semanais #12](https://blog.lsantos.dev/noticias-semanais-12/)
+- [Criptografia #1 - Criptografia Assimétrica com RSA](https://blog.lsantos.dev/criptografia-assimetrica-com-rsa/)
+- [Novidades do Deno 1.40](https://blog.lsantos.dev/novidades-do-deno-1-4/)
+- [O conceito de &quot;referência&quot; e &quot;valor&quot; no JavaScript](https://blog.lsantos.dev/o-conceito-de-referencia-e-valor-no-javascript/)
+- [Novidades do TypeScript 5.4](https://blog.lsantos.dev/novidades-no-typescript-5-4-beta/)
+- [Sobre Entrevistas Técnicas - Nunca foi sobre o código](https://blog.lsantos.dev/entrevistas-tecnicas/)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
