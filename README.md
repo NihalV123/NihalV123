@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Colorado Bureau of Investigation finds DNA scientist manipulated data in hundreds of cases over decades](https://www.reddit.com/r/news/comments/1bavrxt/colorado_bureau_of_investigation_finds_dna/)
+- [Woman’s feet amputated after boyfriend allegedly shoves her in front of NYC train](https://www.reddit.com/r/news/comments/1bauu4j/womans_feet_amputated_after_boyfriend_allegedly/)
+- [‘Monumental’ experiment suggests how life on Earth may have started](https://www.reddit.com/r/news/comments/1baskcv/monumental_experiment_suggests_how_life_on_earth/)
+- [FDA approves Wegovy for lowering heart attack and stroke risk in overweight patients](https://www.reddit.com/r/news/comments/1barm3y/fda_approves_wegovy_for_lowering_heart_attack_and/)
+- [Florida mother missing for days found alive in shipping container, banging on locked door](https://www.reddit.com/r/news/comments/1baqx4t/florida_mother_missing_for_days_found_alive_in/)
 <!-- REDDIT:END -->
 
 
