@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [India&#39;s ‘zero-food’ children shame: 6.7m kids have nothing to eat for entire day](https://www.reddit.com/r/news/comments/1bd23ip/indias_zerofood_children_shame_67m_kids_have/)
+- [Human rights activist charged over alleged kidnapping and assault of a man](https://www.reddit.com/r/news/comments/1bd0nle/human_rights_activist_charged_over_alleged/)
+- [UK unemployment rises and wages growth falls in recession | UK unemployment and employment statistics](https://www.reddit.com/r/news/comments/1bd0l5l/uk_unemployment_rises_and_wages_growth_falls_in/)
+- [Number of bodies recovered by police from Hull funeral parlour rises to 35 | UK news](https://www.reddit.com/r/news/comments/1bd0jhm/number_of_bodies_recovered_by_police_from_hull/)
+- [Andrew Tate and brother Tristan can be extradited to UK, Romanian court rules](https://www.reddit.com/r/news/comments/1bd0aol/andrew_tate_and_brother_tristan_can_be_extradited/)
 <!-- REDDIT:END -->
 
 
