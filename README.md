@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 children, 2 adults killed in school bus crash in Illinois](https://www.reddit.com/r/news/comments/1bcu97f/3_children_2_adults_killed_in_school_bus_crash_in/)
+- [Haitian Prime Minister Ariel Henry agrees to resign, bowing to international and internal pressure](https://www.reddit.com/r/news/comments/1bcu3wy/haitian_prime_minister_ariel_henry_agrees_to/)
+- [Andrew Tate and brother detained in Romania over UK arrest warrant](https://www.reddit.com/r/news/comments/1bcrro6/andrew_tate_and_brother_detained_in_romania_over/)
+- [Passenger on Boeing flight that suddenly dropped says pilot told him he lost control after instrument failure | CNN](https://www.reddit.com/r/news/comments/1bcrqaw/passenger_on_boeing_flight_that_suddenly_dropped/)
+- [Warden ousted as FBI again searches California federal women’s prison plagued by sexual abuse](https://www.reddit.com/r/news/comments/1bcmrw2/warden_ousted_as_fbi_again_searches_california/)
 <!-- REDDIT:END -->
 
 
