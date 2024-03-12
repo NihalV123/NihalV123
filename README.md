@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Warden ousted as FBI again searches California federal women’s prison plagued by sexual abuse](https://www.reddit.com/r/news/comments/1bcmrw2/warden_ousted_as_fbi_again_searches_california/)
+- [Eric Carmen, The Raspberries Frontman and Power Pop Hitmaker, Dead at 74](https://www.reddit.com/r/news/comments/1bcmiuq/eric_carmen_the_raspberries_frontman_and_power/)
+- [Air Force wants to retire 250 aircraft as part of $188B FY25 budget request](https://www.reddit.com/r/news/comments/1bcmd8y/air_force_wants_to_retire_250_aircraft_as_part_of/)
+- [U.S. Army sergeant accused of exchanging sensitive military information with co-conspirator in Hong Kong](https://www.reddit.com/r/news/comments/1bcl1w6/us_army_sergeant_accused_of_exchanging_sensitive/)
+- [Biden effigy beaten, kicked at Kansas county GOP event, drawing outrage](https://www.reddit.com/r/news/comments/1bcibtc/biden_effigy_beaten_kicked_at_kansas_county_gop/)
 <!-- REDDIT:END -->
 
 
