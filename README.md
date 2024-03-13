@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Food prices hold steady, but Americans have a beef with the cost of a burger | CNN Business](https://www.reddit.com/r/news/comments/1bdwswx/food_prices_hold_steady_but_americans_have_a_beef/)
+- [Dollar Tree and Family Dollar will close 1,000 stores following fourth-quarter loss](https://www.reddit.com/r/news/comments/1bdwlue/dollar_tree_and_family_dollar_will_close_1000/)
+- [Police say car wedged under big rig in violent crash was being driven by catalytic converter thieves](https://www.reddit.com/r/news/comments/1bdu8xy/police_say_car_wedged_under_big_rig_in_violent/)
+- [Berkeley to return parking lot on top of sacred site to Ohlone tribe after settlement with developer](https://www.reddit.com/r/news/comments/1bdu1m5/berkeley_to_return_parking_lot_on_top_of_sacred/)
+- [Paul Alexander, 78-year-old Dallas man who lived in an iron lung for most of his life, dies](https://www.reddit.com/r/news/comments/1bdsxyh/paul_alexander_78yearold_dallas_man_who_lived_in/)
 <!-- REDDIT:END -->
 
 
