@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Brooklyn pastor ‘Bling Bishop’ found guilty of spending $90,000 of his parishioner’s savings on luxury goods](https://www.reddit.com/r/news/comments/1bdghh0/brooklyn_pastor_bling_bishop_found_guilty_of/)
+- [St. Clairsville Chick-Fil-A Owner Charged With Sex Crimes in North Carolina Makes First Court Appearance](https://www.reddit.com/r/news/comments/1bdcsr3/st_clairsville_chickfila_owner_charged_with_sex/)
+- [Students scale fence at Taft High School in Woodland Hills after shooting threat sparks concern](https://www.reddit.com/r/news/comments/1bd9hik/students_scale_fence_at_taft_high_school_in/)
+- [New York police used stun gun on migrant holding toddler, video shows | New York](https://www.reddit.com/r/news/comments/1bd97ql/new_york_police_used_stun_gun_on_migrant_holding/)
+- [Gaza hostage deal: Hamas agrees to US proposal for Gaza ceasefire - report](https://www.reddit.com/r/news/comments/1bd8tg3/gaza_hostage_deal_hamas_agrees_to_us_proposal_for/)
 <!-- REDDIT:END -->
 
 
