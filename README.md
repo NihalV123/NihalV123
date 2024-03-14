@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A police officer took a teen for a rape kit. Then he assaulted her, too.](https://www.reddit.com/r/news/comments/1beraek/a_police_officer_took_a_teen_for_a_rape_kit_then/)
+- [Denying same-sex marriage is unconstitutional, a Japanese high court says](https://www.reddit.com/r/news/comments/1beqz5n/denying_samesex_marriage_is_unconstitutional_a/)
+- [US town&#39;s $565,000 sand dune project washed away in days](https://www.reddit.com/r/news/comments/1beqhyd/us_towns_565000_sand_dune_project_washed_away_in/)
+- [Governor Kristi Noem sued over video promoting dentists who fixed her teeth](https://www.reddit.com/r/news/comments/1bephdb/governor_kristi_noem_sued_over_video_promoting/)
+- [Obscure trust links India&#39;s top businesses with Modi&#39;s election war chest](https://www.reddit.com/r/news/comments/1beo62u/obscure_trust_links_indias_top_businesses_with/)
 <!-- REDDIT:END -->
 
 
