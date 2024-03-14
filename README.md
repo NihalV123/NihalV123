@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Fatal police shooting of autistic boy in California investigated](https://www.reddit.com/r/news/comments/1be6fqw/fatal_police_shooting_of_autistic_boy_in/)
+- [Former Mormon bishop highlighted in AP investigation arrested on felony child sex abuse charges](https://www.reddit.com/r/news/comments/1be6ebq/former_mormon_bishop_highlighted_in_ap/)
+- [Montana man used animal tissue and testicles to breed &#39;giant&#39; sheep for sale to hunting preserves | AP News](https://www.reddit.com/r/news/comments/1be4ab7/montana_man_used_animal_tissue_and_testicles_to/)
+- [Nex Benedict died by suicide, medical examiner&#39;s report states](https://www.reddit.com/r/news/comments/1be2eiu/nex_benedict_died_by_suicide_medical_examiners/)
+- [Video shows Bonsall woman, suspected ring leader of $8M retail theft ring, arrested](https://www.reddit.com/r/news/comments/1be29m3/video_shows_bonsall_woman_suspected_ring_leader/)
 <!-- REDDIT:END -->
 
 
