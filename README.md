@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ohio police confirm 2 dead in fierce storm that damaged homes and businesses in 3 states](https://www.reddit.com/r/news/comments/1bfc4u8/ohio_police_confirm_2_dead_in_fierce_storm_that/)
+- [The first ship to use a new sea route approaches Gaza with 200 tons of aid](https://www.reddit.com/r/news/comments/1bfc4pu/the_first_ship_to_use_a_new_sea_route_approaches/)
+- [80-year-old man pleads guilty to genetically engineering giant hybrid sheep in &#39;audacious scheme,&#39; DOJ announces](https://www.reddit.com/r/news/comments/1bfbvhn/80yearold_man_pleads_guilty_to_genetically/)
+- [Russian rights group says jailed leader, 70, was asked to fight in Ukraine war](https://www.reddit.com/r/news/comments/1bfbezn/russian_rights_group_says_jailed_leader_70_was/)
+- [Pornhub has officially blocked the state of Texas from their site over age-verification law](https://www.reddit.com/r/news/comments/1bf79dd/pornhub_has_officially_blocked_the_state_of_texas/)
 <!-- REDDIT:END -->
 
 
