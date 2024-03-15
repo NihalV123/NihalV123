@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Federal courts move to restrict ‘judge shopping,’ which got attention after abortion medication case](https://www.reddit.com/r/news/comments/1bfiv1a/federal_courts_move_to_restrict_judge_shopping/)
+- [College swimmers, volleyball players sue NCAA over transgender policies](https://www.reddit.com/r/news/comments/1bfhtmp/college_swimmers_volleyball_players_sue_ncaa_over/)
+- [Missouri law bars divorce during pregnancy – even in cases of violence | Missouri](https://www.reddit.com/r/news/comments/1bfgj99/missouri_law_bars_divorce_during_pregnancy_even/)
+- [Powerful Realtor Group Agrees to Slash Commissions to Settle Lawsuits](https://www.reddit.com/r/news/comments/1bfflks/powerful_realtor_group_agrees_to_slash/)
+- [WSJ News Exclusive | Boeing Tells Airlines to Check 787 Cockpit Seats After Mishap on Latam Flight](https://www.reddit.com/r/news/comments/1bfeitm/wsj_news_exclusive_boeing_tells_airlines_to_check/)
 <!-- REDDIT:END -->
 
 
