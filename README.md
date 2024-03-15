@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 Kansas City men face federal gun charges connected to Chiefs parade mass shooting](https://www.reddit.com/r/news/comments/1bf5sx0/3_kansas_city_men_face_federal_gun_charges/)
+- [Lawsuit asks court to declare San Jose boy with autism a ‘nuisance’ – NBC Bay Area](https://www.reddit.com/r/news/comments/1bf4x7x/lawsuit_asks_court_to_declare_san_jose_boy_with/)
+- [Man ejaculated on food while employed at Fort Collins Safeway, police chief says](https://www.reddit.com/r/news/comments/1bf3n9t/man_ejaculated_on_food_while_employed_at_fort/)
+- [Florida mom accused of trying to sell daughter to store employee for $500](https://www.reddit.com/r/news/comments/1bf23ro/florida_mom_accused_of_trying_to_sell_daughter_to/)
+- [Father of Michigan school shooter found guilty of manslaughter weeks after mother’s conviction](https://www.reddit.com/r/news/comments/1bezbpt/father_of_michigan_school_shooter_found_guilty_of/)
 <!-- REDDIT:END -->
 
 
