@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tucker Carlson Duped By Kate Middleton Whistleblower YouTube Prank](https://www.reddit.com/r/news/comments/1bfxshb/tucker_carlson_duped_by_kate_middleton/)
+- [Nashville bar says missing Mizzou student was served only 1 drink before he disappeared](https://www.reddit.com/r/news/comments/1bfxjip/nashville_bar_says_missing_mizzou_student_was/)
+- [United Airlines Flight Arrives at Oregon Airport Missing an External Panel &lpar;Gift Article&rpar;](https://www.reddit.com/r/news/comments/1bfvn9v/united_airlines_flight_arrives_at_oregon_airport/)
+- [DeSantis signs bills expanding prison sentences for undocumented migrants | US immigration](https://www.reddit.com/r/news/comments/1bfv7u0/desantis_signs_bills_expanding_prison_sentences/)
+- [United plane apparently loses external panel mid-flight after taking off from SFO, officials say](https://www.reddit.com/r/news/comments/1bftwx4/united_plane_apparently_loses_external_panel/)
 <!-- REDDIT:END -->
 
 
