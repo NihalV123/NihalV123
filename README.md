@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [As AI tools get smarter, they’re growing more covertly racist, experts find](https://www.reddit.com/r/news/comments/1bgamz4/as_ai_tools_get_smarter_theyre_growing_more/)
+- [A cougar attacked them. They fought back for 45 harrowing minutes](https://www.reddit.com/r/news/comments/1bgajx6/a_cougar_attacked_them_they_fought_back_for_45/)
+- [Russia Exhausts Soviet-era Arms Storage Bases](https://www.reddit.com/r/news/comments/1bg9t3u/russia_exhausts_sovietera_arms_storage_bases/)
+- [Shelter-in-place order issued in Pennsylvania after shootings; businesses closed, parade canceled](https://www.reddit.com/r/news/comments/1bg8bde/shelterinplace_order_issued_in_pennsylvania_after/)
+- [United Airlines flight 433 lands safely without panel in Oregon](https://www.reddit.com/r/news/comments/1bg76va/united_airlines_flight_433_lands_safely_without/)
 <!-- REDDIT:END -->
 
 
