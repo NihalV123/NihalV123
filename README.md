@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheriff had cause to take guns from killer before Maine mass shooting that left 18 dead, report says](https://www.reddit.com/r/news/comments/1bfs04d/sheriff_had_cause_to_take_guns_from_killer_before/)
+- [Mystery in Japan as dangerous streptococcal infections soar to record levels](https://www.reddit.com/r/news/comments/1bfposm/mystery_in_japan_as_dangerous_streptococcal/)
+- [Judge delays Trump hush money trial in New York](https://www.reddit.com/r/news/comments/1bfovea/judge_delays_trump_hush_money_trial_in_new_york/)
+- [Stargazer’s paradise: Oregon area named world’s largest dark sky sanctuary](https://www.reddit.com/r/news/comments/1bfnrgm/stargazers_paradise_oregon_area_named_worlds/)
+- [&#39;If anything happens, it&#39;s not suicide&#39;: Boeing whistleblower&#39;s prediction before death](https://www.reddit.com/r/news/comments/1bfna96/if_anything_happens_its_not_suicide_boeing/)
 <!-- REDDIT:END -->
 
 
