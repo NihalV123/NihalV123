@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Swiss police arrests three minors with alleged links to jihadist extremism](https://www.reddit.com/r/news/comments/1bgnqru/swiss_police_arrests_three_minors_with_alleged/)
+- [Sudanese warplanes target the positions of the rebel Rapid Support militia](https://www.reddit.com/r/news/comments/1bgki8u/sudanese_warplanes_target_the_positions_of_the/)
+- [Sudanese warplanes target the positions of the rebel Rapid Support militia](https://www.reddit.com/r/news/comments/1bgki4c/sudanese_warplanes_target_the_positions_of_the/)
+- [Quebec woman gives birth outside after finding hospital door locked](https://www.reddit.com/r/news/comments/1bghv3x/quebec_woman_gives_birth_outside_after_finding/)
+- [New Mexico State Police officer fatally shot ‘in cold blood’ by driver he tried to help, police say](https://www.reddit.com/r/news/comments/1bgewj2/new_mexico_state_police_officer_fatally_shot_in/)
 <!-- REDDIT:END -->
 
 
