@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [USAF Plans $28.48 Billion over 5 Years to Develop New Advanced Fighters, Drone Escorts](https://www.reddit.com/r/news/comments/1bh358y/usaf_plans_2848_billion_over_5_years_to_develop/)
+- [Marriage rates are up and divorce rates are down, new data shows](https://www.reddit.com/r/news/comments/1bh0xqv/marriage_rates_are_up_and_divorce_rates_are_down/)
+- [Reckitt unit hit with $60 million verdict in Enfamil baby formula case in Illinois](https://www.reddit.com/r/news/comments/1bh0p12/reckitt_unit_hit_with_60_million_verdict_in/)
+- [US investigating Meta for role in illicit drug sales](https://www.reddit.com/r/news/comments/1bgybjl/us_investigating_meta_for_role_in_illicit_drug/)
+- [Cambridge college unmasks alumnae who were Bletchley Park codebreakers](https://www.reddit.com/r/news/comments/1bgx9pk/cambridge_college_unmasks_alumnae_who_were/)
 <!-- REDDIT:END -->
 
 
