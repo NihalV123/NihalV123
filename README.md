@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Quebec woman gives birth outside after finding hospital door locked](https://www.reddit.com/r/news/comments/1bghv3x/quebec_woman_gives_birth_outside_after_finding/)
+- [New Mexico State Police officer fatally shot ‘in cold blood’ by driver he tried to help, police say](https://www.reddit.com/r/news/comments/1bgewj2/new_mexico_state_police_officer_fatally_shot_in/)
+- [India antitrust body to probe Google&#39;s in-app billing amid dispute with startups](https://www.reddit.com/r/news/comments/1bgdo0a/india_antitrust_body_to_probe_googles_inapp/)
+- [Andre Gordon: Suspect in Falls Township murders takes hostages in Trenton home, officials say](https://www.reddit.com/r/news/comments/1bgdmny/andre_gordon_suspect_in_falls_township_murders/)
+- [Suspect is barricaded in New Jersey home after killing 3 people in Philadelphia suburb](https://www.reddit.com/r/news/comments/1bgcobg/suspect_is_barricaded_in_new_jersey_home_after/)
 <!-- REDDIT:END -->
 
 
