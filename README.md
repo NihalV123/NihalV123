@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [South Sudan closes schools in preparation for 45C heatwave](https://www.reddit.com/r/news/comments/1bhozc4/south_sudan_closes_schools_in_preparation_for_45c/)
+- [Thousands flee homes as massive flooding grips Central Java - Archipelago - The Jakarta Post](https://www.reddit.com/r/news/comments/1bhowoa/thousands_flee_homes_as_massive_flooding_grips/)
+- [Federal Reserve is likely to preach patience as consumers and markets look ahead to rate cuts](https://www.reddit.com/r/news/comments/1bhoufa/federal_reserve_is_likely_to_preach_patience_as/)
+- [Taliban says eight killed in Pakistan&#39;s two air strikes in Afghanistan](https://www.reddit.com/r/news/comments/1bhm2uw/taliban_says_eight_killed_in_pakistans_two_air/)
+- [Jacksonville Beach police ask people to shelter in place as they respond to active shooter incident in downtown area](https://www.reddit.com/r/news/comments/1bhfrpf/jacksonville_beach_police_ask_people_to_shelter/)
 <!-- REDDIT:END -->
 
 
