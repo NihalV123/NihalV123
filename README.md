@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 separate shootings erupt within 1 hour in Jacksonville Beach, Florida](https://www.reddit.com/r/news/comments/1bhupb0/3_separate_shootings_erupt_within_1_hour_in/)
+- [UN maternity aid looted in Port-au-Prince as Haiti crisis deepens | CNN](https://www.reddit.com/r/news/comments/1bhu82s/un_maternity_aid_looted_in_portauprince_as_haiti/)
+- [EPA bans asbestos, a deadly carcinogen still in use decades after a partial ban was enacted](https://www.reddit.com/r/news/comments/1bhtodq/epa_bans_asbestos_a_deadly_carcinogen_still_in/)
+- [Trump has been unable to get bond for $464 million judgment, his lawyers say](https://www.reddit.com/r/news/comments/1bhs9uy/trump_has_been_unable_to_get_bond_for_464_million/)
+- [Biden to sign executive order aimed at advancing study of women&#39;s health](https://www.reddit.com/r/news/comments/1bhrr2v/biden_to_sign_executive_order_aimed_at_advancing/)
 <!-- REDDIT:END -->
 
 
