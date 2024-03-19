@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dak Prescott: Dallas Cowboys quarterback being investigated for alleged 2017 sexual assault | CNN](https://www.reddit.com/r/news/comments/1bi5nmu/dak_prescott_dallas_cowboys_quarterback_being/)
+- [Man shatters door of Chicago Islamic center after threats, CPD investigating possible hate crime](https://www.reddit.com/r/news/comments/1bi4lcn/man_shatters_door_of_chicago_islamic_center_after/)
+- [Supreme Court extends block on Texas law that would allow police to arrest migrants](https://www.reddit.com/r/news/comments/1bi491k/supreme_court_extends_block_on_texas_law_that/)
+- [Supreme Court turns away &#39;Cowboys for Trump&#39; co-founder ousted from office over Jan. 6](https://www.reddit.com/r/news/comments/1bi1i7c/supreme_court_turns_away_cowboys_for_trump/)
+- [Trader Joe&#39;s nuts recalled after testing finds Salmonella](https://www.reddit.com/r/news/comments/1bi1dxj/trader_joes_nuts_recalled_after_testing_finds/)
 <!-- REDDIT:END -->
 
 
