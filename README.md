@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russians still enjoying American burgers and sandwiches as companies refuse to leave](https://www.reddit.com/r/news/comments/1bipi4v/russians_still_enjoying_american_burgers_and/)
+- [Ex-police officer sentenced to 20 years in Mississippi torture case](https://www.reddit.com/r/news/comments/1bioc1a/expolice_officer_sentenced_to_20_years_in/)
+- [Ex-Trump aide Peter Navarro begins serving prison sentence after historic contempt prosecution](https://www.reddit.com/r/news/comments/1binno9/extrump_aide_peter_navarro_begins_serving_prison/)
+- [MacKenzie Scott donates $640M -- more than double her initial plan -- to nonprofits](https://www.reddit.com/r/news/comments/1binlzm/mackenzie_scott_donates_640m_more_than_double_her/)
+- [Judge rules evidence related to ‘Access Hollywood’ tape admissible in Trump hush money trial](https://www.reddit.com/r/news/comments/1bingei/judge_rules_evidence_related_to_access_hollywood/)
 <!-- REDDIT:END -->
 
 
