@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dodgers fire Shohei Ohtani&#39;s interpreter amid allegation of &#39;massive theft&#39;](https://www.reddit.com/r/news/comments/1bjq8yf/dodgers_fire_shohei_ohtanis_interpreter_amid/)
+- [Idaho police search for escaped inmate and accomplice after ambush at Boise hospital](https://www.reddit.com/r/news/comments/1bjp31v/idaho_police_search_for_escaped_inmate_and/)
+- [Fourth of 6 former Mississippi officers sentenced to 40 years in the torture of 2 Black men | CNN](https://www.reddit.com/r/news/comments/1bjo89b/fourth_of_6_former_mississippi_officers_sentenced/)
+- [After a massive bee kill, a scientist challenges pesticide policies](https://www.reddit.com/r/news/comments/1bjo4pe/after_a_massive_bee_kill_a_scientist_challenges/)
+- [More than 3500 eels found dead in stream in New Zealand: Second mass death this year](https://www.reddit.com/r/news/comments/1bjlsz2/more_than_3500_eels_found_dead_in_stream_in_new/)
 <!-- REDDIT:END -->
 
 
