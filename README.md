@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Angela Chao: Shipping billionaire intoxicated when she drowned in Tesla, police report showsAngela Chao: Shipping billionaire intoxicated when she drowned in Tesla, police report shows](https://www.reddit.com/r/news/comments/1bjz6zo/angela_chao_shipping_billionaire_intoxicated_when/)
+- [FCC investigates Amazon over alleged marketing of wireless signal jammers](https://www.reddit.com/r/news/comments/1bjxksw/fcc_investigates_amazon_over_alleged_marketing_of/)
+- [M. Emmet Walsh, unforgettable character actor from ‘Blood Simple,’ ‘Blade Runner,’ dies at 88](https://www.reddit.com/r/news/comments/1bjwms2/m_emmet_walsh_unforgettable_character_actor_from/)
+- [Dodgers fire Shohei Ohtani&#39;s interpreter amid allegation of &#39;massive theft&#39;](https://www.reddit.com/r/news/comments/1bjq8yf/dodgers_fire_shohei_ohtanis_interpreter_amid/)
+- [Idaho police search for escaped inmate and accomplice after ambush at Boise hospital](https://www.reddit.com/r/news/comments/1bjp31v/idaho_police_search_for_escaped_inmate_and/)
 <!-- REDDIT:END -->
 
 
