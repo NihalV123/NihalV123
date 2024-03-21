@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A new type of bacteria was found in 50% of colon cancers. Many were aggressive cases.](https://www.reddit.com/r/news/comments/1bkcrfi/a_new_type_of_bacteria_was_found_in_50_of_colon/)
+- [Reddit Climbs 38% After Raising $748 Million in Top Priced IPO](https://www.reddit.com/r/news/comments/1bkcdpi/reddit_climbs_38_after_raising_748_million_in_top/)
+- [FBI: &#39;Little rascals&#39; trio, ages 11, 12 and 16, arrested for robbing a Houston bank](https://www.reddit.com/r/news/comments/1bka9x8/fbi_little_rascals_trio_ages_11_12_and_16/)
+- [Surgeons transplant world&#39;s 1st genetically edited pig kidney into living human - ABC News](https://www.reddit.com/r/news/comments/1bk9bcz/surgeons_transplant_worlds_1st_genetically_edited/)
+- [US accuses Apple of monopolising smartphone market](https://www.reddit.com/r/news/comments/1bk8gec/us_accuses_apple_of_monopolising_smartphone_market/)
 <!-- REDDIT:END -->
 
 
