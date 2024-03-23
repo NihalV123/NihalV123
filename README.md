@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [DNA collected from chewing gum leads to arrest and conviction in 1980 cold case murder](https://www.reddit.com/r/news/comments/1blqt0l/dna_collected_from_chewing_gum_leads_to_arrest/)
+- [Crocus City Hall concert hall shooting: ISIS claims attack that left at least 40 dead in Moscow-area music hall | CNN](https://www.reddit.com/r/news/comments/1blc8n1/crocus_city_hall_concert_hall_shooting_isis/)
+- [Infant&#39;s organs donated to save other children in need after entire family dies in SF crash](https://www.reddit.com/r/news/comments/1blbtbk/infants_organs_donated_to_save_other_children_in/)
+- [Measles spread to at least 3 other states after trips to Florida](https://www.reddit.com/r/news/comments/1blb3fp/measles_spread_to_at_least_3_other_states_after/)
+- [Texas abortion law means woman has to continue pregnancy despite fatal anomaly](https://www.reddit.com/r/news/comments/1bl8y2k/texas_abortion_law_means_woman_has_to_continue/)
 <!-- REDDIT:END -->
 
 
