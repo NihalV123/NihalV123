@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Gunmen attack police station in Armenian capital of Yerevan](https://www.reddit.com/r/news/comments/1bmnh1v/gunmen_attack_police_station_in_armenian_capital/)
+- [Mega Millions jackpot rises to $1.1 billion after another drawing without a big winner](https://www.reddit.com/r/news/comments/1bmnern/mega_millions_jackpot_rises_to_11_billion_after/)
+- [Texas medical panel won&#39;t provide list of exceptions to abortion ban](https://www.reddit.com/r/news/comments/1bmnal1/texas_medical_panel_wont_provide_list_of/)
+- [Poland demands explanation from Russia after a missile enters its airspace during attack on Ukraine](https://www.reddit.com/r/news/comments/1bmm81n/poland_demands_explanation_from_russia_after_a/)
+- [85 years after a racist mob drove Opal Lee’s family away, she’s getting a new home on the same spot](https://www.reddit.com/r/news/comments/1bml1um/85_years_after_a_racist_mob_drove_opal_lees/)
 <!-- REDDIT:END -->
 
 
