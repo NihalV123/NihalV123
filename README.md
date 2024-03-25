@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Simon Harris to become Ireland’s youngest prime minister](https://www.reddit.com/r/news/comments/1bmvuuv/simon_harris_to_become_irelands_youngest_prime/)
+- [Rare disorder causes man to see people&#39;s faces as &#39;demonic&#39;](https://www.reddit.com/r/news/comments/1bmspkc/rare_disorder_causes_man_to_see_peoples_faces_as/)
+- [US, Japan plan biggest upgrade to security pact in over 60 years, FT reports](https://www.reddit.com/r/news/comments/1bmsom7/us_japan_plan_biggest_upgrade_to_security_pact_in/)
+- [Gunmen attack police station in Armenian capital of Yerevan](https://www.reddit.com/r/news/comments/1bmnh1v/gunmen_attack_police_station_in_armenian_capital/)
+- [Mega Millions jackpot rises to $1.1 billion after another drawing without a big winner](https://www.reddit.com/r/news/comments/1bmnern/mega_millions_jackpot_rises_to_11_billion_after/)
 <!-- REDDIT:END -->
 
 
