@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Live Updates: Francis Scott Key Bridge in Baltimore Collapses After Being Struck by Cargo Ship “Dali”](https://www.reddit.com/r/news/comments/1bo4xeb/live_updates_francis_scott_key_bridge_in/)
+- [New York City police officer fatally shot during traffic stop](https://www.reddit.com/r/news/comments/1bo3g7s/new_york_city_police_officer_fatally_shot_during/)
+- [Maryland&#39;s Francis Scott Key Bridge closed to traffic after incident](https://www.reddit.com/r/news/comments/1bo1i8x/marylands_francis_scott_key_bridge_closed_to/)
+- [DNA from cigarette butt, styrofoam cup lead to arrest in unsolved Pennsylvania slaying](https://www.reddit.com/r/news/comments/1bnzwte/dna_from_cigarette_butt_styrofoam_cup_lead_to/)
+- [NYPD officer shot and killed during traffic stop in Queens](https://www.reddit.com/r/news/comments/1bnzczo/nypd_officer_shot_and_killed_during_traffic_stop/)
 <!-- REDDIT:END -->
 
 
