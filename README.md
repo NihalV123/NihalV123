@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Warming temperatures could make 70% of the world&#39;s wine-growing regions unsuitable to produce grapes: Scientists - ABC News](https://www.reddit.com/r/news/comments/1bod86e/warming_temperatures_could_make_70_of_the_worlds/)
+- [Wisconsin Supreme Court lets ruling stand that declared Amazon drivers to be employees](https://www.reddit.com/r/news/comments/1bod6l2/wisconsin_supreme_court_lets_ruling_stand_that/)
+- [Texas Attorney General Ken Paxton makes deal to end securities fraud charges weeks before trial](https://www.reddit.com/r/news/comments/1bochy7/texas_attorney_general_ken_paxton_makes_deal_to/)
+- [M&amp;Ms and Snickers parent company Mars spending $70M to open an &#39;innovation lab&#39; in NJ](https://www.reddit.com/r/news/comments/1boc6y5/mms_and_snickers_parent_company_mars_spending_70m/)
+- [Hamas tells mediators it will stick to original position on ceasefire](https://www.reddit.com/r/news/comments/1bobfk0/hamas_tells_mediators_it_will_stick_to_original/)
 <!-- REDDIT:END -->
 
 
