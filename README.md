@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Law enforcement raids Sean &#39;Diddy&#39; Combs&#39;s properties in LA and Miami](https://www.reddit.com/r/news/comments/1bnugk9/law_enforcement_raids_sean_diddy_combss/)
+- [Dairy cattle in Texas and Kansas have tested positive for bird flu](https://www.reddit.com/r/news/comments/1bnst6j/dairy_cattle_in_texas_and_kansas_have_tested/)
+- [Dodgers’ Shohei Ohtani Breaks Silence Regarding Situation Involving Former Interpreter Ippei Mizuhara](https://www.reddit.com/r/news/comments/1bnrsm3/dodgers_shohei_ohtani_breaks_silence_regarding/)
+- [NFL owners unanimously approve a rule that bans the hip-drop tackle | AP News](https://www.reddit.com/r/news/comments/1bnqy49/nfl_owners_unanimously_approve_a_rule_that_bans/)
+- [Florida Gov. Ron DeSantis signs bill that bans children under 14 from having social media accounts](https://www.reddit.com/r/news/comments/1bnnznu/florida_gov_ron_desantis_signs_bill_that_bans/)
 <!-- REDDIT:END -->
 
 
