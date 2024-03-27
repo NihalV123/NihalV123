@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mumbai overtakes Beijing to become Asia&#39;s billionaire capital for the first time](https://www.reddit.com/r/news/comments/1botxy6/mumbai_overtakes_beijing_to_become_asias/)
+- [GirlsDoPorn Owner Extradited to San Diego to Face Sex Trafficking Charges](https://www.reddit.com/r/news/comments/1boqd5z/girlsdoporn_owner_extradited_to_san_diego_to_face/)
+- [Police investigate death of girl whose body was found in pipe after swimming at a Texas hotel](https://www.reddit.com/r/news/comments/1boq172/police_investigate_death_of_girl_whose_body_was/)
+- [Tesla Staff Ordered to Demo Full Self-Driving Mode to Buyers](https://www.reddit.com/r/news/comments/1bonpmi/tesla_staff_ordered_to_demo_full_selfdriving_mode/)
+- [Chicago veterinarian, dog show judge charged with child porn; FBI says he boasted of drugging and abusing multiple kids](https://www.reddit.com/r/news/comments/1bomwtv/chicago_veterinarian_dog_show_judge_charged_with/)
 <!-- REDDIT:END -->
 
 
