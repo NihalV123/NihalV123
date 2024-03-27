@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tesla Staff Ordered to Demo Full Self-Driving Mode to Buyers](https://www.reddit.com/r/news/comments/1bonpmi/tesla_staff_ordered_to_demo_full_selfdriving_mode/)
+- [Chicago veterinarian, dog show judge charged with child porn; FBI says he boasted of drugging and abusing multiple kids](https://www.reddit.com/r/news/comments/1bomwtv/chicago_veterinarian_dog_show_judge_charged_with/)
+- [NBC News ousts Ronna McDaniel after network’s anchors launch unprecedented on-air rebellion](https://www.reddit.com/r/news/comments/1bolnbl/nbc_news_ousts_ronna_mcdaniel_after_networks/)
+- [At least 6 still unaccounted for after cargo ship hits Baltimore bridge](https://www.reddit.com/r/news/comments/1bok88j/at_least_6_still_unaccounted_for_after_cargo_ship/)
+- [Prisoner Review Board member resigns after paroled offender accused of killing 11-year-old boy, stabbing the child’s mother | CNN](https://www.reddit.com/r/news/comments/1bojc1d/prisoner_review_board_member_resigns_after/)
 <!-- REDDIT:END -->
 
 
