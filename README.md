@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Spraying manure and throwing beets, farmers in tractors again block Brussels to protest EU policies](https://www.reddit.com/r/news/comments/1bp06n7/spraying_manure_and_throwing_beets_farmers_in/)
+- [Utah coach says her team had to switch hotels after racist attacks during NCAA Tournament](https://www.reddit.com/r/news/comments/1boyxla/utah_coach_says_her_team_had_to_switch_hotels/)
+- [Puerto Rico has declared an epidemic following a sharp rise in dengue cases](https://www.reddit.com/r/news/comments/1boyv12/puerto_rico_has_declared_an_epidemic_following_a/)
+- [Project to save children from the mafia extended to Sicily and Naples](https://www.reddit.com/r/news/comments/1bouyp1/project_to_save_children_from_the_mafia_extended/)
+- [Ticket sold in New Jersey matches all Mega Millions winning numbers for $1.13 billion prize](https://www.reddit.com/r/news/comments/1bouf3k/ticket_sold_in_new_jersey_matches_all_mega/)
 <!-- REDDIT:END -->
 
 
