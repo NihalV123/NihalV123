@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 high school wrestling team members in West Virginia are charged with sexual assault](https://www.reddit.com/r/news/comments/1bp7use/2_high_school_wrestling_team_members_in_west/)
+- [Nobel Prize winning economist Daniel Kahneman has died](https://www.reddit.com/r/news/comments/1bp63ic/nobel_prize_winning_economist_daniel_kahneman_has/)
+- [Lawmakers in Thailand overwhelmingly approve a bill to legalize same-sex marriage](https://www.reddit.com/r/news/comments/1bp533d/lawmakers_in_thailand_overwhelmingly_approve_a/)
+- [Settlement Reached in Lawsuit between Disney and Ron DeSantis&#39;s Allies.](https://www.reddit.com/r/news/comments/1bp4vr6/settlement_reached_in_lawsuit_between_disney_and/)
+- [2 more belugas dead at Marineland marking 17 whale deaths since 2019](https://www.reddit.com/r/news/comments/1bp423g/2_more_belugas_dead_at_marineland_marking_17/)
 <!-- REDDIT:END -->
 
 
