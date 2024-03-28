@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Devil took over me&#39;: IDF reveals Islamic Jihad terrorist&#39;s October 7 rape confession](https://www.reddit.com/r/news/comments/1bq0skq/devil_took_over_me_idf_reveals_islamic_jihad/)
+- [Supreme Court delay prompts federal judges to act over South Carolina redistricting dispute](https://www.reddit.com/r/news/comments/1bq0c2t/supreme_court_delay_prompts_federal_judges_to_act/)
+- [TikTok makes $2.1 million TV ad buy as Senate reviews bill that could ban app](https://www.reddit.com/r/news/comments/1bpzl0u/tiktok_makes_21_million_tv_ad_buy_as_senate/)
+- [Sam Bankman-Fried sentenced to 25 years in prison](https://www.reddit.com/r/news/comments/1bpz163/sam_bankmanfried_sentenced_to_25_years_in_prison/)
+- [Moscow schoolboys &#39;saved over 100&#39; from Crocus City Hall attack](https://www.reddit.com/r/news/comments/1bpyz0g/moscow_schoolboys_saved_over_100_from_crocus_city/)
 <!-- REDDIT:END -->
 
 
