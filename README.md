@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Burnings and beheadings: Myanmar junta escalates terror tactics against its people](https://www.reddit.com/r/news/comments/1bpn0v5/burnings_and_beheadings_myanmar_junta_escalates/)
+- [Firefighters battle drought and high winds as wildfires rage across Mexico](https://www.reddit.com/r/news/comments/1bphoor/firefighters_battle_drought_and_high_winds_as/)
+- [Judge recommends Ex-Trump election lawyer John Eastman be disbarred | CNN Politics](https://www.reddit.com/r/news/comments/1bpgkg3/judge_recommends_extrump_election_lawyer_john/)
+- [Bodies of two people found during recovery at Key Bridge collapse site](https://www.reddit.com/r/news/comments/1bpf94x/bodies_of_two_people_found_during_recovery_at_key/)
+- [4 killed, 5 wounded in stabbing spree in Rockford, IL](https://www.reddit.com/r/news/comments/1bpeyc8/4_killed_5_wounded_in_stabbing_spree_in_rockford/)
 <!-- REDDIT:END -->
 
 
