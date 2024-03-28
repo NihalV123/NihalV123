@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Holtec gets $1.52 billion US loan to restart nuclear plant](https://www.reddit.com/r/news/comments/1bpt2tj/holtec_gets_152_billion_us_loan_to_restart/)
+- [Europe aligns with US Big Tech probe, targets Apple, Alphabet, and Meta](https://www.reddit.com/r/news/comments/1bpszh6/europe_aligns_with_us_big_tech_probe_targets/)
+- [Freighter pilot called for Tugboat help before plowing into Baltimore bridge](https://www.reddit.com/r/news/comments/1bppcmn/freighter_pilot_called_for_tugboat_help_before/)
+- [Water companies in England face outrage over record sewage discharges](https://www.reddit.com/r/news/comments/1bpj93y/water_companies_in_england_face_outrage_over/)
+- [Firefighters battle drought and high winds as wildfires rage across Mexico](https://www.reddit.com/r/news/comments/1bphoor/firefighters_battle_drought_and_high_winds_as/)
 <!-- REDDIT:END -->
 
 
