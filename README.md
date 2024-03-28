@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bodies of two people found during recovery at Key Bridge collapse site](https://www.reddit.com/r/news/comments/1bpf94x/bodies_of_two_people_found_during_recovery_at_key/)
+- [4 killed, 5 wounded in stabbing spree in Rockford, IL](https://www.reddit.com/r/news/comments/1bpeyc8/4_killed_5_wounded_in_stabbing_spree_in_rockford/)
+- [Joe Lieberman has died](https://www.reddit.com/r/news/comments/1bpdvju/joe_lieberman_has_died/)
+- [Two women shot at northern Virginia daycare, investigation underway](https://www.reddit.com/r/news/comments/1bpcpqh/two_women_shot_at_northern_virginia_daycare/)
+- [Medical examiner&#39;s report of Nex Benedict&#39;s death released](https://www.reddit.com/r/news/comments/1bpc911/medical_examiners_report_of_nex_benedicts_death/)
 <!-- REDDIT:END -->
 
 
