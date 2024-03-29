@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Key findings from AP&#39;s investigation into police force that isn&#39;t supposed to be lethal](https://www.reddit.com/r/news/comments/1bqlhxa/key_findings_from_aps_investigation_into_police/)
+- [Taliban edict to resume stoning women to death met with horror](https://www.reddit.com/r/news/comments/1bqjkgc/taliban_edict_to_resume_stoning_women_to_death/)
+- [North Carolina moves to revoke license of wilderness camp where a 12-year-old died](https://www.reddit.com/r/news/comments/1bqf42a/north_carolina_moves_to_revoke_license_of/)
+- [Crystal Mason: Texas woman sentenced to five years over voting error acquitted](https://www.reddit.com/r/news/comments/1bqdlea/crystal_mason_texas_woman_sentenced_to_five_years/)
+- [Punxsutawney Phil and partner Phyllis welcome two baby groundhogs](https://www.reddit.com/r/news/comments/1bqbxux/punxsutawney_phil_and_partner_phyllis_welcome_two/)
 <!-- REDDIT:END -->
 
 
