@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Vets fret as private equity snaps up clinics, pet care companies](https://www.reddit.com/r/news/comments/1brmy2b/vets_fret_as_private_equity_snaps_up_clinics_pet/)
+- [The Realtors settlement is already changing the way some Americans buy and sell homes](https://www.reddit.com/r/news/comments/1brmdef/the_realtors_settlement_is_already_changing_the/)
+- [Best Buy offers to screen LGBTQ nonprofit donations after conservative pressure, filing shows](https://www.reddit.com/r/news/comments/1brll91/best_buy_offers_to_screen_lgbtq_nonprofit/)
+- [150 arrested for allegedly using drones to transport drugs, guns, cellphones into Georgia prisons](https://www.reddit.com/r/news/comments/1brjrqv/150_arrested_for_allegedly_using_drones_to/)
+- [A man suspected of holding 4 hostages for hours in a Dutch nightclub has been arrested](https://www.reddit.com/r/news/comments/1briuxp/a_man_suspected_of_holding_4_hostages_for_hours/)
 <!-- REDDIT:END -->
 
 
