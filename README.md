@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oklahoma State Patrol says it is diverting traffic after a barge hit a bridge](https://www.reddit.com/r/news/comments/1bs0m0h/oklahoma_state_patrol_says_it_is_diverting/)
+- [Texas appeals court blocks state from investigating families seeking gender-affirming care for trans youth | CNN](https://www.reddit.com/r/news/comments/1bryvo9/texas_appeals_court_blocks_state_from/)
+- [Scientists link elusive human group to 150,000-year-old Chinese ‘dragon man’](https://www.reddit.com/r/news/comments/1brtbwq/scientists_link_elusive_human_group_to/)
+- [He killed a man 26 years ago in Missouri. His husband secretly worked with investigators to get a confession](https://www.reddit.com/r/news/comments/1brrrbl/he_killed_a_man_26_years_ago_in_missouri_his/)
+- [AT&amp;T informs users of data breach and resets millions of passcodes](https://www.reddit.com/r/news/comments/1brqmhy/att_informs_users_of_data_breach_and_resets/)
 <!-- REDDIT:END -->
 
 
