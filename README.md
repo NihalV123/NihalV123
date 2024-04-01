@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Millions of recalled Hyundai and Kia vehicles with a dangerous defect remain on the road](https://www.reddit.com/r/news/comments/1bt2bb6/millions_of_recalled_hyundai_and_kia_vehicles/)
+- [Germans celebrate as recreational cannabis use becomes legal](https://www.reddit.com/r/news/comments/1bt1u1x/germans_celebrate_as_recreational_cannabis_use/)
+- [Australian of the Year Richard Scolyer &#39;blown away&#39; by success of radical new brain cancer treatment](https://www.reddit.com/r/news/comments/1bszn63/australian_of_the_year_richard_scolyer_blown_away/)
+- [Three wounded in stabbing attack in Gan Yavne](https://www.reddit.com/r/news/comments/1bsua9y/three_wounded_in_stabbing_attack_in_gan_yavne/)
+- [US oil suppliers muscling into Opec+ markets around the world](https://www.reddit.com/r/news/comments/1bstjhg/us_oil_suppliers_muscling_into_opec_markets/)
 <!-- REDDIT:END -->
 
 
