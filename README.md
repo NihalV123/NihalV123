@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Iran says Israel bombed its embassy in Syria, killing a top commander](https://www.reddit.com/r/news/comments/1btaxa3/iran_says_israel_bombed_its_embassy_in_syria/)
+- [Texas person is diagnosed with bird flu after being in contact with cows](https://www.reddit.com/r/news/comments/1btatxu/texas_person_is_diagnosed_with_bird_flu_after/)
+- [Israel’s Netanyahu promises to ‘act immediately’ to close Al Jazeera](https://www.reddit.com/r/news/comments/1bta9w6/israels_netanyahu_promises_to_act_immediately_to/)
+- [JK Rowling in ‘arrest me’ challenge over hate crime law](https://www.reddit.com/r/news/comments/1bt9ev3/jk_rowling_in_arrest_me_challenge_over_hate_crime/)
+- [Suicide and abuse revealed at Under Armour, Columbia and American Eagle supplier](https://www.reddit.com/r/news/comments/1bt96ds/suicide_and_abuse_revealed_at_under_armour/)
 <!-- REDDIT:END -->
 
 
