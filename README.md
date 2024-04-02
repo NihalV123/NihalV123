@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Truck strikes overpass in Philadelphia on I-95](https://www.reddit.com/r/news/comments/1bu1wcd/truck_strikes_overpass_in_philadelphia_on_i95/)
+- [New York inmates are suing to watch the solar eclipse after state orders prisons locked down](https://www.reddit.com/r/news/comments/1bu17ip/new_york_inmates_are_suing_to_watch_the_solar/)
+- [Chiefs player Rashee Rice is cooperating with police after fleeing the scene in a sports car crash in Dallas, attorney says](https://www.reddit.com/r/news/comments/1bu10nd/chiefs_player_rashee_rice_is_cooperating_with/)
+- [Freight railroads must keep 2-person crews, according to new federal rule](https://www.reddit.com/r/news/comments/1bu0qs7/freight_railroads_must_keep_2person_crews/)
+- [A Kansas paper and its publisher are suing over police raids. They say damages exceed $10M](https://www.reddit.com/r/news/comments/1bu0be3/a_kansas_paper_and_its_publisher_are_suing_over/)
 <!-- REDDIT:END -->
 
 
