@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [My sister-in-law is dead because of ‘abuse and torture’ at Under Armour factory](https://www.reddit.com/r/news/comments/1buqcqy/my_sisterinlaw_is_dead_because_of_abuse_and/)
+- [Ringleader of global monkey torture network, &#39;The Torture King&#39;, is charged](https://www.reddit.com/r/news/comments/1buq4us/ringleader_of_global_monkey_torture_network_the/)
+- [Baltimore bridge collapse: Dali’s Singapore owner, manager file petition to cap compensation at US$43.6 million](https://www.reddit.com/r/news/comments/1bulxyh/baltimore_bridge_collapse_dalis_singapore_owner/)
+- [Everyone in Japan will be called Sato by 2531 unless marriage law changed, says professor](https://www.reddit.com/r/news/comments/1bulose/everyone_in_japan_will_be_called_sato_by_2531/)
+- [Truth Social owner Trump Media sues two former ‘Apprentices,’ seeking to wipe out their shares](https://www.reddit.com/r/news/comments/1buivaw/truth_social_owner_trump_media_sues_two_former/)
 <!-- REDDIT:END -->
 
 
