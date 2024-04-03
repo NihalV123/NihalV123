@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Truth Social owner Trump Media sues two former ‘Apprentices,’ seeking to wipe out their shares](https://www.reddit.com/r/news/comments/1buivaw/truth_social_owner_trump_media_sues_two_former/)
+- [U.S. told Russia that Crocus City Hall was possible target of attack](https://www.reddit.com/r/news/comments/1builgb/us_told_russia_that_crocus_city_hall_was_possible/)
+- [Lauren Boebert hospitalized, underwent surgery for blood clot, campaign says](https://www.reddit.com/r/news/comments/1bui7nh/lauren_boebert_hospitalized_underwent_surgery_for/)
+- [Strong earthquake off east coast of Taiwan](https://www.reddit.com/r/news/comments/1buerkl/strong_earthquake_off_east_coast_of_taiwan/)
+- [Three British aid workers killed in Israeli strike in Gaza named](https://www.reddit.com/r/news/comments/1bue726/three_british_aid_workers_killed_in_israeli/)
 <!-- REDDIT:END -->
 
 
