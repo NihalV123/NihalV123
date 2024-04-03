@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Strong earthquake off east coast of Taiwan](https://www.reddit.com/r/news/comments/1buerkl/strong_earthquake_off_east_coast_of_taiwan/)
+- [Three British aid workers killed in Israeli strike in Gaza named](https://www.reddit.com/r/news/comments/1bue726/three_british_aid_workers_killed_in_israeli/)
+- [Charities halt Gaza aid after drone attack that killed seven workers](https://www.reddit.com/r/news/comments/1budn1f/charities_halt_gaza_aid_after_drone_attack_that/)
+- [A Texas woman is suing the prosecutors who charged her with murder after her self-induced abortion | CNN](https://www.reddit.com/r/news/comments/1bud08z/a_texas_woman_is_suing_the_prosecutors_who/)
+- [Amazon is removing Just Walk Out technology from its Fresh grocery stores in the US](https://www.reddit.com/r/news/comments/1bu7hko/amazon_is_removing_just_walk_out_technology_from/)
 <!-- REDDIT:END -->
 
 
