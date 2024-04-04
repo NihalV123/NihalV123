@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [All billionaires under 30 have inherited their wealth, research finds | Rich lists](https://www.reddit.com/r/news/comments/1bv8t6a/all_billionaires_under_30_have_inherited_their/)
+- [Not wanting to pollute the ocean, Larry Ellison employs a man who follows his $160 million superyacht in a speedboat. This person&#39;s sole job is to retrieve the basketballs that go overboard while the eccentric centibillionaire unwinds by shooting hoops on his vessel&#39;s court. - Luxurylaunches](https://www.reddit.com/r/news/comments/1bv7x2i/not_wanting_to_pollute_the_ocean_larry_ellison/)
+- [Jefferson County man arrested on dog fighting charges; 78 dogs rescued](https://www.reddit.com/r/news/comments/1bv759k/jefferson_county_man_arrested_on_dog_fighting/)
+- [Colorado suspects in rock-throwing death plead not guilty, trials to begin this summer](https://www.reddit.com/r/news/comments/1bv5xod/colorado_suspects_in_rockthrowing_death_plead_not/)
+- [Judge rejects Donald Trump’s request to delay hush-money trial until Supreme Court rules on immunity](https://www.reddit.com/r/news/comments/1bv4dad/judge_rejects_donald_trumps_request_to_delay/)
 <!-- REDDIT:END -->
 
 
