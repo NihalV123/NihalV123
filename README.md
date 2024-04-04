@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza](https://www.reddit.com/r/news/comments/1bvl07u/lavender_the_ai_machine_directing_israels_bombing/)
+- [Fairfax police academy bars Herndon officers in dispute over Chinese signature](https://www.reddit.com/r/news/comments/1bvkns9/fairfax_police_academy_bars_herndon_officers_in/)
+- [Prosecutors say school shooter Ethan Crumbley’s parents show ‘chilling lack of remorse’ after manslaughter convictions](https://www.reddit.com/r/news/comments/1bvk96p/prosecutors_say_school_shooter_ethan_crumbleys/)
+- [Iran discovers giant shale oil reserves &lpar;2.5 billion barrels&rpar; in several regions.](https://www.reddit.com/r/news/comments/1bviq5j/iran_discovers_giant_shale_oil_reserves_25/)
+- [Rashee Rice: Super Bowl champion admits role in Texas hit-and-run](https://www.reddit.com/r/news/comments/1bvc7gx/rashee_rice_super_bowl_champion_admits_role_in/)
 <!-- REDDIT:END -->
 
 
