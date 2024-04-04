@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rashee Rice: Super Bowl champion admits role in Texas hit-and-run](https://www.reddit.com/r/news/comments/1bvc7gx/rashee_rice_super_bowl_champion_admits_role_in/)
+- [Fierce earthquake rattles Taiwan, killing 9 and injuring more than 1,000](https://www.reddit.com/r/news/comments/1bvawp1/fierce_earthquake_rattles_taiwan_killing_9_and/)
+- [In one of L.A.&#39;s largest cash heists, burglars steal as much as $30 million. Mystery surrounds case](https://www.reddit.com/r/news/comments/1bvaind/in_one_of_las_largest_cash_heists_burglars_steal/)
+- [South Korean computer chipmaker plans $3.87 billion Indiana semiconductor plant and research center](https://www.reddit.com/r/news/comments/1bv9rj3/south_korean_computer_chipmaker_plans_387_billion/)
+- [Jefferson County man arrested on dog fighting charges; 78 dogs rescued](https://www.reddit.com/r/news/comments/1bv759k/jefferson_county_man_arrested_on_dog_fighting/)
 <!-- REDDIT:END -->
 
 
