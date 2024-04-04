@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing wins $405M to test nuclear missile systems in &#39;extreme environments&#39; in Utah](https://www.reddit.com/r/news/comments/1bvsxsc/boeing_wins_405m_to_test_nuclear_missile_systems/)
+- [Truck crash spills live salmon into wrong Oregon river](https://www.reddit.com/r/news/comments/1bvsig8/truck_crash_spills_live_salmon_into_wrong_oregon/)
+- [Police ID man whose body travelled 235 km in Niagara waters, starting in 1990](https://www.reddit.com/r/news/comments/1bvrtht/police_id_man_whose_body_travelled_235_km_in/)
+- [Questioning police tactics: Diabetic man&#39;s arrest at Walmart sparks controversy](https://www.reddit.com/r/news/comments/1bvrrks/questioning_police_tactics_diabetic_mans_arrest/)
+- [Forecasters issue highest Atlantic hurricane season outlook in nearly 30 years](https://www.reddit.com/r/news/comments/1bvo7ah/forecasters_issue_highest_atlantic_hurricane/)
 <!-- REDDIT:END -->
 
 
