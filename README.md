@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [N.Y. prison will let inmates go outdoors to view eclipse after lawsuit](https://www.reddit.com/r/news/comments/1bwf1e4/ny_prison_will_let_inmates_go_outdoors_to_view/)
+- [Israel dismisses 2 officers over deadly drone strikes on aid workers in Gaza](https://www.reddit.com/r/news/comments/1bwetje/israel_dismisses_2_officers_over_deadly_drone/)
+- [South Carolina mulls mystery $1.8bn in account: ‘We don’t know why it’s there’](https://www.reddit.com/r/news/comments/1bwdujd/south_carolina_mulls_mystery_18bn_in_account_we/)
+- [Samsung: Tech giant sees profits jump by more than 900%](https://www.reddit.com/r/news/comments/1bw9xmk/samsung_tech_giant_sees_profits_jump_by_more_than/)
+- [Denmark shuts shipping strait over missile failure](https://www.reddit.com/r/news/comments/1bw91rj/denmark_shuts_shipping_strait_over_missile_failure/)
 <!-- REDDIT:END -->
 
 
