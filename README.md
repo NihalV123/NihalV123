@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cartels, mafias and gangs in Europe are using fruit companies, hotels and other legal businesses as fronts, Europol says](https://www.reddit.com/r/news/comments/1bxhg17/cartels_mafias_and_gangs_in_europe_are_using/)
+- [Hostage Elad Katzir murdered, body returned to Isreal](https://www.reddit.com/r/news/comments/1bxg2c6/hostage_elad_katzir_murdered_body_returned_to/)
+- [Climate activist Greta Thunberg detained twice at demonstration in The Hague](https://www.reddit.com/r/news/comments/1bxeff2/climate_activist_greta_thunberg_detained_twice_at/)
+- [US air force finds contractor who walked into propeller had become disorientated](https://www.reddit.com/r/news/comments/1bxdn7j/us_air_force_finds_contractor_who_walked_into/)
+- [Customer shoots Chipotle worker over guacamole dispute in Southfield](https://www.reddit.com/r/news/comments/1bxb2c1/customer_shoots_chipotle_worker_over_guacamole/)
 <!-- REDDIT:END -->
 
 
