@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [30 years ago a prominent Baptist scholar said that LGBTQ people should be politely and respectfully excluded from public spaces. He has apparently changed his mind and is publishing a new theological text to support LGBTQ inclusion.](https://www.reddit.com/r/news/comments/1by32x2/30_years_ago_a_prominent_baptist_scholar_said/)
+- [Powerball draws numbers for estimated $1.3B jackpot after delay of more than 3 hours](https://www.reddit.com/r/news/comments/1by0j38/powerball_draws_numbers_for_estimated_13b_jackpot/)
+- [Muslim organizations pack 20,000 meals to give away during Ramadan](https://www.reddit.com/r/news/comments/1by0eso/muslim_organizations_pack_20000_meals_to_give/)
+- [Hungry at 3 am? You’re out of luck now | CNN Business](https://www.reddit.com/r/news/comments/1bxztk6/hungry_at_3_am_youre_out_of_luck_now_cnn_business/)
+- [Security guard killed, officer and 6 others injured in Florida shooting - ABC News](https://www.reddit.com/r/news/comments/1bxx0nd/security_guard_killed_officer_and_6_others/)
 <!-- REDDIT:END -->
 
 
