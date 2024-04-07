@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [‘1923’ actor Cole Brings Plenty found dead, police and family confirm | CNN](https://www.reddit.com/r/news/comments/1bxpdwi/1923_actor_cole_brings_plenty_found_dead_police/)
+- [Israeli doctor says detained Palestinians are undergoing ‘routine’ amputations for handcuff injuries | CNN](https://www.reddit.com/r/news/comments/1bxmq7q/israeli_doctor_says_detained_palestinians_are/)
+- [Superman&#39;s first appearance sells for $6 million, becoming world&#39;s most valuable comic](https://www.reddit.com/r/news/comments/1bxjybx/supermans_first_appearance_sells_for_6_million/)
+- [Former N.J. officer alleges department had ticket quota, says he faced retaliation and discrimination from police chief](https://www.reddit.com/r/news/comments/1bxjnm3/former_nj_officer_alleges_department_had_ticket/)
+- [Cartels, mafias and gangs in Europe are using fruit companies, hotels and other legal businesses as fronts, Europol says](https://www.reddit.com/r/news/comments/1bxhg17/cartels_mafias_and_gangs_in_europe_are_using/)
 <!-- REDDIT:END -->
 
 
