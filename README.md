@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK’s Russ Cook has completed his 16,000km run along the length of Africa](https://www.reddit.com/r/news/comments/1bya3tt/uks_russ_cook_has_completed_his_16000km_run_along/)
+- [Investor Group Looks to Save the 99 Cents Only Stores in Southern California](https://www.reddit.com/r/news/comments/1by99qa/investor_group_looks_to_save_the_99_cents_only/)
+- [‘Simply mind-boggling’: world record temperature jump in Antarctic raises fears of catastrophe](https://www.reddit.com/r/news/comments/1by4kri/simply_mindboggling_world_record_temperature_jump/)
+- [Bill Clinton and other leaders join Rwandans in marking 30 years since their genocide](https://www.reddit.com/r/news/comments/1by1ebb/bill_clinton_and_other_leaders_join_rwandans_in/)
+- [Powerball draws numbers for estimated $1.3B jackpot after delay of more than 3 hours](https://www.reddit.com/r/news/comments/1by0j38/powerball_draws_numbers_for_estimated_13b_jackpot/)
 <!-- REDDIT:END -->
 
 
