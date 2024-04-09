@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man convicted in decadeslong identity theft that led to his victim being jailed](https://www.reddit.com/r/news/comments/1bzeiac/man_convicted_in_decadeslong_identity_theft_that/)
+- [Tesla settles with Apple engineer’s family who said Autopilot caused his fatal crash](https://www.reddit.com/r/news/comments/1bzbyee/tesla_settles_with_apple_engineers_family_who/)
+- [Woman claims &quot;God&quot; directed her to shoot cars on I-10 in Florida during eclipse](https://www.reddit.com/r/news/comments/1bz9uvu/woman_claims_god_directed_her_to_shoot_cars_on/)
+- [2 people killed, shooter also dead at Las Vegas law office](https://www.reddit.com/r/news/comments/1bz7yk1/2_people_killed_shooter_also_dead_at_las_vegas/)
+- [Gaza truce talks still deadlocked, Netanyahu sets date for offensive](https://www.reddit.com/r/news/comments/1bz7rtm/gaza_truce_talks_still_deadlocked_netanyahu_sets/)
 <!-- REDDIT:END -->
 
 
