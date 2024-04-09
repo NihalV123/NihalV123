@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mona: Court rules women&#39;s-only exhibit must allow male visitors](https://www.reddit.com/r/news/comments/1bzy42h/mona_court_rules_womensonly_exhibit_must_allow/)
+- [Arizona Supreme Court rules state must adhere to century-old law banning nearly all abortions | CNN](https://www.reddit.com/r/news/comments/1bzxv51/arizona_supreme_court_rules_state_must_adhere_to/)
+- [James and Jennifer Crumbley each sentenced to 10 to 15 years in prison](https://www.reddit.com/r/news/comments/1bzx1l0/james_and_jennifer_crumbley_each_sentenced_to_10/)
+- [US has no evidence of unfolding genocide in Gaza: Pentagon](https://www.reddit.com/r/news/comments/1bzwm5o/us_has_no_evidence_of_unfolding_genocide_in_gaza/)
+- [British physicist Peter Higgs, physicist who discovered Higgs boson, dies aged 94](https://www.reddit.com/r/news/comments/1bzwa6w/british_physicist_peter_higgs_physicist_who/)
 <!-- REDDIT:END -->
 
 
