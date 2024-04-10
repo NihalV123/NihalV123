@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel threatens to strike Iran directly if Iran launches attack from its territory](https://www.reddit.com/r/news/comments/1c0nx75/israel_threatens_to_strike_iran_directly_if_iran/)
+- [6 former officers who pleaded guilty in ‘Goon Squad’ torture of 2 Black men sentenced in state court](https://www.reddit.com/r/news/comments/1c0nwg3/6_former_officers_who_pleaded_guilty_in_goon/)
+- [Ex-Trump CFO Allen Weisselberg sentenced to 5 months for perjury in Trump civil fraud trial](https://www.reddit.com/r/news/comments/1c0n9ey/extrump_cfo_allen_weisselberg_sentenced_to_5/)
+- [Zambia uncovers &#39;sophisticated&#39; Chinese cybercrime syndicate](https://www.reddit.com/r/news/comments/1c0l7v7/zambia_uncovers_sophisticated_chinese_cybercrime/)
+- [Consumer prices rose 3.5% from a year ago in March, more than expected](https://www.reddit.com/r/news/comments/1c0l5c8/consumer_prices_rose_35_from_a_year_ago_in_march/)
 <!-- REDDIT:END -->
 
 
