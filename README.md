@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California man faces trial in hate case years after Massachusetts stabbing | AP News](https://www.reddit.com/r/news/comments/1c06gvi/california_man_faces_trial_in_hate_case_years/)
+- [Videos show Chicago police fired nearly 100 shots over 41 seconds during fatal traffic stop](https://www.reddit.com/r/news/comments/1c06fiq/videos_show_chicago_police_fired_nearly_100_shots/)
+- [AI-operated fighter jet will fly Air Force secretary in a test of military&#39;s future drone warplanes](https://www.reddit.com/r/news/comments/1c06f53/aioperated_fighter_jet_will_fly_air_force/)
+- [Women&#39;s NCAA title game outdraws the men&#39;s championship with an average of 18.9 million viewers](https://www.reddit.com/r/news/comments/1c06c6c/womens_ncaa_title_game_outdraws_the_mens/)
+- [Grandparents accused of killing 3-year-old grandson, police say](https://www.reddit.com/r/news/comments/1c05uju/grandparents_accused_of_killing_3yearold_grandson/)
 <!-- REDDIT:END -->
 
 
