@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California judge dismisses one of ‘Are We Dating the Same Guy?’ lawsuits](https://www.reddit.com/r/news/comments/1c0ai0m/california_judge_dismisses_one_of_are_we_dating/)
+- [Littleton Public School bus aide fired after Colorado students with autism &quot;tortured and traumatized&quot;](https://www.reddit.com/r/news/comments/1c09oan/littleton_public_school_bus_aide_fired_after/)
+- [Air Canada Boeing 737 makes emergency landing after technical issue – NBC4 Washington](https://www.reddit.com/r/news/comments/1c09mcx/air_canada_boeing_737_makes_emergency_landing/)
+- [Discovery of dead baby on 405 Freeway in Culver City linked to other murder, deadly crash](https://www.reddit.com/r/news/comments/1c090jb/discovery_of_dead_baby_on_405_freeway_in_culver/)
+- [Idaho man faces federal terrorism charge. Prosecutors say he planned a church attack to support IS](https://www.reddit.com/r/news/comments/1c08w5y/idaho_man_faces_federal_terrorism_charge/)
 <!-- REDDIT:END -->
 
 
