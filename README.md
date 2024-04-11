@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine will be outgunned by Russia 10 to 1 in weeks without US help, top Europe general says](https://www.reddit.com/r/news/comments/1c10ygs/ukraine_will_be_outgunned_by_russia_10_to_1_in/)
+- [Man reaching for fried chicken crashes car near Rossland, BC](https://www.reddit.com/r/news/comments/1c107cw/man_reaching_for_fried_chicken_crashes_car_near/)
+- [Panama Papers: trial begins of 27 Mossack Fonseca employees](https://www.reddit.com/r/news/comments/1c0zn28/panama_papers_trial_begins_of_27_mossack_fonseca/)
+- [Embattled Harvard honesty professor accused of plagiarism: Academic chapter and two books authored by Francesca Gino appear to copy from sources including student theses, blogs, and news reports](https://www.reddit.com/r/news/comments/1c0y9x3/embattled_harvard_honesty_professor_accused_of/)
+- [Off-duty officer charged with murder after shooting man in South Carolina parking lot, agents say](https://www.reddit.com/r/news/comments/1c0web2/offduty_officer_charged_with_murder_after/)
 <!-- REDDIT:END -->
 
 
