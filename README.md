@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Truong My Lan: Vietnamese billionaire sentenced to death for $44bn fraud](https://www.reddit.com/r/news/comments/1c1bt9j/truong_my_lan_vietnamese_billionaire_sentenced_to/)
+- [An 85-year-old woman was handcuffed to a chair during an armed home invasion. She killed the robber and survived.](https://www.reddit.com/r/news/comments/1c184k9/an_85yearold_woman_was_handcuffed_to_a_chair/)
+- [One dead and five injured in Washington DC shooting, police say](https://www.reddit.com/r/news/comments/1c11w89/one_dead_and_five_injured_in_washington_dc/)
+- [Panama Papers: trial begins of 27 Mossack Fonseca employees](https://www.reddit.com/r/news/comments/1c0zn28/panama_papers_trial_begins_of_27_mossack_fonseca/)
+- [Embattled Harvard honesty professor accused of plagiarism: Academic chapter and two books authored by Francesca Gino appear to copy from sources including student theses, blogs, and news reports](https://www.reddit.com/r/news/comments/1c0y9x3/embattled_harvard_honesty_professor_accused_of/)
 <!-- REDDIT:END -->
 
 
