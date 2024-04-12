@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Amazon owes $525 million in cloud-storage patent fight, U.S. jury says](https://www.reddit.com/r/news/comments/1c2f2u1/amazon_owes_525_million_in_cloudstorage_patent/)
+- [K-Pop Singer-Songwriter Park Boram Found Dead at 30](https://www.reddit.com/r/news/comments/1c2eolm/kpop_singersongwriter_park_boram_found_dead_at_30/)
+- [Shooting of Virginia teacher by 6-year-old was an ‘avoidable event,’ special grand jury report says](https://www.reddit.com/r/news/comments/1c2ed14/shooting_of_virginia_teacher_by_6yearold_was_an/)
+- [Mom accused of murder-suicide, leaving kids on 405 Freeway, was astrology influencer, fearful of eclipse](https://www.reddit.com/r/news/comments/1c2dtlp/mom_accused_of_murdersuicide_leaving_kids_on_405/)
+- [City of Stockton settles lawsuit from family of man who died following police restraint](https://www.reddit.com/r/news/comments/1c2d4x8/city_of_stockton_settles_lawsuit_from_family_of/)
 <!-- REDDIT:END -->
 
 
