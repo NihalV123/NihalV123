@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sex assault charge against U.S. Marine in case of teen found on base is dropped](https://www.reddit.com/r/news/comments/1c2uaf9/sex_assault_charge_against_us_marine_in_case_of/)
+- [Tennessee lawmakers send bill to ban first-cousin marriages to governor](https://www.reddit.com/r/news/comments/1c2s89b/tennessee_lawmakers_send_bill_to_ban_firstcousin/)
+- [Dallas doctor convicted of tampering with IV bags linked to coworker&#39;s death and other emergencies](https://www.reddit.com/r/news/comments/1c2r1ye/dallas_doctor_convicted_of_tampering_with_iv_bags/)
+- [Oklahoma City Planning Commission advances massive Legends Tower &lpar;It would be the tallest tower in the U.S if it is completed&rpar;](https://www.reddit.com/r/news/comments/1c2qr30/oklahoma_city_planning_commission_advances/)
+- [Bill requiring Louisiana schools to display the Ten Commandments passes House](https://www.reddit.com/r/news/comments/1c2oc1t/bill_requiring_louisiana_schools_to_display_the/)
 <!-- REDDIT:END -->
 
 
