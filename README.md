@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bill requiring Louisiana schools to display the Ten Commandments passes House](https://www.reddit.com/r/news/comments/1c2oc1t/bill_requiring_louisiana_schools_to_display_the/)
+- [World&#39;s oldest conjoined twins pass away](https://www.reddit.com/r/news/comments/1c2mjah/worlds_oldest_conjoined_twins_pass_away/)
+- [A Hidden Sexual-Assault Scandal at the New York Philharmonic](https://www.reddit.com/r/news/comments/1c2kceh/a_hidden_sexualassault_scandal_at_the_new_york/)
+- [Matthews PD sergeant choked handcuffed man. Town kept the video secret.](https://www.reddit.com/r/news/comments/1c2jvec/matthews_pd_sergeant_choked_handcuffed_man_town/)
+- [Crash of semitrailer into Texas public safety office was intentional, lawmaker says](https://www.reddit.com/r/news/comments/1c2ivpr/crash_of_semitrailer_into_texas_public_safety/)
 <!-- REDDIT:END -->
 
 
