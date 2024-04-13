@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alaska judge strikes down state’s cash payments to families using correspondence school programs • Alaska Beacon](https://www.reddit.com/r/news/comments/1c3703d/alaska_judge_strikes_down_states_cash_payments_to/)
+- [10 years after armed standoff with federal agents, Bundy cattle are still grazing disputed rangeland](https://www.reddit.com/r/news/comments/1c36bmc/10_years_after_armed_standoff_with_federal_agents/)
+- [13-year-old from Detroit along with his brother, 19, charged in brutal assault on woman near Michigan Stadium](https://www.reddit.com/r/news/comments/1c34avv/13yearold_from_detroit_along_with_his_brother_19/)
+- [US diplomat turned Cuban spy jailed for 15 years](https://www.reddit.com/r/news/comments/1c32ntt/us_diplomat_turned_cuban_spy_jailed_for_15_years/)
+- [Pro-Palestine protester charged for threatening to &#39;murder&#39; Bakersfield lawmakers](https://www.reddit.com/r/news/comments/1c31pa4/propalestine_protester_charged_for_threatening_to/)
 <!-- REDDIT:END -->
 
 
