@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Temperatures in parts of Spain up to 16C higher than normal](https://www.reddit.com/r/news/comments/1c3uq2k/temperatures_in_parts_of_spain_up_to_16c_higher/)
+- [Mass shooting in Chicago leaves 1 child dead, 10 other people injured in Back of the Yards](https://www.reddit.com/r/news/comments/1c3u6eg/mass_shooting_in_chicago_leaves_1_child_dead_10/)
+- [Georgia father sentenced to 50 years for poisoning his newborn&#39;s breastmilk with antifreeze](https://www.reddit.com/r/news/comments/1c3s4bf/georgia_father_sentenced_to_50_years_for/)
+- [Jury visits a ranch near US-Mexico border where an Arizona man is charged with killing a migrant](https://www.reddit.com/r/news/comments/1c3s0a4/jury_visits_a_ranch_near_usmexico_border_where_an/)
+- [Missing Amarillo teen found safe 13 years later on US East Coast](https://www.reddit.com/r/news/comments/1c3rqm7/missing_amarillo_teen_found_safe_13_years_later/)
 <!-- REDDIT:END -->
 
 
