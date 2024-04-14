@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Authorities discover body after Florida woman is carjacked at gunpoint; had called husband to say she was being followed](https://www.reddit.com/r/news/comments/1c3h4u9/authorities_discover_body_after_florida_woman_is/)
+- [Convicted murderer charged in two new Texas killings offers to return to prison in plea | AP News](https://www.reddit.com/r/news/comments/1c3fbta/convicted_murderer_charged_in_two_new_texas/)
+- [Brooklyn fridge body parts case leads to arrest of Nicholas McGee: NYPD – NBC New York](https://www.reddit.com/r/news/comments/1c3e7hv/brooklyn_fridge_body_parts_case_leads_to_arrest/)
+- [Madison man sentenced in firebombing of Madison anti-abortion group office](https://www.reddit.com/r/news/comments/1c3czsx/madison_man_sentenced_in_firebombing_of_madison/)
+- [Mysterious symbols found near footprints shed light on ancient humans’ awareness of dinosaurs, scientists say](https://www.reddit.com/r/news/comments/1c3arkc/mysterious_symbols_found_near_footprints_shed/)
 <!-- REDDIT:END -->
 
 
