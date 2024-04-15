@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court rejects appeal from Black Lives Matter activist over Louisiana protest lawsuit](https://www.reddit.com/r/news/comments/1c4q3xn/supreme_court_rejects_appeal_from_black_lives/)
+- [Bureau of Prisons to close California women&#39;s prison where inmates have been subjected to sex abuse](https://www.reddit.com/r/news/comments/1c4pb97/bureau_of_prisons_to_close_california_womens/)
+- [Survivors of 2017 Ariana Grande concert bombing take legal action against UK intelligence agency](https://www.reddit.com/r/news/comments/1c4oypj/survivors_of_2017_ariana_grande_concert_bombing/)
+- [Beijing half marathon under investigation after three runners appear to allow Chinese man to win](https://www.reddit.com/r/news/comments/1c4otb7/beijing_half_marathon_under_investigation_after/)
+- [HCSO shootout with ‘sovereign citizen’ ends with man dead and innocent bystander injured](https://www.reddit.com/r/news/comments/1c4o0x9/hcso_shootout_with_sovereign_citizen_ends_with/)
 <!-- REDDIT:END -->
 
 
