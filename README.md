@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [State tax officials are using AI to go after wealthy payers](https://www.reddit.com/r/news/comments/1c4klj9/state_tax_officials_are_using_ai_to_go_after/)
+- [Traffic nightmare: Construction closure causes delays leaving Virginia Key, Key Biscayne](https://www.reddit.com/r/news/comments/1c4kkiu/traffic_nightmare_construction_closure_causes/)
+- [Federal criminal investigation underway for Baltimore bridge collapse](https://www.reddit.com/r/news/comments/1c4kjjl/federal_criminal_investigation_underway_for/)
+- [Christian leader, worshippers stabbed during mass in Sydney’s west](https://www.reddit.com/r/news/comments/1c4jr6u/christian_leader_worshippers_stabbed_during_mass/)
+- [Sydney shopping mall killer targeted women, Sydney police say](https://www.reddit.com/r/news/comments/1c4i1pa/sydney_shopping_mall_killer_targeted_women_sydney/)
 <!-- REDDIT:END -->
 
 
