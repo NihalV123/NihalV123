@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NPR suspends journalist who publicly accused network of liberal bias](https://www.reddit.com/r/news/comments/1c5uzq3/npr_suspends_journalist_who_publicly_accused/)
+- [Target hit with class-action lawsuit claiming it violated Illinois&#39; biometric privacy law](https://www.reddit.com/r/news/comments/1c5uoee/target_hit_with_classaction_lawsuit_claiming_it/)
+- [Flooding in Central Asia and southern Russia kills scores, forces tens of thousands to evacuate](https://www.reddit.com/r/news/comments/1c5ujzo/flooding_in_central_asia_and_southern_russia/)
+- [West Virginia transgender sports ban discriminates against teen athlete, appeals court says](https://www.reddit.com/r/news/comments/1c5tprg/west_virginia_transgender_sports_ban/)
+- [Karen Read&#39;s high-profile Massachusetts murder trial underway with jury selection - CBS Boston](https://www.reddit.com/r/news/comments/1c5tp1c/karen_reads_highprofile_massachusetts_murder/)
 <!-- REDDIT:END -->
 
 
