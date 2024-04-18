@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing safety culture under scrutiny during Senate committee hearing](https://www.reddit.com/r/news/comments/1c6ufux/boeing_safety_culture_under_scrutiny_during/)
+- [911 outage reported across multiple US states, officials say](https://www.reddit.com/r/news/comments/1c6u7oe/911_outage_reported_across_multiple_us_states/)
+- [Jordan walks a tightrope after downing Iranian drones and missiles](https://www.reddit.com/r/news/comments/1c6rfju/jordan_walks_a_tightrope_after_downing_iranian/)
+- [TikTok Lite: EU demands answers on money-for-views version - BBC News](https://www.reddit.com/r/news/comments/1c6pd1m/tiktok_lite_eu_demands_answers_on_moneyforviews/)
+- [Biggest Anchorage K12 private school enrolled all students in public correspondence to qualify for $3,000 reimbursement](https://www.reddit.com/r/news/comments/1c6p32p/biggest_anchorage_k12_private_school_enrolled_all/)
 <!-- REDDIT:END -->
 
 
