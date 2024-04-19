@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Person in flames outside New York courthouse where Trump trial underway, CNN reports](https://www.reddit.com/r/news/comments/1c83e7v/person_in_flames_outside_new_york_courthouse/)
+- [ICC considering issuing war crimes arrest warrants for Netanyahu, others - report](https://www.reddit.com/r/news/comments/1c82kte/icc_considering_issuing_war_crimes_arrest/)
+- [U.S. Congresswoman Suspected of Having “Russian Handlers” After Transcarpathia Amendment](https://www.reddit.com/r/news/comments/1c82khb/us_congresswoman_suspected_of_having_russian/)
+- [Finnish government approves tougher immigration provisions](https://www.reddit.com/r/news/comments/1c80312/finnish_government_approves_tougher_immigration/)
+- [&#39;Apocalyptic&#39; Dubai floods shake picture-perfect city](https://www.reddit.com/r/news/comments/1c7z963/apocalyptic_dubai_floods_shake_pictureperfect_city/)
 <!-- REDDIT:END -->
 
 
