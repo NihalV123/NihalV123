@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No missile attack against Iran - Iranian official tells Reuters](https://www.reddit.com/r/news/comments/1c7ogku/no_missile_attack_against_iran_iranian_official/)
+- [Israeli missile hits Iran, U.S. officials confirm](https://www.reddit.com/r/news/comments/1c7njpg/israeli_missile_hits_iran_us_officials_confirm/)
+- [Israel missiles strike Iran - US officials inform ABC news](https://www.reddit.com/r/news/comments/1c7lqqt/israel_missiles_strike_iran_us_officials_inform/)
+- [Explosions heard in Iran, Syria, Iraq - report](https://www.reddit.com/r/news/comments/1c7karv/explosions_heard_in_iran_syria_iraq_report/)
+- [US says it disrupted a China cyber threat, but warns hackers could still wreak havoc for Americans](https://www.reddit.com/r/news/comments/1c7k4yv/us_says_it_disrupted_a_china_cyber_threat_but/)
 <!-- REDDIT:END -->
 
 
