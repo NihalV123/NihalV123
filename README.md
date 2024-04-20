@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Volkswagen workers vote overwhelmingly to join the UAW, giving the union a groundbreaking win | CNN Business](https://www.reddit.com/r/news/comments/1c8hwc5/volkswagen_workers_vote_overwhelmingly_to_join/)
+- [Columbia University protesters resume demonstrations after mass arrests](https://www.reddit.com/r/news/comments/1c8fhuk/columbia_university_protesters_resume/)
+- [UAW clinches watershed union victory at Volkswagen Tennessee factory](https://www.reddit.com/r/news/comments/1c8fcu9/uaw_clinches_watershed_union_victory_at/)
+- [Navy ship carrying equipment for Gaza aid corridor catches fire, returns to US](https://www.reddit.com/r/news/comments/1c8ercp/navy_ship_carrying_equipment_for_gaza_aid/)
+- [UAW ahead as first ballots counted in union vote at Volkswagen&#39;s Tennessee factory](https://www.reddit.com/r/news/comments/1c8eoeq/uaw_ahead_as_first_ballots_counted_in_union_vote/)
 <!-- REDDIT:END -->
 
 
