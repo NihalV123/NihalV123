@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [USC cancels all commencement speakers after canceled valedictorian speech](https://www.reddit.com/r/news/comments/1c8upeb/usc_cancels_all_commencement_speakers_after/)
+- [Western Australia’s eucalypt forests fade to brown as century-old giant jarrahs die in heat and drought](https://www.reddit.com/r/news/comments/1c8tnd8/western_australias_eucalypt_forests_fade_to_brown/)
+- [Nigerian chess champion breaks record after playing nonstop for 58 hours](https://www.reddit.com/r/news/comments/1c8s954/nigerian_chess_champion_breaks_record_after/)
+- [The man who set himself on fire outside the courthouse where Trump is on trial dies of his injuries](https://www.reddit.com/r/news/comments/1c8rzwv/the_man_who_set_himself_on_fire_outside_the/)
+- [Scientists push new paradigm of animal consciousness, saying even insects may be sentient](https://www.reddit.com/r/news/comments/1c8rsqv/scientists_push_new_paradigm_of_animal/)
 <!-- REDDIT:END -->
 
 
