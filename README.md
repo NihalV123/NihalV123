@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2 children dead, 15 people injured after vehicle crashes into building holding child&#39;s birthday party - ABC News](https://www.reddit.com/r/news/comments/1c974wo/2_children_dead_15_people_injured_after_vehicle/)
+- [No prison time for developer who bribed city officials for 18 years](https://www.reddit.com/r/news/comments/1c96w0g/no_prison_time_for_developer_who_bribed_city/)
+- [West Virginia mother charged in death of daughter found &quot;emaciated to a skeletal state&quot;](https://www.reddit.com/r/news/comments/1c95zvk/west_virginia_mother_charged_in_death_of_daughter/)
+- [Where is the &#39;faux-tox&#39; coming from? Not from legitimate sources, doctors say](https://www.reddit.com/r/news/comments/1c95iak/where_is_the_fauxtox_coming_from_not_from/)
+- [Teen McDonald’s Employee Was Beaten by Adult Customer in Parking Lot](https://www.reddit.com/r/news/comments/1c92ja7/teen_mcdonalds_employee_was_beaten_by_adult/)
 <!-- REDDIT:END -->
 
 
