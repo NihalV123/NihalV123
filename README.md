@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US poised to impose sanctions on IDF unit accused of violations in West Bank](https://www.reddit.com/r/news/comments/1c9o2kw/us_poised_to_impose_sanctions_on_idf_unit_accused/)
+- [Louisiana’s flagship university lets oil firms influence research – for a price | Oil and gas companies](https://www.reddit.com/r/news/comments/1c9koob/louisianas_flagship_university_lets_oil_firms/)
+- [Millions at risk of floods in China’s Guangdong province after heavy rain](https://www.reddit.com/r/news/comments/1c9gg5p/millions_at_risk_of_floods_in_chinas_guangdong/)
+- [2 children dead, 15 people injured after vehicle crashes into building holding child&#39;s birthday party - ABC News](https://www.reddit.com/r/news/comments/1c974wo/2_children_dead_15_people_injured_after_vehicle/)
+- [No prison time for developer who bribed city officials for 18 years](https://www.reddit.com/r/news/comments/1c96w0g/no_prison_time_for_developer_who_bribed_city/)
 <!-- REDDIT:END -->
 
 
