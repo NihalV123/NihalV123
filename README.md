@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Europe baked in ‘extreme heat stress’ pushing temperatures to record highs | Environment](https://www.reddit.com/r/news/comments/1ca38ry/europe_baked_in_extreme_heat_stress_pushing/)
+- [Ceremony held for opening of new Noe Valley public restroom that almost cost $1.3M](https://www.reddit.com/r/news/comments/1ca2q9i/ceremony_held_for_opening_of_new_noe_valley/)
+- [The money trail: Did Jeffrey Epstein try to buy influence at Arizona universities?](https://www.reddit.com/r/news/comments/1ca2lb1/the_money_trail_did_jeffrey_epstein_try_to_buy/)
+- [Sky News footage reveals new details of exchange between police and antisemitism campaigner called &#39;openly Jewish&#39;](https://www.reddit.com/r/news/comments/1ca0vkx/sky_news_footage_reveals_new_details_of_exchange/)
+- [TikTok warns US ban would &#39;trample free speech&#39;](https://www.reddit.com/r/news/comments/1ca0a8a/tiktok_warns_us_ban_would_trample_free_speech/)
 <!-- REDDIT:END -->
 
 
