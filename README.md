@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Australian hospital staff plead with bite victims to stop bringing snakes to emergency departments](https://www.reddit.com/r/news/comments/1ca8ne5/australian_hospital_staff_plead_with_bite_victims/)
+- [Grindr sued for allegedly revealing users&#39; HIV status](https://www.reddit.com/r/news/comments/1ca810r/grindr_sued_for_allegedly_revealing_users_hiv/)
+- [Ceremony held for opening of new Noe Valley public restroom that almost cost $1.3M](https://www.reddit.com/r/news/comments/1ca2q9i/ceremony_held_for_opening_of_new_noe_valley/)
+- [TikTok warns US ban would &#39;trample free speech&#39;](https://www.reddit.com/r/news/comments/1ca0a8a/tiktok_warns_us_ban_would_trample_free_speech/)
+- [Chicago Police Officer Luis Huesca, shot and killed Sunday, had eulogized fallen colleague last year](https://www.reddit.com/r/news/comments/1c9xra0/chicago_police_officer_luis_huesca_shot_and/)
 <!-- REDDIT:END -->
 
 
