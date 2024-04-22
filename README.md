@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nearly 300 bodies found in mass grave at Gaza hospital, says Gaza Civil Defense](https://www.reddit.com/r/news/comments/1cagh7t/nearly_300_bodies_found_in_mass_grave_at_gaza/)
+- [Israeli strikes on southern Gaza city of Rafah kill 22, mostly children, as US advances aid package](https://www.reddit.com/r/news/comments/1cafti3/israeli_strikes_on_southern_gaza_city_of_rafah/)
+- [Trump avoids challenge to $175M bond in civil fraud case](https://www.reddit.com/r/news/comments/1cafnte/trump_avoids_challenge_to_175m_bond_in_civil/)
+- [Columbia cancels in-person classes and Yale protesters are arrested as Mideast war tensions grow](https://www.reddit.com/r/news/comments/1caca5r/columbia_cancels_inperson_classes_and_yale/)
+- [Ecuadorians vote overwhelmingly in referendum to approve toughening fight against gangs](https://www.reddit.com/r/news/comments/1cac5at/ecuadorians_vote_overwhelmingly_in_referendum_to/)
 <!-- REDDIT:END -->
 
 
