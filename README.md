@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Danish Government Introduces Pocket Money Jobs for At-Risk Youth](https://www.reddit.com/r/news/comments/1cb2782/danish_government_introduces_pocket_money_jobs/)
+- [Minnesota State Sen. Nicole Mitchell arrested in Detroit Lakes on suspicion of burglary](https://www.reddit.com/r/news/comments/1caxgrs/minnesota_state_sen_nicole_mitchell_arrested_in/)
+- [FTC sues to block $8.5 billion merger of Coach and Michael Kors owners](https://www.reddit.com/r/news/comments/1cav4ka/ftc_sues_to_block_85_billion_merger_of_coach_and/)
+- [Former USS Howard CO was fired after ‘racially harassing comments’](https://www.reddit.com/r/news/comments/1cat72o/former_uss_howard_co_was_fired_after_racially/)
+- [Navy review highlights challenges behind yearslong shipbuilding delays in Virginia and nationwide](https://www.reddit.com/r/news/comments/1cat315/navy_review_highlights_challenges_behind/)
 <!-- REDDIT:END -->
 
 
