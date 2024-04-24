@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Head of Google Search was head of search for Yahoo in it’s downfall from 2005 through 2012](https://www.reddit.com/r/news/comments/1cbq6t8/head_of_google_search_was_head_of_search_for/)
+- [Emergency rooms refused to treat pregnant women, leaving one to miscarry in a lobby restroom](https://www.reddit.com/r/news/comments/1cbp9ln/emergency_rooms_refused_to_treat_pregnant_women/)
+- [Mexico&#39;s likely next president would be its first leader with a Jewish background](https://www.reddit.com/r/news/comments/1cbor1b/mexicos_likely_next_president_would_be_its_first/)
+- [Senate overwhelmingly passes aid for Ukraine, Israel and Taiwan with big bipartisan vote](https://www.reddit.com/r/news/comments/1cbmc8w/senate_overwhelmingly_passes_aid_for_ukraine/)
+- [UN calls for investigation into mass graves uncovered at two Gaza hospitals raided by Israel](https://www.reddit.com/r/news/comments/1cbl61t/un_calls_for_investigation_into_mass_graves/)
 <!-- REDDIT:END -->
 
 
