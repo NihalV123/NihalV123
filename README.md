@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US requires bird flu tests for dairy cattle moving between states](https://www.reddit.com/r/news/comments/1cc5b1m/us_requires_bird_flu_tests_for_dairy_cattle/)
+- [Supreme Court hears case on whether cities can criminalize homelessness, disband camps](https://www.reddit.com/r/news/comments/1cc4y85/supreme_court_hears_case_on_whether_cities_can/)
+- [Airlines required to refund passengers for canceled, delayed flights](https://www.reddit.com/r/news/comments/1cc430y/airlines_required_to_refund_passengers_for/)
+- [Escaped army horses run amok in central London](https://www.reddit.com/r/news/comments/1cc2vsv/escaped_army_horses_run_amok_in_central_london/)
+- [TikTok: US Congress passes bill that could see app banned](https://www.reddit.com/r/news/comments/1cc1a95/tiktok_us_congress_passes_bill_that_could_see_app/)
 <!-- REDDIT:END -->
 
 
