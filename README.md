@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman Who Fell Victim to Online Scam Robs Bank at Gunpoint: Cops](https://www.reddit.com/r/news/comments/1cceob0/woman_who_fell_victim_to_online_scam_robs_bank_at/)
+- [Trump’s 2020 &#39;fake electors&#39; charged with state crimes in Arizona](https://www.reddit.com/r/news/comments/1cccnt6/trumps_2020_fake_electors_charged_with_state/)
+- [US archdiocese must submit clergy-abuse documents to police](https://www.reddit.com/r/news/comments/1cccaog/us_archdiocese_must_submit_clergyabuse_documents/)
+- [N.C. report finds wilderness camp failed to ensure boy was breathing before he died](https://www.reddit.com/r/news/comments/1ccc8mz/nc_report_finds_wilderness_camp_failed_to_ensure/)
+- [Arlington&#39;s Bowie High School on lockdown after on-campus shooting, dismissal delayed](https://www.reddit.com/r/news/comments/1ccbgpv/arlingtons_bowie_high_school_on_lockdown_after/)
 <!-- REDDIT:END -->
 
 
