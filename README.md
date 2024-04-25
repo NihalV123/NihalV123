@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US fertility rate dropped to lowest in a century as births dipped in 2023](https://www.reddit.com/r/news/comments/1ccqgb1/us_fertility_rate_dropped_to_lowest_in_a_century/)
+- [Anne Heche’s estate cannot pay over $8M in debts, son says](https://www.reddit.com/r/news/comments/1ccoy1w/anne_heches_estate_cannot_pay_over_8m_in_debts/)
+- [Chicago&#39;s &#39;rat hole&#39; removed after city determines sidewalk with animal impression was damaged](https://www.reddit.com/r/news/comments/1cco2s7/chicagos_rat_hole_removed_after_city_determines/)
+- [Ukrainian evangelical pastors show resilience while facing persecution from Russian forces](https://www.reddit.com/r/news/comments/1cci01r/ukrainian_evangelical_pastors_show_resilience/)
+- [University of Texas Palestine protest leads to more than 30 arrests, including FOX 7 photographer](https://www.reddit.com/r/news/comments/1ccgxu7/university_of_texas_palestine_protest_leads_to/)
 <!-- REDDIT:END -->
 
 
