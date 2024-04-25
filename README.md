@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hamas official says group would lay down its weapons if a two-state solution is implemented](https://www.reddit.com/r/news/comments/1ccjqht/hamas_official_says_group_would_lay_down_its/)
+- [Ukrainian evangelical pastors show resilience while facing persecution from Russian forces](https://www.reddit.com/r/news/comments/1cci01r/ukrainian_evangelical_pastors_show_resilience/)
+- [University of Texas Palestine protest leads to more than 30 arrests, including FOX 7 photographer](https://www.reddit.com/r/news/comments/1ccgxu7/university_of_texas_palestine_protest_leads_to/)
+- [‘Underground hell’: Hamas publishes first video of mutilated American hostage, says 70 have been killed](https://www.reddit.com/r/news/comments/1ccfda6/underground_hell_hamas_publishes_first_video_of/)
+- [Wildfires in Canada&#39;s oilsands prompt evacuation orders as region braces for smoke-filled summer](https://www.reddit.com/r/news/comments/1ccf2fd/wildfires_in_canadas_oilsands_prompt_evacuation/)
 <!-- REDDIT:END -->
 
 
