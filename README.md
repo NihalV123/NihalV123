@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Disgruntled ex-athletic director allegedly created AI racist rant to retaliate against Pikesville HS principal](https://www.reddit.com/r/news/comments/1cd7k5e/disgruntled_exathletic_director_allegedly_created/)
+- [The Onion is sold to investor group known as Global Tetrahedron](https://www.reddit.com/r/news/comments/1cd74gz/the_onion_is_sold_to_investor_group_known_as/)
+- [Searing heat shuts schools for 33 million children in Bangladesh](https://www.reddit.com/r/news/comments/1cd3h68/searing_heat_shuts_schools_for_33_million/)
+- [Prosecutor to appeal against Texas woman’s acquittal over voting error](https://www.reddit.com/r/news/comments/1cd0891/prosecutor_to_appeal_against_texas_womans/)
+- [More than 100 protesters arrested as police clear Emerson College encampment](https://www.reddit.com/r/news/comments/1cd066e/more_than_100_protesters_arrested_as_police_clear/)
 <!-- REDDIT:END -->
 
 
