@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [British men charged with helping Russia under new security law](https://www.reddit.com/r/news/comments/1cdjqnm/british_men_charged_with_helping_russia_under_new/)
+- [Crypto Mixer Samourai Wallet’s Co-founders Arrested for Money Laundering](https://www.reddit.com/r/news/comments/1cdhc4s/crypto_mixer_samourai_wallets_cofounders_arrested/)
+- [Bodycam video shows handcuffed man telling Ohio officers &#39;I can&#39;t breathe&#39; before his death](https://www.reddit.com/r/news/comments/1cdh69d/bodycam_video_shows_handcuffed_man_telling_ohio/)
+- [Colombia becomes first country to restrict US beef due to bird flu in dairy cows](https://www.reddit.com/r/news/comments/1cdfmiw/colombia_becomes_first_country_to_restrict_us/)
+- [Oklahoma police say 10-year-old boy awoke to find his parents and 3 brothers shot to death](https://www.reddit.com/r/news/comments/1cdab72/oklahoma_police_say_10yearold_boy_awoke_to_find/)
 <!-- REDDIT:END -->
 
 
