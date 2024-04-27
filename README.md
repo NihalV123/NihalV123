@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Amazon exec claims she was asked to ignore copyright law in race to AI](https://www.reddit.com/r/news/comments/1ce631q/examazon_exec_claims_she_was_asked_to_ignore/)
+- [Clearwater property owners sell $58M real estate portfolio to Church of Scientology parishioner](https://www.reddit.com/r/news/comments/1ce5l6j/clearwater_property_owners_sell_58m_real_estate/)
+- [Andrew Tate and brother Tristan to be tried in Romania on rape and trafficking charges](https://www.reddit.com/r/news/comments/1ce57uj/andrew_tate_and_brother_tristan_to_be_tried_in/)
+- [7-year-old brings gun to school in backpack, police say](https://www.reddit.com/r/news/comments/1ce4db1/7yearold_brings_gun_to_school_in_backpack_police/)
+- [Detroit is about to break the all-time NFL draft attendance record](https://www.reddit.com/r/news/comments/1ce3idd/detroit_is_about_to_break_the_alltime_nfl_draft/)
 <!-- REDDIT:END -->
 
 
