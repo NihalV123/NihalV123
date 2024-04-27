@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Residents begin going through the rubble after tornadoes hammer parts of Nebraska and Iowa](https://www.reddit.com/r/news/comments/1cejssu/residents_begin_going_through_the_rubble_after/)
+- [Columbia University says it has banned student protester who said &#39;Zionists don&#39;t deserve to live&#39;](https://www.reddit.com/r/news/comments/1cejbau/columbia_university_says_it_has_banned_student/)
+- [‘Sophisticated’: Four men arrested after break-in string targeting South Asians in 25 Mass. towns](https://www.reddit.com/r/news/comments/1ceh8md/sophisticated_four_men_arrested_after_breakin/)
+- [Kansas City, Missouri, police officer charged with stealing $300,000 in donations from anti-crime charity](https://www.reddit.com/r/news/comments/1cefhym/kansas_city_missouri_police_officer_charged_with/)
+- [Over 100 hidden-camera videos, mostly of Navy sailors, were uploaded to porn site](https://www.reddit.com/r/news/comments/1cee1sg/over_100_hiddencamera_videos_mostly_of_navy/)
 <!-- REDDIT:END -->
 
 
