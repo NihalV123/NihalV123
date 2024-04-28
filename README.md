@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man killed in Seattle child sex sting had 40-year Navy history](https://www.reddit.com/r/news/comments/1cfcocc/man_killed_in_seattle_child_sex_sting_had_40year/)
+- [Ukraine&#39;s Zelenskiy issues fresh plea for Patriots, EU accession, NATO entry](https://www.reddit.com/r/news/comments/1cfbrck/ukraines_zelenskiy_issues_fresh_plea_for_patriots/)
+- [Two killed, one injured as 350,000-pound load detaches from trailer in Temple, Texas](https://www.reddit.com/r/news/comments/1cfbqbr/two_killed_one_injured_as_350000pound_load/)
+- [Tornadoes kill 2 in Oklahoma as governor issues state of emergency for 12 counties amid storm damage](https://www.reddit.com/r/news/comments/1cf7qvi/tornadoes_kill_2_in_oklahoma_as_governor_issues/)
+- [Williams-Sonoma fined $3.18 million for falsely labeling products as &#39;Made in USA&#39;](https://www.reddit.com/r/news/comments/1cexqsh/williamssonoma_fined_318_million_for_falsely/)
 <!-- REDDIT:END -->
 
 
