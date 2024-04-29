@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Claiming high user satisfaction, IRS will decide on renewing free tax site](https://www.reddit.com/r/news/comments/1cfnwwi/claiming_high_user_satisfaction_irs_will_decide/)
+- [&#39;Physical altercations&#39; during dueling pro-Palestinian, pro-Israel demonstrations on UCLA campus](https://www.reddit.com/r/news/comments/1cfjyog/physical_altercations_during_dueling/)
+- [Amid anti-Israel protests, &#39;hateful graffiti,&#39; Cal Poly Humboldt closes campus through weekend](https://www.reddit.com/r/news/comments/1cfj2ge/amid_antiisrael_protests_hateful_graffiti_cal/)
+- [Australians call for tougher laws on violence against women after killings](https://www.reddit.com/r/news/comments/1cfez2q/australians_call_for_tougher_laws_on_violence/)
+- [Man killed in Seattle child sex sting had 40-year Navy history](https://www.reddit.com/r/news/comments/1cfcocc/man_killed_in_seattle_child_sex_sting_had_40year/)
 <!-- REDDIT:END -->
 
 
