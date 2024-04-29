@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [FDA brings lab tests under federal oversight in bid to improve accuracy and safety](https://www.reddit.com/r/news/comments/1cg5ld5/fda_brings_lab_tests_under_federal_oversight_in/)
+- [Utah cat found safe in California after sneaking into Amazon return box](https://www.reddit.com/r/news/comments/1cg3v6t/utah_cat_found_safe_in_california_after_sneaking/)
+- [Peter Navarro’s get-out-of-jail request is again rejected by the Supreme Court](https://www.reddit.com/r/news/comments/1cg25y9/peter_navarros_getoutofjail_request_is_again/)
+- [Supreme Court rejects Elon Musk over agreement with SEC to vet social media posts](https://www.reddit.com/r/news/comments/1cfznmd/supreme_court_rejects_elon_musk_over_agreement/)
+- [French police use knives to puncture migrant boat in Dunkirk to prevent Channel crossing](https://www.reddit.com/r/news/comments/1cfza91/french_police_use_knives_to_puncture_migrant_boat/)
 <!-- REDDIT:END -->
 
 
