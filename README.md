@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court declines to block enforcement of age-verification requirements for porn sites](https://www.reddit.com/r/news/comments/1cgx5fj/supreme_court_declines_to_block_enforcement_of/)
+- [Walmart to close 51 clinics as it shutters its entire Walmart Health division](https://www.reddit.com/r/news/comments/1cgwf58/walmart_to_close_51_clinics_as_it_shutters_its/)
+- [A second new nuclear reactor is completed in Georgia. The carbon-free power comes at a high price](https://www.reddit.com/r/news/comments/1cgtpwh/a_second_new_nuclear_reactor_is_completed_in/)
+- [Trump held in contempt for violating hush money trial gag order](https://www.reddit.com/r/news/comments/1cgtc4n/trump_held_in_contempt_for_violating_hush_money/)
+- [EPA rule bans toxic chemical that&#39;s commonly used as paint stripper but known to cause liver cancer](https://www.reddit.com/r/news/comments/1cgspuv/epa_rule_bans_toxic_chemical_thats_commonly_used/)
 <!-- REDDIT:END -->
 
 
