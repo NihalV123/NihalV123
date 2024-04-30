@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Florida prepares for near-total abortion ban to take effect](https://www.reddit.com/r/news/comments/1cgq6q9/florida_prepares_for_neartotal_abortion_ban_to/)
+- [Bangladeshi court orders new school shutdown due to heatwave](https://www.reddit.com/r/news/comments/1cghgyu/bangladeshi_court_orders_new_school_shutdown_due/)
+- [Winner of $1.3 billion Powerball jackpot is an immigrant from Laos who has cancer](https://www.reddit.com/r/news/comments/1cgb3wx/winner_of_13_billion_powerball_jackpot_is_an/)
+- [Prosecutors say they will not retry an Arizona rancher accused of murder near the US-Mexico border](https://www.reddit.com/r/news/comments/1cg9zwf/prosecutors_say_they_will_not_retry_an_arizona/)
+- [Gérard Depardieu in police custody over latest sexual assault allegations](https://www.reddit.com/r/news/comments/1cg8hif/gérard_depardieu_in_police_custody_over_latest/)
 <!-- REDDIT:END -->
 
 
