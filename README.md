@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;Horrific&#39; violence at UCLA after counter-protesters attack pro-Palestinian camp](https://www.reddit.com/r/news/comments/1chsvc6/horrific_violence_at_ucla_after_counterprotesters/)
+- [Boy, 14, dies after man with sword stabs multiple people near London tube station](https://www.reddit.com/r/news/comments/1chn1ao/boy_14_dies_after_man_with_sword_stabs_multiple/)
+- [North Carolina child’s ‘monster in the closet’ was in fact 50,000 bees in the wall](https://www.reddit.com/r/news/comments/1chl464/north_carolina_childs_monster_in_the_closet_was/)
+- [United Methodists begin to reverse longstanding anti-LGBTQ policies](https://www.reddit.com/r/news/comments/1ch7bsu/united_methodists_begin_to_reverse_longstanding/)
+- [Five killed in Russian missile attack as Ukraine’s ‘Harry Potter castle’ goes up in flames](https://www.reddit.com/r/news/comments/1ch6cyp/five_killed_in_russian_missile_attack_as_ukraines/)
 <!-- REDDIT:END -->
 
 
