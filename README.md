@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [United Methodists begin to reverse longstanding anti-LGBTQ policies](https://www.reddit.com/r/news/comments/1ch7bsu/united_methodists_begin_to_reverse_longstanding/)
+- [Five killed in Russian missile attack as Ukraine’s ‘Harry Potter castle’ goes up in flames](https://www.reddit.com/r/news/comments/1ch6cyp/five_killed_in_russian_missile_attack_as_ukraines/)
+- [Colombia&#39;s president says thousands of grenades and bullets have gone missing from army bases](https://www.reddit.com/r/news/comments/1ch5jml/colombias_president_says_thousands_of_grenades/)
+- [2 men are charged with cutting down famous 150-year-old tree near Hadrian’s Wall in England](https://www.reddit.com/r/news/comments/1ch4d1n/2_men_are_charged_with_cutting_down_famous/)
+- [US says Israeli army units violated human rights](https://www.reddit.com/r/news/comments/1ch3vze/us_says_israeli_army_units_violated_human_rights/)
 <!-- REDDIT:END -->
 
 
