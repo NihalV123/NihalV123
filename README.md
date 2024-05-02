@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [34 people were killed in a dive boat fire in California. The captain is now facing 10 years in prison](https://www.reddit.com/r/news/comments/1cimgam/34_people_were_killed_in_a_dive_boat_fire_in/)
+- [9-year-old&#39;s heroic act saves parents after Oklahoma tornado: &quot;Please don&#39;t die, I will be back&quot;](https://www.reddit.com/r/news/comments/1cilcz0/9yearolds_heroic_act_saves_parents_after_oklahoma/)
+- [A wild orangutan used a medicinal plant to treat a wound, scientists say](https://www.reddit.com/r/news/comments/1cil4sa/a_wild_orangutan_used_a_medicinal_plant_to_treat/)
+- [Pennsylvania nurse pleads guilty to killing patients with lethal doses of insulin](https://www.reddit.com/r/news/comments/1ciksqz/pennsylvania_nurse_pleads_guilty_to_killing/)
+- [Bestselling novelist Paul Auster, author of &#39;The New York Trilogy,&#39; dies at 77](https://www.reddit.com/r/news/comments/1ciki1p/bestselling_novelist_paul_auster_author_of_the/)
 <!-- REDDIT:END -->
 
 
