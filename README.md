@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Rising Hindu nationalism leaves Muslims fearful in India’s holy city](https://www.reddit.com/r/news/comments/1ci2hrv/rising_hindu_nationalism_leaves_muslims_fearful/)
+- [OnlyFans investigated over children accessing pornography](https://www.reddit.com/r/news/comments/1ci1ufz/onlyfans_investigated_over_children_accessing/)
+- [Armed student at Mount Horeb Middle School shot, killed by law enforcement](https://www.reddit.com/r/news/comments/1ci1p5o/armed_student_at_mount_horeb_middle_school_shot/)
+- [2-year-old boy dies after bounce house carried away by wind gusts](https://www.reddit.com/r/news/comments/1chzxet/2yearold_boy_dies_after_bounce_house_carried_away/)
+- [Ukrainian woman, 98, walks six miles from occupied village to safety](https://www.reddit.com/r/news/comments/1chwt8k/ukrainian_woman_98_walks_six_miles_from_occupied/)
 <!-- REDDIT:END -->
 
 
