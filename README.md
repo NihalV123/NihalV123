@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Google, Justice Department make final arguments about whether search engine is a monopoly](https://www.reddit.com/r/news/comments/1cjefzo/google_justice_department_make_final_arguments/)
+- [Former Boy Scout volunteer sentenced to 22 years in prison for hiding cameras in camp bathrooms](https://www.reddit.com/r/news/comments/1cje4xa/former_boy_scout_volunteer_sentenced_to_22_years/)
+- [Woman killed when large steel cylinder escapes construction site near Pitt’s Petersen Events Center](https://www.reddit.com/r/news/comments/1cjdsrz/woman_killed_when_large_steel_cylinder_escapes/)
+- [Court strikes down youth climate lawsuit on Biden administration request](https://www.reddit.com/r/news/comments/1cjdr4p/court_strikes_down_youth_climate_lawsuit_on_biden/)
+- [UK starts raiding homes to deport asylum seekers to Rwanda](https://www.reddit.com/r/news/comments/1cjd81u/uk_starts_raiding_homes_to_deport_asylum_seekers/)
 <!-- REDDIT:END -->
 
 
