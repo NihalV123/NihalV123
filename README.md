@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police officer fired gun while clearing protesters from Columbia building, prosecutors say](https://www.reddit.com/r/news/comments/1civam8/police_officer_fired_gun_while_clearing/)
+- [NYPD Officer Fired Gun Inside Columbia’s Hamilton Hall, Manhattan DA Alvin Bragg Confirms | THE CITY — NYC News](https://www.reddit.com/r/news/comments/1cius1h/nypd_officer_fired_gun_inside_columbias_hamilton/)
+- [Florida bans lab-grown meat, adding to similar efforts in four states](https://www.reddit.com/r/news/comments/1cisrcy/florida_bans_labgrown_meat_adding_to_similar/)
+- [Male castration website made £300,000, court hears](https://www.reddit.com/r/news/comments/1cirwf3/male_castration_website_made_300000_court_hears/)
+- [Emotional support alligator taken and released in swamp](https://www.reddit.com/r/news/comments/1cipu00/emotional_support_alligator_taken_and_released_in/)
 <!-- REDDIT:END -->
 
 
