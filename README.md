@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The bystander&#39;s role is changing in the era of livestreaming. North Carolina&#39;s standoff shows how](https://www.reddit.com/r/news/comments/1ck4xku/the_bystanders_role_is_changing_in_the_era_of/)
+- [Hopes of Gaza ceasefire rise as Hamas delegation arrives in Cairo](https://www.reddit.com/r/news/comments/1ck3for/hopes_of_gaza_ceasefire_rise_as_hamas_delegation/)
+- [University of Mississippi: ‘abhorrent’ counter-protesters condemned](https://www.reddit.com/r/news/comments/1ck00h1/university_of_mississippi_abhorrent/)
+- [Disturbing Photos Emerge of Texas Dairy Worker&#39;s Rare Bird Flu Infection from Cow](https://www.reddit.com/r/news/comments/1cjyz86/disturbing_photos_emerge_of_texas_dairy_workers/)
+- [Prominent Gaza doctor dies in Israeli prison](https://www.reddit.com/r/news/comments/1cjyvt1/prominent_gaza_doctor_dies_in_israeli_prison/)
 <!-- REDDIT:END -->
 
 
