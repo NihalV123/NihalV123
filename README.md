@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel orders Al Jazeera to close its local operation and seizes some of its equipment](https://www.reddit.com/r/news/comments/1ckvhes/israel_orders_al_jazeera_to_close_its_local/)
+- [Vehicle crashes into White House gate, killing driver; Secret Service says &#39;no threat&#39;](https://www.reddit.com/r/news/comments/1ckte22/vehicle_crashes_into_white_house_gate_killing/)
+- [Hamas armed wing says it is responsible for Israel-Gaza border crossing attack](https://www.reddit.com/r/news/comments/1ckt01m/hamas_armed_wing_says_it_is_responsible_for/)
+- [Several injured in shooting in Long Beach, California, police say](https://www.reddit.com/r/news/comments/1ckpov3/several_injured_in_shooting_in_long_beach/)
+- [New York synagogues, museum got fake bomb threats, officials say](https://www.reddit.com/r/news/comments/1ckharv/new_york_synagogues_museum_got_fake_bomb_threats/)
 <!-- REDDIT:END -->
 
 
