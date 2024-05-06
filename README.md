@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman wins $1m lottery jackpot twice in 10 weeks](https://www.reddit.com/r/news/comments/1clhkzp/woman_wins_1m_lottery_jackpot_twice_in_10_weeks/)
+- [Half of all IDF ammunition in war comes from U.S., report shows](https://www.reddit.com/r/news/comments/1clh1db/half_of_all_idf_ammunition_in_war_comes_from_us/)
+- [German foreign minister says Russia will face consequences for monthslong cyber espionage](https://www.reddit.com/r/news/comments/1clfam8/german_foreign_minister_says_russia_will_face/)
+- [Mexico: Surfers found dead in well were shot in head](https://www.reddit.com/r/news/comments/1clewxs/mexico_surfers_found_dead_in_well_were_shot_in/)
+- [Israeli army tells Palestinians to evacuate parts of Rafah in Gaza ahead of an expected assault](https://www.reddit.com/r/news/comments/1clej1e/israeli_army_tells_palestinians_to_evacuate_parts/)
 <!-- REDDIT:END -->
 
 
