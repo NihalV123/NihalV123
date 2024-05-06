@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Green Bay man named &#39;Deez-Nuts&#39; appears in court, pleads not guilty &amp; signs $11k signature bond](https://www.reddit.com/r/news/comments/1cl48f4/green_bay_man_named_deeznuts_appears_in_court/)
+- [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid — buyer walked away with 8,064 Intel Xeon Broadwell CPUs, 313TB DDR4-2400 ECC RAM, and some water leaks](https://www.reddit.com/r/news/comments/1cl3vhu/multimillion_dollar_cheyenne_supercomputer/)
+- [Death toll from rains in southern Brazil climbs to 56](https://www.reddit.com/r/news/comments/1cl268l/death_toll_from_rains_in_southern_brazil_climbs/)
+- [Missing zebra captured after 6 days on the run in Washington state](https://www.reddit.com/r/news/comments/1cl0dh3/missing_zebra_captured_after_6_days_on_the_run_in/)
+- [Maryland bus crash on I-95 leaves 1 dead, 23 injured](https://www.reddit.com/r/news/comments/1ckznxe/maryland_bus_crash_on_i95_leaves_1_dead_23_injured/)
 <!-- REDDIT:END -->
 
 
