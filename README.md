@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hamas says it accepts ceasefire proposal of Egypt, Qatar](https://www.reddit.com/r/news/comments/1clnq7n/hamas_says_it_accepts_ceasefire_proposal_of_egypt/)
+- [Single-sex toilets to be required in non-residential buildings in England](https://www.reddit.com/r/news/comments/1clnm3t/singlesex_toilets_to_be_required_in/)
+- [Person dies after falling from the stands at Ohio State graduation ceremony](https://www.reddit.com/r/news/comments/1clnhoq/person_dies_after_falling_from_the_stands_at_ohio/)
+- [A man points a gun at a pastor at church before getting tackled](https://www.reddit.com/r/news/comments/1cllrky/a_man_points_a_gun_at_a_pastor_at_church_before/)
+- [Russia to Carry Out Exercises for Tactical Nuclear Weapons](https://www.reddit.com/r/news/comments/1clli81/russia_to_carry_out_exercises_for_tactical/)
 <!-- REDDIT:END -->
 
 
