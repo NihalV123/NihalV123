@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Social Security projected to cut benefits in 2035 barring a fix](https://www.reddit.com/r/news/comments/1cmaiii/social_security_projected_to_cut_benefits_in_2035/)
+- [Two Ukrainian security officials detained over Zelensky assassination plan](https://www.reddit.com/r/news/comments/1cmaemb/two_ukrainian_security_officials_detained_over/)
+- [Teens who discovered new way to prove Pythagoras’s theorem uncover even more proofs](https://www.reddit.com/r/news/comments/1cm7j4l/teens_who_discovered_new_way_to_prove_pythagorass/)
+- [Boeing Starliner crewed launch attempt scrubbed shortly before final countdown](https://www.reddit.com/r/news/comments/1cm26g0/boeing_starliner_crewed_launch_attempt_scrubbed/)
+- [China hacked Ministry of Defence, Sky News learns](https://www.reddit.com/r/news/comments/1cluspa/china_hacked_ministry_of_defence_sky_news_learns/)
 <!-- REDDIT:END -->
 
 
