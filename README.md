@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Planet endures record-hot April, as scientists warn 2024 could beat heat records for second year in a row](https://www.reddit.com/r/news/comments/1cn2avm/planet_endures_recordhot_april_as_scientists_warn/)
+- [Investigators solve 33-year-old homicide of woman found on Ventura County hilltop](https://www.reddit.com/r/news/comments/1cmz1ts/investigators_solve_33yearold_homicide_of_woman/)
+- [Transgender activists flood Utah tip line with hoax reports to block bathroom law enforcement](https://www.reddit.com/r/news/comments/1cmy6jk/transgender_activists_flood_utah_tip_line_with/)
+- [50 people trapped in FedEx building after reported tornado; mobile homes destroyed](https://www.reddit.com/r/news/comments/1cmsyej/50_people_trapped_in_fedex_building_after/)
+- [Search for missing construction workers on Key Bridge ends after sixth body found](https://www.reddit.com/r/news/comments/1cmng5m/search_for_missing_construction_workers_on_key/)
 <!-- REDDIT:END -->
 
 
