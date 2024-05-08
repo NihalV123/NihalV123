@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Most FTX customers to get all their money back less than 2 years after collapse](https://www.reddit.com/r/news/comments/1cnat92/most_ftx_customers_to_get_all_their_money_back/)
+- [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://www.reddit.com/r/news/comments/1cn8mbh/steve_albini_storied_producer_and_icon_of_the/)
+- [World’s top climate scientists expect global heating to blast past 1.5C target | Climate crisis](https://www.reddit.com/r/news/comments/1cn8i9s/worlds_top_climate_scientists_expect_global/)
+- [Bear dragged crash victim&#39;s body from car in woods off Massachusetts highway, police say](https://www.reddit.com/r/news/comments/1cn69vj/bear_dragged_crash_victims_body_from_car_in_woods/)
+- [Man &#39;purposely&#39; trying to spread HIV through sex with men and teenage boys sentenced to 30 years](https://www.reddit.com/r/news/comments/1cn5p5u/man_purposely_trying_to_spread_hiv_through_sex/)
 <!-- REDDIT:END -->
 
 
