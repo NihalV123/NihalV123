@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sydney man sentenced to 12 months in jail after planting homemade bomb outside pro-Palestinian’s house | Australia news](https://www.reddit.com/r/news/comments/1cnkbhh/sydney_man_sentenced_to_12_months_in_jail_after/)
+- [Live Nation announces settlements in 9 Astroworld lawsuits](https://www.reddit.com/r/news/comments/1cnjdsq/live_nation_announces_settlements_in_9_astroworld/)
+- [Feds find civil rights violations in Southlake, Texas, schools, students&#39; lawyers say](https://www.reddit.com/r/news/comments/1cnipr4/feds_find_civil_rights_violations_in_southlake/)
+- [Person tries to get into Drake’s Toronto property as shooting investigation continues](https://www.reddit.com/r/news/comments/1cnfu5m/person_tries_to_get_into_drakes_toronto_property/)
+- [Woman who caused cyclist to fall into car’s path has manslaughter conviction quashed](https://www.reddit.com/r/news/comments/1cnfgv3/woman_who_caused_cyclist_to_fall_into_cars_path/)
 <!-- REDDIT:END -->
 
 
