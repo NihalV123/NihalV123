@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police shoot and kill Black US airman in Florida home](https://www.reddit.com/r/news/comments/1cnoj9g/police_shoot_and_kill_black_us_airman_in_florida/)
+- [Lawyer: Deputy who fatally shot Florida airman had wrong apartment](https://www.reddit.com/r/news/comments/1cnnwll/lawyer_deputy_who_fatally_shot_florida_airman_had/)
+- [Suspected thief didn’t know how to use a stick shift, according to police in Colorado](https://www.reddit.com/r/news/comments/1cnmm3g/suspected_thief_didnt_know_how_to_use_a_stick/)
+- [Hidden camera found planted outside of Chino Hills woman&#39;s home](https://www.reddit.com/r/news/comments/1cnlpse/hidden_camera_found_planted_outside_of_chino/)
+- [Sydney man sentenced to 12 months in jail after planting homemade bomb outside pro-Palestinian’s house | Australia news](https://www.reddit.com/r/news/comments/1cnkbhh/sydney_man_sentenced_to_12_months_in_jail_after/)
 <!-- REDDIT:END -->
 
 
