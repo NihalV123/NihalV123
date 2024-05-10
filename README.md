@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [OpenAI plans to announce Google search competitor on Monday, sources say](https://www.reddit.com/r/news/comments/1conpr9/openai_plans_to_announce_google_search_competitor/)
+- [Planet Fitness will raise its $10 membership plan for the first time in 26 years | CNN Business](https://www.reddit.com/r/news/comments/1conf7y/planet_fitness_will_raise_its_10_membership_plan/)
+- [Virginia school board votes to restore names of Confederate leaders to schools](https://www.reddit.com/r/news/comments/1con7f1/virginia_school_board_votes_to_restore_names_of/)
+- [Hospitals Are Refusing to Do Surgeries Unless You Pay in Full First](https://www.reddit.com/r/news/comments/1com2p0/hospitals_are_refusing_to_do_surgeries_unless_you/)
+- [Israeli tanks encircle eastern half of Rafah](https://www.reddit.com/r/news/comments/1com2l2/israeli_tanks_encircle_eastern_half_of_rafah/)
 <!-- REDDIT:END -->
 
 
