@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former US Marine pilot arrested in Australia worked with Chinese hacker, lawyer says](https://www.reddit.com/r/news/comments/1cqbhwr/former_us_marine_pilot_arrested_in_australia/)
+- [Thousands told to evacuate due to British Columbia, Canada wildfire](https://www.reddit.com/r/news/comments/1cq9yze/thousands_told_to_evacuate_due_to_british/)
+- [North Yorkshire apostrophe fans demand road signs with nowt taken out | North Yorkshire](https://www.reddit.com/r/news/comments/1cq6edk/north_yorkshire_apostrophe_fans_demand_road_signs/)
+- [Roger Corman, pioneering independent producer and king of B movies, dies at 98](https://www.reddit.com/r/news/comments/1cq5s9t/roger_corman_pioneering_independent_producer_and/)
+- [First person to receive a genetically modified pig kidney transplant dies almost 2 months later](https://www.reddit.com/r/news/comments/1cq5mtz/first_person_to_receive_a_genetically_modified/)
 <!-- REDDIT:END -->
 
 
