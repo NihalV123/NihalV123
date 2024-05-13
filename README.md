@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two inmates dead, others injured after ‘operational error’ led to gang-related disturbance at Oklahoma prison](https://www.reddit.com/r/news/comments/1cqtxpx/two_inmates_dead_others_injured_after_operational/)
+- [Actor Steve Buscemi is OK after being punched in the face in New York City](https://www.reddit.com/r/news/comments/1cqpett/actor_steve_buscemi_is_ok_after_being_punched_in/)
+- [Ex-Fatburger, Johnny Rockets CEO accused of ‘cover-up’ in $47M scheme to avoid taxes](https://www.reddit.com/r/news/comments/1cqowtj/exfatburger_johnny_rockets_ceo_accused_of_coverup/)
+- [Suspect in fatal Euclid police officer shooting is found dead after standoff in Shaker Heights](https://www.reddit.com/r/news/comments/1cqmw2b/suspect_in_fatal_euclid_police_officer_shooting/)
+- [Australian woman continues to drive with a red-bellied black snake in her car after four failed attempts to remove it](https://www.reddit.com/r/news/comments/1cqmeac/australian_woman_continues_to_drive_with_a/)
 <!-- REDDIT:END -->
 
 
