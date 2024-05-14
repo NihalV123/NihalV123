@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teacher accused of having sex with two students says she ruined her &#39;dream job&#39; with stupid &#39;mistakes&#39;, jury hears](https://www.reddit.com/r/news/comments/1crymsg/teacher_accused_of_having_sex_with_two_students/)
+- [United Healthcare faces state penalty for uneven mental health care coverage](https://www.reddit.com/r/news/comments/1crxv6w/united_healthcare_faces_state_penalty_for_uneven/)
+- [Alice Munro, Nobel literature winner revered as short story master, dead at 92](https://www.reddit.com/r/news/comments/1crx1im/alice_munro_nobel_literature_winner_revered_as/)
+- [Nazi flag-bearing man who crashed a truck into barriers near the White House pleads guilty to felony](https://www.reddit.com/r/news/comments/1crwu74/nazi_flagbearing_man_who_crashed_a_truck_into/)
+- [9 Investigates: State hospital sued after civil patient killed by criminal patient](https://www.reddit.com/r/news/comments/1crunc7/9_investigates_state_hospital_sued_after_civil/)
 <!-- REDDIT:END -->
 
 
