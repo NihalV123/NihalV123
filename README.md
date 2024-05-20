@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BMW imported 8,000 vehicles into US with parts from banned Chinese supplier, Senate report says](https://www.reddit.com/r/news/comments/1cwitw2/bmw_imported_8000_vehicles_into_us_with_parts/)
+- [Fighter pilot Bud Anderson, the last of the WWII triple aces, dies at 102](https://www.reddit.com/r/news/comments/1cwhsm6/fighter_pilot_bud_anderson_the_last_of_the_wwii/)
+- [Nursery deputy manager Kate Roughley guilty of manslaughter over death of baby strapped to bean bag](https://www.reddit.com/r/news/comments/1cwhghe/nursery_deputy_manager_kate_roughley_guilty_of/)
+- [Man jailed for life for murdering wife by burying her alive in Arizona | US News](https://www.reddit.com/r/news/comments/1cwheeo/man_jailed_for_life_for_murdering_wife_by_burying/)
+- [Red Lobster files for bankruptcy](https://www.reddit.com/r/news/comments/1cwgslp/red_lobster_files_for_bankruptcy/)
 <!-- REDDIT:END -->
 
 
