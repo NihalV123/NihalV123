@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ambulance collides with moose while responding to another moose collision: OPP](https://www.reddit.com/r/news/comments/1cwtnvs/ambulance_collides_with_moose_while_responding_to/)
+- [10-year-old swept into storm drain to become an organ donor, dad says](https://www.reddit.com/r/news/comments/1cwq5t2/10yearold_swept_into_storm_drain_to_become_an/)
+- [Judge rules Ohio law that keeps cities from banning flavored tobacco is unconstitutional](https://www.reddit.com/r/news/comments/1cwot0e/judge_rules_ohio_law_that_keeps_cities_from/)
+- [Target to lower prices on about 5,000 basic goods as inflation cuts into budgets](https://www.reddit.com/r/news/comments/1cwo8go/target_to_lower_prices_on_about_5000_basic_goods/)
+- [BMW imported 8,000 vehicles into US with parts from banned Chinese supplier, Senate report says](https://www.reddit.com/r/news/comments/1cwitw2/bmw_imported_8000_vehicles_into_us_with_parts/)
 <!-- REDDIT:END -->
 
 
