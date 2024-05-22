@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Police officer fatally shoots 13lb blind dog. Afraid it had, “rabies”](https://www.reddit.com/r/news/comments/1cxra3i/police_officer_fatally_shoots_13lb_blind_dog/)
+- [Attorneys stop representing a Utah mom and children&#39;s grief author accused of killing her husband](https://www.reddit.com/r/news/comments/1cxoi7l/attorneys_stop_representing_a_utah_mom_and/)
+- [Pentagon: Russia likely launched counter space weapon into low Earth orbit last week](https://www.reddit.com/r/news/comments/1cxoh3b/pentagon_russia_likely_launched_counter_space/)
+- [Parents called for mental health help. Police arrived and fatally shot their son.](https://www.reddit.com/r/news/comments/1cxo0c3/parents_called_for_mental_health_help_police/)
+- [Wounded Warrior Project is being sued for discrimination](https://www.reddit.com/r/news/comments/1cxnuc2/wounded_warrior_project_is_being_sued_for/)
 <!-- REDDIT:END -->
 
 
