@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Corporations are buying local vet clinics-raising questions about price, choice and quality of care](https://www.reddit.com/r/news/comments/1cxm9xg/corporations_are_buying_local_vet_clinicsraising/)
+- [US hints at support for sanctions over ICC warrants on Israel - BBC News](https://www.reddit.com/r/news/comments/1cxkyos/us_hints_at_support_for_sanctions_over_icc/)
+- [Suzanne LaFrance declares victory in Anchorage mayor’s race](https://www.reddit.com/r/news/comments/1cxi9kk/suzanne_lafrance_declares_victory_in_anchorage/)
+- [Giuliani told to post bond in Arizona election case after alleged evasion](https://www.reddit.com/r/news/comments/1cxhzxw/giuliani_told_to_post_bond_in_arizona_election/)
+- [5 Americans held in Turks and Caicos for having ammunition as U.S. lawmakers fail to secure their release](https://www.reddit.com/r/news/comments/1cxfp1q/5_americans_held_in_turks_and_caicos_for_having/)
 <!-- REDDIT:END -->
 
 
