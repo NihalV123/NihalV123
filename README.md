@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli soldiers and police tipping off groups that attack Gaza aid trucks](https://www.reddit.com/r/news/comments/1cxy199/israeli_soldiers_and_police_tipping_off_groups/)
+- [Ireland, Norway, and Spain to recognise Palestinian state next week](https://www.reddit.com/r/news/comments/1cxvqyk/ireland_norway_and_spain_to_recognise_palestinian/)
+- [Gemany: Far-right AfD bans top EU candidate from campaigning](https://www.reddit.com/r/news/comments/1cxvppy/gemany_farright_afd_bans_top_eu_candidate_from/)
+- [New routes planned for halted Gaza aid from US-built pier](https://www.reddit.com/r/news/comments/1cxvkfq/new_routes_planned_for_halted_gaza_aid_from/)
+- [Attorneys stop representing a Utah mom and children&#39;s grief author accused of killing her husband](https://www.reddit.com/r/news/comments/1cxoi7l/attorneys_stop_representing_a_utah_mom_and/)
 <!-- REDDIT:END -->
 
 
