@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A Taliban revenge killing prompts questions, removal of an acclaimed documentary](https://www.reddit.com/r/news/comments/1cyilnm/a_taliban_revenge_killing_prompts_questions/)
+- [Second flag carried by Jan. 6 rioters displayed outside house owned by Justice Alito, report says](https://www.reddit.com/r/news/comments/1cyeft0/second_flag_carried_by_jan_6_rioters_displayed/)
+- [Charlie Colin, Train founding member, bassist, dies at 58](https://www.reddit.com/r/news/comments/1cye3w0/charlie_colin_train_founding_member_bassist_dies/)
+- [UK breakthrough could slash cement CO2 emissions](https://www.reddit.com/r/news/comments/1cydpq7/uk_breakthrough_could_slash_cement_co2_emissions/)
+- [UCLA Removes Police Chief in the Wake of a Protest Melee](https://www.reddit.com/r/news/comments/1cycfn7/ucla_removes_police_chief_in_the_wake_of_a/)
 <!-- REDDIT:END -->
 
 
