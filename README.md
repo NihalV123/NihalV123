@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Louisville police detective who arrested Scottie Scheffler disciplined for not activating body-worn camera](https://www.reddit.com/r/news/comments/1cyyoxq/louisville_police_detective_who_arrested_scottie/)
+- [Louisiana bill to criminalize abortion medications, echoing AG Marshall’s approach](https://www.reddit.com/r/news/comments/1cyxty5/louisiana_bill_to_criminalize_abortion/)
+- [It looks like someone tried to steal Graceland](https://www.reddit.com/r/news/comments/1cyxquy/it_looks_like_someone_tried_to_steal_graceland/)
+- [Norfolk Southern will pay modest $15 million fine as part of federal settlement over Ohio derailment](https://www.reddit.com/r/news/comments/1cyxgim/norfolk_southern_will_pay_modest_15_million_fine/)
+- [Revealed: Meta approved political ads in India that incited violence](https://www.reddit.com/r/news/comments/1cyx8bu/revealed_meta_approved_political_ads_in_india/)
 <!-- REDDIT:END -->
 
 
