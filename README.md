@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dozens of roosters allegedly shot to death by deputies and animal control](https://www.reddit.com/r/news/comments/1cyr5hi/dozens_of_roosters_allegedly_shot_to_death_by/)
+- [China starts ‘punishment’ military drills around Taiwan days after island swears in new leader | CNN](https://www.reddit.com/r/news/comments/1cyq8wd/china_starts_punishment_military_drills_around/)
+- [Three Tennessee high school graduates with disabilities required to sit in audience at commencement](https://www.reddit.com/r/news/comments/1cyq5k0/three_tennessee_high_school_graduates_with/)
+- [SQ321 crew members checked on us despite own injuries: Passenger on turbulence-hit Singapore Airlines flight](https://www.reddit.com/r/news/comments/1cypnum/sq321_crew_members_checked_on_us_despite_own/)
+- [A Taliban revenge killing prompts questions, removal of an acclaimed documentary](https://www.reddit.com/r/news/comments/1cyilnm/a_taliban_revenge_killing_prompts_questions/)
 <!-- REDDIT:END -->
 
 
