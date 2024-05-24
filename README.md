@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Goldman Sachs gets license for regional headquarters in Saudi Arabia, source says](https://www.reddit.com/r/news/comments/1czitto/goldman_sachs_gets_license_for_regional/)
+- [Everest claims fourth climber this week during busy ascent season](https://www.reddit.com/r/news/comments/1cziryq/everest_claims_fourth_climber_this_week_during/)
+- [London-born boy who died aged 15 to become first millennial saint](https://www.reddit.com/r/news/comments/1czieei/londonborn_boy_who_died_aged_15_to_become_first/)
+- [Flags outside of Alito&#39;s houses spark political backlash as Supreme Court nears end of term](https://www.reddit.com/r/news/comments/1czi84s/flags_outside_of_alitos_houses_spark_political/)
+- [UN resumes transporting aid from US-built pier in Gaza](https://www.reddit.com/r/news/comments/1czgcu7/un_resumes_transporting_aid_from_usbuilt_pier_in/)
 <!-- REDDIT:END -->
 
 
