@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Cannabis is in and alcohol is out. Is Gen Z driving the change in preference?](https://www.reddit.com/r/news/comments/1cz8a14/cannabis_is_in_and_alcohol_is_out_is_gen_z/)
+- [Proposal advances to surgically castrate sex offenders in Louisiana](https://www.reddit.com/r/news/comments/1cz5i09/proposal_advances_to_surgically_castrate_sex/)
+- [Case against Maryland doctors charged in Russian conspiracy dismissed](https://www.reddit.com/r/news/comments/1cz3gtk/case_against_maryland_doctors_charged_in_russian/)
+- [NOAA issues highest-ever May forecast for the coming hurricane season](https://www.reddit.com/r/news/comments/1cz126v/noaa_issues_highestever_may_forecast_for_the/)
+- [Louisville police detective who arrested Scottie Scheffler disciplined for not activating body-worn camera](https://www.reddit.com/r/news/comments/1cyyoxq/louisville_police_detective_who_arrested_scottie/)
 <!-- REDDIT:END -->
 
 
