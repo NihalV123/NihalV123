@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [City of Sturgeon: Officer &#39;acted within his authority&#39; when shooting, killing small deaf and blind dog](https://www.reddit.com/r/news/comments/1czduhh/city_of_sturgeon_officer_acted_within_his/)
+- [SBU detains former Russian torture chamber guard](https://www.reddit.com/r/news/comments/1czcvzr/sbu_detains_former_russian_torture_chamber_guard/)
+- [Family of American caught up in Congo failed coup says their son went to Africa on vacation](https://www.reddit.com/r/news/comments/1czcov3/family_of_american_caught_up_in_congo_failed_coup/)
+- [Crook County voters approving Greater Idaho measure](https://www.reddit.com/r/news/comments/1czb8tl/crook_county_voters_approving_greater_idaho/)
+- [Case against Maryland doctors charged in Russian conspiracy dismissed](https://www.reddit.com/r/news/comments/1cz3gtk/case_against_maryland_doctors_charged_in_russian/)
 <!-- REDDIT:END -->
 
 
