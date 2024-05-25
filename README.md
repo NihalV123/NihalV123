@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Scientists have discovered a theoretically habitable, Earth-size planet](https://www.reddit.com/r/news/comments/1d050xe/scientists_have_discovered_a_theoretically/)
+- [Uvalde families sue Meta and Call of Duty maker on second anniversary of school attack](https://www.reddit.com/r/news/comments/1d04uby/uvalde_families_sue_meta_and_call_of_duty_maker/)
+- [Google’s AI Search Errors Cause a Furor Online](https://www.reddit.com/r/news/comments/1d03cet/googles_ai_search_errors_cause_a_furor_online/)
+- [Clear Brook High School student given $300K bond after chemical attack could blind his friend](https://www.reddit.com/r/news/comments/1d020uh/clear_brook_high_school_student_given_300k_bond/)
+- [Utah man declined $100K offer to travel to Congo on &#39;security job&#39; that was covert coup attempt](https://www.reddit.com/r/news/comments/1d00m2v/utah_man_declined_100k_offer_to_travel_to_congo/)
 <!-- REDDIT:END -->
 
 
