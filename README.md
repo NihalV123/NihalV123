@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli soldiers and police tipping off groups that attack Gaza aid trucks](https://www.reddit.com/r/news/comments/1d0h1ov/israeli_soldiers_and_police_tipping_off_groups/)
+- [Ocean Exploration Trust launches 2024 expedition to map unknown areas of the Pacific Ocean | Maui Now](https://www.reddit.com/r/news/comments/1d0gh60/ocean_exploration_trust_launches_2024_expedition/)
+- [Bear meat kebabs at a family reunion lead to rare outbreak of roundworm disease](https://www.reddit.com/r/news/comments/1d0ggq7/bear_meat_kebabs_at_a_family_reunion_lead_to_rare/)
+- [U.S. screens record 2.95 million airline passengers in single day](https://www.reddit.com/r/news/comments/1d0gd5h/us_screens_record_295_million_airline_passengers/)
+- [A woman took her dog to a shelter to be euthanized. A year later, the dog is up for adoption again.](https://www.reddit.com/r/news/comments/1d0fs19/a_woman_took_her_dog_to_a_shelter_to_be/)
 <!-- REDDIT:END -->
 
 
