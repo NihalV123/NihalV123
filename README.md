@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Like A Good Neighbor, State Farm Isn’t There](https://www.reddit.com/r/news/comments/1czzow8/like_a_good_neighbor_state_farm_isnt_there/)
+- [Sean ‘Diddy’ Combs accused of sexual assault in seventh such lawsuit in recent months](https://www.reddit.com/r/news/comments/1czyui6/sean_diddy_combs_accused_of_sexual_assault_in/)
+- [Louisiana governor signs bill classifying abortion pills as controlled dangerous substances](https://www.reddit.com/r/news/comments/1czyn65/louisiana_governor_signs_bill_classifying/)
+- [Sudan war: UN expert warns of genocide in Darfur city of El Fasher](https://www.reddit.com/r/news/comments/1czxffz/sudan_war_un_expert_warns_of_genocide_in_darfur/)
+- [China launches large-scale military drills surrounding Taiwan](https://www.reddit.com/r/news/comments/1czxdgo/china_launches_largescale_military_drills/)
 <!-- REDDIT:END -->
 
 
