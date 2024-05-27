@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [California Man Arrested For Threatening Synagogues, Law Enforcement In North Carolina](https://www.reddit.com/r/news/comments/1d1kat1/california_man_arrested_for_threatening/)
+- [&#39;Serial slingshot shooter,&#39; 81, arrested in California after nearly a decade of evading police](https://www.reddit.com/r/news/comments/1d1fxu6/serial_slingshot_shooter_81_arrested_in/)
+- [Gaza medics say Israeli strike kills 35 in Rafah as IDF investigates after it says Hamas officials killed](https://www.reddit.com/r/news/comments/1d1fkhk/gaza_medics_say_israeli_strike_kills_35_in_rafah/)
+- [After ‘whites only’ job posting, Va. tech company hit with fine from the Justice Department](https://www.reddit.com/r/news/comments/1d1epzy/after_whites_only_job_posting_va_tech_company_hit/)
+- [A Missouri fifth grader raised enough money to pay off his entire school’s meal debt](https://www.reddit.com/r/news/comments/1d1bp7c/a_missouri_fifth_grader_raised_enough_money_to/)
 <!-- REDDIT:END -->
 
 
