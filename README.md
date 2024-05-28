@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israeli tanks hit evacuation zone west of Rafah](https://www.reddit.com/r/news/comments/1d2onmr/israeli_tanks_hit_evacuation_zone_west_of_rafah/)
+- [Chicago police fatally shoot stabbing suspect and wound the person he was trying to stab](https://www.reddit.com/r/news/comments/1d2o3ng/chicago_police_fatally_shoot_stabbing_suspect_and/)
+- [Virginia-based tech firm settles allegations over whites-only job listing](https://www.reddit.com/r/news/comments/1d2nx0o/virginiabased_tech_firm_settles_allegations_over/)
+- [‘We deeply regret the distress’: cinema apologises for Richard Dreyfuss comments at Jaws screening | Movies](https://www.reddit.com/r/news/comments/1d2nu2v/we_deeply_regret_the_distress_cinema_apologises/)
+- [Revealed: Israeli spy chief ‘threatened’ ICC prosecutor over war crimes inquiry](https://www.reddit.com/r/news/comments/1d2noge/revealed_israeli_spy_chief_threatened_icc/)
 <!-- REDDIT:END -->
 
 
