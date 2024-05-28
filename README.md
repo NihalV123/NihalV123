@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [BBC presenter kicked off Turkey flight over daughter&#39;s allergy](https://www.reddit.com/r/news/comments/1d2bq3h/bbc_presenter_kicked_off_turkey_flight_over/)
+- [World’s longest-serving flight attendant dies aged 88: ‘Fly high, Bette’](https://www.reddit.com/r/news/comments/1d1yua0/worlds_longestserving_flight_attendant_dies_aged/)
+- [Hall of Famer Bill Walton, 71, dies of cancer](https://www.reddit.com/r/news/comments/1d1wya9/hall_of_famer_bill_walton_71_dies_of_cancer/)
+- [Doug Ingle, Iron Butterfly founder who sang ‘In-a-Gadda-Da-Vida,’ dies at 78](https://www.reddit.com/r/news/comments/1d1v8wr/doug_ingle_iron_butterfly_founder_who_sang/)
+- [North Korea plans to launch a rocket soon, likely carrying its second military spy satellite](https://www.reddit.com/r/news/comments/1d1r1x1/north_korea_plans_to_launch_a_rocket_soon_likely/)
 <!-- REDDIT:END -->
 
 
