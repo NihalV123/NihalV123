@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Spain, Norway and Ireland formally recognize a Palestinian state as EU rift with Israel widens](https://www.reddit.com/r/news/comments/1d2h7g0/spain_norway_and_ireland_formally_recognize_a/)
+- [China’s military shows off rifle-toting robot dogs](https://www.reddit.com/r/news/comments/1d2fhkm/chinas_military_shows_off_rifletoting_robot_dogs/)
+- [Ex-KKK leader’s child comes out as transgender in new memoir](https://www.reddit.com/r/news/comments/1d2cw9w/exkkk_leaders_child_comes_out_as_transgender_in/)
+- [BBC presenter kicked off Turkey flight over daughter&#39;s allergy](https://www.reddit.com/r/news/comments/1d2bq3h/bbc_presenter_kicked_off_turkey_flight_over/)
+- [World’s longest-serving flight attendant dies aged 88: ‘Fly high, Bette’](https://www.reddit.com/r/news/comments/1d1yua0/worlds_longestserving_flight_attendant_dies_aged/)
 <!-- REDDIT:END -->
 
 
