@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michigan detective sergeant facing murder charge after hitting man with unmarked cruiser](https://www.reddit.com/r/news/comments/1d39o2p/michigan_detective_sergeant_facing_murder_charge/)
+- [Israeli spy chief ‘threatened’ ICC prosecutor over war crimes case: Report](https://www.reddit.com/r/news/comments/1d39ahv/israeli_spy_chief_threatened_icc_prosecutor_over/)
+- [Big tech has distracted world from existential risk of AI, says top scientist](https://www.reddit.com/r/news/comments/1d35vy1/big_tech_has_distracted_world_from_existential/)
+- [Melinda French Gates to donate $1bn in women&#39;s rights](https://www.reddit.com/r/news/comments/1d35m87/melinda_french_gates_to_donate_1bn_in_womens/)
+- [Woman sues Florida sheriff alleging she was twice forced out of her home naked as deputies executed warrants. The Sheriff&#39;s Office faces scrutiny after the death of Air Force Senior Airman Roger Fortson, whom a deputy fatally shot May 3rd.](https://www.reddit.com/r/news/comments/1d2yl0z/woman_sues_florida_sheriff_alleging_she_was_twice/)
 <!-- REDDIT:END -->
 
 
