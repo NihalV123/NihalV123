@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Woman sues Florida sheriff alleging she was twice forced out of her home naked as deputies executed warrants. The Sheriff&#39;s Office faces scrutiny after the death of Air Force Senior Airman Roger Fortson, whom a deputy fatally shot May 3rd.](https://www.reddit.com/r/news/comments/1d2yl0z/woman_sues_florida_sheriff_alleging_she_was_twice/)
+- [Hackers target Seattle Public Library system](https://www.reddit.com/r/news/comments/1d2yca4/hackers_target_seattle_public_library_system/)
+- [Former South Dakota mayor charged in triple-murder](https://www.reddit.com/r/news/comments/1d2y1a3/former_south_dakota_mayor_charged_in_triplemurder/)
+- [Nikki Haley writes ‘finish them’ on IDF artillery shells during Israel visit](https://www.reddit.com/r/news/comments/1d2xctu/nikki_haley_writes_finish_them_on_idf_artillery/)
+- [F-35 Crashes Near Albuquerque Airport, New Mexico](https://www.reddit.com/r/news/comments/1d2wpji/f35_crashes_near_albuquerque_airport_new_mexico/)
 <!-- REDDIT:END -->
 
 
