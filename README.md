@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Charges against Scottie Scheffler dismissed after arrest outside PGA Championship](https://www.reddit.com/r/news/comments/1d3i828/charges_against_scottie_scheffler_dismissed_after/)
+- [Plane makes landing on South Carolina Highway](https://www.reddit.com/r/news/comments/1d3h3b1/plane_makes_landing_on_south_carolina_highway/)
+- [Man accused of hitting TikToker charged with hate crimes](https://www.reddit.com/r/news/comments/1d3gq18/man_accused_of_hitting_tiktoker_charged_with_hate/)
+- [Mother of Jan. 6 officer Michael Fanone swatted after he called Trump &#39;authoritarian&#39;](https://www.reddit.com/r/news/comments/1d3fjyi/mother_of_jan_6_officer_michael_fanone_swatted/)
+- [North Korea sends balloons filled with waste into the South](https://www.reddit.com/r/news/comments/1d3eys8/north_korea_sends_balloons_filled_with_waste_into/)
 <!-- REDDIT:END -->
 
 
