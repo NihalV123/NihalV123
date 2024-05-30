@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [McDonald&#39;s says $18 Big Mac meal was an &#39;exception&#39; and news reports overstated its price increases](https://www.reddit.com/r/news/comments/1d3plqq/mcdonalds_says_18_big_mac_meal_was_an_exception/)
+- [Researchers in Pittsburgh discover large source of lithium in Pennsylvania](https://www.reddit.com/r/news/comments/1d3opf9/researchers_in_pittsburgh_discover_large_source/)
+- [Louisiana chemical plant threatens to shut down if EPA emissions deadline isn&#39;t relaxed](https://www.reddit.com/r/news/comments/1d3nzf2/louisiana_chemical_plant_threatens_to_shut_down/)
+- [Notorious &#39;bad breath rapist&#39; captured in California after decades on the run](https://www.reddit.com/r/news/comments/1d3nm6x/notorious_bad_breath_rapist_captured_in/)
+- [Building explosion kills bank employee and injures 7 others in Youngstown, Ohio](https://www.reddit.com/r/news/comments/1d3mptr/building_explosion_kills_bank_employee_and/)
 <!-- REDDIT:END -->
 
 
