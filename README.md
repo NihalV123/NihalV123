@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dalston shooting: Child and three adults in hospital after being shot in Hackney](https://www.reddit.com/r/news/comments/1d3v0uy/dalston_shooting_child_and_three_adults_in/)
+- [Two giant pandas will arrive at D.C.&#39;s National Zoo this year, officials say](https://www.reddit.com/r/news/comments/1d3u67t/two_giant_pandas_will_arrive_at_dcs_national_zoo/)
+- [Police kill alligator after it was found with missing woman&#39;s remains in mouth](https://www.reddit.com/r/news/comments/1d3tj84/police_kill_alligator_after_it_was_found_with/)
+- [Researchers in Pittsburgh discover large source of lithium in Pennsylvania](https://www.reddit.com/r/news/comments/1d3opf9/researchers_in_pittsburgh_discover_large_source/)
+- [Louisiana chemical plant threatens to shut down if EPA emissions deadline isn&#39;t relaxed](https://www.reddit.com/r/news/comments/1d3nzf2/louisiana_chemical_plant_threatens_to_shut_down/)
 <!-- REDDIT:END -->
 
 
