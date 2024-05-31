@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sources: 1 officer dead, another hospitalized, multiple civilians hurt after shooting in Minneapolis](https://www.reddit.com/r/news/comments/1d4isz9/sources_1_officer_dead_another_hospitalized/)
+- [2nd human case of bird flu confirmed in Michigan, bringing total this year to 3](https://www.reddit.com/r/news/comments/1d4hwwq/2nd_human_case_of_bird_flu_confirmed_in_michigan/)
+- [US state department falsified report absolving Israel on Gaza aid – ex-official](https://www.reddit.com/r/news/comments/1d4hmfz/us_state_department_falsified_report_absolving/)
+- [Biden gives Ukraine permission to carry out limited strikes within Russia using US weapons | CNN Politics](https://www.reddit.com/r/news/comments/1d4g6k3/biden_gives_ukraine_permission_to_carry_out/)
+- [Emigration to the U.S. hits a 10-year high as tens of thousands of Canadians head south | CBC News](https://www.reddit.com/r/news/comments/1d4f5nt/emigration_to_the_us_hits_a_10year_high_as_tens/)
 <!-- REDDIT:END -->
 
 
