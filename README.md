@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UF employee, students implicated in illegal plot to ship drugs, toxins to China](https://www.reddit.com/r/news/comments/1d50xpg/uf_employee_students_implicated_in_illegal_plot/)
+- [Polish news agency probably hit by Russian cyberattack, Polish minister says](https://www.reddit.com/r/news/comments/1d50ayt/polish_news_agency_probably_hit_by_russian/)
+- [Sudanese army rejects calls to deescalate fighting in El Fasher](https://www.reddit.com/r/news/comments/1d4zzm7/sudanese_army_rejects_calls_to_deescalate/)
+- [Men and other mammals live longer if they are castrated, says researcher](https://www.reddit.com/r/news/comments/1d4y65i/men_and_other_mammals_live_longer_if_they_are/)
+- [Sen. Joe Manchin leaves the Democratic Party and registers as independent](https://www.reddit.com/r/news/comments/1d4xzdn/sen_joe_manchin_leaves_the_democratic_party_and/)
 <!-- REDDIT:END -->
 
 
