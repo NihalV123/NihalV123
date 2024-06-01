@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ticketmaster confirms data hack which could affect 560m globally](https://www.reddit.com/r/news/comments/1d5jnim/ticketmaster_confirms_data_hack_which_could/)
+- [Robbery in Monaco: haul estimated at 3 million euros - Monaco Tribune](https://www.reddit.com/r/news/comments/1d5ihow/robbery_in_monaco_haul_estimated_at_3_million/)
+- [Tyson &lpar;ulcer&rpar; forced to postpone bout vs. Paul](https://www.reddit.com/r/news/comments/1d5a43x/tyson_ulcer_forced_to_postpone_bout_vs_paul/)
+- [The Latest | Biden says Israel offers Hamas a cease-fire and hostage release deal](https://www.reddit.com/r/news/comments/1d57y1s/the_latest_biden_says_israel_offers_hamas_a/)
+- [Feds charge retired 4-star Navy admiral in alleged bribery scheme](https://www.reddit.com/r/news/comments/1d57qsv/feds_charge_retired_4star_navy_admiral_in_alleged/)
 <!-- REDDIT:END -->
 
 
