@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Idaho jury decides Chad Daybell should be sentenced to death for 3 murders](https://www.reddit.com/r/news/comments/1d5side/idaho_jury_decides_chad_daybell_should_be/)
+- [Three individuals disappear in a river in northern Italy, swept away by the current.](https://www.reddit.com/r/news/comments/1d5rt9x/three_individuals_disappear_in_a_river_in/)
+- [No Gaza ceasefire until Israel war aims achieved, Netanyahu says](https://www.reddit.com/r/news/comments/1d5o3h3/no_gaza_ceasefire_until_israel_war_aims_achieved/)
+- [Google lays off hundreds of &#39;Core&#39; employees, moves some positions to India and Mexico](https://www.reddit.com/r/news/comments/1d5o39g/google_lays_off_hundreds_of_core_employees_moves/)
+- [Justice Dept. has lawsuit against Vince McMahon paused amid federal probe.](https://www.reddit.com/r/news/comments/1d5n81t/justice_dept_has_lawsuit_against_vince_mcmahon/)
 <!-- REDDIT:END -->
 
 
