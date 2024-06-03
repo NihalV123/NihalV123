@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona tribe temporarily bans dances after police officer is fatally shot responding to disturbance](https://www.reddit.com/r/news/comments/1d71w22/arizona_tribe_temporarily_bans_dances_after/)
+- [Preliminary results project Claudia Sheinbaum to become Mexico’s first female president](https://www.reddit.com/r/news/comments/1d6y60k/preliminary_results_project_claudia_sheinbaum_to/)
+- [Judge blocks key defense evidence and witness on eve of Hunter Biden gun trial | CNN Politics](https://www.reddit.com/r/news/comments/1d6urm0/judge_blocks_key_defense_evidence_and_witness_on/)
+- [Philippine president Ferdinand Marcos Jr warns China against &#39;acts of war&#39;](https://www.reddit.com/r/news/comments/1d6thnd/philippine_president_ferdinand_marcos_jr_warns/)
+- [Boy, five, is world’s youngest to receive bionic hero arm - BBC News](https://www.reddit.com/r/news/comments/1d6t029/boy_five_is_worlds_youngest_to_receive_bionic/)
 <!-- REDDIT:END -->
 
 
