@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ukraine&#39;s Zelenskiy thanks Marcos for Philippine participation in peace summit | Reuters](https://www.reddit.com/r/news/comments/1d6xcpw/ukraines_zelenskiy_thanks_marcos_for_philippine/)
+- [TikTok: AI fakes, abuse and misinformation pushed to young voters](https://www.reddit.com/r/news/comments/1d6xapq/tiktok_ai_fakes_abuse_and_misinformation_pushed/)
+- [Philippine president Ferdinand Marcos Jr warns China against &#39;acts of war&#39;](https://www.reddit.com/r/news/comments/1d6thnd/philippine_president_ferdinand_marcos_jr_warns/)
+- [Boy, five, is world’s youngest to receive bionic hero arm - BBC News](https://www.reddit.com/r/news/comments/1d6t029/boy_five_is_worlds_youngest_to_receive_bionic/)
+- [The cows being controlled by musical collars](https://www.reddit.com/r/news/comments/1d6okgq/the_cows_being_controlled_by_musical_collars/)
 <!-- REDDIT:END -->
 
 
