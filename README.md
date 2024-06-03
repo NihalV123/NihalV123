@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Top Canadian scientist alleges in leaked emails he was barred from studying mystery brain illness](https://www.reddit.com/r/news/comments/1d78unj/top_canadian_scientist_alleges_in_leaked_emails/)
+- [Sandy Hook families ask bankruptcy judge to liquidate Alex Jones&#39; media company](https://www.reddit.com/r/news/comments/1d77r0e/sandy_hook_families_ask_bankruptcy_judge_to/)
+- [NYSE technical issue impacts some stock values, exchange incorrectly shows Berkshire Hathaway down 99%](https://www.reddit.com/r/news/comments/1d772oy/nyse_technical_issue_impacts_some_stock_values/)
+- [Arizona tribe temporarily bans dances after police officer is fatally shot responding to disturbance](https://www.reddit.com/r/news/comments/1d71w22/arizona_tribe_temporarily_bans_dances_after/)
+- [Preliminary results project Claudia Sheinbaum to become Mexico’s first female president](https://www.reddit.com/r/news/comments/1d6y60k/preliminary_results_project_claudia_sheinbaum_to/)
 <!-- REDDIT:END -->
 
 
