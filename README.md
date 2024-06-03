@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The cows being controlled by musical collars](https://www.reddit.com/r/news/comments/1d6okgq/the_cows_being_controlled_by_musical_collars/)
+- [California firefighters battle wind-driven wildfire east of San Francisco](https://www.reddit.com/r/news/comments/1d6lco9/california_firefighters_battle_winddriven/)
+- [Biden&#39;s Gaza plan &#39;not a good deal&#39; but Israel accepts it, Netanyahu aide says](https://www.reddit.com/r/news/comments/1d6gh68/bidens_gaza_plan_not_a_good_deal_but_israel/)
+- [Texas Supreme Court rejects challenge to state&#39;s abortion law over medical exceptions](https://www.reddit.com/r/news/comments/1d6g1by/texas_supreme_court_rejects_challenge_to_states/)
+- [Panama prepares to evacuate first island in face of rising sea levels](https://www.reddit.com/r/news/comments/1d6eho5/panama_prepares_to_evacuate_first_island_in_face/)
 <!-- REDDIT:END -->
 
 
