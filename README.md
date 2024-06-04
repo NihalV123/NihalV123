@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Couple finds safe containing $100,000 while magnet fishing in Queens](https://www.reddit.com/r/news/comments/1d7q6zy/couple_finds_safe_containing_100000_while_magnet/)
+- [Rare skull of an extinct, massive ‘thunder bird’ discovered in Australia](https://www.reddit.com/r/news/comments/1d7pvom/rare_skull_of_an_extinct_massive_thunder_bird/)
+- [Mother of airman killed by Florida deputy says his firing, alone, won&#39;t cut it](https://www.reddit.com/r/news/comments/1d7n0z0/mother_of_airman_killed_by_florida_deputy_says/)
+- [74-year-old woman pronounced dead in hospice care found breathing at funeral home](https://www.reddit.com/r/news/comments/1d7lyr8/74yearold_woman_pronounced_dead_in_hospice_care/)
+- [Epoch Times CFO Bill Guan is charged in alleged $67 million global money laundering scheme](https://www.reddit.com/r/news/comments/1d7lewy/epoch_times_cfo_bill_guan_is_charged_in_alleged/)
 <!-- REDDIT:END -->
 
 
