@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man sentenced to 40 years to life for killing mother after argument over video game volume](https://www.reddit.com/r/news/comments/1d8vwco/man_sentenced_to_40_years_to_life_for_killing/)
+- [Big Mac battle: McDonald’s loses European Union trademark fight with Irish rival Supermac’s](https://www.reddit.com/r/news/comments/1d8u9z3/big_mac_battle_mcdonalds_loses_european_union/)
+- [Father of Baraboo High School graduate blocks superintendent from shaking daughter&#39;s hand](https://www.reddit.com/r/news/comments/1d8tkxi/father_of_baraboo_high_school_graduate_blocks/)
+- [Boeing Starliner launches for the first time carrying NASA astronauts to the ISS](https://www.reddit.com/r/news/comments/1d8szw5/boeing_starliner_launches_for_the_first_time/)
+- [Professional rock climber sentenced to life in prison for sexual assault at Yosemite National Park](https://www.reddit.com/r/news/comments/1d8s64x/professional_rock_climber_sentenced_to_life_in/)
 <!-- REDDIT:END -->
 
 
