@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden imposes sweeping asylum ban at US-Mexico border](https://www.reddit.com/r/news/comments/1d8c7ux/biden_imposes_sweeping_asylum_ban_at_usmexico/)
+- [After publishing an article critical of Israel, Columbia Law Review&#39;s website is shut down by board](https://www.reddit.com/r/news/comments/1d8bnnm/after_publishing_an_article_critical_of_israel/)
+- [Amanda Knox to defend herself in Italian court against a 16-year-old slander charge](https://www.reddit.com/r/news/comments/1d8ap34/amanda_knox_to_defend_herself_in_italian_court/)
+- [AT&amp;T customers facing &#39;nationwide issue&#39; impacting their ability to call non-AT&amp;T users](https://www.reddit.com/r/news/comments/1d89vuc/att_customers_facing_nationwide_issue_impacting/)
+- [Panel rejects psychedelic drug MDMA as a PTSD treatment in possible setback for advocates](https://www.reddit.com/r/news/comments/1d89q8j/panel_rejects_psychedelic_drug_mdma_as_a_ptsd/)
 <!-- REDDIT:END -->
 
 
