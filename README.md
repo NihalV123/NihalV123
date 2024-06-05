@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [After publishing an article critical of Israel, Columbia Law Review’s website is shut down by board](https://www.reddit.com/r/news/comments/1d8nudv/after_publishing_an_article_critical_of_israel/)
+- [Gunman captured after shootout outside US Embassy in Lebanon](https://www.reddit.com/r/news/comments/1d8nsfv/gunman_captured_after_shootout_outside_us_embassy/)
+- [Rock climber Charles Barrett sentenced to life in prison for sexual assaults at Yosemite](https://www.reddit.com/r/news/comments/1d8lps9/rock_climber_charles_barrett_sentenced_to_life_in/)
+- [Pringles thief told police &#39;once you pop, you can&#39;t stop&#39;](https://www.reddit.com/r/news/comments/1d8klmx/pringles_thief_told_police_once_you_pop_you_cant/)
+- [Remote Amazon tribe finally connects to internet — only to wind up hooked on porn, social media](https://www.reddit.com/r/news/comments/1d8j27f/remote_amazon_tribe_finally_connects_to_internet/)
 <!-- REDDIT:END -->
 
 
