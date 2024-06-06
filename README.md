@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Microsoft, OpenAI and Nvidia investigated over monopoly laws](https://www.reddit.com/r/news/comments/1d9o75k/microsoft_openai_and_nvidia_investigated_over/)
+- [Judge orders ex-Trump adviser Steve Bannon to report to prison by July 1](https://www.reddit.com/r/news/comments/1d9mzqe/judge_orders_extrump_adviser_steve_bannon_to/)
+- [The FDA reverses its ban on Juul e-cigarettes](https://www.reddit.com/r/news/comments/1d9mge9/the_fda_reverses_its_ban_on_juul_ecigarettes/)
+- [Activists fly K-pop USB sticks into North Korea as ‘poo balloon’ row intensifies](https://www.reddit.com/r/news/comments/1d9m7bw/activists_fly_kpop_usb_sticks_into_north_korea_as/)
+- [Southern Baptists are poised to ban churches with women pastors. Some are urging them to reconsider](https://www.reddit.com/r/news/comments/1d9kdye/southern_baptists_are_poised_to_ban_churches_with/)
 <!-- REDDIT:END -->
 
 
