@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NVIDIA surpasses Apple to become the second-largest public company in the US](https://www.reddit.com/r/news/comments/1d94psc/nvidia_surpasses_apple_to_become_the/)
+- [Putin warns that Russia could provide long-range weapons to others to strike Western targets](https://www.reddit.com/r/news/comments/1d94253/putin_warns_that_russia_could_provide_longrange/)
+- [Rent monopoly crackdown continues as FBI raids corporate landlord for 18 Arizona properties](https://www.reddit.com/r/news/comments/1d93x2g/rent_monopoly_crackdown_continues_as_fbi_raids/)
+- [NewsBreak: Most downloaded US news app has Chinese roots and &#39;writes fiction&#39; using AI](https://www.reddit.com/r/news/comments/1d93wlz/newsbreak_most_downloaded_us_news_app_has_chinese/)
+- [First confirmed human case of bird flu H5N2 has died, says World Health Organisation](https://www.reddit.com/r/news/comments/1d93vsj/first_confirmed_human_case_of_bird_flu_h5n2_has/)
 <!-- REDDIT:END -->
 
 
