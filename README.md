@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dozens of Palestinians killed in Israeli airstrike on UN school in central Gaza](https://www.reddit.com/r/news/comments/1d9an8s/dozens_of_palestinians_killed_in_israeli/)
+- [OpenAI insiders’ open letter warns of ‘serious risks’ and calls for whistleblower protections](https://www.reddit.com/r/news/comments/1d9a1g0/openai_insiders_open_letter_warns_of_serious/)
+- [Army investigates loss of 31 M17 pistols from Fort Moore](https://www.reddit.com/r/news/comments/1d97syd/army_investigates_loss_of_31_m17_pistols_from/)
+- [Oceans face ‘triple threat’ of extreme heat, oxygen loss and acidification | Oceans](https://www.reddit.com/r/news/comments/1d97bev/oceans_face_triple_threat_of_extreme_heat_oxygen/)
+- [Boeing&#39;s Starliner capsule finally launches, but runs into more trouble with helium leaks](https://www.reddit.com/r/news/comments/1d96wzh/boeings_starliner_capsule_finally_launches_but/)
 <!-- REDDIT:END -->
 
 
