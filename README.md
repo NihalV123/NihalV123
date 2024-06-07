@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alex Jones agrees to liquidate his assets to pay Sandy Hook families, in move that would end his ownership of Infowars | CNN Business](https://www.reddit.com/r/news/comments/1da0c3s/alex_jones_agrees_to_liquidate_his_assets_to_pay/)
+- [Supreme Court sides with Native American tribes in health care funding dispute with government](https://www.reddit.com/r/news/comments/1d9zbfs/supreme_court_sides_with_native_american_tribes/)
+- [US to send new $225 million military aid package to Ukraine, officials say.](https://www.reddit.com/r/news/comments/1d9xqxt/us_to_send_new_225_million_military_aid_package/)
+- [YouTuber Alex Choi charged over stunt where fireworks were shot at Lamborghini from helicopter](https://www.reddit.com/r/news/comments/1d9whiu/youtuber_alex_choi_charged_over_stunt_where/)
+- [Exclusive: Cows infected with bird flu have died in five US states](https://www.reddit.com/r/news/comments/1d9vgfe/exclusive_cows_infected_with_bird_flu_have_died/)
 <!-- REDDIT:END -->
 
 
