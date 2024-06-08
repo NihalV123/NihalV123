@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oregon closes more coastal shellfish harvesting due to &#39;historic high levels&#39; of toxins](https://www.reddit.com/r/news/comments/1db94q4/oregon_closes_more_coastal_shellfish_harvesting/)
+- [Cleveland Mississippi Country Club refuses woman entry in event](https://www.reddit.com/r/news/comments/1db8531/cleveland_mississippi_country_club_refuses_woman/)
+- [The Army-Navy Gaza aid pier is back in the beach](https://www.reddit.com/r/news/comments/1db3cua/the_armynavy_gaza_aid_pier_is_back_in_the_beach/)
+- [Rare Brown Booby bird sighting in southern Indiana ruffles feathers at state park](https://www.reddit.com/r/news/comments/1dar4np/rare_brown_booby_bird_sighting_in_southern/)
+- [Former astronaut William Anders, who took iconic Earthrise photo, has died in Washington plane crash](https://www.reddit.com/r/news/comments/1daqis0/former_astronaut_william_anders_who_took_iconic/)
 <!-- REDDIT:END -->
 
 
