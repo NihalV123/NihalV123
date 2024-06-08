@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former astronaut William Anders, who took iconic Earthrise photo, has died in Washington plane crash](https://www.reddit.com/r/news/comments/1daqis0/former_astronaut_william_anders_who_took_iconic/)
+- [Pat Sajak takes final spin as host on &#39;Wheel of Fortune&#39; after 41 years](https://www.reddit.com/r/news/comments/1dajd4d/pat_sajak_takes_final_spin_as_host_on_wheel_of/)
+- [US Supreme Court justices disclose Bali hotel stay, Beyoncé tickets, book deals](https://www.reddit.com/r/news/comments/1daiogk/us_supreme_court_justices_disclose_bali_hotel/)
+- [Bag of cash doesn’t stop jurors from convicting 5 of 7 defendants in $40 million food fraud scheme](https://www.reddit.com/r/news/comments/1daiglx/bag_of_cash_doesnt_stop_jurors_from_convicting_5/)
+- [Russian navy vessels to dock in Havana, Cuba insists no threat](https://www.reddit.com/r/news/comments/1dahdnx/russian_navy_vessels_to_dock_in_havana_cuba/)
 <!-- REDDIT:END -->
 
 
