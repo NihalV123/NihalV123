@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel rescues 4 hostages kidnapped in a Hamas-led attack on Oct. 7.](https://www.reddit.com/r/news/comments/1db0avi/israel_rescues_4_hostages_kidnapped_in_a_hamasled/)
+- [UN adds Israel&#39;s military to list of offenders who commit crimes against children](https://www.reddit.com/r/news/comments/1dazh3p/un_adds_israels_military_to_list_of_offenders_who/)
+- [Post-poll violence erupts in West Bengal; BJP workers targeted](https://www.reddit.com/r/news/comments/1dazbnb/postpoll_violence_erupts_in_west_bengal_bjp/)
+- [Rare Brown Booby bird sighting in southern Indiana ruffles feathers at state park](https://www.reddit.com/r/news/comments/1dar4np/rare_brown_booby_bird_sighting_in_southern/)
+- [Former astronaut William Anders, who took iconic Earthrise photo, has died in Washington plane crash](https://www.reddit.com/r/news/comments/1daqis0/former_astronaut_william_anders_who_took_iconic/)
 <!-- REDDIT:END -->
 
 
