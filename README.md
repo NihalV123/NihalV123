@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Michael Mosley: body found in search for missing TV doctor](https://www.reddit.com/r/news/comments/1dboykr/michael_mosley_body_found_in_search_for_missing/)
+- [3 people injured in 2 shark attacks at neighboring Florida beaches just 90 minutes apart | CNN](https://www.reddit.com/r/news/comments/1dbmlow/3_people_injured_in_2_shark_attacks_at/)
+- [Carbon dioxide levels in the atmosphere are surging &quot;faster than ever&quot; to beyond anything humans ever experienced, officials say](https://www.reddit.com/r/news/comments/1dbj2g7/carbon_dioxide_levels_in_the_atmosphere_are/)
+- [Purported neo-Nazis rally at South Dakota State Capitol, march around Pierre](https://www.reddit.com/r/news/comments/1dbisfi/purported_neonazis_rally_at_south_dakota_state/)
+- [Vancouver&#39;s nude beach users decry removal of &#39;privacy&#39; logs](https://www.reddit.com/r/news/comments/1dbgfws/vancouvers_nude_beach_users_decry_removal_of/)
 <!-- REDDIT:END -->
 
 
