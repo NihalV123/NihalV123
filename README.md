@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kite surfer rescued from remote California beach rescued after making &#39;HELP&#39; sign with rocks](https://www.reddit.com/r/news/comments/1ddl0y9/kite_surfer_rescued_from_remote_california_beach/)
+- [Part of Wyoming highway collapses in landslide, blocking crucial transit route](https://www.reddit.com/r/news/comments/1ddkfbm/part_of_wyoming_highway_collapses_in_landslide/)
+- [The world agreed to ban this dangerous pollutant — and it’s working](https://www.reddit.com/r/news/comments/1ddi13n/the_world_agreed_to_ban_this_dangerous_pollutant/)
+- [US jury holds banana giant Chiquita liable for financing Colombia paramilitaries](https://www.reddit.com/r/news/comments/1ddgtsy/us_jury_holds_banana_giant_chiquita_liable_for/)
+- [President Joe Biden&#39;s son, Hunter Biden, is convicted of all 3 felonies in federal gun trial](https://www.reddit.com/r/news/comments/1ddgq41/president_joe_bidens_son_hunter_biden_is/)
 <!-- REDDIT:END -->
 
 
