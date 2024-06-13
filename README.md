@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [3 deputies shot while responding to northern Illinois home, suspect also wounded | AP News](https://www.reddit.com/r/news/comments/1dekr5h/3_deputies_shot_while_responding_to_northern/)
+- [Lauren Boebert&#39;s Ex-Husband Gets Unsupervised Probation, $40 Fine in Plea Deal](https://www.reddit.com/r/news/comments/1deh93t/lauren_boeberts_exhusband_gets_unsupervised/)
+- [9/11 Responders Exposed to More Toxins Show Higher Incidence of Dementia](https://www.reddit.com/r/news/comments/1deg7mb/911_responders_exposed_to_more_toxins_show_higher/)
+- [Southern Baptist Convention condemns IVF procedures](https://www.reddit.com/r/news/comments/1defg1t/southern_baptist_convention_condemns_ivf/)
+- [Russian warships arrive in Cuba in show of force](https://www.reddit.com/r/news/comments/1def4px/russian_warships_arrive_in_cuba_in_show_of_force/)
 <!-- REDDIT:END -->
 
 
