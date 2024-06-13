@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Arizona man planned a mass shooting targeting African Americans at an Atlanta concert to incite a race war, feds say](https://www.reddit.com/r/news/comments/1dev7tv/arizona_man_planned_a_mass_shooting_targeting/)
+- [Sandy Hook survivors graduate from high school](https://www.reddit.com/r/news/comments/1dev5du/sandy_hook_survivors_graduate_from_high_school/)
+- [Attorney General Merrick Garland held in contempt of US Congress](https://www.reddit.com/r/news/comments/1deusw5/attorney_general_merrick_garland_held_in_contempt/)
+- [Russia accused of ‘deliberate’ starvation tactics in Mariupol in submission to ICC](https://www.reddit.com/r/news/comments/1desdqx/russia_accused_of_deliberate_starvation_tactics/)
+- [U.S. railroad Amtrak set to break passenger records in 2024](https://www.reddit.com/r/news/comments/1dero7g/us_railroad_amtrak_set_to_break_passenger_records/)
 <!-- REDDIT:END -->
 
 
