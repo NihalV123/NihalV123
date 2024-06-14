@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The FAA is investigating a new incident involving a Boeing 737 Max 8 jet in midair](https://www.reddit.com/r/news/comments/1dfayps/the_faa_is_investigating_a_new_incident_involving/)
+- [Elon Musk&#39;s investor fan base cheers apparent approval of $56 billion Tesla pay package](https://www.reddit.com/r/news/comments/1dfa1vw/elon_musks_investor_fan_base_cheers_apparent/)
+- [Judge says Biden&#39;s ban of &#39;gun show loophole&#39; invalid in 4 states](https://www.reddit.com/r/news/comments/1df8kdq/judge_says_bidens_ban_of_gun_show_loophole/)
+- [Ascension says massive cyberattack started after employee clicked malicious file](https://www.reddit.com/r/news/comments/1df7ae0/ascension_says_massive_cyberattack_started_after/)
+- [Phoenix police have pattern of violating civil rights and using excessive force, Justice Dept. says](https://www.reddit.com/r/news/comments/1df5lbz/phoenix_police_have_pattern_of_violating_civil/)
 <!-- REDDIT:END -->
 
 
