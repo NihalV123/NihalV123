@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [71-year-old Tampa woman accused of shooting, killing roommate for not cleaning up after himself](https://www.reddit.com/r/news/comments/1dgnwv6/71yearold_tampa_woman_accused_of_shooting_killing/)
+- [Man arrested in murder of Rachel Morin](https://www.reddit.com/r/news/comments/1dgnbnu/man_arrested_in_murder_of_rachel_morin/)
+- [A California Law Banning Hidden Fees Goes Into Effect Next Month](https://www.reddit.com/r/news/comments/1dglt31/a_california_law_banning_hidden_fees_goes_into/)
+- [Rare tissue-damaging bacteria spreads in Japan](https://www.reddit.com/r/news/comments/1dgkxq2/rare_tissuedamaging_bacteria_spreads_in_japan/)
+- [Sweden Releases Convicted Iranian Official In Prisoner Swap &lpar;Convicted in 1988 massacre in Iran&rpar;.](https://www.reddit.com/r/news/comments/1dgj4cj/sweden_releases_convicted_iranian_official_in/)
 <!-- REDDIT:END -->
 
 
