@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Suspect arrested in 2023 murder of mother of 5 killed while hiking in Maryland](https://www.reddit.com/r/news/comments/1dgvjq7/suspect_arrested_in_2023_murder_of_mother_of_5/)
+- [Brooklands Splashpad shooting: Multiple people injured in Rochester Hills](https://www.reddit.com/r/news/comments/1dgtobr/brooklands_splashpad_shooting_multiple_people/)
+- [Missouri woman&#39;s murder conviction tossed after 43 years. Her lawyers say a police officer did it](https://www.reddit.com/r/news/comments/1dgr72l/missouri_womans_murder_conviction_tossed_after_43/)
+- [Record-breaking fires consume Brazil’s Pantanal wetland in June](https://www.reddit.com/r/news/comments/1dgqj0n/recordbreaking_fires_consume_brazils_pantanal/)
+- [71-year-old Tampa woman accused of shooting, killing roommate for not cleaning up after himself](https://www.reddit.com/r/news/comments/1dgnwv6/71yearold_tampa_woman_accused_of_shooting_killing/)
 <!-- REDDIT:END -->
 
 
