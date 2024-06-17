@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [House passes defense bill targeting abortion access, transgender troops and diversity](https://www.reddit.com/r/news/comments/1dho46r/house_passes_defense_bill_targeting_abortion/)
+- [A Chinese military buff inadvertently bought 4 books of military secrets for under $1](https://www.reddit.com/r/news/comments/1dhfxnd/a_chinese_military_buff_inadvertently_bought_4/)
+- [Eight injured in shooting incident during gathering in Methuen, MA](https://www.reddit.com/r/news/comments/1dhcaji/eight_injured_in_shooting_incident_during/)
+- [NASA’s Voyager 1, the most distant spacecraft from Earth, is doing science again after problem](https://www.reddit.com/r/news/comments/1dhavtb/nasas_voyager_1_the_most_distant_spacecraft_from/)
+- [Police officer who twice hit escaped cow with car on suburban street removed from frontline duties while incident investigated](https://www.reddit.com/r/news/comments/1dhadfc/police_officer_who_twice_hit_escaped_cow_with_car/)
 <!-- REDDIT:END -->
 
 
