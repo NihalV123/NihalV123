@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Greek coastguard threw migrants overboard to their deaths, witnesses say](https://www.reddit.com/r/news/comments/1dhv81m/greek_coastguard_threw_migrants_overboard_to/)
+- [Indian suspect in plot to kill Sikh separatist extradited to US | CNN](https://www.reddit.com/r/news/comments/1dhtfac/indian_suspect_in_plot_to_kill_sikh_separatist/)
+- [A Chinese military buff inadvertently bought 4 books of military secrets for under $1](https://www.reddit.com/r/news/comments/1dhfxnd/a_chinese_military_buff_inadvertently_bought_4/)
+- [Eight injured in shooting incident during gathering in Methuen, MA](https://www.reddit.com/r/news/comments/1dhcaji/eight_injured_in_shooting_incident_during/)
+- [NASA’s Voyager 1, the most distant spacecraft from Earth, is doing science again after problem](https://www.reddit.com/r/news/comments/1dhavtb/nasas_voyager_1_the_most_distant_spacecraft_from/)
 <!-- REDDIT:END -->
 
 
