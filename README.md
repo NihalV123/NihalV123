@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US sues Photoshop maker Adobe for hiding fees, making it hard to cancel](https://www.reddit.com/r/news/comments/1di3zgb/us_sues_photoshop_maker_adobe_for_hiding_fees/)
+- [Second sex offending pastor identified at Gateway Church in Southlake, TX](https://www.reddit.com/r/news/comments/1di3qal/second_sex_offending_pastor_identified_at_gateway/)
+- [Treasury, IRS unveil plan to close ‘major tax loophole’ used by large partnerships](https://www.reddit.com/r/news/comments/1di0sip/treasury_irs_unveil_plan_to_close_major_tax/)
+- [Vehicle Submerged in Minnesota River at Bloomington; Recovery Efforts Underway](https://www.reddit.com/r/news/comments/1di0rr6/vehicle_submerged_in_minnesota_river_at/)
+- [Maryland Gov. Wes Moore set to issue 175,000 pardons for marijuana convictions](https://www.reddit.com/r/news/comments/1dhzutl/maryland_gov_wes_moore_set_to_issue_175000/)
 <!-- REDDIT:END -->
 
 
