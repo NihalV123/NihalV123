@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel warns of prospect of ‘all-out war’ after Hezbollah publishes video of military, civilian sites](https://www.reddit.com/r/news/comments/1djpaue/israel_warns_of_prospect_of_allout_war_after/)
+- [Chemicals from East Palestine derailment spread to 16 US states, data shows | Ohio](https://www.reddit.com/r/news/comments/1djnvac/chemicals_from_east_palestine_derailment_spread/)
+- [Woman accuses former Olympic swim coach of sexually abusing her as a teen and USA Swimming of failing to stop it](https://www.reddit.com/r/news/comments/1djlv3j/woman_accuses_former_olympic_swim_coach_of/)
+- [Tropical Storm Alberto forms in southwest Gulf, 1st named storm of the hurricane season](https://www.reddit.com/r/news/comments/1djlugi/tropical_storm_alberto_forms_in_southwest_gulf/)
+- [Police seek ‘armed and dangerous’ suspect after fatal Washington City shooting](https://www.reddit.com/r/news/comments/1djl8w4/police_seek_armed_and_dangerous_suspect_after/)
 <!-- REDDIT:END -->
 
 
