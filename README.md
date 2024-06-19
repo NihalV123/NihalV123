@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Astronauts’ return delayed again as Boeing and NASA try to learn more about spacecraft issues|CNN](https://www.reddit.com/r/news/comments/1dja3qv/astronauts_return_delayed_again_as_boeing_and/)
+- [New Mexico village of Ruidoso orders residents to evacuate due to raging wildfires: &quot;GO NOW&quot;](https://www.reddit.com/r/news/comments/1dj9w92/new_mexico_village_of_ruidoso_orders_residents_to/)
+- [Ohio attorney suspended over pooping in a Pringles can has license reinstated](https://www.reddit.com/r/news/comments/1dj78tb/ohio_attorney_suspended_over_pooping_in_a/)
+- [Baseball legend Willie Mays dies at 93](https://www.reddit.com/r/news/comments/1dj6yxl/baseball_legend_willie_mays_dies_at_93/)
+- [‘I know it happens’: Boeing chief admits the company has retaliated against whistleblowers](https://www.reddit.com/r/news/comments/1dj6wq7/i_know_it_happens_boeing_chief_admits_the_company/)
 <!-- REDDIT:END -->
 
 
