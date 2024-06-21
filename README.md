@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Facebook rejects ads promoting stories about climate change under policy on &#39;sensitive&#39; topics](https://www.reddit.com/r/news/comments/1dl29sj/facebook_rejects_ads_promoting_stories_about/)
+- [Russian officials: one dead in &#39;mass&#39; drone attack on southern Krasnodar region](https://www.reddit.com/r/news/comments/1dl1y18/russian_officials_one_dead_in_mass_drone_attack/)
+- [FBI raids Oakland mayor&#39;s home, several other locations in political corruption probe: source](https://www.reddit.com/r/news/comments/1dkxgok/fbi_raids_oakland_mayors_home_several_other/)
+- [USC student will not be charged in fatal stabbing of homeless person](https://www.reddit.com/r/news/comments/1dkse0g/usc_student_will_not_be_charged_in_fatal_stabbing/)
+- [Investigators for 9/11 families examine video taken by man with ties to Saudi intelligence referencing a &quot;plan&quot;](https://www.reddit.com/r/news/comments/1dkrp49/investigators_for_911_families_examine_video/)
 <!-- REDDIT:END -->
 
 
