@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [USC student will not be charged in fatal stabbing of homeless person](https://www.reddit.com/r/news/comments/1dkse0g/usc_student_will_not_be_charged_in_fatal_stabbing/)
+- [Investigators for 9/11 families examine video taken by man with ties to Saudi intelligence referencing a &quot;plan&quot;](https://www.reddit.com/r/news/comments/1dkrp49/investigators_for_911_families_examine_video/)
+- [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.reddit.com/r/news/comments/1dkqb4b/instagram_recommends_sexual_videos_to_accounts/)
+- [This Judge Made Houston the Top Bankruptcy Court. Then He Helped His Girlfriend Cash In.](https://www.reddit.com/r/news/comments/1dkqakw/this_judge_made_houston_the_top_bankruptcy_court/)
+- [Roller coaster strikes and critically injures man in restricted area of Ohio theme park](https://www.reddit.com/r/news/comments/1dkmz02/roller_coaster_strikes_and_critically_injures_man/)
 <!-- REDDIT:END -->
 
 
