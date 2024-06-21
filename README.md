@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [No guns for domestic abuse suspects, Supreme Court rules](https://www.reddit.com/r/news/comments/1dlabwt/no_guns_for_domestic_abuse_suspects_supreme_court/)
+- [American Airlines suspends staff after black men kicked off flight - BBC News](https://www.reddit.com/r/news/comments/1dl9la3/american_airlines_suspends_staff_after_black_men/)
+- [Montreal becomes largest North American city to eliminate mandatory minimum parking spots](https://www.reddit.com/r/news/comments/1dl6s48/montreal_becomes_largest_north_american_city_to/)
+- [Massive power outage hits Balkan states as heat overloads system, minister says](https://www.reddit.com/r/news/comments/1dl69nk/massive_power_outage_hits_balkan_states_as_heat/)
+- [Pennsylvania couple caught in rip current drowns while vacationing in Florida with 6 kids](https://www.reddit.com/r/news/comments/1dl5r52/pennsylvania_couple_caught_in_rip_current_drowns/)
 <!-- REDDIT:END -->
 
 
