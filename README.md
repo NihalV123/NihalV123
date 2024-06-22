@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5 men convicted for Jetflicks, illegal streamer with more content than Netflix, Hulu and Amazon combined](https://www.reddit.com/r/news/comments/1dm0bfr/5_men_convicted_for_jetflicks_illegal_streamer/)
+- [Federal firefighters left in limbo as fire season heats up](https://www.reddit.com/r/news/comments/1dlzfrn/federal_firefighters_left_in_limbo_as_fire_season/)
+- [New Colorado law will ban sales of dental floss, clothes, &amp; other household products containing toxic &quot;forever chemicals&quot;](https://www.reddit.com/r/news/comments/1dlyjx1/new_colorado_law_will_ban_sales_of_dental_floss/)
+- [Extreme heat in India has killed more than 100 people in the past three and a half months](https://www.reddit.com/r/news/comments/1dlvxjz/extreme_heat_in_india_has_killed_more_than_100/)
+- [Britain’s richest family sentenced to jail for exploiting staff in Swiss mansion](https://www.reddit.com/r/news/comments/1dlvulc/britains_richest_family_sentenced_to_jail_for/)
 <!-- REDDIT:END -->
 
 
