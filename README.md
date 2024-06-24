@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pro-Palestinian protest erupts in clashes in front of Pico-Robertson synagogue](https://www.reddit.com/r/news/comments/1dn3xg3/propalestinian_protest_erupts_in_clashes_in_front/)
+- [U.S. fails to ratify ocean mining treaty; other countries rush toward underwater riches](https://www.reddit.com/r/news/comments/1dn21xh/us_fails_to_ratify_ocean_mining_treaty_other/)
+- [More than 15 policemen, several civilians killed by gunmen in Russia&#39;s southern Dagestan region](https://www.reddit.com/r/news/comments/1dn1sef/more_than_15_policemen_several_civilians_killed/)
+- [At least 5 dead after missile fragments scatter over beachgoers in Russian-occupied Crimea](https://www.reddit.com/r/news/comments/1dmyriw/at_least_5_dead_after_missile_fragments_scatter/)
+- [Six intruders run onto 18th green and spray powder, delaying finish of Travelers Championship](https://www.reddit.com/r/news/comments/1dmw48o/six_intruders_run_onto_18th_green_and_spray/)
 <!-- REDDIT:END -->
 
 
