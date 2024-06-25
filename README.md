@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Hillsborough County Florida has confirmed case of locally transmitted dengue fever](https://www.reddit.com/r/news/comments/1dobu34/hillsborough_county_florida_has_confirmed_case_of/)
+- [CT religious vaccine exemption ban will hold; SCOTUS rejects case - CTMirror](https://www.reddit.com/r/news/comments/1dob531/ct_religious_vaccine_exemption_ban_will_hold/)
+- [Detroit plans to rein in solar power on vacant lots throughout the city](https://www.reddit.com/r/news/comments/1doazxt/detroit_plans_to_rein_in_solar_power_on_vacant/)
+- [Part of Kenya’s parliament on fire as thousands of protesters enter](https://www.reddit.com/r/news/comments/1do9ce6/part_of_kenyas_parliament_on_fire_as_thousands_of/)
+- [NASA calls off spacewalk after spacesuit water leak](https://www.reddit.com/r/news/comments/1do82nl/nasa_calls_off_spacewalk_after_spacesuit_water/)
 <!-- REDDIT:END -->
 
 
