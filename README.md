@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. surgeon general declares gun violence a public health crisis](https://www.reddit.com/r/news/comments/1do4cfy/us_surgeon_general_declares_gun_violence_a_public/)
+- [Survivors of Hamas massacre sue UNRWA: Hundreds join the lawsuit filed in New York Federal Court alleging that the aid organization &#39;supported Hamas and funded murderers and was complicit in torture and rape&#39;](https://www.reddit.com/r/news/comments/1do44hr/survivors_of_hamas_massacre_sue_unrwa_hundreds/)
+- [Music record labels sue AI song-generators Suno and Udio for copyright infringement](https://www.reddit.com/r/news/comments/1do2620/music_record_labels_sue_ai_songgenerators_suno/)
+- [New Jersey man allegedly flew to Florida to attack fellow gamer: Sheriff](https://www.reddit.com/r/news/comments/1dnypa9/new_jersey_man_allegedly_flew_to_florida_to/)
+- [In San Francisco, Doctors Feud Over ‘Do No Harm’ When It Comes to War Protests](https://www.reddit.com/r/news/comments/1dnwio7/in_san_francisco_doctors_feud_over_do_no_harm/)
 <!-- REDDIT:END -->
 
 
