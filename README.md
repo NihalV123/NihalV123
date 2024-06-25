@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New Jersey man allegedly flew to Florida to attack fellow gamer: Sheriff](https://www.reddit.com/r/news/comments/1dnypa9/new_jersey_man_allegedly_flew_to_florida_to/)
+- [Man who traveled looking for girl who police say he cyberstalked, family speaks out to warn other parents](https://www.reddit.com/r/news/comments/1dnx7qv/man_who_traveled_looking_for_girl_who_police_say/)
+- [In San Francisco, Doctors Feud Over ‘Do No Harm’ When It Comes to War Protests](https://www.reddit.com/r/news/comments/1dnwio7/in_san_francisco_doctors_feud_over_do_no_harm/)
+- [North Korean balloons ‘presumed’ to be carrying waste seen in South Korea as tensions flare](https://www.reddit.com/r/news/comments/1dnvafe/north_korean_balloons_presumed_to_be_carrying/)
+- [Suspected Chinese rocket debris seen falling over village after launch, video shows](https://www.reddit.com/r/news/comments/1dnva3b/suspected_chinese_rocket_debris_seen_falling_over/)
 <!-- REDDIT:END -->
 
 
