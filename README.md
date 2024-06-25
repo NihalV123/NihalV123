@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wastewater Surveillance of Chlamydia in Las Vegas Finds Peaks After Holidays, Major Sporting Events](https://www.reddit.com/r/news/comments/1dnsn15/wastewater_surveillance_of_chlamydia_in_las_vegas/)
+- [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.reddit.com/r/news/comments/1dnri7u/julian_assange_has_reached_a_plea_deal_with_the/)
+- [Video shows former Charlotte officer stealing cash from person in custody, chief says](https://www.reddit.com/r/news/comments/1dnpup3/video_shows_former_charlotte_officer_stealing/)
+- [Man dies after being struck by roller coaster at Ohio amusement park](https://www.reddit.com/r/news/comments/1dnp7zz/man_dies_after_being_struck_by_roller_coaster_at/)
+- [Lawsuit challenges new Louisiana law requiring classrooms to display the Ten Commandments](https://www.reddit.com/r/news/comments/1dno0zn/lawsuit_challenges_new_louisiana_law_requiring/)
 <!-- REDDIT:END -->
 
 
