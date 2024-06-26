@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Supreme Court wipes out anti-corruption law that bars officials from taking gifts for past favors](https://www.reddit.com/r/news/comments/1dp2d5q/supreme_court_wipes_out_anticorruption_law_that/)
+- [Biden pardons those convicted of gay sex under old military laws](https://www.reddit.com/r/news/comments/1dp0f6c/biden_pardons_those_convicted_of_gay_sex_under/)
+- [The Supreme Court rules for Biden administration in a social media dispute with conservative states](https://www.reddit.com/r/news/comments/1dozrxi/the_supreme_court_rules_for_biden_administration/)
+- [21 million Miniverse toy sets recalled due to danger of skin burn, eye and respiratory irritation | CNN Business](https://www.reddit.com/r/news/comments/1doyl38/21_million_miniverse_toy_sets_recalled_due_to/)
+- [Flatulent cows and pigs will face a carbon tax in Denmark, a world first](https://www.reddit.com/r/news/comments/1doy0jl/flatulent_cows_and_pigs_will_face_a_carbon_tax_in/)
 <!-- REDDIT:END -->
 
 
