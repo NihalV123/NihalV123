@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Two US astronauts stranded in space on board Boeing’s Starliner capsule](https://www.reddit.com/r/news/comments/1dovykx/two_us_astronauts_stranded_in_space_on_board/)
+- [WikiLeaks founder Julian Assange returns to Australia after US legal battle ends](https://www.reddit.com/r/news/comments/1douxbb/wikileaks_founder_julian_assange_returns_to/)
+- [VW to invest up to $5bn in Tesla rival Rivian](https://www.reddit.com/r/news/comments/1dorxo1/vw_to_invest_up_to_5bn_in_tesla_rival_rivian/)
+- [NTSB chair says Norfolk Southern interfered with derailment probe after botching vent-and-burn call](https://www.reddit.com/r/news/comments/1doowre/ntsb_chair_says_norfolk_southern_interfered_with/)
+- [NCAA council votes to remove cannabis from banned drug list, removes limits on on-field coaches](https://www.reddit.com/r/news/comments/1donyw5/ncaa_council_votes_to_remove_cannabis_from_banned/)
 <!-- REDDIT:END -->
 
 
