@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NBC to use AI-generated version of Al Michaels&#39; voice during Summer Olympics](https://www.reddit.com/r/news/comments/1dpx9qs/nbc_to_use_aigenerated_version_of_al_michaels/)
+- [The Supreme Court strips the SEC of a critical enforcement tool in fraud cases](https://www.reddit.com/r/news/comments/1dpvg0x/the_supreme_court_strips_the_sec_of_a_critical/)
+- [Sinkhole swallows soccer field in Illinois in shocking video](https://www.reddit.com/r/news/comments/1dpuwmd/sinkhole_swallows_soccer_field_in_illinois_in/)
+- [International Roaming Outage Affecting Verizon, AT&amp;T, T-Mobile Customers](https://www.reddit.com/r/news/comments/1dpt9en/international_roaming_outage_affecting_verizon/)
+- [The Supreme Court allows emergency abortions in Idaho for now in a limited ruling](https://www.reddit.com/r/news/comments/1dpsydx/the_supreme_court_allows_emergency_abortions_in/)
 <!-- REDDIT:END -->
 
 
