@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [First panda pair to enter the United States in 21 years take off from China](https://www.reddit.com/r/news/comments/1dpizw1/first_panda_pair_to_enter_the_united_states_in_21/)
+- [Texas man executed for 2001 abduction and killing of 18-year-old woman](https://www.reddit.com/r/news/comments/1dpeogx/texas_man_executed_for_2001_abduction_and_killing/)
+- [Bolivia attempted coup: General taken into custody, military flees palace | AP News](https://www.reddit.com/r/news/comments/1dpempc/bolivia_attempted_coup_general_taken_into_custody/)
+- [Rare white bison calf reportedly born in Yellowstone National Park: &quot;A blessing and warning&quot;](https://www.reddit.com/r/news/comments/1dpek44/rare_white_bison_calf_reportedly_born_in/)
+- [Prosecutors drop nearly 80 arrests from a pro-Palestinian protest at the University of Texas](https://www.reddit.com/r/news/comments/1dpebvn/prosecutors_drop_nearly_80_arrests_from_a/)
 <!-- REDDIT:END -->
 
 
