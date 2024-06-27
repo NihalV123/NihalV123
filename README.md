@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ronaldo the 6ft &#39;male&#39; snake gives birth to 14 babies in rare &#39;virgin birth&#39;](https://www.reddit.com/r/news/comments/1dppoe8/ronaldo_the_6ft_male_snake_gives_birth_to_14/)
+- [Walgreens will close a ‘significant’ number of its 8,600 US locations | CNN Business](https://www.reddit.com/r/news/comments/1dppawb/walgreens_will_close_a_significant_number_of_its/)
+- [One murder charge, but at least 19 other clients of Arlington businesswoman dead: &quot;It&#39;s very disturbing&quot;](https://www.reddit.com/r/news/comments/1dpp5ct/one_murder_charge_but_at_least_19_other_clients/)
+- [Mall of America&#39;s security team will start using facial recognition software as part of safety plan](https://www.reddit.com/r/news/comments/1dpp4ad/mall_of_americas_security_team_will_start_using/)
+- [‘Nightmare’: Sunita Williams can get lost in space if thrusters of NASA’s Boeing Starliner fail to fire post-ISS undocking](https://www.reddit.com/r/news/comments/1dpot1c/nightmare_sunita_williams_can_get_lost_in_space/)
 <!-- REDDIT:END -->
 
 
