@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutors drop nearly 80 arrests from a pro-Palestinian protest at the University of Texas](https://www.reddit.com/r/news/comments/1dpebvn/prosecutors_drop_nearly_80_arrests_from_a/)
+- [Bolivia&#39;s General Zuniga arrested for coup attempt](https://www.reddit.com/r/news/comments/1dpdh22/bolivias_general_zuniga_arrested_for_coup_attempt/)
+- [Ex-president of Honduras sentenced to 45 years in US prison for drug trafficking | US crime | The Guardian](https://www.reddit.com/r/news/comments/1dpc3ds/expresident_of_honduras_sentenced_to_45_years_in/)
+- [UAE says it succeeded in mediating an exchange of 180 prisoners of war between Russia and Ukraine](https://www.reddit.com/r/news/comments/1dpa5am/uae_says_it_succeeded_in_mediating_an_exchange_of/)
+- [Bolivian president says &quot;irregular&quot; military deployment under way in capital, raising coup fears](https://www.reddit.com/r/news/comments/1dp82fu/bolivian_president_says_irregular_military/)
 <!-- REDDIT:END -->
 
 
