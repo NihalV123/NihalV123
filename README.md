@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [News nonprofit sues ChatGPT maker OpenAI and Microsoft for ‘exploitative’ copyright infringement](https://www.reddit.com/r/news/comments/1dq67ts/news_nonprofit_sues_chatgpt_maker_openai_and/)
+- [In Texas, Infant Mortality Rose After Abortion Ban](https://www.reddit.com/r/news/comments/1dq62al/in_texas_infant_mortality_rose_after_abortion_ban/)
+- [Former Uvalde school police chief, officer indicted in 1st-ever criminal charges over failed response to 2022 mass shooting](https://www.reddit.com/r/news/comments/1dq5wpe/former_uvalde_school_police_chief_officer/)
+- [Former Uvalde school police chief and officer indicted over Robb Elementary response, reports say](https://www.reddit.com/r/news/comments/1dq55um/former_uvalde_school_police_chief_and_officer/)
+- [Judge orders that Hawaii Island house built on wrong lot be demolished](https://www.reddit.com/r/news/comments/1dq54ps/judge_orders_that_hawaii_island_house_built_on/)
 <!-- REDDIT:END -->
 
 
