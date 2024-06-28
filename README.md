@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [North Korea executed man for listening to K-pop, report from defectors shows](https://www.reddit.com/r/news/comments/1dqdyk0/north_korea_executed_man_for_listening_to_kpop/)
+- [Uber and Lyft agree to pay drivers $32.50 per hour in Massachusetts settlement](https://www.reddit.com/r/news/comments/1dq9fur/uber_and_lyft_agree_to_pay_drivers_3250_per_hour/)
+- [Judge orders hearing to consider tossing evidence in Trump’s classified documents case](https://www.reddit.com/r/news/comments/1dq7alr/judge_orders_hearing_to_consider_tossing_evidence/)
+- [News nonprofit sues ChatGPT maker OpenAI and Microsoft for ‘exploitative’ copyright infringement](https://www.reddit.com/r/news/comments/1dq67ts/news_nonprofit_sues_chatgpt_maker_openai_and/)
+- [In Texas, Infant Mortality Rose After Abortion Ban](https://www.reddit.com/r/news/comments/1dq62al/in_texas_infant_mortality_rose_after_abortion_ban/)
 <!-- REDDIT:END -->
 
 
