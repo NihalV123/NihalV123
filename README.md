@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man who lost 3 relatives in North Las Vegas shooting spree says gunman&#39;s rampage was &#39;senseless&#39;](https://www.reddit.com/r/news/comments/1dqwkof/man_who_lost_3_relatives_in_north_las_vegas/)
+- [8-year-old girl dies after mom allegedly left her in car during high heat to go to work](https://www.reddit.com/r/news/comments/1dquit4/8yearold_girl_dies_after_mom_allegedly_left_her/)
+- [NASA orders weeks of testing for Starliner, keeping astronauts in space](https://www.reddit.com/r/news/comments/1dqtf7p/nasa_orders_weeks_of_testing_for_starliner/)
+- [Steve Bannon must report to prison by Monday after Supreme Court rejects last-minute appeal](https://www.reddit.com/r/news/comments/1dqrb99/steve_bannon_must_report_to_prison_by_monday/)
+- [US will remove Gaza aid pier due to weather and may not put it back, officials say](https://www.reddit.com/r/news/comments/1dqqxd3/us_will_remove_gaza_aid_pier_due_to_weather_and/)
 <!-- REDDIT:END -->
 
 
