@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Canada’s 2023 wildfires created four times more emissions than planes did last year – report](https://www.reddit.com/r/news/comments/1dr6jjo/canadas_2023_wildfires_created_four_times_more/)
+- [NYC libraries to get budget funding back — and reopen on Sundays](https://www.reddit.com/r/news/comments/1dr1zzl/nyc_libraries_to_get_budget_funding_back_and/)
+- [Missouri governor vetoes school safety initiative to fund gun-detection surveillance systems](https://www.reddit.com/r/news/comments/1dqzpja/missouri_governor_vetoes_school_safety_initiative/)
+- [Judge rejects Alec Baldwin’s motion to dismiss ‘Rust’ shooting case over damaged firearm](https://www.reddit.com/r/news/comments/1dqz865/judge_rejects_alec_baldwins_motion_to_dismiss/)
+- [Man who lost 3 relatives in North Las Vegas shooting spree says gunman&#39;s rampage was &#39;senseless&#39;](https://www.reddit.com/r/news/comments/1dqwkof/man_who_lost_3_relatives_in_north_las_vegas/)
 <!-- REDDIT:END -->
 
 
