@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beryl strengthens into a Category 1 hurricane in the Atlantic as it bears down on Caribbean](https://www.reddit.com/r/news/comments/1dro7ka/beryl_strengthens_into_a_category_1_hurricane_in/)
+- [Utica police involved in shooting that killed 13-year-old male.](https://www.reddit.com/r/news/comments/1drgd31/utica_police_involved_in_shooting_that_killed/)
+- [Supreme Court puts EPA&#39;s &quot;Good Neighbor plan&quot; on hold.](https://www.reddit.com/r/news/comments/1drdfrv/supreme_court_puts_epas_good_neighbor_plan_on_hold/)
+- [Canada’s 2023 wildfires created four times more emissions than planes did last year – report](https://www.reddit.com/r/news/comments/1dr6jjo/canadas_2023_wildfires_created_four_times_more/)
+- [NYC libraries to get budget funding back — and reopen on Sundays](https://www.reddit.com/r/news/comments/1dr1zzl/nyc_libraries_to_get_budget_funding_back_and/)
 <!-- REDDIT:END -->
 
 
