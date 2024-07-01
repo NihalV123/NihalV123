@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [The Taliban tell the West to look past harsh edicts on Afghan women and girls and build ties](https://www.reddit.com/r/news/comments/1dsplgw/the_taliban_tell_the_west_to_look_past_harsh/)
+- [Female suicide bombers kill at least 18 in coordinated attack in Nigeria, authorities say](https://www.reddit.com/r/news/comments/1dspipu/female_suicide_bombers_kill_at_least_18_in/)
+- [Japan launches observation satellite on a new flagship H3 rocket](https://www.reddit.com/r/news/comments/1dso8md/japan_launches_observation_satellite_on_a_new/)
+- [Justice Department presents plea deal to Boeing over alleged violations of deferred prosecution agreement](https://www.reddit.com/r/news/comments/1dsmxls/justice_department_presents_plea_deal_to_boeing/)
+- [14-year-old boy disappeared while swimming in the River Mersey.](https://www.reddit.com/r/news/comments/1dsm6rf/14yearold_boy_disappeared_while_swimming_in_the/)
 <!-- REDDIT:END -->
 
 
