@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Redbox owner Chicken Soup for the Soul files for Chapter 11 bankruptcy protection](https://www.reddit.com/r/news/comments/1dsznx3/redbox_owner_chicken_soup_for_the_soul_files_for/)
+- [Ukrain detains provocateurs preparing for disturbances after constitution day](https://www.reddit.com/r/news/comments/1dsy31g/ukrain_detains_provocateurs_preparing_for/)
+- [Rick Ross Appears to Get Attacked Following Vancouver Festival Performance, Videos Show](https://www.reddit.com/r/news/comments/1dsxm4m/rick_ross_appears_to_get_attacked_following/)
+- [Trump ally Steve Bannon surrenders to federal prison to serve 4-month sentence on contempt charges](https://www.reddit.com/r/news/comments/1dsxfu1/trump_ally_steve_bannon_surrenders_to_federal/)
+- [Chinese space rocket crashes in flames after accidental launch](https://www.reddit.com/r/news/comments/1dswzdb/chinese_space_rocket_crashes_in_flames_after/)
 <!-- REDDIT:END -->
 
 
