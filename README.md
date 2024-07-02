@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Virginia school board member sentenced for role in Jan. 6 Capitol riot](https://www.reddit.com/r/news/comments/1dts47f/virginia_school_board_member_sentenced_for_role/)
+- [The US will pay Moderna $176 million to develop an mRNA pandemic flu vaccine](https://www.reddit.com/r/news/comments/1dtrbnk/the_us_will_pay_moderna_176_million_to_develop_an/)
+- [American woman detained after stabbing death in Kaiserslautern](https://www.reddit.com/r/news/comments/1dtpr7p/american_woman_detained_after_stabbing_death_in/)
+- [Giuliani disbarred in NY as court finds he repeatedly lied about Trump&#39;s 2020 election loss](https://www.reddit.com/r/news/comments/1dtopxz/giuliani_disbarred_in_ny_as_court_finds_he/)
+- [Severe turbulence injures over 30, diverts Air Europa flight to Brazil](https://www.reddit.com/r/news/comments/1dtnax7/severe_turbulence_injures_over_30_diverts_air/)
 <!-- REDDIT:END -->
 
 
