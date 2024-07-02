@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Beryl is Barreling into Barbados](https://www.reddit.com/r/news/comments/1dtbu55/beryl_is_barreling_into_barbados/)
+- [Hurricane Beryl strengthens into a category 5 storm, earliest on record](https://www.reddit.com/r/news/comments/1dtbn8j/hurricane_beryl_strengthens_into_a_category_5/)
+- [Melbourne airport staff accused of smuggling drugs for organised crime cartels](https://www.reddit.com/r/news/comments/1dtavmt/melbourne_airport_staff_accused_of_smuggling/)
+- [Federal judge halts Mississippi law requiring age verification for websites](https://www.reddit.com/r/news/comments/1dtaev3/federal_judge_halts_mississippi_law_requiring_age/)
+- [Stingray that got pregnant despite no male companion has died, aquarium says](https://www.reddit.com/r/news/comments/1dta2hp/stingray_that_got_pregnant_despite_no_male/)
 <!-- REDDIT:END -->
 
 
