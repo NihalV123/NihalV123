@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [She exposed how the nation&#39;s poorest state spent federal welfare money. Now she might go to jail.](https://www.reddit.com/r/news/comments/1du6wl3/she_exposed_how_the_nations_poorest_state_spent/)
+- [Stampede at religious event in India kills at least 116 people, mostly women and children](https://www.reddit.com/r/news/comments/1du4k9i/stampede_at_religious_event_in_india_kills_at/)
+- [Seattle plastic surgery provider accused of posting fake positive reviews must pay $5M](https://www.reddit.com/r/news/comments/1du16n5/seattle_plastic_surgery_provider_accused_of/)
+- [FDA approves a second Alzheimer&#39;s drug that can modestly slow disease](https://www.reddit.com/r/news/comments/1dtwyhi/fda_approves_a_second_alzheimers_drug_that_can/)
+- [Grindr Fined $6 Million for Sharing Sensitive User Data](https://www.reddit.com/r/news/comments/1dtvtok/grindr_fined_6_million_for_sharing_sensitive_user/)
 <!-- REDDIT:END -->
 
 
