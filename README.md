@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan&#39;s top court rules forced sterilisation law unconstitutional](https://www.reddit.com/r/news/comments/1duc8a6/japans_top_court_rules_forced_sterilisation_law/)
+- [Greece becomes first EU country to introduce a six-day working week](https://www.reddit.com/r/news/comments/1dubm76/greece_becomes_first_eu_country_to_introduce_a/)
+- [AI means Google&#39;s greenhouse gas emissions up 48% in 5 years](https://www.reddit.com/r/news/comments/1dubee0/ai_means_googles_greenhouse_gas_emissions_up_48/)
+- [Germany: Lindner puts price of 49-euro ticket up for debate](https://www.reddit.com/r/news/comments/1dub25y/germany_lindner_puts_price_of_49euro_ticket_up/)
+- [Woman accused of trying to drown 3-year-old Muslim child is rearrested after bond increased to $1M|CNN](https://www.reddit.com/r/news/comments/1dua88z/woman_accused_of_trying_to_drown_3yearold_muslim/)
 <!-- REDDIT:END -->
 
 
