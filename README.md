@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Raids Find Luxury Handbags Being Made by Exploited Workers in Italy](https://www.reddit.com/r/news/comments/1duz2zi/raids_find_luxury_handbags_being_made_by/)
+- [&#39;Exceptionally dangerous situation:&#39; Historic California heat wave putting millions at risk](https://www.reddit.com/r/news/comments/1duydc0/exceptionally_dangerous_situation_historic/)
+- [Sean Combs &lpar;Puffy/Diddy&rpar; Is The Subject Of A Federal Criminal Investigation.](https://www.reddit.com/r/news/comments/1duwkoy/sean_combs_puffydiddy_is_the_subject_of_a_federal/)
+- [Former Boeing inspector alleges ‘scrap’ parts ended up on assembly lines](https://www.reddit.com/r/news/comments/1duwiea/former_boeing_inspector_alleges_scrap_parts_ended/)
+- [Fourth of July holiday will scorch with triple digit temps, over 100 million people under heat alerts](https://www.reddit.com/r/news/comments/1duw0g1/fourth_of_july_holiday_will_scorch_with_triple/)
 <!-- REDDIT:END -->
 
 
