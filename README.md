@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. officials plan to kill hundreds of thousands of barred owls to save another species from extinction | PBS News](https://www.reddit.com/r/news/comments/1dutc43/us_officials_plan_to_kill_hundreds_of_thousands/)
+- [Orange County man convicted of hate crime murder in killing of gay ex-classmate Blaze Bernstein](https://www.reddit.com/r/news/comments/1durvaw/orange_county_man_convicted_of_hate_crime_murder/)
+- [Virginia House, Senate leaders reach agreement on tuition program](https://www.reddit.com/r/news/comments/1duo6jz/virginia_house_senate_leaders_reach_agreement_on/)
+- [Fossils show huge salamanderlike predator with sharp fangs existed before the dinosaurs](https://www.reddit.com/r/news/comments/1dum99m/fossils_show_huge_salamanderlike_predator_with/)
+- [Tourist fatally struck by suspects&#39; vehicle during robbery at outdoor mall in California: Police](https://www.reddit.com/r/news/comments/1dum2wr/tourist_fatally_struck_by_suspects_vehicle_during/)
 <!-- REDDIT:END -->
 
 
