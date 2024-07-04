@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel has approved ‘largest West Bank land grab in 30 years’, watchdog says](https://www.reddit.com/r/news/comments/1dvces7/israel_has_approved_largest_west_bank_land_grab/)
+- [6 people injured after carnival ride tips over at Fourth of July celebration in Washington state](https://www.reddit.com/r/news/comments/1dvbgqn/6_people_injured_after_carnival_ride_tips_over_at/)
+- [Germany reports outbreak of H7N5 bird flu near Dutch border](https://www.reddit.com/r/news/comments/1dvaimb/germany_reports_outbreak_of_h7n5_bird_flu_near/)
+- [Lebanese authorities charge US Embassy shooter with affiliation to militant Islamic State group](https://www.reddit.com/r/news/comments/1dv2n52/lebanese_authorities_charge_us_embassy_shooter/)
+- [Man jailed for carrying replica sword from Legend of Zelda video game in public](https://www.reddit.com/r/news/comments/1dv2bel/man_jailed_for_carrying_replica_sword_from_legend/)
 <!-- REDDIT:END -->
 
 
