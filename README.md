@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Project 2025 Breakdown](https://www.reddit.com/r/news/comments/1dvwn3m/project_2025_breakdown/)
+- [Rishi Sunak resigns as Conservative Party leader after Labour landslide](https://www.reddit.com/r/news/comments/1dvu6l6/rishi_sunak_resigns_as_conservative_party_leader/)
+- [&#39;The Labour Party has won this general election&#39;: Sunak concedes defeat](https://www.reddit.com/r/news/comments/1dvpdhw/the_labour_party_has_won_this_general_election/)
+- [Shark believed to have injured 4 people in waters off South Padre Island on Fourth of July.](https://www.reddit.com/r/news/comments/1dvosub/shark_believed_to_have_injured_4_people_in_waters/)
+- [He got $30K to leave the military when it needed to downsize. Now the government wants that money back.](https://www.reddit.com/r/news/comments/1dvnhz2/he_got_30k_to_leave_the_military_when_it_needed/)
 <!-- REDDIT:END -->
 
 
