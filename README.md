@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [John Cena announces retirement from in-ring competition in 2025, WWE says](https://www.reddit.com/r/news/comments/1dx4gbm/john_cena_announces_retirement_from_inring/)
+- [Video shows dog starting house fire by turning on stove in middle of night](https://www.reddit.com/r/news/comments/1dx3x9j/video_shows_dog_starting_house_fire_by_turning_on/)
+- [Video: Dozens ransack gas station in flash mob robbery](https://www.reddit.com/r/news/comments/1dx3pi6/video_dozens_ransack_gas_station_in_flash_mob/)
+- [More records expected to shatter as long-running blanket of heat threatens 130 million in U.S.](https://www.reddit.com/r/news/comments/1dx1rw7/more_records_expected_to_shatter_as_longrunning/)
+- [2 women charged in &#39;romance schemes&#39; to defraud elderly men out of $7 million, feds say](https://www.reddit.com/r/news/comments/1dx1ife/2_women_charged_in_romance_schemes_to_defraud/)
 <!-- REDDIT:END -->
 
 
