@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Paramount to merge with Skydance to create new $28B media, tech conglomerate](https://www.reddit.com/r/news/comments/1dye0un/paramount_to_merge_with_skydance_to_create_new/)
+- [Columbia removes three deans from power for ‘very troubling’ antisemitic text messages | CNN Business](https://www.reddit.com/r/news/comments/1dydi2a/columbia_removes_three_deans_from_power_for_very/)
+- [FAA orders inspections of 2,600 Boeing 737 airplanes over oxygen mask issue](https://www.reddit.com/r/news/comments/1dyd6s0/faa_orders_inspections_of_2600_boeing_737/)
+- [Crew rescues woman living with MS during fire](https://www.reddit.com/r/news/comments/1dya0x3/crew_rescues_woman_living_with_ms_during_fire/)
+- [Judge says Nashville school shooter’s writings can’t be released as victims’ families have copyright](https://www.reddit.com/r/news/comments/1dy9ynq/judge_says_nashville_school_shooters_writings/)
 <!-- REDDIT:END -->
 
 
