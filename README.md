@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [6-year-old shot on July Fourth in Md. has died, police say](https://www.reddit.com/r/news/comments/1dxu48t/6yearold_shot_on_july_fourth_in_md_has_died/)
+- [Arsenic, lead and other toxic metals detected in tampons, study finds](https://www.reddit.com/r/news/comments/1dxsx0f/arsenic_lead_and_other_toxic_metals_detected_in/)
+- [French PM Attal says will hand in resignation Monday, hails new parliamentary era](https://www.reddit.com/r/news/comments/1dxoyt7/french_pm_attal_says_will_hand_in_resignation/)
+- [Forecasters expect Beryl to make landfall near Matagorda Bay](https://www.reddit.com/r/news/comments/1dxnz2u/forecasters_expect_beryl_to_make_landfall_near/)
+- [Leftist alliance leads French election, no absolute majority, initial estimates show](https://www.reddit.com/r/news/comments/1dxmxiu/leftist_alliance_leads_french_election_no/)
 <!-- REDDIT:END -->
 
 
