@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [United Airlines plane loses wheel on takeoff in Los Angeles, marking latest incident for the airline.](https://www.reddit.com/r/news/comments/1dz83rs/united_airlines_plane_loses_wheel_on_takeoff_in/)
+- [US blocks British court from British territory](https://www.reddit.com/r/news/comments/1dz7z8q/us_blocks_british_court_from_british_territory/)
+- [Former United States Senator Jim Inhofe dead at 89](https://www.reddit.com/r/news/comments/1dz6qsb/former_united_states_senator_jim_inhofe_dead_at_89/)
+- [Woman trying to get her dad in house fire gets punched by cop in Huntington Park](https://www.reddit.com/r/news/comments/1dz6gfs/woman_trying_to_get_her_dad_in_house_fire_gets/)
+- [Sheng Thao’s Romantic Partner Now Appears Ensnared In FBI Investigation, Too](https://www.reddit.com/r/news/comments/1dz4c6a/sheng_thaos_romantic_partner_now_appears_ensnared/)
 <!-- REDDIT:END -->
 
 
