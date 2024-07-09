@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Target will stop accepting personal checks](https://www.reddit.com/r/news/comments/1dynl6t/target_will_stop_accepting_personal_checks/)
+- [Death of Black man pinned to ground by Milwaukee hotel security draws George Floyd comparisons](https://www.reddit.com/r/news/comments/1dyn50u/death_of_black_man_pinned_to_ground_by_milwaukee/)
+- [TSA sets new single-day record with more than 3 million travelers at airport security](https://www.reddit.com/r/news/comments/1dyl9en/tsa_sets_new_singleday_record_with_more_than_3/)
+- [American man detained in France after &quot;So I raped you&quot; Facebook message can be extradited, court rules](https://www.reddit.com/r/news/comments/1dyj3qm/american_man_detained_in_france_after_so_i_raped/)
+- [New parents in Baltimore could get a $1,000 &#39;baby bonus&#39; under a proposal to fight child poverty](https://www.reddit.com/r/news/comments/1dyi916/new_parents_in_baltimore_could_get_a_1000_baby/)
 <!-- REDDIT:END -->
 
 
