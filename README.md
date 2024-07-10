@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Milk, eggs and now bullets for sale in handful of US grocery stores with ammo vending machines](https://www.reddit.com/r/news/comments/1e014q6/milk_eggs_and_now_bullets_for_sale_in_handful_of/)
+- [DC police chief asks small business owners to help stop crime WTOP News](https://www.reddit.com/r/news/comments/1dzzqgf/dc_police_chief_asks_small_business_owners_to/)
+- [Known as &#39;Tesla of Euthanasia,&#39; &#39;Suicide Capsule&#39; Banned by Swiss Authorities Weeks Before First Planned Use](https://www.reddit.com/r/news/comments/1dzzn8f/known_as_tesla_of_euthanasia_suicide_capsule/)
+- [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.reddit.com/r/news/comments/1dzyp7g/spain_sentences_15_schoolchildren_over/)
+- [Irish woman has charges withdrawn by Dubai police](https://www.reddit.com/r/news/comments/1dzwulz/irish_woman_has_charges_withdrawn_by_dubai_police/)
 <!-- REDDIT:END -->
 
 
