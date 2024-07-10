@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NATO members pledge dozens of air defence systems to Ukraine](https://www.reddit.com/r/news/comments/1dzi20k/nato_members_pledge_dozens_of_air_defence_systems/)
+- [Tourists still flock to Death Valley amid searing US heat wave blamed for several deaths](https://www.reddit.com/r/news/comments/1dzg3qf/tourists_still_flock_to_death_valley_amid_searing/)
+- [U.S. Marshal shoots suspect trying to carjack him near Sonia Sotomayor&#39;s home](https://www.reddit.com/r/news/comments/1dzg2y9/us_marshal_shoots_suspect_trying_to_carjack_him/)
+- [River Forest Public Library facing threats, hires private security](https://www.reddit.com/r/news/comments/1dzfrs5/river_forest_public_library_facing_threats_hires/)
+- [Dyson to axe around 1,000 jobs in Britain](https://www.reddit.com/r/news/comments/1dzfl66/dyson_to_axe_around_1000_jobs_in_britain/)
 <!-- REDDIT:END -->
 
 
