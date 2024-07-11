@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [2-year-old Arizona girl dies after dad leaves her in car during triple-digit heat: Police](https://www.reddit.com/r/news/comments/1e08wfl/2yearold_arizona_girl_dies_after_dad_leaves_her/)
+- [A Black man got a job interview after he changed the name on his resume. Now, he’s suing for discrimination](https://www.reddit.com/r/news/comments/1e07q2q/a_black_man_got_a_job_interview_after_he_changed/)
+- [World&#39;s biggest wetland is on fire.](https://www.reddit.com/r/news/comments/1e079le/worlds_biggest_wetland_is_on_fire/)
+- [Triple killing suspect captured near cemetery](https://www.reddit.com/r/news/comments/1e0652u/triple_killing_suspect_captured_near_cemetery/)
+- [Former Indiana lawmaker accused of pushing casino bill in exchange for a job gets a year in prison](https://www.reddit.com/r/news/comments/1e05x3e/former_indiana_lawmaker_accused_of_pushing_casino/)
 <!-- REDDIT:END -->
 
 
