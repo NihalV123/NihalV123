@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Shooter at Trump rally is &quot;neutralized,&quot; sources say](https://www.reddit.com/r/news/comments/1e2o8ro/shooter_at_trump_rally_is_neutralized_sources_say/)
+- [Donald Trump whisked off stage in Pennsylvania after loud noises rang through the crowd](https://www.reddit.com/r/news/comments/1e2mn9z/donald_trump_whisked_off_stage_in_pennsylvania/)
+- [Fitness guru Richard Simmons dead at 76](https://www.reddit.com/r/news/comments/1e2kkr5/fitness_guru_richard_simmons_dead_at_76/)
+- [3-year-old missing child found dead, police say](https://www.reddit.com/r/news/comments/1e2j8jv/3yearold_missing_child_found_dead_police_say/)
+- [At least 90 Palestinians killed, Gaza officials say, as Israel targets Hamas military chief](https://www.reddit.com/r/news/comments/1e2hz59/at_least_90_palestinians_killed_gaza_officials/)
 <!-- REDDIT:END -->
 
 
