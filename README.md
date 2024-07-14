@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texans, Ravens NFL player Jacoby Jones dead at 40](https://www.reddit.com/r/news/comments/1e38idx/texans_ravens_nfl_player_jacoby_jones_dead_at_40/)
+- [Carlos Alcaraz sweeps Novak Djokovic, wins 2nd Wimbledon title - ESPN](https://www.reddit.com/r/news/comments/1e35gfq/carlos_alcaraz_sweeps_novak_djokovic_wins_2nd/)
+- [The Secret Service is investigating how man the who shot Trump got as close as he did](https://www.reddit.com/r/news/comments/1e356hn/the_secret_service_is_investigating_how_man_the/)
+- [Shannen Doherty, Heathers and Beverly Hills 90210 star, dies at 53](https://www.reddit.com/r/news/comments/1e327mj/shannen_doherty_heathers_and_beverly_hills_90210/)
+- [Credit at last for female screenwriter airbrushed from Hollywood history | Movies](https://www.reddit.com/r/news/comments/1e31bsu/credit_at_last_for_female_screenwriter_airbrushed/)
 <!-- REDDIT:END -->
 
 
