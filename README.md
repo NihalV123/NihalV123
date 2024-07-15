@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [St. Louis area to host large-scale disaster simulation for first responders and military](https://www.reddit.com/r/news/comments/1e3i2m9/st_louis_area_to_host_largescale_disaster/)
+- [California wildfires have burned five times the average area this year, officials say](https://www.reddit.com/r/news/comments/1e3gl2n/california_wildfires_have_burned_five_times_the/)
+- [Local police officer encountered shooter before he fired towards Trump, AP sources say](https://www.reddit.com/r/news/comments/1e3c07y/local_police_officer_encountered_shooter_before/)
+- [Texans, Ravens NFL player Jacoby Jones dead at 40](https://www.reddit.com/r/news/comments/1e38idx/texans_ravens_nfl_player_jacoby_jones_dead_at_40/)
+- [Carlos Alcaraz sweeps Novak Djokovic, wins 2nd Wimbledon title - ESPN](https://www.reddit.com/r/news/comments/1e35gfq/carlos_alcaraz_sweeps_novak_djokovic_wins_2nd/)
 <!-- REDDIT:END -->
 
 
