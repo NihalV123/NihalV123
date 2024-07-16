@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [How a 4,000-Word Coast Guard Email Erupted Into a Reckoning of Military Sexual Assault](https://www.reddit.com/r/news/comments/1e4bk8s/how_a_4000word_coast_guard_email_erupted_into_a/)
+- [Mahogany Jackson texted she was kidnapped. Days later 8 suspects were charged in her murder](https://www.reddit.com/r/news/comments/1e46mj1/mahogany_jackson_texted_she_was_kidnapped_days/)
+- [Judge removed from long-running gang and racketeering case against rapper Young Thug and others](https://www.reddit.com/r/news/comments/1e46i7r/judge_removed_from_longrunning_gang_and/)
+- [Father and daughter hikers found dead in Utah after running out of water in 100 degree temps](https://www.reddit.com/r/news/comments/1e43ocv/father_and_daughter_hikers_found_dead_in_utah/)
+- [At least 100 wounded as Bangladesh students protest government job quotas](https://www.reddit.com/r/news/comments/1e42uux/at_least_100_wounded_as_bangladesh_students/)
 <!-- REDDIT:END -->
 
 
