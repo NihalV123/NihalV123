@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Singer Ingrid Andress says she was drunk during botched national anthem at Home Run Derby](https://www.reddit.com/r/news/comments/1e4vnqv/singer_ingrid_andress_says_she_was_drunk_during/)
+- [Secret Service ramped up security after receiving intel of Iranian plot to assassinate Trump; no known connection to shooting](https://www.reddit.com/r/news/comments/1e4vldu/secret_service_ramped_up_security_after_receiving/)
+- [Sen. Bob Menendez convicted in trial that featured tales of bribes paid in cash, gold and a car](https://www.reddit.com/r/news/comments/1e4tt37/sen_bob_menendez_convicted_in_trial_that_featured/)
+- [At least five killed in Bangladesh student anti-quota protests](https://www.reddit.com/r/news/comments/1e4sirj/at_least_five_killed_in_bangladesh_student/)
+- [Border arrests plunge 29% in June to the lowest of Biden’s presidency as asylum halt takes hold](https://www.reddit.com/r/news/comments/1e4pm81/border_arrests_plunge_29_in_june_to_the_lowest_of/)
 <!-- REDDIT:END -->
 
 
