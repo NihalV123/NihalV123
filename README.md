@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tuskegee syphilis study whistleblower Peter Buxtun has died at age 86](https://www.reddit.com/r/news/comments/1e4dccf/tuskegee_syphilis_study_whistleblower_peter/)
+- [Okla County jail refuses state Health Dept inspection twice](https://www.reddit.com/r/news/comments/1e4czm1/okla_county_jail_refuses_state_health_dept/)
+- [California is 1st state to ban school rules requiring parents get notified of child’s pronoun change](https://www.reddit.com/r/news/comments/1e4cvxl/california_is_1st_state_to_ban_school_rules/)
+- [Mahogany Jackson texted she was kidnapped. Days later 8 suspects were charged in her murder](https://www.reddit.com/r/news/comments/1e46mj1/mahogany_jackson_texted_she_was_kidnapped_days/)
+- [Judge removed from long-running gang and racketeering case against rapper Young Thug and others](https://www.reddit.com/r/news/comments/1e46i7r/judge_removed_from_longrunning_gang_and/)
 <!-- REDDIT:END -->
 
 
