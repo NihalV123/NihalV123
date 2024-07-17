@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Whoopi Goldberg confesses she spread her mom’s ashes at Disneyland](https://www.reddit.com/r/news/comments/1e54980/whoopi_goldberg_confesses_she_spread_her_moms/)
+- [Former White House official accused of acting as South Korea agent](https://www.reddit.com/r/news/comments/1e540dn/former_white_house_official_accused_of_acting_as/)
+- [Hacker Alleges Breach at Disney, Leaks 1.1TB of Internal Slack Data](https://www.reddit.com/r/news/comments/1e533u2/hacker_alleges_breach_at_disney_leaks_11tb_of/)
+- [Navy Reserve officer convicted in Afghan visa bribery scheme](https://www.reddit.com/r/news/comments/1e51s0l/navy_reserve_officer_convicted_in_afghan_visa/)
+- [Six people are found dead in a hotel in downtown Bangkok, with poisoning a possibility](https://www.reddit.com/r/news/comments/1e5130h/six_people_are_found_dead_in_a_hotel_in_downtown/)
 <!-- REDDIT:END -->
 
 
