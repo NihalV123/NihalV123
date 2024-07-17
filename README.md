@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Navy exonerates 256 Black sailors unjustly punished in 1944 after a deadly California port explosion](https://www.reddit.com/r/news/comments/1e5od47/navy_exonerates_256_black_sailors_unjustly/)
+- [8 Dead, Others Trapped After Devastating Fire in Zigong Shopping Mall](https://www.reddit.com/r/news/comments/1e5nucw/8_dead_others_trapped_after_devastating_fire_in/)
+- [Naomi Pomeroy, star of &quot;Top Chef Masters&quot; and award-winning chef, dies in river tubing accident in Oregon](https://www.reddit.com/r/news/comments/1e5mmqx/naomi_pomeroy_star_of_top_chef_masters_and/)
+- [Archeologists find musket balls from one of the American Revolutionary War&#39;s first battles](https://www.reddit.com/r/news/comments/1e5mhte/archeologists_find_musket_balls_from_one_of_the/)
+- [FBI examines Trump assassination attempt suspect&#39;s phone, transmitter found on him](https://www.reddit.com/r/news/comments/1e5ln0f/fbi_examines_trump_assassination_attempt_suspects/)
 <!-- REDDIT:END -->
 
 
