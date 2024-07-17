@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Traces of cyanide in cups and teapot shared by six found dead in Bangkok hotel room, Thailand police say](https://www.reddit.com/r/news/comments/1e5d7d5/traces_of_cyanide_in_cups_and_teapot_shared_by/)
+- [Alleged &quot;Maniac Murder Cult&quot; leader accused of planning to poison children in NYC](https://www.reddit.com/r/news/comments/1e599ii/alleged_maniac_murder_cult_leader_accused_of/)
+- [Changes coming to ACT exam, including the science portion being made optional](https://www.reddit.com/r/news/comments/1e58431/changes_coming_to_act_exam_including_the_science/)
+- [Supreme Court delays execution of Ruben Gutierrez for 1998 Brownsville murder](https://www.reddit.com/r/news/comments/1e55z3y/supreme_court_delays_execution_of_ruben_gutierrez/)
+- [Former White House official accused of acting as South Korea agent](https://www.reddit.com/r/news/comments/1e540dn/former_white_house_official_accused_of_acting_as/)
 <!-- REDDIT:END -->
 
 
