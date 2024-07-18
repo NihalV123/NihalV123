@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [An uncontacted indigenous people in Peru has been spotted emerging from the rainforest in search for food](https://www.reddit.com/r/news/comments/1e67t5o/an_uncontacted_indigenous_people_in_peru_has_been/)
+- [Dinosaur skeleton fetches record $44.6m at New York auction](https://www.reddit.com/r/news/comments/1e66503/dinosaur_skeleton_fetches_record_446m_at_new_york/)
+- [Darden Restaurants to acquire Chuy&#39;s for approximately $605 million](https://www.reddit.com/r/news/comments/1e5xd6l/darden_restaurants_to_acquire_chuys_for/)
+- [Murder charges filed against sheriff&#39;s deputy](https://www.reddit.com/r/news/comments/1e5xc0y/murder_charges_filed_against_sheriffs_deputy/)
+- [U.S President Joe Biden tests positive for COVID-19, White House says](https://www.reddit.com/r/news/comments/1e5vuua/us_president_joe_biden_tests_positive_for_covid19/)
 <!-- REDDIT:END -->
 
 
