@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Online account thought to belong to Trump shooter was fake, source says](https://www.reddit.com/r/news/comments/1e6ezbn/online_account_thought_to_belong_to_trump_shooter/)
+- [Sealed bottles of tattoo and permanent makeup ink test positive for millions of bacteria, FDA says](https://www.reddit.com/r/news/comments/1e6ehuf/sealed_bottles_of_tattoo_and_permanent_makeup_ink/)
+- [8-week-old girl dies in hot car in New Jersey, dad arrested](https://www.reddit.com/r/news/comments/1e6dpsw/8weekold_girl_dies_in_hot_car_in_new_jersey_dad/)
+- [John Deere backs away from diversity and inclusion efforts after a conservative backlash|CNN](https://www.reddit.com/r/news/comments/1e6czlr/john_deere_backs_away_from_diversity_and/)
+- [Cavan Sullivan, 14, becomes youngest MLS player](https://www.reddit.com/r/news/comments/1e6cugp/cavan_sullivan_14_becomes_youngest_mls_player/)
 <!-- REDDIT:END -->
 
 
