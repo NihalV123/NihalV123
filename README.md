@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Banks, airlines and media outlets hit by global outage linked to Windows PCs](https://www.reddit.com/r/news/comments/1e6y04y/banks_airlines_and_media_outlets_hit_by_global/)
+- [United, Delta and American Airlines issue global ground stop on all flights](https://www.reddit.com/r/news/comments/1e6xl1g/united_delta_and_american_airlines_issue_global/)
+- [Illinois deputy charged in fatal shooting of woman who reported intruder](https://www.reddit.com/r/news/comments/1e6t5ee/illinois_deputy_charged_in_fatal_shooting_of/)
+- [Former U.S. paratrooper and rock musician gets 13 years in Russian prison on drug charges](https://www.reddit.com/r/news/comments/1e6rv4g/former_us_paratrooper_and_rock_musician_gets_13/)
+- [Shelter provider accused of &quot;pervasive&quot; sexual abuse of migrant children in U.S. custody](https://www.reddit.com/r/news/comments/1e6ocm2/shelter_provider_accused_of_pervasive_sexual/)
 <!-- REDDIT:END -->
 
 
