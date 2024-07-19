@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Surgeries and doctor&#39;s appointments canceled amid global IT outage](https://www.reddit.com/r/news/comments/1e78zd1/surgeries_and_doctors_appointments_canceled_amid/)
+- [Microsoft&#39;s ‘Blue Screen of Death’ makes a return to computers around the world](https://www.reddit.com/r/news/comments/1e78ljo/microsofts_blue_screen_of_death_makes_a_return_to/)
+- [A ‘new era’ in malaria control has begun with a vaccination campaign for children in Ivory Coast](https://www.reddit.com/r/news/comments/1e75acq/a_new_era_in_malaria_control_has_begun_with_a/)
+- [At least 25 dead in Bangladesh student protests | NHK WORLD-JAPAN News](https://www.reddit.com/r/news/comments/1e74myi/at_least_25_dead_in_bangladesh_student_protests/)
+- [Israel’s settlement policies break international law, court finds](https://www.reddit.com/r/news/comments/1e74ap4/israels_settlement_policies_break_international/)
 <!-- REDDIT:END -->
 
 
