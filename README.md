@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Boeing Seattle workers pass strike sanction vote, union says](https://www.reddit.com/r/news/comments/1e7q4dr/boeing_seattle_workers_pass_strike_sanction_vote/)
+- [Bangladesh unrest: Government imposes curfew as protests continue - BBC News](https://www.reddit.com/r/news/comments/1e7o8xh/bangladesh_unrest_government_imposes_curfew_as/)
+- [Sheila Jackson Lee, Houston icon and champion racial equity, dead at 74](https://www.reddit.com/r/news/comments/1e7mj5l/sheila_jackson_lee_houston_icon_and_champion/)
+- [106 rare crocodile eggs are found in Cambodia, the biggest such discovery in 20 years](https://www.reddit.com/r/news/comments/1e7l1lf/106_rare_crocodile_eggs_are_found_in_cambodia_the/)
+- [LAPD video shows machine gun attack on 2 LAPD officers in Willowbrook](https://www.reddit.com/r/news/comments/1e7kfip/lapd_video_shows_machine_gun_attack_on_2_lapd/)
 <!-- REDDIT:END -->
 
 
