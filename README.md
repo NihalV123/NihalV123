@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Sheila Jackson Lee, Houston icon and champion racial equity, dead at 74](https://www.reddit.com/r/news/comments/1e7mj5l/sheila_jackson_lee_houston_icon_and_champion/)
+- [106 rare crocodile eggs are found in Cambodia, the biggest such discovery in 20 years](https://www.reddit.com/r/news/comments/1e7l1lf/106_rare_crocodile_eggs_are_found_in_cambodia_the/)
+- [LAPD video shows machine gun attack on 2 LAPD officers in Willowbrook](https://www.reddit.com/r/news/comments/1e7kfip/lapd_video_shows_machine_gun_attack_on_2_lapd/)
+- [Florida man charged over alleged threats to kill Donald Trump and JD Vance](https://www.reddit.com/r/news/comments/1e7ji7a/florida_man_charged_over_alleged_threats_to_kill/)
+- [Missouri woman who served 43 years in prison is free after her 1980 murder conviction was overturned](https://www.reddit.com/r/news/comments/1e7ib0y/missouri_woman_who_served_43_years_in_prison_is/)
 <!-- REDDIT:END -->
 
 
