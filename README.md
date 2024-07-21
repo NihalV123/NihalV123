@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack](https://www.reddit.com/r/news/comments/1e89nm4/at_least_3_killed_and_87_injured_houthis_say_as/)
+- [Food truck explosion in Whittier injures five people; authorities are investigating](https://www.reddit.com/r/news/comments/1e87deo/food_truck_explosion_in_whittier_injures_five/)
+- [89-year-old stand-up comedian sucker-punched in West Village: &quot;I thought I&#39;d lost my eye&quot;](https://www.reddit.com/r/news/comments/1e86t9n/89yearold_standup_comedian_suckerpunched_in_west/)
+- [Charles and Camilla &#39;rushed to safety by security&#39; after suspect &#39;spotted on roof&#39; just days after Trump rally shooting](https://www.reddit.com/r/news/comments/1e844zw/charles_and_camilla_rushed_to_safety_by_security/)
+- [Israel strikes &#39;Houthi terrorist regime&#39;: IDF jets target Hodeidah energy infrastructure](https://www.reddit.com/r/news/comments/1e80yuu/israel_strikes_houthi_terrorist_regime_idf_jets/)
 <!-- REDDIT:END -->
 
 
