@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Biden withdraws from US Presidential Race](https://www.reddit.com/r/news/comments/1e8s7cm/biden_withdraws_from_us_presidential_race/)
+- [Liverpool youth player reports racist abuse in consecutive matches](https://www.reddit.com/r/news/comments/1e8osgp/liverpool_youth_player_reports_racist_abuse_in/)
+- [A 12-year-old girl is accused of smothering her 8-year-old cousin over an iPhone](https://www.reddit.com/r/news/comments/1e8motd/a_12yearold_girl_is_accused_of_smothering_her/)
+- [1 dead after plane used for skydiving crashes in New York](https://www.reddit.com/r/news/comments/1e8bclj/1_dead_after_plane_used_for_skydiving_crashes_in/)
+- [Food truck explosion in Whittier injures five people; authorities are investigating](https://www.reddit.com/r/news/comments/1e87deo/food_truck_explosion_in_whittier_injures_five/)
 <!-- REDDIT:END -->
 
 
