@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;You&#39;re full of shit today,&#39; congresswoman tells U.S. Secret Service director at hearing into security lapses](https://www.reddit.com/r/news/comments/1e9l8zk/youre_full_of_shit_today_congresswoman_tells_us/)
+- [&#39;Her dog saved her life&#39;: Utah woman located in mountains days after going missing](https://www.reddit.com/r/news/comments/1e9jglu/her_dog_saved_her_life_utah_woman_located_in/)
+- [Interrogation and Torture: The Story of Kurdish Political Prisoner Pakhshan Azizi](https://www.reddit.com/r/news/comments/1e9ivtv/interrogation_and_torture_the_story_of_kurdish/)
+- [FAA investigating Southwest flight that came 175 feet from water](https://www.reddit.com/r/news/comments/1e9hqqw/faa_investigating_southwest_flight_that_came_175/)
+- [Delta cancels hundreds more flights as recovery from global CrowdStrike-Microsoft outage lags](https://www.reddit.com/r/news/comments/1e9gpoh/delta_cancels_hundreds_more_flights_as_recovery/)
 <!-- REDDIT:END -->
 
 
