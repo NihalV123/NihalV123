@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel declares two more Gaza hostages dead](https://www.reddit.com/r/news/comments/1e9tx1j/israel_declares_two_more_gaza_hostages_dead/)
+- [Israel sends tanks back into Khan Younis area, 70 killed after new evacuation order](https://www.reddit.com/r/news/comments/1e9twor/israel_sends_tanks_back_into_khan_younis_area_70/)
+- [Man dies after being struck by lightning on Germany&#39;s highest peak](https://www.reddit.com/r/news/comments/1e9sgpl/man_dies_after_being_struck_by_lightning_on/)
+- [EPA awards $4.3 billion to fund projects in 30 states to reduce climate pollution](https://www.reddit.com/r/news/comments/1e9s4j9/epa_awards_43_billion_to_fund_projects_in_30/)
+- [Australia would not pick convicted rapist Steven van de Velde, says team chief](https://www.reddit.com/r/news/comments/1e9p62c/australia_would_not_pick_convicted_rapist_steven/)
 <!-- REDDIT:END -->
 
 
