@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Missouri man has conviction overturned after serving more than 30 years in prison for 1990 murder he didn&#39;t commit](https://www.reddit.com/r/news/comments/1eadoq4/missouri_man_has_conviction_overturned_after/)
+- [‘Cruel’: Landlord charged, accused of killing tenant’s cat](https://www.reddit.com/r/news/comments/1eacg55/cruel_landlord_charged_accused_of_killing_tenants/)
+- [West Texas rattles with one of the state&#39;s strongest earthquakes](https://www.reddit.com/r/news/comments/1eabv0a/west_texas_rattles_with_one_of_the_states/)
+- [Secret Service Director Kimberly Cheatle resigns over Trump shooting outrage](https://www.reddit.com/r/news/comments/1ea9bqp/secret_service_director_kimberly_cheatle_resigns/)
+- [Hunter Biden drops &#39;revenge porn&#39; lawsuit against Fox News, with plans to refile](https://www.reddit.com/r/news/comments/1ea89lc/hunter_biden_drops_revenge_porn_lawsuit_against/)
 <!-- REDDIT:END -->
 
 
