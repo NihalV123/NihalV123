@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Monday breaks the record for the hottest ever day on Earth.](https://www.reddit.com/r/news/comments/1eazddh/monday_breaks_the_record_for_the_hottest_ever_day/)
+- [Nashville grapples with lingering neo-Nazi presence in tourist-friendly city](https://www.reddit.com/r/news/comments/1eaz7o9/nashville_grapples_with_lingering_neonazi/)
+- [Sonya Massey: Bodycam footage shows fatal police shooting](https://www.reddit.com/r/news/comments/1eayvc8/sonya_massey_bodycam_footage_shows_fatal_police/)
+- [Salt Lake City confirmed as host of the 2034 Winter Olympic Games - IOC](https://www.reddit.com/r/news/comments/1eayfp3/salt_lake_city_confirmed_as_host_of_the_2034/)
+- [Ireland’s datacentres overtake electricity use of all urban homes combined](https://www.reddit.com/r/news/comments/1eayaju/irelands_datacentres_overtake_electricity_use_of/)
 <!-- REDDIT:END -->
 
 
