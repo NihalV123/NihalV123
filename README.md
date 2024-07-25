@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [CrowdStrike backlash over $10 apology voucher for IT chaos](https://www.reddit.com/r/news/comments/1ebzx3j/crowdstrike_backlash_over_10_apology_voucher_for/)
+- [Protesters hoist Palestinian flags in Washington during Netanyahu speech](https://www.reddit.com/r/news/comments/1ebykd3/protesters_hoist_palestinian_flags_in_washington/)
+- [Missouri Supreme Court blocks release of man whose conviction was overturned after more than 30 years in prison](https://www.reddit.com/r/news/comments/1eby36s/missouri_supreme_court_blocks_release_of_man/)
+- [Newsom issues executive order for removal of homeless encampments in California](https://www.reddit.com/r/news/comments/1ebxq25/newsom_issues_executive_order_for_removal_of/)
+- [Uvalde school police officer pleads not guilty to charges stemming from actions during 2022 shooting](https://www.reddit.com/r/news/comments/1ebxirs/uvalde_school_police_officer_pleads_not_guilty_to/)
 <!-- REDDIT:END -->
 
 
