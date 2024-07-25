@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [More than 100,000 Americans with diabetes have limbs amputated each year. This is a crisis](https://www.reddit.com/r/news/comments/1ebth2w/more_than_100000_americans_with_diabetes_have/)
+- [World breaks hottest day record twice in a week](https://www.reddit.com/r/news/comments/1ebs1ai/world_breaks_hottest_day_record_twice_in_a_week/)
+- [Southwest to get rid of open seating, offer extra legroom in biggest shift in its history](https://www.reddit.com/r/news/comments/1ebrurr/southwest_to_get_rid_of_open_seating_offer_extra/)
+- [A 134-year-old home goods retailer filed for bankruptcy and is closing more than 70 stores](https://www.reddit.com/r/news/comments/1ebnyou/a_134yearold_home_goods_retailer_filed_for/)
+- [Texas woman&#39;s lawsuit after being jailed on murder charge over abortion can proceed, judge rules](https://www.reddit.com/r/news/comments/1ebj30y/texas_womans_lawsuit_after_being_jailed_on_murder/)
 <!-- REDDIT:END -->
 
 
