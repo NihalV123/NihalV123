@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Texas woman&#39;s lawsuit after being jailed on murder charge over abortion can proceed, judge rules](https://www.reddit.com/r/news/comments/1ebj30y/texas_womans_lawsuit_after_being_jailed_on_murder/)
+- [NORAD jets intercept 2 Russian and 2 Chinese bombers off Alaskan coast](https://www.reddit.com/r/news/comments/1ebiko4/norad_jets_intercept_2_russian_and_2_chinese/)
+- [One of two people wounded in Trump shooting released from hospital](https://www.reddit.com/r/news/comments/1ebg0fc/one_of_two_people_wounded_in_trump_shooting/)
+- [Woman found dead hours before she was to be sentenced for killing her husband](https://www.reddit.com/r/news/comments/1ebfn0q/woman_found_dead_hours_before_she_was_to_be/)
+- [IOC awards 2034 Winter Games to Utah and pushes state officials to help end FBI investigation](https://www.reddit.com/r/news/comments/1ebf7f9/ioc_awards_2034_winter_games_to_utah_and_pushes/)
 <!-- REDDIT:END -->
 
 
