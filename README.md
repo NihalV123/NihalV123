@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [French high-speed rail vandalised before Olympic ceremony](https://www.reddit.com/r/news/comments/1eci4ax/french_highspeed_rail_vandalised_before_olympic/)
+- [Court documents reveal Tupac murder suspect implicated Sean Combs in rapper&#39;s death](https://www.reddit.com/r/news/comments/1ecghlk/court_documents_reveal_tupac_murder_suspect/)
+- [World War II sergeant whose plane was shot down over Germany honored with reburial in California](https://www.reddit.com/r/news/comments/1ecf7z0/world_war_ii_sergeant_whose_plane_was_shot_down/)
+- [Uber and Lyft drivers remain independent contractors in California Supreme Court ruling](https://www.reddit.com/r/news/comments/1ecdclv/uber_and_lyft_drivers_remain_independent/)
+- [Mistrial declared in case of Indiana man accused of fatally shooting 5, including pregnant woman](https://www.reddit.com/r/news/comments/1ecd76g/mistrial_declared_in_case_of_indiana_man_accused/)
 <!-- REDDIT:END -->
 
 
