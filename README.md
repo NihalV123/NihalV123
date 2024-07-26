@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Court documents reveal Tupac murder suspect implicated Sean Combs in rapper&#39;s death](https://www.reddit.com/r/news/comments/1ecghlk/court_documents_reveal_tupac_murder_suspect/)
+- [Mistrial declared in case of Indiana man accused of fatally shooting 5, including pregnant woman](https://www.reddit.com/r/news/comments/1ecd76g/mistrial_declared_in_case_of_indiana_man_accused/)
+- [Controversial books cost library board members their seats | News, Sports, Jobs](https://www.reddit.com/r/news/comments/1eccog0/controversial_books_cost_library_board_members/)
+- [Co-founder and alleged leader of Sinaloa Mexican drug cartel in US custody, DOJ says](https://www.reddit.com/r/news/comments/1ecbtrr/cofounder_and_alleged_leader_of_sinaloa_mexican/)
+- [Deputy who killed Sonya Massey worked for 6 agencies in 4 years](https://www.reddit.com/r/news/comments/1ecbnt3/deputy_who_killed_sonya_massey_worked_for_6/)
 <!-- REDDIT:END -->
 
 
