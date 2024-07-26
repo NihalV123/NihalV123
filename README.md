@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [New high-rise building to house homeless in $600K units in downtown Los Angeles](https://www.reddit.com/r/news/comments/1ecai7l/new_highrise_building_to_house_homeless_in_600k/)
+- [Mexican drug lord Joaquin Guzman Lopez, son of El Chapo, in U.S. custody, sources say](https://www.reddit.com/r/news/comments/1eca7uz/mexican_drug_lord_joaquin_guzman_lopez_son_of_el/)
+- [Sinaloa Cartel leader, Ismael &#39;Mayo&#39; Zambada has reportedly been detained in El Paso, Texas](https://www.reddit.com/r/news/comments/1eca0ll/sinaloa_cartel_leader_ismael_mayo_zambada_has/)
+- [Mexican drug lord &quot;El Mayo&quot; is in U.S. custody, sources say](https://www.reddit.com/r/news/comments/1ec9e9t/mexican_drug_lord_el_mayo_is_in_us_custody/)
+- [We bought everything needed to make $3 million worth of fentanyl. All it took was $3,600 and a web browser](https://www.reddit.com/r/news/comments/1ec8dlj/we_bought_everything_needed_to_make_3_million/)
 <!-- REDDIT:END -->
 
 
