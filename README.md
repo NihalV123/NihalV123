@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Nebraska teen accused of derailing train, recording the crash and posting it online](https://www.reddit.com/r/news/comments/1edmt5m/nebraska_teen_accused_of_derailing_train/)
+- [Apple has reached its first-ever union contract with store employees in Maryland](https://www.reddit.com/r/news/comments/1edlj83/apple_has_reached_its_firstever_union_contract/)
+- [Nine children killed in rocket fire in Majdal Shams, Hezbollah denies responsibility](https://www.reddit.com/r/news/comments/1edlemy/nine_children_killed_in_rocket_fire_in_majdal/)
+- [Freeway connecting California to Las Vegas shut down after truck hauling batteries crashes](https://www.reddit.com/r/news/comments/1edj89f/freeway_connecting_california_to_las_vegas_shut/)
+- [Urgent action needed as malaria evolves resistance to key drug](https://www.reddit.com/r/news/comments/1edfk68/urgent_action_needed_as_malaria_evolves/)
 <!-- REDDIT:END -->
 
 
