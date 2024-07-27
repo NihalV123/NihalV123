@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Olympic moment of the day: Married couple makes history as Romania’s flag bearers](https://www.reddit.com/r/news/comments/1ed2h8f/olympic_moment_of_the_day_married_couple_makes/)
+- [Son of disgraced pastor Robert Morris steps down from Gateway Church leadership](https://www.reddit.com/r/news/comments/1eczglo/son_of_disgraced_pastor_robert_morris_steps_down/)
+- [Fake video of threat to Olympic Games appears to be from Russia, researchers say](https://www.reddit.com/r/news/comments/1eczbtz/fake_video_of_threat_to_olympic_games_appears_to/)
+- [&#39;Primed to burn:&#39; Former Parks Canada forestry scientist fears the worst for Banff](https://www.reddit.com/r/news/comments/1ecy4z2/primed_to_burn_former_parks_canada_forestry/)
+- [Exclusive: Russia deploys cheap drones to locate Ukraine&#39;s air defences](https://www.reddit.com/r/news/comments/1ecx75l/exclusive_russia_deploys_cheap_drones_to_locate/)
 <!-- REDDIT:END -->
 
 
