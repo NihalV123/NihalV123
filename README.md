@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [5,000 people rescued from flooding in North Korea in evacuation efforts led by Kim, report says](https://www.reddit.com/r/news/comments/1eex050/5000_people_rescued_from_flooding_in_north_korea/)
+- [Two children, 10 and 11, charged in connection to the drowning death of Georgia child](https://www.reddit.com/r/news/comments/1eeqsxr/two_children_10_and_11_charged_in_connection_to/)
+- [California education official embezzled over $16 million, hid cash in mini fridge](https://www.reddit.com/r/news/comments/1eep9xb/california_education_official_embezzled_over_16/)
+- [Deputy who killed Sonya Massey was removed from the Army, had DUIs and needed ‘high stress decision’ classes, records show](https://www.reddit.com/r/news/comments/1eenqdm/deputy_who_killed_sonya_massey_was_removed_from/)
+- [Exit polling in Venezuela shows opposition beating Maduro by wide margin](https://www.reddit.com/r/news/comments/1een90u/exit_polling_in_venezuela_shows_opposition/)
 <!-- REDDIT:END -->
 
 
