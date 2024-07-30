@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Term limits for Supreme Court are popular, but would require a constitutional amendment, experts say](https://www.reddit.com/r/news/comments/1efretc/term_limits_for_supreme_court_are_popular_but/)
+- [Air New Zealand becomes first major carrier to drop climate goal](https://www.reddit.com/r/news/comments/1efo14x/air_new_zealand_becomes_first_major_carrier_to/)
+- [4.9 magnitude earthquake hits Barstow area, rattling large swath of SoCal, USGS says](https://www.reddit.com/r/news/comments/1efmckx/49_magnitude_earthquake_hits_barstow_area/)
+- [Midwest sees surge in calls to poison control centers amid bumper crop of wild mushrooms](https://www.reddit.com/r/news/comments/1efjy78/midwest_sees_surge_in_calls_to_poison_control/)
+- [Construction company in Idaho airport hangar collapse ignored safety standards, OSHA says](https://www.reddit.com/r/news/comments/1efjci7/construction_company_in_idaho_airport_hangar/)
 <!-- REDDIT:END -->
 
 
