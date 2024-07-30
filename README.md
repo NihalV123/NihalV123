@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US bases in Iraq and Syria targeted in string of rocket attacks](https://www.reddit.com/r/news/comments/1efg8a0/us_bases_in_iraq_and_syria_targeted_in_string_of/)
+- [Ron Goldman&#39;s father files claim against O.J. Simpson estate seeking $117 million](https://www.reddit.com/r/news/comments/1effnem/ron_goldmans_father_files_claim_against_oj/)
+- [Judge temporarily bans Wayne LaPierre from returning to lead the National Rifle Association but does not appoint a monitor](https://www.reddit.com/r/news/comments/1efcppk/judge_temporarily_bans_wayne_lapierre_from/)
+- [Dollywood patrons wade through knee-deep water as theme park floods](https://www.reddit.com/r/news/comments/1ef43ck/dollywood_patrons_wade_through_kneedeep_water_as/)
+- [McDonald&#39;s sales fall globally for first time in more than three years](https://www.reddit.com/r/news/comments/1ef3nxa/mcdonalds_sales_fall_globally_for_first_time_in/)
 <!-- REDDIT:END -->
 
 
