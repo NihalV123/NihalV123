@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Israel says it has struck Beirut as explosion rocks Hezbollah stronghold in Lebanese capital](https://www.reddit.com/r/news/comments/1efzpxs/israel_says_it_has_struck_beirut_as_explosion/)
+- [A third girl has died in the UK after one of the worst attacks on children in decades. Here’s what to know](https://www.reddit.com/r/news/comments/1efx6yk/a_third_girl_has_died_in_the_uk_after_one_of_the/)
+- [Meta agrees to $1.4 billion settlement in Texas biometric data lawsuit over Facebook images](https://www.reddit.com/r/news/comments/1efvf1c/meta_agrees_to_14_billion_settlement_in_texas/)
+- [William Calley, who led the My Lai massacre that shamed US military in Vietnam, has died](https://www.reddit.com/r/news/comments/1efuf0z/william_calley_who_led_the_my_lai_massacre_that/)
+- [Interpol operation leads to 206 arrests, seizure of $1.6B of illegal drugs, chemicals](https://www.reddit.com/r/news/comments/1eftx9q/interpol_operation_leads_to_206_arrests_seizure/)
 <!-- REDDIT:END -->
 
 
