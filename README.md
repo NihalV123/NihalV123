@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Bodycam video shows fatal police shooting of 4-year-old Illinois boy and man holding him hostage](https://www.reddit.com/r/news/comments/1egtm28/bodycam_video_shows_fatal_police_shooting_of/)
+- [Father and son facing terror charges were planning &#39;serious violent attack in Toronto&#39;: RCMP](https://www.reddit.com/r/news/comments/1egshjf/father_and_son_facing_terror_charges_were/)
+- [Disaster in Kerala: Death toll rises to 251, over 200 still missing](https://www.reddit.com/r/news/comments/1egoblz/disaster_in_kerala_death_toll_rises_to_251_over/)
+- [Starbucks sales tumble as customers reject high-priced coffee](https://www.reddit.com/r/news/comments/1egnnre/starbucks_sales_tumble_as_customers_reject/)
+- [Paychecks grew more slowly this spring, a sign inflation may keep cooling](https://www.reddit.com/r/news/comments/1egnnke/paychecks_grew_more_slowly_this_spring_a_sign/)
 <!-- REDDIT:END -->
 
 
