@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [&#39;She called for help and we failed&#39;: Sheriff asks forgiveness for Sonya Massey shooting](https://www.reddit.com/r/news/comments/1eglrwa/she_called_for_help_and_we_failed_sheriff_asks/)
+- [NASA Astronauts Remain on ISS After 52 Days As Boeing Starliner Issues Persist](https://www.reddit.com/r/news/comments/1egla9l/nasa_astronauts_remain_on_iss_after_52_days_as/)
+- [Number of plastic bags found on UK beaches down 80% since charge introduced](https://www.reddit.com/r/news/comments/1egi29q/number_of_plastic_bags_found_on_uk_beaches_down/)
+- [U.S. women earn first rugby sevens medal on Alex Sedrick’s long try as time expires](https://www.reddit.com/r/news/comments/1egi0se/us_women_earn_first_rugby_sevens_medal_on_alex/)
+- [Police recruit who lost both legs in &#39;barbaric hazing ritual&#39; sues Denver, paramedics and officers](https://www.reddit.com/r/news/comments/1egcz6c/police_recruit_who_lost_both_legs_in_barbaric/)
 <!-- REDDIT:END -->
 
 
