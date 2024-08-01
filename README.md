@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Three accused 9/11 plotters plead guilty in Guantánamo Bay plea deal&lpar;The Guardian&rpar;](https://www.reddit.com/r/news/comments/1eh0v6i/three_accused_911_plotters_plead_guilty_in/)
+- [Comic-Con San Diego human trafficking sting: 10 victims recovered, 14 arrests made](https://www.reddit.com/r/news/comments/1eh0noh/comiccon_san_diego_human_trafficking_sting_10/)
+- [Guantanamo inmate accused of being main plotter of 9/11 attacks to plead guilty](https://www.reddit.com/r/news/comments/1eh0bdy/guantanamo_inmate_accused_of_being_main_plotter/)
+- [Ford trying to patent system that reports speeding vehicles to police](https://www.reddit.com/r/news/comments/1egzpeh/ford_trying_to_patent_system_that_reports/)
+- [Dutch beach volleyball player convicted of rape is booed again, louder, in second match of Olympics](https://www.reddit.com/r/news/comments/1egzg70/dutch_beach_volleyball_player_convicted_of_rape/)
 <!-- REDDIT:END -->
 
 
