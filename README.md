@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [American woman found emaciated and &#39;left to die&#39; chained to tree in India](https://www.reddit.com/r/news/comments/1ehlr3u/american_woman_found_emaciated_and_left_to_die/)
+- [Missouri woman admits kidnapping and killing a pregnant Arkansas woman](https://www.reddit.com/r/news/comments/1ehl0pv/missouri_woman_admits_kidnapping_and_killing_a/)
+- [Mother finds blood in Burger King meal after daughter takes bite thinking it’s ketchup](https://www.reddit.com/r/news/comments/1ehktdu/mother_finds_blood_in_burger_king_meal_after/)
+- [NY appeals court rejects Trump’s latest appeal of gag order in hush money case](https://www.reddit.com/r/news/comments/1ehkl6x/ny_appeals_court_rejects_trumps_latest_appeal_of/)
+- [F-16 fighter jet drops fuel tanks during emergency over Michigan, one of which exploded in Lake Huron](https://www.reddit.com/r/news/comments/1ehjzpt/f16_fighter_jet_drops_fuel_tanks_during_emergency/)
 <!-- REDDIT:END -->
 
 
