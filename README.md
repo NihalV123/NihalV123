@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Justice Department Sues TikTok, Accusing the Company of Violating a Children&#39;s Online Privacy Law](https://www.reddit.com/r/news/comments/1eig1nd/justice_department_sues_tiktok_accusing_the/)
+- [Tesla sued by family of motorcyclist killed in Autopilot crash](https://www.reddit.com/r/news/comments/1eifa99/tesla_sued_by_family_of_motorcyclist_killed_in/)
+- [Children of undercover Russian spy couple only learned their nationality on flight to Moscow](https://www.reddit.com/r/news/comments/1eidu8c/children_of_undercover_russian_spy_couple_only/)
+- [Judge throws out the $4.7 billion NFL ‘Sunday Ticket’ verdict](https://www.reddit.com/r/news/comments/1eidnet/judge_throws_out_the_47_billion_nfl_sunday_ticket/)
+- [Justin Timberlake&#39;s license suspended at DWI hearing, judge threatens gag order for lawyer](https://www.reddit.com/r/news/comments/1eicgk0/justin_timberlakes_license_suspended_at_dwi/)
 <!-- REDDIT:END -->
 
 
