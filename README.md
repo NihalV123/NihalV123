@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Wichita man sentenced to 15 years for stealing Jackie Robinson statue](https://www.reddit.com/r/news/comments/1eiv2ac/wichita_man_sentenced_to_15_years_for_stealing/)
+- [Man dies after attempting illegal BASE jump at the Grand Canyon: NPS](https://www.reddit.com/r/news/comments/1eiui11/man_dies_after_attempting_illegal_base_jump_at/)
+- [Plea deal for accused 9/11 plotters revoked by Pentagon chief Lloyd Austin | September 11 2001](https://www.reddit.com/r/news/comments/1eiubfo/plea_deal_for_accused_911_plotters_revoked_by/)
+- [Plea deal with accused 9/11 plotters revoked - US government](https://www.reddit.com/r/news/comments/1eitvfa/plea_deal_with_accused_911_plotters_revoked_us/)
+- [Maui victims reach $4 billion global settlement following wildfire tragedy lawsuits](https://www.reddit.com/r/news/comments/1eis1xx/maui_victims_reach_4_billion_global_settlement/)
 <!-- REDDIT:END -->
 
 
