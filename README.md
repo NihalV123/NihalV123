@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [About half of US state AGs went on France trip sponsored by group with lobbyist and corporate funds](https://www.reddit.com/r/news/comments/1eivye1/about_half_of_us_state_ags_went_on_france_trip/)
+- [Wichita man sentenced to 15 years for stealing Jackie Robinson statue](https://www.reddit.com/r/news/comments/1eiv2ac/wichita_man_sentenced_to_15_years_for_stealing/)
+- [Man dies after attempting illegal BASE jump at the Grand Canyon: NPS](https://www.reddit.com/r/news/comments/1eiui11/man_dies_after_attempting_illegal_base_jump_at/)
+- [Maui victims reach $4 billion global settlement following wildfire tragedy lawsuits](https://www.reddit.com/r/news/comments/1eis1xx/maui_victims_reach_4_billion_global_settlement/)
+- [A humpback whale in Washington state is missing its tail. One expert calls the sight &#39;heartbreaking&#39;](https://www.reddit.com/r/news/comments/1eird1v/a_humpback_whale_in_washington_state_is_missing/)
 <!-- REDDIT:END -->
 
 
