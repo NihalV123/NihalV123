@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [She wanted ‘the world’ for her daughter. Instead, she got a landmark prison sentence | CNN](https://www.reddit.com/r/news/comments/1ejthxk/she_wanted_the_world_for_her_daughter_instead_she/)
+- [Strikes on Gaza kill 12 and stabbing in Israel kills 2 as fears of wider war spike](https://www.reddit.com/r/news/comments/1ejstpe/strikes_on_gaza_kill_12_and_stabbing_in_israel/)
+- [Disney, Nike, IBM Signatures Anchor 3M Fake Emails a Day. A simple toggle in Proofpoint&#39;s email service allowed for brand impersonation at an industrial scale](https://www.reddit.com/r/news/comments/1ejskzc/disney_nike_ibm_signatures_anchor_3m_fake_emails/)
+- [At least 32 Killed in Somali beach attack, Police say](https://www.reddit.com/r/news/comments/1ejr7u5/at_least_32_killed_in_somali_beach_attack_police/)
+- [South Korea offers humanitarian aid to flood-hit North Korea](https://www.reddit.com/r/news/comments/1ejk1qp/south_korea_offers_humanitarian_aid_to_floodhit/)
 <!-- REDDIT:END -->
 
 
