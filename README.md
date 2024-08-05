@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [4 teens agree to plead guilty in fatal 2023 beating of Las Vegas high schooler](https://www.reddit.com/r/news/comments/1ekm9jl/4_teens_agree_to_plead_guilty_in_fatal_2023/)
+- [NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home | WIRED](https://www.reddit.com/r/news/comments/1eklvgo/nasa_is_evaluating_all_options_to_get_the_boeing/)
+- [Judge who authorized Kansas newspaper raid escapes discipline with secret conflicting explanation](https://www.reddit.com/r/news/comments/1ekkvpz/judge_who_authorized_kansas_newspaper_raid/)
+- [Bangladesh PM Sheikh Hasina resigns and flees country as protesters storm palace](https://www.reddit.com/r/news/comments/1ekk1ck/bangladesh_pm_sheikh_hasina_resigns_and_flees/)
+- [Japan’s Nikkei Posts Biggest Single-Day Fall Since 1987 After Weak U.S. Data](https://www.reddit.com/r/news/comments/1ekhrse/japans_nikkei_posts_biggest_singleday_fall_since/)
 <!-- REDDIT:END -->
 
 
