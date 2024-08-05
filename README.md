@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Aviation experts dispute plane theory used to convict Michigan’s ‘ninja killer’](https://www.reddit.com/r/news/comments/1ekd3ng/aviation_experts_dispute_plane_theory_used_to/)
+- [Iran has told Arab leaders it doesn&#39;t care if attack on Israel triggers all-out war, says report](https://www.reddit.com/r/news/comments/1ekc45e/iran_has_told_arab_leaders_it_doesnt_care_if/)
+- [RFK Jr admits to dumping bear carcass in New York&#39;s Central Park](https://www.reddit.com/r/news/comments/1ekbk23/rfk_jr_admits_to_dumping_bear_carcass_in_new/)
+- [Elderly man arrested in Cape Canaveral accused of ‘lassoing’ 9-foot gator, tethering it to pole](https://www.reddit.com/r/news/comments/1ek8d19/elderly_man_arrested_in_cape_canaveral_accused_of/)
+- [Judge rejects Trump effort to dismiss 2020 election interference case](https://www.reddit.com/r/news/comments/1ek7haz/judge_rejects_trump_effort_to_dismiss_2020/)
 <!-- REDDIT:END -->
 
 
