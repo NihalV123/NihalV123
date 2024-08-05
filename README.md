@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Elderly man arrested in Cape Canaveral accused of ‘lassoing’ 9-foot gator, tethering it to pole](https://www.reddit.com/r/news/comments/1ek8d19/elderly_man_arrested_in_cape_canaveral_accused_of/)
+- [Judge rejects Trump effort to dismiss 2020 election interference case](https://www.reddit.com/r/news/comments/1ek7haz/judge_rejects_trump_effort_to_dismiss_2020/)
+- [Elon Musk PAC being investigated by Michigan secretary of state for potential violations](https://www.reddit.com/r/news/comments/1ek7b61/elon_musk_pac_being_investigated_by_michigan/)
+- [Steven van de Velde, the Dutch beach volleyball player convicted of rape, eliminated from Olympics](https://www.reddit.com/r/news/comments/1ek5mrh/steven_van_de_velde_the_dutch_beach_volleyball/)
+- [Dozens killed as anti-government protests resume in Bangladesh](https://www.reddit.com/r/news/comments/1ek5if5/dozens_killed_as_antigovernment_protests_resume/)
 <!-- REDDIT:END -->
 
 
