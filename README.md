@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [UK police clash with rioters in the wake of deadly knife attack at dance event](https://www.reddit.com/r/news/comments/1eku5pg/uk_police_clash_with_rioters_in_the_wake_of/)
+- [Prosecutors plan to charge former Kansas police chief over his conduct following newspaper raid](https://www.reddit.com/r/news/comments/1eksrdl/prosecutors_plan_to_charge_former_kansas_police/)
+- [Recreational marijuana sales in Ohio can start Tuesday at nearly 100 locations](https://www.reddit.com/r/news/comments/1ekrcss/recreational_marijuana_sales_in_ohio_can_start/)
+- [13-year-old boy killed when tree falls on mobile home due to Hurricane Debby](https://www.reddit.com/r/news/comments/1ekr19x/13yearold_boy_killed_when_tree_falls_on_mobile/)
+- [Israel on alert for retaliation; Iran says Haniyeh killing was ‘big mistake’](https://www.reddit.com/r/news/comments/1ekoeqr/israel_on_alert_for_retaliation_iran_says_haniyeh/)
 <!-- REDDIT:END -->
 
 
