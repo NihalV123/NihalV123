@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man from “succulent Chinese meal” dies.](https://www.reddit.com/r/news/comments/1emrx7r/man_from_succulent_chinese_meal_dies/)
+- [Glacier outburst sends surge of water into Juneau, causing ‘unprecedented’ flooding](https://www.reddit.com/r/news/comments/1emrrqq/glacier_outburst_sends_surge_of_water_into_juneau/)
+- [Chinese American man convicted in US of spying on dissidents for China | US crime | The Guardian](https://www.reddit.com/r/news/comments/1emrcwh/chinese_american_man_convicted_in_us_of_spying_on/)
+- [A balloon, a brief flicker of power, then disruption of water service for thousands in New Orleans](https://www.reddit.com/r/news/comments/1emqucw/a_balloon_a_brief_flicker_of_power_then/)
+- [He was &#39;Officer Champagne&#39; at Rikers. 24 women accuse him of sexual assault in jail.](https://www.reddit.com/r/news/comments/1emqj0m/he_was_officer_champagne_at_rikers_24_women/)
 <!-- REDDIT:END -->
 
 
