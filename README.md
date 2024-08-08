@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Japan Earthquake: Tsunami advisory issued after 7.1 magnitude tremor](https://www.reddit.com/r/news/comments/1en1n61/japan_earthquake_tsunami_advisory_issued_after_71/)
+- [Jack Karlson, who shot to fame after ‘succulent Chinese meal’ arrest, dies aged 82](https://www.reddit.com/r/news/comments/1emu6q1/jack_karlson_who_shot_to_fame_after_succulent/)
+- [UK, Egypt issue alerts for Iran, Lebanon airspace as risks of military conflict rise](https://www.reddit.com/r/news/comments/1emsl66/uk_egypt_issue_alerts_for_iran_lebanon_airspace/)
+- [Glacier outburst sends surge of water into Juneau, causing ‘unprecedented’ flooding](https://www.reddit.com/r/news/comments/1emrrqq/glacier_outburst_sends_surge_of_water_into_juneau/)
+- [Chinese American man convicted in US of spying on dissidents for China | US crime | The Guardian](https://www.reddit.com/r/news/comments/1emrcwh/chinese_american_man_convicted_in_us_of_spying_on/)
 <!-- REDDIT:END -->
 
 
