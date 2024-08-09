@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Powerful former North Dakota lawmaker pleads guilty to traveling to Europe to pay for sex with minor](https://www.reddit.com/r/news/comments/1enj54f/powerful_former_north_dakota_lawmaker_pleads/)
+- [Powerful former North Dakota lawmaker pleads guilty to traveling to Europe to pay for sex with minor](https://www.reddit.com/r/news/comments/1enhykj/powerful_former_north_dakota_lawmaker_pleads/)
+- [3 Denver officers fired over messages about using migrant and refugee shelters as &#39;target practice&#39;](https://www.reddit.com/r/news/comments/1enhwns/3_denver_officers_fired_over_messages_about_using/)
+- [Advertisers axe corporate responsibility scheme after lawsuit from Musk’s X](https://www.reddit.com/r/news/comments/1eng8q2/advertisers_axe_corporate_responsibility_scheme/)
+- [Woman dies after getting caught in baggage carousel at Chicago O&#39;Hare](https://www.reddit.com/r/news/comments/1enfiot/woman_dies_after_getting_caught_in_baggage/)
 <!-- REDDIT:END -->
 
 
