@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Forest Service orders Arrowhead bottled water company to shut down California pipeline](https://www.reddit.com/r/news/comments/1enxo84/forest_service_orders_arrowhead_bottled_water/)
+- [Cape Girardeau PD: Man robs bank in attempt to get medical care](https://www.reddit.com/r/news/comments/1enx7ef/cape_girardeau_pd_man_robs_bank_in_attempt_to_get/)
+- [Indy animal care workers fired for checking adopter criminal history](https://www.reddit.com/r/news/comments/1enx1kp/indy_animal_care_workers_fired_for_checking/)
+- [Carles Puigdemont ‘eludes police manhunt and flees Spain’](https://www.reddit.com/r/news/comments/1enwy5v/carles_puigdemont_eludes_police_manhunt_and_flees/)
+- [Third teenager in custody over foiled attack on Taylor Swift shows in Vienna](https://www.reddit.com/r/news/comments/1enwmf5/third_teenager_in_custody_over_foiled_attack_on/)
 <!-- REDDIT:END -->
 
 
