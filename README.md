@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Former YouTube CEO Susan Wojcicki dies after battling cancer](https://www.reddit.com/r/news/comments/1eol6nf/former_youtube_ceo_susan_wojcicki_dies_after/)
+- [US releases $3.5 billion to Israel to spend on US weapons and military equipment.](https://www.reddit.com/r/news/comments/1eojn3f/us_releases_35_billion_to_israel_to_spend_on_us/)
+- [Tourist is caught carving initials into 2,000-year-old home at Pompeii](https://www.reddit.com/r/news/comments/1eofucw/tourist_is_caught_carving_initials_into/)
+- [Meta beats censorship lawsuit by RFK Jr&#39;s anti-vaccine group](https://www.reddit.com/r/news/comments/1eofhn4/meta_beats_censorship_lawsuit_by_rfk_jrs/)
+- [Bodycam video shows Baltimore officers opening fire on fleeing teen moments after seeing his gun](https://www.reddit.com/r/news/comments/1eofgra/bodycam_video_shows_baltimore_officers_opening/)
 <!-- REDDIT:END -->
 
 
