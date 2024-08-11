@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Jewish man stabbed near Chabad HQ in NYC by man shouting &#39;Free Palestine&#39;](https://www.reddit.com/r/news/comments/1epbfpi/jewish_man_stabbed_near_chabad_hq_in_nyc_by_man/)
+- [Concert Shooting in Pacific Junction, Iowa.](https://www.reddit.com/r/news/comments/1epb50w/concert_shooting_in_pacific_junction_iowa/)
+- [UH researchers have developed two nasal sprays for respiratory viruses, COVID-19](https://www.reddit.com/r/news/comments/1epa6bu/uh_researchers_have_developed_two_nasal_sprays/)
+- [Algerian boxer Imane Khelif, at centre of Olympics gender row, files legal complaint over online harassment](https://www.reddit.com/r/news/comments/1ep4dh2/algerian_boxer_imane_khelif_at_centre_of_olympics/)
+- [Steph Curry dazzles again as USA beat France for gold in men’s basketball final](https://www.reddit.com/r/news/comments/1ep3oyk/steph_curry_dazzles_again_as_usa_beat_france_for/)
 <!-- REDDIT:END -->
 
 
