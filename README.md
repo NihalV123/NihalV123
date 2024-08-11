@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Algerian boxer Imane Khelif, at centre of Olympics gender row, files legal complaint over online harassment](https://www.reddit.com/r/news/comments/1ep4dh2/algerian_boxer_imane_khelif_at_centre_of_olympics/)
+- [Steph Curry dazzles again as USA beat France for gold in men’s basketball final](https://www.reddit.com/r/news/comments/1ep3oyk/steph_curry_dazzles_again_as_usa_beat_france_for/)
+- [Judge in Maryland rules Baltimore ‘baby bonus’ proposal is unconstitutional](https://www.reddit.com/r/news/comments/1ep28l9/judge_in_maryland_rules_baltimore_baby_bonus/)
+- [Uvalde shooter’s uncle begged police to let him talk to the gunman](https://www.reddit.com/r/news/comments/1ep09ys/uvalde_shooters_uncle_begged_police_to_let_him/)
+- [Medical examiner determines dead woman found entangled in O&#39;Hare baggage machinery died by suicide](https://www.reddit.com/r/news/comments/1eotxb1/medical_examiner_determines_dead_woman_found/)
 <!-- REDDIT:END -->
 
 
