@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [San Ramon, California Home Depot employee Carleen Acevedo, 72, fired for failing to stop $5K in fraudulent transactions: lawsuit - ABC7 Los Angeles](https://www.reddit.com/r/news/comments/1eqjabj/san_ramon_california_home_depot_employee_carleen/)
+- [Rachael Lillis, ‘Pokémon’ actor who voiced Misty and Jessie, dies at 46](https://www.reddit.com/r/news/comments/1eqiuf1/rachael_lillis_pokémon_actor_who_voiced_misty_and/)
+- [Mother arrested in cold case death of newborn girl found in California dumpster 37 years ago](https://www.reddit.com/r/news/comments/1eqibmf/mother_arrested_in_cold_case_death_of_newborn/)
+- [Evacuations ordered near Athens as Greek authorities try to contain wildfires](https://www.reddit.com/r/news/comments/1eqi2k9/evacuations_ordered_near_athens_as_greek/)
+- [Pennsylvania man pleads guilty in stabbing death of neighbor following dispute over loud snoring](https://www.reddit.com/r/news/comments/1eqh9bu/pennsylvania_man_pleads_guilty_in_stabbing_death/)
 <!-- REDDIT:END -->
 
 
