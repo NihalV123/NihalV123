@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Tina Peters guilty: Former Mesa County clerk convicted on 7 charges](https://www.reddit.com/r/news/comments/1eqti54/tina_peters_guilty_former_mesa_county_clerk/)
+- [Israel anticipates direct attack from Iran; U.S. deploys more vessels to region](https://www.reddit.com/r/news/comments/1eqs77z/israel_anticipates_direct_attack_from_iran_us/)
+- [Ukraine says it has seized 386 square miles of Russian territory](https://www.reddit.com/r/news/comments/1eqrste/ukraine_says_it_has_seized_386_square_miles_of/)
+- [4 former officers accused of staging sham raid to extort nearly $37 million from California man](https://www.reddit.com/r/news/comments/1eqqhn1/4_former_officers_accused_of_staging_sham_raid_to/)
+- [Iranian woman paralysed after being shot over hijab](https://www.reddit.com/r/news/comments/1eqpo8g/iranian_woman_paralysed_after_being_shot_over/)
 <!-- REDDIT:END -->
 
 
