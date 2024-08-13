@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Starbucks’ CEO is out. Chipotle’s Brian Niccol is taking over](https://www.reddit.com/r/news/comments/1er6m05/starbucks_ceo_is_out_chipotles_brian_niccol_is/)
+- [Mom fights back in grizzly bear attack: ‘I’m not ready to leave my daughter’](https://www.reddit.com/r/news/comments/1er633c/mom_fights_back_in_grizzly_bear_attack_im_not/)
+- [Florida Python Challenge accounts for 743 Burmese pythons removed since 2020](https://www.reddit.com/r/news/comments/1er5zjg/florida_python_challenge_accounts_for_743_burmese/)
+- [Woman found dead hours before sentencing for killing husband died by suicide, medical examiner says](https://www.reddit.com/r/news/comments/1eqzykf/woman_found_dead_hours_before_sentencing_for/)
+- [Judge rules against RFK Jr. in fight to be on New York’s ballot, says he is not a state resident](https://www.reddit.com/r/news/comments/1eqvvwm/judge_rules_against_rfk_jr_in_fight_to_be_on_new/)
 <!-- REDDIT:END -->
 
 
