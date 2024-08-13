@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Ex-Twitter worker wins £470,000 for unfair dismissal over Musk ‘hardcore’ email](https://www.reddit.com/r/news/comments/1ere1bm/extwitter_worker_wins_470000_for_unfair_dismissal/)
+- [Starbucks fires CEO Laxman Narasimhan. Replaces him with Chipotle CEO Brian Niccol.](https://www.reddit.com/r/news/comments/1erdpnl/starbucks_fires_ceo_laxman_narasimhan_replaces/)
+- [Ohio officer who fatally shot pregnant 21-year-old Ta’Kiya Young charged with murder](https://www.reddit.com/r/news/comments/1ercq0e/ohio_officer_who_fatally_shot_pregnant_21yearold/)
+- [Huge new cache of bodycam and 911 calls shows Uvalde shooting unfolding](https://www.reddit.com/r/news/comments/1erc4re/huge_new_cache_of_bodycam_and_911_calls_shows/)
+- [Record award of €550k to former Twitter senior executive](https://www.reddit.com/r/news/comments/1erbvjh/record_award_of_550k_to_former_twitter_senior/)
 <!-- REDDIT:END -->
 
 
