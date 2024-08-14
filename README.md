@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mom accidentally hits 12-year-old daughter with car at school drop-off: Officials](https://www.reddit.com/r/news/comments/1erst7b/mom_accidentally_hits_12yearold_daughter_with_car/)
+- [Wisconsin voters reject ballot questions that limit governor’s power to spend federal money](https://www.reddit.com/r/news/comments/1erqc61/wisconsin_voters_reject_ballot_questions_that/)
+- [Rockland, MA migrant hotel child rape suspect arrested by immigration](https://www.reddit.com/r/news/comments/1erpzz7/rockland_ma_migrant_hotel_child_rape_suspect/)
+- [Bull headed for slaughterhouse escapes, goes on rampage before being fatally shot in Massachusetts](https://www.reddit.com/r/news/comments/1erow5v/bull_headed_for_slaughterhouse_escapes_goes_on/)
+- [Mob of teens destroys car and brutally beats driver in downtown Los Angeles](https://www.reddit.com/r/news/comments/1ero0t9/mob_of_teens_destroys_car_and_brutally_beats/)
 <!-- REDDIT:END -->
 
 
