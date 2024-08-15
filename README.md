@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Columbia University president quits, months after handling of Gaza war protests](https://www.reddit.com/r/news/comments/1eshkq1/columbia_university_president_quits_months_after/)
+- [Ruling: Fetus can be referred to as ‘unborn human being’ in Arizona abortion measure voter pamphlet](https://www.reddit.com/r/news/comments/1eshjk9/ruling_fetus_can_be_referred_to_as_unborn_human/)
+- [Disney wants wrongful death suit thrown out because widower bought an Epcot ticket and had Disney+ | CNN Business](https://www.reddit.com/r/news/comments/1esggpu/disney_wants_wrongful_death_suit_thrown_out/)
+- [A teen was falling asleep during a courtroom field trip. She ended up in cuffs and jail clothes](https://www.reddit.com/r/news/comments/1esfy24/a_teen_was_falling_asleep_during_a_courtroom/)
+- [Former Rochester Police officer gets 10 weekends in jail for rape of 13-year-old](https://www.reddit.com/r/news/comments/1esdyy5/former_rochester_police_officer_gets_10_weekends/)
 <!-- REDDIT:END -->
 
 
