@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man receives 143 years for threatening Burger King employee with a gun and multiple shootings in Aurora](https://www.reddit.com/r/news/comments/1etjn01/man_receives_143_years_for_threatening_burger/)
+- [Mpox virus detected in Pakistan, health authorities say](https://www.reddit.com/r/news/comments/1ethvw9/mpox_virus_detected_in_pakistan_health/)
+- [Power pop icon, DJ and novelist Greg Kihn dead at 75](https://www.reddit.com/r/news/comments/1etdjgm/power_pop_icon_dj_and_novelist_greg_kihn_dead_at/)
+- [Dispute over Jordan Chiles’ Olympic floor routine rolls on as US claims CAS sent emails to the wrong addresses](https://www.reddit.com/r/news/comments/1etd5i2/dispute_over_jordan_chiles_olympic_floor_routine/)
+- [Four suspects arrested in fatal shooting of &#39;General Hospital&#39; actor Johnny Wactor](https://www.reddit.com/r/news/comments/1etcyhj/four_suspects_arrested_in_fatal_shooting_of/)
 <!-- REDDIT:END -->
 
 
