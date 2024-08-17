@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [X says it is closing operations in Brazil effective immidiately](https://www.reddit.com/r/news/comments/1euntg9/x_says_it_is_closing_operations_in_brazil/)
+- [Turkey parliament descends into chaos as dozens of MPs take part in fistfight](https://www.reddit.com/r/news/comments/1eumxqx/turkey_parliament_descends_into_chaos_as_dozens/)
+- [Supreme Court maintains block on entirety of Biden administration&#39;s new Title IX rule](https://www.reddit.com/r/news/comments/1eumlpy/supreme_court_maintains_block_on_entirety_of/)
+- [San Francisco goes after websites that make AI deepfake nudes of women and girls](https://www.reddit.com/r/news/comments/1eu7p3t/san_francisco_goes_after_websites_that_make_ai/)
+- [Florida doc not wearing hearing aid couldn&#39;t hear colonoscopy patient screaming: complaint](https://www.reddit.com/r/news/comments/1eu4lat/florida_doc_not_wearing_hearing_aid_couldnt_hear/)
 <!-- REDDIT:END -->
 
 
