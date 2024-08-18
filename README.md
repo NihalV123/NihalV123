@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [16-month-old girl killed, 2 siblings injured after father abducts them and crashes vehicle, police say](https://www.reddit.com/r/news/comments/1evejtr/16monthold_girl_killed_2_siblings_injured_after/)
+- [Investigators looking for long-missing Michigan woman find human remains on husband&#39;s property](https://www.reddit.com/r/news/comments/1evehqa/investigators_looking_for_longmissing_michigan/)
+- [Algeria / Lebanon : Algeria takes the initiative to supply Lebanon with fuel oil to mitigate the electricity crisis](https://www.reddit.com/r/news/comments/1evdx4s/algeria_lebanon_algeria_takes_the_initiative_to/)
+- [Skiatook HS pulls assignment on Christianity after Osage family protests](https://www.reddit.com/r/news/comments/1evboh5/skiatook_hs_pulls_assignment_on_christianity/)
+- [More than $1.6 million worth of cocaine washed up on Florida beaches during Hurricane Debby, authorities say](https://www.reddit.com/r/news/comments/1eva5aw/more_than_16_million_worth_of_cocaine_washed_up/)
 <!-- REDDIT:END -->
 
 
