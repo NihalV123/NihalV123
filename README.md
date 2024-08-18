@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [VA awards $800M to nonprofits to find housing for vets](https://www.reddit.com/r/news/comments/1euy94b/va_awards_800m_to_nonprofits_to_find_housing_for/)
+- [Extremely rare &quot;doomsday fish&quot; found off Southern California coast](https://www.reddit.com/r/news/comments/1euy1c5/extremely_rare_doomsday_fish_found_off_southern/)
+- [Woman who fatally shot neighbor through door, found guilty](https://www.reddit.com/r/news/comments/1euxy7r/woman_who_fatally_shot_neighbor_through_door/)
+- [NFL sends out new terms of service, including mandatory arbitration and class-action waiver](https://www.reddit.com/r/news/comments/1euw9hw/nfl_sends_out_new_terms_of_service_including/)
+- [Statue of late civil rights leader John Lewis replaces more than 100-year-old Confederate monument](https://www.reddit.com/r/news/comments/1euvujp/statue_of_late_civil_rights_leader_john_lewis/)
 <!-- REDDIT:END -->
 
 
