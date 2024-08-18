@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Central Japan’s Beaches on High Alert Due to One Lonely, Sexually Frustrated Dolphin](https://www.reddit.com/r/news/comments/1eux05f/central_japans_beaches_on_high_alert_due_to_one/)
+- [NFL sends out new terms of service, including mandatory arbitration and class-action waiver](https://www.reddit.com/r/news/comments/1euw9hw/nfl_sends_out_new_terms_of_service_including/)
+- [Statue of late civil rights leader John Lewis replaces more than 100-year-old Confederate monument](https://www.reddit.com/r/news/comments/1euvujp/statue_of_late_civil_rights_leader_john_lewis/)
+- [Security forces exchange gunfire with shooter who opened fire twice at the gate of Joint Base San Antonio-Lackland](https://www.reddit.com/r/news/comments/1euqqbt/security_forces_exchange_gunfire_with_shooter_who/)
+- [Latest search for 1921 Tulsa Race Massacre victims ends with 3 more found with gunshot wounds](https://www.reddit.com/r/news/comments/1eupdcg/latest_search_for_1921_tulsa_race_massacre/)
 <!-- REDDIT:END -->
 
 
