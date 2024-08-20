@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Starbucks&#39; new CEO will supercommute 1,000 miles from California to Seattle office instead of relocating](https://www.reddit.com/r/news/comments/1ex27ko/starbucks_new_ceo_will_supercommute_1000_miles/)
+- [Starbucks&#39; new CEO will supercommute 1,000 miles from California to Seattle](https://www.reddit.com/r/news/comments/1ex1faa/starbucks_new_ceo_will_supercommute_1000_miles/)
+- [Elon Musk’s Twitter Takeover Is Now the Worst Buyout for Banks Since the Financial Crisis](https://www.reddit.com/r/news/comments/1ex0s24/elon_musks_twitter_takeover_is_now_the_worst/)
+- [Over 600 pounds of methamphetamine found inside celery shipment](https://www.reddit.com/r/news/comments/1ex07ur/over_600_pounds_of_methamphetamine_found_inside/)
+- [Maine mass shooting report exposes failure in Army, law enforcement and hospital responses](https://www.reddit.com/r/news/comments/1ex03dh/maine_mass_shooting_report_exposes_failure_in/)
 <!-- REDDIT:END -->
 
 
