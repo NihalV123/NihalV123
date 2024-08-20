@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Blake Lively’s ‘It Ends With Us’ promotion called ‘disrespectful’ by some survivors of domestic abuse](https://www.reddit.com/r/news/comments/1ewis4a/blake_livelys_it_ends_with_us_promotion_called/)
+- [Tesla semi-truck fire prompts I-80 closure in California as hazmat response halts Sierra Nevada freeway traffic](https://www.reddit.com/r/news/comments/1ewiee6/tesla_semitruck_fire_prompts_i80_closure_in/)
+- [NY, CT see 1 in 1,000-year rainfall event; hundreds stranded as flash floods engulf region](https://www.reddit.com/r/news/comments/1ewe77q/ny_ct_see_1_in_1000year_rainfall_event_hundreds/)
+- [North Texas UPS driver crashes after passing out from heat](https://www.reddit.com/r/news/comments/1ewdltr/north_texas_ups_driver_crashes_after_passing_out/)
+- [Former US Rep George Santos pleads guilty to wire fraud and identity theft in his federal case](https://www.reddit.com/r/news/comments/1ewdaoo/former_us_rep_george_santos_pleads_guilty_to_wire/)
 <!-- REDDIT:END -->
 
 
