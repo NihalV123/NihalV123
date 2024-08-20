@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Pentagon launches website to track military housing issues after years of relaxed oversight](https://www.reddit.com/r/news/comments/1ewo2ey/pentagon_launches_website_to_track_military/)
+- [Disney reverses course on bid to block wrongful death lawsuit by widower who had Disney+](https://www.reddit.com/r/news/comments/1ewmxx7/disney_reverses_course_on_bid_to_block_wrongful/)
+- [4 children found shot in stolen car in Minneapolis](https://www.reddit.com/r/news/comments/1ewmgvm/4_children_found_shot_in_stolen_car_in_minneapolis/)
+- [Japan is recycling food waste back into food with fermentation](https://www.reddit.com/r/news/comments/1ewm4hk/japan_is_recycling_food_waste_back_into_food_with/)
+- [Boeing grounds 777X test fleet on failure of engine mounting structure, says report](https://www.reddit.com/r/news/comments/1ewjtkp/boeing_grounds_777x_test_fleet_on_failure_of/)
 <!-- REDDIT:END -->
 
 
