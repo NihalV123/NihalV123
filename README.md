@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mother arrested in Texas after baby dies in hot car](https://www.reddit.com/r/news/comments/1exvj9e/mother_arrested_in_texas_after_baby_dies_in_hot/)
+- [Ukraine attacks Moscow in one of largest ever drone strikes on Russian capital](https://www.reddit.com/r/news/comments/1exua9y/ukraine_attacks_moscow_in_one_of_largest_ever/)
+- [Canadian freight trains could stop moving Thursday. If they do, many businesses will be hurt](https://www.reddit.com/r/news/comments/1extf2a/canadian_freight_trains_could_stop_moving/)
+- [Nonfarm payroll growth revised down by 818,000, Labor Department says](https://www.reddit.com/r/news/comments/1exrwgk/nonfarm_payroll_growth_revised_down_by_818000/)
+- [106 years after dying in WWI combat, an Army private will be laid to rest](https://www.reddit.com/r/news/comments/1exr3r6/106_years_after_dying_in_wwi_combat_an_army/)
 <!-- REDDIT:END -->
 
 
