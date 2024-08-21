@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [World&#39;s oldest person, Maria Branyas Morera, dies in Spain aged 117](https://www.reddit.com/r/news/comments/1exgvs4/worlds_oldest_person_maria_branyas_morera_dies_in/)
+- [Man in critical condition after being shot by 2-year-old](https://www.reddit.com/r/news/comments/1exanll/man_in_critical_condition_after_being_shot_by/)
+- [Thomas Lane, former cop convicted in George Floyd’s death, released from prison](https://www.reddit.com/r/news/comments/1ex9vpg/thomas_lane_former_cop_convicted_in_george_floyds/)
+- [Harley-Davidson is dropping diversity initiatives after right-wing anti-DEI campaign](https://www.reddit.com/r/news/comments/1ex8ozi/harleydavidson_is_dropping_diversity_initiatives/)
+- [US judge strikes down Biden administration ban on worker &#39;noncompete&#39; agreements](https://www.reddit.com/r/news/comments/1ex80lo/us_judge_strikes_down_biden_administration_ban_on/)
 <!-- REDDIT:END -->
 
 
