@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [US government report says fluoride at twice the recommended limit is linked to lower IQ in kids](https://www.reddit.com/r/news/comments/1eybs8e/us_government_report_says_fluoride_at_twice_the/)
+- [More pregnant women are going without prenatal care, CDC finds](https://www.reddit.com/r/news/comments/1ey6mjv/more_pregnant_women_are_going_without_prenatal/)
+- [Doctor charged in Matthew Perry&#39;s death plans to return to medical practice, lawyer says](https://www.reddit.com/r/news/comments/1ey6i5e/doctor_charged_in_matthew_perrys_death_plans_to/)
+- [Beloved 80-year-old dog walker killed in carjacking while defending her dogs](https://www.reddit.com/r/news/comments/1ey5mhy/beloved_80yearold_dog_walker_killed_in_carjacking/)
+- [After repeated thefts, she mailed herself an Apple AirTag as bait. It worked](https://www.reddit.com/r/news/comments/1ey4dbq/after_repeated_thefts_she_mailed_herself_an_apple/)
 <!-- REDDIT:END -->
 
 
