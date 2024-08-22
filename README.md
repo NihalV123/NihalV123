@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Mike Lynch’s body is sixth found in yacht wreckage; daughter is last missing](https://www.reddit.com/r/news/comments/1eynifl/mike_lynchs_body_is_sixth_found_in_yacht_wreckage/)
+- [Bangladesh floods maroon nearly three million people, kill two](https://www.reddit.com/r/news/comments/1eynidp/bangladesh_floods_maroon_nearly_three_million/)
+- [Missouri Supreme Court blocks agreement that would stop execution of death row inmate who claims innocence](https://www.reddit.com/r/news/comments/1eynd8w/missouri_supreme_court_blocks_agreement_that/)
+- [Woman nearly bitten by tiger after hopping fence at New Jersey zoo, video shows](https://www.reddit.com/r/news/comments/1eynam1/woman_nearly_bitten_by_tiger_after_hopping_fence/)
+- [9,300 employees locked out: Latest updates on shutdown of Canada&#39;s 2 largest railways](https://www.reddit.com/r/news/comments/1eylcyn/9300_employees_locked_out_latest_updates_on/)
 <!-- REDDIT:END -->
 
 
