@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Alain Delon’s family refuse to put down dog actor wished to be buried with](https://www.reddit.com/r/news/comments/1ez0fuc/alain_delons_family_refuse_to_put_down_dog_actor/)
+- [5-year-old Utah boy dies from accidental, self-inflicted gunshot wound](https://www.reddit.com/r/news/comments/1eyzm2o/5yearold_utah_boy_dies_from_accidental/)
+- [Taliban bans the sound of women’s voices singing or reading in public](https://www.reddit.com/r/news/comments/1eyyzfz/taliban_bans_the_sound_of_womens_voices_singing/)
+- [Floridians balk at DeSantis administration plan to build golf courses at state parks](https://www.reddit.com/r/news/comments/1eyy5mt/floridians_balk_at_desantis_administration_plan/)
+- [Brazil sends 1,500 firefighters to combat Amazon forest blazes](https://www.reddit.com/r/news/comments/1eywyth/brazil_sends_1500_firefighters_to_combat_amazon/)
 <!-- REDDIT:END -->
 
 
