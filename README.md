@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Prosecutor says ex-sheriff’s deputy charged with manslaughter in shooting of an airman at his home](https://www.reddit.com/r/news/comments/1ezjn52/prosecutor_says_exsheriffs_deputy_charged_with/)
+- [RealPage: US accuses software firm of driving rent hikes](https://www.reddit.com/r/news/comments/1ezjd5o/realpage_us_accuses_software_firm_of_driving_rent/)
+- [Venezuela’s Supreme Court certifies Maduro’s claims that he won presidential election](https://www.reddit.com/r/news/comments/1ezitmj/venezuelas_supreme_court_certifies_maduros_claims/)
+- [Judge rules Breonna Taylor&#39;s boyfriend caused her death, throws out major charges against ex-Louisville officers](https://www.reddit.com/r/news/comments/1ezhamc/judge_rules_breonna_taylors_boyfriend_caused_her/)
+- [World Bank halts paid advertising on X after CBS News finds its promoted ad under racist content](https://www.reddit.com/r/news/comments/1ezgpvj/world_bank_halts_paid_advertising_on_x_after_cbs/)
 <!-- REDDIT:END -->
 
 
