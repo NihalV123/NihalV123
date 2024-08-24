@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Oklahoma teachers were told to use the Bible. There&#39;s resistance from schools as students return](https://www.reddit.com/r/news/comments/1f0am11/oklahoma_teachers_were_told_to_use_the_bible/)
+- [NASA says astronauts stuck on space station will return on SpaceX capsule](https://www.reddit.com/r/news/comments/1f0agfe/nasa_says_astronauts_stuck_on_space_station_will/)
+- [Italian authorities open manslaughter investigation into superyacht sinking](https://www.reddit.com/r/news/comments/1f09hdc/italian_authorities_open_manslaughter/)
+- [Beef jerky, salted nuts and iodine tablets helped an 89-year-old hiker’s ‘very unlikely’ survival in Idaho wilderness](https://www.reddit.com/r/news/comments/1f08tu9/beef_jerky_salted_nuts_and_iodine_tablets_helped/)
+- [Oklahoma revokes license of teacher who gave class QR code to Brooklyn library in book-ban protest](https://www.reddit.com/r/news/comments/1f088jy/oklahoma_revokes_license_of_teacher_who_gave/)
 <!-- REDDIT:END -->
 
 
