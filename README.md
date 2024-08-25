@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A child was reported missing. A TV news helicopter crew spotted him on the roof playing hooky](https://www.reddit.com/r/news/comments/1f11xis/a_child_was_reported_missing_a_tv_news_helicopter/)
+- [Benjamin Netanyahu says attack on Lebanon ‘not the end of the story’ after exchange of strikes between Israel and Hezbollah – live](https://www.reddit.com/r/news/comments/1f10omt/benjamin_netanyahu_says_attack_on_lebanon_not_the/)
+- [3 people are charged in a Kentucky woman’s fatal stabbing, but her family says local police are at fault, too](https://www.reddit.com/r/news/comments/1f10nx7/3_people_are_charged_in_a_kentucky_womans_fatal/)
+- [102-year-old Manette Baillie becomes Britain&#39;s oldest skydiver](https://www.reddit.com/r/news/comments/1f1013w/102yearold_manette_baillie_becomes_britains/)
+- [At least 5 Secret Service officials involved in planning Trump&#39;s Butler rally put on administrative duty](https://www.reddit.com/r/news/comments/1f100q8/at_least_5_secret_service_officials_involved_in/)
 <!-- REDDIT:END -->
 
 
