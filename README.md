@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Kroger and Albertsons hope to merge but must face a skeptical US government in court first](https://www.reddit.com/r/news/comments/1f1gq2k/kroger_and_albertsons_hope_to_merge_but_must_face/)
+- [Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness](https://www.reddit.com/r/news/comments/1f1gnxq/experiments_prepare_to_test_whether_consciousness/)
+- [Record number of homebuyers are backing out of deals, Redfin reports](https://www.reddit.com/r/news/comments/1f1g6e4/record_number_of_homebuyers_are_backing_out_of/)
+- [Telegram says arrested CEO Pavel Durov has &#39;nothing to hide&#39;](https://www.reddit.com/r/news/comments/1f17byr/telegram_says_arrested_ceo_pavel_durov_has/)
+- [Mother charged with impaired driving in wrong-way crash that killed her 9-year-old son: Police](https://www.reddit.com/r/news/comments/1f16vn9/mother_charged_with_impaired_driving_in_wrongway/)
 <!-- REDDIT:END -->
 
 
