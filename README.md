@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Telegram CEO Pavel Durov’s detention extended following arrest in France](https://www.reddit.com/r/news/comments/1f1n1tq/telegram_ceo_pavel_durovs_detention_extended/)
+- [Sven-Goran Eriksson dies: Former England manager passes away aged 76 - BBC Sport](https://www.reddit.com/r/news/comments/1f1m6pw/svengoran_eriksson_dies_former_england_manager/)
+- [Iconic Babe Ruth jersey sells for record $24 million](https://www.reddit.com/r/news/comments/1f1ls2e/iconic_babe_ruth_jersey_sells_for_record_24/)
+- [US national parks are receiving record-high gift of $100M](https://www.reddit.com/r/news/comments/1f1lc6g/us_national_parks_are_receiving_recordhigh_gift/)
+- [Reuters safety adviser killed, journalists injured in hotel strike in Ukraine](https://www.reddit.com/r/news/comments/1f1f9us/reuters_safety_adviser_killed_journalists_injured/)
 <!-- REDDIT:END -->
 
 
