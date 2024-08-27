@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [44 years after woman murdered in suburban Seattle, DNA on cigarette leads to suspect in Arkansas](https://www.reddit.com/r/news/comments/1f2mf65/44_years_after_woman_murdered_in_suburban_seattle/)
+- [Female student at Rice University killed in dorm room on first day of classes](https://www.reddit.com/r/news/comments/1f2mbqy/female_student_at_rice_university_killed_in_dorm/)
+- [Texas Attorney General Ken Paxton raids Latino Democrats&#39; homes, including those of LULAC members](https://www.reddit.com/r/news/comments/1f2lr13/texas_attorney_general_ken_paxton_raids_latino/)
+- [New Hampshire resident dies after testing positive for mosquito-borne encephalitis virus](https://www.reddit.com/r/news/comments/1f2lhcp/new_hampshire_resident_dies_after_testing/)
+- [Russia hits out at U.S. after pummeling Ukraine with second night of strikes](https://www.reddit.com/r/news/comments/1f2kshb/russia_hits_out_at_us_after_pummeling_ukraine/)
 <!-- REDDIT:END -->
 
 
