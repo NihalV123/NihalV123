@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Man charged with making online threats to kill election officials in Colorado and Arizona](https://www.reddit.com/r/news/comments/1f23q3h/man_charged_with_making_online_threats_to_kill/)
+- [Shelter-in-place issued for students, staff after homicide reported at Rice University campus](https://www.reddit.com/r/news/comments/1f22ihf/shelterinplace_issued_for_students_staff_after/)
+- [PhD student accused of killing friend&#39;s baby faces death penalty if convicted](https://www.reddit.com/r/news/comments/1f22baa/phd_student_accused_of_killing_friends_baby_faces/)
+- [Social platform X edits AI chatbot after election officials warn that it spreads misinformation](https://www.reddit.com/r/news/comments/1f229j3/social_platform_x_edits_ai_chatbot_after_election/)
+- [Australia sees hottest winter temperature on record, a brutal 107 degrees](https://www.reddit.com/r/news/comments/1f21p8b/australia_sees_hottest_winter_temperature_on/)
 <!-- REDDIT:END -->
 
 
