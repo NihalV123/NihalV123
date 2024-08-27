@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [LA to pay more than $38M for failing to make affordable housing accessible](https://www.reddit.com/r/news/comments/1f28bkd/la_to_pay_more_than_38m_for_failing_to_make/)
+- [Travis King, U.S. Army private who ran into North Korea, to plead guilty to desertion](https://www.reddit.com/r/news/comments/1f26xdu/travis_king_us_army_private_who_ran_into_north/)
+- [France President Macron rules out leftist PM as crisis continues](https://www.reddit.com/r/news/comments/1f265fm/france_president_macron_rules_out_leftist_pm_as/)
+- [Columbia TV journalist arrested on charges of possession of child sexual abuse material](https://www.reddit.com/r/news/comments/1f24jqd/columbia_tv_journalist_arrested_on_charges_of/)
+- [Man charged with making online threats to kill election officials in Colorado and Arizona](https://www.reddit.com/r/news/comments/1f23q3h/man_charged_with_making_online_threats_to_kill/)
 <!-- REDDIT:END -->
 
 
