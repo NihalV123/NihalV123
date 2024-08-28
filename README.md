@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [15-year-old charged after bomb threats made against his high school](https://www.reddit.com/r/news/comments/1f30t4s/15yearold_charged_after_bomb_threats_made_against/)
+- [An &#39;aggressive&#39; water buffalo is on the loose and prowling the streets of Iowa](https://www.reddit.com/r/news/comments/1f2wsyx/an_aggressive_water_buffalo_is_on_the_loose_and/)
+- [Webb telescope spots six rogue worlds within a glowing cosmic cloud](https://www.reddit.com/r/news/comments/1f2szhj/webb_telescope_spots_six_rogue_worlds_within_a/)
+- [Special counsel files reworked indictment against Donald Trump in January 6 case](https://www.reddit.com/r/news/comments/1f2r4qc/special_counsel_files_reworked_indictment_against/)
+- [Mexico freezes relations with US, Canadian embassies after judicial reform criticism](https://www.reddit.com/r/news/comments/1f2o7m6/mexico_freezes_relations_with_us_canadian/)
 <!-- REDDIT:END -->
 
 
