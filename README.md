@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Palestinian man found dead in Antwerp park with hands and feet tied](https://www.reddit.com/r/news/comments/1f3h2yh/palestinian_man_found_dead_in_antwerp_park_with/)
+- [Office retreat gone awry: Worker rescued after allegedly left stranded on Colorado mountain by colleagues](https://www.reddit.com/r/news/comments/1f3g0jz/office_retreat_gone_awry_worker_rescued_after/)
+- [Former Inglewood police officer sentenced for re-selling cocaine taken during traffic stops](https://www.reddit.com/r/news/comments/1f3flk2/former_inglewood_police_officer_sentenced_for/)
+- [Months before L.A. doctor was killed at his clinic, three men beat him with baseball bats](https://www.reddit.com/r/news/comments/1f3et4o/months_before_la_doctor_was_killed_at_his_clinic/)
+- [SpaceX Falcon 9 booster collapses in a fireball on the droneship, ending a streak of 267 successful landings](https://www.reddit.com/r/news/comments/1f3ec4b/spacex_falcon_9_booster_collapses_in_a_fireball/)
 <!-- REDDIT:END -->
 
 
