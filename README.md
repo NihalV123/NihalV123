@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Officials probe death of Wells Fargo employee found dead in her cubicle 4 days after last scanning into work](https://www.reddit.com/r/news/comments/1f48d6h/officials_probe_death_of_wells_fargo_employee/)
+- [Town officials shut down a boy&#39;s ice cream stand. Fundraisers and death threats followed](https://www.reddit.com/r/news/comments/1f47208/town_officials_shut_down_a_boys_ice_cream_stand/)
+- [Texas megachurch faces exodus of worshippers after a sex abuse scandal set off a summer of turmoil](https://www.reddit.com/r/news/comments/1f46lqq/texas_megachurch_faces_exodus_of_worshippers/)
+- [Justice Department watchdog finds flaws in FBI’s reporting of sex crimes against children](https://www.reddit.com/r/news/comments/1f455ni/justice_department_watchdog_finds_flaws_in_fbis/)
+- [Brazil top court threatens to suspend X operations in latest twist of ongoing feud](https://www.reddit.com/r/news/comments/1f44hm3/brazil_top_court_threatens_to_suspend_x/)
 <!-- REDDIT:END -->
 
 
