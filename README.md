@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [NASA Astronaut Jonny Kim, assigned to First ISS Mission](https://www.reddit.com/r/news/comments/1f3ox9h/nasa_astronaut_jonny_kim_assigned_to_first_iss/)
+- [Telegram CEO Pavel Durov charged by French prosecutors](https://www.reddit.com/r/news/comments/1f3o2r0/telegram_ceo_pavel_durov_charged_by_french/)
+- [At least 7 American football players in middle and high school have died in August](https://www.reddit.com/r/news/comments/1f3nxil/at_least_7_american_football_players_in_middle/)
+- [Former Massachusetts detective indicted on federal charges he killed a young woman who claimed he fathered her unborn child](https://www.reddit.com/r/news/comments/1f3n20d/former_massachusetts_detective_indicted_on/)
+- [Bugs, mold and mildew found in Boar&#39;s Head plant linked to deadly listeria outbreak](https://www.reddit.com/r/news/comments/1f3mhfa/bugs_mold_and_mildew_found_in_boars_head_plant/)
 <!-- REDDIT:END -->
 
 
