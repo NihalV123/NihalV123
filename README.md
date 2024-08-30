@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Electric chair tested and firing squad prepared, South Carolina prison director says](https://www.reddit.com/r/news/comments/1f4i287/electric_chair_tested_and_firing_squad_prepared/)
+- [Florida executes man convicted of killing college student, raping victim’s sister in national forest](https://www.reddit.com/r/news/comments/1f4hswv/florida_executes_man_convicted_of_killing_college/)
+- [Boar&#39;s Head plant linked to deadly outbreak broke food safety rules dozens of times, records show](https://www.reddit.com/r/news/comments/1f4f11k/boars_head_plant_linked_to_deadly_outbreak_broke/)
+- [Racist signs targeting migrants, Kamala Harris posted at Denver bus stops](https://www.reddit.com/r/news/comments/1f4e3xa/racist_signs_targeting_migrants_kamala_harris/)
+- [Afghanistan after 3 years of Taliban rule: Women silenced and oppressed as ISIS and al Qaeda regroup](https://www.reddit.com/r/news/comments/1f4dw66/afghanistan_after_3_years_of_taliban_rule_women/)
 <!-- REDDIT:END -->
 
 
