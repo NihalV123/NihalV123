@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Teams across the US hold moments of silence as sports community mourns NHL star Johnny Gaudreau and his brother](https://www.reddit.com/r/news/comments/1f5lkji/teams_across_the_us_hold_moments_of_silence_as/)
+- [Man arrested in Colorado dog breeder&#39;s killing, but the puppies are still missing](https://www.reddit.com/r/news/comments/1f5dlp7/man_arrested_in_colorado_dog_breeders_killing_but/)
+- [Ex-election workers want Rudy Giuliani’s apartment, Yankees rings in push to collect $148M judgment](https://www.reddit.com/r/news/comments/1f59yed/exelection_workers_want_rudy_giulianis_apartment/)
+- [No criminal charges for driver in school bus crash that killed 6-year-old, mother](https://www.reddit.com/r/news/comments/1f564b1/no_criminal_charges_for_driver_in_school_bus/)
+- [Tennessee high school cross country star, 15, collapses and dies while on run, officials say](https://www.reddit.com/r/news/comments/1f55m8c/tennessee_high_school_cross_country_star_15/)
 <!-- REDDIT:END -->
 
 
