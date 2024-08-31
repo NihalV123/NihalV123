@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [One person arrested after Jewish students were attacked with a bottle at University of Pittsburgh](https://www.reddit.com/r/news/comments/1f5r2av/one_person_arrested_after_jewish_students_were/)
+- [One man dead, others burned after neighborhood campfire explodes](https://www.reddit.com/r/news/comments/1f5qfej/one_man_dead_others_burned_after_neighborhood/)
+- [Police in a suburban New York county have made their first arrest under a new law banning face masks](https://www.reddit.com/r/news/comments/1f5maik/police_in_a_suburban_new_york_county_have_made/)
+- [Teams across the US hold moments of silence as sports community mourns NHL star Johnny Gaudreau and his brother](https://www.reddit.com/r/news/comments/1f5lkji/teams_across_the_us_hold_moments_of_silence_as/)
+- [Man arrested in Colorado dog breeder&#39;s killing, but the puppies are still missing](https://www.reddit.com/r/news/comments/1f5dlp7/man_arrested_in_colorado_dog_breeders_killing_but/)
 <!-- REDDIT:END -->
 
 
