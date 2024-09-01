@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Small-town firefighters sawed through the Arizona border wall to rescue an injured man who waited 24 hours for help](https://www.reddit.com/r/news/comments/1f611yp/smalltown_firefighters_sawed_through_the_arizona/)
+- [Israeli military says it has located several bodies in Gaza](https://www.reddit.com/r/news/comments/1f60xt0/israeli_military_says_it_has_located_several/)
+- [Ohio regulators: Marijuana sellers can&#39;t give out food from ice cream truck](https://www.reddit.com/r/news/comments/1f60lt9/ohio_regulators_marijuana_sellers_cant_give_out/)
+- [Florida teacher arrested, accused of using legs to put 3-year-old in headlock during storytime](https://www.reddit.com/r/news/comments/1f60h4o/florida_teacher_arrested_accused_of_using_legs_to/)
+- [Mississippi bus crash kills 7 people and injures 37](https://www.reddit.com/r/news/comments/1f5zwwk/mississippi_bus_crash_kills_7_people_and_injures/)
 <!-- REDDIT:END -->
 
 
