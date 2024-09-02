@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [A man accused of killing his girlfriend and leaving her body at Boston’s airport has been extradited to the US](https://www.reddit.com/r/news/comments/1f7bjfa/a_man_accused_of_killing_his_girlfriend_and/)
+- [Lonely dolphin may be behind series of attacks on swimmers in Japan](https://www.reddit.com/r/news/comments/1f7atbr/lonely_dolphin_may_be_behind_series_of_attacks_on/)
+- [Exclusive: US seizes Venezuela President Nicolas Maduro’s airplane in the Dominican Republic, flies it to Florida](https://www.reddit.com/r/news/comments/1f7ajr9/exclusive_us_seizes_venezuela_president_nicolas/)
+- [Man accused of enlisting strangers to rape drugged wife goes on trial in France](https://www.reddit.com/r/news/comments/1f79t9n/man_accused_of_enlisting_strangers_to_rape/)
+- [AfD becomes first far-right party to win German state election since 1945 | CNN](https://www.reddit.com/r/news/comments/1f78sql/afd_becomes_first_farright_party_to_win_german/)
 <!-- REDDIT:END -->
 
 
