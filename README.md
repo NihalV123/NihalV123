@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [ESPN, ABC and other Disney channels dropped from DirecTV in contract dispute](https://www.reddit.com/r/news/comments/1f6tuus/espn_abc_and_other_disney_channels_dropped_from/)
+- [Disney pulls ABC, ESPN and other channels from DirecTV in carriage standoff | CNN Business](https://www.reddit.com/r/news/comments/1f6tumc/disney_pulls_abc_espn_and_other_channels_from/)
+- [Large-scale polio vaccinations begin in war-ravaged Gaza after first case in 25 years](https://www.reddit.com/r/news/comments/1f6ttv2/largescale_polio_vaccinations_begin_in_warravaged/)
+- [The largest dam removal project in the US is completed – a major win for Indigenous tribes](https://www.reddit.com/r/news/comments/1f6t7ux/the_largest_dam_removal_project_in_the_us_is/)
+- [Hvaldimir, a Celebrated ‘Spy’ Whale, Is Found Dead in Norway](https://www.reddit.com/r/news/comments/1f6svry/hvaldimir_a_celebrated_spy_whale_is_found_dead_in/)
 <!-- REDDIT:END -->
 
 
