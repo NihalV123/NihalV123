@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Dozens killed in Russian strike on military educational facility in central Ukraine - Canuro](https://www.reddit.com/r/news/comments/1f85epp/dozens_killed_in_russian_strike_on_military/)
+- [Namibia plans to kill more than 700 animals including elephants and hippos and distribute the meat amid drought, widespread hunger](https://www.reddit.com/r/news/comments/1f85bxv/namibia_plans_to_kill_more_than_700_animals/)
+- [South Korea faces deepfake porn &#39;emergency&#39;](https://www.reddit.com/r/news/comments/1f850a2/south_korea_faces_deepfake_porn_emergency/)
+- [Former aide to New York governor charged with acting as an agent of the Chinese government](https://www.reddit.com/r/news/comments/1f84erl/former_aide_to_new_york_governor_charged_with/)
+- [Two rescued from stricken yacht in &#39;terrible&#39; conditions off the Australian coast](https://www.reddit.com/r/news/comments/1f82s7w/two_rescued_from_stricken_yacht_in_terrible/)
 <!-- REDDIT:END -->
 
 
