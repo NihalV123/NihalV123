@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [Russian missiles blast Ukrainian military academy and hospital, killing more than 50, officials say](https://www.reddit.com/r/news/comments/1f8fblj/russian_missiles_blast_ukrainian_military_academy/)
+- [A family says a relative&#39;s body was found in the closet of a Florida nursing home](https://www.reddit.com/r/news/comments/1f8f562/a_family_says_a_relatives_body_was_found_in_the/)
+- [&#39;1,000-lb Sisters&#39; star arrested at Tennessee zoo on drug possession, child endangerment charges](https://www.reddit.com/r/news/comments/1f8e22i/1000lb_sisters_star_arrested_at_tennessee_zoo_on/)
+- [Maduro decrees Christmas will start in October as Venezuela cracks down on dissent](https://www.reddit.com/r/news/comments/1f8d4hz/maduro_decrees_christmas_will_start_in_october_as/)
+- [US charges Hamas leader, other militants in connection with Oct. 7 massacre in Israel](https://www.reddit.com/r/news/comments/1f8bhyn/us_charges_hamas_leader_other_militants_in/)
 <!-- REDDIT:END -->
 
 
