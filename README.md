@@ -346,11 +346,11 @@ Top 4 most used languages across your repositories:
 ### REDDIT
 
 <!-- REDDIT:START -->
-- [New York City to try responding to mental health calls without police](https://www.reddit.com/r/news/comments/jrvdbt/new_york_city_to_try_responding_to_mental_health/)
-- [Fauci says he will take new Pfizer vaccine if FDA approves it](https://www.reddit.com/r/news/comments/jrudmg/fauci_says_he_will_take_new_pfizer_vaccine_if_fda/)
-- [Miss USA 2020 is the first Black woman to represent Mississippi](https://www.reddit.com/r/news/comments/jrsi5p/miss_usa_2020_is_the_first_black_woman_to/)
-- [Fairfax County Courthouse Removes Confederate Monuments](https://www.reddit.com/r/news/comments/jrs1ik/fairfax_county_courthouse_removes_confederate/)
-- [US-Mexico border: Bid to reunite migrant families finds 121 more separated children](https://www.reddit.com/r/news/comments/jrrm43/usmexico_border_bid_to_reunite_migrant_families/)
+- [U.S. Steel Warns of Plant Closings if Sale Collapses](https://www.reddit.com/r/news/comments/1f8pw1e/us_steel_warns_of_plant_closings_if_sale_collapses/)
+- [Man charged with murder in connection with the deaths of a California couple at a nudist resort](https://www.reddit.com/r/news/comments/1f8hlba/man_charged_with_murder_in_connection_with_the/)
+- [UN details Nicaragua government&#39;s intensifying violent crackdown on rights](https://www.reddit.com/r/news/comments/1f8gr1u/un_details_nicaragua_governments_intensifying/)
+- [Russian missiles blast Ukrainian military academy and hospital, killing more than 50, officials say](https://www.reddit.com/r/news/comments/1f8fblj/russian_missiles_blast_ukrainian_military_academy/)
+- [A family says a relative&#39;s body was found in the closet of a Florida nursing home](https://www.reddit.com/r/news/comments/1f8f562/a_family_says_a_relatives_body_was_found_in_the/)
 <!-- REDDIT:END -->
 
 
